@@ -1,0 +1,184 @@
+[
+  {
+    "slug": "google-gemini-ai-strategy",
+    "title": "Google's Gemini Gap",
+    "summary": "Google releases new Gemini models, but a key version is still missing",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/google-gemini-ai-strategy.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/google-gemini-ai-strategy.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 530,
+    "tags": [
+      "Google",
+      "Gemini",
+      "AI"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-21T23:39:42.219Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "us-threatens-china-ai-sanctions",
+    "title": "US Threatens China",
+    "summary": "The US may sanction Chinese AI models over alleged IP theft, escalating the trade war",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/us-threatens-china-ai-sanctions.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/us-threatens-china-ai-sanctions.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 546,
+    "tags": [
+      "AI",
+      "China",
+      "US"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-21T23:39:42.219Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-music-deezer",
+    "title": "AI Music Takes Over",
+    "summary": "Deezer reveals over 50% of daily uploads are AI-generated tracks",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-music-deezer.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-music-deezer.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 488,
+    "tags": [
+      "AI",
+      "Music",
+      "Deezer"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-21T23:39:42.219Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-takes-construction",
+    "title": "AI Takes Construction",
+    "summary": "OpenTakeoff brings AI to construction takeoff, and it's open-source",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-takes-construction.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-takes-construction.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 454,
+    "tags": [
+      "AI",
+      "construction",
+      "open-source"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-21T23:39:42.219Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "gemini-3-6-arrives",
+    "title": "Gemini 3.6 Unleashed",
+    "summary": "DeepMind's latest Gemini models are here, promising faster and more efficient AI performance",
+    "category": "LLM",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/gemini-3-6-arrives.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/gemini-3-6-arrives.html",
+    "sourceName": "DeepMind Blog",
+    "wordCount": 454,
+    "tags": [
+      "Gemini",
+      "DeepMind",
+      "AI models"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-21T23:39:42.219Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-security-incident",
+    "title": "AI Security Alert",
+    "summary": "OpenAI and Hugging Face reveal a security incident during AI model evaluation, sharing key lessons for defenders",
+    "category": "LLM",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-security-incident.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-security-incident.html",
+    "sourceName": "OpenAI Blog",
+    "wordCount": 572,
+    "tags": [
+      "AI Security",
+      "OpenAI",
+      "Hugging Face"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-21T23:39:42.219Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-simulations-state",
+    "title": "AI Simulations",
+    "summary": "Simulations just got a whole lot smarter with AI",
+    "category": "ML",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-simulations-state.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-simulations-state.html",
+    "sourceName": "Hugging Face Blog",
+    "wordCount": 417,
+    "tags": [
+      "ai",
+      "ml",
+      "simulations"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-21T23:39:42.219Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-copyright-settlement",
+    "title": "AI Copyright Clash",
+    "summary": "A $1.5B settlement doesn't fix AI's copyright problem",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-copyright-settlement.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-copyright-settlement.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 597,
+    "tags": [
+      "AI",
+      "copyright",
+      "tech news"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-21T23:39:42.219Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-protocol-just-got-easier",
+    "title": "3 Reasons AI Just Got Easier",
+    "summary": "AI's most important protocol is now more accessible, and here's what you need to know",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-protocol-just-got-easier.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-protocol-just-got-easier.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 622,
+    "tags": [
+      "AI",
+      "protocol",
+      "stateless",
+      "session IDs",
+      "machine learning"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-21T23:39:42.219Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  }
+]
