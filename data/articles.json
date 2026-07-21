@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Google's Gemini Gap",
+    "slug": "google-gemini-ai-strategy",
+    "dek": "Google releases new Gemini models, but a key version is still missing",
+    "metaTitle": "Google Gemini AI Update",
+    "metaDesc": "Google's latest Gemini models raise questions about its AI strategy",
+    "tags": [
+      "Google",
+      "Gemini",
+      "AI"
+    ],
+    "category": "news",
+    "body": "<h2>Google's Gemini Expansion</h2><p>Google just dropped three new Gemini models: the 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber. You'd think this would be a straightforward expansion of their AI offerings, but it's actually raising more questions than answers.</p><h3>The Missing Piece</h3><p>The main question on everyone's mind is: what about the Gemini 3.5 Pro? It's the version that was expected to be the real powerhouse, but it's nowhere to be found. This isn't the first time Google has skipped a beat with its Gemini releases, and it's starting to look like a pattern.</p>\n<div style=\"margin:24px 0;padding:16px;background:#f6f2e7;border:1px solid #c9bfa4;border-radius:4px;\">\n        <p style=\"margin:0 0 10px;font-size:13px;color:#5b6a5f;font-family:'JetBrains Mono',monospace;letter-spacing:.04em;\">\n          TOOLS MENTIONED\n        </p>\n        \n    <a href=\"https://gemini.google.com/?ref=signal\" target=\"_blank\" rel=\"noopener sponsored\"\n       style=\"display:inline-block;background:#1c2b25;color:#efe9dc;\n              padding:10px 20px;margin:4px 8px 4px 0;border-radius:3px;\n              text-decoration:none;font-family:'JetBrains Mono',monospace;\n              font-size:13px;letter-spacing:.04em;\">\n      Try Gemini →\n    </a>\n  \n      </div></p><p>So, what does this mean for Google's overall AI strategy? Are they shifting focus away from the Pro line, or is this just a temporary detour? The company hasn't given any clear answers, leaving us to speculate about their plans.</p><h3>What We Do Know</h3><p>The new models do bring some impressive specs to the table. The 3.6 Flash, for example, boasts improved performance and efficiency. The 3.5 Flash-Lite is a more budget-friendly option that still packs a punch. And the Flash Cyber... well, that one's a bit of an enigma, but it's clear Google is experimenting with new approaches to AI.</p><h3>What it means for you</h3><p>If you're waiting for the Gemini 3.5 Pro, you'll just have to keep waiting. But if you're in the market for a new AI tool, the latest Gemini models are definitely worth a look. Just don't expect a clear answer about what's coming next – at least, not yet.</p><p>As Google continues to evolve its AI offerings, one thing is certain: the company is pushing the boundaries of what's possible with artificial intelligence. And we'll be keeping a close eye on what's next, because in the world of AI, you can't afford to stand still for a moment.",
+    "imagePrompt": "An illustration of a puzzle with a missing piece, surrounded by gears and circuits, with a subtle Google logo in the background",
+    "sourceUrl": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+    "sourceName": "TechCrunch AI",
+    "signalCategory": "news",
+    "generated": "2026-07-21T17:41:43.196Z",
+    "status": "draft",
+    "wordCount": 294,
+    "image": "/images/google-gemini-ai-strategy.jpg",
+    "affiliates": [
+      "gemini"
+    ],
+    "qualityIssues": [
+      "Word count 294 < minimum 400"
+    ]
+  },
+  {
+    "title": "US Threatens China",
+    "slug": "us-threatens-china-ai-sanctions",
+    "dek": "The US may sanction Chinese AI models over alleged IP theft, escalating the trade war",
+    "metaTitle": "US vs China AI",
+    "metaDesc": "US threatens sanctions on Chinese AI models over IP theft allegations",
+    "tags": [
+      "AI",
+      "China",
+      "US"
+    ],
+    "category": "news",
+    "body": "<h2>US Takes Aim at China's AI Advances</h2><p>The US government is considering sanctions against Chinese AI models, citing allegations of intellectual property theft. This move is the latest in the Trump administration's efforts to slow China's rapid progress in the field of artificial intelligence.</p><h3>What's at Stake</h3><p>The US Treasury Secretary, Scott Bessent, has warned that the US could impose sanctions on Chinese open AI models if the IP theft allegations are substantiated. This would mark a significant escalation in the ongoing trade war between the two nations.</p><p>The US is concerned that China's AI advances are being fueled by stolen American technology and intellectual property. By targeting Chinese AI models, the US hopes to level the playing field and protect American businesses and innovators.</p><h3>China's AI Ambitions</h3><p>China has made no secret of its ambitions to become a global leader in AI. The country has invested heavily in AI research and development, and its tech companies are making rapid strides in areas like machine learning and natural language processing.</p><p>However, the US and other Western countries have long suspected that China's AI advances are being driven, at least in part, by stolen IP. The US government has been quietly investigating these allegations, and the threat of sanctions suggests that it's getting serious about taking action.</p><h2>What it means for you</h2><p>If the US follows through on its threat, it could have significant implications for the global AI industry. Sanctions on Chinese AI models could limit their availability and make it harder for companies to collaborate with Chinese researchers and developers.</p><p>On the other hand, if the US is successful in curbing China's IP theft, it could help to protect American innovators and ensure that the global AI industry is built on a foundation of fair competition and respect for intellectual property.</p><h3>A Looming Showdown</h3><p>The US-China AI showdown is just the latest front in the ongoing trade war between the two nations. As the situation continues to unfold, one thing is clear: the future of the global AI industry will be shaped by the outcome of this high-stakes confrontation.</p>",
+    "imagePrompt": "Illustration of a robot with a US and China flag in the background, with a magnifying glass hovering over a circuit board, symbolizing the IP theft allegations and the US-China trade war",
+    "sourceUrl": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+    "sourceName": "TechCrunch AI",
+    "signalCategory": "news",
+    "generated": "2026-07-21T17:42:28.388Z",
+    "status": "published",
+    "wordCount": 338,
+    "image": "/images/us-threatens-china-ai-sanctions.jpg"
+  },
+  {
+    "title": "AI Music Takes Over",
+    "slug": "ai-music-deezer",
+    "dek": "Deezer reveals over 50% of daily uploads are AI-generated tracks",
+    "metaTitle": "AI Music On Deezer",
+    "metaDesc": "Deezer says most daily uploads are AI-generated",
+    "tags": [
+      "AI",
+      "Music",
+      "Deezer"
+    ],
+    "category": "news",
+    "body": "<h2>AI-Generated Music On The Rise</h2><p>Music streaming platform Deezer has announced that more than 50% of its daily uploads are AI-generated tracks. This staggering statistic comes after the platform reported over 90,000 AI-generated tracks were uploaded daily in June.</p><h3>What's Behind The Surge?</h3><p>The rise of AI-generated music can be attributed to the increasing accessibility of music creation tools. With the help of AI, artists can now produce high-quality tracks without extensive musical knowledge or training. This has democratized music creation, allowing more people to produce and upload their music.</p><p>Deezer's findings also suggest that AI-generated music is becoming increasingly popular among listeners. The platform's users are embracing the unique sounds and styles that AI-generated music has to offer.</p><h3>Quality And Authenticity</h3><p>However, the surge in AI-generated music raises questions about the quality and authenticity of the tracks. While AI can produce music that sounds polished and professional, it often lacks the emotional depth and human touch that traditional music provides.</p><h3>What it means for you</h3><p>If you're a music lover, you'll likely encounter more AI-generated tracks on Deezer and other streaming platforms. This could lead to a more diverse and experimental music landscape, but it also means you may need to dig deeper to find music that resonates with you on a personal level.</p><h2>The Future Of Music</h2><p>As AI-generated music continues to grow in popularity, it will be interesting to see how the music industry adapts. Will AI-generated music become the new norm, or will listeners ultimately crave the unique qualities of human-created music? Only time will tell, but one thing is certain: the music landscape is changing, and AI is at the forefront of this revolution.</p>",
+    "imagePrompt": "An illustration of a person sitting in front of a computer with a music interface open, surrounded by sound waves and music notes, with a subtle robot or AI element in the background, conveying the idea of human and AI collaboration in music creation.",
+    "sourceUrl": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+    "sourceName": "TechCrunch AI",
+    "signalCategory": "news",
+    "generated": "2026-07-21T17:42:34.318Z",
+    "status": "published",
+    "wordCount": 269,
+    "image": "/images/ai-music-deezer.jpg"
+  }
+]

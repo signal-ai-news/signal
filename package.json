@@ -1,0 +1,15 @@
+{
+  "name": "signal-ai-news",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "pipeline": "node scripts/orchestrator.mjs",
+    "hunt": "node scripts/hunter.mjs",
+    "build": "node scripts/builder.mjs"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "xml2js": "^0.6.2"
+  }
+}

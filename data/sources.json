@@ -1,0 +1,86 @@
+[
+  {
+    "name": "OpenAI Blog",
+    "type": "rss",
+    "url": "https://openai.com/blog/rss.xml",
+    "category": "llm"
+  },
+  {
+    "name": "Anthropic News",
+    "type": "rss",
+    "url": "https://www.anthropic.com/rss.xml",
+    "category": "llm"
+  },
+  {
+    "name": "Google AI Blog",
+    "type": "rss",
+    "url": "https://blog.google/technology/ai/rss/",
+    "category": "llm"
+  },
+  {
+    "name": "Hugging Face Blog",
+    "type": "rss",
+    "url": "https://huggingface.co/blog/feed.xml",
+    "category": "ml"
+  },
+  {
+    "name": "The Verge AI",
+    "type": "rss",
+    "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+    "category": "news"
+  },
+  {
+    "name": "TechCrunch AI",
+    "type": "rss",
+    "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "category": "news"
+  },
+  {
+    "name": "Ars Technica AI",
+    "type": "rss",
+    "url": "https://feeds.arstechnica.com/arstechnica/technology-lab",
+    "category": "news"
+  },
+  {
+    "name": "MIT Tech Review AI",
+    "type": "rss",
+    "url": "https://www.technologyreview.com/feed/",
+    "category": "news"
+  },
+  {
+    "name": "VentureBeat AI",
+    "type": "rss",
+    "url": "https://venturebeat.com/category/ai/feed/",
+    "category": "news"
+  },
+  {
+    "name": "Runway Blog",
+    "type": "rss",
+    "url": "https://runwayml.com/blog/rss.xml",
+    "category": "video"
+  },
+  {
+    "name": "ElevenLabs Blog",
+    "type": "rss",
+    "url": "https://elevenlabs.io/blog/rss.xml",
+    "category": "audio"
+  },
+  {
+    "name": "Replicate Blog",
+    "type": "rss",
+    "url": "https://replicate.com/blog/rss.xml",
+    "category": "infra"
+  },
+  {
+    "name": "Product Hunt (AI)",
+    "type": "rss",
+    "url": "https://www.producthunt.com/feed",
+    "category": "tools"
+  },
+  {
+    "name": "Hacker News (AI)",
+    "type": "rss",
+    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude+OR+Gemini&count=20",
+    "category": "community"
+  }
+]

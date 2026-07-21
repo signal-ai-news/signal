@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://signal-ai-news.vercel.app/sitemap.xml
+
+User-agent: GPTBot
+Disallow: /

@@ -1,0 +1,58 @@
+name: SIGNAL Pipeline
+
+on:
+  schedule:
+    # Run every 30 minutes from 6am to midnight UTC
+    - cron: '*/30 6-23 * * *'
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Max articles to generate'
+        default: '3'
+        required: false
+
+permissions:
+  contents: write
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_USER_ID: ${{ secrets.TG_USER_ID }}
+        run: node scripts/orchestrator.mjs --limit ${{ github.event.inputs.limit || '3' }}
+
+      - name: Commit and push
+        run: |
+          git config user.name "SIGNAL Bot"
+          git config user.email "bot@signal-ai.news"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "SIGNAL auto: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
+
+      - name: Deploy to Vercel
+        if: success()
+        run: |
+          # Vercel auto-deploys on push to main
+          echo "Pushed to main — Vercel will auto-deploy"
