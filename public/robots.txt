@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
-Sitemap: https://signal-nnt4.vercel.app/sitemap.xml
-Sitemap: https://signal-nnt4.vercel.app/feed.xml
+Sitemap: https://signal-ai-news-signal.vercel.app/sitemap.xml
+Sitemap: https://signal-ai-news-signal.vercel.app/feed.xml
 
 User-agent: GPTBot
 Disallow: /
