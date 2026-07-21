@@ -1,0 +1,52 @@
+name: Video Pipeline
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Max videos to generate'
+        default: '2'
+        required: false
+permissions:
+  contents: write
+jobs:
+  video:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: |
+          npm ci
+          pip install edge-tts
+          npx playwright install chromium
+      - name: Git identity
+        run: |
+          git config user.name "SIGNAL Bot"
+          git config user.email "bot@signal-ai.news"
+      - name: Run video pipeline
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_USER_ID: ${{ secrets.TG_USER_ID }}
+        run: node scripts/video-pipeline.mjs --limit ${{ github.event.inputs.limit || '2' }}
+      - name: Commit and push
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Video: auto-generated $(date -u +%Y-%m-%d)"
+            git push
+          fi

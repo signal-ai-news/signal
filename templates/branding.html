@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap');
+
+:root {
+  --paper: #efe9dc;
+  --ink: #1c2b25;
+  --signal: #b8481e;
+  --signal-dim: #d98f6c;
+  --live: #2f6b4f;
+  --card: #f6f2e7;
+  --rule: #c9bfa4;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+/* ========== YOUTUBE PROFILE (800x800) ========== */
+.youtube-profile {
+  width: 800px; height: 800px;
+  background: var(--paper);
+  display: flex; align-items: center; justify-content: center;
+  font-family: 'Fraunces', serif;
+  position: relative;
+  overflow: hidden;
+}
+.youtube-profile::before {
+  content: '';
+  position: absolute;
+  top: -100px; right: -100px;
+  width: 400px; height: 400px;
+  background: var(--signal);
+  opacity: 0.08;
+  border-radius: 50%;
+}
+.youtube-profile::after {
+  content: '';
+  position: absolute;
+  bottom: -80px; left: -80px;
+  width: 300px; height: 300px;
+  background: var(--live);
+  opacity: 0.06;
+  border-radius: 50%;
+}
+.youtube-profile .logo {
+  text-align: center;
+  z-index: 1;
+}
+.youtube-profile .logo .wordmark {
+  font-size: 120px;
+  font-weight: 700;
+  color: var(--ink);
+  letter-spacing: -2px;
+}
+.youtube-profile .logo .wordmark span {
+  color: var(--signal);
+}
+.youtube-profile .logo .dot {
+  display: inline-block;
+  width: 24px; height: 24px;
+  background: var(--signal);
+  border-radius: 50%;
+  margin-left: 4px;
+  vertical-align: baseline;
+  position: relative;
+  bottom: -8px;
+}
+.youtube-profile .logo .tagline {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 18px;
+  color: var(--ink);
+  opacity: 0.5;
+  letter-spacing: 4px;
+  margin-top: 16px;
+}
+.youtube-profile .grid-lines {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  opacity: 0.04;
+}
+.youtube-profile .grid-lines div {
+  position: absolute;
+  background: var(--ink);
+}
+.youtube-profile .grid-lines .h1 { top: 25%; left: 0; right: 0; height: 1px; }
+.youtube-profile .grid-lines .h2 { top: 75%; left: 0; right: 0; height: 1px; }
+.youtube-profile .grid-lines .v1 { left: 25%; top: 0; bottom: 0; width: 1px; }
+.youtube-profile .grid-lines .v2 { left: 75%; top: 0; bottom: 0; width: 1px; }
+
+/* ========== YOUTUBE BANNER (2560x1440) ========== */
+.youtube-banner {
+  width: 2560px; height: 1440px;
+  background: var(--paper);
+  display: flex; align-items: center; justify-content: center;
+  position: relative;
+  overflow: hidden;
+}
+.youtube-banner .bg-pattern {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background-image:
+    radial-gradient(circle at 20% 30%, var(--signal) 0%, transparent 50%),
+    radial-gradient(circle at 80% 70%, var(--live) 0%, transparent 40%);
+  opacity: 0.06;
+}
+.youtube-banner .ticker {
+  position: absolute;
+  top: 80px; left: 0; right: 0;
+  background: var(--ink);
+  color: var(--paper);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 28px;
+  padding: 18px 0;
+  letter-spacing: 2px;
+  text-align: center;
+}
+.youtube-banner .ticker span { color: var(--signal-dim); margin: 0 20px; }
+.youtube-banner .center {
+  text-align: center;
+  z-index: 1;
+}
+.youtube-banner .center .wordmark {
+  font-family: 'Fraunces', serif;
+  font-size: 200px;
+  font-weight: 700;
+  color: var(--ink);
+  letter-spacing: -4px;
+}
+.youtube-banner .center .wordmark span { color: var(--signal); }
+.youtube-banner .center .tagline {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 32px;
+  color: var(--ink);
+  opacity: 0.5;
+  letter-spacing: 8px;
+  margin-top: 24px;
+}
+.youtube-banner .center .url {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 24px;
+  color: var(--signal);
+  margin-top: 32px;
+  letter-spacing: 2px;
+}
+.youtube-banner .safe-zone {
+  position: absolute;
+  top: 420px; left: 620px; right: 620px; bottom: 420px;
+  border: 2px dashed rgba(0,0,0,0.05);
+}
+.youtube-banner .bottom-bar {
+  position: absolute;
+  bottom: 0; left: 0; right: 0;
+  height: 8px;
+  background: linear-gradient(90deg, var(--signal), var(--live));
+}
+
+/* ========== TWITTER PROFILE (400x400) ========== */
+.twitter-profile {
+  width: 400px; height: 400px;
+  background: var(--ink);
+  display: flex; align-items: center; justify-content: center;
+  border-radius: 50%;
+  overflow: hidden;
+  position: relative;
+}
+.twitter-profile .logo {
+  text-align: center;
+}
+.twitter-profile .logo .wordmark {
+  font-family: 'Fraunces', serif;
+  font-size: 80px;
+  font-weight: 700;
+  color: var(--paper);
+}
+.twitter-profile .logo .wordmark span { color: var(--signal-dim); }
+
+/* ========== TWITTER HEADER (1500x500) ========== */
+.twitter-header {
+  width: 1500px; height: 500px;
+  background: var(--paper);
+  display: flex; align-items: center; justify-content: center;
+  position: relative;
+  overflow: hidden;
+}
+.twitter-header .accent {
+  position: absolute;
+  top: -60px; right: -60px;
+  width: 300px; height: 300px;
+  background: var(--signal);
+  opacity: 0.1;
+  border-radius: 50%;
+}
+.twitter-header .accent2 {
+  position: absolute;
+  bottom: -40px; left: 100px;
+  width: 200px; height: 200px;
+  background: var(--live);
+  opacity: 0.08;
+  border-radius: 50%;
+}
+.twitter-header .center {
+  text-align: center;
+  z-index: 1;
+}
+.twitter-header .center .wordmark {
+  font-family: 'Fraunces', serif;
+  font-size: 100px;
+  font-weight: 700;
+  color: var(--ink);
+}
+.twitter-header .center .wordmark span { color: var(--signal); }
+.twitter-header .center .tagline {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 18px;
+  color: var(--ink);
+  opacity: 0.5;
+  letter-spacing: 4px;
+  margin-top: 12px;
+}
+.twitter-header .ticker-bar {
+  position: absolute;
+  bottom: 0; left: 0; right: 0;
+  background: var(--ink);
+  color: var(--paper);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 14px;
+  padding: 10px 0;
+  text-align: center;
+  letter-spacing: 2px;
+}
+.twitter-header .ticker-bar span { color: var(--signal-dim); margin: 0 12px; }
+
+/* ========== TELEGRAM PROFILE (512x512) ========== */
+.telegram-profile {
+  width: 512px; height: 512px;
+  background: var(--signal);
+  display: flex; align-items: center; justify-content: center;
+  border-radius: 50%;
+  overflow: hidden;
+  position: relative;
+}
+.telegram-profile .logo {
+  text-align: center;
+}
+.telegram-profile .logo .letter {
+  font-family: 'Fraunces', serif;
+  font-size: 240px;
+  font-weight: 700;
+  color: var(--paper);
+  line-height: 1;
+}
+.telegram-profile .logo .sub {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 28px;
+  color: rgba(255,255,255,0.7);
+  letter-spacing: 6px;
+  margin-top: -10px;
+}
+
+/* ========== TELEGRAM CHANNEL COVER (1280x640) ========== */
+.telegram-cover {
+  width: 1280px; height: 640px;
+  background: var(--paper);
+  display: flex; align-items: center; justify-content: center;
+  position: relative;
+  overflow: hidden;
+}
+.telegram-cover .bg {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: linear-gradient(135deg, var(--paper) 0%, var(--card) 100%);
+}
+.telegram-cover .decoration {
+  position: absolute;
+  top: -80px; right: -80px;
+  width: 350px; height: 350px;
+  border: 3px solid var(--signal);
+  opacity: 0.1;
+  border-radius: 50%;
+}
+.telegram-cover .center {
+  text-align: center;
+  z-index: 1;
+}
+.telegram-cover .center .wordmark {
+  font-family: 'Fraunces', serif;
+  font-size: 110px;
+  font-weight: 700;
+  color: var(--ink);
+}
+.telegram-cover .center .wordmark span { color: var(--signal); }
+.telegram-cover .center .tagline {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 20px;
+  color: var(--ink);
+  opacity: 0.5;
+  letter-spacing: 4px;
+  margin-top: 12px;
+}
+.telegram-cover .center .url {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 16px;
+  color: var(--signal);
+  margin-top: 20px;
+  letter-spacing: 1px;
+}
+.telegram-cover .bottom-line {
+  position: absolute;
+  bottom: 0; left: 0; right: 0;
+  height: 6px;
+  background: linear-gradient(90deg, var(--signal), var(--live));
+}
+
+/* ========== FAVICON (32x32) ========== */
+.favicon {
+  width: 32px; height: 32px;
+  background: var(--signal);
+  display: flex; align-items: center; justify-content: center;
+  border-radius: 4px;
+}
+.favicon .letter {
+  font-family: 'Fraunces', serif;
+  font-size: 22px;
+  font-weight: 700;
+  color: white;
+}
+
+/* ========== OG IMAGE (1200x630) ========== */
+.og-image {
+  width: 1200px; height: 630px;
+  background: var(--paper);
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+.og-image .left {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 60px 50px;
+}
+.og-image .left .wordmark {
+  font-family: 'Fraunces', serif;
+  font-size: 48px;
+  font-weight: 700;
+  color: var(--ink);
+  margin-bottom: 20px;
+}
+.og-image .left .wordmark span { color: var(--signal); }
+.og-image .left .title {
+  font-family: 'Fraunces', serif;
+  font-size: 36px;
+  font-weight: 600;
+  color: var(--ink);
+  line-height: 1.2;
+  margin-bottom: 16px;
+}
+.og-image .left .desc {
+  font-family: 'Inter', sans-serif;
+  font-size: 20px;
+  color: var(--ink);
+  opacity: 0.6;
+  line-height: 1.5;
+}
+.og-image .left .url {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 14px;
+  color: var(--signal);
+  margin-top: 24px;
+}
+.og-image .right {
+  width: 400px;
+  background: var(--ink);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.og-image .right .big-letter {
+  font-family: 'Fraunces', serif;
+  font-size: 200px;
+  font-weight: 700;
+  color: var(--paper);
+  opacity: 0.1;
+}
+.og-image .bottom-bar {
+  position: absolute;
+  bottom: 0; left: 0; right: 0;
+  height: 6px;
+  background: linear-gradient(90deg, var(--signal), var(--live));
+}
+</style>
+</head>
+<body>
+
+<!-- YOUTUBE PROFILE -->
+<div class="youtube-profile" id="youtube-profile">
+  <div class="grid-lines">
+    <div class="h1"></div><div class="h2"></div>
+    <div class="v1"></div><div class="v2"></div>
+  </div>
+  <div class="logo">
+    <div class="wordmark">SIGNAL<span>.</span><span class="dot"></span></div>
+    <div class="tagline">AI TOOLS INTELLIGENCE</div>
+  </div>
+</div>
+
+<!-- YOUTUBE BANNER -->
+<div class="youtube-banner" id="youtube-banner">
+  <div class="bg-pattern"></div>
+  <div class="ticker">NEW: AI Tools Daily <span>//</span> Hunted. Verified. Written. <span>//</span> 22+ Sources Tracked</div>
+  <div class="center">
+    <div class="wordmark">SIGNAL<span>.</span></div>
+    <div class="tagline">AI TOOLS, TRACKED DAILY</div>
+    <div class="url">signal-ai-news-signal.vercel.app</div>
+  </div>
+  <div class="safe-zone"></div>
+  <div class="bottom-bar"></div>
+</div>
+
+<!-- TWITTER PROFILE -->
+<div class="twitter-profile" id="twitter-profile">
+  <div class="logo">
+    <div class="wordmark">S<span>.</span></div>
+  </div>
+</div>
+
+<!-- TWITTER HEADER -->
+<div class="twitter-header" id="twitter-header">
+  <div class="accent"></div>
+  <div class="accent2"></div>
+  <div class="center">
+    <div class="wordmark">SIGNAL<span>.</span></div>
+    <div class="tagline">AI TOOLS, TRACKED DAILY — HUNTED, VERIFIED, WRITTEN</div>
+  </div>
+  <div class="ticker-bar">AI TOOLS TRACKED DAILY <span>//</span> 22+ SOURCES <span>//</span> AUTO-PUBLISHED <span>//</span> signal-ai-news-signal.vercel.app</div>
+</div>
+
+<!-- TELEGRAM PROFILE -->
+<div class="telegram-profile" id="telegram-profile">
+  <div class="logo">
+    <div class="letter">S</div>
+    <div class="sub">SIGNAL</div>
+  </div>
+</div>
+
+<!-- TELEGRAM COVER -->
+<div class="telegram-cover" id="telegram-cover">
+  <div class="bg"></div>
+  <div class="decoration"></div>
+  <div class="center">
+    <div class="wordmark">SIGNAL<span>.</span></div>
+    <div class="tagline">AI TOOLS, TRACKED DAILY</div>
+    <div class="url">signal-ai-news-signal.vercel.app</div>
+  </div>
+  <div class="bottom-line"></div>
+</div>
+
+<!-- FAVICON -->
+<div class="favicon" id="favicon">
+  <div class="letter">S</div>
+</div>
+
+<!-- OG IMAGE -->
+<div class="og-image" id="og-image">
+  <div class="left">
+    <div class="wordmark">SIGNAL<span>.</span></div>
+    <div class="title">AI Tools Intelligence, Tracked Daily</div>
+    <div class="desc">Every article starts as a raw signal from a release note, changelog, or product page — then reviewed before it goes live.</div>
+    <div class="url">signal-ai-news-signal.vercel.app</div>
+  </div>
+  <div class="right">
+    <div class="big-letter">S</div>
+  </div>
+  <div class="bottom-bar"></div>
+</div>
+
+</body>
+</html>

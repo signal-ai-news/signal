@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "node-fetch": "^3.3.2",
+    "playwright": "^1.61.1",
+    "playwright-core": "^1.61.1",
     "xml2js": "^0.6.2"
   }
 }

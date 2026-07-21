@@ -1,0 +1,117 @@
+/**
+ * VIDEO SCRIPT — Generates YouTube Shorts script using Groq/Gemini
+ * Run: node scripts/video-script.mjs
+ */
+import fetch from 'node-fetch';
+import { GROQ_KEY, GEMINI_KEY, USE_MODEL } from './config.mjs';
+
+const SYSTEM_PROMPT = `You are a viral YouTube Shorts scriptwriter for an AI tech channel called "SIGNAL".
+
+Write SHORT, PUNCHY scripts (30-45 seconds spoken, ~100-130 words).
+
+RULES:
+1. Start with a HOOK in the first 3 seconds (question, shocking stat, or bold claim)
+2. Give 3 key points, each in 1-2 sentences
+3. End with a CTA: "Follow SIGNAL for daily AI updates"
+4. Tone: confident, slightly opinionated, like a smart friend explaining tech
+5. NO filler words, NO "in today's video", NO "let's dive in"
+6. Use contractions naturally
+7. Output ONLY valid JSON — no markdown, no code fences.`;
+
+function buildPrompt(videoInput) {
+  return `Write a viral YouTube Shorts script about:
+
+Title: ${videoInput.title}
+Summary: ${videoInput.summary}
+Category: ${videoInput.category}
+Source: ${videoInput.sourceName}
+
+Output JSON with these exact fields:
+{
+  "hook": "opening line that grabs attention (first 3 seconds)",
+  "points": ["point 1 (1-2 sentences)", "point 2 (1-2 sentences)", "point 3 (1-2 sentences)"],
+  "cta": "closing call to action",
+  "full_script": "complete script as natural spoken text, ready for TTS",
+  "on_screen_text": ["text overlay 1 (short, 3-5 words)", "text overlay 2", "text overlay 3", "text overlay 4"],
+  "estimated_seconds": 35
+}`;
+}
+
+async function callGroq(prompt) {
+  const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${GROQ_KEY}`
+    },
+    body: JSON.stringify({
+      model: 'llama-3.3-70b-versatile',
+      messages: [
+        { role: 'system', content: SYSTEM_PROMPT },
+        { role: 'user', content: prompt }
+      ],
+      temperature: 0.8,
+      max_tokens: 1024,
+      response_format: { type: 'json_object' }
+    })
+  });
+  if (!res.ok) throw new Error(`Groq ${res.status}: ${await res.text()}`);
+  const data = await res.json();
+  return JSON.parse(data.choices[0].message.content);
+}
+
+async function callGemini(prompt) {
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${GEMINI_KEY}`;
+  const res = await fetch(url, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      contents: [{ parts: [{ text: prompt }] }],
+      generationConfig: {
+        temperature: 0.8,
+        maxOutputTokens: 1024,
+        responseMimeType: 'application/json'
+      },
+      systemInstruction: { parts: [{ text: SYSTEM_PROMPT }] }
+    })
+  });
+  if (!res.ok) throw new Error(`Gemini ${res.status}: ${await res.text()}`);
+  const data = await res.json();
+  const text = data.candidates?.[0]?.content?.parts?.[0]?.text || '';
+  return JSON.parse(text.replace(/```json\n?|\n?```/g, '').trim());
+}
+
+export async function generateVideoScript(videoInput) {
+  const prompt = buildPrompt(videoInput);
+  console.log(`  ⏳ Generating script: "${videoInput.title.substring(0, 50)}..."`);
+
+  const script = USE_MODEL === 'groq'
+    ? await callGroq(prompt)
+    : await callGemini(prompt);
+
+  // Enrich
+  script.wordCount = script.full_script.split(/\s+/).length;
+  script.estimated_seconds = script.estimated_seconds || Math.round(script.wordCount / 3);
+
+  console.log(`  ✅ Script: ${script.wordCount} words, ~${script.estimated_seconds}s`);
+  return script;
+}
+
+// Run standalone
+if (process.argv[1]?.endsWith('video-script.mjs')) {
+  const testInput = {
+    title: 'OpenAI releases GPT-5 mini',
+    summary: 'A smaller, faster version of GPT-5 for developers with 3x speed improvement.',
+    category: 'LLM',
+    sourceName: 'OpenAI Blog'
+  };
+  generateVideoScript(testInput)
+    .then(s => {
+      console.log('\n📝 Script:');
+      console.log(`  Hook: ${s.hook}`);
+      s.points.forEach((p, i) => console.log(`  Point ${i+1}: ${p}`));
+      console.log(`  CTA: ${s.cta}`);
+      console.log(`\n  Full: ${s.full_script}`);
+    })
+    .catch(console.error);
+}
