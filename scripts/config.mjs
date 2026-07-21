@@ -8,7 +8,7 @@ export const GH_TOKEN     = process.env.GITHUB_TOKEN      || '';
 export const USE_MODEL    = 'groq'; // 'gemini' or 'groq'
 
 export const REPO         = 'signal-ai-news/signal';
-export const SITE_URL     = 'https://signal-ai-news.vercel.app';
+export const SITE_URL     = 'https://signal-nnt4.vercel.app';
 
 // ─── Paths ───
 import { fileURLToPath } from 'url';
