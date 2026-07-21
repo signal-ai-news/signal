@@ -50,6 +50,7 @@ ${JSON.stringify({
   "description": article.metaDesc || article.dek,
   "image": SITE_URL + (article.image || '/images/default.jpg'),
   "datePublished": article.generated || article.published,
+  "dateModified": article.lastRefresh || article.generated || article.published,
   "author": { "@type": "Organization", "name": "SIGNAL" },
   "publisher": { "@type": "Organization", "name": "SIGNAL" },
   "mainEntityOfPage": SITE_URL + '/articles/' + article.slug + '.html'
@@ -99,8 +100,8 @@ ${article.image ? `<img class="article-hero" src="${article.image}" alt="${artic
 ${article.dek ? `<p class="dek">${article.dek}</p>` : ''}
 <div class="meta-line">
 <span>${new Date(article.generated || Date.now()).toLocaleDateString('en-US', { month:'short', day:'numeric', year:'numeric' })}</span>
+${article.lastRefresh ? `<span>Updated: ${new Date(article.lastRefresh).toLocaleDateString('en-US', { month:'short', day:'numeric', year:'numeric' })}</span>` : ''}
 <span>${article.wordCount || '—'} WORDS</span>
-<span>${(article.affiliates || []).length} TOOL LINKS</span>
 <span>${article.sourceName || 'SIGNAL'}</span>
 </div>
 <div class="article-body">

@@ -8,6 +8,7 @@ import { fetchImage } from './imageFetcher.mjs';
 import { matchAffiliates } from './affiliateMatcher.mjs';
 import { checkQuality } from './qualityGate.mjs';
 import { build } from './builder.mjs';
+import { refreshOldArticles } from './refreshArticles.mjs';
 import { notify, buildPublishMessage, buildErrorMessage, buildHuntReport } from './tgNotify.mjs';
 import { readJSON, writeJSON, nowISO } from './utils.mjs';
 import { ARTICLES_FILE, SIGNALS_FILE, GH_TOKEN, REPO } from './config.mjs';
@@ -124,6 +125,17 @@ async function runPipeline() {
     processedUrls.has(s.url) ? { ...s, processed: true, processedAt: nowISO() } : s
   );
   await writeJSON(SIGNALS_FILE, updatedSignals);
+
+  // ─── Step 5.5: REFRESH OLD ARTICLES ───
+  console.log('\n━━━ STEP 5.5: REFRESH OLD ARTICLES ━━━');
+  try {
+    const refreshed = await refreshOldArticles();
+    if (refreshed > 0) {
+      console.log(`  ✅ ${refreshed} article(s) refreshed for SEO`);
+    }
+  } catch (err) {
+    console.error('Refresh failed:', err.message);
+  }
 
   // ─── Step 6: BUILD ───
   console.log('\n━━━ STEP 6: BUILD ━━━');
