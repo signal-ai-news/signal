@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>LLM Articles — SIGNAL</title>
+<meta name="description" content="Latest LLM AI tools news and articles. Stay updated with SIGNAL.">
+<meta property="og:title" content="LLM Articles — SIGNAL">
+<meta property="og:description" content="Latest LLM AI tools news and articles.">
+<link rel="canonical" href="https://signal-nnt4.vercel.app/category/llm.html">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600&display=swap');
+:root{--paper:#efe9dc;--ink:#1c2b25;--ink-soft:#5b6a5f;--rule:#c9bfa4;--signal:#b8481e;--card:#f6f2e7}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--paper);color:var(--ink);font-family:'Inter',sans-serif;-webkit-font-smoothing:antialiased}
+.container{max-width:1080px;margin:0 auto;padding:24px}
+header.site{max-width:1080px;margin:0 auto;padding:36px 24px 22px;display:flex;justify-content:space-between;align-items:flex-end;border-bottom:2px solid var(--ink)}
+.wordmark{font-family:'Fraunces',serif;font-weight:700;font-size:34px}
+.wordmark span{color:var(--signal)}
+nav.top{font-family:'JetBrains Mono',monospace;font-size:12px}
+nav.top a{color:var(--ink);text-decoration:none;margin-left:18px}
+h1{font-family:'Fraunces',serif;font-size:36px;margin:32px 0 20px}
+.feed{display:flex;flex-direction:column}
+.card{display:grid;grid-template-columns:70px 1fr;gap:18px;padding:22px 0;border-top:1px solid var(--rule);text-decoration:none;color:var(--ink)}
+.card:first-child{border-top:2px solid var(--ink)}
+.card:hover{opacity:.85}
+.card .idx{font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--ink-soft);padding-top:4px}
+.card .tag{display:inline-block;font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:.06em;padding:2px 7px;border:1px solid var(--ink);border-radius:2px;margin-bottom:8px;color:var(--ink)}
+.card h3{font-family:'Fraunces',serif;font-size:21px;font-weight:600;line-height:1.25;margin-bottom:6px}
+.card p{color:var(--ink-soft);font-size:14px;line-height:1.55}
+.card .meta{font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--signal);margin-top:8px}
+footer{text-align:center;padding:26px;font-family:'JetBrains Mono',monospace;font-size:10.5px;color:var(--ink-soft);border-top:1px solid var(--rule)}
+.dark-toggle{position:fixed;bottom:20px;right:20px;width:40px;height:40px;border-radius:50%;border:1px solid var(--rule);background:var(--card);cursor:pointer;font-size:18px;display:flex;align-items:center;justify-content:center}
+body.dark{--paper:#1a1a2e;--ink:#e0e0e0;--ink-soft:#a0a0b0;--rule:#2a2a4a;--signal:#e07040;--card:#1e1e3a}
+</style>
+</head>
+<body>
+<header class="site">
+<div><div class="wordmark">SIGNAL<span>.</span></div></div>
+<nav class="top"><a href="/">Home</a><a href="/about.html">About</a><a href="/sitemap.xml">Sitemap</a></nav>
+</header>
+<div class="container">
+<h1>LLM Articles</h1>
+<p style="color:var(--ink-soft);margin-bottom:32px">Latest LLM AI tools news and analysis from SIGNAL.</p>
+<div class="feed">
+
+<a class="card" href="/articles/ai-security-incident.html">
+<div class="idx">01</div>
+<div>
+<span class="tag">LLM</span>
+<h3>AI Security Alert</h3>
+<p>OpenAI and Hugging Face reveal a security incident during AI model evaluation, sharing key lessons for defenders</p>
+<div class="meta">→ 338 words</div>
+</div>
+</a>
+
+<a class="card" href="/articles/gemini-3-6-arrives.html">
+<div class="idx">02</div>
+<div>
+<span class="tag">LLM</span>
+<h3>Gemini 3.6 Unleashed</h3>
+<p>DeepMind's latest Gemini models are here, promising faster and more efficient AI performance</p>
+<div class="meta">→ 215 words</div>
+</div>
+</a>
+
+</div>
+</div>
+<button class="dark-toggle" onclick="document.body.classList.toggle('dark');localStorage.setItem('dark',document.body.classList.contains('dark'))">🌙</button>
+<script>if(localStorage.getItem('dark')==='true')document.body.classList.add('dark')</script>
+<footer>SIGNAL — AI Tools Intelligence</footer>
+</body>
+</html>

@@ -243,7 +243,7 @@ ${[...new Set(published.map(a => a.category))].map(cat => {
 </main>
 <button class="dark-toggle" onclick="document.body.classList.toggle('dark');localStorage.setItem('dark',document.body.classList.contains('dark'))" title="Toggle dark mode">🌙</button>
 <script>if(localStorage.getItem('dark')==='true')document.body.classList.add('dark')</script>
-<footer>SIGNAL — a self-hunting AI tools archive. Built and reviewed before publish.</footer>
+<footer>SIGNAL — a self-hunting AI tools archive. Built and reviewed before publish.<br><a href="/privacy.html" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Privacy</a> · <a href="/terms.html" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Terms</a> · <a href="/about.html" style="color:var(--ink-soft);margin:0 8px;font-size:11px">About</a></footer>
 </body>
 </html>`;
 }
@@ -309,7 +309,206 @@ body.dark{--paper:#1a1a2e;--paper-dim:#16213e;--ink:#e0e0e0;--ink-soft:#a0a0b0;-
 </div>
 <button class="dark-toggle" onclick="document.body.classList.toggle('dark');localStorage.setItem('dark',document.body.classList.contains('dark'))" title="Toggle dark mode">🌙</button>
 <script>if(localStorage.getItem('dark')==='true')document.body.classList.add('dark')</script>
-<footer>SIGNAL — a self-hunting AI tools archive. Built and reviewed before publish.</footer>
+<footer>SIGNAL — a self-hunting AI tools archive. Built and reviewed before publish.<br><a href="/privacy.html" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Privacy</a> · <a href="/terms.html" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Terms</a></footer>
+</body>
+</html>`;
+}
+
+// ─── Privacy Policy page ───
+function privacyPage() {
+  return `<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Privacy Policy — SIGNAL</title>
+<meta name="description" content="Privacy Policy for SIGNAL AI Tools Intelligence.">
+<link rel="canonical" href="${SITE_URL}/privacy.html">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600&display=swap');
+:root{--paper:#efe9dc;--ink:#1c2b25;--ink-soft:#5b6a5f;--rule:#c9bfa4;--signal:#b8481e;--card:#f6f2e7}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--paper);color:var(--ink);font-family:'Inter',sans-serif;line-height:1.7;-webkit-font-smoothing:antialiased}
+.container{max-width:720px;margin:0 auto;padding:24px}
+header.site{max-width:1080px;margin:0 auto;padding:36px 24px 22px;display:flex;justify-content:space-between;align-items:flex-end;border-bottom:2px solid var(--ink)}
+.wordmark{font-family:'Fraunces',serif;font-weight:700;font-size:34px}
+.wordmark span{color:var(--signal)}
+nav.top{font-family:'JetBrains Mono',monospace;font-size:12px}
+nav.top a{color:var(--ink);text-decoration:none;margin-left:18px}
+h1{font-family:'Fraunces',serif;font-size:36px;margin:32px 0 20px}
+h2{font-family:'Fraunces',serif;font-size:24px;margin:32px 0 12px}
+p{margin-bottom:16px;color:var(--ink-soft);font-size:16px}
+footer{text-align:center;padding:26px;font-family:'JetBrains Mono',monospace;font-size:10.5px;color:var(--ink-soft);border-top:1px solid var(--rule)}
+.dark-toggle{position:fixed;bottom:20px;right:20px;width:40px;height:40px;border-radius:50%;border:1px solid var(--rule);background:var(--card);cursor:pointer;font-size:18px;display:flex;align-items:center;justify-content:center}
+body.dark{--paper:#1a1a2e;--ink:#e0e0e0;--ink-soft:#a0a0b0;--rule:#2a2a4a;--signal:#e07040;--card:#1e1e3a}
+</style>
+</head>
+<body>
+<header class="site">
+<div><div class="wordmark">SIGNAL<span>.</span></div></div>
+<nav class="top"><a href="/">Home</a><a href="/about.html">About</a><a href="/privacy.html">Privacy</a></nav>
+</header>
+<div class="container">
+<h1>Privacy Policy</h1>
+<p>Last updated: July 2026</p>
+
+<h2>Information We Collect</h2>
+<p>SIGNAL automatically collects and publishes publicly available information about AI tools from RSS feeds, changelogs, and product pages. We do not collect personal information from visitors unless you voluntarily provide it (e.g., via email contact).</p>
+
+<h2>Cookies and Analytics</h2>
+<p>We may use cookies and analytics tools to understand how visitors use our site. You can control cookie settings through your browser preferences.</p>
+
+<h2>Third-Party Services</h2>
+<p>We use the following third-party services:</p>
+<p>• <strong>Google AdSense</strong> — For displaying advertisements. Google may use cookies to serve ads based on your prior visits to our site or other sites.</p>
+<p>• <strong>Vercel</strong> — For hosting our website.</p>
+<p>• <strong>GitHub</strong> — For source code hosting and CI/CD.</p>
+
+<h2>Advertising</h2>
+<p>Google AdSense may use DART cookies to serve ads. You may opt out of the use of the DART cookie by visiting the <a href="https://www.google.com/policies/technologies/ads/">Google Ad and Content Network Privacy Policy</a>.</p>
+
+<h2>Data Sharing</h2>
+<p>We do not sell, trade, or otherwise transfer your personal information to outside parties.</p>
+
+<h2>Contact</h2>
+<p>For privacy-related inquiries, contact us at <a href="mailto:signalcompany.inc@gmail.com">signalcompany.inc@gmail.com</a>.</p>
+</div>
+<button class="dark-toggle" onclick="document.body.classList.toggle('dark');localStorage.setItem('dark',document.body.classList.contains('dark'))">🌙</button>
+<script>if(localStorage.getItem('dark')==='true')document.body.classList.add('dark')</script>
+<footer>SIGNAL — AI Tools Intelligence</footer>
+</body>
+</html>`;
+}
+
+// ─── Terms of Service page ───
+function termsPage() {
+  return `<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Terms of Service — SIGNAL</title>
+<meta name="description" content="Terms of Service for SIGNAL AI Tools Intelligence.">
+<link rel="canonical" href="${SITE_URL}/terms.html">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600&display=swap');
+:root{--paper:#efe9dc;--ink:#1c2b25;--ink-soft:#5b6a5f;--rule:#c9bfa4;--signal:#b8481e;--card:#f6f2e7}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--paper);color:var(--ink);font-family:'Inter',sans-serif;line-height:1.7;-webkit-font-smoothing:antialiased}
+.container{max-width:720px;margin:0 auto;padding:24px}
+header.site{max-width:1080px;margin:0 auto;padding:36px 24px 22px;display:flex;justify-content:space-between;align-items:flex-end;border-bottom:2px solid var(--ink)}
+.wordmark{font-family:'Fraunces',serif;font-weight:700;font-size:34px}
+.wordmark span{color:var(--signal)}
+nav.top{font-family:'JetBrains Mono',monospace;font-size:12px}
+nav.top a{color:var(--ink);text-decoration:none;margin-left:18px}
+h1{font-family:'Fraunces',serif;font-size:36px;margin:32px 0 20px}
+h2{font-family:'Fraunces',serif;font-size:24px;margin:32px 0 12px}
+p{margin-bottom:16px;color:var(--ink-soft);font-size:16px}
+footer{text-align:center;padding:26px;font-family:'JetBrains Mono',monospace;font-size:10.5px;color:var(--ink-soft);border-top:1px solid var(--rule)}
+.dark-toggle{position:fixed;bottom:20px;right:20px;width:40px;height:40px;border-radius:50%;border:1px solid var(--rule);background:var(--card);cursor:pointer;font-size:18px;display:flex;align-items:center;justify-content:center}
+body.dark{--paper:#1a1a2e;--ink:#e0e0e0;--ink-soft:#a0a0b0;--rule:#2a2a4a;--signal:#e07040;--card:#1e1e3a}
+</style>
+</head>
+<body>
+<header class="site">
+<div><div class="wordmark">SIGNAL<span>.</span></div></div>
+<nav class="top"><a href="/">Home</a><a href="/about.html">About</a><a href="/terms.html">Terms</a></nav>
+</header>
+<div class="container">
+<h1>Terms of Service</h1>
+<p>Last updated: July 2026</p>
+
+<h2>Acceptance of Terms</h2>
+<p>By accessing and using SIGNAL, you accept and agree to be bound by these Terms of Service.</p>
+
+<h2>Content</h2>
+<p>SIGNAL automatically generates articles about AI tools from publicly available sources. While we strive for accuracy, we make no warranties about the completeness, reliability, or accuracy of this information.</p>
+
+<h2>Intellectual Property</h2>
+<p>All content published on SIGNAL is original and generated by our AI pipeline. The content is provided for informational purposes only.</p>
+
+<h2>Limitation of Liability</h2>
+<p>SIGNAL shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of the service.</p>
+
+<h2>Changes to Terms</h2>
+<p>We reserve the right to modify these terms at any time. Changes will be effective immediately upon posting.</p>
+
+<h2>Contact</h2>
+<p>For questions about these Terms, contact us at <a href="mailto:signalcompany.inc@gmail.com">signalcompany.inc@gmail.com</a>.</p>
+</div>
+<button class="dark-toggle" onclick="document.body.classList.toggle('dark');localStorage.setItem('dark',document.body.classList.contains('dark'))">🌙</button>
+<script>if(localStorage.getItem('dark')==='true')document.body.classList.add('dark')</script>
+<footer>SIGNAL — AI Tools Intelligence</footer>
+</body>
+</html>`;
+}
+
+// ─── Category page generator ───
+function categoryPage(category, articles) {
+  const catArticles = articles.filter(a => a.status === 'published' && a.category === category)
+    .sort((a, b) => new Date(b.generated || 0) - new Date(a.generated || 0));
+  const catName = (category || 'ai').toUpperCase();
+  return `<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>${catName} Articles — SIGNAL</title>
+<meta name="description" content="Latest ${catName} AI tools news and articles. Stay updated with SIGNAL.">
+<meta property="og:title" content="${catName} Articles — SIGNAL">
+<meta property="og:description" content="Latest ${catName} AI tools news and articles.">
+<link rel="canonical" href="${SITE_URL}/category/${category}.html">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600&display=swap');
+:root{--paper:#efe9dc;--ink:#1c2b25;--ink-soft:#5b6a5f;--rule:#c9bfa4;--signal:#b8481e;--card:#f6f2e7}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--paper);color:var(--ink);font-family:'Inter',sans-serif;-webkit-font-smoothing:antialiased}
+.container{max-width:1080px;margin:0 auto;padding:24px}
+header.site{max-width:1080px;margin:0 auto;padding:36px 24px 22px;display:flex;justify-content:space-between;align-items:flex-end;border-bottom:2px solid var(--ink)}
+.wordmark{font-family:'Fraunces',serif;font-weight:700;font-size:34px}
+.wordmark span{color:var(--signal)}
+nav.top{font-family:'JetBrains Mono',monospace;font-size:12px}
+nav.top a{color:var(--ink);text-decoration:none;margin-left:18px}
+h1{font-family:'Fraunces',serif;font-size:36px;margin:32px 0 20px}
+.feed{display:flex;flex-direction:column}
+.card{display:grid;grid-template-columns:70px 1fr;gap:18px;padding:22px 0;border-top:1px solid var(--rule);text-decoration:none;color:var(--ink)}
+.card:first-child{border-top:2px solid var(--ink)}
+.card:hover{opacity:.85}
+.card .idx{font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--ink-soft);padding-top:4px}
+.card .tag{display:inline-block;font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:.06em;padding:2px 7px;border:1px solid var(--ink);border-radius:2px;margin-bottom:8px;color:var(--ink)}
+.card h3{font-family:'Fraunces',serif;font-size:21px;font-weight:600;line-height:1.25;margin-bottom:6px}
+.card p{color:var(--ink-soft);font-size:14px;line-height:1.55}
+.card .meta{font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--signal);margin-top:8px}
+footer{text-align:center;padding:26px;font-family:'JetBrains Mono',monospace;font-size:10.5px;color:var(--ink-soft);border-top:1px solid var(--rule)}
+.dark-toggle{position:fixed;bottom:20px;right:20px;width:40px;height:40px;border-radius:50%;border:1px solid var(--rule);background:var(--card);cursor:pointer;font-size:18px;display:flex;align-items:center;justify-content:center}
+body.dark{--paper:#1a1a2e;--ink:#e0e0e0;--ink-soft:#a0a0b0;--rule:#2a2a4a;--signal:#e07040;--card:#1e1e3a}
+</style>
+</head>
+<body>
+<header class="site">
+<div><div class="wordmark">SIGNAL<span>.</span></div></div>
+<nav class="top"><a href="/">Home</a><a href="/about.html">About</a><a href="/sitemap.xml">Sitemap</a></nav>
+</header>
+<div class="container">
+<h1>${catName} Articles</h1>
+<p style="color:var(--ink-soft);margin-bottom:32px">Latest ${catName} AI tools news and analysis from SIGNAL.</p>
+<div class="feed">
+${catArticles.map((a, i) => `
+<a class="card" href="/articles/${a.slug}.html">
+<div class="idx">${String(i + 1).padStart(2, '0')}</div>
+<div>
+<span class="tag">${(a.category || 'AI').toUpperCase()}</span>
+<h3>${a.title}</h3>
+<p>${a.dek || ''}</p>
+<div class="meta">→ ${a.wordCount || '—'} words</div>
+</div>
+</a>
+`).join('')}
+</div>
+</div>
+<button class="dark-toggle" onclick="document.body.classList.toggle('dark');localStorage.setItem('dark',document.body.classList.contains('dark'))">🌙</button>
+<script>if(localStorage.getItem('dark')==='true')document.body.classList.add('dark')</script>
+<footer>SIGNAL — AI Tools Intelligence</footer>
 </body>
 </html>`;
 }
@@ -317,8 +516,17 @@ body.dark{--paper:#1a1a2e;--paper-dim:#16213e;--ink:#e0e0e0;--ink-soft:#a0a0b0;-
 // ─── Sitemap generator ───
 function generateSitemap(articles) {
   const published = articles.filter(a => a.status === 'published');
+  const categories = [...new Set(published.map(a => a.category).filter(Boolean))];
   const urls = [
     { loc: SITE_URL, changefreq: 'daily', priority: '1.0' },
+    { loc: `${SITE_URL}/about.html`, changefreq: 'monthly', priority: '0.5' },
+    { loc: `${SITE_URL}/privacy.html`, changefreq: 'yearly', priority: '0.3' },
+    { loc: `${SITE_URL}/terms.html`, changefreq: 'yearly', priority: '0.3' },
+    ...categories.map(cat => ({
+      loc: `${SITE_URL}/category/${cat}.html`,
+      changefreq: 'weekly',
+      priority: '0.6'
+    })),
     ...published.map(a => ({
       loc: `${SITE_URL}/articles/${a.slug}.html`,
       lastmod: (a.generated || '').substring(0, 10),
@@ -374,11 +582,27 @@ export async function build() {
   await fs.writeFile(path.join(PUBLIC_DIR, 'about.html'), aboutPage());
   console.log('  ✓ about.html');
 
-  // 4. Sitemap
+  // 4. Privacy Policy
+  await fs.writeFile(path.join(PUBLIC_DIR, 'privacy.html'), privacyPage());
+  console.log('  ✓ privacy.html');
+
+  // 5. Terms of Service
+  await fs.writeFile(path.join(PUBLIC_DIR, 'terms.html'), termsPage());
+  console.log('  ✓ terms.html');
+
+  // 6. Category pages
+  await fs.mkdir(path.join(PUBLIC_DIR, 'category'), { recursive: true });
+  const categories = [...new Set(published.map(a => a.category).filter(Boolean))];
+  for (const cat of categories) {
+    await fs.writeFile(path.join(PUBLIC_DIR, 'category', `${cat}.html`), categoryPage(cat, articles));
+    console.log(`  ✓ category/${cat}.html`);
+  }
+
+  // 7. Sitemap
   await fs.writeFile(path.join(PUBLIC_DIR, 'sitemap.xml'), generateSitemap(articles));
   console.log('  ✓ sitemap.xml');
 
-  // 4. robots.txt
+  // 8. robots.txt
   await fs.writeFile(path.join(PUBLIC_DIR, 'robots.txt'), ROBOTS);
   console.log('  ✓ robots.txt');
 
