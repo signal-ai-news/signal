@@ -1,7 +1,7 @@
 name: SIGNAL Pipeline
 on:
   schedule:
-    - cron: '*/30 6-23 * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
     inputs:
       limit:
