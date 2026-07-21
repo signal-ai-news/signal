@@ -17,13 +17,14 @@ function articlePage(article, allArticles) {
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<link rel="icon" type="image/png" href="/branding/favicon.png" sizes="32x32">
 <meta name="google-site-verification" content="rHHtjtYXDcmaajYfu4xBB7VQN0Uio1FuC6mHogdmsjc" />
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>${article.metaTitle || article.title} — SIGNAL</title>
 <meta name="description" content="${article.metaDesc || article.dek || ''}">
 <meta property="og:title" content="${article.metaTitle || article.title}">
 <meta property="og:description" content="${article.metaDesc || article.dek || ''}">
-<meta property="og:image" content="${SITE_URL}${article.image || '/images/default.jpg'}">
+<meta property="og:image" content="${SITE_URL}${article.image || '/branding/og-image.png'}">
 <meta property="og:type" content="article">
 <meta property="og:url" content="${SITE_URL}/articles/${article.slug}.html">
 <link rel="canonical" href="${SITE_URL}/articles/${article.slug}.html">
@@ -37,7 +38,7 @@ function articlePage(article, allArticles) {
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="${article.metaTitle || article.title}">
 <meta name="twitter:description" content="${article.metaDesc || article.dek || ''}">
-<meta name="twitter:image" content="${SITE_URL}${article.image || '/images/default.jpg'}">
+<meta name="twitter:image" content="${SITE_URL}${article.image || '/branding/og-image.png'}">
 <meta name="news_keywords" content="${(article.tags || []).join(', ')}, AI tools, artificial intelligence">
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="SIGNAL">
@@ -48,7 +49,7 @@ ${JSON.stringify({
   "@type": "NewsArticle",
   "headline": article.title,
   "description": article.metaDesc || article.dek,
-  "image": SITE_URL + (article.image || '/images/default.jpg'),
+  "image": SITE_URL + (article.image || '/branding/og-image.png'),
   "datePublished": article.generated || article.published,
   "dateModified": article.lastRefresh || article.generated || article.published,
   "author": { "@type": "Organization", "name": "SIGNAL" },
@@ -153,6 +154,7 @@ function homepage(articles) {
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<link rel="icon" type="image/png" href="/branding/favicon.png" sizes="32x32">
 <meta name="google-site-verification" content="rHHtjtYXDcmaajYfu4xBB7VQN0Uio1FuC6mHogdmsjc" />
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>SIGNAL — AI Tools Intelligence</title>
@@ -305,6 +307,7 @@ function aboutPage() {
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<link rel="icon" type="image/png" href="/branding/favicon.png" sizes="32x32">
 <meta name="google-site-verification" content="rHHtjtYXDcmaajYfu4xBB7VQN0Uio1FuC6mHogdmsjc" />
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>About — SIGNAL</title>
@@ -372,6 +375,7 @@ function privacyPage() {
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<link rel="icon" type="image/png" href="/branding/favicon.png" sizes="32x32">
 <meta name="google-site-verification" content="rHHtjtYXDcmaajYfu4xBB7VQN0Uio1FuC6mHogdmsjc" />
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>Privacy Policy — SIGNAL</title>
@@ -439,6 +443,7 @@ function termsPage() {
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<link rel="icon" type="image/png" href="/branding/favicon.png" sizes="32x32">
 <meta name="google-site-verification" content="rHHtjtYXDcmaajYfu4xBB7VQN0Uio1FuC6mHogdmsjc" />
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>Terms of Service — SIGNAL</title>
@@ -506,6 +511,7 @@ function categoryPage(category, articles) {
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<link rel="icon" type="image/png" href="/branding/favicon.png" sizes="32x32">
 <meta name="google-site-verification" content="rHHtjtYXDcmaajYfu4xBB7VQN0Uio1FuC6mHogdmsjc" />
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>${catName} Articles — SIGNAL</title>
@@ -574,6 +580,7 @@ function newsletterPage() {
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<link rel="icon" type="image/png" href="/branding/favicon.png" sizes="32x32">
 <meta name="google-site-verification" content="rHHtjtYXDcmaajYfu4xBB7VQN0Uio1FuC6mHogdmsjc" />
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>Newsletter — SIGNAL</title>
