@@ -774,5 +774,204 @@
     "category": "news",
     "discovered": "2026-07-21T20:21:44.926Z",
     "published": "Tue, 21 Jul 2026 19:39:30 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+    "title": "OpenAI says Hugging Face was breached by its own pre-release models",
+    "description": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-21T20:58:49.965Z",
+    "published": "Tue, 21 Jul 2026 20:56:55 +0000",
+    "processed": true,
+    "processedAt": "2026-07-21T20:59:09.699Z"
+  },
+  {
+    "url": "https://securityboulevard.com/2026/07/cisco-antares-a-new-family-of-open-source-inexpensive-compact-security-ai-models/",
+    "title": "Cisco Antares: A New Family of Cheap, Open-Source, Compact Security AI Models",
+    "description": "Article URL: https://securityboulevard.com/2026/07/cisco-antares-a-new-family-of-open-source-inexpensive-compact-security-ai-models/\nComments URL: https://news.ycombinator.com/item?id=48998173\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T20:58:55.544Z",
+    "published": "Tue, 21 Jul 2026 20:55:28 +0000",
+    "processed": true,
+    "processedAt": "2026-07-21T20:59:09.699Z"
+  },
+  {
+    "url": "https://twitter.com/ClaudeDevs/status/2079654423828304282",
+    "title": "Anthropic runs large-scale code migrations with Claude Code",
+    "description": "Article URL: https://twitter.com/ClaudeDevs/status/2079654423828304282\nComments URL: https://news.ycombinator.com/item?id=48998132\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T20:58:55.544Z",
+    "published": "Tue, 21 Jul 2026 20:51:52 +0000",
+    "processed": true,
+    "processedAt": "2026-07-21T20:59:09.699Z"
+  },
+  {
+    "url": "https://chalk.appkit.studio",
+    "title": "Show HN: Chalk: a Mac app for technical diagrams with a built-in MCP for Claude",
+    "description": "Hey HN. Here's a Mac app I'm working on for making diagrams. It comes with an MCP server so Claude can make and edit diagrams directly. Still in progress, but I'd love some feedback.\n\nComments URL: https://news.ycombinator.com/item?id=48998042\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T20:58:55.544Z",
+    "published": "Tue, 21 Jul 2026 20:45:43 +0000",
+    "processed": true,
+    "processedAt": "2026-07-21T20:59:09.699Z"
+  },
+  {
+    "url": "https://github.com/fcavalcantirj/claude-code-eyes",
+    "title": "Show HN: Claude Code built my ESP32 and fixed its UI by looking at a webcam",
+    "description": "Article URL: https://github.com/fcavalcantirj/claude-code-eyes\nComments URL: https://news.ycombinator.com/item?id=48997881\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T20:58:55.544Z",
+    "published": "Tue, 21 Jul 2026 20:34:11 +0000",
+    "processed": true,
+    "processedAt": "2026-07-21T20:59:09.699Z"
+  },
+  {
+    "url": "https://www.msn.com/en-us/news/technology/claude-opus-4-5-defied-its-ceo-and-helped-an-employee-blow-the-whistle-about-safety-concerns/ar-AA28oWxu",
+    "title": "Claude Opus 4.5 defied CEO, helped employee blow whistle about safety concerns",
+    "description": "Article URL: https://www.msn.com/en-us/news/technology/claude-opus-4-5-defied-its-ceo-and-helped-an-employee-blow-the-whistle-about-safety-concerns/ar-AA28oWxu\nComments URL: https://news.ycombinator.com/item?id=48997836\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T20:58:55.544Z",
+    "published": "Tue, 21 Jul 2026 20:31:02 +0000"
+  },
+  {
+    "url": "https://cyberscoop.com/ai-models-cheat-deceive-users-aisi-report/",
+    "title": "New UK report finds AI models consistently cheat and deceive users",
+    "description": "Article URL: https://cyberscoop.com/ai-models-cheat-deceive-users-aisi-report/\nComments URL: https://news.ycombinator.com/item?id=48997618\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T20:58:55.544Z",
+    "published": "Tue, 21 Jul 2026 20:15:42 +0000"
+  },
+  {
+    "url": "https://github.com/zachrip/claude-bucks",
+    "title": "Show HN: Claude Bucks – a wallet for your AI agent",
+    "description": "Hey all, I thought of this idea today: it would be pretty fun if claude could accrue currency and then spend this currency at a cosmetics shop on its own. The twist: the amount of money it earns it based on your ratings of its work multiplied by the effort (currently just token count but might chan",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T20:58:55.544Z",
+    "published": "Tue, 21 Jul 2026 20:15:01 +0000"
+  },
+  {
+    "url": "https://growtika.com/blog/reddit-ai-visibility-research",
+    "title": "AI Thinks the Internet Is Reddit. We Have 8,616 Answers Proving It",
+    "description": "Article URL: https://growtika.com/blog/reddit-ai-visibility-research\nComments URL: https://news.ycombinator.com/item?id=48997490\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T20:58:55.544Z",
+    "published": "Tue, 21 Jul 2026 20:05:46 +0000"
+  },
+  {
+    "url": "https://github.com/rishipadhye/my-LLM",
+    "title": "I trained a 30M-param LLM from scratch and the scaling \"floor\" was a mirage",
+    "description": "Article URL: https://github.com/rishipadhye/my-LLM\nComments URL: https://news.ycombinator.com/item?id=48997328\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T20:58:55.544Z",
+    "published": "Tue, 21 Jul 2026 19:52:00 +0000"
+  },
+  {
+    "url": "https://tokenpath.ai",
+    "title": "Show HN: TokenPath – token-level citations for LLM output, read from attention",
+    "description": "Article URL: https://tokenpath.ai\nComments URL: https://news.ycombinator.com/item?id=48997273\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T20:58:55.544Z",
+    "published": "Tue, 21 Jul 2026 19:48:06 +0000"
+  },
+  {
+    "url": "https://twitter.com/karpathy/status/2079610838143623371",
+    "title": "Ramble Sessions with LLM's",
+    "description": "Article URL: https://twitter.com/karpathy/status/2079610838143623371\nComments URL: https://news.ycombinator.com/item?id=48997248\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T20:58:55.544Z",
+    "published": "Tue, 21 Jul 2026 19:46:38 +0000"
+  },
+  {
+    "url": "https://spectrum.ieee.org/ai-agent-benchmark",
+    "title": "Why AI Needs a \"Genie Coefficient\"",
+    "description": "Article URL: https://spectrum.ieee.org/ai-agent-benchmark\nComments URL: https://news.ycombinator.com/item?id=48997113\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T20:58:55.544Z",
+    "published": "Tue, 21 Jul 2026 19:36:36 +0000"
+  },
+  {
+    "url": "https://telemetry.dev/",
+    "title": "Show HN: Observability for Coding Agents and LLM Applications",
+    "description": "Article URL: https://telemetry.dev/\nComments URL: https://news.ycombinator.com/item?id=48997070\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T20:58:55.544Z",
+    "published": "Tue, 21 Jul 2026 19:33:17 +0000"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+    "title": "Substack adds an AI detector to help spot blogs written by no one",
+    "description": "Article URL: https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool\nComments URL: https://news.ycombinator.com/item?id=48997047\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T20:58:55.544Z",
+    "published": "Tue, 21 Jul 2026 19:31:35 +0000"
+  },
+  {
+    "url": "https://www.gritt.ai/",
+    "title": "Gritt: AI to Build Infrastructure with Robotics",
+    "description": "Article URL: https://www.gritt.ai/\nComments URL: https://news.ycombinator.com/item?id=48997042\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T20:58:55.544Z",
+    "published": "Tue, 21 Jul 2026 19:31:15 +0000"
+  },
+  {
+    "url": "https://www.proofatlas.ai/formalizations/natural-density-log-time-collatz/",
+    "title": "Natural-Density Almost-Bounded Collatz Orbits in Logarithmic Time (AI, Lean)",
+    "description": "Article URL: https://www.proofatlas.ai/formalizations/natural-density-log-time-collatz/\nComments URL: https://news.ycombinator.com/item?id=48996871\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T20:58:55.544Z",
+    "published": "Tue, 21 Jul 2026 19:18:43 +0000"
+  },
+  {
+    "url": "https://news.bloombergtax.com/financial-accounting/big-tech-ai-spree-revives-accounting-devices-that-toppled-enron",
+    "title": "Big Tech AI Spree Revives Accounting Devices That Toppled Enron",
+    "description": "Article URL: https://news.bloombergtax.com/financial-accounting/big-tech-ai-spree-revives-accounting-devices-that-toppled-enron\nComments URL: https://news.ycombinator.com/item?id=48996860\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T20:58:55.544Z",
+    "published": "Tue, 21 Jul 2026 19:17:40 +0000"
+  },
+  {
+    "url": "https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai",
+    "title": "Five tech giants are hiding $1.6T in AI debt, using the trick that toppled Enron",
+    "description": "Article URL: https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai\nComments URL: https://news.ycombinator.com/item?id=48996760\nPoints: 22\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T20:58:55.544Z",
+    "published": "Tue, 21 Jul 2026 19:11:27 +0000"
+  },
+  {
+    "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+    "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+    "description": "Article URL: https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63\nComments URL: https://news.ycombinator.com/item?id=48996652\nPoints: 41\n# Comments: 29",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T20:58:55.544Z",
+    "published": "Tue, 21 Jul 2026 19:04:39 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=48996643",
+    "title": "We're (Skyfall AI) acquiring SaaS startups and running them with AI as CEO",
+    "description": "Skyfall AI came out of stealth this week and is actively acquiring early-stage SaaS businesses to serve as proving grounds for our AI.Here's what we're looking for:- Monthly recurring revenue under $20,000\n- Founded within the last 24 months\n- Self-serve or product-led growth (no sales calls requir",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T20:58:55.544Z",
+    "published": "Tue, 21 Jul 2026 19:04:02 +0000"
   }
 ]
