@@ -1,0 +1,39 @@
+name: SIGNAL Pipeline
+on:
+  schedule:
+    - cron: '*/30 6-23 * * *'
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Max articles to generate'
+        default: '3'
+        required: false
+permissions:
+  contents: write
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm ci
+      - name: Run pipeline
+        env:
+          GROQ_API_KEY: *** secrets.GROQ_API_KEY }}
+          TG_BOT_TOKEN: *** secrets.TG_BOT_TOKEN }}
+          TG_USER_ID: ${{ secrets.TG_USER_ID }}
+        run: node scripts/orchestrator.mjs --limit ${{ github.event.inputs.limit || '3' }}
+      - name: Commit and push
+        run: |
+          git config user.name "SIGNAL Bot"
+          git config user.email "bot@signal-ai.news"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "SIGNAL auto: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
