@@ -23,23 +23,30 @@ RULES:
 11. Output ONLY valid JSON — no markdown, no code fences.`;
 
 function buildPrompt(signal) {
-  return `Write an article about this AI tool/announcement:
+  return `Write a VIRAL-WORTHY article about this AI tool/announcement:
 
 Title: ${signal.title}
 Description: ${signal.description}
 Source: ${signal.source}
 Category: ${signal.category}
 
+VIRAL CONTENT RULES:
+- Use NUMBERS in headline when possible ("5 Ways...", "3 Reasons...")
+- Create URGENCY ("You Need to Know", "Don't Miss")
+- Include COMPARISONS when relevant
+- Add PRACTICAL TAKEAWAYS readers can use TODAY
+- Use POWER WORDS: "breakthrough", "essential", "proven", "ultimate"
+
 Output JSON with these exact fields:
 {
-  "title": "article headline (punchy, under 70 chars)",
+  "title": "article headline (punchy, under 70 chars, use numbers/power words)",
   "slug": "url-friendly-slug",
-  "dek": "one-sentence hook for the homepage card",
-  "metaTitle": "SEO title tag (under 60 chars)",
-  "metaDesc": "SEO meta description (under 155 chars)",
-  "tags": ["tag1", "tag2", "tag3"],
+  "dek": "one-sentence hook that creates curiosity",
+  "metaTitle": "SEO title tag (under 60 chars, include main keyword)",
+  "metaDesc": "SEO meta description (under 155 chars, include call to action)",
+  "tags": ["tag1", "tag2", "tag3", "tag4", "tag5"],
   "category": "${signal.category}",
-  "body": "full article HTML with <h2>, <p>, <ul> tags",
+  "body": "full article HTML with <h2>, <h3>, <p>, <ul>, <blockquote> tags",
   "imagePrompt": "detailed prompt for a blog header illustration"
 }`;
 }

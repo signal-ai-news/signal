@@ -130,5 +130,47 @@
     "type": "rss",
     "url": "https://the-decoder.com/feed/",
     "category": "news"
+  },
+  {
+    "name": "xAI Blog",
+    "type": "rss",
+    "url": "https://x.ai/blog/rss.xml",
+    "category": "llm"
+  },
+  {
+    "name": "Cohere Blog",
+    "type": "rss",
+    "url": "https://txt.cohere.com/rss/",
+    "category": "llm"
+  },
+  {
+    "name": "Midjourney Updates",
+    "type": "rss",
+    "url": "https://midjourney.com/blog/rss.xml",
+    "category": "image"
+  },
+  {
+    "name": "Canva AI",
+    "type": "rss",
+    "url": "https://www.canva.com/designschool/feed/",
+    "category": "design"
+  },
+  {
+    "name": "Notion AI Blog",
+    "type": "rss",
+    "url": "https://www.notion.so/blog/rss",
+    "category": "productivity"
+  },
+  {
+    "name": "GitHub Copilot Blog",
+    "type": "rss",
+    "url": "https://github.blog/feed/",
+    "category": "code"
+  },
+  {
+    "name": "Anthropic Research",
+    "type": "rss",
+    "url": "https://www.anthropic.com/research/rss.xml",
+    "category": "llm"
   }
 ]
