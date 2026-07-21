@@ -94,7 +94,9 @@
     "source": "TechCrunch AI",
     "category": "news",
     "discovered": "2026-07-21T17:39:20.314Z",
-    "published": "Mon, 20 Jul 2026 20:50:40 +0000"
+    "published": "Mon, 20 Jul 2026 20:50:40 +0000",
+    "processed": true,
+    "processedAt": "2026-07-21T22:07:57.410Z"
   },
   {
     "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
