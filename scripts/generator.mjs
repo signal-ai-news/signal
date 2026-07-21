@@ -11,7 +11,7 @@ Write in a clear, direct, no-fluff style — like a knowledgeable friend explain
 
 RULES:
 1. NEVER copy/paste from source material. Rewrite everything in your own words.
-2. Article must be 400-800 words. AIM FOR 500+ WORDS. Do NOT write short articles.
+2. Article MUST be AT LEAST 350 words. AIM FOR 500+ WORDS. Write detailed paragraphs. Do NOT write short articles under any circumstance.
 3. Use H2/H3 subheadings for structure.
 4. Include a brief "What it means for you" section.
 5. End with a forward-looking sentence.
