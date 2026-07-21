@@ -27,6 +27,17 @@ function articlePage(article, allArticles) {
 <meta property="og:type" content="article">
 <meta property="og:url" content="${SITE_URL}/articles/${article.slug}.html">
 <link rel="canonical" href="${SITE_URL}/articles/${article.slug}.html">
+<meta name="keywords" content="${(article.tags || []).join(', ')}, AI tools, artificial intelligence, ${article.category || 'tech'}">
+<meta name="author" content="SIGNAL">
+<meta name="robots" content="index, follow">
+<meta property="og:site_name" content="SIGNAL">
+<meta property="article:published_time" content="${article.generated || ''}">
+<meta property="article:section" content="${article.category || 'AI'}">
+<meta property="article:tag" content="${(article.tags || []).join(', ')}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="${article.metaTitle || article.title}">
+<meta name="twitter:description" content="${article.metaDesc || article.dek || ''}">
+<meta name="twitter:image" content="${SITE_URL}${article.image || '/images/default.jpg'}">
 <script type="application/ld+json">
 ${JSON.stringify({
   "@context": "https://schema.org",
@@ -144,6 +155,32 @@ function homepage(articles) {
 <meta property="og:title" content="SIGNAL — AI Tools Intelligence">
 <meta property="og:description" content="AI tools, tracked daily. Hunted, verified, written.">
 <link rel="canonical" href="${SITE_URL}">
+<meta name="keywords" content="AI tools, artificial intelligence, AI news, machine learning, LLM, GPT, Claude, Gemini, AI reviews">
+<meta name="author" content="SIGNAL">
+<meta name="robots" content="index, follow">
+<meta property="og:site_name" content="SIGNAL">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="SIGNAL — AI Tools Intelligence">
+<meta name="twitter:description" content="AI tools, tracked daily. Hunted, verified, written.">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "SIGNAL",
+  "url": "${SITE_URL}",
+  "description": "AI tools, tracked daily. Hunted, verified, written.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "SIGNAL"
+  },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "${SITE_URL}/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
 <style>
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600&display=swap');
 :root{--paper:#efe9dc;--paper-dim:#e4dcc9;--ink:#1c2b25;--ink-soft:#5b6a5f;--rule:#c9bfa4;--signal:#b8481e;--signal-dim:#d98f6c;--live:#2f6b4f;--card:#f6f2e7}
