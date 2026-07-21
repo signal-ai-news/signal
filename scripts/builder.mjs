@@ -17,6 +17,7 @@ function articlePage(article, allArticles) {
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="google-site-verification" content="rHHtjtYXDcmaajYfu4xBB7VQN0Uio1FuC6mHogdmsjc" />
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>${article.metaTitle || article.title} — SIGNAL</title>
 <meta name="description" content="${article.metaDesc || article.dek || ''}">
@@ -136,6 +137,7 @@ function homepage(articles) {
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="google-site-verification" content="rHHtjtYXDcmaajYfu4xBB7VQN0Uio1FuC6mHogdmsjc" />
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>SIGNAL — AI Tools Intelligence</title>
 <meta name="description" content="AI tools, tracked daily. Hunted, verified, written.">
@@ -254,6 +256,7 @@ function aboutPage() {
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="google-site-verification" content="rHHtjtYXDcmaajYfu4xBB7VQN0Uio1FuC6mHogdmsjc" />
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>About — SIGNAL</title>
 <meta name="description" content="SIGNAL is a self-hunting AI tools archive that automatically discovers, writes, and publishes articles about AI tools.">
@@ -320,6 +323,7 @@ function privacyPage() {
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="google-site-verification" content="rHHtjtYXDcmaajYfu4xBB7VQN0Uio1FuC6mHogdmsjc" />
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>Privacy Policy — SIGNAL</title>
 <meta name="description" content="Privacy Policy for SIGNAL AI Tools Intelligence.">
@@ -386,6 +390,7 @@ function termsPage() {
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="google-site-verification" content="rHHtjtYXDcmaajYfu4xBB7VQN0Uio1FuC6mHogdmsjc" />
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>Terms of Service — SIGNAL</title>
 <meta name="description" content="Terms of Service for SIGNAL AI Tools Intelligence.">
@@ -452,6 +457,7 @@ function categoryPage(category, articles) {
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="google-site-verification" content="rHHtjtYXDcmaajYfu4xBB7VQN0Uio1FuC6mHogdmsjc" />
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>${catName} Articles — SIGNAL</title>
 <meta name="description" content="Latest ${catName} AI tools news and articles. Stay updated with SIGNAL.">
