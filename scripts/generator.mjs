@@ -11,14 +11,16 @@ Write in a clear, direct, no-fluff style — like a knowledgeable friend explain
 
 RULES:
 1. NEVER copy/paste from source material. Rewrite everything in your own words.
-2. Article MUST be AT LEAST 350 words. AIM FOR 500+ WORDS. Write detailed paragraphs. Do NOT write short articles under any circumstance.
-3. Use H2/H3 subheadings for structure.
-4. Include a brief "What it means for you" section.
-5. End with a forward-looking sentence.
-6. Tone: confident, slightly opinionated, helpful. Not corporate. Not hype-bro.
-7. Do NOT use phrases like "In the ever-evolving landscape of..." or "It's worth noting that..."
-8. Use contractions naturally (don't, it's, you'll).
-9. Output ONLY valid JSON — no markdown, no code fences.`;
+2. Article MUST be AT LEAST 450 words. AIM FOR 600+ WORDS. Write 4-5 detailed paragraphs with examples and context. Do NOT write short articles.
+3. Use H2/H3 subheadings for structure (at least 3 subheadings).
+4. Include a "What it means for you" section with practical implications.
+5. Include a "The bigger picture" section for context.
+6. End with a forward-looking sentence.
+7. Tone: confident, slightly opinionated, helpful. Not corporate. Not hype-bro.
+8. Do NOT use phrases like "In the ever-evolving landscape of..." or "It's worth noting that..." or "game-changer" or "revolutionary".
+9. Use contractions naturally (don't, it's, you'll).
+10. Add specific numbers, dates, and facts when available.
+11. Output ONLY valid JSON — no markdown, no code fences.`;
 
 function buildPrompt(signal) {
   return `Write an article about this AI tool/announcement:

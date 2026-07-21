@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>About — SIGNAL</title>
+<meta name="description" content="SIGNAL is a self-hunting AI tools archive that automatically discovers, writes, and publishes articles about AI tools.">
+<link rel="canonical" href="https://signal-nnt4.vercel.app/about.html">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600&display=swap');
+:root{--paper:#efe9dc;--ink:#1c2b25;--ink-soft:#5b6a5f;--rule:#c9bfa4;--signal:#b8481e;--card:#f6f2e7}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--paper);color:var(--ink);font-family:'Inter',sans-serif;line-height:1.7;-webkit-font-smoothing:antialiased}
+.container{max-width:720px;margin:0 auto;padding:24px}
+header.site{max-width:1080px;margin:0 auto;padding:36px 24px 22px;display:flex;justify-content:space-between;align-items:flex-end;border-bottom:2px solid var(--ink)}
+.wordmark{font-family:'Fraunces',serif;font-weight:700;font-size:34px;letter-spacing:-0.01em}
+.wordmark span{color:var(--signal)}
+nav.top{font-family:'JetBrains Mono',monospace;font-size:12px}
+nav.top a{color:var(--ink);text-decoration:none;margin-left:18px;border-bottom:1px solid transparent}
+nav.top a:hover{border-bottom:1px solid var(--signal)}
+h1{font-family:'Fraunces',serif;font-size:36px;line-height:1.15;margin:32px 0 20px}
+h2{font-family:'Fraunces',serif;font-size:24px;margin:32px 0 12px}
+p{margin-bottom:16px;color:var(--ink-soft);font-size:16px}
+.highlight{background:var(--card);border:1px solid var(--rule);padding:20px;border-radius:4px;margin:24px 0}
+footer{text-align:center;padding:26px;font-family:'JetBrains Mono',monospace;font-size:10.5px;color:var(--ink-soft);border-top:1px solid var(--rule)}
+</style>
+</head>
+<body>
+<header class="site">
+<div><div class="wordmark">SIGNAL<span>.</span></div></div>
+<nav class="top">
+<a href="/">Home</a>
+<a href="/about.html">About</a>
+<a href="/sitemap.xml">Sitemap</a>
+</nav>
+</header>
+<div class="container">
+<h1>About SIGNAL</h1>
+<p>SIGNAL is a self-hunting AI tools archive. It automatically discovers, writes, and publishes articles about AI tools — so you don't have to dig through dozens of blogs and changelogs.</p>
+
+<h2>How it works</h2>
+<div class="highlight">
+<p><strong>RSS Sources → Hunter → Generator → Quality Gate → Builder → Publish</strong></p>
+<p>Every 30 minutes, SIGNAL scans 22+ RSS feeds from top AI sources. When it finds something relevant, it generates an article, checks quality, and publishes it automatically.</p>
+</div>
+
+<h2>What makes it different</h2>
+<p>Every article starts as a raw signal from a release note, changelog, or product page. SIGNAL doesn't just aggregate — it writes original articles with context and analysis.</p>
+
+<h2>Technology</h2>
+<p>SIGNAL runs on GitHub Actions with Groq for article generation and Vercel for hosting. The entire pipeline is automated — from discovery to publication.</p>
+
+<h2>Contact</h2>
+<p>Questions or feedback? Open an issue on <a href="https://github.com/signal-ai-news/signal">GitHub</a>.</p>
+</div>
+<footer>SIGNAL — a self-hunting AI tools archive. Built and reviewed before publish.</footer>
+</body>
+</html>
