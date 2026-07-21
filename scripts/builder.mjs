@@ -567,6 +567,87 @@ ${catArticles.map((a, i) => `
 </html>`;
 }
 
+// ─── Newsletter page ───
+function newsletterPage() {
+  return `<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="google-site-verification" content="rHHtjtYXDcmaajYfu4xBB7VQN0Uio1FuC6mHogdmsjc" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Newsletter — SIGNAL</title>
+<meta name="description" content="Subscribe to SIGNAL newsletter for daily AI tools intelligence.">
+<link rel="canonical" href="${SITE_URL}/newsletter.html">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600&display=swap');
+:root{--paper:#efe9dc;--ink:#1c2b25;--ink-soft:#5b6a5f;--rule:#c9bfa4;--signal:#b8481e;--card:#f6f2e7}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--paper);color:var(--ink);font-family:'Inter',sans-serif;line-height:1.7;-webkit-font-smoothing:antialiased}
+.container{max-width:720px;margin:0 auto;padding:24px}
+header.site{max-width:1080px;margin:0 auto;padding:36px 24px 22px;display:flex;justify-content:space-between;align-items:flex-end;border-bottom:2px solid var(--ink)}
+.wordmark{font-family:'Fraunces',serif;font-weight:700;font-size:34px}
+.wordmark span{color:var(--signal)}
+nav.top{font-family:'JetBrains Mono',monospace;font-size:12px}
+nav.top a{color:var(--ink);text-decoration:none;margin-left:18px}
+h1{font-family:'Fraunces',serif;font-size:36px;margin:32px 0 20px}
+h2{font-family:'Fraunces',serif;font-size:24px;margin:32px 0 12px}
+p{margin-bottom:16px;color:var(--ink-soft);font-size:16px}
+.form-box{background:var(--card);border:1px solid var(--rule);padding:32px;border-radius:6px;margin:32px 0;text-align:center}
+.form-box h2{margin-top:0}
+.form-box input[type="email"]{width:100%;max-width:400px;padding:12px 16px;border:1px solid var(--rule);border-radius:4px;font-family:'Inter',sans-serif;font-size:16px;margin-bottom:16px;background:var(--paper)}
+.form-box button{background:var(--signal);color:white;border:none;padding:12px 32px;font-family:'JetBrains Mono',monospace;font-size:14px;border-radius:4px;cursor:pointer;transition:background .2s}
+.form-box button:hover{background:#9a3d19}
+.features{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:24px;margin:32px 0}
+.feature{background:var(--card);border:1px solid var(--rule);padding:20px;border-radius:4px}
+.feature h3{font-size:16px;margin-bottom:8px}
+.feature p{font-size:14px;margin:0}
+footer{text-align:center;padding:26px;font-family:'JetBrains Mono',monospace;font-size:10.5px;color:var(--ink-soft);border-top:1px solid var(--rule)}
+.dark-toggle{position:fixed;bottom:20px;right:20px;width:40px;height:40px;border-radius:50%;border:1px solid var(--rule);background:var(--card);cursor:pointer;font-size:18px;display:flex;align-items:center;justify-content:center}
+body.dark{--paper:#1a1a2e;--ink:#e0e0e0;--ink-soft:#a0a0b0;--rule:#2a2a4a;--signal:#e07040;--card:#1e1e3a}
+</style>
+</head>
+<body>
+<header class="site">
+<div><div class="wordmark">SIGNAL<span>.</span></div></div>
+<nav class="top"><a href="/">Home</a><a href="/newsletter.html">Newsletter</a><a href="/about.html">About</a></nav>
+</header>
+<div class="container">
+<h1>📡 SIGNAL Newsletter</h1>
+<p>Get the latest AI tools intelligence delivered to your inbox. No spam, just signal.</p>
+
+<div class="form-box">
+<h2>Subscribe for Free</h2>
+<p>Join thousands of professionals staying ahead of the AI curve.</p>
+<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+<input type="email" name="email" placeholder="your@email.com" required>r>
+<button type="submit">Subscribe →</button>
+</form>
+<p style="font-size:12px;margin-top:12px;color:var(--ink-soft)">Free forever. Unsubscribe anytime.</p>
+</div>
+
+<h2>What You'll Get</h2>
+<div class="features">
+<div class="feature">
+<h3>🔍 Daily Digest</h3>
+<p>Curated AI tools news from 22+ sources, delivered daily.</p>
+</div>
+<div class="feature">
+<h3>📊 Early Access</h3>
+<p>Be the first to know about new AI tools and updates.</p>
+</div>
+<div class="feature">
+<h3>🎯 No Noise</h3>
+<p>Only verified, quality content. No hype, no fluff.</p>
+</div>
+</div>
+</div>
+<button class="dark-toggle" onclick="document.body.classList.toggle('dark');localStorage.setItem('dark',document.body.classList.contains('dark'))">🌙</button>
+<script>if(localStorage.getItem('dark')==='true')document.body.classList.add('dark')</script>
+<footer>SIGNAL — AI Tools Intelligence</footer>
+</body>
+</html>`;
+}
+
 // ─── Sitemap generator ───
 function generateSitemap(articles) {
   const published = articles.filter(a => a.status === 'published');
@@ -576,6 +657,8 @@ function generateSitemap(articles) {
     { loc: `${SITE_URL}/about.html`, changefreq: 'monthly', priority: '0.5' },
     { loc: `${SITE_URL}/privacy.html`, changefreq: 'yearly', priority: '0.3' },
     { loc: `${SITE_URL}/terms.html`, changefreq: 'yearly', priority: '0.3' },
+    { loc: `${SITE_URL}/feed.xml`, changefreq: 'daily', priority: '0.5' },
+    { loc: `${SITE_URL}/newsletter.html`, changefreq: 'monthly', priority: '0.6' },
     ...categories.map(cat => ({
       loc: `${SITE_URL}/category/${cat}.html`,
       changefreq: 'weekly',
@@ -685,7 +768,11 @@ export async function build() {
   await fs.writeFile(path.join(PUBLIC_DIR, 'sitemap.xml'), generateSitemap(articles));
   console.log('  ✓ sitemap.xml');
 
-  // 8. RSS Feed
+  // 8. Newsletter page
+  await fs.writeFile(path.join(PUBLIC_DIR, 'newsletter.html'), newsletterPage());
+  console.log('  ✓ newsletter.html');
+
+  // 9. RSS Feed
   await fs.writeFile(path.join(PUBLIC_DIR, 'feed.xml'), generateRSS(articles));
   console.log('  ✓ feed.xml');
 
