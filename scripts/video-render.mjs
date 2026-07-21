@@ -36,10 +36,24 @@ async function generateFrames(script, coverImagePath, slug) {
   const fps = 30;
   let frameNum = 0;
 
-  const browser = await chromium.launch({
-    headless: true,
-    executablePath: '/opt/ms-playwright/chromium-1223/chrome-linux64/chrome'
-  });
+  // Try known paths for Chromium
+  const possiblePaths = [
+    '/opt/ms-playwright/chromium-1223/chrome-linux64/chrome',
+    '/opt/ms-playwright/chrome-linux64/chrome',
+    '/usr/bin/chromium-browser',
+    '/usr/bin/chromium',
+    '/usr/bin/google-chrome',
+    '/usr/bin/google-chrome-stable',
+  ];
+  let execPath;
+  for (const p of possiblePaths) {
+    try { await fs.access(p); execPath = p; break; } catch {}
+  }
+  if (!execPath) {
+    // Fallback: use FFmpeg text-only approach
+    return await renderVideoFFmpeg(script, audioPath, slug);
+  }
+  const browser = await chromium.launch({ headless: true, executablePath: execPath });
   const context = await browser.newContext({
     viewport: { width: 1080, height: 1920 }
   });
@@ -149,6 +163,69 @@ export async function renderVideo(script, audioPath, coverImagePath, slug) {
   // Cleanup frames
   await fs.rm(frameDir, { recursive: true, force: true });
 
+  return outputPath;
+}
+
+// ─── FFmpeg Fallback (no browser needed) ───
+async function renderVideoFFmpeg(script, audioPath, slug) {
+  await fs.mkdir(VIDEO_DIR, { recursive: true });
+  const outputPath = path.join(VIDEO_DIR, `${slug}.mp4`);
+  const tmpDir = path.join(ROOT, 'content', 'tmp-frames', slug);
+  await fs.mkdir(tmpDir, { recursive: true });
+
+  console.log(`  🎬 Rendering with FFmpeg fallback: ${slug}`);
+
+  // Get audio duration
+  let duration;
+  try {
+    const probe = execSync(`ffprobe -v error -show_entries format=duration -of csv=p=0 "${audioPath}"`, { encoding: 'utf-8' });
+    duration = parseFloat(probe.trim());
+  } catch {
+    duration = script.estimated_seconds || 35;
+  }
+
+  const fps = 30;
+  const totalFrames = Math.ceil(duration * fps);
+
+  // Build segments timeline
+  const segments = [];
+  const pointDuration = Math.floor((duration - 7) / 3);
+  segments.push({ text: script.hook, start: 0, end: 4 });
+  script.points.forEach((p, i) => {
+    segments.push({ text: p, start: 4 + i * pointDuration, end: 4 + (i + 1) * pointDuration });
+  });
+  segments.push({ text: script.cta, start: duration - 3, end: duration });
+
+  // Generate frames using FFmpeg drawtext
+  // Build complex filter for text animation
+  const bgColors = ['#1c2b25', '#2a1f1a', '#1a2a20', '#251c2b'];
+  const accentColor = '#b8481e';
+
+  // Create a video with colored background and animated text using FFmpeg
+  const textFilters = segments.map((seg, i) => {
+    const escaped = seg.text.replace(/'/g, "\\'").replace(/:/g, '\\:');
+    const fadeIn = `enable='between(t,${seg.start},${seg.start + 0.5})':alpha='if(lt(t-${seg.start},0.5),(t-${seg.start})/0.5,1)'`;
+    return `drawtext=text='${escaped}':fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:fontsize=48:fontcolor=white:x=(w-text_w)/2:y=(h-text_h)/2:${fadeIn}:enable='between(t,${seg.start},${seg.end})'`;
+  }).join(',');
+
+  // Simple approach: dark background + text overlays + audio
+  const ffmpegCmd = [
+    'ffmpeg -y',
+    `-f lavfi -i "color=c=#1c2b25:s=1080x1920:d=${duration}:r=${fps}"`,
+    `-i "${audioPath}"`,
+    `-vf "${textFilters}"`,
+    '-c:v libx264 -preset fast -crf 23',
+    '-c:a aac -b:a 128k',
+    '-pix_fmt yuv420p',
+    '-shortest',
+    '-movflags +faststart',
+    `"${outputPath}"`
+  ].join(' ');
+
+  execSync(ffmpegCmd, { stdio: 'pipe', timeout: 300000 });
+
+  const stat = await fs.stat(outputPath);
+  console.log(`  ✅ Video (FFmpeg): ${(stat.size / 1024 / 1024).toFixed(1)}MB → ${outputPath}`);
   return outputPath;
 }
 
