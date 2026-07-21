@@ -973,5 +973,88 @@
     "category": "community",
     "discovered": "2026-07-21T20:58:55.544Z",
     "published": "Tue, 21 Jul 2026 19:04:02 +0000"
+  },
+  {
+    "url": "https://siliconangle.com/2026/07/20/hugging-face-uses-open-weights-z-ai-glm-5-2-defend-attacker-commercial-frontier-model-refusal/",
+    "title": "Hugging Face uses open-weights Z.ai GLM 5.2 to battle attacker",
+    "description": "Article URL: https://siliconangle.com/2026/07/20/hugging-face-uses-open-weights-z-ai-glm-5-2-defend-attacker-commercial-frontier-model-refusal/\nComments URL: https://news.ycombinator.com/item?id=48998910\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T21:59:42.493Z",
+    "published": "Tue, 21 Jul 2026 21:57:01 +0000",
+    "processed": true,
+    "processedAt": "2026-07-21T21:59:58.929Z"
+  },
+  {
+    "url": "https://www.thesean.ai/blog/introducing-ship",
+    "title": "Reducing LLM Costs 50% Using Best-Execution for Intelligence",
+    "description": "Article URL: https://www.thesean.ai/blog/introducing-ship\nComments URL: https://news.ycombinator.com/item?id=48998844\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T21:59:42.493Z",
+    "published": "Tue, 21 Jul 2026 21:50:13 +0000"
+  },
+  {
+    "url": "https://ai.google.dev/gemini-api/docs/latest-model",
+    "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+    "description": "Article URL: https://ai.google.dev/gemini-api/docs/latest-model\nComments URL: https://news.ycombinator.com/item?id=48998606\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T21:59:42.493Z",
+    "published": "Tue, 21 Jul 2026 21:27:54 +0000"
+  },
+  {
+    "url": "https://machinations.tpk.gg/",
+    "title": "Show HN: Machinations – a multiplayer strategy game where LLM is the game master",
+    "description": "I started by thinking about the game mechanics I actually wanted to see. I come from a long background in diceless tabletop RPGs, and what I loved about them was the GM improvising, making rulings on the spot. When LLMs came along, I saw a chance to build a mechanic that worked like that.But LLMs o",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T21:59:42.493Z",
+    "published": "Tue, 21 Jul 2026 21:26:51 +0000"
+  },
+  {
+    "url": "https://github.com/TryRekon/Rekon",
+    "title": "Open Source AI Harness Profiler – discover where tf your tokens are going",
+    "description": "Article URL: https://github.com/TryRekon/Rekon\nComments URL: https://news.ycombinator.com/item?id=48998468\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T21:59:42.493Z",
+    "published": "Tue, 21 Jul 2026 21:17:28 +0000"
+  },
+  {
+    "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+    "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+    "description": "Article URL: https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok\nComments URL: https://news.ycombinator.com/item?id=48998404\nPoints: 13\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T21:59:42.493Z",
+    "published": "Tue, 21 Jul 2026 21:13:20 +0000"
+  },
+  {
+    "url": "https://zetadeck.com",
+    "title": "Show HN: Unified workspace where AI knows your business",
+    "description": "Article URL: https://zetadeck.com\nComments URL: https://news.ycombinator.com/item?id=48998261\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T21:59:42.493Z",
+    "published": "Tue, 21 Jul 2026 21:01:53 +0000"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/",
+    "title": "How to build interactive experiences with canvases",
+    "description": "Canvases turn AI into interactive workspaces where you can visualize information, explore workflows, and take action across complex tasks.\nThe post How to build interactive experiences with canvases appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-07-21T21:59:54.093Z",
+    "published": "Tue, 21 Jul 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/",
+    "title": "$100 million for open source: A milestone built by the community",
+    "description": "Celebrating $100 million contributed by the community to the people who build and sustain open source every day.\nThe post $100 million for open source: A milestone built by the community appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-07-21T21:59:54.093Z",
+    "published": "Mon, 20 Jul 2026 16:00:00 +0000"
   }
 ]
