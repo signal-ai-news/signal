@@ -61,7 +61,9 @@
     "source": "TechCrunch AI",
     "category": "news",
     "discovered": "2026-07-21T17:39:20.314Z",
-    "published": "Tue, 21 Jul 2026 00:12:24 +0000"
+    "published": "Tue, 21 Jul 2026 00:12:24 +0000",
+    "processed": true,
+    "processedAt": "2026-07-21T20:27:42.351Z"
   },
   {
     "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
@@ -70,7 +72,9 @@
     "source": "TechCrunch AI",
     "category": "news",
     "discovered": "2026-07-21T17:39:20.314Z",
-    "published": "Mon, 20 Jul 2026 22:21:04 +0000"
+    "published": "Mon, 20 Jul 2026 22:21:04 +0000",
+    "processed": true,
+    "processedAt": "2026-07-21T20:27:42.351Z"
   },
   {
     "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
@@ -79,7 +83,9 @@
     "source": "TechCrunch AI",
     "category": "news",
     "discovered": "2026-07-21T17:39:20.314Z",
-    "published": "Mon, 20 Jul 2026 21:21:15 +0000"
+    "published": "Mon, 20 Jul 2026 21:21:15 +0000",
+    "processed": true,
+    "processedAt": "2026-07-21T20:27:42.351Z"
   },
   {
     "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
