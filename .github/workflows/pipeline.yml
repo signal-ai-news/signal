@@ -22,8 +22,8 @@ jobs:
       - run: npm ci
       - name: Run pipeline
         env:
-          GROQ_API_KEY: *** secrets.GROQ_API_KEY }}
-          TG_BOT_TOKEN: *** secrets.TG_BOT_TOKEN }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_USER_ID: ${{ secrets.TG_USER_ID }}
         run: node scripts/orchestrator.mjs --limit ${{ github.event.inputs.limit || '3' }}
       - name: Commit and push
