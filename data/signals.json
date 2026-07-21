@@ -368,5 +368,191 @@
     "category": "community",
     "discovered": "2026-07-21T17:39:29.902Z",
     "published": "Tue, 21 Jul 2026 16:44:39 +0000"
+  },
+  {
+    "url": "https://github.com/Kentucky-ai/opentakeoff",
+    "title": "OpenTakeoff – open-source construction takeoff your AI agent can drive",
+    "description": "Article URL: https://github.com/Kentucky-ai/opentakeoff\nComments URL: https://news.ycombinator.com/item?id=48996573\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T19:00:55.616Z",
+    "published": "Tue, 21 Jul 2026 18:58:58 +0000",
+    "processed": true,
+    "processedAt": "2026-07-21T19:01:05.682Z"
+  },
+  {
+    "url": "https://www.nextplatform.com/ai/2026/07/16/ai-chips-drive-around-a-third-of-tsmc-revenues/5273929",
+    "title": "AI Chips Drive Around a Third of TSMC Revenues",
+    "description": "Article URL: https://www.nextplatform.com/ai/2026/07/16/ai-chips-drive-around-a-third-of-tsmc-revenues/5273929\nComments URL: https://news.ycombinator.com/item?id=48996487\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T19:00:55.616Z",
+    "published": "Tue, 21 Jul 2026 18:52:50 +0000",
+    "processed": true,
+    "processedAt": "2026-07-21T19:01:05.682Z"
+  },
+  {
+    "url": "https://oklahomawatch.org/2026/07/21/a-40000-per-year-ai-school-with-no-teachers-is-opening-in-oklahoma-this-august/",
+    "title": "A $40k-per-Year AI School with No Teachers Is Opening in Oklahoma This August",
+    "description": "Article URL: https://oklahomawatch.org/2026/07/21/a-40000-per-year-ai-school-with-no-teachers-is-opening-in-oklahoma-this-august/\nComments URL: https://news.ycombinator.com/item?id=48996485\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T19:00:55.616Z",
+    "published": "Tue, 21 Jul 2026 18:52:43 +0000",
+    "processed": true,
+    "processedAt": "2026-07-21T19:01:05.682Z"
+  },
+  {
+    "url": "https://github.com/IterateAI/compression",
+    "title": "40–90% fewer tokens on Claude Code via TokenOptimization",
+    "description": "Article URL: https://github.com/IterateAI/compression\nComments URL: https://news.ycombinator.com/item?id=48996423\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T19:00:55.616Z",
+    "published": "Tue, 21 Jul 2026 18:47:38 +0000"
+  },
+  {
+    "url": "https://github.com/michaelolmos/tsaagan",
+    "title": "Show HN: Tsaagan – Browser control for AI agents that verifies every action",
+    "description": "Article URL: https://github.com/michaelolmos/tsaagan\nComments URL: https://news.ycombinator.com/item?id=48996382\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T19:00:55.616Z",
+    "published": "Tue, 21 Jul 2026 18:44:29 +0000"
+  },
+  {
+    "url": "https://help.trmnl.com/en/articles/14130438-ai-agent",
+    "title": "AI Agent – TRMNL",
+    "description": "Article URL: https://help.trmnl.com/en/articles/14130438-ai-agent\nComments URL: https://news.ycombinator.com/item?id=48996236\nPoints: 4\n# Comments: 5",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T19:00:55.616Z",
+    "published": "Tue, 21 Jul 2026 18:32:21 +0000"
+  },
+  {
+    "url": "https://www.theatlantic.com/ideas/2026/07/ai-economy-stock-market/688004/",
+    "title": "The AI Bubble Is No Ordinary Bubble",
+    "description": "Article URL: https://www.theatlantic.com/ideas/2026/07/ai-economy-stock-market/688004/\nComments URL: https://news.ycombinator.com/item?id=48996223\nPoints: 4\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T19:00:55.616Z",
+    "published": "Tue, 21 Jul 2026 18:31:36 +0000"
+  },
+  {
+    "url": "https://www.threadfork.com/",
+    "title": "Show HN: threadfork – AI meeting notes that run on your Mac",
+    "description": "Hi HN, I built threadfork. It's an AI notetaker where the whole pipeline runs locally on Apple Silicon.  Your microphone and system audio gets captured without a meeting bot and most importantly your meeting data doesn’t get sent or saved anywhere.I've been building in the privacy + local LLM space",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T19:00:55.616Z",
+    "published": "Tue, 21 Jul 2026 18:30:38 +0000"
+  },
+  {
+    "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
+    "title": "AI Didn't Make Programming Easier. It Just Made It Differently Difficult",
+    "description": "Article URL: https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/\nComments URL: https://news.ycombinator.com/item?id=48996197\nPoints: 12\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T19:00:55.616Z",
+    "published": "Tue, 21 Jul 2026 18:30:21 +0000"
+  },
+  {
+    "url": "https://twitter.com/jimcramer/status/2079509100535197892",
+    "title": "Jim Cramer worried about security implications of free Chinese AI models",
+    "description": "Article URL: https://twitter.com/jimcramer/status/2079509100535197892\nComments URL: https://news.ycombinator.com/item?id=48996196\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T19:00:55.616Z",
+    "published": "Tue, 21 Jul 2026 18:30:20 +0000"
+  },
+  {
+    "url": "https://medium.com/the-discovery-collective/your-website-is-no-longer-your-brand-ai-is-reconstructing-it-from-everywhere-else-9d8a58c873b8",
+    "title": "Website Is No Longer Your Brand – AI Is Reconstructing It from Everywhere Else",
+    "description": "Article URL: https://medium.com/the-discovery-collective/your-website-is-no-longer-your-brand-ai-is-reconstructing-it-from-everywhere-else-9d8a58c873b8\nComments URL: https://news.ycombinator.com/item?id=48996173\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T19:00:55.616Z",
+    "published": "Tue, 21 Jul 2026 18:28:29 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=48996104",
+    "title": "Halo v2.7: Unified MCP Tool Engine for AI Security",
+    "description": "HALO v2.7 introduces a unified MCP tool engine, smarter binary resolution, standardized errors, and a cleaner AI security architecture.\n\nComments URL: https://news.ycombinator.com/item?id=48996104\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T19:00:55.616Z",
+    "published": "Tue, 21 Jul 2026 18:23:09 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=fk0HVruAWBk",
+    "title": "Georgia homeowners are being forced from their homes to power AI data centers [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=fk0HVruAWBk\nComments URL: https://news.ycombinator.com/item?id=48996090\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T19:00:55.616Z",
+    "published": "Tue, 21 Jul 2026 18:22:21 +0000"
+  },
+  {
+    "url": "https://spyglass.org/google-gemini-fiasco/",
+    "title": "Google (Again) Clearly Needs to Unite Their AI Clans",
+    "description": "Article URL: https://spyglass.org/google-gemini-fiasco/\nComments URL: https://news.ycombinator.com/item?id=48996013\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T19:00:55.616Z",
+    "published": "Tue, 21 Jul 2026 18:16:04 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/",
+    "title": "The U.S. Army Is Burning Through Its AI Tokens",
+    "description": "Article URL: https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/\nComments URL: https://news.ycombinator.com/item?id=48995990\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T19:00:55.616Z",
+    "published": "Tue, 21 Jul 2026 18:13:54 +0000"
+  },
+  {
+    "url": "https://github.com/aido-dev/aido",
+    "title": "Show HN: Aido – an AI companion for the pull requests your AI writes",
+    "description": "Article URL: https://github.com/aido-dev/aido\nComments URL: https://news.ycombinator.com/item?id=48995912\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T19:00:55.616Z",
+    "published": "Tue, 21 Jul 2026 18:07:06 +0000"
+  },
+  {
+    "url": "https://github.com/RubricLab/tokenmaxx",
+    "title": "Show HN: Tokenmaxx – CLI that merges usage across Claude Code and Codex accounts",
+    "description": "Article URL: https://github.com/RubricLab/tokenmaxx\nComments URL: https://news.ycombinator.com/item?id=48995775\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T19:00:55.616Z",
+    "published": "Tue, 21 Jul 2026 17:56:28 +0000"
+  },
+  {
+    "url": "https://andrewrussell.substack.com/p/i-built-an-ai-agent-i-cant-turn-",
+    "title": "I built an AI agent I can't turn off. Now it won't listen to me",
+    "description": "Article URL: https://andrewrussell.substack.com/p/i-built-an-ai-agent-i-cant-turn-\nComments URL: https://news.ycombinator.com/item?id=48995773\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T19:00:55.616Z",
+    "published": "Tue, 21 Jul 2026 17:56:17 +0000"
+  },
+  {
+    "url": "https://github.com/yashchimata/statgate",
+    "title": "Show HN: Statgate, statistically calibrated ship/block CI gates for LLM evals",
+    "description": "Article URL: https://github.com/yashchimata/statgate\nComments URL: https://news.ycombinator.com/item?id=48995760\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T19:00:55.616Z",
+    "published": "Tue, 21 Jul 2026 17:55:23 +0000"
+  },
+  {
+    "url": "https://twitter.com/OfficialLoganK/status/2079590123038204255",
+    "title": "Gemini 3.6 Flash",
+    "description": "Article URL: https://twitter.com/OfficialLoganK/status/2079590123038204255\nComments URL: https://news.ycombinator.com/item?id=48995759\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-21T19:00:55.616Z",
+    "published": "Tue, 21 Jul 2026 17:55:20 +0000"
   }
 ]

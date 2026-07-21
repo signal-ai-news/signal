@@ -70,5 +70,31 @@
     "status": "published",
     "wordCount": 269,
     "image": "/images/ai-music-deezer.jpg"
+  },
+  {
+    "title": "AI Takes Construction",
+    "slug": "ai-takes-construction",
+    "dek": "OpenTakeoff brings AI to construction takeoff, and it's open-source",
+    "metaTitle": "AI Construction Tool",
+    "metaDesc": "OpenTakeoff is an open-source construction takeoff tool driven by AI",
+    "tags": [
+      "AI",
+      "construction",
+      "open-source"
+    ],
+    "category": "community",
+    "body": "<h2>Introduction to OpenTakeoff</h2><p>Construction takeoff is a crucial step in the building process, involving the estimation of materials and costs for a project. It's a time-consuming and labor-intensive task that's prone to human error. OpenTakeoff is an open-source tool that aims to change this by leveraging AI to drive the construction takeoff process.</p><h2>How it Works</h2><p>OpenTakeoff uses machine learning algorithms to analyze construction plans and estimate the required materials and costs. The tool is designed to be driven by an AI agent, which can learn from experience and improve its estimates over time. This means that the more you use OpenTakeoff, the more accurate it becomes.</p><h3>Key Features</h3><ul><li>Automated material estimation</li><li>Cost calculation and analysis</li><li>AI-driven takeoff process</li><li>Open-source and customizable</li></ul><h2>What it means for you</h2><p>If you're in the construction industry, OpenTakeoff can save you time and money by automating the takeoff process. It can also help reduce errors and improve the accuracy of your estimates. As an open-source tool, you can customize it to fit your specific needs and integrate it with your existing workflows.</p><h2>Conclusion</h2><p>OpenTakeoff is a game-changer for the construction industry, and its open-source nature means that it has the potential to become a widely-adopted standard. As AI technology continues to evolve, we'll likely see even more innovative tools like OpenTakeoff emerge, transforming the way we build and manage construction projects. As we look to the future, it's clear that AI will play an increasingly important role in shaping the construction industry.</p>",
+    "imagePrompt": "An illustration of a construction site with a robot or AI agent in the foreground, surrounded by building plans and materials, with a cityscape in the background",
+    "sourceUrl": "https://github.com/Kentucky-ai/opentakeoff",
+    "sourceName": "Hacker News (AI)",
+    "signalCategory": "community",
+    "generated": "2026-07-21T19:00:59.263Z",
+    "status": "draft",
+    "wordCount": 236,
+    "image": "/images/ai-takes-construction.jpg",
+    "qualityIssues": [
+      "Word count 236 < minimum 250",
+      "AI slop detected: \"game-changer\""
+    ]
   }
 ]
