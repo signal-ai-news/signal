@@ -82,5 +82,53 @@
     "type": "rss",
     "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude+OR+Gemini&count=20",
     "category": "community"
+  },
+  {
+    "name": "Meta AI Blog",
+    "type": "rss",
+    "url": "https://ai.meta.com/blog/rss/",
+    "category": "llm"
+  },
+  {
+    "name": "DeepMind Blog",
+    "type": "rss",
+    "url": "https://deepmind.google/blog/rss.xml",
+    "category": "llm"
+  },
+  {
+    "name": "Stability AI Blog",
+    "type": "rss",
+    "url": "https://stability.ai/blog/rss.xml",
+    "category": "image"
+  },
+  {
+    "name": "Perplexity Blog",
+    "type": "rss",
+    "url": "https://www.perplexity.ai/hub/feed",
+    "category": "tools"
+  },
+  {
+    "name": "Cursor Blog",
+    "type": "rss",
+    "url": "https://www.cursor.com/blog/rss.xml",
+    "category": "devtools"
+  },
+  {
+    "name": "Weights & Biases Blog",
+    "type": "rss",
+    "url": "https://wandb.ai/fully-connected/feed",
+    "category": "ml"
+  },
+  {
+    "name": "Towards Data Science",
+    "type": "rss",
+    "url": "https://towardsdatascience.com/feed",
+    "category": "ml"
+  },
+  {
+    "name": "The Decoder",
+    "type": "rss",
+    "url": "https://the-decoder.com/feed/",
+    "category": "news"
   }
 ]
