@@ -554,5 +554,168 @@
     "category": "community",
     "discovered": "2026-07-21T19:00:55.616Z",
     "published": "Tue, 21 Jul 2026 17:55:20 +0000"
+  },
+  {
+    "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "description": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+    "source": "DeepMind Blog",
+    "category": "llm",
+    "discovered": "2026-07-21T19:30:18.300Z",
+    "published": "Tue, 21 Jul 2026 15:16:30 +0000",
+    "processed": true,
+    "processedAt": "2026-07-21T19:30:29.991Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/prompt-engineering-isnt-enough-how-four-bricks-of-context-engineering-stop-rag-hallucinations/",
+    "title": "Prompt Engineering Isn’t Enough: How Four Bricks of Context Engineering Stop RAG Hallucinations",
+    "description": "Enterprise Document Intelligence [Vol.1 #9bis] - Your RAG isn’t hallucinating, it’s answering the wrong context faithfully. On real NIST and World Bank documents, watch each of the four bricks break, and the contract that closes it\nThe post Prompt Engineering Isn’t Enough: How Four Bricks of Context",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-07-21T19:30:21.691Z",
+    "published": "Tue, 21 Jul 2026 16:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-21T19:30:29.991Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/i-tried-fine-tuning-a-robot-ai-model-on-colab-here-is-what-worked/",
+    "title": "I Tried Fine-Tuning a Robot AI Model on Colab. Here Is What Worked",
+    "description": "A reproducible 100-step LoRA fine-tuning run for OpenVLA, with dataset checks, Colab setup, training metrics, and W&#038;B evidence.\nThe post I Tried Fine-Tuning a Robot AI Model on Colab. Here Is What Worked appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-07-21T19:30:21.691Z",
+    "published": "Tue, 21 Jul 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-21T19:30:29.991Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/your-ml-experiments-are-a-mess-heres-the-fix/",
+    "title": "Are Your ML Experiments a Mess? Here’s the Fix",
+    "description": "A hands-on guide to tracking experiments, logging models, and reproducing results with ML Flow.\nThe post Are Your ML Experiments a Mess? Here’s the Fix appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-07-21T19:30:21.691Z",
+    "published": "Tue, 21 Jul 2026 12:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-21T19:30:29.991Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-run-claude-code-agents-for-24-hours/",
+    "title": "How to Run Claude Code Agents for 24+ Hours",
+    "description": "Apply long-running coding agents to become a more productive engineer\nThe post How to Run Claude Code Agents for 24+ Hours appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-07-21T19:30:21.691Z",
+    "published": "Mon, 20 Jul 2026 16:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-21T19:30:29.991Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/loop-engineering-with-adaptive-parsing-in-action-parsing-flat-tables-with-azure-and-figures-with-a-vision-llm/",
+    "title": "Loop Engineering with Adaptive Parsing in Action: Parsing Flat Tables with Azure and Figures with a Vision LLM",
+    "description": "Enterprise Document Intelligence [Vol.1 #10B] - The LLM as last line of defence, then two real escalations walked end to end: a flat table to Azure, a figure to a vision model\nThe post Loop Engineering with Adaptive Parsing in Action: Parsing Flat Tables with Azure and Figures with a Vision LLM appe",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-07-21T19:30:21.691Z",
+    "published": "Mon, 20 Jul 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/automatically-assign-a-category-to-uncategorised-rows-in-power-query-and-dax/",
+    "title": "Automatically Assign a Category to Uncategorized Rows in Power Query and DAX",
+    "description": "Having categorized data is everything in reporting. Uncategorized data cannot be grouped and aggregated. But sometimes we must assign a category to uncategorized data according to certain rules. Let’s see how I solved this in a facility management project.\nThe post Automatically Assign a Category to",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-07-21T19:30:21.691Z",
+    "published": "Mon, 20 Jul 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/an-ai-system-helped-pakistani-judges-clear-massive-backlogs-at-38-50-return-per-dollar-invested/",
+    "title": "An AI system helped Pakistani judges clear massive backlogs at $38.50 return per dollar invested",
+    "description": "A field experiment with 1,559 Pakistani judges found that the AI assistant JudgeGPT boosted case resolution by 6.3 percent. The catch: only judges who got hands-on training saw gains. Without it, the effect mostly disappeared. The researchers estimate a return of up to $38.50 per dollar inv",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-21T19:30:23.275Z",
+    "published": "Tue, 21 Jul 2026 19:12:20 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/claude-cowork-learns-new-skills-through-screen-recordings-and-voice-over-explanations/",
+    "title": "Claude Cowork learns new skills through screen recordings and voice-over explanations",
+    "description": "Anthropic's Claude Cowork desktop app now lets users record their screen while completing a task, add voice commentary, and have Claude turn the whole thing into a reusable skill.\nThe article Claude Cowork learns new skills through screen recordings and voice-over explanations appeared firs",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-21T19:30:23.275Z",
+    "published": "Tue, 21 Jul 2026 17:07:21 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/google-ships-three-new-gemini-flash-models-but-its-frontier-3-5-pro-remains-lost-in-training/",
+    "title": "Google ships three new Gemini Flash models but its frontier 3.5 Pro remains lost in training",
+    "description": "Google is shipping three new Flash models in the Gemini series, including the more efficient 3.6 Flash, which uses up to 65 percent fewer tokens, and a cybersecurity model available only to governments and select partners. But the anticipated flagship, Gemini 3.5 Pro, is still missing, whil",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-21T19:30:23.275Z",
+    "published": "Tue, 21 Jul 2026 16:52:51 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/alibabas-qwen-image-3-0-renders-full-infographic-grids-and-readable-ten-pixel-text-in-a-single-pass/",
+    "title": "Alibaba's Qwen-Image-3.0 renders full infographic grids and readable ten-pixel text in a single pass",
+    "description": "Alibaba's Qwen team has introduced Qwen-Image-3.0, an image generator that accepts prompts up to 4,500 tokens, renders legible text as small as ten pixels, and supports twelve languages natively. It can create complex layouts such as infographics, LaTeX papers, and newspaper pages in a sing",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-21T19:30:23.275Z",
+    "published": "Tue, 21 Jul 2026 15:55:09 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/microsoft-and-mistral-strike-multi-billion-dollar-deal-to-build-ai-infrastructure-across-europe/",
+    "title": "Microsoft and Mistral strike multi-billion-dollar deal to build AI infrastructure across Europe",
+    "description": "Microsoft and Mistral are expanding their strategic partnership with a multi-billion-dollar deal to build out AI infrastructure in Europe.\nThe article Microsoft and Mistral strike multi-billion-dollar deal to build AI infrastructure across Europe appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-21T19:30:23.275Z",
+    "published": "Tue, 21 Jul 2026 15:07:22 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/alibabas-qwen-audio-3-0-tts-plus-tops-the-competition-in-the-text-to-speech-rankings/",
+    "title": "Alibaba's Qwen Audio 3.0 TTS Plus tops the competition in the text-to-speech rankings",
+    "description": "Alibaba's Qwen Audio 3.0 TTS Plus tops Artificial Analysis' Speech Arena leaderboard. The model supports 16 languages and lets users control speaking style with natural language or tags like [angry]. At 16 characters per second, though, it's far slower than rivals Sonic 3.5 and Simba 3.2.\nT",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-21T19:30:23.275Z",
+    "published": "Tue, 21 Jul 2026 11:31:15 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/xiaomi-robotics-1-shows-that-more-data-beats-bigger-models-when-training-robots-to-move/",
+    "title": "Xiaomi-Robotics-1 shows that more data beats bigger models when training robots to move",
+    "description": "Xiaomi trained Xiaomi-Robotics-1 on more than 100,000 hours of motion data collected by people using camera-equipped handheld grippers rather than robots. Adding data improved performance far more than increasing model size. The gains haven't plateaued, though absolute success rates remain",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-21T19:30:23.275Z",
+    "published": "Tue, 21 Jul 2026 08:56:51 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/googles-frozen-v2-chip-reportedly-bakes-geminis-architecture-directly-into-silicon-for-efficiency-gains/",
+    "title": "Google's \"Frozen v2\" chip reportedly bakes Gemini's architecture directly into silicon for efficiency gains",
+    "description": "Google is developing \"Frozen v2,\" a server chip that bakes the Gemini architecture directly into hardware. According to internal sources, it could be 6 to 10 times more efficient than current TPUs. Scheduled for 2028, the chip would drastically cut Google's AI inference costs and could give",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-21T19:30:23.275Z",
+    "published": "Mon, 20 Jul 2026 18:08:33 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation/",
+    "title": "District 9 director Neill Blomkamp releases first short film made entirely with AI video generation",
+    "description": "\"District 9\" director Neill Blomkamp has released \"Nightborne,\" a 13-minute sci-fi horror short generated entirely with the Seedance 2.0 video model. Blomkamp directed frame by frame through text prompts and founded a new AI film studio, Barley Studios, to produce a full-length feature next",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-21T19:30:23.275Z",
+    "published": "Mon, 20 Jul 2026 17:32:41 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/nvidias-grip-on-ai-chips-weakens-as-microsoft-turns-to-amd-and-anthropic-may-follow/",
+    "title": "Nvidia's grip on AI chips weakens as Microsoft turns to AMD and Anthropic may follow",
+    "description": "Microsoft is expanding Azure's AI infrastructure with AMD's new Helios platform, which is set to challenge Nvidia's GPU systems in the second half of 2026. A public GitHub profile suggests Anthropic is also testing AMD hardware, putting more pressure on Nvidia's pricing power.\nThe article N",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-21T19:30:23.275Z",
+    "published": "Mon, 20 Jul 2026 16:44:30 +0000"
   }
 ]
