@@ -1,109 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://signal-nnt4.vercel.app</loc>
+    <loc>https://signal-ai-news-signal.vercel.app</loc>
     
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://signal-nnt4.vercel.app/about.html</loc>
+    <loc>https://signal-ai-news-signal.vercel.app/about.html</loc>
     
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://signal-nnt4.vercel.app/privacy.html</loc>
+    <loc>https://signal-ai-news-signal.vercel.app/privacy.html</loc>
     
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://signal-nnt4.vercel.app/terms.html</loc>
+    <loc>https://signal-ai-news-signal.vercel.app/terms.html</loc>
     
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://signal-nnt4.vercel.app/feed.xml</loc>
+    <loc>https://signal-ai-news-signal.vercel.app/feed.xml</loc>
     
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://signal-nnt4.vercel.app/newsletter.html</loc>
+    <loc>https://signal-ai-news-signal.vercel.app/newsletter.html</loc>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://signal-nnt4.vercel.app/category/news.html</loc>
-    
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://signal-nnt4.vercel.app/category/community.html</loc>
+    <loc>https://signal-ai-news-signal.vercel.app/category/news.html</loc>
     
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://signal-nnt4.vercel.app/category/llm.html</loc>
+    <loc>https://signal-ai-news-signal.vercel.app/category/community.html</loc>
     
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://signal-nnt4.vercel.app/category/ml.html</loc>
+    <loc>https://signal-ai-news-signal.vercel.app/category/llm.html</loc>
     
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://signal-nnt4.vercel.app/articles/google-gemini-ai-strategy.html</loc>
+    <loc>https://signal-ai-news-signal.vercel.app/category/ml.html</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://signal-ai-news-signal.vercel.app/articles/google-gemini-ai-strategy.html</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://signal-nnt4.vercel.app/articles/us-threatens-china-ai-sanctions.html</loc>
+    <loc>https://signal-ai-news-signal.vercel.app/articles/us-threatens-china-ai-sanctions.html</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://signal-nnt4.vercel.app/articles/ai-music-deezer.html</loc>
+    <loc>https://signal-ai-news-signal.vercel.app/articles/ai-music-deezer.html</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://signal-nnt4.vercel.app/articles/ai-takes-construction.html</loc>
+    <loc>https://signal-ai-news-signal.vercel.app/articles/ai-takes-construction.html</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://signal-nnt4.vercel.app/articles/gemini-3-6-arrives.html</loc>
+    <loc>https://signal-ai-news-signal.vercel.app/articles/gemini-3-6-arrives.html</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://signal-nnt4.vercel.app/articles/ai-security-incident.html</loc>
+    <loc>https://signal-ai-news-signal.vercel.app/articles/ai-security-incident.html</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://signal-nnt4.vercel.app/articles/ai-simulations-state.html</loc>
+    <loc>https://signal-ai-news-signal.vercel.app/articles/ai-simulations-state.html</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://signal-nnt4.vercel.app/articles/ai-copyright-settlement.html</loc>
+    <loc>https://signal-ai-news-signal.vercel.app/articles/ai-copyright-settlement.html</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>

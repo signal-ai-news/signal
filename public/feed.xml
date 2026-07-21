@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>SIGNAL — AI Tools Intelligence</title>
-  <link>https://signal-nnt4.vercel.app</link>
+  <link>https://signal-ai-news-signal.vercel.app</link>
   <description>AI tools, tracked daily. Hunted, verified, written.</description>
   <language>en</language>
   <lastBuildDate>Tue, 21 Jul 2026 21:08:00 GMT</lastBuildDate>
-  <atom:link href="https://signal-nnt4.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+  <atom:link href="https://signal-ai-news-signal.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AI Copyright Clash</title>
-    <link>https://signal-nnt4.vercel.app/articles/ai-copyright-settlement.html</link>
-    <guid isPermaLink="true">https://signal-nnt4.vercel.app/articles/ai-copyright-settlement.html</guid>
+    <link>https://signal-ai-news-signal.vercel.app/articles/ai-copyright-settlement.html</link>
+    <guid isPermaLink="true">https://signal-ai-news-signal.vercel.app/articles/ai-copyright-settlement.html</guid>
     <description>A $1.5B settlement doesn't fix AI's copyright problem</description>
     <pubDate>Tue, 21 Jul 2026 20:27:36 GMT</pubDate>
     <category>NEWS</category>
   </item>
   <item>
     <title>AI Simulations</title>
-    <link>https://signal-nnt4.vercel.app/articles/ai-simulations-state.html</link>
-    <guid isPermaLink="true">https://signal-nnt4.vercel.app/articles/ai-simulations-state.html</guid>
+    <link>https://signal-ai-news-signal.vercel.app/articles/ai-simulations-state.html</link>
+    <guid isPermaLink="true">https://signal-ai-news-signal.vercel.app/articles/ai-simulations-state.html</guid>
     <description>Simulations just got a whole lot smarter with AI</description>
     <pubDate>Tue, 21 Jul 2026 20:22:13 GMT</pubDate>
     <category>ML</category>
   </item>
   <item>
     <title>AI Security Alert</title>
-    <link>https://signal-nnt4.vercel.app/articles/ai-security-incident.html</link>
-    <guid isPermaLink="true">https://signal-nnt4.vercel.app/articles/ai-security-incident.html</guid>
+    <link>https://signal-ai-news-signal.vercel.app/articles/ai-security-incident.html</link>
+    <guid isPermaLink="true">https://signal-ai-news-signal.vercel.app/articles/ai-security-incident.html</guid>
     <description>OpenAI and Hugging Face reveal a security incident during AI model evaluation, sharing key lessons for defenders</description>
     <pubDate>Tue, 21 Jul 2026 20:22:08 GMT</pubDate>
     <category>LLM</category>
   </item>
   <item>
     <title>Gemini 3.6 Unleashed</title>
-    <link>https://signal-nnt4.vercel.app/articles/gemini-3-6-arrives.html</link>
-    <guid isPermaLink="true">https://signal-nnt4.vercel.app/articles/gemini-3-6-arrives.html</guid>
+    <link>https://signal-ai-news-signal.vercel.app/articles/gemini-3-6-arrives.html</link>
+    <guid isPermaLink="true">https://signal-ai-news-signal.vercel.app/articles/gemini-3-6-arrives.html</guid>
     <description>DeepMind's latest Gemini models are here, promising faster and more efficient AI performance</description>
     <pubDate>Tue, 21 Jul 2026 19:30:26 GMT</pubDate>
     <category>LLM</category>
   </item>
   <item>
     <title>AI Takes Construction</title>
-    <link>https://signal-nnt4.vercel.app/articles/ai-takes-construction.html</link>
-    <guid isPermaLink="true">https://signal-nnt4.vercel.app/articles/ai-takes-construction.html</guid>
+    <link>https://signal-ai-news-signal.vercel.app/articles/ai-takes-construction.html</link>
+    <guid isPermaLink="true">https://signal-ai-news-signal.vercel.app/articles/ai-takes-construction.html</guid>
     <description>OpenTakeoff brings AI to construction takeoff, and it's open-source</description>
     <pubDate>Tue, 21 Jul 2026 19:00:59 GMT</pubDate>
     <category>COMMUNITY</category>
   </item>
   <item>
     <title>AI Music Takes Over</title>
-    <link>https://signal-nnt4.vercel.app/articles/ai-music-deezer.html</link>
-    <guid isPermaLink="true">https://signal-nnt4.vercel.app/articles/ai-music-deezer.html</guid>
+    <link>https://signal-ai-news-signal.vercel.app/articles/ai-music-deezer.html</link>
+    <guid isPermaLink="true">https://signal-ai-news-signal.vercel.app/articles/ai-music-deezer.html</guid>
     <description>Deezer reveals over 50% of daily uploads are AI-generated tracks</description>
     <pubDate>Tue, 21 Jul 2026 17:42:34 GMT</pubDate>
     <category>NEWS</category>
   </item>
   <item>
     <title>US Threatens China</title>
-    <link>https://signal-nnt4.vercel.app/articles/us-threatens-china-ai-sanctions.html</link>
-    <guid isPermaLink="true">https://signal-nnt4.vercel.app/articles/us-threatens-china-ai-sanctions.html</guid>
+    <link>https://signal-ai-news-signal.vercel.app/articles/us-threatens-china-ai-sanctions.html</link>
+    <guid isPermaLink="true">https://signal-ai-news-signal.vercel.app/articles/us-threatens-china-ai-sanctions.html</guid>
     <description>The US may sanction Chinese AI models over alleged IP theft, escalating the trade war</description>
     <pubDate>Tue, 21 Jul 2026 17:42:28 GMT</pubDate>
     <category>NEWS</category>
   </item>
   <item>
     <title>Google's Gemini Gap</title>
-    <link>https://signal-nnt4.vercel.app/articles/google-gemini-ai-strategy.html</link>
-    <guid isPermaLink="true">https://signal-nnt4.vercel.app/articles/google-gemini-ai-strategy.html</guid>
+    <link>https://signal-ai-news-signal.vercel.app/articles/google-gemini-ai-strategy.html</link>
+    <guid isPermaLink="true">https://signal-ai-news-signal.vercel.app/articles/google-gemini-ai-strategy.html</guid>
     <description>Google releases new Gemini models, but a key version is still missing</description>
     <pubDate>Tue, 21 Jul 2026 17:41:43 GMT</pubDate>
     <category>NEWS</category>

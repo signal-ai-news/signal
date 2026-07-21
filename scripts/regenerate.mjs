@@ -22,7 +22,7 @@ async function regenerate() {
         const signal = {
           title: article.title,
           description: article.dek || article.metaDesc || article.title,
-          url: article.sourceUrl || 'https://signal-nnt4.vercel.app',
+          url: article.sourceUrl || 'https://signal-ai-news-signal.vercel.app',
           source: article.sourceName || 'SIGNAL',
           category: article.category || 'news'
         };

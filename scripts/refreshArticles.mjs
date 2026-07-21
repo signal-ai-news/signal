@@ -36,7 +36,7 @@ async function refreshOldArticles() {
         const signal = {
           title: article.title,
           description: `${article.dek || article.metaDesc || article.title}. Update this article with fresh context and insights for ${new Date().toLocaleDateString('en-US', { month: 'long', year: 'numeric' })}.`,
-          url: article.sourceUrl || 'https://signal-nnt4.vercel.app',
+          url: article.sourceUrl || 'https://signal-ai-news-signal.vercel.app',
           source: article.sourceName || 'SIGNAL',
           category: article.category || 'news'
         };
