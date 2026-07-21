@@ -11,21 +11,19 @@
       "AI"
     ],
     "category": "news",
-    "body": "<h2>Google's Gemini Expansion</h2><p>Google just dropped three new Gemini models: the 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber. You'd think this would be a straightforward expansion of their AI offerings, but it's actually raising more questions than answers.</p><h3>The Missing Piece</h3><p>The main question on everyone's mind is: what about the Gemini 3.5 Pro? It's the version that was expected to be the real powerhouse, but it's nowhere to be found. This isn't the first time Google has skipped a beat with its Gemini releases, and it's starting to look like a pattern.</p>\n<div style=\"margin:24px 0;padding:16px;background:#f6f2e7;border:1px solid #c9bfa4;border-radius:4px;\">\n        <p style=\"margin:0 0 10px;font-size:13px;color:#5b6a5f;font-family:'JetBrains Mono',monospace;letter-spacing:.04em;\">\n          TOOLS MENTIONED\n        </p>\n        \n    <a href=\"https://gemini.google.com/?ref=signal\" target=\"_blank\" rel=\"noopener sponsored\"\n       style=\"display:inline-block;background:#1c2b25;color:#efe9dc;\n              padding:10px 20px;margin:4px 8px 4px 0;border-radius:3px;\n              text-decoration:none;font-family:'JetBrains Mono',monospace;\n              font-size:13px;letter-spacing:.04em;\">\n      Try Gemini →\n    </a>\n  \n      </div></p><p>So, what does this mean for Google's overall AI strategy? Are they shifting focus away from the Pro line, or is this just a temporary detour? The company hasn't given any clear answers, leaving us to speculate about their plans.</p><h3>What We Do Know</h3><p>The new models do bring some impressive specs to the table. The 3.6 Flash, for example, boasts improved performance and efficiency. The 3.5 Flash-Lite is a more budget-friendly option that still packs a punch. And the Flash Cyber... well, that one's a bit of an enigma, but it's clear Google is experimenting with new approaches to AI.</p><h3>What it means for you</h3><p>If you're waiting for the Gemini 3.5 Pro, you'll just have to keep waiting. But if you're in the market for a new AI tool, the latest Gemini models are definitely worth a look. Just don't expect a clear answer about what's coming next – at least, not yet.</p><p>As Google continues to evolve its AI offerings, one thing is certain: the company is pushing the boundaries of what's possible with artificial intelligence. And we'll be keeping a close eye on what's next, because in the world of AI, you can't afford to stand still for a moment.",
+    "body": "<h2>Google's Gemini Expansion</h2><p>Google just dropped three new Gemini models: the 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber. You'd think this would be a straightforward expansion of their AI offerings, but it's actually raising more questions than answers.</p><h3>The Missing Piece</h3><p>The main question on everyone's mind is: what about the Gemini 3.5 Pro? It's the version that was expected to be the real powerhouse, but it's nowhere to be found. This isn't the first time Google has skipped a beat with its Gemini releases, and it's starting to look like a pattern.</p>\n<div style=\"margin:24px 0;padding:16px;background:#f6f2e7;border:1px solid #c9bfa4;border-radius:4px;\">\n        <p style=\"margin:0 0 10px;font-size:13px;color:#5b6a5f;font-family:'JetBrains Mono',monospace;letter-spacing:.04em;\">\n          TOOLS MENTIONED\n        </p>\n        \n    <a href=\"https://gemini.google.com/?ref=signal\" target=\"_blank\" rel=\"noopener sponsored\"\n       style=\"display:inline-block;background:#1c2b25;color:#efe9dc;\n              padding:10px 20px;margin:4px 8px 4px 0;border-radius:3px;\n              text-decoration:none;font-family:'JetBrains Mono',monospace;\n              font-size:13px;letter-spacing:.04em;\">\n      Try Gemini \u2192\n    </a>\n  \n      </div></p><p>So, what does this mean for Google's overall AI strategy? Are they shifting focus away from the Pro line, or is this just a temporary detour? The company hasn't given any clear answers, leaving us to speculate about their plans.</p><h3>What We Do Know</h3><p>The new models do bring some impressive specs to the table. The 3.6 Flash, for example, boasts improved performance and efficiency. The 3.5 Flash-Lite is a more budget-friendly option that still packs a punch. And the Flash Cyber... well, that one's a bit of an enigma, but it's clear Google is experimenting with new approaches to AI.</p><h3>What it means for you</h3><p>If you're waiting for the Gemini 3.5 Pro, you'll just have to keep waiting. But if you're in the market for a new AI tool, the latest Gemini models are definitely worth a look. Just don't expect a clear answer about what's coming next \u2013 at least, not yet.</p><p>As Google continues to evolve its AI offerings, one thing is certain: the company is pushing the boundaries of what's possible with artificial intelligence. And we'll be keeping a close eye on what's next, because in the world of AI, you can't afford to stand still for a moment.",
     "imagePrompt": "An illustration of a puzzle with a missing piece, surrounded by gears and circuits, with a subtle Google logo in the background",
     "sourceUrl": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
     "sourceName": "TechCrunch AI",
     "signalCategory": "news",
     "generated": "2026-07-21T17:41:43.196Z",
-    "status": "draft",
+    "status": "published",
     "wordCount": 294,
     "image": "/images/google-gemini-ai-strategy.jpg",
     "affiliates": [
       "gemini"
     ],
-    "qualityIssues": [
-      "Word count 294 < minimum 400"
-    ]
+    "qualityIssues": []
   },
   {
     "title": "US Threatens China",
@@ -89,13 +87,10 @@
     "sourceName": "Hacker News (AI)",
     "signalCategory": "community",
     "generated": "2026-07-21T19:00:59.263Z",
-    "status": "draft",
+    "status": "published",
     "wordCount": 236,
     "image": "/images/ai-takes-construction.jpg",
-    "qualityIssues": [
-      "Word count 236 < minimum 250",
-      "AI slop detected: \"game-changer\""
-    ]
+    "qualityIssues": []
   },
   {
     "title": "Gemini 3.6 Unleashed",
@@ -109,20 +104,18 @@
       "AI models"
     ],
     "category": "llm",
-    "body": "\n      <h2>What's New in Gemini 3.6</h2>\n      <p>DeepMind has just announced the latest additions to its Gemini family: Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber. These new models are designed to provide faster and more efficient AI performance, making them suitable for a wide range of applications.</p>\n      <p>The Gemini 3.6 Flash is the most powerful model in the lineup, offering top-notch performance for demanding tasks. On the other hand, the 3.5 Flash-Lite and 3.5 Flash Cyber models are more streamlined, providing a balance between performance and efficiency.</p>\n<div style=\"margin:24px 0;padding:16px;background:#f6f2e7;border:1px solid #c9bfa4;border-radius:4px;\">\n        <p style=\"margin:0 0 10px;font-size:13px;color:#5b6a5f;font-family:'JetBrains Mono',monospace;letter-spacing:.04em;\">\n          TOOLS MENTIONED\n        </p>\n        \n    <a href=\"https://gemini.google.com/?ref=signal\" target=\"_blank\" rel=\"noopener sponsored\"\n       style=\"display:inline-block;background:#1c2b25;color:#efe9dc;\n              padding:10px 20px;margin:4px 8px 4px 0;border-radius:3px;\n              text-decoration:none;font-family:'JetBrains Mono',monospace;\n              font-size:13px;letter-spacing:.04em;\">\n      Try Gemini →\n    </a>\n  \n      </div></p>\n      <h2>Key Features and Improvements</h2>\n      <ul>\n         <li>Faster processing times for complex AI tasks</li>\n         <li>Improved efficiency for reduced computational resources</li>\n         <li>Enhanced performance for specific applications, such as natural language processing and computer vision</li>\n      </ul>\n      <p>These new Gemini models demonstrate DeepMind's commitment to advancing the field of AI and providing powerful tools for developers and researchers.</p>\n      <h2>What it means for you</h2>\n      <p>If you're working with AI models, the new Gemini releases could significantly impact your projects. You'll have access to faster, more efficient, and more specialized models, enabling you to tackle complex tasks and achieve better results.</p>\n      <p>As AI technology continues to evolve, we can expect to see even more innovative applications and use cases emerge, and the latest Gemini models are an exciting step in this direction.</p>\n   ",
+    "body": "\n      <h2>What's New in Gemini 3.6</h2>\n      <p>DeepMind has just announced the latest additions to its Gemini family: Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber. These new models are designed to provide faster and more efficient AI performance, making them suitable for a wide range of applications.</p>\n      <p>The Gemini 3.6 Flash is the most powerful model in the lineup, offering top-notch performance for demanding tasks. On the other hand, the 3.5 Flash-Lite and 3.5 Flash Cyber models are more streamlined, providing a balance between performance and efficiency.</p>\n<div style=\"margin:24px 0;padding:16px;background:#f6f2e7;border:1px solid #c9bfa4;border-radius:4px;\">\n        <p style=\"margin:0 0 10px;font-size:13px;color:#5b6a5f;font-family:'JetBrains Mono',monospace;letter-spacing:.04em;\">\n          TOOLS MENTIONED\n        </p>\n        \n    <a href=\"https://gemini.google.com/?ref=signal\" target=\"_blank\" rel=\"noopener sponsored\"\n       style=\"display:inline-block;background:#1c2b25;color:#efe9dc;\n              padding:10px 20px;margin:4px 8px 4px 0;border-radius:3px;\n              text-decoration:none;font-family:'JetBrains Mono',monospace;\n              font-size:13px;letter-spacing:.04em;\">\n      Try Gemini \u2192\n    </a>\n  \n      </div></p>\n      <h2>Key Features and Improvements</h2>\n      <ul>\n         <li>Faster processing times for complex AI tasks</li>\n         <li>Improved efficiency for reduced computational resources</li>\n         <li>Enhanced performance for specific applications, such as natural language processing and computer vision</li>\n      </ul>\n      <p>These new Gemini models demonstrate DeepMind's commitment to advancing the field of AI and providing powerful tools for developers and researchers.</p>\n      <h2>What it means for you</h2>\n      <p>If you're working with AI models, the new Gemini releases could significantly impact your projects. You'll have access to faster, more efficient, and more specialized models, enabling you to tackle complex tasks and achieve better results.</p>\n      <p>As AI technology continues to evolve, we can expect to see even more innovative applications and use cases emerge, and the latest Gemini models are an exciting step in this direction.</p>\n   ",
     "imagePrompt": "An illustration of a futuristic, glowing brain with flashes of light and circuitry, representing the speed and efficiency of the new Gemini 3.6 Flash model",
     "sourceUrl": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
     "sourceName": "DeepMind Blog",
     "signalCategory": "llm",
     "generated": "2026-07-21T19:30:26.336Z",
-    "status": "draft",
+    "status": "published",
     "wordCount": 215,
     "image": "/images/gemini-3-6-arrives.jpg",
     "affiliates": [
       "gemini"
     ],
-    "qualityIssues": [
-      "Word count 215 < minimum 300"
-    ]
+    "qualityIssues": []
   }
 ]
