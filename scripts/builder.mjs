@@ -66,6 +66,13 @@ h1{font-family:'Fraunces',serif;font-size:36px;line-height:1.1;font-weight:600;m
 .related-item p{font-size:13px;color:var(--ink-soft)}
 .back-link{display:inline-block;margin-top:32px;font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--signal);text-decoration:none;border-bottom:1px solid var(--signal)}
 footer{text-align:center;padding:40px 24px;font-family:'JetBrains Mono',monospace;font-size:10.5px;color:var(--ink-soft);border-top:1px solid var(--rule);margin-top:48px}
+.share-section{margin-top:40px;padding-top:24px;border-top:1px solid var(--rule)}
+.share-label{font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--ink-soft);letter-spacing:.06em;margin-bottom:12px}
+.share-buttons{display:flex;gap:10px;flex-wrap:wrap}
+.share-btn{display:inline-block;padding:8px 16px;font-family:'JetBrains Mono',monospace;font-size:12px;text-decoration:none;border:1px solid var(--rule);border-radius:3px;color:var(--ink);transition:all .2s}
+.share-btn:hover{background:var(--ink);color:var(--paper)}
+.dark-toggle{position:fixed;bottom:20px;right:20px;width:40px;height:40px;border-radius:50%;border:1px solid var(--rule);background:var(--card);cursor:pointer;font-size:18px;display:flex;align-items:center;justify-content:center;z-index:100}
+body.dark{--paper:#1a1a2e;--paper-dim:#16213e;--ink:#e0e0e0;--ink-soft:#a0a0b0;--rule:#2a2a4a;--signal:#e07040;--card:#1e1e3a}
 </style>
 </head>
 <body>
@@ -97,8 +104,19 @@ ${related.map(r => `
 `).join('')}
 </div>
 </div>` : ''}
+<div class="share-section">
+<p class="share-label">SHARE THIS ARTICLE</p>
+<div class="share-buttons">
+<a href="https://twitter.com/intent/tweet?text=${encodeURIComponent(article.title)}&url=${encodeURIComponent(SITE_URL + '/articles/' + article.slug + '.html')}" target="_blank" rel="noopener" class="share-btn twitter">Twitter</a>
+<a href="https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(SITE_URL + '/articles/' + article.slug + '.html')}" target="_blank" rel="noopener" class="share-btn linkedin">LinkedIn</a>
+<a href="https://news.ycombinator.com/submitlink?u=${encodeURIComponent(SITE_URL + '/articles/' + article.slug + '.html')}&t=${encodeURIComponent(article.title)}" target="_blank" rel="noopener" class="share-btn hn">Hacker News</a>
+<a href="https://www.reddit.com/submit?url=${encodeURIComponent(SITE_URL + '/articles/' + article.slug + '.html')}&title=${encodeURIComponent(article.title)}" target="_blank" rel="noopener" class="share-btn reddit">Reddit</a>
+</div>
+</div>
 <a class="back-link" href="/">← Back to SIGNAL</a>
 </div>
+<button class="dark-toggle" onclick="document.body.classList.toggle('dark');localStorage.setItem('dark',document.body.classList.contains('dark'))" title="Toggle dark mode">🌙</button>
+<script>if(localStorage.getItem('dark')==='true')document.body.classList.add('dark')</script>
 <footer>SIGNAL — AI tools, tracked daily. Hunted, verified, written.</footer>
 </body>
 </html>`;
@@ -165,6 +183,8 @@ aside{font-family:'JetBrains Mono',monospace}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
 footer{text-align:center;padding:26px;font-family:'JetBrains Mono',monospace;font-size:10.5px;color:var(--ink-soft);border-top:1px solid var(--rule)}
 @media(max-width:760px){main{grid-template-columns:1fr}h1.hero{font-size:32px}}
+.dark-toggle{position:fixed;bottom:20px;right:20px;width:40px;height:40px;border-radius:50%;border:1px solid var(--rule);background:var(--card);cursor:pointer;font-size:18px;display:flex;align-items:center;justify-content:center;z-index:100}
+body.dark{--paper:#1a1a2e;--paper-dim:#16213e;--ink:#e0e0e0;--ink-soft:#a0a0b0;--rule:#2a2a4a;--signal:#e07040;--card:#1e1e3a}
 </style>
 </head>
 <body>
@@ -221,6 +241,8 @@ ${[...new Set(published.map(a => a.category))].map(cat => {
 </div>
 </aside>
 </main>
+<button class="dark-toggle" onclick="document.body.classList.toggle('dark');localStorage.setItem('dark',document.body.classList.contains('dark'))" title="Toggle dark mode">🌙</button>
+<script>if(localStorage.getItem('dark')==='true')document.body.classList.add('dark')</script>
 <footer>SIGNAL — a self-hunting AI tools archive. Built and reviewed before publish.</footer>
 </body>
 </html>`;
@@ -253,6 +275,8 @@ h2{font-family:'Fraunces',serif;font-size:24px;margin:32px 0 12px}
 p{margin-bottom:16px;color:var(--ink-soft);font-size:16px}
 .highlight{background:var(--card);border:1px solid var(--rule);padding:20px;border-radius:4px;margin:24px 0}
 footer{text-align:center;padding:26px;font-family:'JetBrains Mono',monospace;font-size:10.5px;color:var(--ink-soft);border-top:1px solid var(--rule)}
+.dark-toggle{position:fixed;bottom:20px;right:20px;width:40px;height:40px;border-radius:50%;border:1px solid var(--rule);background:var(--card);cursor:pointer;font-size:18px;display:flex;align-items:center;justify-content:center;z-index:100}
+body.dark{--paper:#1a1a2e;--paper-dim:#16213e;--ink:#e0e0e0;--ink-soft:#a0a0b0;--rule:#2a2a4a;--signal:#e07040;--card:#1e1e3a}
 </style>
 </head>
 <body>
@@ -283,6 +307,8 @@ footer{text-align:center;padding:26px;font-family:'JetBrains Mono',monospace;fon
 <h2>Contact</h2>
 <p>Questions or feedback? Reach us at <a href="mailto:signalcompany.inc@gmail.com">signalcompany.inc@gmail.com</a> or open an issue on <a href="https://github.com/signal-ai-news/signal">GitHub</a>.</p>
 </div>
+<button class="dark-toggle" onclick="document.body.classList.toggle('dark');localStorage.setItem('dark',document.body.classList.contains('dark'))" title="Toggle dark mode">🌙</button>
+<script>if(localStorage.getItem('dark')==='true')document.body.classList.add('dark')</script>
 <footer>SIGNAL — a self-hunting AI tools archive. Built and reviewed before publish.</footer>
 </body>
 </html>`;
