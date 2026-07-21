@@ -38,6 +38,10 @@ function articlePage(article, allArticles) {
 <meta name="twitter:title" content="${article.metaTitle || article.title}">
 <meta name="twitter:description" content="${article.metaDesc || article.dek || ''}">
 <meta name="twitter:image" content="${SITE_URL}${article.image || '/images/default.jpg'}">
+<meta name="news_keywords" content="${(article.tags || []).join(', ')}, AI tools, artificial intelligence">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="SIGNAL">
+<link rel="alternate" type="application/rss+xml" title="SIGNAL RSS" href="${SITE_URL}/feed.xml">
 <script type="application/ld+json">
 ${JSON.stringify({
   "@context": "https://schema.org",
@@ -155,6 +159,7 @@ function homepage(articles) {
 <meta property="og:title" content="SIGNAL — AI Tools Intelligence">
 <meta property="og:description" content="AI tools, tracked daily. Hunted, verified, written.">
 <link rel="canonical" href="${SITE_URL}">
+<link rel="alternate" type="application/rss+xml" title="SIGNAL RSS Feed" href="${SITE_URL}/feed.xml">
 <meta name="keywords" content="AI tools, artificial intelligence, AI news, machine learning, LLM, GPT, Claude, Gemini, AI reviews">
 <meta name="author" content="SIGNAL">
 <meta name="robots" content="index, follow">
@@ -277,6 +282,12 @@ ${[...new Set(published.map(a => a.category))].map(cat => {
   const count = published.filter(a => a.category === cat).length;
   return `<div class="stat-row"><span>${(cat || 'other').toUpperCase()}</span><b>${count}</b></div>`;
 }).join('')}
+</div>
+<div class="panel">
+<h4>📡 Stay Updated</h4>
+<p style="font-size:12px;color:var(--ink-soft);margin-bottom:10px">Get AI tools news delivered to your inbox.</p>
+<a href="/feed.xml" style="display:inline-block;background:var(--ink);color:var(--paper);padding:8px 16px;font-family:'JetBrains Mono',monospace;font-size:11px;text-decoration:none;border-radius:3px;margin-right:8px">RSS Feed</a>
+<a href="https://twitter.com/intent/follow?screen_name=signalainews" target="_blank" rel="noopener" style="display:inline-block;background:var(--signal);color:white;padding:8px 16px;font-family:'JetBrains Mono',monospace;font-size:11px;text-decoration:none;border-radius:3px">Follow on X</a>
 </div>
 </aside>
 </main>
@@ -589,10 +600,39 @@ ${urls.map(u => `  <url>
 </urlset>`;
 }
 
+// ─── RSS Feed ───
+function generateRSS(articles) {
+  const published = articles
+    .filter(a => a.status === 'published')
+    .sort((a, b) => new Date(b.generated || 0) - new Date(a.generated || 0))
+    .slice(0, 20);
+
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>SIGNAL — AI Tools Intelligence</title>
+  <link>${SITE_URL}</link>
+  <description>AI tools, tracked daily. Hunted, verified, written.</description>
+  <language>en</language>
+  <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
+  <atom:link href="${SITE_URL}/feed.xml" rel="self" type="application/rss+xml"/>
+${published.map(a => `  <item>
+    <title>${a.title.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')}</title>
+    <link>${SITE_URL}/articles/${a.slug}.html</link>
+    <guid isPermaLink="true">${SITE_URL}/articles/${a.slug}.html</guid>
+    <description>${(a.dek || a.metaDesc || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')}</description>
+    <pubDate>${new Date(a.generated || Date.now()).toUTCString()}</pubDate>
+    <category>${(a.category || 'AI').toUpperCase()}</category>
+  </item>`).join('\n')}
+</channel>
+</rss>`;
+}
+
 // ─── robots.txt ───
 const ROBOTS = `User-agent: *
 Allow: /
 Sitemap: ${SITE_URL}/sitemap.xml
+Sitemap: ${SITE_URL}/feed.xml
 
 User-agent: GPTBot
 Disallow: /`;
@@ -645,7 +685,11 @@ export async function build() {
   await fs.writeFile(path.join(PUBLIC_DIR, 'sitemap.xml'), generateSitemap(articles));
   console.log('  ✓ sitemap.xml');
 
-  // 8. robots.txt
+  // 8. RSS Feed
+  await fs.writeFile(path.join(PUBLIC_DIR, 'feed.xml'), generateRSS(articles));
+  console.log('  ✓ feed.xml');
+
+  // 9. robots.txt
   await fs.writeFile(path.join(PUBLIC_DIR, 'robots.txt'), ROBOTS);
   console.log('  ✓ robots.txt');
 
