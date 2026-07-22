@@ -1605,5 +1605,110 @@
     "category": "news",
     "discovered": "2026-07-22T12:54:32.923Z",
     "published": "Wed, 22 Jul 2026 11:24:08 +0000"
+  },
+  {
+    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "title": "Building AI infrastructure with the Effingham County community",
+    "description": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-07-22T13:29:35.828Z",
+    "published": "Wed, 22 Jul 2026 13:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-07-22T13:31:44.473Z"
+  },
+  {
+    "url": "https://openai.com/index/introducing-openai-presence",
+    "title": "Introducing OpenAI Presence",
+    "description": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-07-22T13:29:35.828Z",
+    "published": "Wed, 22 Jul 2026 05:30:00 GMT",
+    "processed": true,
+    "processedAt": "2026-07-22T13:31:44.473Z"
+  },
+  {
+    "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+    "title": "3 Google updates from Galaxy Unpacked 2026",
+    "description": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-07-22T13:29:39.432Z",
+    "published": "Wed, 22 Jul 2026 13:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T13:31:44.473Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+    "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+    "description": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-22T13:29:41.245Z",
+    "published": "Wed, 22 Jul 2026 13:20:35 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
+    "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
+    "description": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-22T13:29:41.245Z",
+    "published": "Wed, 22 Jul 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2220064/substack-is-adding-an-ai-detection-feature/",
+    "title": "Substack adding AI detection feature",
+    "description": "Article URL: https://www.engadget.com/2220064/substack-is-adding-an-ai-detection-feature/\nComments URL: https://news.ycombinator.com/item?id=49006356\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T13:29:46.445Z",
+    "published": "Wed, 22 Jul 2026 13:21:33 +0000"
+  },
+  {
+    "url": "https://github.com/column-tax/tax-calc-bench/pull/93",
+    "title": "Can Chinese AI (Kimi K3) file American tax returns (TaxCalcBench)?",
+    "description": "Article URL: https://github.com/column-tax/tax-calc-bench/pull/93\nComments URL: https://news.ycombinator.com/item?id=49006300\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T13:29:46.445Z",
+    "published": "Wed, 22 Jul 2026 13:17:42 +0000"
+  },
+  {
+    "url": "https://promptowl.ai/resources/make-claude-accountable-contextnest-plugin/",
+    "title": "Show HN: A Governed Context Vault for Claude Code and Cowork (AGPL CLI)",
+    "description": "Article URL: https://promptowl.ai/resources/make-claude-accountable-contextnest-plugin/\nComments URL: https://news.ycombinator.com/item?id=49006270\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T13:29:46.445Z",
+    "published": "Wed, 22 Jul 2026 13:14:51 +0000"
+  },
+  {
+    "url": "https://github.com/korovin-aa97/talkthrough-mcp",
+    "title": "Show HN: Turn narrated screen recordings into data for AI agents (local, MIT)",
+    "description": "Article URL: https://github.com/korovin-aa97/talkthrough-mcp\nComments URL: https://news.ycombinator.com/item?id=49006129\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T13:29:46.445Z",
+    "published": "Wed, 22 Jul 2026 13:02:56 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49006088",
+    "title": "Ask HN: Alternative Careers in the Age of AI",
+    "description": "I'm about to lose my job to AI and offshoring - a job that started well, but which I ended up less than ecstatic about. I'm wondering - what else can a software developer do that isn't also vulnerable to AI? Whenever you Google this, you get things like \"Manager\", \"Product Manager\" etc., but it str",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T13:29:46.445Z",
+    "published": "Wed, 22 Jul 2026 13:00:04 +0000"
+  },
+  {
+    "url": "https://twitter.com/awesomekling/status/2079913512772522384",
+    "title": "GPT-5.6 found an Intel CPU microcode bug causing a performance regression",
+    "description": "Article URL: https://twitter.com/awesomekling/status/2079913512772522384\nComments URL: https://news.ycombinator.com/item?id=49006085\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T13:29:46.445Z",
+    "published": "Wed, 22 Jul 2026 12:59:59 +0000"
   }
 ]
