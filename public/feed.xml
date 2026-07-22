@@ -5,8 +5,32 @@
   <link>https://signal-ai-news-signal.vercel.app</link>
   <description>AI tools, tracked daily. Hunted, verified, written.</description>
   <language>en</language>
-  <lastBuildDate>Wed, 22 Jul 2026 13:31:44 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 22 Jul 2026 14:29:54 GMT</lastBuildDate>
   <atom:link href="https://signal-ai-news-signal.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>3 Ways Octomind Cloud Breaks AI Barriers</title>
+    <link>https://signal-ai-news-signal.vercel.app/articles/octomind-cloud-ai-breakthrough.html</link>
+    <guid isPermaLink="true">https://signal-ai-news-signal.vercel.app/articles/octomind-cloud-ai-breakthrough.html</guid>
+    <description>Discover how Octomind Cloud is changing the AI landscape with its persistent cloud compute for AI agents</description>
+    <pubDate>Wed, 22 Jul 2026 14:29:00 GMT</pubDate>
+    <category>COMMUNITY</category>
+  </item>
+  <item>
+    <title>3 Essential AI Gates</title>
+    <link>https://signal-ai-news-signal.vercel.app/articles/ai-gates-for-security.html</link>
+    <guid isPermaLink="true">https://signal-ai-news-signal.vercel.app/articles/ai-gates-for-security.html</guid>
+    <description>Don't let AI agents run amok - here's the ultimate pre-execution gate to keep them in check</description>
+    <pubDate>Wed, 22 Jul 2026 14:28:13 GMT</pubDate>
+    <category>COMMUNITY</category>
+  </item>
+  <item>
+    <title>5 Essential AI Security Tips</title>
+    <link>https://signal-ai-news-signal.vercel.app/articles/ai-security-tips.html</link>
+    <guid isPermaLink="true">https://signal-ai-news-signal.vercel.app/articles/ai-security-tips.html</guid>
+    <description>Don't miss these proven ways to secure your AI using zero trust principles</description>
+    <pubDate>Wed, 22 Jul 2026 14:26:52 GMT</pubDate>
+    <category>COMMUNITY</category>
+  </item>
   <item>
     <title>3 Essential Google Updates</title>
     <link>https://signal-ai-news-signal.vercel.app/articles/google-updates-galaxy-unpacked-2026.html</link>
