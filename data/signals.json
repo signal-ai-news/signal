@@ -1073,5 +1073,16 @@
     "published": "Tue, 21 Jul 2026 23:55:10 +0000",
     "processed": true,
     "processedAt": "2026-07-22T00:01:27.567Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+    "title": "OpenAI says Hugging Face was breached by its pre-release models",
+    "description": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-22T00:43:44.513Z",
+    "published": "Tue, 21 Jul 2026 20:56:55 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T00:44:26.394Z"
   }
 ]
