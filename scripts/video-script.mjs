@@ -97,9 +97,20 @@ export async function generateVideoScript(videoInput) {
   const prompt = buildPrompt(videoInput);
   console.log(`  ⏳ Generating script: "${videoInput.title.substring(0, 50)}..."`);
 
-  const script = USE_MODEL === 'groq'
-    ? await callGroq(prompt)
-    : await callGemini(prompt);
+  let script;
+  try {
+    script = USE_MODEL === 'groq'
+      ? await callGroq(prompt)
+      : await callGemini(prompt);
+  } catch (err) {
+    // Fallback to Gemini if Groq fails
+    if (USE_MODEL === 'groq' && GEMINI_KEY) {
+      console.log(`  ⚠ Groq failed (${err.message}), falling back to Gemini...`);
+      script = await callGemini(prompt);
+    } else {
+      throw err;
+    }
+  }
 
   // Enrich
   script.wordCount = script.full_script.split(/\s+/).length;

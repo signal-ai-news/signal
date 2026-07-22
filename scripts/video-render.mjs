@@ -38,16 +38,27 @@ async function generateFrames(script, coverImagePath, slug) {
 
   // Try known paths for Chromium
   const possiblePaths = [
-    '/opt/ms-playwright/chromium-1223/chrome-linux64/chrome',
-    '/opt/ms-playwright/chrome-linux64/chrome',
     '/usr/bin/chromium-browser',
     '/usr/bin/chromium',
     '/usr/bin/google-chrome',
     '/usr/bin/google-chrome-stable',
   ];
   let execPath;
-  for (const p of possiblePaths) {
-    try { await fs.access(p); execPath = p; break; } catch {}
+  // Check Playwright cache dynamically
+  try {
+    const msPlaywright = '/opt/ms-playwright';
+    const dirs = await fs.readdir(msPlaywright);
+    for (const dir of dirs) {
+      if (dir.startsWith('chromium-')) {
+        const candidate = path.join(msPlaywright, dir, 'chrome-linux64', 'chrome');
+        try { await fs.access(candidate); execPath = candidate; break; } catch {}
+      }
+    }
+  } catch {}
+  if (!execPath) {
+    for (const p of possiblePaths) {
+      try { await fs.access(p); execPath = p; break; } catch {}
+    }
   }
   if (!execPath) {
     console.log('  ⚠ Chromium not found, falling back to FFmpeg text-only');
@@ -173,12 +184,27 @@ export async function renderVideo(script, audioPath, coverImagePath, slug) {
   return outputPath;
 }
 
+// ─── Find available font ───
+async function findFont() {
+  const fontPaths = [
+    '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf',
+    '/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf',
+    '/usr/share/fonts/truetype/freefont/FreeSansBold.ttf',
+    '/usr/share/fonts/TTF/DejaVuSans-Bold.ttf',
+    '/usr/share/fonts/dejavu/DejaVuSans-Bold.ttf',
+    '/usr/share/fonts/truetype/noto/NotoSans-Bold.ttf',
+  ];
+  for (const p of fontPaths) {
+    try { await fs.access(p); return p; } catch {}
+  }
+  // Fallback: use FFmpeg's built-in font (no fontfile needed)
+  return null;
+}
+
 // ─── FFmpeg Fallback (no browser needed) ───
 async function renderVideoFFmpeg(script, audioPath, slug) {
   await fs.mkdir(VIDEO_DIR, { recursive: true });
   const outputPath = path.join(VIDEO_DIR, `${slug}.mp4`);
-  const tmpDir = path.join(ROOT, 'content', 'tmp-frames', slug);
-  await fs.mkdir(tmpDir, { recursive: true });
 
   console.log(`  🎬 Rendering with FFmpeg fallback: ${slug}`);
 
@@ -191,8 +217,9 @@ async function renderVideoFFmpeg(script, audioPath, slug) {
     duration = script.estimated_seconds || 35;
   }
 
-  const fps = 30;
-  const totalFrames = Math.ceil(duration * fps);
+  // Find font
+  const fontPath = await findFont();
+  const fontOpt = fontPath ? `:fontfile='${fontPath}'` : '';
 
   // Build segments timeline
   const segments = [];
@@ -203,22 +230,28 @@ async function renderVideoFFmpeg(script, audioPath, slug) {
   });
   segments.push({ text: script.cta, start: duration - 3, end: duration });
 
-  // Generate frames using FFmpeg drawtext
-  // Build complex filter for text animation
-  const bgColors = ['#1c2b25', '#2a1f1a', '#1a2a20', '#251c2b'];
-  const accentColor = '#b8481e';
+  // Escape text for FFmpeg drawtext
+  function escapeFFmpeg(text) {
+    return text
+      .replace(/\\/g, '\\\\')
+      .replace(/'/g, "\\\\\'")
+      .replace(/:/g, '\\\\:')
+      .replace(/%/g, '%%%%')
+      .replace(/\[/g, '\\\\[')
+      .replace(/\]/g, '\\\\]')
+      .substring(0, 80); // Limit length for readability
+  }
 
-  // Create a video with colored background and animated text using FFmpeg
-  const textFilters = segments.map((seg, i) => {
-    const escaped = seg.text.replace(/'/g, "\\'").replace(/:/g, '\\:');
-    const fadeIn = `enable='between(t,${seg.start},${seg.start + 0.5})':alpha='if(lt(t-${seg.start},0.5),(t-${seg.start})/0.5,1)'`;
-    return `drawtext=text='${escaped}':fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:fontsize=48:fontcolor=white:x=(w-text_w)/2:y=(h-text_h)/2:${fadeIn}:enable='between(t,${seg.start},${seg.end})'`;
+  // Build drawtext filters
+  const textFilters = segments.map((seg) => {
+    const escaped = escapeFFmpeg(seg.text);
+    return `drawtext=text='${escaped}'${fontOpt}:fontsize=48:fontcolor=white:x=(w-text_w)/2:y=(h-text_h)/2:enable='between(t,${seg.start},${seg.end})'`;
   }).join(',');
 
-  // Simple approach: dark background + text overlays + audio
+  // Build FFmpeg command
   const ffmpegCmd = [
     'ffmpeg -y',
-    `-f lavfi -i "color=c=#1c2b25:s=1080x1920:d=${duration}:r=${fps}"`,
+    `-f lavfi -i "color=c=#1c2b25:s=1080x1920:d=${duration}:r=30"`,
     `-i "${audioPath}"`,
     `-vf "${textFilters}"`,
     '-c:v libx264 -preset fast -crf 23',
@@ -229,6 +262,7 @@ async function renderVideoFFmpeg(script, audioPath, slug) {
     `"${outputPath}"`
   ].join(' ');
 
+  console.log(`  ⏳ Encoding video (~${duration}s)...`);
   execSync(ffmpegCmd, { stdio: 'pipe', timeout: 300000 });
 
   const stat = await fs.stat(outputPath);
