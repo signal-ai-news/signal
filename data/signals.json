@@ -402,7 +402,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T17:39:29.902Z",
-    "published": "Tue, 21 Jul 2026 16:57:30 +0000"
+    "published": "Tue, 21 Jul 2026 16:57:30 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T19:53:39.491Z"
   },
   {
     "url": "https://github.com/sebnado/worldbuild-bench",
@@ -411,7 +413,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T17:39:29.902Z",
-    "published": "Tue, 21 Jul 2026 16:48:39 +0000"
+    "published": "Tue, 21 Jul 2026 16:48:39 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T19:53:39.491Z"
   },
   {
     "url": "https://news.ycombinator.com/item?id=48994842",
@@ -420,7 +424,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T17:39:29.902Z",
-    "published": "Tue, 21 Jul 2026 16:48:12 +0000"
+    "published": "Tue, 21 Jul 2026 16:48:12 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T19:53:39.491Z"
   },
   {
     "url": "https://aiweekly.co/alerts/schmidhuber-et-al-formalize-self-state-attacks-on-ai-agents",
