@@ -3,6 +3,7 @@ export const GEMINI_KEY   = process.env.GEMINI_API_KEY   || '';
 export const GROQ_KEY     = process.env.GROQ_API_KEY     || '';
 export const TG_BOT       = process.env.TG_BOT_TOKEN     || '';
 export const TG_USER      = process.env.TG_USER_ID       || '';
+export const TG_CHANNEL   = process.env.TG_CHANNEL_ID    || '';
 export const GH_TOKEN     = process.env.GITHUB_TOKEN      || '';
 
 export const USE_MODEL    = 'groq'; // 'gemini' or 'groq'

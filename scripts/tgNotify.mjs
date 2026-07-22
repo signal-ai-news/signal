@@ -3,7 +3,7 @@
  * Run: node scripts/tgNotify.mjs "message"
  */
 import fetch from 'node-fetch';
-import { TG_BOT, TG_USER, SITE_URL } from './config.mjs';
+import { TG_BOT, TG_USER, TG_CHANNEL, SITE_URL } from './config.mjs';
 
 export async function notify(message, parseMode = 'HTML') {
   if (!TG_BOT || !TG_USER) {
@@ -24,13 +24,42 @@ export async function notify(message, parseMode = 'HTML') {
     });
 
     if (res.ok) {
-      console.log('  📱 Telegram notification sent.');
+      console.log('  📱 Telegram notification sent to owner.');
     } else {
       const err = await res.text();
       console.error(`  ✗ Telegram error: ${err}`);
     }
   } catch (err) {
     console.error(`  ✗ Telegram send failed: ${err.message}`);
+  }
+}
+
+export async function postToChannel(message, parseMode = 'HTML') {
+  if (!TG_BOT || !TG_CHANNEL) {
+    console.log('  ⚠ Telegram channel not configured, skipping channel post.');
+    return;
+  }
+
+  try {
+    const res = await fetch(`https://api.telegram.org/bot${TG_BOT}/sendMessage`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        chat_id: TG_CHANNEL,
+        text: message,
+        parse_mode: parseMode,
+        disable_web_page_preview: false
+      })
+    });
+
+    if (res.ok) {
+      console.log('  📡 Telegram channel post sent.');
+    } else {
+      const err = await res.text();
+      console.error(`  ✗ Telegram channel error: ${err}`);
+    }
+  } catch (err) {
+    console.error(`  ✗ Telegram channel send failed: ${err.message}`);
   }
 }
 
@@ -66,8 +95,23 @@ ${newSignals.slice(0, 5).map(s =>
 ).join('\n')}${newSignals.length > 5 ? `\n...and ${newSignals.length - 5} more` : ''}`;
 }
 
+export function buildChannelPublishMessage(article) {
+  return `📡 <b>SIGNAL</b>
+
+<b>${article.title}</b>
+
+${article.dek || ''}
+
+📊 ${article.wordCount} words · ${(article.tags || []).slice(0, 3).join(', ')}
+
+🔗 <a href="${SITE_URL}/articles/${article.slug}.html">Read Full Article →</a>`;
+}
+
 // Run standalone
 if (process.argv[1]?.endsWith('tgNotify.mjs')) {
   const msg = process.argv[2] || '🧪 Test notification from SIGNAL pipeline';
-  notify(msg).then(() => console.log('Done'));
+  notify(msg).then(() => {
+    console.log('Owner notification done.');
+    return postToChannel(msg);
+  }).then(() => console.log('All done.'));
 }

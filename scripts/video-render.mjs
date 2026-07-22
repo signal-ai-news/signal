@@ -50,8 +50,8 @@ async function generateFrames(script, coverImagePath, slug) {
     try { await fs.access(p); execPath = p; break; } catch {}
   }
   if (!execPath) {
-    // Fallback: use FFmpeg text-only approach
-    return await renderVideoFFmpeg(script, audioPath, slug);
+    console.log('  ⚠ Chromium not found, falling back to FFmpeg text-only');
+    return null; // Will be handled by caller
   }
   const browser = await chromium.launch({ headless: true, executablePath: execPath });
   const context = await browser.newContext({
@@ -129,7 +129,14 @@ export async function renderVideo(script, audioPath, coverImagePath, slug) {
   console.log(`  🎬 Rendering video: ${slug}`);
 
   // Generate frames
-  const { frameDir, fps, totalFrames } = await generateFrames(script, coverImagePath, slug);
+  const frameResult = await generateFrames(script, coverImagePath, slug);
+
+  if (!frameResult) {
+    // Fallback: use FFmpeg text-only approach
+    return await renderVideoFFmpeg(script, audioPath, slug);
+  }
+
+  const { frameDir, fps, totalFrames } = frameResult;
 
   // Get audio duration
   let audioDuration;

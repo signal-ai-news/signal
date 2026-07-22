@@ -9,7 +9,7 @@ import { matchAffiliates } from './affiliateMatcher.mjs';
 import { checkQuality } from './qualityGate.mjs';
 import { build } from './builder.mjs';
 import { refreshOldArticles } from './refreshArticles.mjs';
-import { notify, buildPublishMessage, buildErrorMessage, buildHuntReport } from './tgNotify.mjs';
+import { notify, postToChannel, buildPublishMessage, buildChannelPublishMessage, buildErrorMessage, buildHuntReport } from './tgNotify.mjs';
 import { readJSON, writeJSON, nowISO } from './utils.mjs';
 import { ARTICLES_FILE, SIGNALS_FILE, GH_TOKEN, REPO } from './config.mjs';
 import { execSync } from 'child_process';
@@ -168,6 +168,7 @@ async function runPipeline() {
   const newArticles = articles.filter(a => a.status === 'published' && a.generated > new Date(Date.now() - 600000).toISOString());
   for (const article of newArticles.slice(-3)) {
     await notify(buildPublishMessage(article));
+    await postToChannel(buildChannelPublishMessage(article));
   }
 
   // ─── Summary ───

@@ -31,6 +31,7 @@ jobs:
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_USER_ID: ${{ secrets.TG_USER_ID }}
+          TG_CHANNEL_ID: ${{ secrets.TG_CHANNEL_ID }}
         run: node scripts/orchestrator.mjs --limit ${{ github.event.inputs.limit || '3' }}
       - name: Commit and push
         id: commit

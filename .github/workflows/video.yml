@@ -40,6 +40,7 @@ jobs:
           YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           TG_USER_ID: ${{ secrets.TG_USER_ID }}
+          TG_CHANNEL_ID: ${{ secrets.TG_CHANNEL_ID }}
         run: node scripts/video-pipeline.mjs --limit ${{ github.event.inputs.limit || '2' }}
       - name: Commit and push
         run: |
