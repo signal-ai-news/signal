@@ -435,7 +435,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T17:39:29.902Z",
-    "published": "Tue, 21 Jul 2026 16:44:39 +0000"
+    "published": "Tue, 21 Jul 2026 16:44:39 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T20:45:25.279Z"
   },
   {
     "url": "https://github.com/Kentucky-ai/opentakeoff",
@@ -477,7 +479,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T19:00:55.616Z",
-    "published": "Tue, 21 Jul 2026 18:47:38 +0000"
+    "published": "Tue, 21 Jul 2026 18:47:38 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T20:45:25.279Z"
   },
   {
     "url": "https://github.com/michaelolmos/tsaagan",
@@ -486,7 +490,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T19:00:55.616Z",
-    "published": "Tue, 21 Jul 2026 18:44:29 +0000"
+    "published": "Tue, 21 Jul 2026 18:44:29 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T20:45:25.279Z"
   },
   {
     "url": "https://help.trmnl.com/en/articles/14130438-ai-agent",
@@ -495,7 +501,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T19:00:55.616Z",
-    "published": "Tue, 21 Jul 2026 18:32:21 +0000"
+    "published": "Tue, 21 Jul 2026 18:32:21 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T20:45:25.279Z"
   },
   {
     "url": "https://www.theatlantic.com/ideas/2026/07/ai-economy-stock-market/688004/",
@@ -2697,5 +2705,16 @@
     "category": "community",
     "discovered": "2026-07-22T19:42:11.023Z",
     "published": "Wed, 22 Jul 2026 19:05:38 +0000"
+  },
+  {
+    "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "title": "How news organizations are using AI to advance their vital missions",
+    "description": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-07-22T20:41:39.482Z",
+    "published": "Wed, 22 Jul 2026 13:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-07-22T20:45:25.279Z"
   }
 ]
