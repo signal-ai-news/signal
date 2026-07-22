@@ -31,6 +31,7 @@ function loadKeys(provider) {
     if (key) keys.push({ id: `${prefix}_${i}`, key });
   }
   
+  console.log(`  [api-keys] ${provider}: ${keys.length} key(s) loaded`);
   return keys;
 }
 
