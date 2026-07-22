@@ -172,5 +172,65 @@
     "type": "rss",
     "url": "https://www.anthropic.com/research/rss.xml",
     "category": "llm"
+  },
+  {
+    "name": "Wired AI",
+    "type": "rss",
+    "url": "https://www.wired.com/feed/tag/ai/latest/rss",
+    "category": "news"
+  },
+  {
+    "name": "Forbes AI",
+    "type": "rss",
+    "url": "https://www.forbes.com/ai/feed/",
+    "category": "news"
+  },
+  {
+    "name": "AI News",
+    "type": "rss",
+    "url": "https://www.artificialintelligence-news.com/feed/",
+    "category": "news"
+  },
+  {
+    "name": "MarkTechPost",
+    "type": "rss",
+    "url": "https://www.marktechpost.com/feed/",
+    "category": "ml"
+  },
+  {
+    "name": "Unite.AI",
+    "type": "rss",
+    "url": "https://unite.ai/feed/",
+    "category": "news"
+  },
+  {
+    "name": "Analytics India",
+    "type": "rss",
+    "url": "https://analyticsindiamag.com/feed/",
+    "category": "ml"
+  },
+  {
+    "name": "Mashable AI",
+    "type": "rss",
+    "url": "https://mashable.com/feeds/rss/ai-artificial-intelligence",
+    "category": "news"
+  },
+  {
+    "name": "ZDNet AI",
+    "type": "rss",
+    "url": "https://www.zdnet.com/topic/artificial-intelligence/rss.xml",
+    "category": "news"
+  },
+  {
+    "name": "Engadget AI",
+    "type": "rss",
+    "url": "https://www.engadget.com/rss.xml",
+    "category": "news"
+  },
+  {
+    "name": "CNET AI",
+    "type": "rss",
+    "url": "https://www.cnet.com/rss/ai/",
+    "category": "news"
   }
 ]
