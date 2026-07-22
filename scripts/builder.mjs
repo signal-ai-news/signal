@@ -168,9 +168,11 @@ function homepage(articles) {
 <meta name="robots" content="index, follow">
 <meta property="og:site_name" content="SIGNAL">
 <meta property="og:type" content="website">
+<meta property="og:image" content="${SITE_URL}/branding/og-image.png">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="SIGNAL — AI Tools Intelligence">
 <meta name="twitter:description" content="AI tools, tracked daily. Hunted, verified, written.">
+<meta name="twitter:image" content="${SITE_URL}/branding/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
