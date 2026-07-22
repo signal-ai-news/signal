@@ -1275,5 +1275,101 @@
     "published": "Wed, 22 Jul 2026 08:00:00 +0000",
     "processed": true,
     "processedAt": "2026-07-22T08:34:11.375Z"
+  },
+  {
+    "url": "https://www.pillar.security/blog/one-docker-socket-to-rule-them-all-escaping-codex-cursor-and-gemini-clis-sandboxes",
+    "title": "One Docker socket to rule them all: Escaping Codex, Cursor, and Gemini CLI",
+    "description": "Article URL: https://www.pillar.security/blog/one-docker-socket-to-rule-them-all-escaping-codex-cursor-and-gemini-clis-sandboxes\nComments URL: https://news.ycombinator.com/item?id=49003857\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T09:51:19.957Z",
+    "published": "Wed, 22 Jul 2026 09:18:40 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T09:57:12.495Z"
+  },
+  {
+    "url": "https://www.france24.com/en/france/20260721-microsoft-strikes-multi-billion-dollar-deal-to-expand-france-ai-firm-mistral",
+    "title": "Microsoft strikes 'multibillion-dollar' deal with French AI firm Mistral",
+    "description": "Article URL: https://www.france24.com/en/france/20260721-microsoft-strikes-multi-billion-dollar-deal-to-expand-france-ai-firm-mistral\nComments URL: https://news.ycombinator.com/item?id=49003810\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T09:51:19.957Z",
+    "published": "Wed, 22 Jul 2026 09:12:58 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T09:57:12.495Z"
+  },
+  {
+    "url": "https://matthewlloyd.github.io/ai-model-release-timeline/",
+    "title": "AI model release forecasts from prediction markets",
+    "description": "Article URL: https://matthewlloyd.github.io/ai-model-release-timeline/\nComments URL: https://news.ycombinator.com/item?id=49003701\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T09:51:19.957Z",
+    "published": "Wed, 22 Jul 2026 08:57:23 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T09:57:12.495Z"
+  },
+  {
+    "url": "https://code.claude.com/docs/en/desktop-ios-simulator",
+    "title": "Claude Code on desktop now works with the iOS simulator",
+    "description": "Article URL: https://code.claude.com/docs/en/desktop-ios-simulator\nComments URL: https://news.ycombinator.com/item?id=49003624\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T09:51:19.957Z",
+    "published": "Wed, 22 Jul 2026 08:47:14 +0000"
+  },
+  {
+    "url": "https://codeberg.org/Codeberg/org/pulls/1253",
+    "title": "Codeberg: ToU extension to prohibit LLM-extrusions",
+    "description": "Article URL: https://codeberg.org/Codeberg/org/pulls/1253\nComments URL: https://news.ycombinator.com/item?id=49003465\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T09:51:19.957Z",
+    "published": "Wed, 22 Jul 2026 08:27:12 +0000"
+  },
+  {
+    "url": "https://www.reuters.com/technology/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-2026-07-21/",
+    "title": "OpenAI says AI models went rogue during testing",
+    "description": "Article URL: https://www.reuters.com/technology/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-2026-07-21/\nComments URL: https://news.ycombinator.com/item?id=49003455\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T09:51:19.957Z",
+    "published": "Wed, 22 Jul 2026 08:25:58 +0000"
+  },
+  {
+    "url": "https://silknova-ai.com/",
+    "title": "AI Video and Audio Generator",
+    "description": "Article URL: https://silknova-ai.com/\nComments URL: https://news.ycombinator.com/item?id=49003393\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T09:51:19.957Z",
+    "published": "Wed, 22 Jul 2026 08:18:19 +0000"
+  },
+  {
+    "url": "https://www.marble.onl/posts/copyright_vs_ai.html",
+    "title": "Updating IP Regulations for AI Distillation",
+    "description": "Article URL: https://www.marble.onl/posts/copyright_vs_ai.html\nComments URL: https://news.ycombinator.com/item?id=49003338\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T09:51:19.957Z",
+    "published": "Wed, 22 Jul 2026 08:12:16 +0000"
+  },
+  {
+    "url": "https://www.melaya.org",
+    "title": "Melaya – the agent builder that gives AI a governed Android phone",
+    "description": "Article URL: https://www.melaya.org\nComments URL: https://news.ycombinator.com/item?id=49003238\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T09:51:19.957Z",
+    "published": "Wed, 22 Jul 2026 07:57:30 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-claims-responsibility-for-the-hugging-face-hack-after-its-own-models-escaped-a-test-sandbox/",
+    "title": "OpenAI claims responsibility for the Hugging Face hack after its own models escaped a test sandbox",
+    "description": "During an internal security evaluation, OpenAI models, including GPT-5.6 Sol, escaped their sandbox, independently discovered a zero-day vulnerability, and breached Hugging Face's production infrastructure. The models were trying to steal benchmark solutions to cheat on the evaluation. Open",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-22T09:51:28.183Z",
+    "published": "Wed, 22 Jul 2026 08:41:30 +0000"
   }
 ]
