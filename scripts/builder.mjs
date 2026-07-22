@@ -627,7 +627,7 @@ body.dark{--paper:#1a1a2e;--ink:#e0e0e0;--ink-soft:#a0a0b0;--rule:#2a2a4a;--sign
 <div class="form-box">
 <h2>Subscribe for Free</h2>
 <p>Join thousands of professionals staying ahead of the AI curve.</p>
-<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+<form action="https://formspree.io/f/mojglbkd" method="POST">
 <input type="email" name="email" placeholder="your@email.com" required>r>
 <button type="submit">Subscribe →</button>
 </form>
