@@ -2046,5 +2046,276 @@
     "published": "Wed, 22 Jul 2026 15:30:00 +0000",
     "processed": true,
     "processedAt": "2026-07-22T16:11:47.660Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+    "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+    "description": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-22T17:44:29.931Z",
+    "published": "Wed, 22 Jul 2026 16:24:08 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T17:48:05.645Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+    "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
+    "description": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-22T17:44:29.931Z",
+    "published": "Wed, 22 Jul 2026 16:23:09 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T17:48:05.645Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+    "title": "OpenAI’s AI spending spree has ballooned to $750B",
+    "description": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-22T17:44:29.931Z",
+    "published": "Wed, 22 Jul 2026 16:13:30 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T17:48:05.645Z"
+  },
+  {
+    "url": "https://github.com/bonushora/surgical-dev-ops",
+    "title": "How HN: Surgical DevOps – Deterministic AI execution protocols",
+    "description": "Article URL: https://github.com/bonushora/surgical-dev-ops\nComments URL: https://news.ycombinator.com/item?id=49010491\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T17:44:36.398Z",
+    "published": "Wed, 22 Jul 2026 17:39:22 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T17:48:05.645Z"
+  },
+  {
+    "url": "https://journal.james-zhan.com/no-ai-statements/",
+    "title": "\"No AI\" Statements Are More Than Mere Statements",
+    "description": "Article URL: https://journal.james-zhan.com/no-ai-statements/\nComments URL: https://news.ycombinator.com/item?id=49010477\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T17:44:36.398Z",
+    "published": "Wed, 22 Jul 2026 17:38:14 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T17:48:05.645Z"
+  },
+  {
+    "url": "https://github.com/disi910/claude-usage-bar",
+    "title": "Show HN: Chrome Extension Claude Token Usage Bar and Context Use for Claude.ai",
+    "description": "Article URL: https://github.com/disi910/claude-usage-bar\nComments URL: https://news.ycombinator.com/item?id=49010415\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T17:44:36.398Z",
+    "published": "Wed, 22 Jul 2026 17:34:46 +0000"
+  },
+  {
+    "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+    "title": "AI Coding Will Prevent Expertise",
+    "description": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise\nComments URL: https://news.ycombinator.com/item?id=49010401\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T17:44:36.398Z",
+    "published": "Wed, 22 Jul 2026 17:34:12 +0000"
+  },
+  {
+    "url": "https://stele-ai.dev/",
+    "title": "Show HN: Stele – A self-maintaining knowledge graph for AI coding agents",
+    "description": "Article URL: https://stele-ai.dev/\nComments URL: https://news.ycombinator.com/item?id=49010384\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T17:44:36.398Z",
+    "published": "Wed, 22 Jul 2026 17:33:31 +0000"
+  },
+  {
+    "url": "https://imbue.com/blog/2026-07-20-imbue-catalyst-nanochat",
+    "title": "Using evolution to automate AI model research",
+    "description": "Article URL: https://imbue.com/blog/2026-07-20-imbue-catalyst-nanochat\nComments URL: https://news.ycombinator.com/item?id=49010350\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T17:44:36.398Z",
+    "published": "Wed, 22 Jul 2026 17:31:05 +0000"
+  },
+  {
+    "url": "https://languagemodelbuilder.com/",
+    "title": "Learn how to build AI from scratch (for free)",
+    "description": "Article URL: https://languagemodelbuilder.com/\nComments URL: https://news.ycombinator.com/item?id=49010303\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T17:44:36.398Z",
+    "published": "Wed, 22 Jul 2026 17:28:26 +0000"
+  },
+  {
+    "url": "https://www.aisi.gov.uk/blog/cheating-behaviour-in-frontier-model-evaluations",
+    "title": "Frontier AI models will attempt to cheat",
+    "description": "Article URL: https://www.aisi.gov.uk/blog/cheating-behaviour-in-frontier-model-evaluations\nComments URL: https://news.ycombinator.com/item?id=49010266\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T17:44:36.398Z",
+    "published": "Wed, 22 Jul 2026 17:26:03 +0000"
+  },
+  {
+    "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+    "title": "Are AI Labs Pelicanmaxxing?",
+    "description": "Article URL: https://dylancastillo.co/posts/pelicanmaxxing.html\nComments URL: https://news.ycombinator.com/item?id=49010129\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T17:44:36.398Z",
+    "published": "Wed, 22 Jul 2026 17:17:54 +0000"
+  },
+  {
+    "url": "https://gamesbeat.com/network-expert-glenn-fiedler-warns-game-programmers-to-fix-game-code-vulnerabilities-that-ai-can-now-find-exclusive/https://gamesbeat.com/network-expert-glenn-fiedler-warns-game-programmers-to-fix-game-code-vulnerabilities-that-ai-can-now-find-exclusive/",
+    "title": "Network expert Glenn Fiedler warns game devs to fix game vulnerabilities with AI",
+    "description": "Article URL: https://gamesbeat.com/network-expert-glenn-fiedler-warns-game-programmers-to-fix-game-code-vulnerabilities-that-ai-can-now-find-exclusive/https://gamesbeat.com/network-expert-glenn-fiedler-warns-game-programmers-to-fix-game-code-vulnerabilities-that-ai-can-now-find-exclusive/\nComments",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T17:44:36.398Z",
+    "published": "Wed, 22 Jul 2026 17:16:11 +0000"
+  },
+  {
+    "url": "https://www.techradar.com/pro/ai-websites-are-booming-and-making-millions-for-this-tiny-caribbean-nation",
+    "title": "'.ai' websites are booming – and making millions for this tiny Caribbean nation",
+    "description": "Article URL: https://www.techradar.com/pro/ai-websites-are-booming-and-making-millions-for-this-tiny-caribbean-nation\nComments URL: https://news.ycombinator.com/item?id=49010074\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T17:44:36.398Z",
+    "published": "Wed, 22 Jul 2026 17:14:30 +0000"
+  },
+  {
+    "url": "https://blog.zksecurity.xyz/posts/bron-bugs/",
+    "title": "AI meets Cryptography 3: What AI Found in Bron Labs's bron-crypto",
+    "description": "Article URL: https://blog.zksecurity.xyz/posts/bron-bugs/\nComments URL: https://news.ycombinator.com/item?id=49010044\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T17:44:36.398Z",
+    "published": "Wed, 22 Jul 2026 17:12:46 +0000"
+  },
+  {
+    "url": "https://pixelgust.com/blog/weather-mcp-server",
+    "title": "Show HN: An MCP server that gives AI assistants live weather and hazard data",
+    "description": "Article URL: https://pixelgust.com/blog/weather-mcp-server\nComments URL: https://news.ycombinator.com/item?id=49009991\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T17:44:36.398Z",
+    "published": "Wed, 22 Jul 2026 17:09:14 +0000"
+  },
+  {
+    "url": "https://hachyderm.io/@thomasfuchs/116964576606603226",
+    "title": "It's not a \"rogue AI\" when a badly made security harness executes scripts",
+    "description": "Article URL: https://hachyderm.io/@thomasfuchs/116964576606603226\nComments URL: https://news.ycombinator.com/item?id=49009968\nPoints: 5\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T17:44:36.398Z",
+    "published": "Wed, 22 Jul 2026 17:07:46 +0000"
+  },
+  {
+    "url": "https://www.americanbanker.com/news/jpmorgan-owns-ai-answers-heres-how-rivals-can-compete",
+    "title": "JPMorgan Owns AI Answers. Here's how rivals can compete..",
+    "description": "Article URL: https://www.americanbanker.com/news/jpmorgan-owns-ai-answers-heres-how-rivals-can-compete\nComments URL: https://news.ycombinator.com/item?id=49009916\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T17:44:36.398Z",
+    "published": "Wed, 22 Jul 2026 17:04:10 +0000"
+  },
+  {
+    "url": "https://feitong.phd/essays/dissecting-claude-science/",
+    "title": "Dissecting Claude Science",
+    "description": "Article URL: https://feitong.phd/essays/dissecting-claude-science/\nComments URL: https://news.ycombinator.com/item?id=49009685\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T17:44:36.398Z",
+    "published": "Wed, 22 Jul 2026 16:48:26 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49009663",
+    "title": "Building an AI-orchestrated publishing workflow for a long-form writing project",
+    "description": "I've been experimenting with an orchestration-first approach instead of relying on a single model to handle an entire workflow.The project started as a way to explore a real customer scenario, and along the way it evolved into a long-form publishing workflow involving multiple specialized agents, M",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T17:44:36.398Z",
+    "published": "Wed, 22 Jul 2026 16:47:17 +0000"
+  },
+  {
+    "url": "https://github.com/vifudotdev/vifu",
+    "title": "Show HN: Vifu – A runtime and visual workflow for building AI-native games",
+    "description": "Article URL: https://github.com/vifudotdev/vifu\nComments URL: https://news.ycombinator.com/item?id=49009595\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T17:44:36.398Z",
+    "published": "Wed, 22 Jul 2026 16:41:26 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/loop-engineering-for-rag-generation-when-top-1-is-enough-when-you-need-top-k/",
+    "title": "Loop Engineering for RAG Generation: iterate top-k one at a time",
+    "description": "Enterprise Document Intelligence [Vol.1 #8bis] - Two regimes for sending retrieved candidates to the generation brick, the sufficiency signal that picks between them, and the per-question type dispatch that makes it cheap\nThe post Loop Engineering for RAG Generation: iterate top-k one at a time appe",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-07-22T17:44:42.671Z",
+    "published": "Wed, 22 Jul 2026 16:30:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-will-deploy-2-gigawatts-of-amd-gpus-for-claude-in-a-deal-worth-up-to-5-billion/",
+    "title": "Anthropic will deploy 2 gigawatts of AMD GPUs for Claude in a deal worth up to $5 billion",
+    "description": "AMD is investing up to $5 billion in Anthropic. In return, Anthropic will deploy up to 2 gigawatts of MI450 GPUs for training and running its Claude models. For AMD, this is another major deal after Meta and OpenAI as it tries to challenge Nvidia as an AI chip supplier. Critics see these ag",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-22T17:44:44.878Z",
+    "published": "Wed, 22 Jul 2026 16:54:26 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/every-frontier-ai-model-tested-by-britains-safety-institute-tried-to-cheat-on-cybersecurity-evaluations/",
+    "title": "Every frontier AI model tested by Britain's safety institute tried to cheat on cybersecurity evaluations",
+    "description": "The UK's AI Safety Institute tested five frontier models from OpenAI and Anthropic in cybersecurity evaluations. All five tried to cheat. One even ran code on an external service to access the institute's infrastructure, triggering a security alert.\nThe article Every frontier AI model teste",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-22T17:44:44.878Z",
+    "published": "Wed, 22 Jul 2026 16:41:49 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/cisco-bets-its-small-open-cybersecurity-models-can-outperform-gpt-5-5-at-vulnerability-detection-for-a-fraction-of-the-cost/",
+    "title": "Cisco bets its small open cybersecurity models can outperform GPT-5.5 at vulnerability detection for a fraction of the cost",
+    "description": "Cisco has released two small, open-source AI models for cybersecurity that detect about 150 times more vulnerabilities per dollar than large AI agents, according to the company's own tests.\nThe article Cisco bets its small open cybersecurity models can outperform GPT-5.5 at vulnerability de",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-22T17:44:44.878Z",
+    "published": "Wed, 22 Jul 2026 16:28:08 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/perplexity-personal-computer-agentic-ai-complex-tasks-mac/",
+    "title": "I gave Perplexity's agentic AI 5 complex tasks to run on my Mac - and I'll do it again",
+    "description": "Perplexity's Mac app offers its own agentic AI, Personal Computer, which can handle multi-step tasks on your computer from start to finish. See why the results impressed me.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-22T17:44:58.803Z",
+    "published": "Wed, 22 Jul 2026 17:12:25 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/firefox-153-enables-containers-by-default/",
+    "title": "Firefox 153 enables Containers by default, and you can create your own - here's how",
+    "description": "Containers are a boon to your browsing security and privacy. Out of the box, Firefox now gives you four pre-configured containers: Personal, Work, Banking, and Shopping.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-22T17:44:58.803Z",
+    "published": "Wed, 22 Jul 2026 17:11:21 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2220934/samsung-just-revealed-more-details-about-its-upcoming-smart-glasses-including-battery-life/",
+    "title": "Samsung just revealed more details about its upcoming smart glasses, including battery life",
+    "description": "Samsung&#39;s upcoming smart glasses will last nine hours per charge, but they come with a case for more juice.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-22T17:44:59.433Z",
+    "published": "Wed, 22 Jul 2026 17:28:46 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2220821/nirvanna-the-band-the-show-and-movie-stream-on-hulu/",
+    "title": "Nirvanna the Band the Show and Movie will finally be available to stream via Hulu on July 24",
+    "description": "The recent film was a big hit, but the series wasn&#39;t available to watch anywhere.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-22T17:44:59.433Z",
+    "published": "Wed, 22 Jul 2026 16:06:54 +0000"
   }
 ]
