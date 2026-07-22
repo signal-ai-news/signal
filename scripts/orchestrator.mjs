@@ -24,6 +24,11 @@ async function gitCommit(message) {
     const status = execSync('git status --porcelain', { encoding: 'utf-8' });
     if (!status.trim()) { console.log('  – No changes to commit.'); return; }
     execSync(`git commit -m "${message}"`, { stdio: 'pipe' });
+    try {
+      execSync('git pull --rebase origin main', { stdio: 'pipe' });
+    } catch (e) {
+      // Ignore pull errors, try push anyway
+    }
     execSync('git push origin main', { stdio: 'pipe' });
     console.log(`  ✓ Committed & pushed: ${message}`);
   } catch (err) {
