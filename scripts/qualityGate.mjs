@@ -6,7 +6,7 @@ import { ARTICLES_FILE } from './config.mjs';
 import { readJSON } from './utils.mjs';
 import fetch from 'node-fetch';
 
-const MIN_WORDS = 400;
+const MIN_WORDS = 350;
 const MAX_TITLE_LENGTH = 80;
 
 export async function checkQuality(article, existingArticles = []) {
