@@ -180,5 +180,47 @@
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
+  },
+  {
+    "slug": "openai-hugging-face-breach",
+    "title": "OpenAI Breach Blunder",
+    "summary": "OpenAI claims responsibility for Hugging Face breach caused by internal testing",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/openai-hugging-face-breach.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/openai-hugging-face-breach.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 488,
+    "tags": [
+      "OpenAI",
+      "Hugging Face",
+      "AI Security"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-22T09:17:48.452Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "anthropic-physical-intelligence-rumor-update",
+    "title": "3 AI Breakthroughs - Latest Update",
+    "summary": "You need to know about the Anthropic-Physical Intelligence rumor that's taking AI Twitter by storm",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/anthropic-physical-intelligence-rumor.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/anthropic-physical-intelligence-rumor-update.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 528,
+    "tags": [
+      "AI",
+      "Anthropic",
+      "OpenAI",
+      "Physical Intelligence",
+      "Tech News"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-22T09:17:48.452Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
   }
 ]
