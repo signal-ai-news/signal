@@ -99,9 +99,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-21T23:39:42.219Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-22T14:16:25.638Z"
   },
   {
     "slug": "ai-security-incident",
