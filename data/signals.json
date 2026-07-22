@@ -204,7 +204,9 @@
     "source": "MIT Tech Review AI",
     "category": "news",
     "discovered": "2026-07-21T17:39:21.393Z",
-    "published": "Mon, 20 Jul 2026 12:10:00 +0000"
+    "published": "Mon, 20 Jul 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T13:03:11.877Z"
   },
   {
     "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
@@ -213,7 +215,9 @@
     "source": "MIT Tech Review AI",
     "category": "news",
     "discovered": "2026-07-21T17:39:21.393Z",
-    "published": "Mon, 20 Jul 2026 08:39:01 +0000"
+    "published": "Mon, 20 Jul 2026 08:39:01 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T13:03:11.877Z"
   },
   {
     "url": "https://news.ycombinator.com/item?id=48995524",
@@ -222,7 +226,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T17:39:29.902Z",
-    "published": "Tue, 21 Jul 2026 17:36:35 +0000"
+    "published": "Tue, 21 Jul 2026 17:36:35 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T13:03:11.877Z"
   },
   {
     "url": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
