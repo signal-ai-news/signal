@@ -325,7 +325,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T17:39:29.902Z",
-    "published": "Tue, 21 Jul 2026 17:09:09 +0000"
+    "published": "Tue, 21 Jul 2026 17:09:09 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T18:56:00.141Z"
   },
   {
     "url": "https://localsotabenchmark.engineersf.dev/",
@@ -334,7 +336,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T17:39:29.902Z",
-    "published": "Tue, 21 Jul 2026 17:08:40 +0000"
+    "published": "Tue, 21 Jul 2026 17:08:40 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T18:56:00.141Z"
   },
   {
     "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
@@ -2455,5 +2459,38 @@
     "published": "Wed, 22 Jul 2026 18:17:48 +0000",
     "processed": true,
     "processedAt": "2026-07-22T18:23:54.604Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+    "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+    "description": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-22T18:53:05.797Z",
+    "published": "Wed, 22 Jul 2026 18:50:44 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T18:56:00.141Z"
+  },
+  {
+    "url": "https://www.engadget.com/2221044/openai-sued-over-chatgpt-health-advice-that-almost-killed-a-pastor/",
+    "title": "OpenAI sued over ChatGPT health advice that almost killed a pastor",
+    "description": "ChatGPT allegedly offered &#34;extremely dangerous medical recommendations&#34; regarding a pulmonary embolism.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-22T18:53:44.006Z",
+    "published": "Wed, 22 Jul 2026 18:40:46 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T18:56:00.141Z"
+  },
+  {
+    "url": "https://www.engadget.com/2221027/apples-rumored-upgrades-to-its-mac-lineup-go-beyond-touchscreens/",
+    "title": "Apple's rumored upgrades to its Mac lineup go beyond touchscreens",
+    "description": "Apple is already preparing updates to the MacBook Neo, iMac, MacBook Air and more.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-22T18:53:44.006Z",
+    "published": "Wed, 22 Jul 2026 18:31:01 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T18:56:00.141Z"
   }
 ]
