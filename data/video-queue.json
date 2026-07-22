@@ -15,9 +15,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-21T23:39:42.219Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-22T10:42:24.423Z"
   },
   {
     "slug": "us-threatens-china-ai-sanctions",
@@ -219,6 +220,28 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-22T09:17:48.452Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-materials-innovation",
+    "title": "3 Breakthroughs in AI Materials",
+    "summary": "Discover the essential materials driving the next generation of AI",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-materials-innovation.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-materials-innovation.html",
+    "sourceName": "MIT Tech Review AI",
+    "wordCount": 440,
+    "tags": [
+      "AI",
+      "Materials Science",
+      "Innovation",
+      "MIT Tech Review",
+      "Next-Gen AI"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-22T10:42:12.232Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
