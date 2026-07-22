@@ -160,7 +160,9 @@
     "source": "Ars Technica AI",
     "category": "news",
     "discovered": "2026-07-21T17:39:20.862Z",
-    "published": "Tue, 21 Jul 2026 15:18:23 +0000"
+    "published": "Tue, 21 Jul 2026 15:18:23 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T08:34:11.375Z"
   },
   {
     "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
@@ -169,7 +171,9 @@
     "source": "MIT Tech Review AI",
     "category": "news",
     "discovered": "2026-07-21T17:39:21.393Z",
-    "published": "Tue, 21 Jul 2026 12:10:00 +0000"
+    "published": "Tue, 21 Jul 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T08:34:11.375Z"
   },
   {
     "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
@@ -331,7 +335,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T17:39:29.902Z",
-    "published": "Tue, 21 Jul 2026 17:02:20 +0000"
+    "published": "Tue, 21 Jul 2026 17:02:20 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T08:34:11.375Z"
   },
   {
     "url": "https://github.com/quantmlayer/quantmlayer",
@@ -1258,5 +1264,16 @@
     "category": "community",
     "discovered": "2026-07-22T07:26:21.393Z",
     "published": "Wed, 22 Jul 2026 04:17:23 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+    "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+    "description": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training effectiveness.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-22T08:28:42.839Z",
+    "published": "Wed, 22 Jul 2026 08:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T08:34:11.375Z"
   }
 ]
