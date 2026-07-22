@@ -57,9 +57,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-21T23:39:42.219Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-22T13:59:01.423Z"
   },
   {
     "slug": "ai-takes-construction",
