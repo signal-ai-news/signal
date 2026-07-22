@@ -5,14 +5,30 @@
   <link>https://signal-ai-news-signal.vercel.app</link>
   <description>AI tools, tracked daily. Hunted, verified, written.</description>
   <language>en</language>
-  <lastBuildDate>Wed, 22 Jul 2026 08:34:11 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 22 Jul 2026 09:09:34 GMT</lastBuildDate>
   <atom:link href="https://signal-ai-news-signal.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>3 AI Breakthroughs - Latest Update</title>
+    <link>https://signal-ai-news-signal.vercel.app/articles/anthropic-physical-intelligence-rumor-update.html</link>
+    <guid isPermaLink="true">https://signal-ai-news-signal.vercel.app/articles/anthropic-physical-intelligence-rumor-update.html</guid>
+    <description>You need to know about the Anthropic-Physical Intelligence rumor that's taking AI Twitter by storm</description>
+    <pubDate>Wed, 22 Jul 2026 07:26:42 GMT</pubDate>
+    <category>NEWS</category>
+  </item>
   <item>
     <title>3 Reasons AI Just Got Easier</title>
     <link>https://signal-ai-news-signal.vercel.app/articles/ai-protocol-just-got-easier.html</link>
     <guid isPermaLink="true">https://signal-ai-news-signal.vercel.app/articles/ai-protocol-just-got-easier.html</guid>
     <description>AI's most important protocol is now more accessible, and here's what you need to know</description>
     <pubDate>Tue, 21 Jul 2026 22:07:56 GMT</pubDate>
+    <category>NEWS</category>
+  </item>
+  <item>
+    <title>OpenAI Breach Blunder</title>
+    <link>https://signal-ai-news-signal.vercel.app/articles/openai-hugging-face-breach.html</link>
+    <guid isPermaLink="true">https://signal-ai-news-signal.vercel.app/articles/openai-hugging-face-breach.html</guid>
+    <description>OpenAI claims responsibility for Hugging Face breach caused by internal testing</description>
+    <pubDate>Tue, 21 Jul 2026 20:59:06 GMT</pubDate>
     <category>NEWS</category>
   </item>
   <item>
