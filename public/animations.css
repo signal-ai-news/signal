@@ -3,7 +3,7 @@
 /* 3D Logo */
 .logo-3d{
   font-family:'Fraunces',serif;font-size:48px;font-weight:700;
-  background:linear-gradient(135deg,#b8481e,#e07040,#b8481e);
+  background:linear-gradient(135deg,#ff6b35,#e07040,#ff6b35);
   background-size:200% 200%;
   -webkit-background-clip:text;-webkit-text-fill-color:transparent;
   background-clip:text;
@@ -14,18 +14,18 @@
 @keyframes logoFloat{0%,100%{transform:translateY(0)}25%{transform:translateY(-6px)}50%{transform:translateY(0)}75%{transform:translateY(-3px)}}
 
 /* Reading Progress Bar */
-.reading-progress{position:fixed;top:0;left:0;width:0;height:3px;background:#b8481e;z-index:999;transition:width .1s}
+.reading-progress{position:fixed;top:0;left:0;width:0;height:3px;background:#ff6b35;z-index:999;transition:width .1s}
 
 /* Smooth Scroll */
 html{scroll-behavior:smooth}
 
 /* Card Animations */
 .card{transition:all .3s cubic-bezier(.4,0,.2,1) !important}
-.card:hover{transform:translateY(-4px) !important;box-shadow:0 8px 24px rgba(28,43,37,.12) !important}
+.card:hover{transform:translateY(-4px) !important;box-shadow:0 8px 24px rgba(255,107,53,.12) !important}
 
 /* Ripple Effect */
 .ripple{position:relative;overflow:hidden}
-.ripple::after{content:'';position:absolute;width:100%;height:100%;top:0;left:0;background:radial-gradient(circle,rgba(184,72,30,.2) 10%,transparent 10.01%);background-repeat:no-repeat;background-position:50%;transform:scale(10);opacity:0;transition:transform .5s,opacity .5s}
+.ripple::after{content:'';position:absolute;width:100%;height:100%;top:0;left:0;background:radial-gradient(circle,rgba(255,107,53,.2) 10%,transparent 10.01%);background-repeat:no-repeat;background-position:50%;transform:scale(10);opacity:0;transition:transform .5s,opacity .5s}
 .ripple:active::after{transform:scale(0);opacity:1;transition:0s}
 
 /* Glassmorphism Nav */
@@ -33,7 +33,7 @@ nav{background:rgba(239,233,220,.85) !important;backdrop-filter:blur(12px);-webk
 
 /* Smooth Links */
 a{transition:color .2s}
-a:hover{color:#b8481e}
+a:hover{color:#ff6b35}
 
 /* Page Enter Animation */
 .page-enter{opacity:0;transform:translateY(20px)}
@@ -45,4 +45,4 @@ a:hover{color:#b8481e}
 
 /* Search Box */
 .search-box{transition:border-color .2s}
-.search-box:focus{border-color:#b8481e}
+.search-box:focus{border-color:#ff6b35}
