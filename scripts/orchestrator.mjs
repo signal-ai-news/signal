@@ -173,6 +173,17 @@ async function runPipeline() {
     await postToChannel(buildChannelPublishMessage(article));
   }
 
+  // ─── Step 8.5: TWITTER ───
+  console.log('\n━━━ STEP 8.5: TWITTER ━━━');
+  try {
+    const { postToTwitter } = await import('./twitterPost.mjs');
+    for (const article of newArticles.slice(-3)) {
+      await postToTwitter(article.title, `${SITE_URL}/articles/${article.slug}.html`, article.tags);
+    }
+  } catch (err) {
+    console.error('Twitter posting failed:', err.message);
+  }
+
   // ─── Step 9: INDEXING ───
   console.log('\n━━━ STEP 9: INDEXING ━━━');
   const newUrls = newArticles.map(a => `${SITE_URL}/articles/${a.slug}.html`);
