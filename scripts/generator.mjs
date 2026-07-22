@@ -170,7 +170,7 @@ export async function generate(signal) {
       : await callGemini(prompt);
   } catch (err) {
     // Fallback to Gemini if Groq fails
-    if (USE_MODEL === 'groq' && GEMINI_KEY) {
+    if (USE_MODEL === 'groq' && getGeminiKey()) {
       console.log(`  ⚠ Groq failed (${err.message}), falling back to Gemini...`);
       article = await callGemini(prompt);
     } else {
