@@ -1991,5 +1991,60 @@
     "published": "Wed, 22 Jul 2026 15:00:00 +0000",
     "processed": true,
     "processedAt": "2026-07-22T15:09:36.743Z"
+  },
+  {
+    "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "title": "Advancing the next era of national science",
+    "description": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-07-22T16:07:59.906Z",
+    "published": "Wed, 22 Jul 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-07-22T16:11:47.660Z"
+  },
+  {
+    "url": "https://the-decoder.com/openais-project-camellia-in-georgia-secures-a-massive-3-2-gigawatt-power-deal-through-2032/",
+    "title": "OpenAI's \"Project Camellia\" in Georgia secures a massive 3.2-gigawatt power deal through 2032",
+    "description": "OpenAI is planning a data center in Georgia called \"Project Camellia\" with a 3.2-gigawatt power deal from Georgia Power. The company pledged $80 million for the local community and $71 million in Codex credits for students to counter growing opposition to US data centers that many residents",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-22T16:08:18.117Z",
+    "published": "Wed, 22 Jul 2026 15:45:51 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T16:11:47.660Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/samsung-unpacked-gemini-ai-google-intelligence-integration/",
+    "title": "3 ways Samsung deeply integrates Gemini AI into its new Galaxy devices",
+    "description": "Samsung Unpacked was as much about software as it was hardware.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-22T16:08:39.311Z",
+    "published": "Wed, 22 Jul 2026 16:01:36 GMT",
+    "processed": true,
+    "processedAt": "2026-07-22T16:11:47.660Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/so-long-saas-hello-services-as-software/",
+    "title": "'AI is an enormous tailwind for software companies': 5 tips for adapting to the new 'SaS' model",
+    "description": "Here's what people are getting wrong about the so-called SaaS apocalypse.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-22T16:08:39.311Z",
+    "published": "Wed, 22 Jul 2026 15:18:20 GMT",
+    "processed": true,
+    "processedAt": "2026-07-22T16:11:47.660Z"
+  },
+  {
+    "url": "https://www.engadget.com/2219808/speaker-channel-number-explained/",
+    "title": "Surround sound speaker channel numbers explained: Bigger isn't always better",
+    "description": "Here&#39;s what to pay attention to when building a home theater system.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-22T16:08:40.019Z",
+    "published": "Wed, 22 Jul 2026 15:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T16:11:47.660Z"
   }
 ]
