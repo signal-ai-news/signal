@@ -224,16 +224,17 @@ async function renderVideoFFmpeg(script, audioPath, slug) {
   });
   segments.push({ text: script.cta, start: duration - 3, end: duration });
 
-  // Escape text for FFmpeg drawtext
+  // Escape text for FFmpeg drawtext — remove problematic chars entirely
   function escapeFFmpeg(text) {
     return text
-      .replace(/\\/g, '\\\\')
-      .replace(/'/g, "\\\\\'")
-      .replace(/:/g, '\\\\:')
-      .replace(/%/g, '%%%%')
-      .replace(/\[/g, '\\\\[')
-      .replace(/\]/g, '\\\\]')
-      .substring(0, 80); // Limit length for readability
+      .replace(/'/g, '')      // Remove apostrophes entirely
+      .replace(/:/g, ' ')     // Replace colons with space
+      .replace(/%/g, '%%')    // Escape percent
+      .replace(/\\/g, '')     // Remove backslashes
+      .replace(/\[/g, '')     // Remove brackets
+      .replace(/\]/g, '')
+      .replace(/"/g, '')      // Remove quotes
+      .substring(0, 80);      // Limit length for readability
   }
 
   // Build drawtext filters
