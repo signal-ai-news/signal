@@ -290,7 +290,8 @@ ${[...new Set(published.map(a => a.category))].map(cat => {
 <h4>📡 Stay Updated</h4>
 <p style="font-size:12px;color:var(--ink-soft);margin-bottom:10px">Get AI tools news delivered to your inbox.</p>
 <a href="/feed.xml" style="display:inline-block;background:var(--ink);color:var(--paper);padding:8px 16px;font-family:'JetBrains Mono',monospace;font-size:11px;text-decoration:none;border-radius:3px;margin-right:8px">RSS Feed</a>
-<a href="https://twitter.com/intent/follow?screen_name=signalainews" target="_blank" rel="noopener" style="display:inline-block;background:var(--signal);color:white;padding:8px 16px;font-family:'JetBrains Mono',monospace;font-size:11px;text-decoration:none;border-radius:3px">Follow on X</a>
+<a href="https://x.com/_signalainews" target="_blank" rel="noopener" style="display:inline-block;background:var(--signal);color:white;padding:8px 16px;font-family:'JetBrains Mono',monospace;font-size:11px;text-decoration:none;border-radius:3px">𝕏 Twitter</a>
+                <a href="https://t.me/signal_ai_news" target="_blank" rel="noopener" style="display:inline-block;background:#0088cc;color:white;padding:8px 16px;font-family:'JetBrains Mono',monospace;font-size:11px;text-decoration:none;border-radius:3px">✈️ Telegram</a>
 </div>
 </aside>
 </main>
@@ -432,7 +433,7 @@ body.dark{--paper:#1a1a2e;--ink:#e0e0e0;--ink-soft:#a0a0b0;--rule:#2a2a4a;--sign
 </div>
 <button class="dark-toggle" onclick="document.body.classList.toggle('dark');localStorage.setItem('dark',document.body.classList.contains('dark'))">🌙</button>
 <script>if(localStorage.getItem('dark')==='true')document.body.classList.add('dark')</script>
-<footer>SIGNAL — AI Tools Intelligence</footer>
+<footer>SIGNAL — AI Tools Intelligence<br><a href="/privacy.html" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Privacy</a> · <a href="/terms.html" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Terms</a> · <a href="https://x.com/_signalainews" target="_blank" style="color:var(--ink-soft);margin:0 8px;font-size:11px">𝕏</a> · <a href="https://t.me/signal_ai_news" target="_blank" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Telegram</a></footer>
 </body>
 </html>`;
 }
@@ -497,7 +498,7 @@ body.dark{--paper:#1a1a2e;--ink:#e0e0e0;--ink-soft:#a0a0b0;--rule:#2a2a4a;--sign
 </div>
 <button class="dark-toggle" onclick="document.body.classList.toggle('dark');localStorage.setItem('dark',document.body.classList.contains('dark'))">🌙</button>
 <script>if(localStorage.getItem('dark')==='true')document.body.classList.add('dark')</script>
-<footer>SIGNAL — AI Tools Intelligence</footer>
+<footer>SIGNAL — AI Tools Intelligence<br><a href="/privacy.html" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Privacy</a> · <a href="/terms.html" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Terms</a> · <a href="https://x.com/_signalainews" target="_blank" style="color:var(--ink-soft);margin:0 8px;font-size:11px">𝕏</a> · <a href="https://t.me/signal_ai_news" target="_blank" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Telegram</a></footer>
 </body>
 </html>`;
 }
@@ -569,7 +570,7 @@ ${catArticles.map((a, i) => `
 </div>
 <button class="dark-toggle" onclick="document.body.classList.toggle('dark');localStorage.setItem('dark',document.body.classList.contains('dark'))">🌙</button>
 <script>if(localStorage.getItem('dark')==='true')document.body.classList.add('dark')</script>
-<footer>SIGNAL — AI Tools Intelligence</footer>
+<footer>SIGNAL — AI Tools Intelligence<br><a href="/privacy.html" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Privacy</a> · <a href="/terms.html" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Terms</a> · <a href="https://x.com/_signalainews" target="_blank" style="color:var(--ink-soft);margin:0 8px;font-size:11px">𝕏</a> · <a href="https://t.me/signal_ai_news" target="_blank" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Telegram</a></footer>
 </body>
 </html>`;
 }
@@ -651,7 +652,7 @@ body.dark{--paper:#1a1a2e;--ink:#e0e0e0;--ink-soft:#a0a0b0;--rule:#2a2a4a;--sign
 </div>
 <button class="dark-toggle" onclick="document.body.classList.toggle('dark');localStorage.setItem('dark',document.body.classList.contains('dark'))">🌙</button>
 <script>if(localStorage.getItem('dark')==='true')document.body.classList.add('dark')</script>
-<footer>SIGNAL — AI Tools Intelligence</footer>
+<footer>SIGNAL — AI Tools Intelligence<br><a href="/privacy.html" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Privacy</a> · <a href="/terms.html" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Terms</a> · <a href="https://x.com/_signalainews" target="_blank" style="color:var(--ink-soft);margin:0 8px;font-size:11px">𝕏</a> · <a href="https://t.me/signal_ai_news" target="_blank" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Telegram</a></footer>
 </body>
 </html>`;
 }
