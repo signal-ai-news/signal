@@ -3,7 +3,8 @@
  * Run: node scripts/video-script.mjs
  */
 import fetch from 'node-fetch';
-import { GROQ_KEY, GEMINI_KEY, USE_MODEL } from './config.mjs';
+import { USE_MODEL } from './config.mjs';
+import { getGroqKey, getGeminiKey, markGroqRateLimited, markGeminiRateLimited, markGroqSuccess, markGeminiSuccess } from './api-keys.mjs';
 
 const SYSTEM_PROMPT = `You are a viral YouTube Shorts scriptwriter for an AI tech channel called "SIGNAL".
 
@@ -39,11 +40,14 @@ Output JSON with these exact fields:
 
 async function callGroq(prompt, retries = 3) {
   for (let i = 0; i < retries; i++) {
+    const keyObj = getGroqKey();
+    if (!keyObj || !keyObj.key) throw new Error('No Groq API keys available');
+    
     const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        'Authorization': `Bearer ${GROQ_KEY}`
+        'Authorization': `Bearer ${keyObj.key}`
       },
       body: JSON.stringify({
         model: 'llama-3.3-70b-versatile',
@@ -59,38 +63,73 @@ async function callGroq(prompt, retries = 3) {
 
     if (res.ok) {
       const data = await res.json();
+      markGroqSuccess(keyObj.id);
       return JSON.parse(data.choices[0].message.content);
     }
 
-    if (res.status === 429 && i < retries - 1) {
-      const wait = (i + 1) * 30;
-      console.log(`  ⚠ Groq rate limited, waiting ${wait}s...`);
-      await new Promise(r => setTimeout(r, wait * 1000));
-      continue;
+    const errText = await res.text();
+    if (res.status === 429) {
+      markGroqRateLimited(keyObj.id, errText);
+      const nextKey = getGroqKey();
+      if (nextKey && nextKey.id !== keyObj.id) {
+        console.log(`  ⚠ Groq key rate limited, switching to next key`);
+        continue;
+      }
+      if (i < retries - 1) {
+        const wait = (i + 1) * 30;
+        console.log(`  ⚠ All Groq keys rate limited, waiting ${wait}s...`);
+        await new Promise(r => setTimeout(r, wait * 1000));
+        continue;
+      }
     }
-    throw new Error(`Groq ${res.status}: ${await res.text()}`);
+    throw new Error(`Groq ${res.status}: ${errText}`);
   }
 }
 
-async function callGemini(prompt) {
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${GEMINI_KEY}`;
-  const res = await fetch(url, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({
-      contents: [{ parts: [{ text: prompt }] }],
-      generationConfig: {
-        temperature: 0.8,
-        maxOutputTokens: 1024,
-        responseMimeType: 'application/json'
-      },
-      systemInstruction: { parts: [{ text: SYSTEM_PROMPT }] }
-    })
-  });
-  if (!res.ok) throw new Error(`Gemini ${res.status}: ${await res.text()}`);
-  const data = await res.json();
-  const text = data.candidates?.[0]?.content?.parts?.[0]?.text || '';
-  return JSON.parse(text.replace(/```json\n?|\n?```/g, '').trim());
+async function callGemini(prompt, retries = 3) {
+  for (let i = 0; i < retries; i++) {
+    const keyObj = getGeminiKey();
+    if (!keyObj || !keyObj.key) throw new Error('No Gemini API keys available');
+    
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${keyObj.key}`;
+    const res = await fetch(url, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        contents: [{ parts: [{ text: prompt }] }],
+        generationConfig: {
+          temperature: 0.8,
+          maxOutputTokens: 1024,
+          responseMimeType: 'application/json'
+        },
+        systemInstruction: { parts: [{ text: SYSTEM_PROMPT }] }
+      })
+    });
+
+    if (res.ok) {
+      const data = await res.json();
+      markGeminiSuccess(keyObj.id);
+      const text = data.candidates?.[0]?.content?.parts?.[0]?.text || '';
+      return JSON.parse(text.replace(/```json\n?|\n?```/g, '').trim());
+    }
+
+    const errText = await res.text();
+    if (res.status === 429) {
+      markGeminiRateLimited(keyObj.id, errText);
+      const nextKey = getGeminiKey();
+      if (nextKey && nextKey.id !== keyObj.id) {
+        console.log(`  ⚠ Gemini key rate limited, switching to next key`);
+        continue;
+      }
+      if (i < retries - 1) {
+        const wait = (i + 1) * 20;
+        console.log(`  ⚠ All Gemini keys rate limited, waiting ${wait}s...`);
+        await new Promise(r => setTimeout(r, wait * 1000));
+        continue;
+      }
+    }
+    throw new Error(`Gemini ${res.status}: ${errText}`);
+  }
 }
 
 export async function generateVideoScript(videoInput) {
@@ -104,7 +143,7 @@ export async function generateVideoScript(videoInput) {
       : await callGemini(prompt);
   } catch (err) {
     // Fallback to Gemini if Groq fails
-    if (USE_MODEL === 'groq' && GEMINI_KEY) {
+    if (USE_MODEL === 'groq') {
       console.log(`  ⚠ Groq failed (${err.message}), falling back to Gemini...`);
       script = await callGemini(prompt);
     } else {

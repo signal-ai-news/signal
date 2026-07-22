@@ -3,8 +3,9 @@
  * Run: node scripts/generator.mjs
  */
 import fetch from 'node-fetch';
-import { GEMINI_KEY, GROQ_KEY, USE_MODEL } from './config.mjs';
+import { USE_MODEL } from './config.mjs';
 import { nowISO, slugify } from './utils.mjs';
+import { getGroqKey, getGeminiKey, markGroqRateLimited, markGeminiRateLimited, markGroqSuccess, markGeminiSuccess } from './api-keys.mjs';
 
 const SYSTEM_PROMPT = `You are a senior tech journalist who covers AI tools for a general audience.
 Write in a clear, direct, no-fluff style — like a knowledgeable friend explaining it over coffee.
@@ -53,7 +54,10 @@ Output JSON with these exact fields:
 
 async function callGemini(prompt, retries = 3) {
   for (let i = 0; i < retries; i++) {
-    const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${GEMINI_KEY}`;
+    const keyObj = getGeminiKey();
+    if (!keyObj || !keyObj.key) throw new Error('No Gemini API keys available');
+    
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${keyObj.key}`;
     const res = await fetch(url, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
@@ -70,18 +74,27 @@ async function callGemini(prompt, retries = 3) {
 
     if (res.ok) {
       const data = await res.json();
+      markGeminiSuccess(keyObj.id);
       const text = data.candidates?.[0]?.content?.parts?.[0]?.text || '';
       return JSON.parse(text.replace(/```json\n?|\n?```/g, '').trim());
     }
 
     const errText = await res.text();
-    if (res.status === 429 && i < retries - 1) {
-      const retryMs = parseRetrySeconds(errText);
-      const wait = retryMs ? Math.min(retryMs + 3000, 60000) : (i + 1) * 20000;
-      const waitSec = Math.round(wait / 1000);
-      console.log(`  ⚠ Gemini rate limited, waiting ${waitSec}s (attempt ${i + 1}/${retries})...`);
-      await new Promise(r => setTimeout(r, wait));
-      continue;
+    if (res.status === 429) {
+      markGeminiRateLimited(keyObj.id, errText);
+      const nextKey = getGeminiKey();
+      if (nextKey && nextKey.id !== keyObj.id) {
+        console.log(`  ⚠ Gemini key rate limited, switching to next key`);
+        continue;
+      }
+      if (i < retries - 1) {
+        const retryMs = parseRetrySeconds(errText);
+        const wait = retryMs ? Math.min(retryMs + 3000, 60000) : (i + 1) * 20000;
+        const waitSec = Math.round(wait / 1000);
+        console.log(`  ⚠ All Gemini keys rate limited, waiting ${waitSec}s...`);
+        await new Promise(r => setTimeout(r, wait));
+        continue;
+      }
     }
     throw new Error(`Gemini ${res.status}: ${errText}`);
   }
@@ -98,11 +111,14 @@ function parseRetrySeconds(errText) {
 
 async function callGroq(prompt, retries = 3) {
   for (let i = 0; i < retries; i++) {
+    const keyObj = getGroqKey();
+    if (!keyObj || !keyObj.key) throw new Error('No Groq API keys available');
+    
     const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        'Authorization': `Bearer ${GROQ_KEY}`
+        'Authorization': `Bearer ${keyObj.key}`
       },
       body: JSON.stringify({
         model: 'llama-3.3-70b-versatile',
@@ -118,17 +134,26 @@ async function callGroq(prompt, retries = 3) {
 
     if (res.ok) {
       const data = await res.json();
+      markGroqSuccess(keyObj.id);
       return JSON.parse(data.choices[0].message.content);
     }
 
     const errText = await res.text();
-    if (res.status === 429 && i < retries - 1) {
-      const retryMs = parseRetrySeconds(errText);
-      const wait = retryMs ? Math.min(retryMs + 5000, 120000) : (i + 1) * 30000;
-      const waitSec = Math.round(wait / 1000);
-      console.log(`  ⚠ Groq rate limited, waiting ${waitSec}s (attempt ${i + 1}/${retries})...`);
-      await new Promise(r => setTimeout(r, wait));
-      continue;
+    if (res.status === 429) {
+      markGroqRateLimited(keyObj.id, errText);
+      const nextKey = getGroqKey();
+      if (nextKey && nextKey.id !== keyObj.id) {
+        console.log(`  ⚠ Groq key ${keyObj.id} rate limited, switching to ${nextKey.id}`);
+        continue;
+      }
+      if (i < retries - 1) {
+        const retryMs = parseRetrySeconds(errText);
+        const wait = retryMs ? Math.min(retryMs + 5000, 120000) : (i + 1) * 30000;
+        const waitSec = Math.round(wait / 1000);
+        console.log(`  ⚠ All Groq keys rate limited, waiting ${waitSec}s...`);
+        await new Promise(r => setTimeout(r, wait));
+        continue;
+      }
     }
     throw new Error(`Groq ${res.status}: ${errText}`);
   }
