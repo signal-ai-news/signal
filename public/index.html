@@ -83,7 +83,7 @@ footer{text-align:center;padding:26px;font-family:'JetBrains Mono',monospace;fon
 .dark-toggle{position:fixed;bottom:20px;right:20px;width:40px;height:40px;border-radius:50%;border:1px solid var(--rule);background:var(--card);cursor:pointer;font-size:18px;display:flex;align-items:center;justify-content:center;z-index:100}
 body.dark{--paper:#1a1a2e;--paper-dim:#16213e;--ink:#e0e0e0;--ink-soft:#a0a0b0;--rule:#2a2a4a;--signal:#e07040;--card:#1e1e3a}
 </style>
-<link rel="stylesheet" href="/animations.css">
+<link rel="stylesheet" href="/animations.css?v=1784748413">
 </head>
 <body>
 <div class="ticker-wrap"><div class="ticker-track">NEW: 3 Ways Octomind Cloud Breaks AI Barriers <span>//</span> NEW: 3 Essential AI Gates <span>//</span> NEW: 5 Essential AI Security Tips <span>//</span> NEW: 3 Essential Google Updates <span>//</span> NEW: 3 Reasons GPT-Live Is A Breakthrough <span>//</span> NEW: 3 Ways Octomind Cloud Breaks AI Barriers <span>//</span> NEW: 3 Essential AI Gates <span>//</span> NEW: 5 Essential AI Security Tips <span>//</span> NEW: 3 Essential Google Updates <span>//</span> NEW: 3 Reasons GPT-Live Is A Breakthrough <span>//</span></div></div>
@@ -324,7 +324,7 @@ body.dark{--paper:#1a1a2e;--paper-dim:#16213e;--ink:#e0e0e0;--ink-soft:#a0a0b0;-
 <footer>SIGNAL — a self-hunting AI tools archive. Built and reviewed before publish.<br><a href="/privacy.html" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Privacy</a> · <a href="/terms.html" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Terms</a> · <a href="/about.html" style="color:var(--ink-soft);margin:0 8px;font-size:11px">About</a></footer>
 <div class="reading-progress" id="readingProgress"></div>
 <script>
-document.querySelectorAll('h1').forEach(function(h){if(h.textContent.includes('SIGNAL'))h.classList.add('logo-3d')});
+document.querySelectorAll('.wordmark, h1').forEach(function(h){if(h.textContent.includes('SIGNAL'))h.classList.add('logo-3d')});
 document.addEventListener('DOMContentLoaded',function(){document.querySelectorAll('.container > *, .card').forEach(function(el,i){el.classList.add('page-enter');setTimeout(function(){el.classList.add('page-visible')},i*80)})});
 window.addEventListener('scroll',function(){var n=document.querySelector('nav');if(n)n.classList.toggle('scrolled',window.scrollY>10)});
 document.querySelectorAll('.card').forEach(function(c){c.classList.add('ripple')});
