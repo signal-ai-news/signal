@@ -2363,5 +2363,69 @@
     "published": "Wed, 22 Jul 2026 17:45:50 +0000",
     "processed": true,
     "processedAt": "2026-07-22T17:59:47.811Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+    "title": "Monday.com lays off hundreds to focus on AI",
+    "description": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-22T18:09:10.081Z",
+    "published": "Wed, 22 Jul 2026 17:54:14 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T18:12:39.955Z"
+  },
+  {
+    "url": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
+    "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
+    "description": "Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It’s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#160;Matt Murphy&#160;says&#160;he&#8217;s&#160;never seen in 25 years of investing, not in the interne",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-22T18:09:10.081Z",
+    "published": "Wed, 22 Jul 2026 14:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T18:12:39.955Z"
+  },
+  {
+    "url": "https://oidostudio.com",
+    "title": "Oido Studio – Build AI employees that run your business",
+    "description": "Article URL: https://oidostudio.com\nComments URL: https://news.ycombinator.com/item?id=49010973\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T18:09:16.331Z",
+    "published": "Wed, 22 Jul 2026 18:07:56 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T18:12:39.955Z"
+  },
+  {
+    "url": "https://thinkapedia.com/t/tk_s9opYzPvxvZ7/document",
+    "title": "The Vibe Coding Trap: Why AI-Assisted Projects Still Fail",
+    "description": "Article URL: https://thinkapedia.com/t/tk_s9opYzPvxvZ7/document\nComments URL: https://news.ycombinator.com/item?id=49010878\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T18:09:16.331Z",
+    "published": "Wed, 22 Jul 2026 18:02:52 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T18:12:39.955Z"
+  },
+  {
+    "url": "https://kottke.org/26/07/0049364-researchers-let-ai-models",
+    "title": "Claude was safest – and Grok committed 180 crimes and went extinct within 4 days",
+    "description": "Article URL: https://kottke.org/26/07/0049364-researchers-let-ai-models\nComments URL: https://news.ycombinator.com/item?id=49010863\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T18:09:16.331Z",
+    "published": "Wed, 22 Jul 2026 18:01:56 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T18:12:39.955Z"
+  },
+  {
+    "url": "https://cacm.acm.org/blogcacm/i-spent-a-year-asking-ai-to-solve-maths-hardest-problem-heres-what-happened/",
+    "title": "I Spent a Year Asking AI to Solve Math's Hardest Problem. Here's What Happened",
+    "description": "Article URL: https://cacm.acm.org/blogcacm/i-spent-a-year-asking-ai-to-solve-maths-hardest-problem-heres-what-happened/\nComments URL: https://news.ycombinator.com/item?id=49010806\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T18:09:16.331Z",
+    "published": "Wed, 22 Jul 2026 17:58:33 +0000"
   }
 ]
