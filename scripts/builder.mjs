@@ -359,7 +359,7 @@ ${article.faq ? `<script type="application/ld+json">
 </script>` : ''}
 <style>
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600&display=swap');
-:root{--paper:#efe9dc;--paper-dim:#e4dcc9;--ink:#1c2b25;--ink-soft:#5b6a5f;--rule:#c9bfa4;--signal:#b8481e;--signal-dim:#d98f6c;--live:#2f6b4f;--card:#f6f2e7}
+:root{--paper:#0a0a0f;--paper-dim:#12121a;--ink:#e8e8f0;--ink-soft:#8888a0;--rule:#1e1e2e;--signal:#ff6b35;--signal-dim:#ff8f60;--live:#00ff88;--card:#12121a}
 *{box-sizing:border-box;margin:0;padding:0}
 body{background:var(--paper);color:var(--ink);font-family:'Inter',sans-serif;-webkit-font-smoothing:antialiased}
 .ticker-wrap{background:var(--ink);color:var(--paper);overflow:hidden;white-space:nowrap;border-bottom:1px solid #000;position:relative}
@@ -434,6 +434,7 @@ a:hover{color:var(--signal)}
 </style>
 
 <link rel="stylesheet" href="/animations.css">
+<link rel="stylesheet" href="/premium.css?v=1784749287">
 </head>
 <body>
 <div class="ticker-wrap"><div class="ticker-track">${tickerItems} <span>//</span> ${tickerItems} <span>//</span></div></div>
