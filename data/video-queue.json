@@ -120,9 +120,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-21T23:39:42.219Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-22T17:00:44.433Z"
   },
   {
     "slug": "ai-simulations-state",
@@ -140,9 +141,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-21T23:39:42.219Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-22T17:00:59.661Z"
   },
   {
     "slug": "ai-copyright-settlement",
@@ -312,6 +314,204 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-22T13:49:58.491Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-security-tips",
+    "title": "5 Essential AI Security Tips",
+    "summary": "Don't miss these proven ways to secure your AI using zero trust principles",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-security-tips.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-security-tips.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 430,
+    "tags": [
+      "AI Security",
+      "Zero Trust",
+      "Cybersecurity",
+      "Artificial Intelligence",
+      "Machine Learning"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-22T17:00:30.441Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-gates-for-security",
+    "title": "3 Essential AI Gates",
+    "summary": "Don't let AI agents run amok - here's the ultimate pre-execution gate to keep them in check",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-gates-for-security.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-gates-for-security.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 466,
+    "tags": [
+      "AI Security",
+      "Shackle",
+      "AI Agents",
+      "Open Source",
+      "Machine Learning"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-22T17:00:30.441Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "octomind-cloud-ai-breakthrough",
+    "title": "3 Ways Octomind Cloud Breaks AI Barriers",
+    "summary": "Discover how Octomind Cloud is changing the AI landscape with its persistent cloud compute for AI agents",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/octomind-cloud-ai-breakthrough.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/octomind-cloud-ai-breakthrough.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 605,
+    "tags": [
+      "AI",
+      "Cloud Computing",
+      "Octomind Cloud",
+      "Artificial Intelligence",
+      "Machine Learning"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-22T17:00:30.441Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "build-llm-runtime-from-scratch",
+    "title": "3 Steps to LLM Mastery",
+    "summary": "Discover the ultimate guide to building your own LLM inference runtime from scratch",
+    "category": "ML",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/build-llm-runtime-from-scratch.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/build-llm-runtime-from-scratch.html",
+    "sourceName": "Towards Data Science",
+    "wordCount": 386,
+    "tags": [
+      "LLM",
+      "AI",
+      "Machine Learning",
+      "Inference Runtime",
+      "H100"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-22T17:00:30.441Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-security-risks-hugging-face-breach",
+    "title": "3 AI Security Risks",
+    "summary": "Hugging Face's breach is a wake-up call for AI security, here's what you need to know",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-security-risks-hugging-face-breach.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-security-risks-hugging-face-breach.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 394,
+    "tags": [
+      "AI Security",
+      "Hugging Face",
+      "Autonomous AI",
+      "Data Breach",
+      "Cybersecurity"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-22T17:00:30.441Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "apache-spark-4-2-breakthroughs",
+    "title": "5 Breakthroughs in Apache Spark 4.2",
+    "summary": "Don't miss the essential updates making your data AI-developer friendly",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/apache-spark-4-2-breakthroughs.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/apache-spark-4-2-breakthroughs.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 477,
+    "tags": [
+      "Apache Spark",
+      "AI Development",
+      "Data Science",
+      "Machine Learning",
+      "Big Data"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-22T17:00:30.441Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "openai-project-camellia-georgia",
+    "title": "3.2GW AI Boost",
+    "summary": "OpenAI's massive power deal is changing the AI landscape, but what does it mean for you?",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/openai-project-camellia-georgia.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/openai-project-camellia-georgia.html",
+    "sourceName": "The Decoder",
+    "wordCount": 509,
+    "tags": [
+      "OpenAI",
+      "Project Camellia",
+      "AI",
+      "Data Centers",
+      "Georgia"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-22T17:00:30.441Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-tips-for-software-companies",
+    "title": "5 Essential AI Tips",
+    "summary": "Don't miss the ultimate AI breakthrough for software companies",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-tips-for-software-companies.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-tips-for-software-companies.html",
+    "sourceName": "ZDNet AI",
+    "wordCount": 625,
+    "tags": [
+      "AI",
+      "SaaS",
+      "Software",
+      "Tech",
+      "Innovation"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-22T17:00:30.441Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "surround-sound-speaker-channels-explained",
+    "title": "5 Essential Speaker Channels",
+    "summary": "Don't miss the ultimate guide to building a home theater system with the right speaker channels",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/surround-sound-speaker-channels-explained.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/surround-sound-speaker-channels-explained.html",
+    "sourceName": "Engadget AI",
+    "wordCount": 519,
+    "tags": [
+      "home theater",
+      "surround sound",
+      "speaker channels",
+      "audio systems",
+      "entertainment"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-22T17:00:30.441Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
