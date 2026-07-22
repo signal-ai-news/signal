@@ -292,7 +292,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T17:39:29.902Z",
-    "published": "Tue, 21 Jul 2026 17:19:47 +0000"
+    "published": "Tue, 21 Jul 2026 17:19:47 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T18:23:54.604Z"
   },
   {
     "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
@@ -301,7 +303,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T17:39:29.902Z",
-    "published": "Tue, 21 Jul 2026 17:14:06 +0000"
+    "published": "Tue, 21 Jul 2026 17:14:06 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T18:23:54.604Z"
   },
   {
     "url": "https://github.com/aveproject/ave",
@@ -310,7 +314,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T17:39:29.902Z",
-    "published": "Tue, 21 Jul 2026 17:13:18 +0000"
+    "published": "Tue, 21 Jul 2026 17:13:18 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T18:23:54.604Z"
   },
   {
     "url": "https://www.spletzer.com/2026/07/dont-put-an-llm-behind-an-mcp-server/",
@@ -2427,5 +2433,27 @@
     "category": "community",
     "discovered": "2026-07-22T18:09:16.331Z",
     "published": "Wed, 22 Jul 2026 17:58:33 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+    "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+    "description": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo sha",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-22T18:20:28.709Z",
+    "published": "Wed, 22 Jul 2026 18:13:58 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T18:23:54.604Z"
+  },
+  {
+    "url": "https://github.com/my-chiefmind/ai-maestro",
+    "title": "AI-maestro: Conduct a roster of AI coding agents against a work board",
+    "description": "Article URL: https://github.com/my-chiefmind/ai-maestro\nComments URL: https://news.ycombinator.com/item?id=49011101\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T18:20:38.034Z",
+    "published": "Wed, 22 Jul 2026 18:17:48 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T18:23:54.604Z"
   }
 ]
