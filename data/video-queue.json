@@ -36,9 +36,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-21T23:39:42.219Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-22T13:50:11.779Z"
   },
   {
     "slug": "ai-music-deezer",
@@ -242,6 +243,72 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-22T10:42:12.232Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-hiring-biases-exposed",
+    "title": "3 AI Hiring Biases",
+    "summary": "Don't let AI screening bots sabotage your dream job: here's what you need to know",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-hiring-biases-exposed.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-hiring-biases-exposed.html",
+    "sourceName": "MIT Tech Review AI",
+    "wordCount": 400,
+    "tags": [
+      "AI",
+      "hiring",
+      "biases",
+      "job search",
+      "tech news"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-22T13:49:58.491Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "gpt-live-essential-tool-for-developers",
+    "title": "3 Reasons GPT-Live Is A Breakthrough",
+    "summary": "Don't miss out on the ultimate conversational AI experience",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/gpt-live-essential-tool-for-developers.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/gpt-live-essential-tool-for-developers.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 453,
+    "tags": [
+      "GPT-Live",
+      "AI",
+      "Conversational AI",
+      "Docker",
+      "Hacker News"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-22T13:49:58.491Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "google-updates-galaxy-unpacked-2026",
+    "title": "3 Essential Google Updates",
+    "summary": "Don't miss these breakthrough Google updates for Samsung devices that'll change how you work and play",
+    "category": "LLM",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/google-updates-galaxy-unpacked-2026.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/google-updates-galaxy-unpacked-2026.html",
+    "sourceName": "Google AI Blog",
+    "wordCount": 465,
+    "tags": [
+      "Google Updates",
+      "Samsung",
+      "Galaxy Unpacked 2026",
+      "AI Tools",
+      "Productivity"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-22T13:49:58.491Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
