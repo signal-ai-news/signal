@@ -188,6 +188,9 @@ export async function generate(signal) {
   }
 
   // Enrich with metadata
+  if (!article || !article.body) {
+    throw new Error('Generator returned empty/invalid result for: ' + signal.title);
+  }
   article.sourceUrl   = signal.url;
   article.sourceName  = signal.source;
   article.signalCategory = signal.category;
