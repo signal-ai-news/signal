@@ -37,27 +37,39 @@ Output JSON with these exact fields:
 }`;
 }
 
-async function callGroq(prompt) {
-  const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'Authorization': `Bearer ${GROQ_KEY}`
-    },
-    body: JSON.stringify({
-      model: 'llama-3.3-70b-versatile',
-      messages: [
-        { role: 'system', content: SYSTEM_PROMPT },
-        { role: 'user', content: prompt }
-      ],
-      temperature: 0.8,
-      max_tokens: 1024,
-      response_format: { type: 'json_object' }
-    })
-  });
-  if (!res.ok) throw new Error(`Groq ${res.status}: ${await res.text()}`);
-  const data = await res.json();
-  return JSON.parse(data.choices[0].message.content);
+async function callGroq(prompt, retries = 3) {
+  for (let i = 0; i < retries; i++) {
+    const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': `Bearer ${GROQ_KEY}`
+      },
+      body: JSON.stringify({
+        model: 'llama-3.3-70b-versatile',
+        messages: [
+          { role: 'system', content: SYSTEM_PROMPT },
+          { role: 'user', content: prompt }
+        ],
+        temperature: 0.8,
+        max_tokens: 1024,
+        response_format: { type: 'json_object' }
+      })
+    });
+
+    if (res.ok) {
+      const data = await res.json();
+      return JSON.parse(data.choices[0].message.content);
+    }
+
+    if (res.status === 429 && i < retries - 1) {
+      const wait = (i + 1) * 30;
+      console.log(`  ⚠ Groq rate limited, waiting ${wait}s...`);
+      await new Promise(r => setTimeout(r, wait * 1000));
+      continue;
+    }
+    throw new Error(`Groq ${res.status}: ${await res.text()}`);
+  }
 }
 
 async function callGemini(prompt) {

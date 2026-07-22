@@ -72,36 +72,60 @@ async function callGemini(prompt) {
   return JSON.parse(text.replace(/```json\n?|\n?```/g, '').trim());
 }
 
-async function callGroq(prompt) {
-  const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'Authorization': `Bearer ${GROQ_KEY}`
-    },
-    body: JSON.stringify({
-      model: 'llama-3.3-70b-versatile',
-      messages: [
-        { role: 'system', content: SYSTEM_PROMPT },
-        { role: 'user', content: prompt }
-      ],
-      temperature: 0.7,
-      max_tokens: 8192,
-      response_format: { type: 'json_object' }
-    })
-  });
-  if (!res.ok) throw new Error(`Groq ${res.status}: ${await res.text()}`);
-  const data = await res.json();
-  return JSON.parse(data.choices[0].message.content);
+async function callGroq(prompt, retries = 3) {
+  for (let i = 0; i < retries; i++) {
+    const res = await fetch('https://api.groq.com/openai/v1/chat/completions', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': `Bearer ${GROQ_KEY}`
+      },
+      body: JSON.stringify({
+        model: 'llama-3.3-70b-versatile',
+        messages: [
+          { role: 'system', content: SYSTEM_PROMPT },
+          { role: 'user', content: prompt }
+        ],
+        temperature: 0.7,
+        max_tokens: 8192,
+        response_format: { type: 'json_object' }
+      })
+    });
+
+    if (res.ok) {
+      const data = await res.json();
+      return JSON.parse(data.choices[0].message.content);
+    }
+
+    const errText = await res.text();
+    if (res.status === 429 && i < retries - 1) {
+      const wait = (i + 1) * 30; // 30s, 60s, 90s
+      console.log(`  ⚠ Groq rate limited, waiting ${wait}s (attempt ${i + 1}/${retries})...`);
+      await new Promise(r => setTimeout(r, wait * 1000));
+      continue;
+    }
+    throw new Error(`Groq ${res.status}: ${errText}`);
+  }
 }
 
 export async function generate(signal) {
   const prompt = buildPrompt(signal);
   console.log(`  ⏳ Generating: "${signal.title.substring(0, 50)}..."`);
 
-  const article = USE_MODEL === 'groq'
-    ? await callGroq(prompt)
-    : await callGemini(prompt);
+  let article;
+  try {
+    article = USE_MODEL === 'groq'
+      ? await callGroq(prompt)
+      : await callGemini(prompt);
+  } catch (err) {
+    // Fallback to Gemini if Groq fails
+    if (USE_MODEL === 'groq' && GEMINI_KEY) {
+      console.log(`  ⚠ Groq failed (${err.message}), falling back to Gemini...`);
+      article = await callGemini(prompt);
+    } else {
+      throw err;
+    }
+  }
 
   // Enrich with metadata
   article.sourceUrl   = signal.url;

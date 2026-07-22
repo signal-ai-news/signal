@@ -69,7 +69,13 @@ async function runPipeline() {
 
   console.log(`\n━━━ STEP 2-5: PROCESS ${toProcess.length} signal(s) ━━━\n`);
 
-  for (const signal of toProcess) {
+  for (let idx = 0; idx < toProcess.length; idx++) {
+    const signal = toProcess[idx];
+    // Delay between articles to avoid rate limits
+    if (idx > 0) {
+      console.log('  ⏳ Waiting 15s before next article...');
+      await new Promise(r => setTimeout(r, 15000));
+    }
     console.log(`\n── Processing: "${signal.title}" ──`);
 
     try {
