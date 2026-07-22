@@ -2,6 +2,73 @@
   {
     "keyword": "elevenlabs",
     "link": "https://try.elevenlabs.io/tw37jyig7hch",
-    "label": "Try ElevenLabs"
+    "label": "Try ElevenLabs",
+    "category": "audio"
+  },
+  {
+    "keyword": "cursor",
+    "link": "https://cursor.sh/?ref=signal",
+    "label": "Try Cursor IDE",
+    "category": "devtools"
+  },
+  {
+    "keyword": "perplexity",
+    "link": "https://perplexity.ai/?ref=signal",
+    "label": "Try Perplexity",
+    "category": "search"
+  },
+  {
+    "keyword": "runway",
+    "link": "https://runwayml.com/?ref=signal",
+    "label": "Try Runway ML",
+    "category": "video"
+  },
+  {
+    "keyword": "midjourney",
+    "link": "https://midjourney.com/?ref=signal",
+    "label": "Try Midjourney",
+    "category": "image"
+  },
+  {
+    "keyword": "suno",
+    "link": "https://suno.ai/?ref=signal",
+    "label": "Try Suno AI",
+    "category": "music"
+  },
+  {
+    "keyword": "pika",
+    "link": "https://pika.art/?ref=signal",
+    "label": "Try Pika",
+    "category": "video"
+  },
+  {
+    "keyword": "claude",
+    "link": "https://claude.ai/?ref=signal",
+    "label": "Try Claude AI",
+    "category": "llm"
+  },
+  {
+    "keyword": "chatgpt",
+    "link": "https://chat.openai.com/?ref=signal",
+    "label": "Try ChatGPT",
+    "category": "llm"
+  },
+  {
+    "keyword": "notion ai",
+    "link": "https://notion.so/?ref=signal",
+    "label": "Try Notion AI",
+    "category": "productivity"
+  },
+  {
+    "keyword": "hugging face",
+    "link": "https://huggingface.co/?ref=signal",
+    "label": "Explore Hugging Face",
+    "category": "ml"
+  },
+  {
+    "keyword": "replicate",
+    "link": "https://replicate.com/?ref=signal",
+    "label": "Try Replicate",
+    "category": "infra"
   }
 ]
