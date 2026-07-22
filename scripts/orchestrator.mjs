@@ -10,8 +10,9 @@ import { checkQuality } from './qualityGate.mjs';
 import { build } from './builder.mjs';
 import { refreshOldArticles } from './refreshArticles.mjs';
 import { notify, postToChannel, buildPublishMessage, buildChannelPublishMessage, buildErrorMessage, buildHuntReport } from './tgNotify.mjs';
+import { notifySearchEngines, submitToGoogleIndexingAPI } from './indexing.mjs';
 import { readJSON, writeJSON, nowISO } from './utils.mjs';
-import { ARTICLES_FILE, SIGNALS_FILE, GH_TOKEN, REPO } from './config.mjs';
+import { ARTICLES_FILE, SIGNALS_FILE, GH_TOKEN, REPO, SITE_URL } from './config.mjs';
 import { execSync } from 'child_process';
 
 const DRY_RUN  = process.argv.includes('--dry-run');
@@ -169,6 +170,19 @@ async function runPipeline() {
   for (const article of newArticles.slice(-3)) {
     await notify(buildPublishMessage(article));
     await postToChannel(buildChannelPublishMessage(article));
+  }
+
+  // ─── Step 9: INDEXING ───
+  console.log('\n━━━ STEP 9: INDEXING ━━━');
+  const newUrls = newArticles.map(a => `${SITE_URL}/articles/${a.slug}.html`);
+  try {
+    await notifySearchEngines(newUrls);
+    // Try Google Indexing API for each new article
+    for (const url of newUrls) {
+      await submitToGoogleIndexingAPI(url);
+    }
+  } catch (err) {
+    console.error('Indexing notification failed:', err.message);
   }
 
   // ─── Summary ───
