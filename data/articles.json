@@ -816,5 +816,185 @@
       "Duplicate title found: \"3 AI Breakthroughs\"",
       "AI slop detected: \"in conclusion\""
     ]
+  },
+  {
+    "title": "3 Steps to LLM Mastery",
+    "slug": "build-llm-runtime-from-scratch",
+    "dek": "Discover the ultimate guide to building your own LLM inference runtime from scratch",
+    "metaTitle": "LLM Runtime Tutorial",
+    "metaDesc": "Learn to build your own LLM runtime today and unlock AI breakthroughs",
+    "tags": [
+      "LLM",
+      "AI",
+      "Machine Learning",
+      "Inference Runtime",
+      "H100"
+    ],
+    "category": "ml",
+    "body": "\n      <h2>Introduction to LLM Runtime</h2>\n      <p>Building an LLM inference runtime from scratch is a daunting task, but with the right guidance, you can unlock the full potential of your AI models. In this article, we'll take a step-by-step tour of a small runtime called annotated-llm-runtime and explore the essential components you need to get started.</p>\n      <h3>What is an LLM Runtime?</h3>\n      <p>An LLM runtime is the backbone of any AI application, responsible for executing machine learning models and providing the necessary infrastructure for inference. By building your own LLM runtime, you'll have complete control over the entire process, from packing your own weights to capturing CUDA graphs.</p>\n      <h2>The 3-Step Journey to LLM Mastery</h2>\n      <p>To build your own LLM runtime, you'll need to follow these three essential steps: \n         <ul>\n            <li>Pack your own weights: This involves preparing your machine learning model for deployment and ensuring that it's optimized for your target hardware.</li>\n            <li>Own every barrier: This step requires you to take control of the entire inference process, from data loading to model execution.</li>\n            <li>Capture your own CUDA graphs: This involves leveraging the power of NVIDIA's CUDA platform to accelerate your AI workloads.</li>\n         </ul>\n      </p>\n      <h3>Practical Takeaways</h3>\n      <p>By following these steps and using the annotated-llm-runtime as a reference, you'll be able to build your own LLM inference runtime and unlock the full potential of your AI models. You'll also gain a deeper understanding of the entire process, from model development to deployment.</p>\n      <h2>What it means for you</h2>\n      <p>Building your own LLM runtime from scratch can have a significant impact on your AI applications. With complete control over the entire process, you'll be able to optimize your models for specific use cases, improve performance, and reduce latency. This can be especially beneficial for applications that require real-time inference, such as natural language processing or computer vision.</p>\n      <h2>The bigger picture</h2>\n      <p>The ability to build your own LLM runtime from scratch is a breakthrough in the field of AI, providing developers with the ultimate level of control and flexibility. As AI continues to evolve, the demand for custom LLM runtimes will only increase, making this skill essential for any developer looking to stay ahead of the curve.</p>\n      <blockquote>Don't miss out on this opportunity to take your AI skills to the next level. Start building your own LLM runtime today and discover the proven benefits of custom inference.</blockquote>\n   ",
+    "imagePrompt": "An illustration of a developer building a custom LLM runtime, with a cityscape in the background representing the vast possibilities of AI",
+    "faq": [
+      {
+        "question": "What is an LLM runtime?",
+        "answer": "An LLM runtime is the backbone of any AI application, responsible for executing machine learning models and providing the necessary infrastructure for inference."
+      },
+      {
+        "question": "How can I get started with building my own LLM runtime?",
+        "answer": "Start by exploring the annotated-llm-runtime and following the three essential steps outlined in this article. You can also experiment with different frameworks and tools to find what works best for your specific use case."
+      }
+    ],
+    "sourceUrl": "https://towardsdatascience.com/how-to-build-your-own-llm-runtime-from-scratch/",
+    "sourceName": "Towards Data Science",
+    "signalCategory": "ml",
+    "generated": "2026-07-22T15:06:31.933Z",
+    "status": "published",
+    "wordCount": 386,
+    "image": "/images/build-llm-runtime-from-scratch.jpg"
+  },
+  {
+    "title": "3 AI Security Risks",
+    "slug": "ai-security-risks-hugging-face-breach",
+    "dek": "Hugging Face's breach is a wake-up call for AI security, here's what you need to know",
+    "metaTitle": "AI Security Risks",
+    "metaDesc": "Learn about the recent Hugging Face breach and take action to protect yourself",
+    "tags": [
+      "AI Security",
+      "Hugging Face",
+      "Autonomous AI",
+      "Data Breach",
+      "Cybersecurity"
+    ],
+    "category": "community",
+    "body": "\n      <h2>Introduction to AI Security Risks</h2>\n      <p>The recent breach at Hugging Face, a popular AI platform, has raised concerns about the security of autonomous AI systems. The breach, which was linked to an autonomous AI agent, exposed internal datasets and credentials, highlighting the potential risks of using AI tools. In this article, we'll explore the implications of this breach and what it means for you.</p>\n      <h3>What Happened at Hugging Face?</h3>\n      <p>Hugging Face's breach is a prime example of how AI systems can be vulnerable to security threats. The breach occurred when an autonomous AI agent was able to access and expose sensitive data, including internal datasets and credentials. This incident highlights the need for AI developers to prioritize security and implement robust measures to prevent similar breaches.</p>\n<div style=\"margin:24px 0;padding:16px;background:#f6f2e7;border:1px solid #c9bfa4;border-radius:4px;\">\n        <p style=\"margin:0 0 10px;font-size:13px;color:#5b6a5f;font-family:'JetBrains Mono',monospace;letter-spacing:.04em;\">\n          TOOLS MENTIONED\n        </p>\n        \n    <a href=\"https://huggingface.co/?ref=signal\" target=\"_blank\" rel=\"noopener sponsored\"\n       style=\"display:inline-block;background:#1c2b25;color:#efe9dc;\n              padding:10px 20px;margin:4px 8px 4px 0;border-radius:3px;\n              text-decoration:none;font-family:'JetBrains Mono',monospace;\n              font-size:13px;letter-spacing:.04em;\">\n      Explore Hugging Face →\n    </a>\n  \n      </div></p>\n      <h2>Understanding AI Security Risks</h2>\n      <p>AI security risks are a growing concern, and it's essential to understand the potential threats. Some of the most significant risks include data breaches, like the one at Hugging Face, as well as the potential for AI systems to be used for malicious purposes, such as generating fake content or spreading disinformation. To mitigate these risks, it's crucial to implement robust security measures, including encryption, access controls, and regular security audits.</p>\n      <h3>Practical Takeaways</h3>\n      <p>So, what can you do to protect yourself from AI security risks? Here are some practical takeaways:</p>\n      <ul>\n         <li>Be cautious when using AI tools, especially those that involve sensitive data</li>\n         <li>Implement robust security measures, including encryption and access controls</li>\n         <li>Regularly monitor your AI systems for potential security threats</li>\n      </ul>\n      <h2>What it means for you</h2>\n      <p>The Hugging Face breach is a wake-up call for anyone using AI tools. It's essential to take action to protect yourself from potential security risks. By understanding the risks and implementing robust security measures, you can help prevent breaches and ensure the secure use of AI systems.</p>\n      <h2>The bigger picture</h2>\n      <p>The Hugging Face breach is part of a larger trend of AI security risks. As AI becomes increasingly ubiquitous, it's crucial to prioritize security and implement measures to prevent breaches. By doing so, we can ensure the safe and secure use of AI systems and prevent potential risks.</p>\n      <blockquote>The recent breach at Hugging Face is a reminder that AI security is a critical concern. By taking action to protect ourselves, we can help prevent breaches and ensure the secure use of AI systems.</blockquote>\n   ",
+    "imagePrompt": "An illustration of a person holding a shield with a robot in the background, symbolizing the protection of AI security",
+    "faq": [
+      {
+        "question": "What is Hugging Face?",
+        "answer": "Hugging Face is a popular AI platform that provides tools and resources for developers. It's known for its transformer-based models and has become a go-to destination for AI enthusiasts."
+      },
+      {
+        "question": "How can I get started with AI security?",
+        "answer": "To get started with AI security, begin by understanding the potential risks and implementing robust security measures, such as encryption and access controls. You can also explore AI security tools and resources, like those offered by Hugging Face."
+      }
+    ],
+    "callToAction": "Head over to Hugging Face to learn more about their AI security measures and how you can protect yourself from potential risks.",
+    "sourceUrl": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
+    "sourceName": "Hacker News (AI)",
+    "signalCategory": "community",
+    "generated": "2026-07-22T15:07:16.793Z",
+    "status": "published",
+    "wordCount": 394,
+    "image": "/images/ai-security-risks-hugging-face-breach.jpg",
+    "affiliates": [
+      "hugging face"
+    ]
+  },
+  {
+    "title": "3 Breakthroughs in $180M Augustus Deal",
+    "slug": "augustus-raises-180m-for-ai-clearing-bank",
+    "dek": "Augustus just raised $180M to build a clearing bank for the AI and stablecoin era, but what does it mean for you?",
+    "metaTitle": "Augustus AI Clearing Bank",
+    "metaDesc": "Discover how Augustus' $180M funding will impact AI and stablecoin - get the inside scoop and learn how to get started today",
+    "tags": [
+      "Augustus",
+      "AI",
+      "stablecoin",
+      "clearing bank",
+      "fintech"
+    ],
+    "category": "community",
+    "body": "\n      <h2>Introduction to Augustus</h2>\n      <p>Augustus, a fintech company, has just raised $180 million in funding to build a clearing bank specifically designed for the AI and stablecoin era. This move is essential for the development of a more efficient and secure financial system. The funding will be used to create a clearing bank that can handle the unique requirements of AI and stablecoin transactions.</p>\n      <h3>What is a Clearing Bank?</h3>\n      <p>A clearing bank is an intermediary that facilitates transactions between two parties. In the context of AI and stablecoin, a clearing bank will play a crucial role in ensuring that transactions are secure, efficient, and compliant with regulatory requirements. Augustus' clearing bank will utilize AI technology to analyze and process transactions in real-time, reducing the risk of errors and increasing the speed of settlements.</p>\n      <h2>The Impact of Augustus' Clearing Bank</h2>\n      <p>The development of Augustus' clearing bank has the potential to transform the financial industry. By providing a secure and efficient way to process AI and stablecoin transactions, Augustus will enable businesses and individuals to participate in the growing digital economy. This will lead to increased innovation, job creation, and economic growth. For example, companies like PayPal and Stripe have already seen significant growth by providing digital payment solutions, and Augustus' clearing bank could have a similar impact.</p>\n      <h3>Comparison to Traditional Clearing Banks</h3>\n      <p>Traditional clearing banks have been slow to adapt to the changing landscape of finance, and they often lack the technology and expertise to handle AI and stablecoin transactions. Augustus' clearing bank, on the other hand, is being built from the ground up with AI and stablecoin in mind. This means that it will be able to provide faster, more secure, and more efficient transactions than traditional clearing banks. In comparison, traditional clearing banks take around 2-3 days to settle transactions, while Augustus' clearing bank aims to settle transactions in real-time.</p>\n      <h2>What it means for you</h2>\n      <p>The development of Augustus' clearing bank has significant implications for businesses and individuals. With a secure and efficient way to process AI and stablecoin transactions, you'll be able to participate in the growing digital economy with confidence. You'll be able to make and receive payments quickly and securely, without the need for intermediaries. For instance, you can use Augustus' clearing bank to send and receive stablecoins, or to invest in AI-powered assets.</p>\n      <ul>\n         <li>Increased security: Augustus' clearing bank will utilize AI technology to analyze and process transactions in real-time, reducing the risk of errors and increasing the speed of settlements.</li>\n         <li>Improved efficiency: The clearing bank will enable faster and more efficient transactions, reducing the time and cost associated with traditional payment methods.</li>\n         <li>Increased innovation: The development of Augustus' clearing bank will enable businesses and individuals to participate in the growing digital economy, leading to increased innovation and job creation.</li>\n      </ul>\n      <h2>The bigger picture</h2>\n      <p>The development of Augustus' clearing bank is part of a larger trend towards the adoption of AI and stablecoin in the financial industry. As more companies begin to utilize AI and stablecoin, the need for secure and efficient transactions will continue to grow. Augustus' clearing bank is well-positioned to meet this need, and its development has the potential to transform the financial industry. In the next 5 years, we can expect to see a significant increase in the use of AI and stablecoin, with Augustus' clearing bank at the forefront of this trend.</p>\n      <blockquote>Augustus' clearing bank has the potential to be a breakthrough in the financial industry, enabling secure and efficient transactions for AI and stablecoin. With its cutting-edge technology and expertise, Augustus is well-positioned to lead the way in the development of a more efficient and secure financial system.</blockquote>\n      <p>As the financial industry continues to evolve, it's essential to stay ahead of the curve. With Augustus' clearing bank, you'll be able to participate in the growing digital economy with confidence. Don't miss out on this opportunity to be a part of the future of finance - get started with Augustus today.</p>\n   ",
+    "imagePrompt": "An illustration of a futuristic cityscape with a large, glowing AI brain at the center, surrounded by smaller, interconnected nodes representing the clearing bank and stablecoin transactions",
+    "faq": [
+      {
+        "question": "What is Augustus?",
+        "answer": "Augustus is a fintech company that has raised $180 million in funding to build a clearing bank for the AI and stablecoin era."
+      },
+      {
+        "question": "How can I get started with Augustus?",
+        "answer": "You can get started with Augustus by visiting their website and learning more about their clearing bank and how it can benefit your business or individual needs."
+      }
+    ],
+    "sourceUrl": "https://www.coindesk.com/business/2026/07/21/augustus-raises-usd180-million-to-build-a-clearing-bank-for-the-ai-and-stablecoin-era",
+    "sourceName": "Hacker News (AI)",
+    "signalCategory": "community",
+    "generated": "2026-07-22T15:07:59.257Z",
+    "status": "draft",
+    "wordCount": 658,
+    "image": "/images/augustus-raises-180m-for-ai-clearing-bank.jpg",
+    "qualityIssues": [
+      "AI slop detected: \"cutting-edge\""
+    ]
+  },
+  {
+    "title": "3 Essential AI Security Tools",
+    "slug": "ai-security-linters",
+    "dek": "Don't let AI-generated code put your project at risk - use Guard-AI to secure it",
+    "metaTitle": "Guard-AI: AI Security Linter",
+    "metaDesc": "Protect your AI-generated code with Guard-AI - try it today",
+    "tags": [
+      "AI security",
+      "security linter",
+      "Guard-AI",
+      "AI-generated code",
+      "code security"
+    ],
+    "category": "community",
+    "body": "\n      <h2>Introduction to Guard-AI</h2>\n      <p>As AI-generated code becomes more prevalent, the need for robust security measures has never been more pressing. Guard-AI is a breakthrough security linter designed to identify vulnerabilities in AI-generated code, providing developers with an essential tool to protect their projects. With Guard-AI, you can ensure the integrity and reliability of your AI-generated code, giving you peace of mind and protecting your users.</p>\n      <h3>How Guard-AI Works</h3>\n      <p>Guard-AI uses a proven combination of natural language processing and machine learning algorithms to analyze AI-generated code and detect potential security risks. By integrating Guard-AI into your development workflow, you can identify and fix vulnerabilities before they become major issues. This ultimate security solution is a must-have for any developer working with AI-generated code.</p>\n      <h2>What it means for you</h2>\n      <p>With Guard-AI, you can:</p>\n      <ul>\n         <li>Ensure the security and integrity of your AI-generated code</li>\n         <li>Identify and fix vulnerabilities before they become major issues</li>\n         <li>Protect your users and maintain their trust</li>\n      </ul>\n      <p>By using Guard-AI, you can avoid the pitfalls of insecure AI-generated code and create a more robust and reliable project. Don't miss out on this essential security tool - try Guard-AI today and take the first step towards securing your AI-generated code.</p>\n      <h3>The bigger picture</h3>\n      <p>The rise of AI-generated code has brought about a new era of innovation and productivity, but it also poses significant security risks. As AI-generated code becomes more widespread, the need for effective security measures will only continue to grow. Guard-AI is at the forefront of this movement, providing a proven and essential security solution for developers. By using Guard-AI, you're not only protecting your project, but also contributing to a more secure and reliable AI-generated code ecosystem.</p>\n      <blockquote>Guard-AI is a game-changing security tool that every developer working with AI-generated code needs to know about.</blockquote>\n      <p>Now that you know about Guard-AI, it's time to take action. Try Guard-AI today and experience the peace of mind that comes with knowing your AI-generated code is secure. You can find more information about Guard-AI on GitHub and start using it to protect your projects.</p>\n   ",
+    "imagePrompt": "An illustration of a shield protecting a coding interface, with a subtle AI-generated code pattern in the background",
+    "faq": [
+      {
+        "question": "What is Guard-AI?",
+        "answer": "Guard-AI is a security linter designed to identify vulnerabilities in AI-generated code, providing developers with an essential tool to protect their projects."
+      },
+      {
+        "question": "How can I get started with Guard-AI?",
+        "answer": "You can find more information about Guard-AI on GitHub and start using it to protect your projects today by visiting https://github.com/Karthikvk1899/guard-ai"
+      }
+    ],
+    "sourceUrl": "https://github.com/Karthikvk1899/guard-ai",
+    "sourceName": "Hacker News (AI)",
+    "signalCategory": "community",
+    "generated": "2026-07-22T15:08:39.834Z",
+    "status": "draft",
+    "wordCount": 341,
+    "image": "/images/ai-security-linters.jpg",
+    "qualityIssues": [
+      "Word count 341 < minimum 350"
+    ]
+  },
+  {
+    "title": "5 Breakthroughs in Apache Spark 4.2",
+    "slug": "apache-spark-4-2-breakthroughs",
+    "dek": "Don't miss the essential updates making your data AI-developer friendly",
+    "metaTitle": "Apache Spark 4.2 Updates",
+    "metaDesc": "Discover the latest Apache Spark 4.2 features and get started today",
+    "tags": [
+      "Apache Spark",
+      "AI Development",
+      "Data Science",
+      "Machine Learning",
+      "Big Data"
+    ],
+    "category": "community",
+    "body": "\n      <h2>Introduction to Apache Spark 4.2</h2>\n      <p>Apache Spark 4.2 is the latest version of the popular open-source data processing engine, and it's packed with features that make your data more AI-developer friendly. With over 1,000 contributions from the Apache Spark community, this update is a breakthrough for data scientists and developers alike. In this article, we'll explore the top 5 updates you need to know about Apache Spark 4.2.</p>\n      <h3>What's New in Apache Spark 4.2</h3>\n      <p>The latest version of Apache Spark includes several key updates, including improved performance, new APIs, and enhanced security features. For example, Apache Spark 4.2 includes a new <code>DataFrame</code> API that allows for more efficient data processing, as well as a new <code>MLlib</code> API for building machine learning models. Additionally, Apache Spark 4.2 includes several new features for working with big data, including support for <code>Hadoop 3.3</code> and <code>Apache Hive 3.1</code>.</p>\n      <h2>Top 5 Breakthroughs in Apache Spark 4.2</h2>\n      <p>So, what are the top 5 breakthroughs in Apache Spark 4.2? Here are the essential updates you need to know:</p>\n      <ul>\n         <li><strong>Improved Performance</strong>: Apache Spark 4.2 includes several performance enhancements, including a new <code>cache</code> API that allows for faster data access.</li>\n         <li><strong>New APIs</strong>: The latest version of Apache Spark includes several new APIs, including a <code>DataFrame</code> API and a <code>MLlib</code> API.</li>\n         <li><strong>Enhanced Security</strong>: Apache Spark 4.2 includes several new security features, including support for <code>SSL/TLS</code> encryption and <code>authentication</code> protocols.</li>\n         <li><strong>Big Data Support</strong>: The latest version of Apache Spark includes support for several big data technologies, including <code>Hadoop 3.3</code> and <code>Apache Hive 3.1</code>.</li>\n         <li><strong>Machine Learning Integration</strong>: Apache Spark 4.2 includes several new features for building machine learning models, including a new <code>MLlib</code> API and support for <code>deep learning</code> frameworks.</li>\n      </ul>\n      <h3>What it means for you</h3>\n      <p>So, what do these updates mean for you? If you're a data scientist or developer, Apache Spark 4.2 provides a more efficient and secure way to process and analyze big data. With the new <code>DataFrame</code> API and <code>MLlib</code> API, you can build more accurate machine learning models and gain deeper insights into your data. Additionally, the improved performance and security features in Apache Spark 4.2 make it an essential tool for any organization working with big data.</p>\n      <h3>The bigger picture</h3>\n      <p>The release of Apache Spark 4.2 is part of a larger trend towards more efficient and secure data processing. As the amount of data being generated continues to grow, organizations need tools that can handle large-scale data processing and analysis. Apache Spark 4.2 is an essential tool in this space, providing a proven and ultimate solution for big data processing and machine learning.</p>\n      <p>Don't miss out on the opportunity to get started with Apache Spark 4.2 today and discover the breakthroughs it can bring to your data science and development workflow. \n      <blockquote>As the world of big data continues to evolve, it's essential to stay ahead of the curve with the latest tools and technologies.</blockquote>\n   ",
+    "imagePrompt": "An illustration of a spark plug igniting a flame, surrounded by data visualizations and machine learning models, with a cityscape in the background",
+    "faq": [
+      {
+        "question": "What is Apache Spark?",
+        "answer": "Apache Spark is an open-source data processing engine that provides high-level APIs for building data pipelines and machine learning models."
+      },
+      {
+        "question": "How can I get started with Apache Spark 4.2?",
+        "answer": "You can get started with Apache Spark 4.2 by downloading the latest version from the Apache Spark website and following the installation instructions."
+      }
+    ],
+    "sourceUrl": "https://techstrong.it/featured/apache-spark-4-2-making-your-data-ai-developer-friendly/",
+    "sourceName": "Hacker News (AI)",
+    "signalCategory": "community",
+    "generated": "2026-07-22T15:09:22.953Z",
+    "status": "published",
+    "wordCount": 477,
+    "image": "/images/apache-spark-4-2-breakthroughs.jpg"
   }
 ]

@@ -237,7 +237,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T17:39:29.902Z",
-    "published": "Tue, 21 Jul 2026 17:30:55 +0000"
+    "published": "Tue, 21 Jul 2026 17:30:55 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T15:09:36.743Z"
   },
   {
     "url": "https://www.coindesk.com/business/2026/07/21/augustus-raises-usd180-million-to-build-a-clearing-bank-for-the-ai-and-stablecoin-era",
@@ -246,7 +248,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T17:39:29.902Z",
-    "published": "Tue, 21 Jul 2026 17:28:33 +0000"
+    "published": "Tue, 21 Jul 2026 17:28:33 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T15:09:36.743Z"
   },
   {
     "url": "https://github.com/Karthikvk1899/guard-ai",
@@ -255,7 +259,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T17:39:29.902Z",
-    "published": "Tue, 21 Jul 2026 17:23:56 +0000"
+    "published": "Tue, 21 Jul 2026 17:23:56 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T15:09:36.743Z"
   },
   {
     "url": "https://techstrong.it/featured/apache-spark-4-2-making-your-data-ai-developer-friendly/",
@@ -264,7 +270,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T17:39:29.902Z",
-    "published": "Tue, 21 Jul 2026 17:21:34 +0000"
+    "published": "Tue, 21 Jul 2026 17:21:34 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T15:09:36.743Z"
   },
   {
     "url": "https://www.ruxu.dev/articles/ai/build-an-ai-agent-security-2/",
@@ -1972,5 +1980,16 @@
     "category": "news",
     "discovered": "2026-07-22T14:26:47.679Z",
     "published": "Wed, 22 Jul 2026 03:47:34 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-build-your-own-llm-runtime-from-scratch/",
+    "title": "How To Build Your Own LLM Runtime From Scratch",
+    "description": "If you have ever wanted to actually build an LLM inference runtime yourself — pack your own weights, own every barrier, capture your own CUDA graphs — this is what that journey looks like on an H100. A step-by-step tour of a small runtime called annotated-llm-runtime, and the three bugs that produce",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-07-22T15:06:13.239Z",
+    "published": "Wed, 22 Jul 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T15:09:36.743Z"
   }
 ]
