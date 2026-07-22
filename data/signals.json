@@ -391,7 +391,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T17:39:29.902Z",
-    "published": "Tue, 21 Jul 2026 17:00:03 +0000"
+    "published": "Tue, 21 Jul 2026 17:00:03 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T19:39:17.623Z"
   },
   {
     "url": "https://github.com/Observal/Observal",
@@ -2616,5 +2618,27 @@
     "category": "news",
     "discovered": "2026-07-22T19:05:16.877Z",
     "published": "Wed, 22 Jul 2026 19:01:38 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+    "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+    "description": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-22T19:37:14.158Z",
+    "published": "Wed, 22 Jul 2026 19:11:46 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T19:39:17.623Z"
+  },
+  {
+    "url": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win/",
+    "title": "Anthropic's $1.5B piracy settlement with book authors is a record loss that hands AI labs their biggest legal win",
+    "description": "Anthropic has to pay $1.5 billion to book authors, the largest copyright settlement in class action history. But the payout is for downloading roughly 482,460 works from piracy databases, not for AI training itself. Judge Alsup had previously ruled that AI training on legally obtained books",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-22T19:37:30.525Z",
+    "published": "Wed, 22 Jul 2026 19:33:48 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T19:39:17.623Z"
   }
 ]
