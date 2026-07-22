@@ -2492,5 +2492,123 @@
     "published": "Wed, 22 Jul 2026 18:31:01 +0000",
     "processed": true,
     "processedAt": "2026-07-22T18:56:00.141Z"
+  },
+  {
+    "url": "https://github.com/Northwood-Systems/millwright",
+    "title": "Show HN: Millwright – Rust-based, self-hosted LLM router",
+    "description": "Hey HN,With the news of OpenRouter possibly being acquired and proliferation of hosted LLM routers (i.e. Ramp Router, Vercel’s AI Gateway), I saw the need for a self hosted solution focused on cost savings, transparency, and performance. So, I built an open sourced router with a simple CLI interfac",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T19:04:55.559Z",
+    "published": "Wed, 22 Jul 2026 19:03:50 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T19:08:16.510Z"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-07-22/apple-to-launch-new-macbook-air-imac-macbook-pro-neo-mac-mini-mac-studio",
+    "title": "Apple Plans Overhaul of MacBooks, iMac in Push to Meet AI Demand",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-07-22/apple-to-launch-new-macbook-air-imac-macbook-pro-neo-mac-mini-mac-studio\nComments URL: https://news.ycombinator.com/item?id=49011789\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T19:04:55.559Z",
+    "published": "Wed, 22 Jul 2026 19:03:04 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T19:08:16.510Z"
+  },
+  {
+    "url": "https://www.businessinsider.com/white-house-kimi-k3-moonshot-ai-distillation-2026-7",
+    "title": "Top White House official escalating the fight over Moonshot AI's Kimi K3 model",
+    "description": "Article URL: https://www.businessinsider.com/white-house-kimi-k3-moonshot-ai-distillation-2026-7\nComments URL: https://news.ycombinator.com/item?id=49011788\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T19:04:55.559Z",
+    "published": "Wed, 22 Jul 2026 19:02:59 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T19:08:16.510Z"
+  },
+  {
+    "url": "https://www.gamesradar.com/entertainment/sci-fi-movies/district-9-and-gran-turismo-director-has-made-a-fully-ai-film-and-the-internet-is-not-holding-back/",
+    "title": "District 9 and Gran Turismo director has made an AI film",
+    "description": "Article URL: https://www.gamesradar.com/entertainment/sci-fi-movies/district-9-and-gran-turismo-director-has-made-a-fully-ai-film-and-the-internet-is-not-holding-back/\nComments URL: https://news.ycombinator.com/item?id=49011787\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T19:04:55.559Z",
+    "published": "Wed, 22 Jul 2026 19:02:57 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T19:08:16.510Z"
+  },
+  {
+    "url": "https://toloka.ai/blog/gpt-5.6-got-smarter-then-it-kept-acting/",
+    "title": "GPT-5.6 got smarter. Then it kept acting",
+    "description": "Article URL: https://toloka.ai/blog/gpt-5.6-got-smarter-then-it-kept-acting/\nComments URL: https://news.ycombinator.com/item?id=49011722\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T19:04:55.559Z",
+    "published": "Wed, 22 Jul 2026 18:58:27 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T19:08:16.510Z"
+  },
+  {
+    "url": "https://www.claudecosts.com/",
+    "title": "Claude Costs",
+    "description": "Article URL: https://www.claudecosts.com/\nComments URL: https://news.ycombinator.com/item?id=49011563\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T19:04:55.559Z",
+    "published": "Wed, 22 Jul 2026 18:48:08 +0000"
+  },
+  {
+    "url": "https://github.com/mauscoelho/rabbitty-app/releases",
+    "title": "Rabbitty – a native Mac terminal for running AI coding agents in parallel",
+    "description": "Article URL: https://github.com/mauscoelho/rabbitty-app/releases\nComments URL: https://news.ycombinator.com/item?id=49011463\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T19:04:55.559Z",
+    "published": "Wed, 22 Jul 2026 18:42:28 +0000"
+  },
+  {
+    "url": "https://qz.com/reddit-stock-google-ai-content-deal-072226",
+    "title": "Reddit stock sinks as company weighs blocking Google's AI access to its content",
+    "description": "Article URL: https://qz.com/reddit-stock-google-ai-content-deal-072226\nComments URL: https://news.ycombinator.com/item?id=49011256\nPoints: 6\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T19:04:55.559Z",
+    "published": "Wed, 22 Jul 2026 18:28:12 +0000"
+  },
+  {
+    "url": "https://www.tomshardware.com/tech-industry/big-tech/ai-tech-companies-have-hidden-debt-worth-around-usd1-65-trillion-report-claims-amount-is-122-percent-of-debt-reflected-on-the-balance-sheets-of-alphabet-amazon-meta-microsoft-and-oracle",
+    "title": "AI tech companies have 'hidden debt' worth around $1.65T",
+    "description": "Article URL: https://www.tomshardware.com/tech-industry/big-tech/ai-tech-companies-have-hidden-debt-worth-around-usd1-65-trillion-report-claims-amount-is-122-percent-of-debt-reflected-on-the-balance-sheets-of-alphabet-amazon-meta-microsoft-and-oracle\nComments URL: https://news.ycombinator.com/item?",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T19:04:55.559Z",
+    "published": "Wed, 22 Jul 2026 18:26:38 +0000"
+  },
+  {
+    "url": "https://www.theregister.com/ai-and-ml/2026/07/19/using-ai-makes-people-less-likely-to-admit-they-dont-know-something/5274567",
+    "title": "Using AI makes people less likely to admit they don't know something",
+    "description": "Article URL: https://www.theregister.com/ai-and-ml/2026/07/19/using-ai-makes-people-less-likely-to-admit-they-dont-know-something/5274567\nComments URL: https://news.ycombinator.com/item?id=49011175\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T19:04:55.559Z",
+    "published": "Wed, 22 Jul 2026 18:22:24 +0000"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/",
+    "title": "Copilot vs. raw API access: What are you actually paying for?",
+    "description": "Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it.\nThe post Copilot vs. raw API access: What are you actually paying for? appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-07-22T19:05:08.335Z",
+    "published": "Wed, 22 Jul 2026 19:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
+    "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
+    "description": "As access to Anthropic’s and OpenAI’s frontier models becomes more restricted, Chinese labs are pitching their open-source alternatives as stable, accessible, and increasingly capable.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-07-22T19:05:16.877Z",
+    "published": "Wed, 22 Jul 2026 19:01:38 +0000"
   }
 ]
