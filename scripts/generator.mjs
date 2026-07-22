@@ -21,7 +21,9 @@ RULES:
 8. Do NOT use phrases like "In the ever-evolving landscape of..." or "It's worth noting that..." or "game-changer" or "revolutionary".
 9. Use contractions naturally (don't, it's, you'll).
 10. Add specific numbers, dates, and facts when available.
-11. Output ONLY valid JSON — no markdown, no code fences.`;
+11. Include a "FAQ" section at the end with 2-3 common questions and short answers (for SEO rich snippets).
+12. End with a clear CALL-TO-ACTION pointing to the tool.
+13. Output ONLY valid JSON — no markdown, no code fences.`;
 
 function buildPrompt(signal) {
   return `Write a VIRAL-WORTHY article about this AI tool/announcement:
@@ -48,7 +50,11 @@ Output JSON with these exact fields:
   "tags": ["tag1", "tag2", "tag3", "tag4", "tag5"],
   "category": "${signal.category}",
   "body": "full article HTML with <h2>, <h3>, <p>, <ul>, <blockquote> tags",
-  "imagePrompt": "detailed prompt for a blog header illustration"
+  "imagePrompt": "detailed prompt for a blog header illustration",
+    "faq": [
+      {"question": "What is [main tool/topic]?", "answer": "Brief 1-2 sentence answer"},
+      {"question": "How can I get started?", "answer": "Brief actionable answer"}
+    ]
 }`;
 }
 
