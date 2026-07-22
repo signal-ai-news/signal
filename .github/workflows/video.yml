@@ -24,6 +24,7 @@ jobs:
           python-version: '3.12'
       - name: Install dependencies
         run: |
+          sudo apt-get update && sudo apt-get install -y ffmpeg
           npm ci
           pip install edge-tts
           npx playwright install chromium
