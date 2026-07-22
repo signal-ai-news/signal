@@ -281,7 +281,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T17:39:29.902Z",
-    "published": "Tue, 21 Jul 2026 17:21:32 +0000"
+    "published": "Tue, 21 Jul 2026 17:21:32 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T17:59:47.811Z"
   },
   {
     "url": "https://fortune.com/2026/07/20/hugging-face-turns-to-chinese-open-source-ai-to-fend-off-autonomous-ai-cyber-attack-after-american-ai-guardrails-stymie-defense/",
@@ -2317,5 +2319,49 @@
     "category": "news",
     "discovered": "2026-07-22T17:44:59.433Z",
     "published": "Wed, 22 Jul 2026 16:06:54 +0000"
+  },
+  {
+    "url": "https://github.com/febbhav/signs-of-ai-design",
+    "title": "Signs of AI Design",
+    "description": "Article URL: https://github.com/febbhav/signs-of-ai-design\nComments URL: https://news.ycombinator.com/item?id=49010745\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T17:56:20.669Z",
+    "published": "Wed, 22 Jul 2026 17:54:13 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T17:59:47.811Z"
+  },
+  {
+    "url": "https://munreader.com/",
+    "title": "Most people are using AI the wrong way in their job search",
+    "description": "Article URL: https://munreader.com/\nComments URL: https://news.ycombinator.com/item?id=49010738\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T17:56:20.669Z",
+    "published": "Wed, 22 Jul 2026 17:53:48 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T17:59:47.811Z"
+  },
+  {
+    "url": "https://medium.com/@shizhanszh34/what-sampling-temperature-actually-does-in-llm-rl-training-a-controlled-study-of-temperature-a1f710e32a36",
+    "title": "What sampling temperature does in LLM RL training",
+    "description": "Article URL: https://medium.com/@shizhanszh34/what-sampling-temperature-actually-does-in-llm-rl-training-a-controlled-study-of-temperature-a1f710e32a36\nComments URL: https://news.ycombinator.com/item?id=49010699\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T17:56:20.669Z",
+    "published": "Wed, 22 Jul 2026 17:51:48 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T17:59:47.811Z"
+  },
+  {
+    "url": "https://www.cloudworldmodel.ai/blog/x402-cloud-simulation-api",
+    "title": "Show HN: We added x402 so AI agents can pay to use our cloud simulation API",
+    "description": "Article URL: https://www.cloudworldmodel.ai/blog/x402-cloud-simulation-api\nComments URL: https://news.ycombinator.com/item?id=49010610\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T17:56:20.669Z",
+    "published": "Wed, 22 Jul 2026 17:45:50 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T17:59:47.811Z"
   }
 ]
