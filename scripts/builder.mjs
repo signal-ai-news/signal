@@ -116,7 +116,76 @@ body.dark{--paper:#1a1a2e;--paper-dim:#16213e;--ink:#e0e0e0;--ink-soft:#a0a0b0;-
 .tag-filter{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}
 .tag-btn{padding:4px 12px;border:1px solid var(--rule);border-radius:3px;font-family:'JetBrains Mono',monospace;font-size:11px;cursor:pointer;background:transparent;color:var(--ink-soft);transition:all .2s}
 .tag-btn:hover,.tag-btn.active{background:var(--signal);color:#fff;border-color:var(--signal)}
-</style>
+
+
+/* === 3D LOGO === */
+.logo-3d{
+  font-family:'Fraunces',serif;font-size:48px;font-weight:700;
+  background:linear-gradient(135deg,#b8481e,#e07040,#b8481e);
+  background-size:200% 200%;
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;
+  background-clip:text;
+  animation:logoShimmer 3s ease infinite, logoFloat 4s ease-in-out infinite;
+  display:inline-block;transform-style:preserve-3d;perspective:500px;
+}
+@keyframes logoShimmer{0%{background-position:0% 50%}50%{background-position:100% 50%}100%{background-position:0% 50%}}
+@keyframes logoFloat{0%,100%{transform:translateY(0) rotateX(0)}25%{transform:translateY(-4px) rotateX(2deg)}50%{transform:translateY(0)}75%{transform:translateY(-2px) rotateX(-1deg)}}
+
+/* === SMOOTH TRANSITIONS === */
+.page-enter{opacity:0;transform:translateY(20px)}
+.page-visible{opacity:1;transform:translateY(0);transition:all .6s cubic-bezier(.4,0,.2,1)}
+html{scroll-behavior:smooth}
+
+/* === RIPPLE EFFECT === */
+.ripple{position:relative;overflow:hidden}
+.ripple::after{content:'';position:absolute;width:100%;height:100%;top:0;left:0;background:radial-gradient(circle,rgba(184,72,30,.3) 10%,transparent 10.01%);background-repeat:no-repeat;background-position:50%;transform:scale(10);opacity:0;transition:transform .5s,opacity .5s}
+.ripple:active::after{transform:scale(0);opacity:1;transition:0s}
+
+/* === CARD MODERN === */
+.card{
+  background:var(--card);border:1px solid var(--rule);border-radius:8px;padding:20px;margin-bottom:16px;
+  transition:all .3s cubic-bezier(.4,0,.2,1);transform:translateY(0);box-shadow:0 1px 3px rgba(0,0,0,0);
+}
+.card:hover{transform:translateY(-4px);box-shadow:0 8px 24px rgba(28,43,37,.12);border-color:var(--signal)}
+
+/* === GLASSMORPHISM NAV === */
+nav{
+  background:rgba(239,233,220,.85);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);
+  border-bottom:1px solid var(--rule);position:sticky;top:0;z-index:50;transition:all .3s;
+}
+nav.scrolled{box-shadow:0 2px 12px rgba(0,0,0,.08)}
+
+/* === SMOOTH LINKS === */
+a{transition:color .2s,border-color .2s}
+a:hover{color:var(--signal)}
+
+/* === ARTICLE ANIMATION === */
+.article-body{animation:fadeUp .6s ease forwards}
+@keyframes fadeUp{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
+
+/* === TICKER === */
+.ticker-wrap{overflow:hidden;padding:8px 0;background:linear-gradient(90deg,var(--ink),var(--ink-soft),var(--ink));color:var(--paper);font-family:'JetBrains Mono',monospace;font-size:11px}
+.ticker-content{display:flex;gap:24px;white-space:nowrap;animation:scroll 30s linear infinite}
+@keyframes scroll{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
+
+/* === BUTTON === */
+.btn{display:inline-block;padding:10px 24px;background:var(--signal);color:#fff;font-family:'JetBrains Mono',monospace;font-size:13px;border:none;border-radius:4px;cursor:pointer;transition:all .2s;transform:translateY(0)}
+.btn:hover{transform:translateY(-2px);box-shadow:0 4px 12px rgba(184,72,30,.3)}
+.btn:active{transform:translateY(0)}
+
+/* === SKELETON === */
+.skeleton{background:linear-gradient(90deg,var(--card) 25%,var(--paper) 50%,var(--card) 75%);background-size:200% 100%;animation:shimmer 1.5s infinite;border-radius:4px;height:20px;margin-bottom:8px}
+@keyframes shimmer{0%{background-position:200% 0}100%{background-position:-200% 0}}
+
+/* === SCROLL INDICATOR === */
+.scroll-indicator{width:100%;text-align:center;padding:16px;animation:bounce 2s infinite}
+@keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(8px)}}
+
+/* === FOOTER MODERN === */
+footer{background:var(--ink);color:var(--paper);padding:48px 24px;text-align:center;font-family:'JetBrains Mono',monospace;font-size:11px}
+footer a{color:var(--signal);border-bottom:1px solid transparent}
+footer a:hover{border-bottom-color:var(--signal)}
+
 </head>
 <body>
 <div class="container">
@@ -185,6 +254,42 @@ ${article.faq ? `
 window.addEventListener('scroll',()=>{const e=document.getElementById('readingProgress');if(!e)return;const h=document.documentElement.scrollHeight-window.innerHeight;e.style.width=(window.scrollY/h*100)+'%'});
 const toggle=document.querySelector('.dark-toggle');if(toggle){toggle.addEventListener('click',()=>{document.body.classList.toggle('dark');localStorage.setItem('theme',document.body.classList.contains('dark')?'dark':'light')});if(localStorage.getItem('theme')==='dark')document.body.classList.add('dark')}
 const obs=new IntersectionObserver(e=>{e.forEach(x=>{if(x.isIntersecting){x.target.style.animationPlayState='running';obs.unobserve(x.target)}})},{threshold:.1});document.querySelectorAll('.card').forEach(c=>{c.style.animationPlayState='paused';obs.observe(c)});
+</script>
+
+<div class="reading-progress" id="readingProgress"></div>
+<script>
+// 3D Logo
+document.querySelectorAll('h1').forEach(h=>{if(h.textContent.includes('SIGNAL'))h.classList.add('logo-3d')});
+
+// Page enter animation
+document.addEventListener('DOMContentLoaded',()=>{
+  document.querySelectorAll('.container > *').forEach((el,i)=>{
+    el.classList.add('page-enter');
+    setTimeout(()=>el.classList.add('page-visible'),i*50);
+  });
+});
+
+// Sticky nav
+window.addEventListener('scroll',()=>{const n=document.querySelector('nav');if(n)n.classList.toggle('scrolled',window.scrollY>10)});
+
+// Ripple on cards
+document.querySelectorAll('.card').forEach(c=>c.classList.add('ripple'));
+
+// Smooth scroll
+document.querySelectorAll('a[href^="#"]').forEach(a=>{
+  a.addEventListener('click',e=>{e.preventDefault();const t=document.querySelector(a.getAttribute('href'));if(t)t.scrollIntoView({behavior:'smooth',block:'start'})});
+});
+
+// Reading progress
+window.addEventListener('scroll',()=>{const b=document.getElementById('readingProgress');if(!b)return;const h=document.documentElement.scrollHeight-window.innerHeight;b.style.width=(window.scrollY/h*100)+'%'});
+
+// Dark mode
+const toggle=document.querySelector('.dark-toggle');
+if(toggle){toggle.addEventListener('click',()=>{document.body.classList.toggle('dark');localStorage.setItem('theme',document.body.classList.contains('dark')?'dark':'light')});if(localStorage.getItem('theme')==='dark')document.body.classList.add('dark')}
+
+// Intersection Observer
+const obs=new IntersectionObserver(e=>{e.forEach(x=>{if(x.isIntersecting){x.target.style.animationPlayState='running';x.target.classList.add('page-visible');obs.unobserve(x.target)}})},{threshold:.1});
+document.querySelectorAll('.card,.article-body').forEach(el=>{el.style.animationPlayState='paused';obs.observe(el)});
 </script>
 </body>
 </html>`;
