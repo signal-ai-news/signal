@@ -139,15 +139,9 @@ export async function renderVideo(script, audioPath, coverImagePath, slug) {
 
   console.log(`  🎬 Rendering video: ${slug}`);
 
-  // Generate frames
-  const frameResult = await generateFrames(script, coverImagePath, slug);
-
-  if (!frameResult) {
-    // Fallback: use FFmpeg text-only approach
-    return await renderVideoFFmpeg(script, audioPath, slug);
-  }
-
-  const { frameDir, fps, totalFrames } = frameResult;
+  // Use FFmpeg renderer (fast, reliable for CI)
+  // Playwright renderer available but too slow for 1000+ frames in CI
+  return await renderVideoFFmpeg(script, audioPath, slug);
 
   // Get audio duration
   let audioDuration;
