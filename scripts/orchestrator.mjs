@@ -79,8 +79,9 @@ async function runPipeline() {
     const signal = toProcess[idx];
     // Delay between articles to avoid rate limits
     if (idx > 0) {
-      console.log('  ⏳ Waiting 15s before next article...');
-      await new Promise(r => setTimeout(r, 15000));
+      const delay = 30000; // 30s between articles for rate limit safety
+      console.log(`  ⏳ Waiting ${delay/1000}s before next article...`);
+      await new Promise(r => setTimeout(r, delay));
     }
     console.log(`\n── Processing: "${signal.title}" ──`);
 

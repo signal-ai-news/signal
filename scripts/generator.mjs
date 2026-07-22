@@ -51,25 +51,49 @@ Output JSON with these exact fields:
 }`;
 }
 
-async function callGemini(prompt) {
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${GEMINI_KEY}`;
-  const res = await fetch(url, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({
-      contents: [{ parts: [{ text: prompt }] }],
-      generationConfig: {
-        temperature: 0.7,
-        maxOutputTokens: 4096,
-        responseMimeType: 'application/json'
-      },
-      systemInstruction: { parts: [{ text: SYSTEM_PROMPT }] }
-    })
-  });
-  if (!res.ok) throw new Error(`Gemini ${res.status}: ${await res.text()}`);
-  const data = await res.json();
-  const text = data.candidates?.[0]?.content?.parts?.[0]?.text || '';
-  return JSON.parse(text.replace(/```json\n?|\n?```/g, '').trim());
+async function callGemini(prompt, retries = 3) {
+  for (let i = 0; i < retries; i++) {
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${GEMINI_KEY}`;
+    const res = await fetch(url, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        contents: [{ parts: [{ text: prompt }] }],
+        generationConfig: {
+          temperature: 0.7,
+          maxOutputTokens: 4096,
+          responseMimeType: 'application/json'
+        },
+        systemInstruction: { parts: [{ text: SYSTEM_PROMPT }] }
+      })
+    });
+
+    if (res.ok) {
+      const data = await res.json();
+      const text = data.candidates?.[0]?.content?.parts?.[0]?.text || '';
+      return JSON.parse(text.replace(/```json\n?|\n?```/g, '').trim());
+    }
+
+    const errText = await res.text();
+    if (res.status === 429 && i < retries - 1) {
+      const retryMs = parseRetrySeconds(errText);
+      const wait = retryMs ? Math.min(retryMs + 3000, 60000) : (i + 1) * 20000;
+      const waitSec = Math.round(wait / 1000);
+      console.log(`  ⚠ Gemini rate limited, waiting ${waitSec}s (attempt ${i + 1}/${retries})...`);
+      await new Promise(r => setTimeout(r, wait));
+      continue;
+    }
+    throw new Error(`Gemini ${res.status}: ${errText}`);
+  }
+}
+
+function parseRetrySeconds(errText) {
+  // Extract "Please try again in Xm Ys" from error
+  const match = errText.match(/try again in (\d+)m(\d+\.?\d*)s/);
+  if (match) return (parseInt(match[1]) * 60 + parseFloat(match[2])) * 1000;
+  const match2 = errText.match(/try again in (\d+\.?\d*)s/);
+  if (match2) return parseFloat(match2[1]) * 1000;
+  return null;
 }
 
 async function callGroq(prompt, retries = 3) {
@@ -99,9 +123,11 @@ async function callGroq(prompt, retries = 3) {
 
     const errText = await res.text();
     if (res.status === 429 && i < retries - 1) {
-      const wait = (i + 1) * 30; // 30s, 60s, 90s
-      console.log(`  ⚠ Groq rate limited, waiting ${wait}s (attempt ${i + 1}/${retries})...`);
-      await new Promise(r => setTimeout(r, wait * 1000));
+      const retryMs = parseRetrySeconds(errText);
+      const wait = retryMs ? Math.min(retryMs + 5000, 120000) : (i + 1) * 30000;
+      const waitSec = Math.round(wait / 1000);
+      console.log(`  ⚠ Groq rate limited, waiting ${waitSec}s (attempt ${i + 1}/${retries})...`);
+      await new Promise(r => setTimeout(r, wait));
       continue;
     }
     throw new Error(`Groq ${res.status}: ${errText}`);
