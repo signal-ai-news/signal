@@ -414,40 +414,24 @@ body.dark{--paper:#1a1a2e;--paper-dim:#16213e;--ink:#e0e0e0;--ink-soft:#a0a0b0;-
 .tag-filter{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}
 .tag-btn{padding:4px 12px;border:1px solid var(--rule);border-radius:3px;font-family:'JetBrains Mono',monospace;font-size:11px;cursor:pointer;background:transparent;color:var(--ink-soft);transition:all .2s}
 .tag-btn:hover,.tag-btn.active{background:var(--signal);color:#fff;border-color:var(--signal)}
-</style>
 
 /* === 3D LOGO === */
-.logo-3d{
-  font-family:'Fraunces',serif;font-size:48px;font-weight:700;
-  background:linear-gradient(135deg,#b8481e,#e07040,#b8481e);
-  background-size:200% 200%;
-  -webkit-background-clip:text;-webkit-text-fill-color:transparent;
-  background-clip:text;
-  animation:logoShimmer 3s ease infinite, logoFloat 4s ease-in-out infinite;
-  display:inline-block;
-}
+.logo-3d{font-family:'Fraunces',serif;font-size:48px;font-weight:700;background:linear-gradient(135deg,#b8481e,#e07040,#b8481e);background-size:200% 200%;-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;animation:logoShimmer 3s ease infinite,logoFloat 4s ease-in-out infinite;display:inline-block}
 @keyframes logoShimmer{0%{background-position:0% 50%}50%{background-position:100% 50%}100%{background-position:0% 50%}}
 @keyframes logoFloat{0%,100%{transform:translateY(0)}25%{transform:translateY(-6px)}50%{transform:translateY(0)}75%{transform:translateY(-3px)}}
 .reading-progress{position:fixed;top:0;left:0;width:0;height:3px;background:var(--signal);z-index:999;transition:width .1s}
 html{scroll-behavior:smooth}
-.card{transition:all .3s cubic-bezier(.4,0,.2,1);border-radius:8px}
-.card:hover{transform:translateY(-4px);box-shadow:0 8px 24px rgba(28,43,37,.12);border-color:var(--signal)}
+.card{transition:all .3s cubic-bezier(.4,0,.2,1)}
+.card:hover{transform:translateY(-4px);box-shadow:0 8px 24px rgba(28,43,37,.12)}
 .ripple{position:relative;overflow:hidden}
-.ripple::after{content:'';position:absolute;width:100%;height:100%;top:0;left:0;background:radial-gradient(circle,rgba(184,72,30,.2) 10%,transparent 10.01%);background-repeat:no-repeat;background-position:50%;transform:scale(10);opacity:0;transition:transform .5s,opacity .5s}
 .ripple:active::after{transform:scale(0);opacity:1;transition:0s}
-nav{background:rgba(239,233,220,.85);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-bottom:1px solid var(--rule);position:sticky;top:0;z-index:50;transition:all .3s}
-nav.scrolled{box-shadow:0 2px 12px rgba(0,0,0,.08)}
-a{transition:color .2s,border-color .2s}
+nav{background:rgba(239,233,220,.85);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-bottom:1px solid var(--rule);position:sticky;top:0;z-index:50}
+a{transition:color .2s}
 a:hover{color:var(--signal)}
 .page-enter{opacity:0;transform:translateY(20px)}
 .page-visible{opacity:1;transform:translateY(0);transition:all .6s cubic-bezier(.4,0,.2,1)}
-.dark-toggle{position:fixed;bottom:20px;right:20px;width:44px;height:44px;border-radius:50%;border:1px solid var(--rule);background:var(--card);cursor:pointer;font-size:20px;display:flex;align-items:center;justify-content:center;z-index:100;transition:all .2s}
-.dark-toggle:hover{transform:scale(1.1);border-color:var(--signal)}
-.search-box{margin:16px 0;padding:10px 16px;border:1px solid var(--rule);border-radius:4px;background:var(--paper);font-family:'JetBrains Mono',monospace;font-size:13px;width:100%;color:var(--ink)}
-.search-box:focus{outline:none;border-color:var(--signal)}
-.tag-filter{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}
-.tag-btn{padding:4px 12px;border:1px solid var(--rule);border-radius:3px;font-family:'JetBrains Mono',monospace;font-size:11px;cursor:pointer;background:transparent;color:var(--ink-soft);transition:all .2s}
-.tag-btn:hover,.tag-btn.active{background:var(--signal);color:#fff;border-color:var(--signal)}
+
+</style>
 
 </head>
 <body>
@@ -554,6 +538,18 @@ const searchBox=document.querySelector('.search-box');
 if(searchBox){searchBox.addEventListener('input',e=>{const q=e.target.value.toLowerCase();document.querySelectorAll('.card').forEach(c=>{const t=c.textContent.toLowerCase();c.style.display=t.includes(q)?'':'none'})})}
 // Tag filter
 document.querySelectorAll('.tag-btn').forEach(btn=>{btn.addEventListener('click',()=>{const tag=btn.dataset.tag;btn.classList.toggle('active');document.querySelectorAll('.card').forEach(c=>{if(!tag||c.dataset.category===tag){c.style.display=''}else{c.style.display='none'}})})});
+</script>
+
+
+<div class="reading-progress" id="readingProgress"></div>
+<script>
+document.querySelectorAll('h1').forEach(function(h){if(h.textContent.includes('SIGNAL'))h.classList.add('logo-3d')});
+document.addEventListener('DOMContentLoaded',function(){document.querySelectorAll('.container > *, .card').forEach(function(el,i){el.classList.add('page-enter');setTimeout(function(){el.classList.add('page-visible')},i*80)})});
+window.addEventListener('scroll',function(){var n=document.querySelector('nav');if(n)n.classList.toggle('scrolled',window.scrollY>10)});
+document.querySelectorAll('.card').forEach(function(c){c.classList.add('ripple')});
+window.addEventListener('scroll',function(){var b=document.getElementById('readingProgress');if(!b)return;var h=document.documentElement.scrollHeight-window.innerHeight;b.style.width=(window.scrollY/h*100)+'%'});
+var toggle=document.querySelector('.dark-toggle');
+if(toggle){toggle.addEventListener('click',function(){document.body.classList.toggle('dark');localStorage.setItem('theme',document.body.classList.contains('dark')?'dark':'light')});if(localStorage.getItem('theme')==='dark')document.body.classList.add('dark')}
 </script>
 
 </body>
