@@ -57,6 +57,17 @@ ${JSON.stringify({
   "mainEntityOfPage": SITE_URL + '/articles/' + article.slug + '.html'
 })}
 </script>
+${article.faq ? `<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": ${JSON.stringify(article.faq.map(q => ({
+    "@type": "Question",
+    "name": q.question,
+    "acceptedAnswer": {"@type": "Answer", "text": q.answer}
+  })))}
+}
+</script>` : ''}
 <style>
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600&display=swap');
 :root{--paper:#efe9dc;--ink:#1c2b25;--ink-soft:#5b6a5f;--rule:#c9bfa4;--signal:#b8481e;--card:#f6f2e7;}
@@ -131,6 +142,25 @@ ${related.map(r => `
 <a href="https://www.reddit.com/submit?url=${encodeURIComponent(SITE_URL + '/articles/' + article.slug + '.html')}&title=${encodeURIComponent(article.title)}" target="_blank" rel="noopener" class="share-btn reddit">Reddit</a>
 </div>
 </div>
+${article.faq ? `
+<div style="margin:32px 0;padding:20px;background:var(--card);border:1px solid var(--rule);border-radius:4px;">
+  <h3 style="font-family:'Fraunces',serif;font-size:18px;margin-bottom:16px;">Frequently Asked Questions</h3>
+  ${article.faq.map(q => `
+    <details style="margin-bottom:12px;">
+      <summary style="font-weight:600;cursor:pointer;font-size:15px;">${q.question}</summary>
+      <p style="margin:8px 0 0;color:var(--ink-soft);font-size:14px;">${q.answer}</p>
+    </details>
+  `).join('')}
+</div>` : ''}
+<div class="share-section">
+  <div class="share-label">SHARE THIS</div>
+  <div class="share-buttons">
+    <a class="share-btn" href="https://twitter.com/intent/tweet?text=${encodeURIComponent(article.title)}&url=${encodeURIComponent(SITE_URL + '/articles/' + article.slug + '.html')}" target="_blank">Twitter</a>
+    <a class="share-btn" href="https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(SITE_URL + '/articles/' + article.slug + '.html')}" target="_blank">LinkedIn</a>
+    <a class="share-btn" href="https://news.ycombinator.com/submitlink?u=${encodeURIComponent(SITE_URL + '/articles/' + article.slug + '.html')}&t=${encodeURIComponent(article.title)}" target="_blank">HN</a>
+    <a class="share-btn" href="https://www.reddit.com/submit?url=${encodeURIComponent(SITE_URL + '/articles/' + article.slug + '.html')}&title=${encodeURIComponent(article.title)}" target="_blank">Reddit</a>
+  </div>
+</div>
 <a class="back-link" href="/">← Back to SIGNAL</a>
 </div>
 <button class="dark-toggle" onclick="document.body.classList.toggle('dark');localStorage.setItem('dark',document.body.classList.contains('dark'))" title="Toggle dark mode">🌙</button>
@@ -191,6 +221,17 @@ function homepage(articles) {
   }
 }
 </script>
+${article.faq ? `<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": ${JSON.stringify(article.faq.map(q => ({
+    "@type": "Question",
+    "name": q.question,
+    "acceptedAnswer": {"@type": "Answer", "text": q.answer}
+  })))}
+}
+</script>` : ''}
 <style>
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600&display=swap');
 :root{--paper:#efe9dc;--paper-dim:#e4dcc9;--ink:#1c2b25;--ink-soft:#5b6a5f;--rule:#c9bfa4;--signal:#b8481e;--signal-dim:#d98f6c;--live:#2f6b4f;--card:#f6f2e7}
