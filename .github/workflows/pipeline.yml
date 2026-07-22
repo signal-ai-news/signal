@@ -41,7 +41,7 @@ jobs:
           TG_USER_ID: ${{ secrets.TG_USER_ID }}
           TG_CHANNEL_ID: ${{ secrets.TG_CHANNEL_ID }}
           INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
-        run: node scripts/orchestrator.mjs --limit ${{ github.event.inputs.limit || '3' }}
+        run: node scripts/orchestrator.mjs --limit ${{ github.event.inputs.limit || '5' }}
       - name: Commit and push
         id: commit
         run: |
