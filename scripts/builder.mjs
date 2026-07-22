@@ -433,6 +433,7 @@ a:hover{color:var(--signal)}
 
 </style>
 
+<link rel="stylesheet" href="/animations.css">
 </head>
 <body>
 <div class="ticker-wrap"><div class="ticker-track">${tickerItems} <span>//</span> ${tickerItems} <span>//</span></div></div>
@@ -550,6 +551,16 @@ document.querySelectorAll('.card').forEach(function(c){c.classList.add('ripple')
 window.addEventListener('scroll',function(){var b=document.getElementById('readingProgress');if(!b)return;var h=document.documentElement.scrollHeight-window.innerHeight;b.style.width=(window.scrollY/h*100)+'%'});
 var toggle=document.querySelector('.dark-toggle');
 if(toggle){toggle.addEventListener('click',function(){document.body.classList.toggle('dark');localStorage.setItem('theme',document.body.classList.contains('dark')?'dark':'light')});if(localStorage.getItem('theme')==='dark')document.body.classList.add('dark')}
+</script>
+
+<div class="reading-progress" id="readingProgress"></div>
+<script>
+document.querySelectorAll('h1').forEach(function(h){if(h.textContent.includes('SIGNAL'))h.classList.add('logo-3d')});
+document.addEventListener('DOMContentLoaded',function(){document.querySelectorAll('.container > *, .card').forEach(function(el,i){el.classList.add('page-enter');setTimeout(function(){el.classList.add('page-visible')},i*80)})});
+window.addEventListener('scroll',function(){var n=document.querySelector('nav');if(n)n.classList.toggle('scrolled',window.scrollY>10)});
+document.querySelectorAll('.card').forEach(function(c){c.classList.add('ripple')});
+window.addEventListener('scroll',function(){var b=document.getElementById('readingProgress');if(!b)return;var h=document.documentElement.scrollHeight-window.innerHeight;b.style.width=(window.scrollY/h*100)+'%'});
+var toggle=document.querySelector('.dark-toggle');if(toggle){toggle.addEventListener('click',function(){document.body.classList.toggle('dark');localStorage.setItem('theme',document.body.classList.contains('dark')?'dark':'light')});if(localStorage.getItem('theme')==='dark')document.body.classList.add('dark')}
 </script>
 
 </body>
