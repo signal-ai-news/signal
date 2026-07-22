@@ -102,6 +102,20 @@ footer{text-align:center;padding:40px 24px;font-family:'JetBrains Mono',monospac
 .share-btn:hover{background:var(--ink);color:var(--paper)}
 .dark-toggle{position:fixed;bottom:20px;right:20px;width:40px;height:40px;border-radius:50%;border:1px solid var(--rule);background:var(--card);cursor:pointer;font-size:18px;display:flex;align-items:center;justify-content:center;z-index:100}
 body.dark{--paper:#1a1a2e;--paper-dim:#16213e;--ink:#e0e0e0;--ink-soft:#a0a0b0;--rule:#2a2a4a;--signal:#e07040;--card:#1e1e3a}
+.reading-progress{position:fixed;top:0;left:0;width:0;height:3px;background:var(--signal);z-index:999;transition:width .1s}
+.card{opacity:0;transform:translateY(16px);animation:cardIn .6s ease forwards}
+.card:nth-child(1){animation-delay:.05s}.card:nth-child(2){animation-delay:.1s}.card:nth-child(3){animation-delay:.15s}
+@keyframes cardIn{to{opacity:1;transform:translateY(0)}}
+.card{transition:transform .25s ease,box-shadow .25s ease}
+.card:hover{transform:translateY(-3px);box-shadow:0 6px 18px rgba(0,0,0,.08)}
+.badge-new{display:inline-block;background:var(--signal);color:#fff;font-family:'JetBrains Mono',monospace;font-size:9px;padding:2px 6px;border-radius:2px;letter-spacing:.06em;vertical-align:middle;margin-left:6px}
+.dark-toggle{position:fixed;bottom:20px;right:20px;width:44px;height:44px;border-radius:50%;border:1px solid var(--rule);background:var(--card);cursor:pointer;font-size:20px;display:flex;align-items:center;justify-content:center;z-index:100;transition:all .2s}
+.dark-toggle:hover{transform:scale(1.1);border-color:var(--signal)}
+.search-box{margin:16px 0;padding:10px 16px;border:1px solid var(--rule);border-radius:4px;background:var(--paper);font-family:'JetBrains Mono',monospace;font-size:13px;width:100%;color:var(--ink)}
+.search-box:focus{outline:none;border-color:var(--signal)}
+.tag-filter{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}
+.tag-btn{padding:4px 12px;border:1px solid var(--rule);border-radius:3px;font-family:'JetBrains Mono',monospace;font-size:11px;cursor:pointer;background:transparent;color:var(--ink-soft);transition:all .2s}
+.tag-btn:hover,.tag-btn.active{background:var(--signal);color:#fff;border-color:var(--signal)}
 </style>
 </head>
 <body>
@@ -166,6 +180,12 @@ ${article.faq ? `
 <button class="dark-toggle" onclick="document.body.classList.toggle('dark');localStorage.setItem('dark',document.body.classList.contains('dark'))" title="Toggle dark mode">🌙</button>
 <script>if(localStorage.getItem('dark')==='true')document.body.classList.add('dark')</script>
 <footer>SIGNAL — AI tools, tracked daily. Hunted, verified, written.</footer>
+<div class="reading-progress" id="readingProgress"></div>
+<script>
+window.addEventListener('scroll',()=>{const e=document.getElementById('readingProgress');if(!e)return;const h=document.documentElement.scrollHeight-window.innerHeight;e.style.width=(window.scrollY/h*100)+'%'});
+const toggle=document.querySelector('.dark-toggle');if(toggle){toggle.addEventListener('click',()=>{document.body.classList.toggle('dark');localStorage.setItem('theme',document.body.classList.contains('dark')?'dark':'light')});if(localStorage.getItem('theme')==='dark')document.body.classList.add('dark')}
+const obs=new IntersectionObserver(e=>{e.forEach(x=>{if(x.isIntersecting){x.target.style.animationPlayState='running';obs.unobserve(x.target)}})},{threshold:.1});document.querySelectorAll('.card').forEach(c=>{c.style.animationPlayState='paused';obs.observe(c)});
+</script>
 </body>
 </html>`;
 }
@@ -275,6 +295,20 @@ footer{text-align:center;padding:26px;font-family:'JetBrains Mono',monospace;fon
 @media(max-width:760px){main{grid-template-columns:1fr}h1.hero{font-size:32px}}
 .dark-toggle{position:fixed;bottom:20px;right:20px;width:40px;height:40px;border-radius:50%;border:1px solid var(--rule);background:var(--card);cursor:pointer;font-size:18px;display:flex;align-items:center;justify-content:center;z-index:100}
 body.dark{--paper:#1a1a2e;--paper-dim:#16213e;--ink:#e0e0e0;--ink-soft:#a0a0b0;--rule:#2a2a4a;--signal:#e07040;--card:#1e1e3a}
+.reading-progress{position:fixed;top:0;left:0;width:0;height:3px;background:var(--signal);z-index:999;transition:width .1s}
+.card{opacity:0;transform:translateY(16px);animation:cardIn .6s ease forwards}
+.card:nth-child(1){animation-delay:.05s}.card:nth-child(2){animation-delay:.1s}.card:nth-child(3){animation-delay:.15s}
+@keyframes cardIn{to{opacity:1;transform:translateY(0)}}
+.card{transition:transform .25s ease,box-shadow .25s ease}
+.card:hover{transform:translateY(-3px);box-shadow:0 6px 18px rgba(0,0,0,.08)}
+.badge-new{display:inline-block;background:var(--signal);color:#fff;font-family:'JetBrains Mono',monospace;font-size:9px;padding:2px 6px;border-radius:2px;letter-spacing:.06em;vertical-align:middle;margin-left:6px}
+.dark-toggle{position:fixed;bottom:20px;right:20px;width:44px;height:44px;border-radius:50%;border:1px solid var(--rule);background:var(--card);cursor:pointer;font-size:20px;display:flex;align-items:center;justify-content:center;z-index:100;transition:all .2s}
+.dark-toggle:hover{transform:scale(1.1);border-color:var(--signal)}
+.search-box{margin:16px 0;padding:10px 16px;border:1px solid var(--rule);border-radius:4px;background:var(--paper);font-family:'JetBrains Mono',monospace;font-size:13px;width:100%;color:var(--ink)}
+.search-box:focus{outline:none;border-color:var(--signal)}
+.tag-filter{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}
+.tag-btn{padding:4px 12px;border:1px solid var(--rule);border-radius:3px;font-family:'JetBrains Mono',monospace;font-size:11px;cursor:pointer;background:transparent;color:var(--ink-soft);transition:all .2s}
+.tag-btn:hover,.tag-btn.active{background:var(--signal);color:#fff;border-color:var(--signal)}
 </style>
 </head>
 <body>
@@ -347,6 +381,12 @@ ${[...new Set(published.map(a => a.category))].map(cat => {
 <button class="dark-toggle" onclick="document.body.classList.toggle('dark');localStorage.setItem('dark',document.body.classList.contains('dark'))" title="Toggle dark mode">🌙</button>
 <script>if(localStorage.getItem('dark')==='true')document.body.classList.add('dark')</script>
 <footer>SIGNAL — a self-hunting AI tools archive. Built and reviewed before publish.<br><a href="/privacy.html" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Privacy</a> · <a href="/terms.html" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Terms</a> · <a href="/about.html" style="color:var(--ink-soft);margin:0 8px;font-size:11px">About</a></footer>
+<div class="reading-progress" id="readingProgress"></div>
+<script>
+window.addEventListener('scroll',()=>{const e=document.getElementById('readingProgress');if(!e)return;const h=document.documentElement.scrollHeight-window.innerHeight;e.style.width=(window.scrollY/h*100)+'%'});
+const toggle=document.querySelector('.dark-toggle');if(toggle){toggle.addEventListener('click',()=>{document.body.classList.toggle('dark');localStorage.setItem('theme',document.body.classList.contains('dark')?'dark':'light')});if(localStorage.getItem('theme')==='dark')document.body.classList.add('dark')}
+const obs=new IntersectionObserver(e=>{e.forEach(x=>{if(x.isIntersecting){x.target.style.animationPlayState='running';obs.unobserve(x.target)}})},{threshold:.1});document.querySelectorAll('.card').forEach(c=>{c.style.animationPlayState='paused';obs.observe(c)});
+</script>
 </body>
 </html>`;
 }
@@ -382,6 +422,20 @@ p{margin-bottom:16px;color:var(--ink-soft);font-size:16px}
 footer{text-align:center;padding:26px;font-family:'JetBrains Mono',monospace;font-size:10.5px;color:var(--ink-soft);border-top:1px solid var(--rule)}
 .dark-toggle{position:fixed;bottom:20px;right:20px;width:40px;height:40px;border-radius:50%;border:1px solid var(--rule);background:var(--card);cursor:pointer;font-size:18px;display:flex;align-items:center;justify-content:center;z-index:100}
 body.dark{--paper:#1a1a2e;--paper-dim:#16213e;--ink:#e0e0e0;--ink-soft:#a0a0b0;--rule:#2a2a4a;--signal:#e07040;--card:#1e1e3a}
+.reading-progress{position:fixed;top:0;left:0;width:0;height:3px;background:var(--signal);z-index:999;transition:width .1s}
+.card{opacity:0;transform:translateY(16px);animation:cardIn .6s ease forwards}
+.card:nth-child(1){animation-delay:.05s}.card:nth-child(2){animation-delay:.1s}.card:nth-child(3){animation-delay:.15s}
+@keyframes cardIn{to{opacity:1;transform:translateY(0)}}
+.card{transition:transform .25s ease,box-shadow .25s ease}
+.card:hover{transform:translateY(-3px);box-shadow:0 6px 18px rgba(0,0,0,.08)}
+.badge-new{display:inline-block;background:var(--signal);color:#fff;font-family:'JetBrains Mono',monospace;font-size:9px;padding:2px 6px;border-radius:2px;letter-spacing:.06em;vertical-align:middle;margin-left:6px}
+.dark-toggle{position:fixed;bottom:20px;right:20px;width:44px;height:44px;border-radius:50%;border:1px solid var(--rule);background:var(--card);cursor:pointer;font-size:20px;display:flex;align-items:center;justify-content:center;z-index:100;transition:all .2s}
+.dark-toggle:hover{transform:scale(1.1);border-color:var(--signal)}
+.search-box{margin:16px 0;padding:10px 16px;border:1px solid var(--rule);border-radius:4px;background:var(--paper);font-family:'JetBrains Mono',monospace;font-size:13px;width:100%;color:var(--ink)}
+.search-box:focus{outline:none;border-color:var(--signal)}
+.tag-filter{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}
+.tag-btn{padding:4px 12px;border:1px solid var(--rule);border-radius:3px;font-family:'JetBrains Mono',monospace;font-size:11px;cursor:pointer;background:transparent;color:var(--ink-soft);transition:all .2s}
+.tag-btn:hover,.tag-btn.active{background:var(--signal);color:#fff;border-color:var(--signal)}
 </style>
 </head>
 <body>
@@ -415,6 +469,12 @@ body.dark{--paper:#1a1a2e;--paper-dim:#16213e;--ink:#e0e0e0;--ink-soft:#a0a0b0;-
 <button class="dark-toggle" onclick="document.body.classList.toggle('dark');localStorage.setItem('dark',document.body.classList.contains('dark'))" title="Toggle dark mode">🌙</button>
 <script>if(localStorage.getItem('dark')==='true')document.body.classList.add('dark')</script>
 <footer>SIGNAL — a self-hunting AI tools archive. Built and reviewed before publish.<br><a href="/privacy.html" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Privacy</a> · <a href="/terms.html" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Terms</a></footer>
+<div class="reading-progress" id="readingProgress"></div>
+<script>
+window.addEventListener('scroll',()=>{const e=document.getElementById('readingProgress');if(!e)return;const h=document.documentElement.scrollHeight-window.innerHeight;e.style.width=(window.scrollY/h*100)+'%'});
+const toggle=document.querySelector('.dark-toggle');if(toggle){toggle.addEventListener('click',()=>{document.body.classList.toggle('dark');localStorage.setItem('theme',document.body.classList.contains('dark')?'dark':'light')});if(localStorage.getItem('theme')==='dark')document.body.classList.add('dark')}
+const obs=new IntersectionObserver(e=>{e.forEach(x=>{if(x.isIntersecting){x.target.style.animationPlayState='running';obs.unobserve(x.target)}})},{threshold:.1});document.querySelectorAll('.card').forEach(c=>{c.style.animationPlayState='paused';obs.observe(c)});
+</script>
 </body>
 </html>`;
 }
@@ -483,6 +543,12 @@ body.dark{--paper:#1a1a2e;--ink:#e0e0e0;--ink-soft:#a0a0b0;--rule:#2a2a4a;--sign
 <button class="dark-toggle" onclick="document.body.classList.toggle('dark');localStorage.setItem('dark',document.body.classList.contains('dark'))">🌙</button>
 <script>if(localStorage.getItem('dark')==='true')document.body.classList.add('dark')</script>
 <footer>SIGNAL — AI Tools Intelligence<br><a href="/privacy.html" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Privacy</a> · <a href="/terms.html" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Terms</a> · <a href="https://x.com/_signalainews" target="_blank" style="color:var(--ink-soft);margin:0 8px;font-size:11px">𝕏</a> · <a href="https://t.me/signal_ai_news" target="_blank" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Telegram</a></footer>
+<div class="reading-progress" id="readingProgress"></div>
+<script>
+window.addEventListener('scroll',()=>{const e=document.getElementById('readingProgress');if(!e)return;const h=document.documentElement.scrollHeight-window.innerHeight;e.style.width=(window.scrollY/h*100)+'%'});
+const toggle=document.querySelector('.dark-toggle');if(toggle){toggle.addEventListener('click',()=>{document.body.classList.toggle('dark');localStorage.setItem('theme',document.body.classList.contains('dark')?'dark':'light')});if(localStorage.getItem('theme')==='dark')document.body.classList.add('dark')}
+const obs=new IntersectionObserver(e=>{e.forEach(x=>{if(x.isIntersecting){x.target.style.animationPlayState='running';obs.unobserve(x.target)}})},{threshold:.1});document.querySelectorAll('.card').forEach(c=>{c.style.animationPlayState='paused';obs.observe(c)});
+</script>
 </body>
 </html>`;
 }
@@ -548,6 +614,12 @@ body.dark{--paper:#1a1a2e;--ink:#e0e0e0;--ink-soft:#a0a0b0;--rule:#2a2a4a;--sign
 <button class="dark-toggle" onclick="document.body.classList.toggle('dark');localStorage.setItem('dark',document.body.classList.contains('dark'))">🌙</button>
 <script>if(localStorage.getItem('dark')==='true')document.body.classList.add('dark')</script>
 <footer>SIGNAL — AI Tools Intelligence<br><a href="/privacy.html" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Privacy</a> · <a href="/terms.html" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Terms</a> · <a href="https://x.com/_signalainews" target="_blank" style="color:var(--ink-soft);margin:0 8px;font-size:11px">𝕏</a> · <a href="https://t.me/signal_ai_news" target="_blank" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Telegram</a></footer>
+<div class="reading-progress" id="readingProgress"></div>
+<script>
+window.addEventListener('scroll',()=>{const e=document.getElementById('readingProgress');if(!e)return;const h=document.documentElement.scrollHeight-window.innerHeight;e.style.width=(window.scrollY/h*100)+'%'});
+const toggle=document.querySelector('.dark-toggle');if(toggle){toggle.addEventListener('click',()=>{document.body.classList.toggle('dark');localStorage.setItem('theme',document.body.classList.contains('dark')?'dark':'light')});if(localStorage.getItem('theme')==='dark')document.body.classList.add('dark')}
+const obs=new IntersectionObserver(e=>{e.forEach(x=>{if(x.isIntersecting){x.target.style.animationPlayState='running';obs.unobserve(x.target)}})},{threshold:.1});document.querySelectorAll('.card').forEach(c=>{c.style.animationPlayState='paused';obs.observe(c)});
+</script>
 </body>
 </html>`;
 }
@@ -620,6 +692,12 @@ ${catArticles.map((a, i) => `
 <button class="dark-toggle" onclick="document.body.classList.toggle('dark');localStorage.setItem('dark',document.body.classList.contains('dark'))">🌙</button>
 <script>if(localStorage.getItem('dark')==='true')document.body.classList.add('dark')</script>
 <footer>SIGNAL — AI Tools Intelligence<br><a href="/privacy.html" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Privacy</a> · <a href="/terms.html" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Terms</a> · <a href="https://x.com/_signalainews" target="_blank" style="color:var(--ink-soft);margin:0 8px;font-size:11px">𝕏</a> · <a href="https://t.me/signal_ai_news" target="_blank" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Telegram</a></footer>
+<div class="reading-progress" id="readingProgress"></div>
+<script>
+window.addEventListener('scroll',()=>{const e=document.getElementById('readingProgress');if(!e)return;const h=document.documentElement.scrollHeight-window.innerHeight;e.style.width=(window.scrollY/h*100)+'%'});
+const toggle=document.querySelector('.dark-toggle');if(toggle){toggle.addEventListener('click',()=>{document.body.classList.toggle('dark');localStorage.setItem('theme',document.body.classList.contains('dark')?'dark':'light')});if(localStorage.getItem('theme')==='dark')document.body.classList.add('dark')}
+const obs=new IntersectionObserver(e=>{e.forEach(x=>{if(x.isIntersecting){x.target.style.animationPlayState='running';obs.unobserve(x.target)}})},{threshold:.1});document.querySelectorAll('.card').forEach(c=>{c.style.animationPlayState='paused';obs.observe(c)});
+</script>
 </body>
 </html>`;
 }
@@ -702,6 +780,12 @@ body.dark{--paper:#1a1a2e;--ink:#e0e0e0;--ink-soft:#a0a0b0;--rule:#2a2a4a;--sign
 <button class="dark-toggle" onclick="document.body.classList.toggle('dark');localStorage.setItem('dark',document.body.classList.contains('dark'))">🌙</button>
 <script>if(localStorage.getItem('dark')==='true')document.body.classList.add('dark')</script>
 <footer>SIGNAL — AI Tools Intelligence<br><a href="/privacy.html" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Privacy</a> · <a href="/terms.html" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Terms</a> · <a href="https://x.com/_signalainews" target="_blank" style="color:var(--ink-soft);margin:0 8px;font-size:11px">𝕏</a> · <a href="https://t.me/signal_ai_news" target="_blank" style="color:var(--ink-soft);margin:0 8px;font-size:11px">Telegram</a></footer>
+<div class="reading-progress" id="readingProgress"></div>
+<script>
+window.addEventListener('scroll',()=>{const e=document.getElementById('readingProgress');if(!e)return;const h=document.documentElement.scrollHeight-window.innerHeight;e.style.width=(window.scrollY/h*100)+'%'});
+const toggle=document.querySelector('.dark-toggle');if(toggle){toggle.addEventListener('click',()=>{document.body.classList.toggle('dark');localStorage.setItem('theme',document.body.classList.contains('dark')?'dark':'light')});if(localStorage.getItem('theme')==='dark')document.body.classList.add('dark')}
+const obs=new IntersectionObserver(e=>{e.forEach(x=>{if(x.isIntersecting){x.target.style.animationPlayState='running';obs.unobserve(x.target)}})},{threshold:.1});document.querySelectorAll('.card').forEach(c=>{c.style.animationPlayState='paused';obs.observe(c)});
+</script>
 </body>
 </html>`;
 }
