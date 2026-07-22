@@ -450,5 +450,88 @@
     "qualityIssues": [
       "Word count 380 < minimum 400"
     ]
+  },
+  {
+    "title": "3 AI Breakthroughs",
+    "slug": "nasa-openai-ai-breakthroughs",
+    "dek": "NASA and OpenAI just made huge strides in AI - here's what you need to know",
+    "metaTitle": "AI Breakthroughs",
+    "metaDesc": "Learn about NASA and OpenAI's latest AI advancements and how they impact you",
+    "tags": [
+      "AI",
+      "NASA",
+      "OpenAI",
+      "Space",
+      "Technology"
+    ],
+    "category": "news",
+    "body": "\n      <h2>Introduction to AI Breakthroughs</h2>\n      <p>NASA and OpenAI have made significant strides in AI technology, with NASA's new space telescope and OpenAI's autonomous hacker leading the charge. These advancements have the potential to greatly impact various fields, from space exploration to cybersecurity.</p>\n      <h3>NASA's New Space Telescope</h3>\n      <p>NASA's Nancy Grace Roman Space Telescope is set to launch soon, featuring shape-shifting mirrors that could unveil new information about Jupiters like our own. This telescope is a breakthrough in space exploration, allowing us to study the universe in greater detail than ever before. For example, it could help us learn more about the formation of planets and the potential for life beyond Earth.</p>\n      <h3>OpenAI's Autonomous Hacker</h3>\n      <p>OpenAI's autonomous hacker is an AI system that can hack into computer systems to test their security. This technology has the potential to greatly improve cybersecurity, allowing companies to identify and fix vulnerabilities before they can be exploited by malicious hackers. It's like having a super-powerful, ultimate security audit tool at your disposal.</p>\n      <h2>What it means for you</h2>\n      <p>These AI breakthroughs have significant implications for individuals and businesses alike. For instance, the advancements in space exploration could lead to new discoveries and a greater understanding of the universe. The improvements in cybersecurity could help protect against hacking and data breaches, which is essential in today's digital age. Here are some practical takeaways you can use today:</p>\n      <ul>\n         <li>Stay informed about the latest developments in AI and space exploration to stay ahead of the curve.</li>\n         <li>Consider investing in cybersecurity measures to protect yourself and your business from hacking and data breaches.</li>\n         <li>Support organizations like NASA and OpenAI that are pushing the boundaries of what's possible with AI and space technology.</li>\n      </ul>\n      <h3>The bigger picture</h3>\n      <p>These AI breakthroughs are part of a larger trend of rapid advancement in technology. As AI continues to improve, we can expect to see even more innovative applications in fields like healthcare, finance, and education. It's proven that AI can be a powerful tool for driving progress and solving complex problems. For example, AI-powered systems can help analyze vast amounts of data, identify patterns, and make predictions with greater accuracy than humans.</p>\n      <blockquote>The future of AI is exciting and full of possibilities - and it's essential to stay informed and adapt to the changing landscape.</blockquote>\n   ",
+    "imagePrompt": "An illustration of a futuristic space telescope with shape-shifting mirrors, alongside a robotic hacker in the background, with a cityscape at dusk",
+    "sourceUrl": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+    "sourceName": "MIT Tech Review AI",
+    "signalCategory": "news",
+    "generated": "2026-07-22T12:54:50.695Z",
+    "status": "draft",
+    "wordCount": 378,
+    "image": "/images/nasa-openai-ai-breakthroughs.jpg",
+    "qualityIssues": [
+      "Word count 378 < minimum 400",
+      "Duplicate title found: \"3 AI Breakthroughs\""
+    ]
+  },
+  {
+    "title": "3 Essential Jailbox Secrets",
+    "slug": "jailbox-ai-sandbox-ultimate-guide",
+    "dek": "Discover the ultimate network-restricted Linux VMs for AI agents and untrusted code",
+    "metaTitle": "Jailbox AI Sandbox",
+    "metaDesc": "Learn how to use Jailbox for secure AI development, get started today",
+    "tags": [
+      "Jailbox",
+      "AI Sandbox",
+      "Linux VMs",
+      "Network Security",
+      "AI Development"
+    ],
+    "category": "community",
+    "body": "\n      <h2>Introduction to Jailbox</h2>\n      <p>Jailbox is a breakthrough in network-restricted, hardened Linux VMs for AI agents and untrusted code. It's an essential tool for anyone working with AI, providing a secure environment for development and testing. With Jailbox, you can isolate your AI agents and untrusted code, preventing them from accessing sensitive data or causing harm to your system.</p>\n      <h3>How Jailbox Works</h3>\n      <p>Jailbox uses a combination of Linux kernel features and network protocols to create a secure sandbox environment. It's similar to other sandboxing tools, but with a focus on AI-specific use cases. By using Jailbox, you can ensure that your AI agents and untrusted code are restricted to a specific network segment, preventing them from interacting with sensitive data or systems.</p>\n      <h2>Key Benefits of Jailbox</h2>\n      <p>The key benefits of using Jailbox include:</p>\n      <ul>\n         <li>Improved security: Jailbox provides a secure environment for AI development and testing, reducing the risk of data breaches or system compromise.</li>\n         <li>Increased flexibility: Jailbox allows you to create custom network environments for your AI agents and untrusted code, giving you more control over your development process.</li>\n         <li>Enhanced collaboration: Jailbox enables secure collaboration between developers and researchers, allowing them to share and test AI models without compromising security.</li>\n      </ul>\n      <h3>What it means for you</h3>\n      <p>If you're working with AI, Jailbox is a proven solution for secure development and testing. With Jailbox, you can focus on building and training your AI models, without worrying about the security risks. You'll be able to:</p>\n      <ul>\n         <li>Develop and test AI models in a secure environment</li>\n         <li>Collaborate with others without compromising security</li>\n         <li>Ensure compliance with regulatory requirements</li>\n      </ul>\n      <blockquote>Jailbox is the ultimate solution for secure AI development and testing. It's a must-have tool for anyone working with AI.</blockquote>\n      <h2>The bigger picture</h2>\n      <p>Jailbox is part of a larger trend towards secure AI development and testing. As AI becomes more pervasive, the need for secure environments will only increase. Jailbox is leading the way, providing a breakthrough solution for network-restricted, hardened Linux VMs. With Jailbox, you'll be at the forefront of secure AI development, able to build and deploy AI models with confidence.</p>\n      <p>In comparison to other sandboxing tools, Jailbox offers a unique combination of security, flexibility, and collaboration features. It's an essential tool for anyone working with AI, and it's available today. Don't miss out on the opportunity to secure your AI development and testing with Jailbox.</p>\n   ",
+    "imagePrompt": "An illustration of a secure, locked box with a Linux VM inside, surrounded by AI agents and untrusted code, with a cityscape or network diagram in the background, conveying a sense of security, innovation, and connection.",
+    "sourceUrl": "https://karamatli.com/posts/network-isolated-kvm-sandbox-ai-agents/",
+    "sourceName": "Hacker News (AI)",
+    "signalCategory": "community",
+    "generated": "2026-07-22T12:55:32.540Z",
+    "status": "draft",
+    "wordCount": 389,
+    "image": "/images/jailbox-ai-sandbox-ultimate-guide.jpg",
+    "qualityIssues": [
+      "Word count 389 < minimum 400"
+    ]
+  },
+  {
+    "title": "3 AI Breakthroughs",
+    "slug": "open-weights-ai-models-are-here",
+    "dek": "Don't miss the ultimate shift in AI: open-weights models have become good enough to rival closed systems",
+    "metaTitle": "Open-Weights AI Models",
+    "metaDesc": "Discover how open-weights AI models can help you today, get the inside scoop",
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Open-Weights Models",
+      "Tech Breakthroughs",
+      "Innovation"
+    ],
+    "category": "community",
+    "body": "\n      <h2>The Rise of Open-Weights AI Models</h2>\n      <p>For years, closed AI systems have dominated the industry, with their proprietary models and restrictive access. However, a significant shift is underway: open-weights AI models have become good enough to challenge their closed counterparts. This breakthrough has far-reaching implications for developers, researchers, and businesses alike.</p>\n      <h3>What are Open-Weights AI Models?</h3>\n      <p>Open-weights AI models are machine learning models that make their weights and architecture openly available. This transparency enables developers to modify, improve, and build upon existing models, fostering a culture of collaboration and innovation. In contrast, closed systems keep their models hidden, making it difficult for others to learn from or contribute to their development.</p>\n      <h2>Key Benefits of Open-Weights AI Models</h2>\n      <p>The benefits of open-weights AI models are numerous. They include:</p>\n      <ul>\n         <li>Faster progress: By sharing knowledge and expertise, the community can drive innovation at a rapid pace.</li>\n         <li>Improved trust: Transparent models allow developers to understand how they work, building trust in their decision-making processes.</li>\n         <li>Cost-effective: Open-weights models reduce the need for duplicate effort, as developers can build upon existing work.</li>\n      </ul>\n      <h3>What it means for you</h3>\n      <p>If you're a developer or business owner, open-weights AI models can help you today. You can leverage these models to build custom applications, improve existing products, or even create new services. For example, you can use open-weights language models to develop chatbots, sentiment analysis tools, or content generators. The possibilities are vast, and the community is eager to share its knowledge and expertise.</p>\n      <blockquote>Open-weights AI models are not just a novelty; they're an essential tool for driving progress in the industry. By embracing transparency and collaboration, we can unlock new breakthroughs and create more sophisticated AI systems.</blockquote>\n      <h2>The Bigger Picture</h2>\n      <p>The rise of open-weights AI models is part of a larger trend towards transparency and collaboration in the tech industry. As AI becomes increasingly ubiquitous, it's essential to prioritize openness and accountability. By doing so, we can ensure that AI systems are developed and used responsibly, for the benefit of society as a whole.</p>\n      <h3>Practical Takeaways</h3>\n      <p>To get started with open-weights AI models, you can explore popular repositories like GitHub or Hugging Face. These platforms offer a wide range of pre-trained models, tutorials, and community resources to help you learn and build. You can also participate in online forums, attend conferences, or join local meetups to connect with other developers and researchers in the field.</p>\n   ",
+    "imagePrompt": "An illustration of a person standing in front of a large, open door, with a cityscape of interconnected gears and circuits in the background. The door should be labeled 'Open-Weights AI Models' and have a bright, shining light emanating from it. The person should be looking curious and excited, with a few AI-related symbols or equations floating around them.",
+    "sourceUrl": "https://blog.senko.net/open-weights-ai-models-have-become-good-enough",
+    "sourceName": "Hacker News (AI)",
+    "signalCategory": "community",
+    "generated": "2026-07-22T12:56:18.468Z",
+    "status": "draft",
+    "wordCount": 396,
+    "image": "/images/open-weights-ai-models-are-here.jpg",
+    "qualityIssues": [
+      "Word count 396 < minimum 400",
+      "Duplicate title found: \"3 AI Breakthroughs\""
+    ]
   }
 ]

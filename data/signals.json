@@ -1386,5 +1386,218 @@
     "published": "Wed, 22 Jul 2026 10:00:00 +0000",
     "processed": true,
     "processedAt": "2026-07-22T10:35:52.493Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+    "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as ear",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-07-22T12:54:12.421Z",
+    "published": "Wed, 22 Jul 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T12:56:29.758Z"
+  },
+  {
+    "url": "https://karamatli.com/posts/network-isolated-kvm-sandbox-ai-agents/",
+    "title": "Jailbox: Network-Restricted, Hardened Linux VMs for AI Agents and Untrusted Code",
+    "description": "Article URL: https://karamatli.com/posts/network-isolated-kvm-sandbox-ai-agents/\nComments URL: https://news.ycombinator.com/item?id=49006016\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T12:54:23.949Z",
+    "published": "Wed, 22 Jul 2026 12:53:57 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T12:56:29.758Z"
+  },
+  {
+    "url": "https://blog.senko.net/open-weights-ai-models-have-become-good-enough",
+    "title": "Open-weights AI models have become good enough",
+    "description": "Article URL: https://blog.senko.net/open-weights-ai-models-have-become-good-enough\nComments URL: https://news.ycombinator.com/item?id=49006013\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T12:54:23.949Z",
+    "published": "Wed, 22 Jul 2026 12:53:44 +0000",
+    "processed": true,
+    "processedAt": "2026-07-22T12:56:29.758Z"
+  },
+  {
+    "url": "https://github.com/d87skg/OpenBase",
+    "title": "OpenBase – A flight recorder for AI agents (verifiable execution evidence)",
+    "description": "Article URL: https://github.com/d87skg/OpenBase\nComments URL: https://news.ycombinator.com/item?id=49006002\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T12:54:23.949Z",
+    "published": "Wed, 22 Jul 2026 12:52:42 +0000"
+  },
+  {
+    "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+    "title": "Businesses with ugly AI menu redesigns",
+    "description": "Article URL: https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/\nComments URL: https://news.ycombinator.com/item?id=49005973\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T12:54:23.949Z",
+    "published": "Wed, 22 Jul 2026 12:49:45 +0000"
+  },
+  {
+    "url": "https://www.zakihsn.com/writing/ai/can-i-trust-the-numbers",
+    "title": "Making LLM extraction trustworthy enough to act on",
+    "description": "Article URL: https://www.zakihsn.com/writing/ai/can-i-trust-the-numbers\nComments URL: https://news.ycombinator.com/item?id=49005971\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T12:54:23.949Z",
+    "published": "Wed, 22 Jul 2026 12:49:37 +0000"
+  },
+  {
+    "url": "https://www.whitehouse.gov/releases/2026/07/45502/",
+    "title": "Trump administration Announces $5B for the Genesis Mission (AI for Science)",
+    "description": "Article URL: https://www.whitehouse.gov/releases/2026/07/45502/\nComments URL: https://news.ycombinator.com/item?id=49005937\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T12:54:23.949Z",
+    "published": "Wed, 22 Jul 2026 12:47:10 +0000"
+  },
+  {
+    "url": "https://github.com/Relo-video/SynthCut",
+    "title": "Show HN: SynthCut – An open-source, local-first AI video editor",
+    "description": "Article URL: https://github.com/Relo-video/SynthCut\nComments URL: https://news.ycombinator.com/item?id=49005915\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T12:54:23.949Z",
+    "published": "Wed, 22 Jul 2026 12:45:05 +0000"
+  },
+  {
+    "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-considers-replacing-chatgpt-claude-100000468.html",
+    "title": "Microsoft Considers Replacing ChatGPT and Claude with Kimi K3",
+    "description": "Article URL: https://finance.yahoo.com/technology/ai/articles/microsoft-considers-replacing-chatgpt-claude-100000468.html\nComments URL: https://news.ycombinator.com/item?id=49005855\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T12:54:23.949Z",
+    "published": "Wed, 22 Jul 2026 12:41:15 +0000"
+  },
+  {
+    "url": "https://github.com/d87skg/traccia",
+    "title": "Traccia – a crash dump for AI agents",
+    "description": "Article URL: https://github.com/d87skg/traccia\nComments URL: https://news.ycombinator.com/item?id=49005780\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T12:54:23.949Z",
+    "published": "Wed, 22 Jul 2026 12:35:42 +0000"
+  },
+  {
+    "url": "https://probably.co.uk/posts/claude-pro-kagi-assistant-charm-hyper/",
+    "title": "Claude Pro, Kagi Assistant and Charm Hyper",
+    "description": "Article URL: https://probably.co.uk/posts/claude-pro-kagi-assistant-charm-hyper/\nComments URL: https://news.ycombinator.com/item?id=49005776\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T12:54:23.949Z",
+    "published": "Wed, 22 Jul 2026 12:35:05 +0000"
+  },
+  {
+    "url": "https://robinshields.github.io/HumanBenchmark/",
+    "title": "Show HN: Human Benchmark – Compare your reasoning skills against AI models",
+    "description": "Article URL: https://robinshields.github.io/HumanBenchmark/\nComments URL: https://news.ycombinator.com/item?id=49005727\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T12:54:23.949Z",
+    "published": "Wed, 22 Jul 2026 12:31:21 +0000"
+  },
+  {
+    "url": "https://lilting.ch/en/articles/voice-chat-server-stt-llm-tts-4gb",
+    "title": "Stt+LLM+TTS voice chat server on RTX 3050 Ti 4GB: 11.9s voice-to-voice",
+    "description": "Article URL: https://lilting.ch/en/articles/voice-chat-server-stt-llm-tts-4gb\nComments URL: https://news.ycombinator.com/item?id=49005707\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T12:54:23.949Z",
+    "published": "Wed, 22 Jul 2026 12:29:42 +0000"
+  },
+  {
+    "url": "https://hugston.com/HugstonOne_Enterprise_Whitepaper_2026.pdf",
+    "title": "New release of HugstonOne AI workstation, Whitepaper and benchs included [pdf]",
+    "description": "Article URL: https://hugston.com/HugstonOne_Enterprise_Whitepaper_2026.pdf\nComments URL: https://news.ycombinator.com/item?id=49005685\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T12:54:23.949Z",
+    "published": "Wed, 22 Jul 2026 12:27:45 +0000"
+  },
+  {
+    "url": "https://github.com/Vortx-AI/emem",
+    "title": "Show HN: Emem – External memory of the physical world for AI agents",
+    "description": "Article URL: https://github.com/Vortx-AI/emem\nComments URL: https://news.ycombinator.com/item?id=49005615\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T12:54:23.949Z",
+    "published": "Wed, 22 Jul 2026 12:22:43 +0000"
+  },
+  {
+    "url": "https://mastodon.social/@Edent/116963246879491202",
+    "title": "What metadata would you use to indicate LLM generated text?",
+    "description": "Article URL: https://mastodon.social/@Edent/116963246879491202\nComments URL: https://news.ycombinator.com/item?id=49005533\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T12:54:23.949Z",
+    "published": "Wed, 22 Jul 2026 12:15:44 +0000"
+  },
+  {
+    "url": "https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games",
+    "title": "Roblox will let people use AI to make games on their phone",
+    "description": "Article URL: https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games\nComments URL: https://news.ycombinator.com/item?id=49005525\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T12:54:23.949Z",
+    "published": "Wed, 22 Jul 2026 12:15:24 +0000"
+  },
+  {
+    "url": "https://github.com/BrunkenClaas/lx",
+    "title": "Show HN: LX Coreutils – 72 Unix tools that pipe together, each backed by an LLM",
+    "description": "Article URL: https://github.com/BrunkenClaas/lx\nComments URL: https://news.ycombinator.com/item?id=49005511\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T12:54:23.949Z",
+    "published": "Wed, 22 Jul 2026 12:14:09 +0000"
+  },
+  {
+    "url": "https://ronaknathani.com/blog/2026/07/spend-the-ai-dividend-on-quality/",
+    "title": "Spend the AI Dividend on Quality",
+    "description": "Article URL: https://ronaknathani.com/blog/2026/07/spend-the-ai-dividend-on-quality/\nComments URL: https://news.ycombinator.com/item?id=49005505\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T12:54:23.949Z",
+    "published": "Wed, 22 Jul 2026 12:13:23 +0000"
+  },
+  {
+    "url": "https://grith.ai/blog/openai-model-breached-hugging-face-eval-breakout",
+    "title": "An AI Model Escaped Its Eval and Breached Hugging Face. Every Step Was a Syscall",
+    "description": "Article URL: https://grith.ai/blog/openai-model-breached-hugging-face-eval-breakout\nComments URL: https://news.ycombinator.com/item?id=49005491\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T12:54:23.949Z",
+    "published": "Wed, 22 Jul 2026 12:12:09 +0000"
+  },
+  {
+    "url": "https://github.com/menot-you/n-memory",
+    "title": "NMEMORY – A memory for AI agents that refuses to answer without evidence",
+    "description": "Article URL: https://github.com/menot-you/n-memory\nComments URL: https://news.ycombinator.com/item?id=49005476\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-22T12:54:23.949Z",
+    "published": "Wed, 22 Jul 2026 12:10:38 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/from-green-checkmark-to-real-judgment-auditing-ai-agent-skills-with-skillspector/",
+    "title": "Detecting Vulnerabilities in Agent Skills with SkillSpector: From Green Checkmark to Real Security Judgment",
+    "description": "Static analysis nailed the malicious skill and over-flagged the useful one. The gap between those results is where human judgement actually earns its keep.\nThe post Detecting Vulnerabilities in Agent Skills with SkillSpector: From Green Checkmark to Real Security Judgment appeared first on Towards D",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-07-22T12:54:30.621Z",
+    "published": "Wed, 22 Jul 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/samsung-deepens-its-ai-empire-with-a-potential-billion-euro-stake-in-europes-hottest-ai-startup/",
+    "title": "Samsung deepens its AI empire with a potential billion-euro stake in Europe's hottest AI startup",
+    "description": "Samsung is in talks to invest up to one billion euros in French AI startup Mistral, which would push the company's valuation to around 20 billion euros.\nThe article Samsung deepens its AI empire with a potential billion-euro stake in Europe&#039;s hottest AI startup appeared first on The De",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-22T12:54:32.923Z",
+    "published": "Wed, 22 Jul 2026 11:24:08 +0000"
   }
 ]
