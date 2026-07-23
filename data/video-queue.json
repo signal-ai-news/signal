@@ -206,9 +206,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-22T09:17:48.452Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-23T09:15:56.654Z"
   },
   {
     "slug": "anthropic-physical-intelligence-rumor-update",
@@ -228,9 +229,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-22T09:17:48.452Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-23T09:16:11.258Z"
   },
   {
     "slug": "ai-materials-innovation",
@@ -844,6 +846,72 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-22T21:43:51.349Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "servicenow-bets-40m-on-indian-banking-software",
+    "title": "3 Reasons ServiceNow's $40M Bet Matters",
+    "summary": "ServiceNow's $40 million investment in BusinessNext is a strategic move to expand its financial services push, but what does it mean for you?",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/servicenow-bets-40m-on-indian-banking-software.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/servicenow-bets-40m-on-indian-banking-software.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 359,
+    "tags": [
+      "ServiceNow",
+      "BusinessNext",
+      "AI Banking",
+      "Financial Services",
+      "Investment"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-23T09:15:42.693Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "google-ai-boom-explained",
+    "title": "3 Reasons Google's AI Boom",
+    "summary": "Google's cloud business is thriving, thanks to its AI services, but what does it mean for you?",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/google-ai-boom-explained.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/google-ai-boom-explained.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 450,
+    "tags": [
+      "google",
+      "ai",
+      "cloud",
+      "tech",
+      "business"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-23T09:15:42.693Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "treasury-threatens-sanctions-over-ai-tool",
+    "title": "3 AI Sanctions",
+    "summary": "The US Treasury's latest move against AI tools has sparked a heated debate in Washington",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/treasury-threatens-sanctions-over-ai-tool.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/treasury-threatens-sanctions-over-ai-tool.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 484,
+    "tags": [
+      "AI",
+      "Sanctions",
+      "US Treasury",
+      "Anthropic",
+      "Fable"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-23T09:15:42.693Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
