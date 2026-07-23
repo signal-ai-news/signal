@@ -2925,5 +2925,168 @@
     "category": "news",
     "discovered": "2026-07-23T12:16:46.558Z",
     "published": "Thu, 23 Jul 2026 10:00:23 +0000"
+  },
+  {
+    "url": "https://openai.com/index/health-in-chatgpt",
+    "title": "Launching Health in ChatGPT",
+    "description": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-07-23T17:06:13.087Z",
+    "published": "Thu, 23 Jul 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-07-23T17:10:11.791Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+    "title": "OpenAI makes ChatGPT Health available to all U.S. users",
+    "description": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-23T17:06:24.348Z",
+    "published": "Thu, 23 Jul 2026 17:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-23T17:10:11.791Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+    "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+    "description": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-23T17:06:24.348Z",
+    "published": "Thu, 23 Jul 2026 16:28:50 +0000",
+    "processed": true,
+    "processedAt": "2026-07-23T17:10:11.791Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+    "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+    "description": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-23T17:06:24.348Z",
+    "published": "Thu, 23 Jul 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-23T17:10:11.791Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+    "title": "Google’s Gemini nears billion-user milestone",
+    "description": "Gemini had over 750 million monthly users in February.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-23T17:06:24.348Z",
+    "published": "Thu, 23 Jul 2026 14:52:44 +0000",
+    "processed": true,
+    "processedAt": "2026-07-23T17:10:11.791Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
+    "title": "The Download: energy transmission and US threats against Chinese AI",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The power line that could reshape New York’s grid is hitting snags  During a heat wave on July 3, New York State’s grid imported enough electricity fr",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-07-23T17:06:25.446Z",
+    "published": "Thu, 23 Jul 2026 12:10:00 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/most-rag-hallucinations-are-extraction-errors-seven-patterns-for-a-typed-generation-contract/",
+    "title": "Most RAG Hallucinations Are Extraction Errors: Seven Patterns for a Typed Generation Contract",
+    "description": "Enterprise Document Intelligence [Vol.1 #8ter] - Naming the RAG error correctly matters: model reads the context, so a wrong answer is an extraction error, not a hallucination. Seven typed-contract patterns keep the generation brick honest, with a decomposition rule for small models\nThe post Most RA",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-07-23T17:06:35.677Z",
+    "published": "Thu, 23 Jul 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes/",
+    "title": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+    "description": "Zenity Labs uncovered \"AgentForger,\" a vulnerability in OpenAI's Agent Builder that let a single manipulated ChatGPT link create an autonomous agent on an employee's behalf. The agent inherited the victim's identity and access rights, bypassed approval requirements through the malicious pro",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-23T17:06:37.417Z",
+    "published": "Thu, 23 Jul 2026 17:01:30 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/poolsides-laguna-s-2-1-is-a-small-open-weight-coding-model-that-punches-well-above-its-size/",
+    "title": "Poolside's Laguna S 2.1 is a small open-weight coding model that punches well above its size",
+    "description": "Poolside has released Laguna S 2.1, its third coding model in three months. Rather than rely on raw scale, the company trained it to keep checking its work, revise failed approaches, and avoid giving up too soon during long agentic sessions. The compact model beats several much larger rival",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-23T17:06:37.417Z",
+    "published": "Thu, 23 Jul 2026 12:24:53 +0000"
+  },
+  {
+    "url": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/",
+    "title": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
+    "description": "A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code.\nThe post The case for a cooldown: Why Dependabot now waits before issuing version updates appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-07-23T17:06:42.225Z",
+    "published": "Thu, 23 Jul 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/bastionguard-2-free-security-suite-does-it-all-almost-perfectly/",
+    "title": "I've used Linux for 30 years, and this free security suite does it all - almost perfectly",
+    "description": "Linux may be the most secure OS available, but it can always use extra security. BastionGuard 2 promises some serious security.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-23T17:06:58.700Z",
+    "published": "Thu, 23 Jul 2026 16:41:34 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/ai-image-fraud-new-global-standards/",
+    "title": "AI image fraud will cost $40 billion next year - can these international standards help?",
+    "description": "Until now, efforts to identify and combat deepfakes and AI scams have been scattered. Which proposed standard will dominate?",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-23T17:06:58.700Z",
+    "published": "Thu, 23 Jul 2026 14:51:00 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/hugging-face-breach-blamed-on-ai-agent/",
+    "title": "OpenAI's agent breached Hugging Face before an AI defender caught it: What users should do next",
+    "description": "An agentic AI infiltrated the production infrastructure of an AI project. Then an AI detected it. Is this the future of cyberattacks, and how will they be defended against?",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-23T17:06:58.700Z",
+    "published": "Thu, 23 Jul 2026 14:29:00 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/openai-hugging-face-attack-agent/",
+    "title": "OpenAI's attack agent did exactly what it was told - just more relentlessly than expected",
+    "description": "OpenAI's unintended attack on Hugging Face startled the world because its AI agent was acting on its own. But that's exactly what agentic AI is designed to do. We just didn't expect it to do it so well.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-23T17:06:58.700Z",
+    "published": "Thu, 23 Jul 2026 13:31:00 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/anthropics-claude-lineup-cowork-code-ai/",
+    "title": "I use Anthropic's Claude AI tools for very different jobs: How to pick between models, Code, and Cowork",
+    "description": "Here's how Anthropic's AI tools work, what they can accomplish, and why security, cost, and your oversight still matter.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-23T17:06:58.700Z",
+    "published": "Thu, 23 Jul 2026 12:26:00 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2221678/new-resident-evil-movie-trailer-fun-nods-to-games/",
+    "title": "The latest Resident Evil movie trailer has lots of fun nods to the games",
+    "description": "The film, from Weapons director Zach Cregger, hits theaters on September 18.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-23T17:06:59.247Z",
+    "published": "Thu, 23 Jul 2026 14:50:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2218707/no-100-percent-american-made-wifi-router/",
+    "title": "There isn't a single consumer Wi-Fi router that is 100% American-made",
+    "description": "You get a waiver! You get a waiver!",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-23T17:06:59.247Z",
+    "published": "Thu, 23 Jul 2026 13:30:00 +0000"
   }
 ]
