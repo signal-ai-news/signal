@@ -2716,5 +2716,78 @@
     "published": "Wed, 22 Jul 2026 13:00:00 GMT",
     "processed": true,
     "processedAt": "2026-07-22T20:45:25.279Z"
+  },
+  {
+    "url": "https://openai.com/index/ntt-data",
+    "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+    "description": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-07-23T06:38:30.391Z",
+    "published": "Wed, 22 Jul 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-07-23T06:42:10.128Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+    "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+    "description": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-23T06:38:36.883Z",
+    "published": "Thu, 23 Jul 2026 06:09:13 +0000",
+    "processed": true,
+    "processedAt": "2026-07-23T06:42:10.128Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+    "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+    "description": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-23T06:38:36.883Z",
+    "published": "Wed, 22 Jul 2026 23:47:54 +0000",
+    "processed": true,
+    "processedAt": "2026-07-23T06:42:10.128Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+    "title": "Google justifies its massive AI spending with a booming cloud business",
+    "description": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-23T06:38:36.883Z",
+    "published": "Wed, 22 Jul 2026 22:01:52 +0000",
+    "processed": true,
+    "processedAt": "2026-07-23T06:42:10.128Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+    "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+    "description": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-23T06:38:36.883Z",
+    "published": "Wed, 22 Jul 2026 20:49:03 +0000",
+    "processed": true,
+    "processedAt": "2026-07-23T06:42:10.128Z"
+  },
+  {
+    "url": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
+    "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
+    "description": "There’s a debate going on in the Trump administration over how to handle increasingly powerful Chinese AI models.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-07-23T06:38:56.821Z",
+    "published": "Wed, 22 Jul 2026 21:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2221309/us-outlines-its-5-billion-genesis-mission-to-boost-science-with-ai/",
+    "title": "US outlines its $5 billion Genesis Mission to boost science with AI",
+    "description": "Several federal agencies are contributing toward the interdisciplinary research efforts.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-23T06:39:03.674Z",
+    "published": "Wed, 22 Jul 2026 20:54:26 +0000"
   }
 ]
