@@ -3088,5 +3088,285 @@
     "category": "news",
     "discovered": "2026-07-23T17:06:59.247Z",
     "published": "Thu, 23 Jul 2026 13:30:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+    "title": "AMD takes on Nvidia with its Helios AI rack scale system",
+    "description": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-23T20:46:52.984Z",
+    "published": "Thu, 23 Jul 2026 20:33:02 +0000",
+    "processed": true,
+    "processedAt": "2026-07-23T20:50:36.859Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+    "title": "Anthropic updates Claude voice mode with more capable models",
+    "description": "Claude's new voice model will let you reschedule your meeting or draft an email.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-23T20:46:52.984Z",
+    "published": "Thu, 23 Jul 2026 19:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-23T20:50:36.859Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+    "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+    "description": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-23T20:46:52.984Z",
+    "published": "Thu, 23 Jul 2026 18:38:34 +0000",
+    "processed": true,
+    "processedAt": "2026-07-23T20:50:36.859Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+    "title": "Runway launches AI model router as generative media gets crowded",
+    "description": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-23T20:46:52.984Z",
+    "published": "Thu, 23 Jul 2026 17:07:35 +0000",
+    "processed": true,
+    "processedAt": "2026-07-23T20:50:36.859Z"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.19638",
+    "title": "Do Co-Located AI Training Jobs Synchronize?",
+    "description": "Article URL: https://arxiv.org/abs/2607.19638\nComments URL: https://news.ycombinator.com/item?id=49027719\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-23T20:46:59.456Z",
+    "published": "Thu, 23 Jul 2026 20:38:42 +0000",
+    "processed": true,
+    "processedAt": "2026-07-23T20:50:36.859Z"
+  },
+  {
+    "url": "https://github.com/rafaelEt/opentrust",
+    "title": "Show HN: OpenTrust – Browser trust signals for the AI era",
+    "description": "OpenTrust is an open-source TypeScript SDK that collects privacy-preserving browser trust signals.It focuses on signals, not decisions:\n- browser automation detection\n- virtual camera detection\n- passive liveness signalsThe goal is to provide an additional trust layer for applications in a world wh",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-23T20:46:59.456Z",
+    "published": "Thu, 23 Jul 2026 20:37:47 +0000"
+  },
+  {
+    "url": "https://ai-karma-tracker.github.io/blog/pxpipe-png-prompts/",
+    "title": "Save Up to 70% on Claude Code Costs with PNG Prompts?",
+    "description": "Article URL: https://ai-karma-tracker.github.io/blog/pxpipe-png-prompts/\nComments URL: https://news.ycombinator.com/item?id=49027698\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-23T20:46:59.456Z",
+    "published": "Thu, 23 Jul 2026 20:37:26 +0000"
+  },
+  {
+    "url": "https://github.com/raine/claude-code-proxy",
+    "title": "Show HN: Run Claude Code Through Codex, Kimi, Grok, or Cursor",
+    "description": "Article URL: https://github.com/raine/claude-code-proxy\nComments URL: https://news.ycombinator.com/item?id=49027640\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-23T20:46:59.456Z",
+    "published": "Thu, 23 Jul 2026 20:32:36 +0000"
+  },
+  {
+    "url": "https://ipulseai.substack.com/p/4523-ai-forecasts-opposing-views",
+    "title": "What 4,523 AI investment forecasts revealed about model disagreement",
+    "description": "Article URL: https://ipulseai.substack.com/p/4523-ai-forecasts-opposing-views\nComments URL: https://news.ycombinator.com/item?id=49027633\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-23T20:46:59.456Z",
+    "published": "Thu, 23 Jul 2026 20:31:52 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.04697",
+    "title": "AI Agent Pull Requests on GitHub: Frequency, Structure, and Merge Conflict Rates",
+    "description": "Article URL: https://arxiv.org/abs/2607.04697\nComments URL: https://news.ycombinator.com/item?id=49027548\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-23T20:46:59.456Z",
+    "published": "Thu, 23 Jul 2026 20:24:57 +0000"
+  },
+  {
+    "url": "https://mattmccormick.ca/are-agent-code-reviews-for-ai-generated-code-worth-it/",
+    "title": "Are Agent Code Reviews for AI-Generated Code Worth It?",
+    "description": "Article URL: https://mattmccormick.ca/are-agent-code-reviews-for-ai-generated-code-worth-it/\nComments URL: https://news.ycombinator.com/item?id=49027545\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-23T20:46:59.456Z",
+    "published": "Thu, 23 Jul 2026 20:24:46 +0000"
+  },
+  {
+    "url": "https://lieu.house.gov/sites/evo-subsites/lieu-evo.house.gov/files/evo-media-document/ai-kill-switch-act.pdf",
+    "title": "AI Kill Switch Act [pdf]",
+    "description": "Article URL: https://lieu.house.gov/sites/evo-subsites/lieu-evo.house.gov/files/evo-media-document/ai-kill-switch-act.pdf\nComments URL: https://news.ycombinator.com/item?id=49027534\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-23T20:46:59.456Z",
+    "published": "Thu, 23 Jul 2026 20:23:56 +0000"
+  },
+  {
+    "url": "https://github.com/tomlin7/biscuit",
+    "title": "Show HN: Biscuit – Native, extensible, AI code editor. <20 mb in size",
+    "description": "Article URL: https://github.com/tomlin7/biscuit\nComments URL: https://news.ycombinator.com/item?id=49027355\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-23T20:46:59.456Z",
+    "published": "Thu, 23 Jul 2026 20:10:23 +0000"
+  },
+  {
+    "url": "https://www.beyonddream.me/post-13/",
+    "title": "Terry Tao on how university students should control AI diet",
+    "description": "Article URL: https://www.beyonddream.me/post-13/\nComments URL: https://news.ycombinator.com/item?id=49027339\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-23T20:46:59.456Z",
+    "published": "Thu, 23 Jul 2026 20:08:58 +0000"
+  },
+  {
+    "url": "https://github.com/iBala/open-artifact",
+    "title": "Show HN: Open-artifact – view and share your LLM docs and artifacts",
+    "description": "Hey HN, Open artifact is an easy way to view your docs, html artifacts and collaborate with others.I like to keep my stack llm agnostic. My default way is to read docs via markdown and visualize reports via html. But sharing it with colleagues and keeping track of it was a big pain. I like claude a",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-23T20:46:59.456Z",
+    "published": "Thu, 23 Jul 2026 20:03:44 +0000"
+  },
+  {
+    "url": "https://twitter.com/claudeai/status/2080376094939603366",
+    "title": "Improved Voice Mode on Claude",
+    "description": "Article URL: https://twitter.com/claudeai/status/2080376094939603366\nComments URL: https://news.ycombinator.com/item?id=49027266\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-23T20:46:59.456Z",
+    "published": "Thu, 23 Jul 2026 20:02:36 +0000"
+  },
+  {
+    "url": "https://resobscura.substack.com/p/llm-based-educational-games-will",
+    "title": "LLM Based Education Games Will Be a Big Deal",
+    "description": "Article URL: https://resobscura.substack.com/p/llm-based-educational-games-will\nComments URL: https://news.ycombinator.com/item?id=49027196\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-23T20:46:59.456Z",
+    "published": "Thu, 23 Jul 2026 19:57:17 +0000"
+  },
+  {
+    "url": "https://ai-2027.com/",
+    "title": "AI 2027",
+    "description": "Article URL: https://ai-2027.com/\nComments URL: https://news.ycombinator.com/item?id=49027174\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-23T20:46:59.456Z",
+    "published": "Thu, 23 Jul 2026 19:55:35 +0000"
+  },
+  {
+    "url": "https://github.com/douglascorrea/herdr-agent-inbox",
+    "title": "Show HN: An inbox for your AI coding agents (herdr plugin)",
+    "description": "Article URL: https://github.com/douglascorrea/herdr-agent-inbox\nComments URL: https://news.ycombinator.com/item?id=49027154\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-23T20:46:59.456Z",
+    "published": "Thu, 23 Jul 2026 19:54:00 +0000"
+  },
+  {
+    "url": "https://twitter.com/claudeai/status/2080376099268169943",
+    "title": "Claude Voice Mode",
+    "description": "Article URL: https://twitter.com/claudeai/status/2080376099268169943\nComments URL: https://news.ycombinator.com/item?id=49027153\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-23T20:46:59.456Z",
+    "published": "Thu, 23 Jul 2026 19:53:57 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49027099",
+    "title": "Ask HN: Have you noticed an improvement in AI responses with memory disabled?",
+    "description": "I use Claude on the $20/mo plan, mainly for research, \"rubber duckying,\" and as an idea soundboard (I was using Fable for this but am now relegated to Opus 4.8 or Sonnet 5), and recently noticed a severe downturn in Opus 4.8 response quality in high-context situations. To attempt to remedy this, I",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-23T20:46:59.456Z",
+    "published": "Thu, 23 Jul 2026 19:49:47 +0000"
+  },
+  {
+    "url": "https://www.dingduff.com/",
+    "title": "DingDuff: A Claude MCP connector for legal research",
+    "description": "Article URL: https://www.dingduff.com/\nComments URL: https://news.ycombinator.com/item?id=49027096\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-23T20:46:59.456Z",
+    "published": "Thu, 23 Jul 2026 19:49:30 +0000"
+  },
+  {
+    "url": "https://meetskipper.ai/",
+    "title": "Skipper – An offline, voice-enabled AI companion for off-grid environments",
+    "description": "Article URL: https://meetskipper.ai/\nComments URL: https://news.ycombinator.com/item?id=49026999\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-23T20:46:59.456Z",
+    "published": "Thu, 23 Jul 2026 19:42:21 +0000"
+  },
+  {
+    "url": "https://finterm.ai/blog/big-tech-ai-spending-1-65-trillion.html",
+    "title": "Breaking Down $1.65T of Big Tech AI Spending (Not Debt)",
+    "description": "Article URL: https://finterm.ai/blog/big-tech-ai-spending-1-65-trillion.html\nComments URL: https://news.ycombinator.com/item?id=49026996\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-23T20:46:59.456Z",
+    "published": "Thu, 23 Jul 2026 19:41:56 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/chatgpt-will-give-you-worse-health-advice-if-you-dont-pay/",
+    "title": "ChatGPT will give you worse health advice if you don't pay",
+    "description": "OpenAI is rolling out \"Health in ChatGPT\" to U.S. users, connecting Apple Health, medical records, and wellness apps. More than 300 million people already ask ChatGPT health questions every week, but paying users get better answers. The more powerful GPT-5.6 Sol model is reserved for premiu",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-23T20:47:07.805Z",
+    "published": "Thu, 23 Jul 2026 19:30:51 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/flux-3-generates-videos-with-native-audio-up-to-20-seconds-long-a-first-for-black-forest-labs/",
+    "title": "Flux 3 generates videos with native audio up to 20 seconds long, a first for Black Forest Labs",
+    "description": "Black Forest Labs has released Flux 3, a multimodal foundation model that learns from images, video, and audio and can generate video with native sound for the first time. BFL's own tests put it just ahead of market leader Seedance 2.0, though independent results aren't yet available. The c",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-23T20:47:07.805Z",
+    "published": "Thu, 23 Jul 2026 18:03:01 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
+    "title": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
+    "description": "The clip features the David Bowie track “Five Years,” which includes lyrics such as “Earth was really dying (dying).”",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-07-23T20:47:20.598Z",
+    "published": "Thu, 23 Jul 2026 18:45:52 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2222159/meta-pro-ai-ad-campaign-is-conspicuously-light-on-ai/",
+    "title": "Meta's pro-AI ad campaign is conspicuously light on AI",
+    "description": "The company wants people to be anti-doomer, but doesn&#39;t say why.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-23T20:47:28.301Z",
+    "published": "Thu, 23 Jul 2026 20:37:45 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2222059/openai-once-again-makes-the-case-for-giving-chatgpt-your-health-records/",
+    "title": "OpenAI once again makes the case for giving ChatGPT your health records",
+    "description": "ChatGPT Health is rolling out to users in the US who are 18 years or older.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-23T20:47:28.301Z",
+    "published": "Thu, 23 Jul 2026 19:20:54 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2221938/claude-voice-mode-just-got-smarter/",
+    "title": "Claude's voice mode just got smarter",
+    "description": "Claude&#39;s voice mode hasn&#39;t been the most reliable, but this update should help.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-23T20:47:28.301Z",
+    "published": "Thu, 23 Jul 2026 19:00:00 +0000"
   }
 ]
