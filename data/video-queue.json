@@ -252,9 +252,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-22T10:42:12.232Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-23T17:04:53.329Z"
   },
   {
     "slug": "ai-hiring-biases-exposed",
@@ -274,9 +275,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-22T13:49:58.491Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-23T17:05:03.253Z"
   },
   {
     "slug": "gpt-live-essential-tool-for-developers",
@@ -912,6 +914,94 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-23T09:15:42.693Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "kimi-k3-expert-insights",
+    "title": "3 Secrets Behind Kimi K3",
+    "summary": "Discover the surprising truth about Kimi K3's rapid rise to the top",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/kimi-k3-expert-insights.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/kimi-k3-expert-insights.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 391,
+    "tags": [
+      "Kimi K3",
+      "Anthropic",
+      "Fable",
+      "AI",
+      "Machine Learning"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-23T17:04:40.979Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-medicine-breakthroughs",
+    "title": "3 Breakthroughs in AI Medicine",
+    "summary": "Scientists just got a powerful new tool to design life-saving medicines",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-medicine-breakthroughs.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-medicine-breakthroughs.html",
+    "sourceName": "MIT Tech Review AI",
+    "wordCount": 542,
+    "tags": [
+      "AI",
+      "Medicine",
+      "Biotech",
+      "Science",
+      "Health"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-23T17:04:40.979Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "new-york-power-grid-snags",
+    "title": "3 Snags in NY's Power Grid",
+    "summary": "New York's grid is on the brink of a major overhaul, but a key power line is hitting roadblocks",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/new-york-power-grid-snags.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/new-york-power-grid-snags.html",
+    "sourceName": "MIT Tech Review AI",
+    "wordCount": 585,
+    "tags": [
+      "New York",
+      "power grid",
+      "energy",
+      "Champlain Hudson",
+      "sustainability"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-23T17:04:40.979Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-scaling-lessons-learned",
+    "title": "3 Reasons AI Scaling Slowed Us Down",
+    "summary": "Discover the hidden costs of adding more AI agents to your system and how to avoid them",
+    "category": "ML",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-scaling-lessons-learned.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-scaling-lessons-learned.html",
+    "sourceName": "Towards Data Science",
+    "wordCount": 475,
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "LLM",
+      "Scaling",
+      "Optimization"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-23T17:04:40.979Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
