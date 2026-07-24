@@ -344,9 +344,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-22T17:00:30.441Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-24T09:13:27.068Z"
   },
   {
     "slug": "ai-gates-for-security",
@@ -366,9 +367,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-22T17:00:30.441Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-24T09:13:38.438Z"
   },
   {
     "slug": "octomind-cloud-ai-breakthrough",
@@ -1048,6 +1050,116 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-23T21:39:32.111Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "australia-ai-regulations",
+    "title": "3 Breakthrough AI Rules",
+    "summary": "Australia demands AI companies produce more energy than they consume and stop content theft",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/australia-ai-regulations.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/australia-ai-regulations.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 444,
+    "tags": [
+      "AI",
+      "Australia",
+      "Regulations",
+      "Sustainability",
+      "Content Protection"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-24T09:13:14.117Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "avoid-ai-slop",
+    "title": "3 Ways to Avoid AI Slop",
+    "summary": "Don't let AI slop hold you back - learn how to avoid it today",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/avoid-ai-slop.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/avoid-ai-slop.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 494,
+    "tags": [
+      "AI",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "AI Slop",
+      "Tech"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-24T09:13:14.117Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "stop-ai-conversations-from-drifting-off-topic",
+    "title": "3 Ways to Fix AI Drift",
+    "summary": "New middleware catches when LLM conversations slowly drift off-topic, and it's a total breakthrough",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/stop-ai-conversations-from-drifting-off-topic.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/stop-ai-conversations-from-drifting-off-topic.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 381,
+    "tags": [
+      "AI",
+      "LLM",
+      "Middleware",
+      "Conversational AI",
+      "Hallucinatoff"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-24T09:13:14.117Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "oracle-ai-layoffs",
+    "title": "21,000 Jobs Lost",
+    "summary": "Oracle's big AI bet just backfired in a major way, causing massive layoffs",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/oracle-ai-layoffs.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/oracle-ai-layoffs.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 535,
+    "tags": [
+      "AI",
+      "Oracle",
+      "Layoffs",
+      "Tech News",
+      "Business"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-24T09:13:14.117Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-guard-essentials",
+    "title": "3 AI Guard Essentials",
+    "summary": "Don't let your AI systems turn against you - here's what you need to know",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-guard-essentials.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-guard-essentials.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 587,
+    "tags": [
+      "AI Security",
+      "AI Guard",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Cybersecurity"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-24T09:13:14.117Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
