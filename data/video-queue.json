@@ -390,9 +390,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-22T17:00:30.441Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-24T17:14:52.171Z"
   },
   {
     "slug": "build-llm-runtime-from-scratch",
@@ -412,9 +413,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-22T17:00:30.441Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-24T17:15:02.837Z"
   },
   {
     "slug": "ai-security-risks-hugging-face-breach",
@@ -1160,6 +1162,72 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-24T09:13:14.117Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-guardrails-cybersecurity-research",
+    "title": "3 Ways AI Guardrails Stifle Cybersecurity",
+    "summary": "New AI guardrails are impeding the work of offensive cybersecurity researchers, but what does this mean for the future of cybersecurity?",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-guardrails-cybersecurity-research.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-guardrails-cybersecurity-research.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 544,
+    "tags": [
+      "AI",
+      "cybersecurity",
+      "research",
+      "guardrails",
+      "OpenAI"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-24T17:14:36.888Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "hetzner-llm-inference-breakthrough",
+    "title": "3 Essential Facts About Hetzner's LLM Inference",
+    "summary": "Hetzner's breakthrough in LLM inference is changing the AI landscape - here's what you need to know",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/hetzner-llm-inference-breakthrough.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/hetzner-llm-inference-breakthrough.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 377,
+    "tags": [
+      "Hetzner",
+      "LLM Inference",
+      "AI Tools",
+      "Machine Learning",
+      "Innovation"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-24T17:14:36.888Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "grok-excel-ai-add-in",
+    "title": "3 AI Add-ins",
+    "summary": "Grok's new AI add-in is changing the Excel game",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/grok-excel-ai-add-in.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/grok-excel-ai-add-in.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 460,
+    "tags": [
+      "Grok",
+      "AI",
+      "Excel",
+      "Add-in",
+      "Productivity"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-24T17:14:36.888Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
