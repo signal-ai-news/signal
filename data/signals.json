@@ -3567,5 +3567,213 @@
     "category": "news",
     "discovered": "2026-07-24T00:15:45.320Z",
     "published": "Thu, 23 Jul 2026 20:47:15 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+    "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+    "description": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-24T09:33:22.365Z",
+    "published": "Fri, 24 Jul 2026 01:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-24T09:37:17.219Z"
+  },
+  {
+    "url": "https://sliplane.io/blog/hetzner-inference",
+    "title": "Hetzner is working on LLM Inference",
+    "description": "Article URL: https://sliplane.io/blog/hetzner-inference\nComments URL: https://news.ycombinator.com/item?id=49033087\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T09:33:35.391Z",
+    "published": "Fri, 24 Jul 2026 09:24:44 +0000",
+    "processed": true,
+    "processedAt": "2026-07-24T09:37:17.219Z"
+  },
+  {
+    "url": "https://www.theregister.com/ai-and-ml/2026/07/22/grok-muscles-into-excel-with-an-ai-add-in-of-its-own/5276138",
+    "title": "Grok muscles into Excel with an AI add-in of its own",
+    "description": "Article URL: https://www.theregister.com/ai-and-ml/2026/07/22/grok-muscles-into-excel-with-an-ai-add-in-of-its-own/5276138\nComments URL: https://news.ycombinator.com/item?id=49033015\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T09:33:35.391Z",
+    "published": "Fri, 24 Jul 2026 09:09:51 +0000",
+    "processed": true,
+    "processedAt": "2026-07-24T09:37:17.219Z"
+  },
+  {
+    "url": "https://blog.jetbrains.com/ai/2026/07/rtk-claude-code-token-savings/",
+    "title": "RTK and Claude Code Token Savings: A Closer Look",
+    "description": "Article URL: https://blog.jetbrains.com/ai/2026/07/rtk-claude-code-token-savings/\nComments URL: https://news.ycombinator.com/item?id=49032964\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T09:33:35.391Z",
+    "published": "Fri, 24 Jul 2026 09:01:09 +0000",
+    "processed": true,
+    "processedAt": "2026-07-24T09:37:17.219Z"
+  },
+  {
+    "url": "https://github.com/HabibiCodeCH/claude-no-bash-detour",
+    "title": "Claude Code hooks that block find/sed/cat, redirect to native tools",
+    "description": "Article URL: https://github.com/HabibiCodeCH/claude-no-bash-detour\nComments URL: https://news.ycombinator.com/item?id=49032877\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T09:33:35.391Z",
+    "published": "Fri, 24 Jul 2026 08:45:50 +0000",
+    "processed": true,
+    "processedAt": "2026-07-24T09:37:17.219Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=lk3jCuITwcE",
+    "title": "Kitboga manipulates AI scam call into hallucination",
+    "description": "Article URL: https://www.youtube.com/watch?v=lk3jCuITwcE\nComments URL: https://news.ycombinator.com/item?id=49032875\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T09:33:35.391Z",
+    "published": "Fri, 24 Jul 2026 08:45:26 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=1YoP7u_rqgQ",
+    "title": "AI-first development: Stories as a source of truth - by toby [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=1YoP7u_rqgQ\nComments URL: https://news.ycombinator.com/item?id=49032792\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T09:33:35.391Z",
+    "published": "Fri, 24 Jul 2026 08:32:40 +0000"
+  },
+  {
+    "url": "https://github.com/metacircu1ar/hive_review",
+    "title": "Hive_review: Multi-agent AI code-review loop",
+    "description": "Article URL: https://github.com/metacircu1ar/hive_review\nComments URL: https://news.ycombinator.com/item?id=49032722\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T09:33:35.391Z",
+    "published": "Fri, 24 Jul 2026 08:25:17 +0000"
+  },
+  {
+    "url": "https://noumena.com/essays/the-engine-shop-part-1/",
+    "title": "AI, Rockets, and the Return of Hard Contracts (Part I)",
+    "description": "Article URL: https://noumena.com/essays/the-engine-shop-part-1/\nComments URL: https://news.ycombinator.com/item?id=49032658\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T09:33:35.391Z",
+    "published": "Fri, 24 Jul 2026 08:18:20 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49032468",
+    "title": "Naming a pattern in AI-generated code: Modular Mirage",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=49032468\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T09:33:35.391Z",
+    "published": "Fri, 24 Jul 2026 07:55:07 +0000"
+  },
+  {
+    "url": "https://finance.yahoo.com/technology/ai/articles/oracle-severed-21-000-employees-114500493.html",
+    "title": "Oracle severed 21,000 employees during an AI spending spree",
+    "description": "Article URL: https://finance.yahoo.com/technology/ai/articles/oracle-severed-21-000-employees-114500493.html\nComments URL: https://news.ycombinator.com/item?id=49032388\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T09:33:35.391Z",
+    "published": "Fri, 24 Jul 2026 07:45:25 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2601.04463",
+    "title": "Beyond Static Summarization: Proactive Memory Extraction for LLM Agents",
+    "description": "Article URL: https://arxiv.org/abs/2601.04463\nComments URL: https://news.ycombinator.com/item?id=49032350\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T09:33:35.391Z",
+    "published": "Fri, 24 Jul 2026 07:39:30 +0000"
+  },
+  {
+    "url": "https://flowshelf.app/",
+    "title": "HN: FlowShelf –free,native macOS shelf/clipboard/screenshot app,on-device AI",
+    "description": "Article URL: https://flowshelf.app/\nComments URL: https://news.ycombinator.com/item?id=49032306\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T09:33:35.391Z",
+    "published": "Fri, 24 Jul 2026 07:33:38 +0000"
+  },
+  {
+    "url": "https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code",
+    "title": "AI coding agents should optimize for less owned code",
+    "description": "Article URL: https://www.openenergytransition.org/posts/ai-coding-agents-should-optimize-for-less-owned-code\nComments URL: https://news.ycombinator.com/item?id=49032279\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T09:33:35.391Z",
+    "published": "Fri, 24 Jul 2026 07:31:03 +0000"
+  },
+  {
+    "url": "https://www.neowin.net/news/ai-overviews-could-push-reddit-to-end-its-60-million-a-year-deal-with-google/",
+    "title": "AI Overviews could push Reddit to end its $60M-a-year deal with Google",
+    "description": "Article URL: https://www.neowin.net/news/ai-overviews-could-push-reddit-to-end-its-60-million-a-year-deal-with-google/\nComments URL: https://news.ycombinator.com/item?id=49032246\nPoints: 5\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T09:33:35.391Z",
+    "published": "Fri, 24 Jul 2026 07:26:36 +0000"
+  },
+  {
+    "url": "https://github.com/riponcm/Jharu",
+    "title": "Show HN: Jharu – Open-Source AI and Dev Junk Cleaner for Mac and PC",
+    "description": "Article URL: https://github.com/riponcm/Jharu\nComments URL: https://news.ycombinator.com/item?id=49032227\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T09:33:35.391Z",
+    "published": "Fri, 24 Jul 2026 07:23:04 +0000"
+  },
+  {
+    "url": "https://jcs.org/2026/07/23/ai",
+    "title": "On AI",
+    "description": "Article URL: https://jcs.org/2026/07/23/ai\nComments URL: https://news.ycombinator.com/item?id=49032212\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T09:33:35.391Z",
+    "published": "Fri, 24 Jul 2026 07:20:10 +0000"
+  },
+  {
+    "url": "https://github.com/AnasNafees1802/continuum",
+    "title": "Show HN: Continuum – switch AI coding agents without re-explaining your project",
+    "description": "Article URL: https://github.com/AnasNafees1802/continuum\nComments URL: https://news.ycombinator.com/item?id=49032115\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T09:33:35.391Z",
+    "published": "Fri, 24 Jul 2026 07:05:03 +0000"
+  },
+  {
+    "url": "https://twitter.com/qiaoqiao2001/status/2080003441821163958",
+    "title": "Open Erdos problems solved with the help of GPT-5.6 Sol",
+    "description": "Article URL: https://twitter.com/qiaoqiao2001/status/2080003441821163958\nComments URL: https://news.ycombinator.com/item?id=49032013\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T09:33:35.391Z",
+    "published": "Fri, 24 Jul 2026 06:50:45 +0000"
+  },
+  {
+    "url": "https://blog.zoller.lu/2026/07/dunning-kruger-after-ai-gap-that-no.html",
+    "title": "The Effect of AI on Dunning Kruger",
+    "description": "Article URL: https://blog.zoller.lu/2026/07/dunning-kruger-after-ai-gap-that-no.html\nComments URL: https://news.ycombinator.com/item?id=49031973\nPoints: 4\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T09:33:35.391Z",
+    "published": "Fri, 24 Jul 2026 06:45:26 +0000"
+  },
+  {
+    "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260719-338181/",
+    "title": "Japanese AI Robots Used to Replicate Skilled Confectioners' Abilities",
+    "description": "Article URL: https://japannews.yomiuri.co.jp/science-nature/technology/20260719-338181/\nComments URL: https://news.ycombinator.com/item?id=49031963\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T09:33:35.391Z",
+    "published": "Fri, 24 Jul 2026 06:44:13 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2222303/google-expanding-access-gemini-spark/",
+    "title": "Google is expanding access to its Gemini Spark agentic AI assistant",
+    "description": "Gemini Spark is now available to more users.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-24T09:34:09.370Z",
+    "published": "Fri, 24 Jul 2026 06:00:44 +0000"
   }
 ]
