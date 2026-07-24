@@ -4109,5 +4109,321 @@
     "category": "news",
     "discovered": "2026-07-24T15:18:21.196Z",
     "published": "Fri, 24 Jul 2026 11:43:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+    "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+    "description": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistant",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-24T20:06:13.327Z",
+    "published": "Fri, 24 Jul 2026 18:07:32 +0000",
+    "processed": true,
+    "processedAt": "2026-07-24T20:09:51.802Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+    "title": "Anthropic launches Opus 5",
+    "description": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-24T20:06:13.327Z",
+    "published": "Fri, 24 Jul 2026 17:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-24T20:09:51.802Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+    "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+    "description": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-24T20:06:13.327Z",
+    "published": "Fri, 24 Jul 2026 15:51:49 +0000",
+    "processed": true,
+    "processedAt": "2026-07-24T20:09:51.802Z"
+  },
+  {
+    "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
+    "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
+    "description": "Chinese AI lab Moonshot&#8217;s&#160;open model Kimi went viral this week&#160;for reasons that had less to do with the model itself and more to do with&#160;how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-24T20:06:13.327Z",
+    "published": "Fri, 24 Jul 2026 14:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-24T20:09:51.802Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
+    "title": "The quest to keep organs alive outside the body",
+    "description": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of human organs that ca",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-07-24T20:06:14.508Z",
+    "published": "Fri, 24 Jul 2026 17:03:55 +0000",
+    "processed": true,
+    "processedAt": "2026-07-24T20:09:51.802Z"
+  },
+  {
+    "url": "https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns",
+    "title": "Political text messages could get more effective and annoying. Blame AI",
+    "description": "Article URL: https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns\nComments URL: https://news.ycombinator.com/item?id=49040937\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T20:06:20.689Z",
+    "published": "Fri, 24 Jul 2026 20:03:03 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
+    "title": "Politician reads AI prompt during assembly [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=wlYa8NV5k-U\nComments URL: https://news.ycombinator.com/item?id=49040843\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T20:06:20.689Z",
+    "published": "Fri, 24 Jul 2026 19:54:10 +0000"
+  },
+  {
+    "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+    "title": "The new rules of context engineering for Claude 5 generation models",
+    "description": "Article URL: https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models\nComments URL: https://news.ycombinator.com/item?id=49040821\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T20:06:20.689Z",
+    "published": "Fri, 24 Jul 2026 19:52:38 +0000"
+  },
+  {
+    "url": "https://www.theguardian.com/commentisfree/2026/jul/24/apology-ai-boss-sam-altman-rogue-openai-startup-pentagon",
+    "title": "When is an apology not an apology? From an AI boss with a rogue chatbot",
+    "description": "Article URL: https://www.theguardian.com/commentisfree/2026/jul/24/apology-ai-boss-sam-altman-rogue-openai-startup-pentagon\nComments URL: https://news.ycombinator.com/item?id=49040790\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T20:06:20.689Z",
+    "published": "Fri, 24 Jul 2026 19:49:16 +0000"
+  },
+  {
+    "url": "https://www.peterbe.com/plog/claude-opus-is-10x-faster-than-openai-gpt-5-at-non-streaming-completions",
+    "title": "Claude Opus 4.8 can be 10x faster than OpenAI GPT-5",
+    "description": "Article URL: https://www.peterbe.com/plog/claude-opus-is-10x-faster-than-openai-gpt-5-at-non-streaming-completions\nComments URL: https://news.ycombinator.com/item?id=49040691\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T20:06:20.689Z",
+    "published": "Fri, 24 Jul 2026 19:41:49 +0000"
+  },
+  {
+    "url": "https://octane.beehiiv.com/",
+    "title": "Oracle VM VirtualBox Bug Discovered by AI: CVE-2026-60161",
+    "description": "Article URL: https://octane.beehiiv.com/\nComments URL: https://news.ycombinator.com/item?id=49040324\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T20:06:20.689Z",
+    "published": "Fri, 24 Jul 2026 19:08:12 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49040025",
+    "title": "Ask HN: What's the best AI coding tool today?",
+    "description": "My current workflow would be something like: write detailed requirements, ssh into a remote instance, ask an agent to write a plan and giving it free rein to build it there, only pinging me back when it's ready or when it's stuck. I could write code manually in an IDE too but only when the problem",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T20:06:20.689Z",
+    "published": "Fri, 24 Jul 2026 18:49:35 +0000"
+  },
+  {
+    "url": "https://github.com/IvanWng97/pixtuoid",
+    "title": "pixtuoid: AI coding agents, visualized as pixel-art coworkers in terminal office",
+    "description": "Article URL: https://github.com/IvanWng97/pixtuoid\nComments URL: https://news.ycombinator.com/item?id=49039960\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T20:06:20.689Z",
+    "published": "Fri, 24 Jul 2026 18:44:35 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=vW26TB6Rdic",
+    "title": "San Francisco AI Doom Protest (2026) [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=vW26TB6Rdic\nComments URL: https://news.ycombinator.com/item?id=49039959\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T20:06:20.689Z",
+    "published": "Fri, 24 Jul 2026 18:44:32 +0000"
+  },
+  {
+    "url": "https://instavm.io/blog/why-ai-agents-need-a-two-tier-architecture",
+    "title": "Why AI Agents Need a Two-Tier Architecture",
+    "description": "Article URL: https://instavm.io/blog/why-ai-agents-need-a-two-tier-architecture\nComments URL: https://news.ycombinator.com/item?id=49039930\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T20:06:20.689Z",
+    "published": "Fri, 24 Jul 2026 18:42:30 +0000"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-07-24/spacex-at-100-would-imply-zero-ai-value-says-morgan-stanley",
+    "title": "SpaceX at $100 Would Imply Zero AI Value, Morgan Stanley Says",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-07-24/spacex-at-100-would-imply-zero-ai-value-says-morgan-stanley\nComments URL: https://news.ycombinator.com/item?id=49039831\nPoints: 16\n# Comments: 19",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T20:06:20.689Z",
+    "published": "Fri, 24 Jul 2026 18:34:16 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
+    "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
+    "description": "Article URL: https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/\nComments URL: https://news.ycombinator.com/item?id=49039822\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T20:06:20.689Z",
+    "published": "Fri, 24 Jul 2026 18:33:21 +0000"
+  },
+  {
+    "url": "https://ethanplant.ca/writing/stop-the-datacentre/",
+    "title": "Canada's Anti-AI Movement Is Powered by an AI News Aggregator",
+    "description": "Article URL: https://ethanplant.ca/writing/stop-the-datacentre/\nComments URL: https://news.ycombinator.com/item?id=49039761\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T20:06:20.689Z",
+    "published": "Fri, 24 Jul 2026 18:28:51 +0000"
+  },
+  {
+    "url": "https://fortune.com/2026/07/23/zuckerberg-ai-ad-optimism-backlash/",
+    "title": "Zuckerberg's AI optimism blitz using nostalgia to sell AI future amid backlash",
+    "description": "Article URL: https://fortune.com/2026/07/23/zuckerberg-ai-ad-optimism-backlash/\nComments URL: https://news.ycombinator.com/item?id=49039334\nPoints: 5\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T20:06:20.689Z",
+    "published": "Fri, 24 Jul 2026 17:54:11 +0000"
+  },
+  {
+    "url": "https://www.latimes.com/business/story/2026-07-23/alphabets-205-billion-ai-spending-plan-spooks-investors",
+    "title": "Alphabet's $205B AI spending plan spooks investors",
+    "description": "Article URL: https://www.latimes.com/business/story/2026-07-23/alphabets-205-billion-ai-spending-plan-spooks-investors\nComments URL: https://news.ycombinator.com/item?id=49039297\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T20:06:20.689Z",
+    "published": "Fri, 24 Jul 2026 17:50:22 +0000"
+  },
+  {
+    "url": "https://modelsagree.com/labs/ai-judges-overreacting",
+    "title": "AI has a weak spine. We proved it on R/AmIOverreacting",
+    "description": "Article URL: https://modelsagree.com/labs/ai-judges-overreacting\nComments URL: https://news.ycombinator.com/item?id=49039213\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T20:06:20.689Z",
+    "published": "Fri, 24 Jul 2026 17:44:15 +0000"
+  },
+  {
+    "url": "https://rentry.co/organic-code-spec-v1-0-md",
+    "title": "Specification for a 100% AI-Free Software Supply Chain",
+    "description": "Article URL: https://rentry.co/organic-code-spec-v1-0-md\nComments URL: https://news.ycombinator.com/item?id=49039130\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T20:06:20.689Z",
+    "published": "Fri, 24 Jul 2026 17:39:20 +0000"
+  },
+  {
+    "url": "http://artificialanalysis.ai/models/claude-opus-5",
+    "title": "Claude Opus 5 – Artificial Analysis",
+    "description": "Article URL: http://artificialanalysis.ai/models/claude-opus-5\nComments URL: https://news.ycombinator.com/item?id=49039047\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T20:06:20.689Z",
+    "published": "Fri, 24 Jul 2026 17:32:50 +0000"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/build-with-claude/fast-mode",
+    "title": "As of June 29, 2026, fast mode is not available on Claude Opus 4.6",
+    "description": "Article URL: https://platform.claude.com/docs/en/build-with-claude/fast-mode\nComments URL: https://news.ycombinator.com/item?id=49038922\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T20:06:20.689Z",
+    "published": "Fri, 24 Jul 2026 17:25:11 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/tabular-llms-an-introduction-to-the-foundation-models-that-predict-your-spreadsheet/",
+    "title": "Tabular LLMs: An Introduction to the Foundation Models That Predict Your Spreadsheet",
+    "description": "Tabular foundation models predict the missing column of any spreadsheet zero-shot, the way an LLM completes text — and on the TabArena benchmark they now sit above fully tuned gradient-boosted trees. An introduction to how they work, an independent reproduction of the strongest open one, and a map o",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-07-24T20:06:26.890Z",
+    "published": "Fri, 24 Jul 2026 16:30:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price/",
+    "title": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+    "description": "Anthropic's new flagship model Claude Opus 5 posts top scores in coding and knowledge work at half of Fable 5's token rates. On ARC-AGI-3, a benchmark for novel problem-solving, Opus 5 hits 30.2 percent, nearly four times higher than GPT-5.6 Sol.\nThe article Anthropic claims its new Claude",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-24T20:06:28.589Z",
+    "published": "Fri, 24 Jul 2026 18:36:42 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/microsofts-open-weight-ai-push-is-so-obviously-an-azure-play-it-hurts/",
+    "title": "Microsoft's open-weight AI push is so obviously an Azure play it hurts",
+    "description": "Microsoft, along with Meta, Nvidia, and more than 20 other companies, is pushing for open-weight AI models in an open letter. The strategic logic is simple: the more models running on Azure, the less Microsoft depends on expensive OpenAI and Anthropic models. The company is also swapping ex",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-24T20:06:28.589Z",
+    "published": "Fri, 24 Jul 2026 16:06:02 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/uncanny-valley-podcast/",
+    "title": "Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
+    "description": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from  Anthropic, and how the US Army needs to cut back on AI use.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-07-24T20:06:35.358Z",
+    "published": "Fri, 24 Jul 2026 17:53:01 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/claude-opus-5-near-fable-performance-at-half-the-price/",
+    "title": "Claude Opus 5 arrives with near Fable performance at half the price",
+    "description": "Anthropic's latest Claude upgrade targets developers and enterprises with stronger coding, better reasoning efficiency, prompt-cache-friendly tool changes, and near-Fable performance at Opus pricing.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-24T20:06:43.422Z",
+    "published": "Fri, 24 Jul 2026 17:00:00 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2222797/midjourney-buying-astrology-horoscope-app-co-star/",
+    "title": "Midjourney is buying horoscope app Co-Star, which users will surely be thrilled about",
+    "description": "Co-Star CEO Banu Guler is also becoming the company&#39;s Chief Design Officer.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-24T20:06:44.050Z",
+    "published": "Fri, 24 Jul 2026 19:16:10 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2222782/prime-video-blade-runner-2099-trailer-release-date/",
+    "title": "Prime Video's Blade Runner 2099 now has a trailer and release date of November 25",
+    "description": "The eight-episode series stars Michelle Yeoh and Hunter Schafer.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-24T20:06:44.050Z",
+    "published": "Fri, 24 Jul 2026 18:59:13 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2222542/anthropic-says-opus-5-can-nearly-match-its-top-performing-model-for-half-the-price/",
+    "title": "Anthropic says Opus 5 can nearly match its top-performing model for half the price",
+    "description": "Anthropic&#39;s latest model offers top-tier performance at a much cheaper cost.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-24T20:06:44.050Z",
+    "published": "Fri, 24 Jul 2026 17:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2222631/avatar-seven-havens-trailer-release-date/",
+    "title": "Avatar: Seven Havens finally has a trailer and a release date of October 9",
+    "description": "The post-apocalyptic tale takes place after the events of The Legend of Korra.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-24T20:06:44.050Z",
+    "published": "Fri, 24 Jul 2026 16:51:14 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2222493/phone-ip68-rating-misleading-heres-why/",
+    "title": "Your phone may not be as waterproof as you think — here's why IP68 can be misleading",
+    "description": "Don&#39;t just jump straight into a pool with your phone, you savage.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-24T20:06:44.050Z",
+    "published": "Fri, 24 Jul 2026 16:30:00 +0000"
   }
 ]
