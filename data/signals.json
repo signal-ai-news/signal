@@ -3368,5 +3368,204 @@
     "category": "news",
     "discovered": "2026-07-23T20:47:28.301Z",
     "published": "Thu, 23 Jul 2026 19:00:00 +0000"
+  },
+  {
+    "url": "https://www.theregister.com/ai-and-ml/2026/07/15/australia-demands-ai-companies-must-produce-more-energy-than-they-consume-stop-theft-of-content/5271535",
+    "title": "Australia to AI: Produce More Power Than You Burn, Stop Content 'Theft'",
+    "description": "Article URL: https://www.theregister.com/ai-and-ml/2026/07/15/australia-demands-ai-companies-must-produce-more-energy-than-they-consume-stop-theft-of-content/5271535\nComments URL: https://news.ycombinator.com/item?id=49029771\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T00:15:15.823Z",
+    "published": "Fri, 24 Jul 2026 00:12:02 +0000",
+    "processed": true,
+    "processedAt": "2026-07-24T00:18:53.151Z"
+  },
+  {
+    "url": "https://www.machinesociety.ai/p/if-ai-companies-avoid-ai-slop-shouldnt",
+    "title": "If AI companies avoid AI slop, shouldn't we?",
+    "description": "Article URL: https://www.machinesociety.ai/p/if-ai-companies-avoid-ai-slop-shouldnt\nComments URL: https://news.ycombinator.com/item?id=49029710\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T00:15:15.823Z",
+    "published": "Fri, 24 Jul 2026 00:04:35 +0000",
+    "processed": true,
+    "processedAt": "2026-07-24T00:18:53.151Z"
+  },
+  {
+    "url": "https://github.com/ojki74/hallucinatoff",
+    "title": "Middleware that catches when LLM conversations slowly drift off-topic",
+    "description": "Article URL: https://github.com/ojki74/hallucinatoff\nComments URL: https://news.ycombinator.com/item?id=49029558\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T00:15:15.823Z",
+    "published": "Thu, 23 Jul 2026 23:39:19 +0000",
+    "processed": true,
+    "processedAt": "2026-07-24T00:18:53.151Z"
+  },
+  {
+    "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442",
+    "title": "AI bet goes awry: Oracle fires 21,000 employees",
+    "description": "Article URL: https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442\nComments URL: https://news.ycombinator.com/item?id=49029453\nPoints: 6\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T00:15:15.823Z",
+    "published": "Thu, 23 Jul 2026 23:26:51 +0000",
+    "processed": true,
+    "processedAt": "2026-07-24T00:18:53.151Z"
+  },
+  {
+    "url": "https://medium.com/@alanscottencinas/when-ai-attacks-ai-why-every-system-needs-a-guard-8ba46f904378",
+    "title": "When AI Attacks AI: Why Every System Needs a Guard",
+    "description": "Article URL: https://medium.com/@alanscottencinas/when-ai-attacks-ai-why-every-system-needs-a-guard-8ba46f904378\nComments URL: https://news.ycombinator.com/item?id=49029289\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T00:15:15.823Z",
+    "published": "Thu, 23 Jul 2026 23:09:15 +0000",
+    "processed": true,
+    "processedAt": "2026-07-24T00:18:53.151Z"
+  },
+  {
+    "url": "https://topicqueue.substack.com/p/nvidia-puts-a-4b-world-model-on-the",
+    "title": "Nvidia Puts a 4B World Model on the Robot [Weekly Physical AI Roundup]",
+    "description": "Article URL: https://topicqueue.substack.com/p/nvidia-puts-a-4b-world-model-on-the\nComments URL: https://news.ycombinator.com/item?id=49029199\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T00:15:15.823Z",
+    "published": "Thu, 23 Jul 2026 22:58:24 +0000"
+  },
+  {
+    "url": "https://lieu.house.gov/media-center/press-releases/reps-lieu-and-moran-introduce-bill-require-kill-switch-ai-systems-can",
+    "title": "AI Kill Switch Act: Official Bill Text by Reps. Lieu and Moran (2026)",
+    "description": "Article URL: https://lieu.house.gov/media-center/press-releases/reps-lieu-and-moran-introduce-bill-require-kill-switch-ai-systems-can\nComments URL: https://news.ycombinator.com/item?id=49028757\nPoints: 5\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T00:15:15.823Z",
+    "published": "Thu, 23 Jul 2026 22:12:35 +0000"
+  },
+  {
+    "url": "https://github.com/Amal-David/bookshelf",
+    "title": "Show HN: Bookshelf – book quotes that appear between Claude Code and Codex turns",
+    "description": "This is a small quality of life project i built for myself and using it for 3+ months now, decided to fork it out and publish as a skill separately.Instead of seeing terminals filled with code and tool calls, seeing a book quote felt like a breath of fresh air considering all of us are glued to it",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T00:15:15.823Z",
+    "published": "Thu, 23 Jul 2026 22:06:47 +0000"
+  },
+  {
+    "url": "https://www.coveragecat.com/ai/leaderboard",
+    "title": "Which AI models understand insurance work?",
+    "description": "Article URL: https://www.coveragecat.com/ai/leaderboard\nComments URL: https://news.ycombinator.com/item?id=49028661\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T00:15:15.823Z",
+    "published": "Thu, 23 Jul 2026 22:03:26 +0000"
+  },
+  {
+    "url": "https://www.immaculateconstellation.info/why-ai-challenges-us-part-2-ego-pure-awareness-and-the-illusion-of-ascent/",
+    "title": "Why AI Challenges Us: Ego, Awareness, and the Illusion of Ascent",
+    "description": "Article URL: https://www.immaculateconstellation.info/why-ai-challenges-us-part-2-ego-pure-awareness-and-the-illusion-of-ascent/\nComments URL: https://news.ycombinator.com/item?id=49028581\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T00:15:15.823Z",
+    "published": "Thu, 23 Jul 2026 21:55:42 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2603.22404",
+    "title": "Computational Arbitrage in AI Model Markets via Routing, Finetuning",
+    "description": "Article URL: https://arxiv.org/abs/2603.22404\nComments URL: https://news.ycombinator.com/item?id=49028563\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T00:15:15.823Z",
+    "published": "Thu, 23 Jul 2026 21:53:52 +0000"
+  },
+  {
+    "url": "https://github.com/highflame-ai/ai-factory",
+    "title": "Show HN: AI-factory – a spec-driven pipeline that stops AI agents rotting code",
+    "description": "Article URL: https://github.com/highflame-ai/ai-factory\nComments URL: https://news.ycombinator.com/item?id=49028457\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T00:15:15.823Z",
+    "published": "Thu, 23 Jul 2026 21:45:05 +0000"
+  },
+  {
+    "url": "https://kalytera.dev/",
+    "title": "Kalytera – tells you why your AI agent failed, not just that it did",
+    "description": "Article URL: https://kalytera.dev/\nComments URL: https://news.ycombinator.com/item?id=49028390\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T00:15:15.823Z",
+    "published": "Thu, 23 Jul 2026 21:37:16 +0000"
+  },
+  {
+    "url": "https://www.nextplatform.com/hpc/2026/07/23/doe-fires-the-5-billion-starter-gun-for-its-ai-targeted-genesis-mission/5277061",
+    "title": "DOE Fires the $5B Starter Gun for Its AI-Targeted Genesis Mission",
+    "description": "Article URL: https://www.nextplatform.com/hpc/2026/07/23/doe-fires-the-5-billion-starter-gun-for-its-ai-targeted-genesis-mission/5277061\nComments URL: https://news.ycombinator.com/item?id=49028379\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T00:15:15.823Z",
+    "published": "Thu, 23 Jul 2026 21:36:10 +0000"
+  },
+  {
+    "url": "https://www.svpg.com/the-ai-productivity-paradox/",
+    "title": "The AI Productivity Paradox",
+    "description": "Article URL: https://www.svpg.com/the-ai-productivity-paradox/\nComments URL: https://news.ycombinator.com/item?id=49028368\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T00:15:15.823Z",
+    "published": "Thu, 23 Jul 2026 21:34:22 +0000"
+  },
+  {
+    "url": "https://www.mixfont.com/blog/ai-agents-dont-respect-font-licenses",
+    "title": "AI Agents Don't Respect Font Licenses",
+    "description": "Article URL: https://www.mixfont.com/blog/ai-agents-dont-respect-font-licenses\nComments URL: https://news.ycombinator.com/item?id=49028322\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T00:15:15.823Z",
+    "published": "Thu, 23 Jul 2026 21:30:18 +0000"
+  },
+  {
+    "url": "https://www.axios.com/2026/07/23/mark-zuckerberg-ai-optimism",
+    "title": "Mark Zuckerberg launches AI optimism campaign",
+    "description": "Article URL: https://www.axios.com/2026/07/23/mark-zuckerberg-ai-optimism\nComments URL: https://news.ycombinator.com/item?id=49028170\nPoints: 7\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T00:15:15.823Z",
+    "published": "Thu, 23 Jul 2026 21:17:59 +0000"
+  },
+  {
+    "url": "https://petapixel.com/2026/07/22/dog-photographer-loses-copyright-case-over-ai-generated-comic-version-of-her-image/",
+    "title": "Dog Photographer Loses Copyright Case over AI-Generated Version of Her Image",
+    "description": "Article URL: https://petapixel.com/2026/07/22/dog-photographer-loses-copyright-case-over-ai-generated-comic-version-of-her-image/\nComments URL: https://news.ycombinator.com/item?id=49028152\nPoints: 5\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T00:15:15.823Z",
+    "published": "Thu, 23 Jul 2026 21:15:45 +0000"
+  },
+  {
+    "url": "https://thedailycompute.beehiiv.com/p/google-reportedly-working-on-ultra-efficient-ai-chip-for-gemini",
+    "title": "Google reportedly working on ultra-efficient AI chip for Gemini",
+    "description": "Article URL: https://thedailycompute.beehiiv.com/p/google-reportedly-working-on-ultra-efficient-ai-chip-for-gemini\nComments URL: https://news.ycombinator.com/item?id=49028137\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T00:15:15.823Z",
+    "published": "Thu, 23 Jul 2026 21:13:56 +0000"
+  },
+  {
+    "url": "https://www6.slac.stanford.edu/news/2026-07-22-slac-lead-genesis-mission-ai-project-recover-critical-metals-lithium-ion-battery",
+    "title": "SLAC to lead AI project to recover critical metals from Li-ion battery waste",
+    "description": "Article URL: https://www6.slac.stanford.edu/news/2026-07-22-slac-lead-genesis-mission-ai-project-recover-critical-metals-lithium-ion-battery\nComments URL: https://news.ycombinator.com/item?id=49028117\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-24T00:15:15.823Z",
+    "published": "Thu, 23 Jul 2026 21:12:06 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2222170/patreon-is-laying-off-20-percent-of-its-staff/",
+    "title": "Patreon is laying off 20 percent of its staff",
+    "description": "While the company is trying to protect creators from AI, it still thinks the technology is changing how it does business.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-24T00:15:45.320Z",
+    "published": "Thu, 23 Jul 2026 20:47:15 +0000"
   }
 ]
