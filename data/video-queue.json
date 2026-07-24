@@ -436,9 +436,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-22T17:00:30.441Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-24T21:45:14.813Z"
   },
   {
     "slug": "apache-spark-4-2-breakthroughs",
@@ -458,9 +459,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-22T17:00:30.441Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-24T21:45:29.461Z"
   },
   {
     "slug": "openai-project-camellia-georgia",
@@ -1228,6 +1230,72 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-24T17:14:36.888Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-personality-matters",
+    "title": "3 Reasons AI Personality Matters",
+    "summary": "Cognition's acquisition of Poke reveals a secret to making AI assistants more human-like",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-personality-matters.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-personality-matters.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 539,
+    "tags": [
+      "AI",
+      "Cognition",
+      "Poke",
+      "AI Personality",
+      "Conversational AI"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-24T21:45:02.620Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "anthropic-launches-opus-5",
+    "title": "5X Cheaper: Opus 5 Launched",
+    "summary": "Anthropic's Opus 5 is here, and it's a total breakthrough in AI affordability and accessibility",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/anthropic-launches-opus-5.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/anthropic-launches-opus-5.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 514,
+    "tags": [
+      "Anthropic",
+      "Opus 5",
+      "AI",
+      "Fable",
+      "Tech News"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-24T21:45:02.620Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "organ-preservation-breakthroughs",
+    "title": "3 Breakthroughs in Organ Preservation",
+    "summary": "Scientists are closer to solving the organ shortage crisis with a new technology that keeps organs alive outside the body",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/organ-preservation-breakthroughs.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/organ-preservation-breakthroughs.html",
+    "sourceName": "MIT Tech Review AI",
+    "wordCount": 470,
+    "tags": [
+      "organ preservation",
+      "organ donation",
+      "medical breakthroughs",
+      "AI in medicine",
+      "healthcare innovation"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-24T21:45:02.620Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
