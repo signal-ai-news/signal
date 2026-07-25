@@ -528,9 +528,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-22T17:00:30.441Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-25T15:46:54.506Z"
   },
   {
     "slug": "surgical-devops-ai-execution-protocols",
@@ -550,9 +551,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-22T21:43:51.349Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-25T15:47:04.462Z"
   },
   {
     "slug": "ai-design-signs",
@@ -1320,6 +1322,72 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-25T07:34:35.968Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "openai-ai-keypad-review",
+    "title": "3 Reasons OpenAI's AI Keypad Is A Breakthrough",
+    "summary": "You need to know about OpenAI's new AI keypad, which is set to change the coding game for some, but may leave others baffled",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/openai-ai-keypad-review.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/openai-ai-keypad-review.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 398,
+    "tags": [
+      "OpenAI",
+      "AI Keypad",
+      "Coding Tool",
+      "Tech News",
+      "Artificial Intelligence"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-25T15:46:44.473Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "threadfork-ai-meeting-notes",
+    "title": "3 Reasons threadfork AI Is Essential",
+    "summary": "Discover the breakthrough AI notetaker that's changing the way you take meeting notes, with a proven focus on privacy and security",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/threadfork-ai-meeting-notes.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/threadfork-ai-meeting-notes.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 413,
+    "tags": [
+      "AI",
+      "meeting notes",
+      "privacy",
+      "security",
+      "productivity"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-25T15:46:44.473Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "saga-ai-video-attribution",
+    "title": "3 Ways Saga ID's AI Videos",
+    "summary": "Discover the ultimate tool to identify AI-generated video sources",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/saga-ai-video-attribution.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/saga-ai-video-attribution.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 454,
+    "tags": [
+      "AI",
+      "Video Attribution",
+      "Generative Models",
+      "Saga",
+      "Deep Learning"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-25T15:46:44.473Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
