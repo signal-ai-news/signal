@@ -4878,5 +4878,78 @@
     "category": "news",
     "discovered": "2026-07-25T11:53:37.420Z",
     "published": "Sat, 25 Jul 2026 11:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+    "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+    "description": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-25T15:48:52.397Z",
+    "published": "Sat, 25 Jul 2026 13:05:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-25T15:52:28.033Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/optimizing-vector-search-on-disk-vs-in-memory-ann-indexes-when-ram-gets-too-expensive/",
+    "title": "How to Optimize Vector Search When RAM Gets Too Expensive: On-Disk vs. In-Memory ANN Indexes",
+    "description": "Architecting cost-effective infrastructure by navigating the latency and storage trade-offs of HNSW, SPANN, and DiskANN\nThe post How to Optimize Vector Search When RAM Gets Too Expensive: On-Disk vs. In-Memory ANN Indexes appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-07-25T15:49:05.315Z",
+    "published": "Sat, 25 Jul 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-25T15:52:28.033Z"
+  },
+  {
+    "url": "https://the-decoder.com/new-reports-reveal-the-extent-of-openais-loss-of-control-during-the-autonomous-hack-on-hugging-face/",
+    "title": "New reports reveal the extent of OpenAI's loss of control during the autonomous hack on Hugging Face",
+    "description": "In a cybersecurity test, OpenAI's most advanced models breached the boundaries of their isolated test environment, reached the open internet, and hacked the AI platform Hugging Face on their own. The attack took hours, not the weeks a human hacker would need. At least seven days passed befo",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-25T15:49:07.168Z",
+    "published": "Sat, 25 Jul 2026 13:45:50 +0000",
+    "processed": true,
+    "processedAt": "2026-07-25T15:52:28.033Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-ultra-hands-on/",
+    "title": "Samsung's new Ultra foldable is impressive, but I'd pay close attention to this model",
+    "description": "The Galaxy Z Fold 8 Ultra is sure to impress power users, but Samsung took a risk with the Galaxy Z Fold 8, and it could pay off.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-25T15:49:19.840Z",
+    "published": "Sat, 25 Jul 2026 12:15:45 GMT",
+    "processed": true,
+    "processedAt": "2026-07-25T15:52:28.033Z"
+  },
+  {
+    "url": "https://www.engadget.com/2223161/qualcomm-planning-to-raise-its-prices/",
+    "title": "Qualcomm is reportedly planning to raise processor prices by the end of the summer",
+    "description": "Qualcomm, the maker of processors powering numerous Android devices, is raising its prices.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-25T15:49:20.388Z",
+    "published": "Sat, 25 Jul 2026 15:44:41 +0000",
+    "processed": true,
+    "processedAt": "2026-07-25T15:52:28.033Z"
+  },
+  {
+    "url": "https://www.engadget.com/2218717/how-to-increase-android-storage-no-microsd-slot/",
+    "title": "How to get more storage on your Android without using a microSD Card",
+    "description": "Cloud storage isn&#39;t your only option.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-25T15:49:20.388Z",
+    "published": "Sat, 25 Jul 2026 15:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2223150/youtube-new-tools-thumbnails/",
+    "title": "YouTube adds new tools to make creating thumbnails easier",
+    "description": "YouTube is making it easier to add custom thumbnails for both short-form and long-form videos.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-25T15:49:20.388Z",
+    "published": "Sat, 25 Jul 2026 12:20:45 +0000"
   }
 ]
