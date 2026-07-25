@@ -4425,5 +4425,204 @@
     "category": "news",
     "discovered": "2026-07-24T20:06:44.050Z",
     "published": "Fri, 24 Jul 2026 16:30:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+    "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+    "description": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-25T00:14:49.364Z",
+    "published": "Fri, 24 Jul 2026 22:25:58 +0000",
+    "processed": true,
+    "processedAt": "2026-07-25T00:18:33.390Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49043095",
+    "title": "Claude used my pipeline to find a counterexample to the Jacobian conjecture",
+    "description": "About a month ago, I released under CC0 an implementation of a pipeline I had spent two years developing. It’s the pipeline Claude used to find the counterexample to the Jacobian conjecture. The repository history, public release, discussion with one of the original paper’s authors, and two years o",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T00:15:01.062Z",
+    "published": "Sat, 25 Jul 2026 00:05:49 +0000",
+    "processed": true,
+    "processedAt": "2026-07-25T00:18:33.390Z"
+  },
+  {
+    "url": "https://github.com/Joaoha/Bonsai",
+    "title": "Bonsai – a toolkit for building AI chat apps with branchable conversations",
+    "description": "Article URL: https://github.com/Joaoha/Bonsai\nComments URL: https://news.ycombinator.com/item?id=49043023\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T00:15:01.062Z",
+    "published": "Fri, 24 Jul 2026 23:52:26 +0000",
+    "processed": true,
+    "processedAt": "2026-07-25T00:18:33.390Z"
+  },
+  {
+    "url": "https://onewayinterview.com/",
+    "title": "Show HN: OneWayInterview – type a job role, AI builds the async video interview",
+    "description": "Article URL: https://onewayinterview.com/\nComments URL: https://news.ycombinator.com/item?id=49042922\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T00:15:01.062Z",
+    "published": "Fri, 24 Jul 2026 23:35:36 +0000",
+    "processed": true,
+    "processedAt": "2026-07-25T00:18:33.390Z"
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
+    "title": "Open Weights and American AI Leadership",
+    "description": "Article URL: https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/\nComments URL: https://news.ycombinator.com/item?id=49042884\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T00:15:01.062Z",
+    "published": "Fri, 24 Jul 2026 23:29:30 +0000",
+    "processed": true,
+    "processedAt": "2026-07-25T00:18:33.390Z"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/07/23/amazon-makes-sellers-label-ai-generated-people-in-images-after-ny-law.html",
+    "title": "Amazon cracks down on use of AI images by sellers after New York law",
+    "description": "Article URL: https://www.cnbc.com/2026/07/23/amazon-makes-sellers-label-ai-generated-people-in-images-after-ny-law.html\nComments URL: https://news.ycombinator.com/item?id=49042870\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T00:15:01.062Z",
+    "published": "Fri, 24 Jul 2026 23:28:18 +0000"
+  },
+  {
+    "url": "https://github.com/samchon/lint-plugin-evidence",
+    "title": "Show HN: Evidence Graph – type checking for the specs your AI agent implements",
+    "description": "Article URL: https://github.com/samchon/lint-plugin-evidence\nComments URL: https://news.ycombinator.com/item?id=49042719\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T00:15:01.062Z",
+    "published": "Fri, 24 Jul 2026 23:09:12 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49042653",
+    "title": "Show HN: How well do you use Claude Code?",
+    "description": "A bunch of companies that I spoke to had their own claude & codex OTel dashboards that showed spend + seats per month.However, none of the dashboards actually analyzed how the engineers worked with the tools and if there were any areas for improvement! That's why I created https://www.promptster.ai",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T00:15:01.062Z",
+    "published": "Fri, 24 Jul 2026 23:00:38 +0000"
+  },
+  {
+    "url": "https://lists.debian.org/debian-vote/2026/07/msg00000.html",
+    "title": "GR: Ban LLM Contributions from Debian",
+    "description": "Article URL: https://lists.debian.org/debian-vote/2026/07/msg00000.html\nComments URL: https://news.ycombinator.com/item?id=49042516\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T00:15:01.062Z",
+    "published": "Fri, 24 Jul 2026 22:43:15 +0000"
+  },
+  {
+    "url": "https://lore.link/blog/how-we-built-share",
+    "title": "How to turn Claude Code transcripts into a shareable link",
+    "description": "Article URL: https://lore.link/blog/how-we-built-share\nComments URL: https://news.ycombinator.com/item?id=49042509\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T00:15:01.062Z",
+    "published": "Fri, 24 Jul 2026 22:42:17 +0000"
+  },
+  {
+    "url": "https://github.com/ravsau/wrap",
+    "title": "Wrap – a Claude Code skill that tells you if a session is safe to close",
+    "description": "Article URL: https://github.com/ravsau/wrap\nComments URL: https://news.ycombinator.com/item?id=49042416\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T00:15:01.062Z",
+    "published": "Fri, 24 Jul 2026 22:31:05 +0000"
+  },
+  {
+    "url": "https://kalytera.dev",
+    "title": "Show HN: Kalytera – Find out why your AI agent failed, step-by-step",
+    "description": "Article URL: https://kalytera.dev\nComments URL: https://news.ycombinator.com/item?id=49042370\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T00:15:01.062Z",
+    "published": "Fri, 24 Jul 2026 22:26:07 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=bTwnn-5TpmQ",
+    "title": "AI Bubble: 'The risk is everywhere' – Ed Zitron [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=bTwnn-5TpmQ\nComments URL: https://news.ycombinator.com/item?id=49042262\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T00:15:01.062Z",
+    "published": "Fri, 24 Jul 2026 22:14:26 +0000"
+  },
+  {
+    "url": "https://www.theatlantic.com/technology/2026/07/ai-companies-hiring-academics/688002/",
+    "title": "AI companies stripping universities of their best computer scientists",
+    "description": "Article URL: https://www.theatlantic.com/technology/2026/07/ai-companies-hiring-academics/688002/\nComments URL: https://news.ycombinator.com/item?id=49042252\nPoints: 7\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T00:15:01.062Z",
+    "published": "Fri, 24 Jul 2026 22:13:20 +0000"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
+    "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
+    "description": "Article URL: https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/\nComments URL: https://news.ycombinator.com/item?id=49042205\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T00:15:01.062Z",
+    "published": "Fri, 24 Jul 2026 22:07:06 +0000"
+  },
+  {
+    "url": "https://typepad.cc/",
+    "title": "Typepad: An AI Writing Copilot",
+    "description": "Article URL: https://typepad.cc/\nComments URL: https://news.ycombinator.com/item?id=49041999\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T00:15:01.062Z",
+    "published": "Fri, 24 Jul 2026 21:46:50 +0000"
+  },
+  {
+    "url": "https://www.theregister.com/security/2026/07/23/one-chatgpt-link-could-smuggle-a-rogue-ai-agent-into-your-company/5275116",
+    "title": "One ChatGPT link could smuggle a rogue AI agent into your company",
+    "description": "Article URL: https://www.theregister.com/security/2026/07/23/one-chatgpt-link-could-smuggle-a-rogue-ai-agent-into-your-company/5275116\nComments URL: https://news.ycombinator.com/item?id=49041967\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T00:15:01.062Z",
+    "published": "Fri, 24 Jul 2026 21:43:30 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
+    "title": "Canadian legislator's speech features telltale signs of LLM prompting",
+    "description": "Article URL: https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/\nComments URL: https://news.ycombinator.com/item?id=49041941\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T00:15:01.062Z",
+    "published": "Fri, 24 Jul 2026 21:41:06 +0000"
+  },
+  {
+    "url": "https://gamesbeat.com/network-expert-glenn-fiedler-warns-game-programmers-to-fix-game-code-vulnerabilities-that-ai-can-now-find-exclusive/",
+    "title": "Network expert Glenn Fiedler warns game devs to fix game vulnerabilities with AI",
+    "description": "Article URL: https://gamesbeat.com/network-expert-glenn-fiedler-warns-game-programmers-to-fix-game-code-vulnerabilities-that-ai-can-now-find-exclusive/\nComments URL: https://news.ycombinator.com/item?id=49041863\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T00:15:01.062Z",
+    "published": "Fri, 24 Jul 2026 21:34:39 +0000"
+  },
+  {
+    "url": "https://drewdevault.com/blog/AI-in-Linux/",
+    "title": "AI in Linux",
+    "description": "Article URL: https://drewdevault.com/blog/AI-in-Linux/\nComments URL: https://news.ycombinator.com/item?id=49041851\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T00:15:01.062Z",
+    "published": "Fri, 24 Jul 2026 21:33:34 +0000"
+  },
+  {
+    "url": "https://axiacore.com/blog/ai-is-giving-software-its-quartz-moment-1016/",
+    "title": "AI is giving software its quartz moment",
+    "description": "Article URL: https://axiacore.com/blog/ai-is-giving-software-its-quartz-moment-1016/\nComments URL: https://news.ycombinator.com/item?id=49041745\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T00:15:01.062Z",
+    "published": "Fri, 24 Jul 2026 21:24:04 +0000"
   }
 ]
