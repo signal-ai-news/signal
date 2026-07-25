@@ -482,9 +482,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-22T17:00:30.441Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-25T07:34:44.933Z"
   },
   {
     "slug": "ai-tips-for-software-companies",
@@ -504,9 +505,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-22T17:00:30.441Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-25T07:34:53.127Z"
   },
   {
     "slug": "surround-sound-speaker-channels-explained",
@@ -1296,6 +1298,28 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-24T21:45:02.620Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "build-ai-chat-apps-with-bonsai",
+    "title": "3 Essential AI Chat Apps",
+    "summary": "Discover the ultimate toolkit for building AI chat apps with branchable conversations",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/build-ai-chat-apps-with-bonsai.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/build-ai-chat-apps-with-bonsai.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 350,
+    "tags": [
+      "AI",
+      "chat apps",
+      "Bonsai",
+      "conversational AI",
+      "branchable conversations"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-25T07:34:35.968Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
