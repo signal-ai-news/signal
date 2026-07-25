@@ -4643,5 +4643,240 @@
     "published": "Sat, 25 Jul 2026 00:23:11 +0000",
     "processed": true,
     "processedAt": "2026-07-25T07:49:07.197Z"
+  },
+  {
+    "url": "https://www.chronicle.com/article/the-university-after-ai",
+    "title": "The University After AI",
+    "description": "Article URL: https://www.chronicle.com/article/the-university-after-ai\nComments URL: https://news.ycombinator.com/item?id=49046790\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T11:53:18.060Z",
+    "published": "Sat, 25 Jul 2026 11:47:33 +0000",
+    "processed": true,
+    "processedAt": "2026-07-25T11:56:46.452Z"
+  },
+  {
+    "url": "https://arxiv.org/abs/2511.12834",
+    "title": "Saga: Source Attribution of Generative AI Videos (identifies the model used)",
+    "description": "Article URL: https://arxiv.org/abs/2511.12834\nComments URL: https://news.ycombinator.com/item?id=49046753\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T11:53:18.060Z",
+    "published": "Sat, 25 Jul 2026 11:41:38 +0000",
+    "processed": true,
+    "processedAt": "2026-07-25T11:56:46.452Z"
+  },
+  {
+    "url": "https://github.com/aswinsasi/epistemic_engine",
+    "title": "Epistemic Engine – verify AI-generated code and forecast what will break",
+    "description": "Article URL: https://github.com/aswinsasi/epistemic_engine\nComments URL: https://news.ycombinator.com/item?id=49046728\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T11:53:18.060Z",
+    "published": "Sat, 25 Jul 2026 11:36:02 +0000",
+    "processed": true,
+    "processedAt": "2026-07-25T11:56:46.452Z"
+  },
+  {
+    "url": "https://voxai.ethanflow.com/",
+    "title": "Show HN: Give your AI ears – live meeting transcripts over MCP on macOS",
+    "description": "Article URL: https://voxai.ethanflow.com/\nComments URL: https://news.ycombinator.com/item?id=49046664\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T11:53:18.060Z",
+    "published": "Sat, 25 Jul 2026 11:27:48 +0000",
+    "processed": true,
+    "processedAt": "2026-07-25T11:56:46.452Z"
+  },
+  {
+    "url": "https://github.com/Sanexxxx777/curated-claude-code",
+    "title": "Show HN: Curated Claude Code – a small agent harness with an intake gate",
+    "description": "Article URL: https://github.com/Sanexxxx777/curated-claude-code\nComments URL: https://news.ycombinator.com/item?id=49046592\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T11:53:18.060Z",
+    "published": "Sat, 25 Jul 2026 11:14:36 +0000",
+    "processed": true,
+    "processedAt": "2026-07-25T11:56:46.452Z"
+  },
+  {
+    "url": "https://github.com/mkk2026/agentreg",
+    "title": "Agentreg – DNS for AI agents (self-hosted, single Go binary)",
+    "description": "Article URL: https://github.com/mkk2026/agentreg\nComments URL: https://news.ycombinator.com/item?id=49046554\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T11:53:18.060Z",
+    "published": "Sat, 25 Jul 2026 11:08:55 +0000"
+  },
+  {
+    "url": "https://1password.com/blog/take-control-of-ai-spend-with-saas-manager",
+    "title": "1Password: Take control of AI spend with SaaS Manager",
+    "description": "Article URL: https://1password.com/blog/take-control-of-ai-spend-with-saas-manager\nComments URL: https://news.ycombinator.com/item?id=49046471\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T11:53:18.060Z",
+    "published": "Sat, 25 Jul 2026 10:52:56 +0000"
+  },
+  {
+    "url": "https://ordinarymantrying.com/tools/ai-invest-os.html",
+    "title": "Show HN: Which investing school are you? Free AI diagnostic and Prompt Library",
+    "description": "Show HN: My AI Investment OS – 8 AIs debated investing for 7 experiments, I turned their consensus into a free 5-question diagnostic + Prompt Library\n\nComments URL: https://news.ycombinator.com/item?id=49046469\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T11:53:18.060Z",
+    "published": "Sat, 25 Jul 2026 10:52:22 +0000"
+  },
+  {
+    "url": "https://grigio.org/sandbox-bwrap-nix-a-lightweight-sandbox-for-ai-agents-and-experiments/",
+    "title": "Sandbox-bwrap-Nix: A lightweight sandbox for AI agents and experiments",
+    "description": "Article URL: https://grigio.org/sandbox-bwrap-nix-a-lightweight-sandbox-for-ai-agents-and-experiments/\nComments URL: https://news.ycombinator.com/item?id=49046290\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T11:53:18.060Z",
+    "published": "Sat, 25 Jul 2026 10:17:13 +0000"
+  },
+  {
+    "url": "https://github.com/firasd/mcpclock",
+    "title": "MCP Clock: live public hosted tool for Claude, Codex, any MCP Client",
+    "description": "Article URL: https://github.com/firasd/mcpclock\nComments URL: https://news.ycombinator.com/item?id=49046289\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T11:53:18.060Z",
+    "published": "Sat, 25 Jul 2026 10:17:12 +0000"
+  },
+  {
+    "url": "https://github.com/aleenz1102/AgentState",
+    "title": "Show HN: AgentState – Open-source resilience and caching proxy for AI agents",
+    "description": "Article URL: https://github.com/aleenz1102/AgentState\nComments URL: https://news.ycombinator.com/item?id=49046038\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T11:53:18.060Z",
+    "published": "Sat, 25 Jul 2026 09:30:09 +0000"
+  },
+  {
+    "url": "https://www.getdebug.dev/blog/python-ai-app-prefilters",
+    "title": "Show HN: AI codebase analyser and auto-fixer",
+    "description": "The difference is the mindset shift of \"human-in-the-loop\" approach to debugging. I believe security is so critical that AI should never execute every action end to end.\n\nComments URL: https://news.ycombinator.com/item?id=49045992\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T11:53:18.060Z",
+    "published": "Sat, 25 Jul 2026 09:23:31 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49045970",
+    "title": "Ask HN: Is neuromorphic computing going to replace traditional AI?",
+    "description": "I’ve recently learned about neuromorphic computing while thinking about the core inefficiencies of current deep learning.Today AI relies heavily on super-dense layers, continuous computation of all layers and neurons at all times, and global backpropagation to find optimal weight updates. But when",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T11:53:18.060Z",
+    "published": "Sat, 25 Jul 2026 09:20:28 +0000"
+  },
+  {
+    "url": "https://www.indiehackers.com/post/case-study-ai-trainer-platform-and-job-board-months-1-6-fcb5f25d54",
+    "title": "Case Study: AI Trainer Platform and Job Board [Months 1-6]",
+    "description": "Article URL: https://www.indiehackers.com/post/case-study-ai-trainer-platform-and-job-board-months-1-6-fcb5f25d54\nComments URL: https://news.ycombinator.com/item?id=49045840\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T11:53:18.061Z",
+    "published": "Sat, 25 Jul 2026 08:58:21 +0000"
+  },
+  {
+    "url": "https://www.ai-toolbox.co",
+    "title": "Show HN: AI Toolbox supports Claude Opus 5",
+    "description": "Article URL: https://www.ai-toolbox.co\nComments URL: https://news.ycombinator.com/item?id=49045835\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T11:53:18.061Z",
+    "published": "Sat, 25 Jul 2026 08:57:24 +0000"
+  },
+  {
+    "url": "https://instavm.io/blog/how-code-mode-can-help-smaller-llm-models",
+    "title": "Code mode can help smaller LLM models",
+    "description": "Article URL: https://instavm.io/blog/how-code-mode-can-help-smaller-llm-models\nComments URL: https://news.ycombinator.com/item?id=49045767\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T11:53:18.061Z",
+    "published": "Sat, 25 Jul 2026 08:46:06 +0000"
+  },
+  {
+    "url": "https://www.ft.com/content/bdb3b820-905b-431e-82c0-386535755af1",
+    "title": "Why a philosopher turned down Anthropic (AI industry asking the wrong questions)",
+    "description": "Article URL: https://www.ft.com/content/bdb3b820-905b-431e-82c0-386535755af1\nComments URL: https://news.ycombinator.com/item?id=49045676\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T11:53:18.061Z",
+    "published": "Sat, 25 Jul 2026 08:27:56 +0000"
+  },
+  {
+    "url": "https://github.com/samchon/ttsc/tree/master/packages/graph",
+    "title": "Show HN: TS Compiler Knowledge Graph reducing AI tokens about 90%",
+    "description": "Article URL: https://github.com/samchon/ttsc/tree/master/packages/graph\nComments URL: https://news.ycombinator.com/item?id=49045581\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T11:53:18.061Z",
+    "published": "Sat, 25 Jul 2026 08:13:38 +0000"
+  },
+  {
+    "url": "https://www.debian.org/vote/2026/vote_002",
+    "title": "General Resolution: LLM Usage in Debian",
+    "description": "Article URL: https://www.debian.org/vote/2026/vote_002\nComments URL: https://news.ycombinator.com/item?id=49045540\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-25T11:53:18.061Z",
+    "published": "Sat, 25 Jul 2026 08:06:30 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/opus-5-may-have-solved-browser-based-prompt-injection-the-biggest-security-flaw-haunting-ai-agents/",
+    "title": "Opus 5 may have solved browser-based prompt injection, the biggest security flaw haunting AI agents",
+    "description": "Opus 5 combined with Auto Mode hits a zero percent prompt injection success rate for browser agents across 129 test scenarios. Without those extra protection layers, the rate is 3.7 percent. If these numbers hold up in practice, Anthropic may have cracked one of the biggest security problem",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-25T11:53:24.947Z",
+    "published": "Sat, 25 Jul 2026 10:43:36 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropics-claude-opus-5-costs-well-below-fable-5-while-matching-or-beating-it-across-most-benchmarks/",
+    "title": "Anthropic's Claude Opus 5 costs well below Fable 5 while matching or beating it across most benchmarks",
+    "description": "Anthropic's Claude Opus 5 leads the Artificial Analysis Intelligence Index with 61 points, edging out Claude Fable 5 and GPT-5.6 Sol. The model scores highest in analytical quality and coding, and costs up to half as much as Fable 5 at lower reasoning tiers. But the race at the top remains",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-25T11:53:24.947Z",
+    "published": "Sat, 25 Jul 2026 09:31:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
+    "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
+    "description": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-07-25T11:53:31.137Z",
+    "published": "Sat, 25 Jul 2026 10:30:00 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-ultra-vs-z-fold-7/",
+    "title": "Samsung Galaxy Z Fold 8 Ultra vs. Z Fold 7: How the first 'Ultra' foldable compares to last year's model",
+    "description": "Samsung's new Z Fold 8 Ultra brings design and software changes geared toward power users and enthusiasts.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-25T11:53:36.778Z",
+    "published": "Sat, 25 Jul 2026 10:45:42 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2223141/openai-rogue-agent-days-hacking-spree-reuters/",
+    "title": "OpenAI's rogue agent went on a hacking spree that lasted days, Reuters says",
+    "description": "Reuters reports that the OpenAI agent that hacked Hugging Face had been free for a week before the company noticed.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-25T11:53:37.420Z",
+    "published": "Sat, 25 Jul 2026 11:15:05 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2222862/dinos-with-swords-making-music-gnomes-new-indie-games/",
+    "title": "Dinos with swords, making music with gnomes and other new indie games worth checking out",
+    "description": "Plus, email as turn-based combat (which is really just regular email).",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-25T11:53:37.420Z",
+    "published": "Sat, 25 Jul 2026 11:00:00 +0000"
   }
 ]
