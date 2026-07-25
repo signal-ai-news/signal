@@ -574,9 +574,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-22T21:43:51.349Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-25T20:37:14.178Z"
   },
   {
     "slug": "ai-job-search-mistakes",
@@ -596,9 +597,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-22T21:43:51.349Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-25T20:37:23.418Z"
   },
   {
     "slug": "llm-rl-training-temperature",
@@ -1388,6 +1390,161 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-25T15:46:44.473Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-data-center-disasters",
+    "title": "3 AI Data Center Disasters",
+    "summary": "One fallen power line exposed a shocking truth about AI data centers",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-data-center-disasters.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-data-center-disasters.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 495,
+    "tags": [
+      "AI",
+      "Data Center",
+      "TechCrunch",
+      "Northern Virginia",
+      "Grid Disruptions"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-25T20:36:59.559Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "optimize-vector-search",
+    "title": "3 Breakthrough Ways to Optimize Vector Search",
+    "summary": "Discover how to slash costs and boost performance in your vector search infrastructure",
+    "category": "ML",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/optimize-vector-search.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/optimize-vector-search.html",
+    "sourceName": "Towards Data Science",
+    "wordCount": 506,
+    "tags": [
+      "vector search",
+      "machine learning",
+      "ann indexes",
+      "hnsw",
+      "spann",
+      "diskann"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-25T20:36:59.559Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "qualcomm-price-hike-impact",
+    "title": "3 Reasons Qualcomm Price Hike Matters",
+    "summary": "Qualcomm's processor price increase will affect your next Android device purchase",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/qualcomm-price-hike-impact.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/qualcomm-price-hike-impact.html",
+    "sourceName": "Engadget AI",
+    "wordCount": 455,
+    "tags": [
+      "Qualcomm",
+      "Android",
+      "Processors",
+      "Price Hike",
+      "Tech News"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-25T20:36:59.559Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "avoiding-ai-workshops",
+    "title": "3 Ways to Break Free",
+    "summary": "Librarians are fighting back against Big Tech with 'Avoiding AI' workshops, and you need to know about them",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/avoiding-ai-workshops.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/avoiding-ai-workshops.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 559,
+    "tags": [
+      "AI",
+      "Big Tech",
+      "Librarians",
+      "Workshops",
+      "Digital Literacy"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-25T20:36:59.559Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-transparency-canada",
+    "title": "3 Ways AI Transparency Will Change Canada",
+    "summary": "Canada is calling on citizens to weigh in on the future of AI transparency - here's what you need to know",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-transparency-canada.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-transparency-canada.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 405,
+    "tags": [
+      "AI",
+      "transparency",
+      "Canada",
+      "community",
+      "technology"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-25T20:36:59.559Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-detection-software-review",
+    "title": "3 Essential AI Detectors",
+    "summary": "Don't miss the ultimate guide to detecting AI-generated text with these top tools",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-detection-software-review.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-detection-software-review.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 494,
+    "tags": [
+      "AI",
+      "Detection",
+      "Software",
+      "Tools",
+      "Text Analysis"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-25T20:36:59.559Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-authorization-secrets",
+    "title": "3 Essential AI Authorization Secrets",
+    "summary": "Don't miss the ultimate guide to authorizing AI agents that call MCP servers",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-authorization-secrets.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-authorization-secrets.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 494,
+    "tags": [
+      "AI",
+      "Authorization",
+      "MCP",
+      "Keydris",
+      "Hacker News"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-25T20:36:59.559Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
