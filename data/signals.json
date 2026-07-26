@@ -567,7 +567,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T19:00:55.616Z",
-    "published": "Tue, 21 Jul 2026 18:23:09 +0000"
+    "published": "Tue, 21 Jul 2026 18:23:09 +0000",
+    "processed": true,
+    "processedAt": "2026-07-26T23:50:09.441Z"
   },
   {
     "url": "https://www.youtube.com/watch?v=fk0HVruAWBk",
@@ -576,7 +578,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T19:00:55.616Z",
-    "published": "Tue, 21 Jul 2026 18:22:21 +0000"
+    "published": "Tue, 21 Jul 2026 18:22:21 +0000",
+    "processed": true,
+    "processedAt": "2026-07-26T23:50:09.441Z"
   },
   {
     "url": "https://spyglass.org/google-gemini-fiasco/",
@@ -585,7 +589,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T19:00:55.616Z",
-    "published": "Tue, 21 Jul 2026 18:16:04 +0000"
+    "published": "Tue, 21 Jul 2026 18:16:04 +0000",
+    "processed": true,
+    "processedAt": "2026-07-26T23:50:09.441Z"
   },
   {
     "url": "https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/",
@@ -594,7 +600,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T19:00:55.616Z",
-    "published": "Tue, 21 Jul 2026 18:13:54 +0000"
+    "published": "Tue, 21 Jul 2026 18:13:54 +0000",
+    "processed": true,
+    "processedAt": "2026-07-26T23:50:09.441Z"
   },
   {
     "url": "https://github.com/aido-dev/aido",
@@ -603,7 +611,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T19:00:55.616Z",
-    "published": "Tue, 21 Jul 2026 18:07:06 +0000"
+    "published": "Tue, 21 Jul 2026 18:07:06 +0000",
+    "processed": true,
+    "processedAt": "2026-07-26T23:50:09.441Z"
   },
   {
     "url": "https://github.com/RubricLab/tokenmaxx",
