@@ -5295,5 +5295,240 @@
     "category": "community",
     "discovered": "2026-07-25T23:47:28.803Z",
     "published": "Sat, 25 Jul 2026 20:39:50 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+    "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-26T09:02:01.303Z",
+    "published": "Sun, 26 Jul 2026 01:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-26T09:05:45.365Z"
+  },
+  {
+    "url": "https://old.reddit.com/r/ClaudeCode/comments/1v6y5q2/claude_code_has_a_hardcoded_instruction_telling/",
+    "title": "Claude Code has a hardcoded instruction telling Opus 5 not to use subagents",
+    "description": "Article URL: https://old.reddit.com/r/ClaudeCode/comments/1v6y5q2/claude_code_has_a_hardcoded_instruction_telling/\nComments URL: https://news.ycombinator.com/item?id=49056022\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T09:02:13.449Z",
+    "published": "Sun, 26 Jul 2026 08:45:06 +0000",
+    "processed": true,
+    "processedAt": "2026-07-26T09:05:45.365Z"
+  },
+  {
+    "url": "https://cephalosec.com/blog/the-hidden-cost-of-ai-is-someone-elses-time/",
+    "title": "If you feel the need to tell me your answer is AI-based, work it more",
+    "description": "Article URL: https://cephalosec.com/blog/the-hidden-cost-of-ai-is-someone-elses-time/\nComments URL: https://news.ycombinator.com/item?id=49055896\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T09:02:13.449Z",
+    "published": "Sun, 26 Jul 2026 08:22:48 +0000",
+    "processed": true,
+    "processedAt": "2026-07-26T09:05:45.365Z"
+  },
+  {
+    "url": "https://www.politico.com/news/2026/07/23/house-ai-kill-switch-bill-unveiled-as-openai-hack-raises-alarms-01008898",
+    "title": "House AI 'kill switch' bill unveiled as OpenAI hack raises alarms",
+    "description": "Article URL: https://www.politico.com/news/2026/07/23/house-ai-kill-switch-bill-unveiled-as-openai-hack-raises-alarms-01008898\nComments URL: https://news.ycombinator.com/item?id=49055877\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T09:02:13.449Z",
+    "published": "Sun, 26 Jul 2026 08:18:59 +0000",
+    "processed": true,
+    "processedAt": "2026-07-26T09:05:45.365Z"
+  },
+  {
+    "url": "https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle",
+    "title": "Anthropic secures its AI-native software development lifecycle",
+    "description": "Article URL: https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle\nComments URL: https://news.ycombinator.com/item?id=49055849\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T09:02:13.449Z",
+    "published": "Sun, 26 Jul 2026 08:12:28 +0000",
+    "processed": true,
+    "processedAt": "2026-07-26T09:05:45.365Z"
+  },
+  {
+    "url": "https://github.com/eouzoe/reel",
+    "title": "A protocol for AI agent workspace state and effect management",
+    "description": "Article URL: https://github.com/eouzoe/reel\nComments URL: https://news.ycombinator.com/item?id=49055791\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T09:02:13.449Z",
+    "published": "Sun, 26 Jul 2026 08:02:03 +0000"
+  },
+  {
+    "url": "https://antigma.ai/blog/2026/07/25/short-prompt-small-models",
+    "title": "Claude Code Cut Their System Prompt by 80%. Does That Work for Small Models Too?",
+    "description": "Article URL: https://antigma.ai/blog/2026/07/25/short-prompt-small-models\nComments URL: https://news.ycombinator.com/item?id=49055752\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T09:02:13.449Z",
+    "published": "Sun, 26 Jul 2026 07:54:11 +0000"
+  },
+  {
+    "url": "https://gitroast-kappa.vercel.app/",
+    "title": "Show HN: I built an AI that roasts GitHub profiles",
+    "description": "I built GitHub Roast as a fun weekend project.I originally shared it on X just for fun, but it ended up getting around 1,200 visitors a day, so I kept improving it.I'd love to hear what the HN community thinks—especially if there are ways to make the feedback more useful and less gimmicky.\n\nComment",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T09:02:13.449Z",
+    "published": "Sun, 26 Jul 2026 06:28:24 +0000"
+  },
+  {
+    "url": "https://nymag.com/intelligencer/article/hans-moravec-interview.html",
+    "title": "Hans Moravec was right about AI",
+    "description": "Article URL: https://nymag.com/intelligencer/article/hans-moravec-interview.html\nComments URL: https://news.ycombinator.com/item?id=49055308\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T09:02:13.449Z",
+    "published": "Sun, 26 Jul 2026 06:22:05 +0000"
+  },
+  {
+    "url": "https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai",
+    "title": "Microsoft launches new in-house AI models. Cuts costs up to 89% versus OpenAI",
+    "description": "Article URL: https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai\nComments URL: https://news.ycombinator.com/item?id=49055188\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T09:02:13.449Z",
+    "published": "Sun, 26 Jul 2026 05:59:36 +0000"
+  },
+  {
+    "url": "https://wilburhimself.github.io/blog/64-the-two-sources-of-noise-every-llm-evaluation-system-must-handle/",
+    "title": "The Two Sources of Noise Every LLM Evaluation System Must Handle",
+    "description": "Article URL: https://wilburhimself.github.io/blog/64-the-two-sources-of-noise-every-llm-evaluation-system-must-handle/\nComments URL: https://news.ycombinator.com/item?id=49055170\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T09:02:13.449Z",
+    "published": "Sun, 26 Jul 2026 05:57:24 +0000"
+  },
+  {
+    "url": "https://hydra.uvansa.com/",
+    "title": "Show HN: Hydra, a local-first trust control plane that routes AI by confidence",
+    "description": "Article URL: https://hydra.uvansa.com/\nComments URL: https://news.ycombinator.com/item?id=49055074\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T09:02:13.449Z",
+    "published": "Sun, 26 Jul 2026 05:38:56 +0000"
+  },
+  {
+    "url": "https://kraghavan.ca/llm-infrastructure/inference/2026/04/14/re-introduction-to-inference.html",
+    "title": "Introduction to LLM Inference",
+    "description": "Article URL: https://kraghavan.ca/llm-infrastructure/inference/2026/04/14/re-introduction-to-inference.html\nComments URL: https://news.ycombinator.com/item?id=49054962\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T09:02:13.449Z",
+    "published": "Sun, 26 Jul 2026 05:18:42 +0000"
+  },
+  {
+    "url": "https://kraghavan.ca/llm-infrastructure/evaluation/2026/07/25/llm-as-a-judge-field-guide.html",
+    "title": "LLM-as-a-Judge Field Guide",
+    "description": "Article URL: https://kraghavan.ca/llm-infrastructure/evaluation/2026/07/25/llm-as-a-judge-field-guide.html\nComments URL: https://news.ycombinator.com/item?id=49054953\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T09:02:13.449Z",
+    "published": "Sun, 26 Jul 2026 05:17:30 +0000"
+  },
+  {
+    "url": "https://old.reddit.com/r/ClaudeAI/comments/1v6fiyj/you_can_view_a_lot_of_shared_conversations_via/",
+    "title": "You can view a lot of Claude shared conversations via Google",
+    "description": "Article URL: https://old.reddit.com/r/ClaudeAI/comments/1v6fiyj/you_can_view_a_lot_of_shared_conversations_via/\nComments URL: https://news.ycombinator.com/item?id=49054782\nPoints: 6\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T09:02:13.449Z",
+    "published": "Sun, 26 Jul 2026 04:38:09 +0000"
+  },
+  {
+    "url": "https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html",
+    "title": "MIT to become hotbed of AI video surveillance",
+    "description": "Article URL: https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html\nComments URL: https://news.ycombinator.com/item?id=49054638\nPoints: 15\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T09:02:13.449Z",
+    "published": "Sun, 26 Jul 2026 04:07:54 +0000"
+  },
+  {
+    "url": "https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate",
+    "title": "DOE announces first Genesis Mission projects for AI-driven scientific discovery",
+    "description": "Article URL: https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate\nComments URL: https://news.ycombinator.com/item?id=49054396\nPoints: 5\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T09:02:13.449Z",
+    "published": "Sun, 26 Jul 2026 03:26:50 +0000"
+  },
+  {
+    "url": "https://danluu.com/ai-coding/",
+    "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding",
+    "description": "Article URL: https://danluu.com/ai-coding/\nComments URL: https://news.ycombinator.com/item?id=49054268\nPoints: 12\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T09:02:13.449Z",
+    "published": "Sun, 26 Jul 2026 03:02:17 +0000"
+  },
+  {
+    "url": "https://github.com/avenna01-ceo/claude-code-survival-kr",
+    "title": "Show HN: Rules that stop AI coding agents from breaking working code",
+    "description": "Article URL: https://github.com/avenna01-ceo/claude-code-survival-kr\nComments URL: https://news.ycombinator.com/item?id=49054070\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T09:02:13.449Z",
+    "published": "Sun, 26 Jul 2026 02:30:44 +0000"
+  },
+  {
+    "url": "https://fortune.com/2026/07/24/apple-ai-memory-chip-price-increases/",
+    "title": "NYU Stern pricing expert: The hidden 'AI tax' hitting your next phone",
+    "description": "Article URL: https://fortune.com/2026/07/24/apple-ai-memory-chip-price-increases/\nComments URL: https://news.ycombinator.com/item?id=49053809\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T09:02:13.449Z",
+    "published": "Sun, 26 Jul 2026 01:49:50 +0000"
+  },
+  {
+    "url": "https://fortune.com/2026/07/23/hobart-amazon-data-center-community-benefits/",
+    "title": "The hidden cost of AI: Why your town is negotiating with Amazon and Microsoft",
+    "description": "Article URL: https://fortune.com/2026/07/23/hobart-amazon-data-center-community-benefits/\nComments URL: https://news.ycombinator.com/item?id=49053787\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T09:02:13.449Z",
+    "published": "Sun, 26 Jul 2026 01:47:31 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides/",
+    "title": "Hundreds asked ChatGPT for poison and bioweapon recipes and some got step-by-step high school level guides",
+    "description": "In summer 2025, OpenAI internally flagged GPT-5 as high-risk because it helped users create biological hazards, but downgraded the model's risk rating that fall. According to the Wall Street Journal, some users got step-by-step instructions for making poisons and biological weapons. Hundred",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-26T09:02:20.791Z",
+    "published": "Sun, 26 Jul 2026 08:35:49 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/us-reportedly-favors-selective-bans-over-blanket-restrictions-on-chinese-open-weight-models-citing-security-concerns/",
+    "title": "US reportedly favors selective bans over blanket restrictions on Chinese open weight models citing security concerns",
+    "description": "The Trump administration is planning targeted bans on Chinese AI models rather than a blanket ban. After public pressure, OpenAI and Google DeepMind signed an open letter opposing regulation of open-weight models, yet OpenAI and Anthropic continue to lobby privately for those same restricti",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-26T09:02:20.791Z",
+    "published": "Sun, 26 Jul 2026 07:56:24 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/the-ai-coding-tutor-paradox-grows-as-educators-scramble-to-rethink-how-they-test-real-skills/",
+    "title": "The AI coding tutor paradox grows as educators scramble to rethink how they test real skills",
+    "description": "An ACM survey of 763 computer science educators from 49 countries shows that 68 percent have already changed their exams because of AI, shifting toward oral exams, proctored tests, and project-based work. Teaching is moving from writing code to understanding it. But nearly half of responden",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-26T09:02:20.791Z",
+    "published": "Sun, 26 Jul 2026 06:59:56 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/galaxy-z-fold-8-ultra-vs-motorola-razr-ultra-comparison/",
+    "title": "Samsung Galaxy Z Fold 8 Ultra vs. Motorola Razr Ultra: How Samsung fares against its foldable rival",
+    "description": "Samsung isn't the only brand with flagship foldables. Here's how it compares to Motorola's Razr Ultra - one of my favorite phones of the year.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-26T09:02:34.573Z",
+    "published": "Sun, 26 Jul 2026 08:00:40 GMT"
   }
 ]
