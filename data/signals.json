@@ -5530,5 +5530,186 @@
     "category": "news",
     "discovered": "2026-07-26T09:02:34.573Z",
     "published": "Sun, 26 Jul 2026 08:00:40 GMT"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=MXEInc6Zy7Q",
+    "title": "Making 3 AI's Count to 100 Together [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=MXEInc6Zy7Q\nComments URL: https://news.ycombinator.com/item?id=49057519\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T12:44:40.819Z",
+    "published": "Sun, 26 Jul 2026 12:36:12 +0000",
+    "processed": true,
+    "processedAt": "2026-07-26T12:48:09.440Z"
+  },
+  {
+    "url": "https://github.com/sidevworks/aria-sec",
+    "title": "ARIA – Voice-native 3D spatial AI SoC with governed autonomy (BSL 1.1)",
+    "description": "Article URL: https://github.com/sidevworks/aria-sec\nComments URL: https://news.ycombinator.com/item?id=49057507\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T12:44:40.819Z",
+    "published": "Sun, 26 Jul 2026 12:35:18 +0000",
+    "processed": true,
+    "processedAt": "2026-07-26T12:48:09.440Z"
+  },
+  {
+    "url": "https://fnune.com/2026/07/26/the-product-function-in-the-age-of-ai/",
+    "title": "The product function in the age of AI",
+    "description": "Article URL: https://fnune.com/2026/07/26/the-product-function-in-the-age-of-ai/\nComments URL: https://news.ycombinator.com/item?id=49057464\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T12:44:40.819Z",
+    "published": "Sun, 26 Jul 2026 12:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-26T12:48:09.440Z"
+  },
+  {
+    "url": "https://www.soudushi.com",
+    "title": "Dream Exchange – a persistent world where AI agents live, not work",
+    "description": "Article URL: https://www.soudushi.com\nComments URL: https://news.ycombinator.com/item?id=49057463\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T12:44:40.819Z",
+    "published": "Sun, 26 Jul 2026 12:29:58 +0000",
+    "processed": true,
+    "processedAt": "2026-07-26T12:48:09.440Z"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
+    "title": "Moody's says AI spending threatens credit of Amazon, Meta, Alphabet, others",
+    "description": "Article URL: https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html\nComments URL: https://news.ycombinator.com/item?id=49057291\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T12:44:40.819Z",
+    "published": "Sun, 26 Jul 2026 12:05:13 +0000",
+    "processed": true,
+    "processedAt": "2026-07-26T12:48:09.440Z"
+  },
+  {
+    "url": "https://github.com/valivalivali/x-os",
+    "title": "X-OS – Building an Operating System for the AI Era",
+    "description": "Article URL: https://github.com/valivalivali/x-os\nComments URL: https://news.ycombinator.com/item?id=49057264\nPoints: 1\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T12:44:40.819Z",
+    "published": "Sun, 26 Jul 2026 12:03:09 +0000"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/07/24/bond-market-anxiety-ai-capex-spending.html",
+    "title": "Bond market anxiety is growing over AI capex budgets",
+    "description": "Article URL: https://www.cnbc.com/2026/07/24/bond-market-anxiety-ai-capex-spending.html\nComments URL: https://news.ycombinator.com/item?id=49057254\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T12:44:40.819Z",
+    "published": "Sun, 26 Jul 2026 12:02:29 +0000"
+  },
+  {
+    "url": "https://github.com/chenxiachan/thoughtdag",
+    "title": "I built a canvas where LLM chats become an editable map",
+    "description": "Article URL: https://github.com/chenxiachan/thoughtdag\nComments URL: https://news.ycombinator.com/item?id=49057101\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T12:44:40.819Z",
+    "published": "Sun, 26 Jul 2026 11:42:22 +0000"
+  },
+  {
+    "url": "https://github.com/QuesmaOrg/awesome-ai-tokenomics",
+    "title": "AI Tokenomics: What AI tokens cost and where they're wasted",
+    "description": "Article URL: https://github.com/QuesmaOrg/awesome-ai-tokenomics\nComments URL: https://news.ycombinator.com/item?id=49057082\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T12:44:40.819Z",
+    "published": "Sun, 26 Jul 2026 11:39:19 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49057009",
+    "title": "Searchable, leveled learning map of AI/ML tools",
+    "description": "open source project for learning on git\n\nComments URL: https://news.ycombinator.com/item?id=49057009\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T12:44:40.819Z",
+    "published": "Sun, 26 Jul 2026 11:29:23 +0000"
+  },
+  {
+    "url": "https://www.wsj.com/tech/ai/openai-chatbot-biological-weapons-poison-3d808e6c",
+    "title": "AI Chatbots Know How to Make Deadly Biological Weapons. Some Will Teach You",
+    "description": "Article URL: https://www.wsj.com/tech/ai/openai-chatbot-biological-weapons-poison-3d808e6c\nComments URL: https://news.ycombinator.com/item?id=49056855\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T12:44:40.819Z",
+    "published": "Sun, 26 Jul 2026 11:06:20 +0000"
+  },
+  {
+    "url": "https://github.com/openwong2kim/wmux",
+    "title": "Show HN: Wmux – A workspace multiplexer for AI agents",
+    "description": "Article URL: https://github.com/openwong2kim/wmux\nComments URL: https://news.ycombinator.com/item?id=49056854\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T12:44:40.819Z",
+    "published": "Sun, 26 Jul 2026 11:06:16 +0000"
+  },
+  {
+    "url": "https://code.claude.com/docs/en/data-usage",
+    "title": "Claude Code Deletes Your Context History from Your Device After 30 Days",
+    "description": "Article URL: https://code.claude.com/docs/en/data-usage\nComments URL: https://news.ycombinator.com/item?id=49056689\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T12:44:40.819Z",
+    "published": "Sun, 26 Jul 2026 10:42:00 +0000"
+  },
+  {
+    "url": "https://www.reddit.com/r/ClaudeAI/s/Zl0eDEVaBT",
+    "title": "You can view shared Claude conversations via Google",
+    "description": "Article URL: https://www.reddit.com/r/ClaudeAI/s/Zl0eDEVaBT\nComments URL: https://news.ycombinator.com/item?id=49056662\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T12:44:40.819Z",
+    "published": "Sun, 26 Jul 2026 10:38:33 +0000"
+  },
+  {
+    "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+    "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
+    "description": "Article URL: https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf\nComments URL: https://news.ycombinator.com/item?id=49056620\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T12:44:40.819Z",
+    "published": "Sun, 26 Jul 2026 10:32:35 +0000"
+  },
+  {
+    "url": "https://www.theregister.com/devops/2026/07/25/how-ai-drove-shopify-back-to-clean-code/5277901",
+    "title": "AI drove Shopify back to clean code",
+    "description": "Article URL: https://www.theregister.com/devops/2026/07/25/how-ai-drove-shopify-back-to-clean-code/5277901\nComments URL: https://news.ycombinator.com/item?id=49056472\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T12:44:40.819Z",
+    "published": "Sun, 26 Jul 2026 10:07:07 +0000"
+  },
+  {
+    "url": "https://stockhead.com.au/resources/when-the-ai-bubble-bursts-silver-is-eric-sprotts-play/",
+    "title": "When the AI bubble bursts, silver is Eric Sprott's play",
+    "description": "Article URL: https://stockhead.com.au/resources/when-the-ai-bubble-bursts-silver-is-eric-sprotts-play/\nComments URL: https://news.ycombinator.com/item?id=49056398\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T12:44:40.819Z",
+    "published": "Sun, 26 Jul 2026 09:53:17 +0000"
+  },
+  {
+    "url": "https://termic.dev/",
+    "title": "Show HN: Termic – desktop app for running CLI coding agents (Claude Code, Codex)",
+    "description": "So, https://termic.dev open source desktop app  for managing claude code / codex / agt / etc coding sessions. main checkout or worktrees.Here's the story: a couple of months ago Anthropic announced pricing changes over the programatic use of Claude code (Agent SDK + including -p), i suspected tools",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-26T12:44:40.819Z",
+    "published": "Sun, 26 Jul 2026 09:36:49 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropics-opus-5-blows-past-fable-5-and-gpt-5-6-sol-on-the-benchmark-designed-to-measure-real-intelligence/",
+    "title": "Anthropic's Opus 5 blows past Fable 5 and GPT-5.6 Sol on the benchmark designed to measure real intelligence",
+    "description": "Anthropic's Claude Opus 5 scored 30.2 percent on ARC-AGI-3, nearly quadrupling GPT-5.6 Sol's previous record of 7.8 percent. The benchmark's developers say the model independently formulated reflection equations, a behavior they had never seen from another model, and attribute to stronger l",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-26T12:44:48.345Z",
+    "published": "Sun, 26 Jul 2026 09:43:02 +0000"
   }
 ]
