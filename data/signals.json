@@ -556,7 +556,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T19:00:55.616Z",
-    "published": "Tue, 21 Jul 2026 18:28:29 +0000"
+    "published": "Tue, 21 Jul 2026 18:28:29 +0000",
+    "processed": true,
+    "processedAt": "2026-07-26T16:34:50.836Z"
   },
   {
     "url": "https://news.ycombinator.com/item?id=48996104",
@@ -5711,5 +5713,49 @@
     "category": "news",
     "discovered": "2026-07-26T12:44:48.345Z",
     "published": "Sun, 26 Jul 2026 09:43:02 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-efficiently-prompt-claude-code/",
+    "title": "How to Efficiently Prompt Claude Code",
+    "description": "Maximize your efficiency with Claude Code\nThe post How to Efficiently Prompt Claude Code appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-07-26T16:31:27.352Z",
+    "published": "Sun, 26 Jul 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-26T16:34:50.836Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/giving-an-llm-agent-a-browser/",
+    "title": "How to Give an LLM Agent a Browser",
+    "description": "Building a browser-use agent with OpenAI Agents SDK and Playwright MCP\nThe post How to Give an LLM Agent a Browser appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-07-26T16:31:27.352Z",
+    "published": "Sun, 26 Jul 2026 13:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-26T16:34:50.836Z"
+  },
+  {
+    "url": "https://the-decoder.com/cursors-agent-swarm-suggests-cheaper-models-can-handle-most-coding-when-frontier-models-plan-the-work/",
+    "title": "Cursor's agent swarm suggests cheaper models can handle most coding when frontier models plan the work",
+    "description": "Cursor asked its upgraded agent swarm and its predecessor to rebuild SQLite in Rust using only the documentation, with no source code or internet access. Every configuration of the new system, which separates planners from workers, eventually scored 100 percent on the test suite. The old sw",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-26T16:31:29.200Z",
+    "published": "Sun, 26 Jul 2026 15:09:11 +0000",
+    "processed": true,
+    "processedAt": "2026-07-26T16:34:50.836Z"
+  },
+  {
+    "url": "https://www.engadget.com/2218722/macbook-air-missing-fan-reason-why/",
+    "title": "The reason why the MacBook Air doesn't need a fan",
+    "description": "Apple Silicon delivers enough performance without overheating.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-26T16:31:41.628Z",
+    "published": "Sun, 26 Jul 2026 13:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-26T16:34:50.836Z"
   }
 ]
