@@ -666,9 +666,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-22T21:43:51.349Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-26T15:48:18.243Z"
   },
   {
     "slug": "jack-dorsey-launches-buzz-ai-team-chat",
@@ -688,9 +689,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-22T21:43:51.349Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-26T15:48:27.059Z"
   },
   {
     "slug": "travis-kalanick-ai-robotics-company-raises-1-7b",
@@ -1569,6 +1571,94 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-26T08:00:03.034Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-layoffs-tech-companies",
+    "title": "20 Tech Giants Hit by AI Layoffs",
+    "summary": "Monday.com joins 19 other tech companies blaming AI for major layoffs - here's what you need to know",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-layoffs-tech-companies.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-layoffs-tech-companies.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 378,
+    "tags": [
+      "AI",
+      "Layoffs",
+      "Tech Companies",
+      "Monday.com",
+      "Job Market"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-26T15:48:05.923Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-red-flags-you-need-to-know",
+    "title": "3 AI Red Flags",
+    "summary": "Don't let AI undermine your credibility - here's what you need to know",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-red-flags-you-need-to-know.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-red-flags-you-need-to-know.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 446,
+    "tags": [
+      "AI",
+      "artificial intelligence",
+      "machine learning",
+      "credibility",
+      "communication"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-26T15:48:05.923Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-kill-switch-bill-unveiled",
+    "title": "3 AI Fears You Should Know",
+    "summary": "A new bill aims to regulate AI with a 'kill switch' - but is it enough?",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-kill-switch-bill-unveiled.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-kill-switch-bill-unveiled.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 384,
+    "tags": [
+      "AI",
+      "Kill Switch",
+      "OpenAI",
+      "Regulation",
+      "Cybersecurity"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-26T15:48:05.923Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "three-ai-counting-breakthrough",
+    "title": "3 AI's Count to 100",
+    "summary": "Watch as three AI models work together to count to 100 in a remarkable display of artificial intelligence",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/three-ai-counting-breakthrough.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/three-ai-counting-breakthrough.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 450,
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Tech",
+      "Innovation"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-26T15:48:05.923Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
