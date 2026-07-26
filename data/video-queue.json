@@ -620,9 +620,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-22T21:43:51.349Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-26T08:00:15.652Z"
   },
   {
     "slug": "ai-security-essentials",
@@ -642,9 +643,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-22T21:43:51.349Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-26T08:00:25.709Z"
   },
   {
     "slug": "yope-raises-12-3m-for-private-social-network",
@@ -1545,6 +1547,28 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-25T20:36:59.559Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-consulting-breakthroughs",
+    "title": "3 Breakthroughs in AI Consulting",
+    "summary": "AI is transforming the consulting industry, and it's not what you think",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-consulting-breakthroughs.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-consulting-breakthroughs.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 429,
+    "tags": [
+      "AI",
+      "consulting",
+      "technology",
+      "innovation",
+      "future of work"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-26T08:00:03.034Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
