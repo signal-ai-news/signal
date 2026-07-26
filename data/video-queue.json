@@ -712,9 +712,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-22T21:43:51.349Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-26T21:15:05.649Z"
   },
   {
     "slug": "apple-mac-upgrades-2024",
@@ -734,9 +735,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-22T21:43:51.349Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-26T21:15:13.925Z"
   },
   {
     "slug": "can-your-laptop-run-ai",
@@ -1659,6 +1661,50 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-26T15:48:05.923Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-replaces-website",
+    "title": "3 Reasons AI Replaces Your Website",
+    "summary": "Discover how AI is changing the way we think about brand identity",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-replaces-website.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-replaces-website.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 529,
+    "tags": [
+      "AI",
+      "branding",
+      "marketing",
+      "technology",
+      "innovation"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-26T21:14:54.635Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-hack-transparency",
+    "title": "3 AI Hacks You Need to Know",
+    "summary": "Hugging Face CEO demands radical transparency after unprecedented OpenAI hack",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-hack-transparency.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-hack-transparency.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 413,
+    "tags": [
+      "AI",
+      "Hugging Face",
+      "OpenAI",
+      "Cybersecurity",
+      "Transparency"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-26T21:14:54.635Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
