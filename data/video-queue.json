@@ -758,9 +758,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-22T21:43:51.349Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-27T12:40:14.946Z"
   },
   {
     "slug": "ai-film-director-breakthrough",
@@ -780,9 +781,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-22T21:43:51.349Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-27T12:40:24.758Z"
   },
   {
     "slug": "ai-gateway-ultimate-guide",
@@ -1705,6 +1707,94 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-26T21:14:54.635Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "halo-v2-7-ai-security-breakthroughs",
+    "title": "3 Breakthroughs in Halo v2.7",
+    "summary": "Don't miss the essential updates in Halo v2.7 that are changing AI security forever",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/halo-v2-7-ai-security-breakthroughs.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/halo-v2-7-ai-security-breakthroughs.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 378,
+    "tags": [
+      "AI Security",
+      "Halo v2.7",
+      "MCP Tool Engine",
+      "Binary Resolution",
+      "AI Architecture"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-27T12:40:05.035Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-data-centers-forcing-homeowners-out",
+    "title": "3 Reasons AI Data Centers Are Forcing Homeowners Out",
+    "summary": "Georgia homeowners are being displaced to make way for AI data centers, and it's a trend that's spreading fast",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-data-centers-forcing-homeowners-out.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-data-centers-forcing-homeowners-out.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 607,
+    "tags": [
+      "AI",
+      "data centers",
+      "homeowners",
+      "Georgia",
+      "displacement"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-27T12:40:05.035Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "google-ai-unification",
+    "title": "3 AI Clans Google Needs to Unite",
+    "summary": "Google's AI fiasco exposes a deeper issue: fragmented teams",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/google-ai-unification.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/google-ai-unification.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 544,
+    "tags": [
+      "Google",
+      "AI",
+      "Machine Learning",
+      "Tech",
+      "Innovation"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-27T12:40:05.035Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "us-army-ai-tokens",
+    "title": "3 AI Secrets",
+    "summary": "The U.S. Army is burning through its AI tokens at an alarming rate, but what does it mean for you?",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/us-army-ai-tokens.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/us-army-ai-tokens.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 466,
+    "tags": [
+      "AI",
+      "US Army",
+      "Technology",
+      "Innovation",
+      "Machine Learning"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-27T12:40:05.035Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
