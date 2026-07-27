@@ -6310,5 +6310,96 @@
     "category": "news",
     "discovered": "2026-07-27T18:16:38.589Z",
     "published": "Mon, 27 Jul 2026 14:30:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+    "description": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-27T22:33:07.324Z",
+    "published": "Mon, 27 Jul 2026 21:17:11 +0000",
+    "processed": true,
+    "processedAt": "2026-07-27T22:36:50.519Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+    "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+    "description": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-27T22:33:07.324Z",
+    "published": "Mon, 27 Jul 2026 20:19:42 +0000",
+    "processed": true,
+    "processedAt": "2026-07-27T22:36:50.519Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+    "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+    "description": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-27T22:33:07.324Z",
+    "published": "Mon, 27 Jul 2026 18:32:11 +0000",
+    "processed": true,
+    "processedAt": "2026-07-27T22:36:50.519Z"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+    "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+    "description": "Microsoft says tools cost less than competing ones and outperform them, too.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-07-27T22:33:08.281Z",
+    "published": "Mon, 27 Jul 2026 21:56:14 +0000",
+    "processed": true,
+    "processedAt": "2026-07-27T22:36:50.519Z"
+  },
+  {
+    "url": "https://the-decoder.com/moonshot-ai-releases-kimi-k3-open-weights-and-infrastructure-after-shaking-up-the-frontier-model-race/",
+    "title": "Moonshot AI releases Kimi K3 open weights and infrastructure after shaking up the frontier model race",
+    "description": "Moonshot AI has released Kimi K3's model weights and made parts of its infrastructure open source. The Chinese model nearly matches Western frontier models such as Fable 5 and GPT-5.6 Sol on popular benchmarks, but independent tests found major gaps in cyber and math performance, possibly p",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-27T22:33:22.104Z",
+    "published": "Mon, 27 Jul 2026 19:35:08 +0000",
+    "processed": true,
+    "processedAt": "2026-07-27T22:36:50.519Z"
+  },
+  {
+    "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs/",
+    "title": "OpenAI says more workers are using ChatGPT to do other people's jobs",
+    "description": "OpenAI analyzed over 800,000 work-related ChatGPT messages and found that 43.5 percent of job-specific queries involve tasks from other professions. The company calls this \"task crossover.\" The trend is most pronounced at small businesses, where users increasingly handle specialized work wi",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-27T22:33:22.104Z",
+    "published": "Mon, 27 Jul 2026 19:08:51 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/microsoft-launches-its-own-cybersecurity-model-mai-cyber-1-flash-but-still-depends-on-openai-for-the-toughest-tasks/",
+    "title": "Microsoft launches its own cybersecurity model MAI-Cyber-1-Flash but still depends on OpenAI for the toughest tasks",
+    "description": "Microsoft introduces MAI-Cyber-1-Flash, a compact security model that scores 96 percent on the CyberGym benchmark when embedded in its MDASH multi-agent system. Microsoft says costs should drop by 50 percent compared to pure frontier models, since only tough cases get passed to GPT-5.4. For",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-27T22:33:22.104Z",
+    "published": "Mon, 27 Jul 2026 18:50:07 +0000"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
+    "title": "The harness is all you need (mostly)",
+    "description": "A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool.\nThe post The harness is all you need (mostly) appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-07-27T22:33:27.718Z",
+    "published": "Mon, 27 Jul 2026 18:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
+    "title": "Private Claude Chats Exposed in Google and Bing Search Results",
+    "description": "The screwup shows how tricky it can be to stop web crawlers from making ostensibly private conversations with AI chatbots entirely too public.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-07-27T22:33:28.991Z",
+    "published": "Mon, 27 Jul 2026 20:08:00 +0000"
   }
 ]
