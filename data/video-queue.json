@@ -804,9 +804,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-22T21:43:51.349Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-27T21:49:16.272Z"
   },
   {
     "slug": "anthropic-1-5b-piracy-settlement",
@@ -826,9 +827,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-22T21:43:51.349Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-27T21:49:26.311Z"
   },
   {
     "slug": "yubikey-5-8-verified-authorization",
@@ -1795,6 +1797,116 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-27T12:40:05.035Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "brain-waves-physical-ai",
+    "title": "3 Brain Wave Breakthroughs",
+    "summary": "Unlock the ultimate potential of physical AI with brain wave readings",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/brain-waves-physical-ai.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/brain-waves-physical-ai.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 536,
+    "tags": [
+      "AI",
+      "Physical AI",
+      "Brain Waves",
+      "TechCrunch",
+      "Innovation"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-27T21:49:05.826Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "nuclear-breakthroughs-lasers-organ-preservation",
+    "title": "3 Nuclear Breakthroughs",
+    "summary": "Discover how lasers and organ preservation are transforming nuclear fuel and medicine",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/nuclear-breakthroughs-lasers-organ-preservation.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/nuclear-breakthroughs-lasers-organ-preservation.html",
+    "sourceName": "MIT Tech Review AI",
+    "wordCount": 489,
+    "tags": [
+      "nuclear fuel",
+      "lasers",
+      "organ preservation",
+      "MIT Tech Review",
+      "nuclear reactors"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-27T21:49:05.826Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "path-to-artificial-superintelligence",
+    "title": "3 Steps to AI Superintelligence",
+    "summary": "Imagine a healthcare system where AI agents work together seamlessly, transforming patient care forever",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/path-to-artificial-superintelligence.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/path-to-artificial-superintelligence.html",
+    "sourceName": "MIT Tech Review AI",
+    "wordCount": 616,
+    "tags": [
+      "AI",
+      "Artificial Intelligence",
+      "Healthcare",
+      "Superintelligence",
+      "MIT Tech Review"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-27T21:49:05.826Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "meta-ai-threads-dms",
+    "title": "3 Reasons Meta AI DMs Are a Breakthrough",
+    "summary": "You can now chat with Meta AI in Threads' DMs - here's what you need to know",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/meta-ai-threads-dms.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/meta-ai-threads-dms.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 372,
+    "tags": [
+      "Meta AI",
+      "Threads",
+      "AI chatbot",
+      "DMs",
+      "tech news"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-27T21:49:05.826Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-search-takes-center-stage",
+    "title": "3 Reasons AI Search Is Taking Over",
+    "summary": "Google's AI Overviews now dominate 43% of searches, but what does this mean for you?",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-search-takes-center-stage.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-search-takes-center-stage.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 473,
+    "tags": [
+      "AI search",
+      "Google",
+      "AI Overviews",
+      "search engine",
+      "tech news"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-27T21:49:05.826Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
