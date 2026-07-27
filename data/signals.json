@@ -5984,5 +5984,132 @@
     "category": "news",
     "discovered": "2026-07-26T20:18:44.166Z",
     "published": "Sun, 26 Jul 2026 20:15:08 +0000"
+  },
+  {
+    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "title": "How AI is expanding what people do at work",
+    "description": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-07-27T12:41:17.911Z",
+    "published": "Mon, 27 Jul 2026 03:30:00 GMT",
+    "processed": true,
+    "processedAt": "2026-07-27T12:45:02.091Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-07-27T12:41:20.039Z",
+    "published": "Mon, 27 Jul 2026 09:32:20 GMT",
+    "processed": true,
+    "processedAt": "2026-07-27T12:45:02.091Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+    "title": "Are brain waves the next unlock for physical AI?",
+    "description": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-27T12:41:21.157Z",
+    "published": "Mon, 27 Jul 2026 00:19:14 +0000",
+    "processed": true,
+    "processedAt": "2026-07-27T12:45:02.091Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
+    "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How lasers could help provide fuel for nuclear reactors&#160; Nuclear power provides about 9% of global electricity today, and that fraction could tic",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-07-27T12:41:22.269Z",
+    "published": "Mon, 27 Jul 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-27T12:45:02.091Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+    "title": "The path to artificial superintelligence",
+    "description": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-07-27T12:41:22.269Z",
+    "published": "Mon, 27 Jul 2026 12:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-27T12:45:02.091Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+    "title": "Closing the data loop in AI-driven drug discovery",
+    "description": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-07-27T12:41:22.269Z",
+    "published": "Mon, 27 Jul 2026 11:40:16 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+    "title": "Building the enterprise environment for agentic AI",
+    "description": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, p",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-07-27T12:41:22.269Z",
+    "published": "Mon, 27 Jul 2026 11:32:58 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-i-reproduced-bm25-dense-retrieval-and-splade-on-a-16gb-macbook/",
+    "title": "How I Reproduced BM25, Dense Retrieval, and SPLADE on a 16GB MacBook",
+    "description": "A practical reproduction of three retrieval baselines, including the crashes, fixes, and score checks that matter for RAG systems.\nThe post How I Reproduced BM25, Dense Retrieval, and SPLADE on a 16GB MacBook appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-07-27T12:41:39.037Z",
+    "published": "Mon, 27 Jul 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/metr-introduces-a-new-metric-to-calculate-exactly-when-ai-agents-become-more-expensive-than-humans/",
+    "title": "METR introduces a new metric to calculate exactly when AI agents become more expensive than humans",
+    "description": "METR's new metric, the \"expenditure horizon,\" puts a dollar figure on how cost-effective AI agents are at solving problems. Early results on the NanoGPT speedrun are underwhelming, the metric has blind spots, and the newest generation of models could change the picture.\nThe article METR int",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-27T12:41:40.886Z",
+    "published": "Mon, 27 Jul 2026 12:28:06 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/shared-claude-chats-were-reportedly-showing-up-in-search-engines/",
+    "title": "Shared Claude chats were reportedly showing up in search engines",
+    "description": "Shared conversations with Anthropic's Claude chatbot briefly appeared in Google search results because the pages lacked a noindex tag. Users said some chats contained crypto keys and legal questions. OpenAI made the same mistake last year.\nThe article Shared Claude chats were reportedly sho",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-27T12:41:40.886Z",
+    "published": "Mon, 27 Jul 2026 07:51:16 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
+    "title": "This Is Donald Trump’s AI Brain Trust",
+    "description": "“It’s not an argument with two sides, it’s an argument with 10 sides,” one senior administration official tells WIRED about how US AI policy is being shaped.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-07-27T12:41:47.328Z",
+    "published": "Mon, 27 Jul 2026 10:00:00 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/how-would-ai-data-centers-in-space-even-work-a-former-nasa-robotics-chief-explains/",
+    "title": "How would AI data centers in space even work? A former NASA robotics chief explains",
+    "description": "'You collect electricity in space, and you eject heat in space. The only thing that comes to Earth is data.'",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-27T12:41:53.859Z",
+    "published": "Mon, 27 Jul 2026 12:05:41 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2223796/nvidia-launches-open-securte-ai-alliance-initiative-to-improve-cyber-defense/",
+    "title": "NVIDIA launches 'Open Secure AI Alliance' initiative to improve cyber defense",
+    "description": "NVIDIA has gathered together some of the biggest tech companies in the world to form the Open Secure AI Alliance with the aim to improve cybersecurity.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-27T12:41:54.433Z",
+    "published": "Mon, 27 Jul 2026 10:39:52 +0000"
   }
 ]
