@@ -6609,5 +6609,411 @@
     "category": "news",
     "discovered": "2026-07-28T08:03:13.735Z",
     "published": "Tue, 28 Jul 2026 05:30:00 +0000"
+  },
+  {
+    "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+    "title": "5 ways AI Mode in Search helps you enjoy the real world",
+    "description": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-07-28T15:55:56.772Z",
+    "published": "Tue, 28 Jul 2026 13:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-28T15:59:38.662Z"
+  },
+  {
+    "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+    "title": "5 ways to host the ultimate dinner party with Google Search",
+    "description": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-07-28T15:55:56.772Z",
+    "published": "Tue, 28 Jul 2026 13:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-28T15:59:38.662Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-07-28T15:55:57.447Z",
+    "published": "Tue, 28 Jul 2026 15:01:45 GMT",
+    "processed": true,
+    "processedAt": "2026-07-28T15:59:38.662Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+    "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+    "description": "Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-28T15:55:58.551Z",
+    "published": "Tue, 28 Jul 2026 14:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-28T15:59:38.662Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+    "title": "Recursive Superintelligence signs $410 million compute deal with Amazon",
+    "description": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-28T15:55:58.551Z",
+    "published": "Tue, 28 Jul 2026 13:19:17 +0000",
+    "processed": true,
+    "processedAt": "2026-07-28T15:59:38.662Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+    "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.&#160; —Will Douglas Heaven, senior AI editor Reading OpenAI’s account",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-07-28T15:55:59.712Z",
+    "published": "Tue, 28 Jul 2026 12:10:00 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+    "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+    "description": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips w",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-07-28T15:55:59.712Z",
+    "published": "Tue, 28 Jul 2026 09:18:57 +0000"
+  },
+  {
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/it-sounds-like-someone-set-up-a-vacuum-like-in-your-living-room-michigan-residents-sue-ai-data-center-emitting-noise-24-7-company-fined-for-industrial-noise-ordinance-violations-offers-to-buy-homes-from-residents",
+    "title": "'It sounds like someone set up a vacuum ': Michigan residents sue AI DC",
+    "description": "Article URL: https://www.tomshardware.com/tech-industry/data-centers/it-sounds-like-someone-set-up-a-vacuum-like-in-your-living-room-michigan-residents-sue-ai-data-center-emitting-noise-24-7-company-fined-for-industrial-noise-ordinance-violations-offers-to-buy-homes-from-residents\nComments URL: htt",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T15:56:08.472Z",
+    "published": "Tue, 28 Jul 2026 15:53:42 +0000"
+  },
+  {
+    "url": "https://ai-killchain.airwars.org",
+    "title": "Anatomy of an AI Kill Chain – Airwars X AI Now Institute",
+    "description": "Article URL: https://ai-killchain.airwars.org\nComments URL: https://news.ycombinator.com/item?id=49085612\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T15:56:08.472Z",
+    "published": "Tue, 28 Jul 2026 15:43:36 +0000"
+  },
+  {
+    "url": "https://www.theguardian.com/world/2026/jul/28/spies-in-sky-worried-ai-enabled-smart-lamp-posts-surveillance",
+    "title": "Spies in the sky: how worried should we be about AI-enabled smart lamp-posts?",
+    "description": "Article URL: https://www.theguardian.com/world/2026/jul/28/spies-in-sky-worried-ai-enabled-smart-lamp-posts-surveillance\nComments URL: https://news.ycombinator.com/item?id=49085603\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T15:56:08.472Z",
+    "published": "Tue, 28 Jul 2026 15:43:12 +0000"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/",
+    "title": "An opinionated guide to which AI to use to do stuff",
+    "description": "Article URL: https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/\nComments URL: https://news.ycombinator.com/item?id=49085594\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T15:56:08.472Z",
+    "published": "Tue, 28 Jul 2026 15:42:41 +0000"
+  },
+  {
+    "url": "https://nutaan.com/",
+    "title": "Show HN: Nutaan – AI-powered voice calling assistant and live chat widget",
+    "description": "Article URL: https://nutaan.com/\nComments URL: https://news.ycombinator.com/item?id=49085591\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T15:56:08.472Z",
+    "published": "Tue, 28 Jul 2026 15:42:32 +0000"
+  },
+  {
+    "url": "https://vectorise.me/developers",
+    "title": "Vectorise.me – image-to-SVG API with an MCP server for AI agents",
+    "description": "Article URL: https://vectorise.me/developers\nComments URL: https://news.ycombinator.com/item?id=49085515\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T15:56:08.472Z",
+    "published": "Tue, 28 Jul 2026 15:37:18 +0000"
+  },
+  {
+    "url": "https://www.datadoghq.com/blog/ai/ai-security-detection-pipeline/",
+    "title": "Investigate every security event with an AI agent, without the frontier bill",
+    "description": "Article URL: https://www.datadoghq.com/blog/ai/ai-security-detection-pipeline/\nComments URL: https://news.ycombinator.com/item?id=49085472\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T15:56:08.472Z",
+    "published": "Tue, 28 Jul 2026 15:34:17 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49085375",
+    "title": "SOTA on the hardest AI memory benchmark (BEAM, 10M tokens), with a smaller model",
+    "description": "Hey HN. I'm Johnny, founder of Exabase. We just hit the highest reported score on BEAM, the hardest AI memory benchmark, at every scale up to 10 million tokens. We also ran our evaluation using Gemini 3 Flash, when all previous leaders depended on a much larger model (Gemini 3 Pro).At 10M tokens, t",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T15:56:08.472Z",
+    "published": "Tue, 28 Jul 2026 15:27:19 +0000"
+  },
+  {
+    "url": "https://www.latimes.com/business/story/2026-07-27/spacex-at-100-could-mean-investors-see-zero-value-in-its-ai",
+    "title": "SpaceX at $100 could mean investors see zero value in its AI",
+    "description": "Article URL: https://www.latimes.com/business/story/2026-07-27/spacex-at-100-could-mean-investors-see-zero-value-in-its-ai\nComments URL: https://news.ycombinator.com/item?id=49085356\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T15:56:08.472Z",
+    "published": "Tue, 28 Jul 2026 15:25:58 +0000"
+  },
+  {
+    "url": "https://charliebecker.substack.com/p/is-an-ai-company-buying-up-all-the",
+    "title": "Is an AI company buying up all the used books? (I don't think so, not this time)",
+    "description": "Article URL: https://charliebecker.substack.com/p/is-an-ai-company-buying-up-all-the\nComments URL: https://news.ycombinator.com/item?id=49085321\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T15:56:08.472Z",
+    "published": "Tue, 28 Jul 2026 15:23:37 +0000"
+  },
+  {
+    "url": "https://chromewebstore.google.com/detail/redev-â-ai-chat-assistant/ojiiafcaodjlfegglkfgokgebgcfdjia",
+    "title": "Redev – AI chat assistant for React DevTools",
+    "description": "Article URL: https://chromewebstore.google.com/detail/redev-â-ai-chat-assistant/ojiiafcaodjlfegglkfgokgebgcfdjia\nComments URL: https://news.ycombinator.com/item?id=49085274\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T15:56:08.472Z",
+    "published": "Tue, 28 Jul 2026 15:20:13 +0000"
+  },
+  {
+    "url": "https://Ellasworlds.com",
+    "title": "Ella, an AI friend with an inner life that runs while you're away",
+    "description": "Article URL: https://Ellasworlds.com\nComments URL: https://news.ycombinator.com/item?id=49085234\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T15:56:08.472Z",
+    "published": "Tue, 28 Jul 2026 15:17:29 +0000"
+  },
+  {
+    "url": "https://github.com/higgscli/higgs",
+    "title": "Show HN: Higgs, a local AI CLI for Proton Mail (no cloud, no telemetry)",
+    "description": "Article URL: https://github.com/higgscli/higgs\nComments URL: https://news.ycombinator.com/item?id=49085191\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T15:56:08.472Z",
+    "published": "Tue, 28 Jul 2026 15:15:07 +0000"
+  },
+  {
+    "url": "https://www.theatlantic.com/ideas/2026/07/ai-automation-productivity-workers/688083/",
+    "title": "Automation Led to Economic Misery. AI Doesn't Have To",
+    "description": "Article URL: https://www.theatlantic.com/ideas/2026/07/ai-automation-productivity-workers/688083/\nComments URL: https://news.ycombinator.com/item?id=49085118\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T15:56:08.472Z",
+    "published": "Tue, 28 Jul 2026 15:10:07 +0000"
+  },
+  {
+    "url": "https://bertrandmeyer.com/2026/07/21/questions-and-answers-on-ai-and-verification-a-follow-up-to-my-may-acm-tech-talk/",
+    "title": "Questions and answers on AI and verification: follow-up to my May ACM Tech Talk",
+    "description": "Article URL: https://bertrandmeyer.com/2026/07/21/questions-and-answers-on-ai-and-verification-a-follow-up-to-my-may-acm-tech-talk/\nComments URL: https://news.ycombinator.com/item?id=49085108\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T15:56:08.472Z",
+    "published": "Tue, 28 Jul 2026 15:09:26 +0000"
+  },
+  {
+    "url": "https://permanym.com",
+    "title": "Show HN: Permanym – for hiring teams overwhelmed by AI resume spam",
+    "description": "Employers are facing a growing wave of automated AI submissions, fake applications, and low-effort spam. It’s not unusual for recruiters and hiring managers to receive thousands of resumes within hours of posting a job. Qualified candidates can easily get drowned out by all the noise.Permanym bring",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T15:56:08.472Z",
+    "published": "Tue, 28 Jul 2026 15:05:55 +0000"
+  },
+  {
+    "url": "https://pluralistic.net/2026/07/28/hitl-ers/",
+    "title": "Discernment: Fact-check an AI teaching you something you don't understand?",
+    "description": "Article URL: https://pluralistic.net/2026/07/28/hitl-ers/\nComments URL: https://news.ycombinator.com/item?id=49085039\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T15:56:08.472Z",
+    "published": "Tue, 28 Jul 2026 15:04:23 +0000"
+  },
+  {
+    "url": "https://www.lucebox.com/blog/deepseek-v4-strix-halo",
+    "title": "DeepSeek V4 Flash, up to 32 tok/s on AMD Ryzen AI MAX+ 395",
+    "description": "Article URL: https://www.lucebox.com/blog/deepseek-v4-strix-halo\nComments URL: https://news.ycombinator.com/item?id=49085014\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T15:56:08.472Z",
+    "published": "Tue, 28 Jul 2026 15:03:04 +0000"
+  },
+  {
+    "url": "https://hbr.org/2026/07/research-why-some-junior-employees-work-well-with-ai-and-others-dont",
+    "title": "Research: Why Some Junior Employees Work Well with AI–and Others Don't",
+    "description": "Article URL: https://hbr.org/2026/07/research-why-some-junior-employees-work-well-with-ai-and-others-dont\nComments URL: https://news.ycombinator.com/item?id=49085006\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T15:56:08.472Z",
+    "published": "Tue, 28 Jul 2026 15:02:22 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/mcp-explained-how-modern-ai-agents-connect-to-the-real-world/",
+    "title": "MCP Explained: How Modern AI Agents Connect to the Real World",
+    "description": "from custom integrations to a universal standard for tool access\nThe post MCP Explained: How Modern AI Agents Connect to the Real World appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-07-28T15:56:14.388Z",
+    "published": "Tue, 28 Jul 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/dont-just-throw-adam-at-it-misunderstanding-adam-will-cost-you/",
+    "title": "Don’t Just “Throw Adam at It”: Misunderstanding Adam Will Cost You",
+    "description": "You \"vibe coded\" the import. Understand Adam's optimization dynamics, why it fails spectacularly, and how to fix it.\nThe post Don’t Just “Throw Adam at It”: Misunderstanding Adam Will Cost You appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-07-28T15:56:14.388Z",
+    "published": "Tue, 28 Jul 2026 13:30:00 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/backpropagation-explained-for-beginners-part-2-there-has-to-be-a-better-way/",
+    "title": "Backpropagation Explained for Beginners (Part 2): There Has to Be a Better Way",
+    "description": "The idea that makes backpropagation possible.\nThe post Backpropagation Explained for Beginners (Part 2): There Has to Be a Better Way appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-07-28T15:56:14.388Z",
+    "published": "Tue, 28 Jul 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/taiwan-detains-nvidia-employee-in-widening-china-chip-smuggling-probe/",
+    "title": "Taiwan detains Nvidia employee in widening China chip smuggling probe",
+    "description": "Taiwan's prosecutors have detained an Nvidia employee in connection with the alleged illegal export of Super Micro AI servers to China, according to Bloomberg and Reuters.\nThe article Taiwan detains Nvidia employee in widening China chip smuggling probe appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-28T15:56:16.556Z",
+    "published": "Tue, 28 Jul 2026 13:15:43 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/nvidia-invests-in-ilya-sutskevers-ai-lab-shifting-ssi-away-from-google-chips/",
+    "title": "Nvidia invests in Ilya Sutskever's AI lab, shifting SSI away from Google chips",
+    "description": "Nvidia is pouring what it calls a \"substantial\" sum into Safe Superintelligence (SSI), the AI lab run by Ilya Sutskever, OpenAI's former chief scientist. \nThe article Nvidia invests in Ilya Sutskever&#039;s AI lab, shifting SSI away from Google chips appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-28T15:56:16.556Z",
+    "published": "Tue, 28 Jul 2026 13:06:35 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-ceo-amodei-doubles-down-on-open-weight-risk-stance-while-insisting-he-never-called-for-a-ban/",
+    "title": "Anthropic CEO Amodei doubles down on open-weight risk stance while insisting he never called for a ban",
+    "description": "Anthropic CEO Dario Amodei is once again warning about the risks of open AI models while insisting he has never called for a ban. He argues that authoritarian states like China could overtake the US and that open models could be misused for biological or cyberattacks. Critics say he's mostl",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-28T15:56:16.556Z",
+    "published": "Tue, 28 Jul 2026 12:06:42 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
+    "title": "Can the New York Times Save Journalism From Our AI Overlords?",
+    "description": "In 2023, the Times sued OpenAI and Microsoft for copyright infringement. They’ve since spent more than $20 million on the case, and publisher A.G. Sulzberger has no plans to stop fighting it.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-07-28T15:56:22.899Z",
+    "published": "Tue, 28 Jul 2026 10:30:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
+    "title": "Silicon Valley’s Next IPO Billionaires Are Coming. Nonprofits Are Ready for Them",
+    "description": "Anthropic and OpenAI employees are expected to give generously after their companies go public. “It’s going to be a wild ride,” says one nonprofit leader.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-07-28T15:56:22.899Z",
+    "published": "Tue, 28 Jul 2026 10:00:00 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/apples-ios-26-6-siri-ai/",
+    "title": "Why Apple's iOS 26.6 is worth installing (it's not just for the 91 security fixes)",
+    "description": "The latest update preps your phone for the new and improved Siri AI set to debut with iOS 27.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-28T15:56:29.223Z",
+    "published": "Tue, 28 Jul 2026 13:59:33 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/token-maxing-ai-cost-sink-use-agents-without-busting-budget/",
+    "title": "Token-maxing is an AI cost sink - how to use agents without busting your budget",
+    "description": "Professionals are burning through tokens, but smart business leaders are finding ways to balance costs and value creation.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-28T15:56:29.223Z",
+    "published": "Tue, 28 Jul 2026 13:44:44 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/youve-been-using-your-power-bank-wrong-and-airline-rules-make-that-obvious/",
+    "title": "You've been using your power bank wrong, and airline rules make that obvious",
+    "description": "Many of the things you're not allowed to do on an aircraft are things you shouldn't be doing at all.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-28T15:56:29.223Z",
+    "published": "Tue, 28 Jul 2026 12:44:37 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/aio-launcher-is-the-coolest-minimal-launcher/",
+    "title": "AIO Launcher is one of the coolest minimal Android launchers I've used - and it's free",
+    "description": "A minimal Android launcher can simplify your phone interactions, but simple doesn't have to mean boring.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-28T15:56:29.223Z",
+    "published": "Tue, 28 Jul 2026 12:16:20 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2220914/swimming-headphones-what-makes-different-from-regular/",
+    "title": "Swimming headphones: What makes them so different from regular headphones?",
+    "description": "Why can't I just wear my AirPods in the pool?",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-28T15:56:29.775Z",
+    "published": "Tue, 28 Jul 2026 15:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2222509/echo-dot-max-vs-echo-dot-differences-between-amazon-devices/",
+    "title": "What's the difference between Amazon's Echo Dot and Echo Dot Max?",
+    "description": "Better bass and a much newer processor are the main differences between the old Echo Dot and the newer Echo Dot Max.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-28T15:56:29.775Z",
+    "published": "Tue, 28 Jul 2026 14:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2224690/motorola-launches-indigenous-collections-app-for-language-and-cultural-preservation/",
+    "title": "Motorola launches Indigenous Collections app for language and cultural preservation",
+    "description": "The free Android app shares knowledge from members of the Rainy Lake Ojibwe community.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-28T15:56:29.775Z",
+    "published": "Tue, 28 Jul 2026 13:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2224899/hugging-face-reportedly-plagued-with-deepfakes/",
+    "title": "Hugging Face reportedly plagued with AI models generating adult deepfakes",
+    "description": "Researchers investigating Hugging Face found the majority of its models would generate non-consensual deepfakes.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-28T15:56:29.775Z",
+    "published": "Tue, 28 Jul 2026 11:22:27 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2224882/lyft-and-baidu-start-testing-robotaxis-in-london/",
+    "title": "Lyft and Baidu start testing robotaxis in London",
+    "description": "As it promised last year, Baidu has started testing its robotaxis in London along with partners Lyft and Freenow.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-28T15:56:29.775Z",
+    "published": "Tue, 28 Jul 2026 10:04:49 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2224867/chatgpt-refusing-to-write-in-famous-authors-styles/",
+    "title": "ChatGPT is now refusing requests to write in famous authors' styles",
+    "description": "ChatGPT has been refusing to imitate the writing of famous authors, both living and dead.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-28T15:56:29.775Z",
+    "published": "Tue, 28 Jul 2026 09:05:25 +0000"
   }
 ]
