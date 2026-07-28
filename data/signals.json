@@ -6401,5 +6401,213 @@
     "category": "news",
     "discovered": "2026-07-27T22:33:28.991Z",
     "published": "Mon, 27 Jul 2026 20:08:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+    "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+    "description": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-28T08:02:47.689Z",
+    "published": "Tue, 28 Jul 2026 04:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-28T08:06:28.857Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+    "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+    "description": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-28T08:02:47.689Z",
+    "published": "Tue, 28 Jul 2026 00:13:33 +0000",
+    "processed": true,
+    "processedAt": "2026-07-28T08:06:28.857Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49080775",
+    "title": "Tell HN: Our paid Claude AI subscription unavailable >1 week and no support",
+    "description": "Dear all,our team is using a Claude AI Team plan for more than 1 year already:- we are a normal company, doing normal business, nothing critical- all our bills are paid and we can see them as paid- nontheless, the service is not available for more than one week to usQuestion:- any other idea to rea",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T08:02:59.822Z",
+    "published": "Tue, 28 Jul 2026 08:00:19 +0000",
+    "processed": true,
+    "processedAt": "2026-07-28T08:06:28.857Z"
+  },
+  {
+    "url": "https://videolens.cc/zh/landing",
+    "title": "Show HN: Reverse-engineer viral videos into AI-ready shot breakdowns",
+    "description": "Article URL: https://videolens.cc/zh/landing\nComments URL: https://news.ycombinator.com/item?id=49080617\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T08:02:59.822Z",
+    "published": "Tue, 28 Jul 2026 07:38:32 +0000",
+    "processed": true,
+    "processedAt": "2026-07-28T08:06:28.857Z"
+  },
+  {
+    "url": "https://theconversation.com/cracking-the-code-can-ai-help-us-decipher-ancient-languages-288238",
+    "title": "Cracking the code: can AI help us decipher ancient languages?",
+    "description": "Article URL: https://theconversation.com/cracking-the-code-can-ai-help-us-decipher-ancient-languages-288238\nComments URL: https://news.ycombinator.com/item?id=49080321\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T08:02:59.822Z",
+    "published": "Tue, 28 Jul 2026 06:59:35 +0000",
+    "processed": true,
+    "processedAt": "2026-07-28T08:06:28.857Z"
+  },
+  {
+    "url": "https://blog.nilenso.com/blog/2026/05/18/evals-before-prompts-building-an-llm-ocr-for-kyc/",
+    "title": "Evals before prompts: building an LLM OCR for KYC",
+    "description": "Article URL: https://blog.nilenso.com/blog/2026/05/18/evals-before-prompts-building-an-llm-ocr-for-kyc/\nComments URL: https://news.ycombinator.com/item?id=49080308\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T08:02:59.822Z",
+    "published": "Tue, 28 Jul 2026 06:58:01 +0000"
+  },
+  {
+    "url": "https://apnews.com/article/ai-token-openai-anthropic-corporate-31bb80ac1cd7862d05f6397177d826b1",
+    "title": "AI 'tokenmaxxing' fades as workplaces look to cut tech spending",
+    "description": "Article URL: https://apnews.com/article/ai-token-openai-anthropic-corporate-31bb80ac1cd7862d05f6397177d826b1\nComments URL: https://news.ycombinator.com/item?id=49080248\nPoints: 8\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T08:02:59.822Z",
+    "published": "Tue, 28 Jul 2026 06:48:53 +0000"
+  },
+  {
+    "url": "https://github.com/burakgon/ai-usage-menubar",
+    "title": "Show HN: AI Usage – Native macOS Menu Bar for Claude Code and Codex Limits",
+    "description": "Article URL: https://github.com/burakgon/ai-usage-menubar\nComments URL: https://news.ycombinator.com/item?id=49080227\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T08:02:59.822Z",
+    "published": "Tue, 28 Jul 2026 06:43:05 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49080135",
+    "title": "Ask HN: How to rewrite `Claude.md` and install the skill for Opus5 and Fable5",
+    "description": "Anthropic has released the new Opus 5 and Fable 5 models. Many existing resources—such as `claude.md` files and custom skills—are no longer compatible with these new models. How should one rewrite or adjust `claude.md`, or develop skills better suited to these models?\n\nComments URL: https://news.yc",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T08:02:59.822Z",
+    "published": "Tue, 28 Jul 2026 06:29:39 +0000"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5",
+    "title": "Prompting Claude Opus 5",
+    "description": "Article URL: https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5\nComments URL: https://news.ycombinator.com/item?id=49080129\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T08:02:59.822Z",
+    "published": "Tue, 28 Jul 2026 06:29:08 +0000"
+  },
+  {
+    "url": "https://github.com/haror1/answerwatch",
+    "title": "Answerwatch – Track changes in what AI models recommend",
+    "description": "Article URL: https://github.com/haror1/answerwatch\nComments URL: https://news.ycombinator.com/item?id=49080095\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T08:02:59.822Z",
+    "published": "Tue, 28 Jul 2026 06:23:51 +0000"
+  },
+  {
+    "url": "https://medium.com/@DolphinDB_Inc/real-time-decision-making-how-ai-and-low-latency-computing-are-reshaping-digital-twins-1e54bcd59c07",
+    "title": "How AI and Low-Latency Computing Are Reshaping Digital Twins",
+    "description": "Article URL: https://medium.com/@DolphinDB_Inc/real-time-decision-making-how-ai-and-low-latency-computing-are-reshaping-digital-twins-1e54bcd59c07\nComments URL: https://news.ycombinator.com/item?id=49080067\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T08:02:59.822Z",
+    "published": "Tue, 28 Jul 2026 06:18:02 +0000"
+  },
+  {
+    "url": "https://github.com/incyashraj/krate",
+    "title": "Show HN: Krate, AI-made apps as permissioned files for Mac, Windows, and Linux",
+    "description": "Article URL: https://github.com/incyashraj/krate\nComments URL: https://news.ycombinator.com/item?id=49079924\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T08:02:59.822Z",
+    "published": "Tue, 28 Jul 2026 05:53:57 +0000"
+  },
+  {
+    "url": "https://www.science.org/content/article/how-i-use-ai-my-geology-research-without-losing-science-i-love",
+    "title": "How I use AI in my geology research without losing the science I love",
+    "description": "Article URL: https://www.science.org/content/article/how-i-use-ai-my-geology-research-without-losing-science-i-love\nComments URL: https://news.ycombinator.com/item?id=49079892\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T08:02:59.822Z",
+    "published": "Tue, 28 Jul 2026 05:48:54 +0000"
+  },
+  {
+    "url": "https://twitter.com/anshuc/status/2081801966158811506",
+    "title": "Space exploration game made using Claude Opus 5",
+    "description": "Article URL: https://twitter.com/anshuc/status/2081801966158811506\nComments URL: https://news.ycombinator.com/item?id=49079830\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T08:02:59.822Z",
+    "published": "Tue, 28 Jul 2026 05:38:34 +0000"
+  },
+  {
+    "url": "https://twitter.com/robertvaradan/status/2078234518549311855",
+    "title": "AI Makes Starting Games Easier. Finishing Is Still Hard",
+    "description": "Article URL: https://twitter.com/robertvaradan/status/2078234518549311855\nComments URL: https://news.ycombinator.com/item?id=49079827\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T08:02:59.822Z",
+    "published": "Tue, 28 Jul 2026 05:37:57 +0000"
+  },
+  {
+    "url": "https://github.com/Zhangdroid/drever",
+    "title": "Show HN: Drever – AI-first MDX presentations with expressive motion",
+    "description": "Article URL: https://github.com/Zhangdroid/drever\nComments URL: https://news.ycombinator.com/item?id=49079741\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T08:02:59.822Z",
+    "published": "Tue, 28 Jul 2026 05:27:14 +0000"
+  },
+  {
+    "url": "https://vibotify.com/",
+    "title": "Vibotify – Talk to 300 AI experts, one for every profession",
+    "description": "Article URL: https://vibotify.com/\nComments URL: https://news.ycombinator.com/item?id=49079729\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T08:02:59.822Z",
+    "published": "Tue, 28 Jul 2026 05:25:43 +0000"
+  },
+  {
+    "url": "https://construct.computer/blog/how-to-choose-an-ai-agent-platform-for-your-team/",
+    "title": "How to choose an AI Agent platform for your team",
+    "description": "Article URL: https://construct.computer/blog/how-to-choose-an-ai-agent-platform-for-your-team/\nComments URL: https://news.ycombinator.com/item?id=49079699\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T08:02:59.822Z",
+    "published": "Tue, 28 Jul 2026 05:22:03 +0000"
+  },
+  {
+    "url": "https://www.today.com/parents/family/professor-catches-ai-cheating-hidden-word-rcna589421",
+    "title": "Professor Created a Trap in His Midterm to Catch Students Using AI",
+    "description": "Article URL: https://www.today.com/parents/family/professor-catches-ai-cheating-hidden-word-rcna589421\nComments URL: https://news.ycombinator.com/item?id=49079602\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T08:02:59.822Z",
+    "published": "Tue, 28 Jul 2026 05:08:24 +0000"
+  },
+  {
+    "url": "https://orchard-dashboard.pages.dev/landing",
+    "title": "Show HN: Orchard – Let AI agents set up your app's back end with one prompt",
+    "description": "Article URL: https://orchard-dashboard.pages.dev/landing\nComments URL: https://news.ycombinator.com/item?id=49079523\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T08:02:59.822Z",
+    "published": "Tue, 28 Jul 2026 04:54:40 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
+    "title": "Hugging Face Has a Deepfake Nudes Problem",
+    "description": "Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes—and 1,000 image editing prompts show how people use the software.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-07-28T08:03:13.735Z",
+    "published": "Tue, 28 Jul 2026 05:30:00 +0000"
   }
 ]
