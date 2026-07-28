@@ -7015,5 +7015,321 @@
     "category": "news",
     "discovered": "2026-07-28T15:56:29.775Z",
     "published": "Tue, 28 Jul 2026 09:05:25 +0000"
+  },
+  {
+    "url": "https://openai.com/index/scientific-computing-agentic-ai",
+    "title": "Scientific computing in the age of agentic AI",
+    "description": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-07-28T20:37:44.889Z",
+    "published": "Tue, 28 Jul 2026 17:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-07-28T20:41:27.885Z"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+    "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+    "description": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-07-28T20:37:46.454Z",
+    "published": "Tue, 28 Jul 2026 16:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-28T20:41:27.885Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-07-28T20:37:47.131Z",
+    "published": "Tue, 28 Jul 2026 16:27:42 GMT",
+    "processed": true,
+    "processedAt": "2026-07-28T20:41:27.885Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-07-28T20:37:47.131Z",
+    "published": "Mon, 27 Jul 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-07-28T20:41:27.885Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=8DYF-ReeAtY",
+    "title": "Jacob Tsimerman on Competition, AI, and the Future of Mathematics [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=8DYF-ReeAtY\nComments URL: https://news.ycombinator.com/item?id=49089554\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T20:38:00.885Z",
+    "published": "Tue, 28 Jul 2026 20:33:53 +0000",
+    "processed": true,
+    "processedAt": "2026-07-28T20:41:27.885Z"
+  },
+  {
+    "url": "https://github.com/melsayedx/learning-mode",
+    "title": "Show HN: Learning Mode – Claude refuses to write code",
+    "description": "Article URL: https://github.com/melsayedx/learning-mode\nComments URL: https://news.ycombinator.com/item?id=49089416\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T20:38:00.885Z",
+    "published": "Tue, 28 Jul 2026 20:21:34 +0000"
+  },
+  {
+    "url": "https://runtimewire.com/article/google-cloud-page-describes-gemini-distillation-service-but-its-release-status-i",
+    "title": "Google Cloud page describes Gemini distillation service?",
+    "description": "Article URL: https://runtimewire.com/article/google-cloud-page-describes-gemini-distillation-service-but-its-release-status-i\nComments URL: https://news.ycombinator.com/item?id=49089408\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T20:38:00.885Z",
+    "published": "Tue, 28 Jul 2026 20:21:05 +0000"
+  },
+  {
+    "url": "https://forta.com/blog/ai-in-the-classroom-part-2-the-fears-real-and-imagined",
+    "title": "AI in the Classroom, Part 2: The Fears, Real and Imagined",
+    "description": "Article URL: https://forta.com/blog/ai-in-the-classroom-part-2-the-fears-real-and-imagined\nComments URL: https://news.ycombinator.com/item?id=49089268\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T20:38:00.885Z",
+    "published": "Tue, 28 Jul 2026 20:10:30 +0000"
+  },
+  {
+    "url": "https://github.com/getorb/Orb-Backend",
+    "title": "Show HN: Orb – Self-hosted AI assistant that messages you first",
+    "description": "Article URL: https://github.com/getorb/Orb-Backend\nComments URL: https://news.ycombinator.com/item?id=49089227\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T20:38:00.885Z",
+    "published": "Tue, 28 Jul 2026 20:08:18 +0000"
+  },
+  {
+    "url": "https://www.theregister.com/security/2026/07/28/ai-found-bugs-arent-proving-any-easier-to-exploit-despite-the-hype/5279637",
+    "title": "AI-found bugs aren't proving any easier to exploit despite the hype",
+    "description": "Article URL: https://www.theregister.com/security/2026/07/28/ai-found-bugs-arent-proving-any-easier-to-exploit-despite-the-hype/5279637\nComments URL: https://news.ycombinator.com/item?id=49089211\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T20:38:00.885Z",
+    "published": "Tue, 28 Jul 2026 20:07:10 +0000"
+  },
+  {
+    "url": "https://www.theregister.com/ai-and-ml/2026/07/28/war-machines-can-run-amok-with-ai-in-control/5279937",
+    "title": "War machines can run amok with AI in control",
+    "description": "Article URL: https://www.theregister.com/ai-and-ml/2026/07/28/war-machines-can-run-amok-with-ai-in-control/5279937\nComments URL: https://news.ycombinator.com/item?id=49089179\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T20:38:00.885Z",
+    "published": "Tue, 28 Jul 2026 20:05:02 +0000"
+  },
+  {
+    "url": "https://bun.com/docs/runtime/templating/init",
+    "title": "`bun init` automatically creates a Claude.md file by default",
+    "description": "Article URL: https://bun.com/docs/runtime/templating/init\nComments URL: https://news.ycombinator.com/item?id=49089156\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T20:38:00.885Z",
+    "published": "Tue, 28 Jul 2026 20:02:27 +0000"
+  },
+  {
+    "url": "https://www.theatlantic.com/ideas/2026/07/white-house-ai-regulation/688088/",
+    "title": "The Worst Way to Regulate AI",
+    "description": "Article URL: https://www.theatlantic.com/ideas/2026/07/white-house-ai-regulation/688088/\nComments URL: https://news.ycombinator.com/item?id=49089113\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T20:38:00.885Z",
+    "published": "Tue, 28 Jul 2026 19:59:31 +0000"
+  },
+  {
+    "url": "https://www.dropsitenews.com/p/israel-brad-parscale-ai-chatbots-gaza",
+    "title": "Israel Paying Millions to Train AI Chatbots How to Talk About Gaza. It's Working",
+    "description": "Article URL: https://www.dropsitenews.com/p/israel-brad-parscale-ai-chatbots-gaza\nComments URL: https://news.ycombinator.com/item?id=49088916\nPoints: 12\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T20:38:00.885Z",
+    "published": "Tue, 28 Jul 2026 19:44:28 +0000"
+  },
+  {
+    "url": "https://sweatypanzer.com/",
+    "title": "I built a WebGPU multiplayer game with Claude Code and limited coding experience",
+    "description": "Article URL: https://sweatypanzer.com/\nComments URL: https://news.ycombinator.com/item?id=49088907\nPoints: 1\n# Comments: 5",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T20:38:00.885Z",
+    "published": "Tue, 28 Jul 2026 19:43:50 +0000"
+  },
+  {
+    "url": "https://techcommunity.microsoft.com/blog/adforpostgresql/ai-powered-retrieval-in-postgresql-with-azure-horizondb/4540160",
+    "title": "AI-Powered Retrieval in PostgreSQL with Azure HorizonDB",
+    "description": "Article URL: https://techcommunity.microsoft.com/blog/adforpostgresql/ai-powered-retrieval-in-postgresql-with-azure-horizondb/4540160\nComments URL: https://news.ycombinator.com/item?id=49088890\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T20:38:00.885Z",
+    "published": "Tue, 28 Jul 2026 19:42:00 +0000"
+  },
+  {
+    "url": "https://neciudan.dev/ci-cd-in-the-age-of-ai-part-1",
+    "title": "Front end CI/CD in the age of AI",
+    "description": "Article URL: https://neciudan.dev/ci-cd-in-the-age-of-ai-part-1\nComments URL: https://news.ycombinator.com/item?id=49088831\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T20:38:00.885Z",
+    "published": "Tue, 28 Jul 2026 19:36:16 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49088696",
+    "title": "Ask HN: Sectors that are inherently resistant to AI-ification?",
+    "description": "I anticipate a raft of answers along the lines of \"AI + robots will automate everything eventually\", but am more interested in areas where you think there is an inherent or structural bias against near-term AI or LLM-ification. More for my own intellectual curiosity than that I'm personally looking",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T20:38:00.885Z",
+    "published": "Tue, 28 Jul 2026 19:25:06 +0000"
+  },
+  {
+    "url": "https://lzon.ca/posts/other/llm-fantasy/",
+    "title": "What if useful AI is a fantasy?",
+    "description": "Article URL: https://lzon.ca/posts/other/llm-fantasy/\nComments URL: https://news.ycombinator.com/item?id=49088595\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T20:38:00.885Z",
+    "published": "Tue, 28 Jul 2026 19:17:37 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=q2KCrmQz9WE",
+    "title": "Did an AI Really Hack Hugging Face?",
+    "description": "Article URL: https://www.youtube.com/watch?v=q2KCrmQz9WE\nComments URL: https://news.ycombinator.com/item?id=49088528\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T20:38:00.885Z",
+    "published": "Tue, 28 Jul 2026 19:12:36 +0000"
+  },
+  {
+    "url": "https://news.bloomberglaw.com/artificial-intelligence/big-techs-debt-binge-raises-risk-in-race-to-create-an-ai-world",
+    "title": "Big Tech's Debt Binge Raises Risk in Race to Create an AI World (2025)",
+    "description": "Article URL: https://news.bloomberglaw.com/artificial-intelligence/big-techs-debt-binge-raises-risk-in-race-to-create-an-ai-world\nComments URL: https://news.ycombinator.com/item?id=49088458\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T20:38:00.885Z",
+    "published": "Tue, 28 Jul 2026 19:06:28 +0000"
+  },
+  {
+    "url": "https://github.com/feod1/fedterm",
+    "title": "Show HN: FedTerm – a Claude-native terminal for macOS that popup like Spotlight",
+    "description": "hi hn, i made a terminal for mac. you press a hotkey and it pops up over whatever\nwindow you're in, kinda like spotlight. press it again and it's gone.it saves and indexes all your claude code sessions, so you can search through them\nand pick up any one right where you left it. the same window also",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T20:38:00.885Z",
+    "published": "Tue, 28 Jul 2026 19:06:16 +0000"
+  },
+  {
+    "url": "https://github.com/scouttyg/writekin",
+    "title": "Show HN: Writekin – fine-tune a local LLM on your own writing, on your Mac",
+    "description": "Hey Hacker News!I built Writekin over the past week because I was tired of AI writing that didn't\nsound like me, even though I had just used AI to clean it up, rather than wholesale write it.The usual fixes I found online for this were:- Some sort of SKILL.md, or- A system prompt full of rules to s",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-28T20:38:00.885Z",
+    "published": "Tue, 28 Jul 2026 19:05:12 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-much-does-a-local-llm-actually-cost-to-run-i-measured-every-watt-on-apple-silicon/",
+    "title": "How Much Does a Local LLM Actually Cost to Run? I Measured Every Watt on Apple Silicon",
+    "description": "Five models, sustained generation, real wall-socket energy at $0.31/kWh — and the surprise the RTX-3090 numbers predicted, only bigger.\nThe post How Much Does a Local LLM Actually Cost to Run? I Measured Every Watt on Apple Silicon appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-07-28T20:38:06.233Z",
+    "published": "Tue, 28 Jul 2026 16:30:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-says-its-mythos-model-found-vulnerabilities-in-cryptographic-algorithms-that-secure-the-internet/",
+    "title": "Anthropic says its Mythos model found vulnerabilities in cryptographic algorithms that secure the internet",
+    "description": "Anthropic's Claude Mythos Preview found weaknesses in key cryptographic algorithms, including a better attack on HAWK, a post-quantum signature scheme that human experts had reviewed for more than two years. The model found it in just 60 hours at an API cost of about $100,000. The findings",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-28T20:38:07.800Z",
+    "published": "Tue, 28 Jul 2026 19:12:27 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/amazon-reportedly-scales-back-its-nova-ai-models-and-bets-on-a-new-frontier-research-team/",
+    "title": "Amazon reportedly scales back its Nova AI models and bets on a new Frontier research team",
+    "description": "Amazon is scaling back most of its in-house Nova AI models, including Nova Premier, Omni, Reel, and Canvas. The models stay online for existing customers in \"keep the lights on\" mode but are no longer actively developed. Instead, Amazon is betting on a new Frontier Model Research group and",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-28T20:38:07.800Z",
+    "published": "Tue, 28 Jul 2026 16:03:39 +0000"
+  },
+  {
+    "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+    "title": "Disrupting supply chain attacks on npm and GitHub Actions",
+    "description": "Explore the changes we've shipped across npm and GitHub Actions over the past few months to disrupt supply chain attack techniques and limit their impact.\nThe post Disrupting supply chain attacks on npm and GitHub Actions appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-07-28T20:38:12.577Z",
+    "published": "Tue, 28 Jul 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/best-keychain-gadgets-everyday-carry/",
+    "title": "12 keychain gadgets worth carrying every day (and why they're worth it)",
+    "description": "We test dozens of gadgets each year - these are some of our favorite keychain accessories we're still using.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-28T20:38:19.490Z",
+    "published": "Tue, 28 Jul 2026 19:27:39 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/how-much-storage-does-your-phone-really-need-in-2026/",
+    "title": "How much storage does your phone really need in 2026? Probably less than you think",
+    "description": "Phones today are coming with massive amounts of storage, but is it overkill? Let's break it down.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-28T20:38:19.490Z",
+    "published": "Tue, 28 Jul 2026 17:20:00 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/ai-model-release-tracker/",
+    "title": "Microsoft's new AI model beats Mythos on security benchmark",
+    "description": "Our AI Model Release Tracker keeps new models in context with their peers, so you know which are worth your time.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-28T20:38:19.490Z",
+    "published": "Tue, 28 Jul 2026 16:59:00 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/remap-copilot-key/",
+    "title": "How to remap the Copilot key on your keyboard to something more helpful",
+    "description": "Pressing the Copilot key on your laptop keyboard launches Copilot. But whether or not you use Microsoft's AI, you can remap the key to trigger a different feature.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-28T20:38:19.490Z",
+    "published": "Tue, 28 Jul 2026 15:58:00 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2220918/airpods-60-60-rule/",
+    "title": "What is the 60-60 rule for AirPods?",
+    "description": "60-60 is a good rule of thumb for protecting your hearing.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-28T20:38:20.173Z",
+    "published": "Tue, 28 Jul 2026 17:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2225156/trump-administration-is-exempting-data-centers-from-pollution-laws-intended-to-prevent-acid-rain/",
+    "title": "The Trump administration is exempting data centers from pollution laws intended to prevent acid rain",
+    "description": "Don&#39;t worry, the Trump administration won&#39;t let a little acid rain get in the way of more data centers.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-28T20:38:20.173Z",
+    "published": "Tue, 28 Jul 2026 16:04:52 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2225136/xbox-explains-what-caused-this-weeks-unaceeptable-major-outage/",
+    "title": "Xbox explains what caused this week's 'unacceptable' major outage",
+    "description": "An Xbox executive said yesterday&#39;s outage was due to &#34;a licensing service that sits outside of Xbox.&#34;",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-28T20:38:20.173Z",
+    "published": "Tue, 28 Jul 2026 15:55:20 +0000"
   }
 ]
