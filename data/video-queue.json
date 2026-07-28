@@ -850,9 +850,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-22T21:43:51.349Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-28T09:48:44.002Z"
   },
   {
     "slug": "ai-self-state-attacks",
@@ -872,9 +873,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-22T21:43:51.349Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-28T09:48:54.055Z"
   },
   {
     "slug": "servicenow-bets-40m-on-indian-banking-software",
@@ -1907,6 +1909,72 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-27T21:49:05.826Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "3-ai-mistakes-that-can-kill-your-business",
+    "title": "3 AI Mistakes",
+    "summary": "Satya Nadella warns companies that trust one AI for everything may not survive",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/3-ai-mistakes-that-can-kill-your-business.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/3-ai-mistakes-that-can-kill-your-business.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 487,
+    "tags": [
+      "AI",
+      "Satya Nadella",
+      "AI gateways",
+      "AI infrastructure",
+      "business survival"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-28T09:48:29.205Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "cursor-makes-india-push",
+    "title": "3 Reasons Cursor Wins",
+    "summary": "Cursor's India expansion is a breakthrough you need to know about",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/cursor-makes-india-push.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/cursor-makes-india-push.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 523,
+    "tags": [
+      "Cursor",
+      "India",
+      "Expansion",
+      "AI",
+      "SpaceX"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-28T09:48:29.205Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-decipher-ancient-languages",
+    "title": "3 Ways AI Cracks Ancient Codes",
+    "summary": "AI is helping us unravel the secrets of ancient languages, but how does it work?",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-decipher-ancient-languages.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-decipher-ancient-languages.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 484,
+    "tags": [
+      "AI",
+      "Ancient Languages",
+      "Deciphering Codes",
+      "Machine Learning",
+      "Linguistics"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-28T09:48:29.205Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
