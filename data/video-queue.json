@@ -942,9 +942,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-23T09:15:42.693Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-28T21:47:36.785Z"
   },
   {
     "slug": "kimi-k3-expert-insights",
@@ -964,9 +965,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-23T17:04:40.979Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-28T21:47:58.739Z"
   },
   {
     "slug": "ai-medicine-breakthroughs",
@@ -2043,6 +2045,72 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-28T17:12:25.402Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "gemini-api-managed-agents",
+    "title": "3 Breakthroughs in Gemini API",
+    "summary": "Gemini API just got a major upgrade - here's what you need to know",
+    "category": "LLM",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/gemini-api-managed-agents.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/gemini-api-managed-agents.html",
+    "sourceName": "Google AI Blog",
+    "wordCount": 505,
+    "tags": [
+      "Gemini API",
+      "Managed Agents",
+      "AI Tools",
+      "Google AI",
+      "LLM"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-28T21:47:22.515Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "olmoearth-platform-geospatial-inference",
+    "title": "3 Reasons OlmoEarth Changes Everything",
+    "summary": "Discover the ultimate geospatial inference platform that's about to disrupt the entire industry",
+    "category": "ML",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/olmoearth-platform-geospatial-inference.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/olmoearth-platform-geospatial-inference.html",
+    "sourceName": "Hugging Face Blog",
+    "wordCount": 541,
+    "tags": [
+      "OlmoEarth",
+      "geospatial inference",
+      "ml",
+      "Hugging Face",
+      "AI tools"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-28T21:47:22.515Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "jacob-tsimerman-on-ai-and-math",
+    "title": "3 Essential AI Insights",
+    "summary": "Jacob Tsimerman shares his thoughts on the future of mathematics and AI, and you need to know what he says",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/jacob-tsimerman-on-ai-and-math.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/jacob-tsimerman-on-ai-and-math.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 431,
+    "tags": [
+      "AI",
+      "Mathematics",
+      "Jacob Tsimerman",
+      "Future of Math",
+      "AI Tools"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-28T21:47:22.515Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
