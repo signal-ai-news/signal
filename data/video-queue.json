@@ -896,9 +896,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-23T09:15:42.693Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-28T17:12:38.899Z"
   },
   {
     "slug": "google-ai-boom-explained",
@@ -918,9 +919,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-23T09:15:42.693Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-28T17:12:50.500Z"
   },
   {
     "slug": "treasury-threatens-sanctions-over-ai-tool",
@@ -1975,6 +1977,72 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-28T09:48:29.205Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "5-ways-to-host-the-ultimate-dinner-party-with-google-search",
+    "title": "5 Ultimate Party Hacks",
+    "summary": "Discover the essential AI features to plan an unforgettable dinner party",
+    "category": "LLM",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/5-ways-to-host-the-ultimate-dinner-party-with-google-search.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/5-ways-to-host-the-ultimate-dinner-party-with-google-search.html",
+    "sourceName": "Google AI Blog",
+    "wordCount": 588,
+    "tags": [
+      "Google Search",
+      "AI",
+      "Party Planning",
+      "Dinner Party",
+      "Google AI Blog"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-28T17:12:25.402Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "fish-audio-52m-raise-what-it-means",
+    "title": "3 Reasons Fish Audio's $52M Raise Matters",
+    "summary": "Fish Audio just raised $52 million to change the AI voice model game - here's what you need to know",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/fish-audio-52m-raise-what-it-means.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/fish-audio-52m-raise-what-it-means.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 470,
+    "tags": [
+      "Fish Audio",
+      "AI Voice Models",
+      "Startup Funding",
+      "AI Technology",
+      "Creator Tools"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-28T17:12:25.402Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "recursive-superintelligence-amazon-deal",
+    "title": "1 Breakthrough: $410M Deal",
+    "summary": "Recursive Superintelligence just signed a massive $410 million compute deal with Amazon - here's what you need to know",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/recursive-superintelligence-amazon-deal.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/recursive-superintelligence-amazon-deal.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 614,
+    "tags": [
+      "AI",
+      "Recursive Superintelligence",
+      "Amazon",
+      "Compute Deal",
+      "Tech News"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-28T17:12:25.402Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
