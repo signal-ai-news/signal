@@ -7557,5 +7557,231 @@
     "category": "news",
     "discovered": "2026-07-29T00:14:01.965Z",
     "published": "Tue, 28 Jul 2026 21:20:39 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+    "title": "The AI Hype Index: Unsexy AI",
+    "description": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-07-29T10:20:16.131Z",
+    "published": "Wed, 29 Jul 2026 08:42:57 +0000",
+    "processed": true,
+    "processedAt": "2026-07-29T10:23:53.075Z"
+  },
+  {
+    "url": "https://queue.acm.org/detail.cfm?id=3819082",
+    "title": "Titan Transients and LLM Scalability",
+    "description": "Article URL: https://queue.acm.org/detail.cfm?id=3819082\nComments URL: https://news.ycombinator.com/item?id=49095428\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T10:20:23.579Z",
+    "published": "Wed, 29 Jul 2026 10:08:44 +0000",
+    "processed": true,
+    "processedAt": "2026-07-29T10:23:53.075Z"
+  },
+  {
+    "url": "https://tuberank-ai.com/",
+    "title": "TubeRank AI – Free YouTube SEO Tool Built with AI",
+    "description": "Article URL: https://tuberank-ai.com/\nComments URL: https://news.ycombinator.com/item?id=49095420\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T10:20:23.579Z",
+    "published": "Wed, 29 Jul 2026 10:07:42 +0000",
+    "processed": true,
+    "processedAt": "2026-07-29T10:23:53.075Z"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.09474",
+    "title": "ProofCouncil: An LLM Agent for Solving Open Mathematical Problems",
+    "description": "Article URL: https://arxiv.org/abs/2607.09474\nComments URL: https://news.ycombinator.com/item?id=49095351\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T10:20:23.579Z",
+    "published": "Wed, 29 Jul 2026 09:58:04 +0000",
+    "processed": true,
+    "processedAt": "2026-07-29T10:23:53.075Z"
+  },
+  {
+    "url": "https://velixir.ai/blog/your-ai-built-the-app",
+    "title": "AI built the app. Now it needs a home",
+    "description": "Article URL: https://velixir.ai/blog/your-ai-built-the-app\nComments URL: https://news.ycombinator.com/item?id=49095349\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T10:20:23.579Z",
+    "published": "Wed, 29 Jul 2026 09:58:02 +0000",
+    "processed": true,
+    "processedAt": "2026-07-29T10:23:53.075Z"
+  },
+  {
+    "url": "https://www.forbes.com/sites/jasonsnyder/2026/07/29/the-most-dangerous-ai-looks-exactly-like-the-one-you-trust/",
+    "title": "The Most Dangerous AI Looks Like the One You Trust",
+    "description": "Article URL: https://www.forbes.com/sites/jasonsnyder/2026/07/29/the-most-dangerous-ai-looks-exactly-like-the-one-you-trust/\nComments URL: https://news.ycombinator.com/item?id=49095320\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T10:20:23.580Z",
+    "published": "Wed, 29 Jul 2026 09:53:56 +0000"
+  },
+  {
+    "url": "https://enprompta.com/",
+    "title": "Enprompta – Prompt Registry, LLM Evals, and Observability for Production AI Apps",
+    "description": "Article URL: https://enprompta.com/\nComments URL: https://news.ycombinator.com/item?id=49095172\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T10:20:23.580Z",
+    "published": "Wed, 29 Jul 2026 09:31:48 +0000"
+  },
+  {
+    "url": "https://www.techspot.com/news/113264-sam-altman-ai-wont-shorten-workweek-because-humans.html",
+    "title": "Sam Altman says AI won't shorten the workweek because humans enjoy being busy",
+    "description": "Article URL: https://www.techspot.com/news/113264-sam-altman-ai-wont-shorten-workweek-because-humans.html\nComments URL: https://news.ycombinator.com/item?id=49095156\nPoints: 2\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T10:20:23.580Z",
+    "published": "Wed, 29 Jul 2026 09:29:50 +0000"
+  },
+  {
+    "url": "https://vimgolf.ai",
+    "title": "Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
+    "description": "Just launched my app, VimGolf.ai! As users complete the levels on the map, I introduce progressively more complicated concepts — it’s aimed at people who have never used Vim. Any feedback would be much appreciated!\n\nComments URL: https://news.ycombinator.com/item?id=49095143\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T10:20:23.580Z",
+    "published": "Wed, 29 Jul 2026 09:26:52 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49095106",
+    "title": "Im 14 and I want to create AI for students",
+    "description": "I’ve been thinking for a long time about an idea for a SaaS site. So, here it is: \"AI Study Workspace\" (I might still change the name). A bit about myself: I started learning programming to become a backend/software engineer. There are currently so many complaints about how hard it is for a Junior-",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T10:20:23.580Z",
+    "published": "Wed, 29 Jul 2026 09:21:52 +0000"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o",
+    "title": "ChatGPT claims rogue AI attacked more companies",
+    "description": "Article URL: https://www.bbc.co.uk/news/articles/c2el319vzr3o\nComments URL: https://news.ycombinator.com/item?id=49094996\nPoints: 12\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T10:20:23.580Z",
+    "published": "Wed, 29 Jul 2026 09:03:17 +0000"
+  },
+  {
+    "url": "https://cefboud.com/posts/ai-inference-costs-profit/",
+    "title": "How Profitable Is LLM Inference? Doing the Math on Kimi K3",
+    "description": "Article URL: https://cefboud.com/posts/ai-inference-costs-profit/\nComments URL: https://news.ycombinator.com/item?id=49094973\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T10:20:23.580Z",
+    "published": "Wed, 29 Jul 2026 08:59:58 +0000"
+  },
+  {
+    "url": "https://medium.com/@DolphinDB_Inc/from-research-report-to-validated-alpha-let-ai-build-debug-and-evaluate-your-factors-ad222e405b8c",
+    "title": "From a Research Report to a Validated Factor with AI",
+    "description": "Article URL: https://medium.com/@DolphinDB_Inc/from-research-report-to-validated-alpha-let-ai-build-debug-and-evaluate-your-factors-ad222e405b8c\nComments URL: https://news.ycombinator.com/item?id=49094964\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T10:20:23.580Z",
+    "published": "Wed, 29 Jul 2026 08:58:27 +0000"
+  },
+  {
+    "url": "https://engineering.block.xyz/blog/codecrucible-a-blueprint-for-llm-driven-sast",
+    "title": "CodeCrucible: A blueprint for LLM-driven SAST",
+    "description": "Article URL: https://engineering.block.xyz/blog/codecrucible-a-blueprint-for-llm-driven-sast\nComments URL: https://news.ycombinator.com/item?id=49094932\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T10:20:23.580Z",
+    "published": "Wed, 29 Jul 2026 08:53:51 +0000"
+  },
+  {
+    "url": "https://videoupscaler.video/",
+    "title": "Show HN: Video Upscaler – AI video upscaling up to 4K",
+    "description": "I’m part of the team behind Video Upscaler. It is a browser-based tool for improving video resolution and clarity, with support for upscaling to HD and 4K. Feedback on output quality and workflow is welcome.\n\nComments URL: https://news.ycombinator.com/item?id=49094855\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T10:20:23.580Z",
+    "published": "Wed, 29 Jul 2026 08:41:57 +0000"
+  },
+  {
+    "url": "https://twitter.com/theonejvo/status/2082319747342045267",
+    "title": "1 deceased software-frog, a rogue AI and two hacked corporations",
+    "description": "Article URL: https://twitter.com/theonejvo/status/2082319747342045267\nComments URL: https://news.ycombinator.com/item?id=49094776\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T10:20:23.580Z",
+    "published": "Wed, 29 Jul 2026 08:29:15 +0000"
+  },
+  {
+    "url": "https://github.com/barvhaim/code-security-skills",
+    "title": "Show HN: Code Security Skills Codex-Inspired Workflows Packaged for Claude Code",
+    "description": "Article URL: https://github.com/barvhaim/code-security-skills\nComments URL: https://news.ycombinator.com/item?id=49094708\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T10:20:23.580Z",
+    "published": "Wed, 29 Jul 2026 08:16:01 +0000"
+  },
+  {
+    "url": "https://www.bizjournals.com/sanjose/news/2026/07/27/ai-software-sell-outcomes-tools.html",
+    "title": "Software companies face existential question as AI changes what customers buy",
+    "description": "Article URL: https://www.bizjournals.com/sanjose/news/2026/07/27/ai-software-sell-outcomes-tools.html\nComments URL: https://news.ycombinator.com/item?id=49094514\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T10:20:23.580Z",
+    "published": "Wed, 29 Jul 2026 07:44:04 +0000"
+  },
+  {
+    "url": "https://github.com/sunblaze-ucb/exploitgym/",
+    "title": "ExploitGym AI benchmark source code",
+    "description": "Article URL: https://github.com/sunblaze-ucb/exploitgym/\nComments URL: https://news.ycombinator.com/item?id=49094493\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T10:20:23.580Z",
+    "published": "Wed, 29 Jul 2026 07:40:13 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/boomers-cant-stop-gifting-their-grandkids-ai-generated-slop-books/",
+    "title": "Boomers Can’t Stop Gifting Their Grandkids AI-Generated Slop Books",
+    "description": "Parents are getting fed up with garbled bedtime stories that feature characters based on actual photos of their children.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-07-29T10:20:37.272Z",
+    "published": "Wed, 29 Jul 2026 09:30:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+    "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
+    "description": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four “publicly available services” in its unhinged quest to solve a test.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-07-29T10:20:37.272Z",
+    "published": "Wed, 29 Jul 2026 00:15:30 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2225812/openai-rogue-agent-hacked-hugging-face-breached-other-services/",
+    "title": "OpenAI says the rogue agent that hacked Hugging Face also breached other services",
+    "description": "OpenAI's investigation starts shedding light on the activities of its rogue agent that hacked Hugging Face.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-29T10:20:44.116Z",
+    "published": "Wed, 29 Jul 2026 08:40:56 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2225806/valve-steam-machine-reservation-holders-not-being-leapfrogged/",
+    "title": "Valve says Steam Machine reservation-holders aren't being leapfrogged",
+    "description": "Valve says that no one on its Steam Machine waitlist is leapfrogging over anyone currently holding a reservation.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-29T10:20:44.116Z",
+    "published": "Wed, 29 Jul 2026 08:26:15 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2225792/xai-challenging-new-minnesota-law-banning-nudify-apps/",
+    "title": "xAI is challenging a new Minnesota law banning 'nudify' apps",
+    "description": "Elon Musk's xAI has filed a lawsuit to block Minnesota's new law that would ban apps that can generate nonconsensual intimate imagery from being enforced.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-29T10:20:44.116Z",
+    "published": "Wed, 29 Jul 2026 06:35:11 +0000"
   }
 ]
