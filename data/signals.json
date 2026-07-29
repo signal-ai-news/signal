@@ -7783,5 +7783,368 @@
     "category": "news",
     "discovered": "2026-07-29T10:20:44.116Z",
     "published": "Wed, 29 Jul 2026 06:35:11 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+    "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+    "description": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-29T16:06:12.895Z",
+    "published": "Wed, 29 Jul 2026 15:35:09 +0000",
+    "processed": true,
+    "processedAt": "2026-07-29T16:09:49.736Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+    "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+    "description": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-29T16:06:12.895Z",
+    "published": "Wed, 29 Jul 2026 14:41:06 +0000",
+    "processed": true,
+    "processedAt": "2026-07-29T16:09:49.736Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+    "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+    "description": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-29T16:06:12.895Z",
+    "published": "Wed, 29 Jul 2026 11:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-29T16:09:49.736Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+    "title": "The Download: a chip talent battle, and deflating AI hype",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix   Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-07-29T16:06:14.143Z",
+    "published": "Wed, 29 Jul 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-29T16:09:49.736Z"
+  },
+  {
+    "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/model-versions",
+    "title": "Gemini 2.5 models are being deprecated and discontinued",
+    "description": "Article URL: https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/model-versions\nComments URL: https://news.ycombinator.com/item?id=49099293\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T16:06:18.905Z",
+    "published": "Wed, 29 Jul 2026 16:05:13 +0000",
+    "processed": true,
+    "processedAt": "2026-07-29T16:09:49.736Z"
+  },
+  {
+    "url": "https://www.ft.com/content/7e149ac8-2ce2-4266-8940-192f9821b33c",
+    "title": "PwC published reports on AI marred by AI hallucinations",
+    "description": "Article URL: https://www.ft.com/content/7e149ac8-2ce2-4266-8940-192f9821b33c\nComments URL: https://news.ycombinator.com/item?id=49099245\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T16:06:18.905Z",
+    "published": "Wed, 29 Jul 2026 16:02:18 +0000"
+  },
+  {
+    "url": "https://www.thefp.com/p/tyler-cowen-youll-learn-to-love-ai-writing",
+    "title": "Tyler Cowen: You'll Learn to Love AI Writing",
+    "description": "Article URL: https://www.thefp.com/p/tyler-cowen-youll-learn-to-love-ai-writing\nComments URL: https://news.ycombinator.com/item?id=49099085\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T16:06:18.905Z",
+    "published": "Wed, 29 Jul 2026 15:51:23 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49099039",
+    "title": "Ask/Tell HN: use the flag button instead of complaining about AI slop articles",
+    "description": "There is an article sitting at 60+ points now at the homepage which is clearly written by an AI and most comments saying something along the lines \"this article is clearly AI slop\". In this particular case, the article seems to be real AI slop: it creates a nonsensical benchmark to compare two tool",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T16:06:18.905Z",
+    "published": "Wed, 29 Jul 2026 15:48:13 +0000"
+  },
+  {
+    "url": "https://leetcopilot.dev",
+    "title": "Show HN: AI LeetCode side panel that gives Socratic hints, not solutions",
+    "description": "Article URL: https://leetcopilot.dev\nComments URL: https://news.ycombinator.com/item?id=49098998\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T16:06:18.905Z",
+    "published": "Wed, 29 Jul 2026 15:44:55 +0000"
+  },
+  {
+    "url": "https://github.com/toshipepe/tokimeter",
+    "title": "Show HN: Tokimeter – open-source usage meter for Claude, Codex, Cursor and more",
+    "description": "Article URL: https://github.com/toshipepe/tokimeter\nComments URL: https://news.ycombinator.com/item?id=49098981\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T16:06:18.905Z",
+    "published": "Wed, 29 Jul 2026 15:43:03 +0000"
+  },
+  {
+    "url": "https://github.com/dj9889/sitrep",
+    "title": "Show HN: Sitrep - AI Copilot For Incidents",
+    "description": "Hi HN!\nI made Sitrep, which is an AI incident copilot that sites alongside you during incidents and watches your screen. You can chat with it, and ask questions (\"what was that trace I saw?\") and it uses vision to answer your questions, providing evidence. It can also integrate with existing observ",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T16:06:18.905Z",
+    "published": "Wed, 29 Jul 2026 15:42:49 +0000"
+  },
+  {
+    "url": "https://phixo.app/",
+    "title": "Show HN: Phixo – AI Phishing Protection for Gmail and Outlook",
+    "description": "Hi, I am a Solo developer and I have created a Chrome extension to help prevent email phishing in Gmail and Outlook. This extension tells you why an email has phishing signs and also blocks the phishing URL if it finds something suspicious.I am posting here to get feedback so I can improve my exten",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T16:06:18.905Z",
+    "published": "Wed, 29 Jul 2026 15:36:30 +0000"
+  },
+  {
+    "url": "https://github.com/vincentping/claudeFS",
+    "title": "Show HN: ClaudeFS – Give claude.ai access to a local folder, no local process",
+    "description": "Article URL: https://github.com/vincentping/claudeFS\nComments URL: https://news.ycombinator.com/item?id=49098890\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T16:06:18.905Z",
+    "published": "Wed, 29 Jul 2026 15:36:06 +0000"
+  },
+  {
+    "url": "https://capytoolkit.com/blog/buying-guides/npu-tops-vs-memory-bandwidth-local-llm-ai-pc/",
+    "title": "What NPU Tops Doesn't Tell You: How Memory Bounds Local LLM Performance",
+    "description": "Article URL: https://capytoolkit.com/blog/buying-guides/npu-tops-vs-memory-bandwidth-local-llm-ai-pc/\nComments URL: https://news.ycombinator.com/item?id=49098870\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T16:06:18.905Z",
+    "published": "Wed, 29 Jul 2026 15:34:52 +0000"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-07-29/wall-street-picks-ai-winners-and-losers-as-credit-swaps-surge",
+    "title": "Wall Street Picks AI Winners and Losers as Credit Swaps Surge",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-07-29/wall-street-picks-ai-winners-and-losers-as-credit-swaps-surge\nComments URL: https://news.ycombinator.com/item?id=49098861\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T16:06:18.905Z",
+    "published": "Wed, 29 Jul 2026 15:34:28 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49098829",
+    "title": "Ask HN: How would you learn AI-assisted development from the ground up?",
+    "description": "I'm a director/exec, not a software engineer. Background's mostly data analytics, SQL and Excel day to day, some R and PostgreSQL. Years ago I could hack together basic HTML/CSS/PHP too.Got into AI early and now use ChatGPT and Claude constantly. With their help I've built a handful of web apps, so",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T16:06:18.905Z",
+    "published": "Wed, 29 Jul 2026 15:31:35 +0000"
+  },
+  {
+    "url": "https://web-ai-sdk.dev/playground/",
+    "title": "Web-AI-SDK Playground for browser-native AI agents",
+    "description": "Article URL: https://web-ai-sdk.dev/playground/\nComments URL: https://news.ycombinator.com/item?id=49098813\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T16:06:18.905Z",
+    "published": "Wed, 29 Jul 2026 15:30:14 +0000"
+  },
+  {
+    "url": "https://zaatar.ai/",
+    "title": "Show HN: AI that opens PRs on your repo to fix your SEO",
+    "description": "Hey HN,I'm Oli, Software engineer building Zaatar to to automate the organic growth on my different side projects.The AI orchestrator I've built feels kind of magic tbh,I hope some of you guys will find it useful!Cheers\n\nComments URL: https://news.ycombinator.com/item?id=49098777\nPoints: 2\n# Commen",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T16:06:18.905Z",
+    "published": "Wed, 29 Jul 2026 15:27:35 +0000"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/speak-naturally-gemini-app-mac-os/",
+    "title": "Gemini for macOS adds new natural language capabilities",
+    "description": "Article URL: https://blog.google/innovation-and-ai/products/gemini-app/speak-naturally-gemini-app-mac-os/\nComments URL: https://news.ycombinator.com/item?id=49098747\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T16:06:18.905Z",
+    "published": "Wed, 29 Jul 2026 15:25:09 +0000"
+  },
+  {
+    "url": "https://karlbode.com/ai-doomsday-bullshit-is-getting-tired/",
+    "title": "AI Doomsday Bullshit Is Getting Tired",
+    "description": "Article URL: https://karlbode.com/ai-doomsday-bullshit-is-getting-tired/\nComments URL: https://news.ycombinator.com/item?id=49098716\nPoints: 9\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T16:06:18.905Z",
+    "published": "Wed, 29 Jul 2026 15:22:40 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+    "title": "Pangram raises $9M to detect AI content",
+    "description": "Article URL: https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/\nComments URL: https://news.ycombinator.com/item?id=49098695\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T16:06:18.905Z",
+    "published": "Wed, 29 Jul 2026 15:20:46 +0000",
+    "processed": true,
+    "processedAt": "2026-07-29T16:09:49.736Z"
+  },
+  {
+    "url": "https://extraheadroom.com/",
+    "title": "Show HN: Extra Headroom – cut Claude Code and Codex token costs by ~50%",
+    "description": "Article URL: https://extraheadroom.com/\nComments URL: https://news.ycombinator.com/item?id=49098665\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T16:06:18.905Z",
+    "published": "Wed, 29 Jul 2026 15:17:57 +0000"
+  },
+  {
+    "url": "https://github.com/hbkdad/arc",
+    "title": "ACR, a local-first AI orchestration runtime (memory, skills, agents",
+    "description": "Article URL: https://github.com/hbkdad/arc\nComments URL: https://news.ycombinator.com/item?id=49098638\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T16:06:18.905Z",
+    "published": "Wed, 29 Jul 2026 15:16:17 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/why-your-best-predictive-model-gives-the-wrong-treatment-effect/",
+    "title": "Why Your Best Predictive Model Gives the Wrong Treatment Effect",
+    "description": "Why prediction-driven variable selection misses confounders and how Bayesian Adjustment for Confounding attempts to fix it.\nThe post Why Your Best Predictive Model Gives the Wrong Treatment Effect appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-07-29T16:06:25.523Z",
+    "published": "Wed, 29 Jul 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/los-movimientos-part-ii-solving-large-pickup-and-delivery-problems-with-adaptive-large-neighborhood-search/",
+    "title": "Los Movimientos, Part II: Solving Large Pickup-and-Delivery Problems with Adaptive Large Neighborhood Search",
+    "description": "Building an ALNS heuristic in Python for vehicle routing, time windows, capacity constraints, and mandatory driver breaks.\nThe post Los Movimientos, Part II: Solving Large Pickup-and-Delivery Problems with Adaptive Large Neighborhood Search appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-07-29T16:06:25.523Z",
+    "published": "Wed, 29 Jul 2026 13:30:00 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/avoiding-entity-key-drift-in-a-data-lake-step-1-normalization/",
+    "title": "Avoiding Entity Key Drift in a Data Lake: Step 1, Normalization",
+    "description": "This is the opening piece of a four-part deep dive series, on building a high-frequency streaming pipeline against a live public API. The data source is openSenseMap, a citizen-science IoT network used for climate research, mostly in Germany. A live public API is what makes it useful: it produces da",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-07-29T16:06:25.523Z",
+    "published": "Wed, 29 Jul 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/deepmind-dismantles-its-alphafold-team-as-key-authors-leave-for-anthropic/",
+    "title": "Deepmind dismantles its AlphaFold team as key authors leave for Anthropic",
+    "description": "The majority of the researchers behind AlphaFold are now working on other projects, and almost a quarter have left Google Deepmind altogether. The restructuring marks a sharp turn away from the strategy that put the lab on the map.\nThe article Deepmind dismantles its AlphaFold team as key a",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-29T16:06:27.413Z",
+    "published": "Wed, 29 Jul 2026 13:47:11 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/gpt-transcribe-improves-on-its-predecessor-but-cant-catch-elevenlabs-google-or-mistral-on-error-rates/",
+    "title": "GPT Transcribe improves on its predecessor but can't catch ElevenLabs, Google, or Mistral on error rates",
+    "description": "OpenAI has released GPT Transcribe and GPT Live Transcribe, two new speech recognition models available through its API.\nThe article GPT Transcribe improves on its predecessor but can&#039;t catch ElevenLabs, Google, or Mistral on error rates appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-29T16:06:27.413Z",
+    "published": "Wed, 29 Jul 2026 12:45:33 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/frontier-ai-developers-urge-international-coordination-to-pace-automated-research-before-capabilities-outstrip-control/",
+    "title": "Frontier AI developers urge international coordination to pace automated research before capabilities outstrip control",
+    "description": "In a joint statement, employees from the leading AI labs are calling on the US government to pursue international coordination. Their argument is simple: no single company or country can slow things down alone.\nThe article Frontier AI developers urge international coordination to pace autom",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-29T16:06:27.413Z",
+    "published": "Wed, 29 Jul 2026 12:13:16 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-open-sources-codex-security-cli-to-help-developers-find-and-fix-vulnerabilities-from-the-command-line/",
+    "title": "OpenAI open-sources Codex Security CLI to help developers find and fix vulnerabilities from the command line",
+    "description": "OpenAI has released Codex Security CLI, an open-source tool that automatically detects and fixes vulnerabilities in code repositories. Previously known internally as \"Aardvark,\" the system has already helped fix more than 3,000 critical security flaws, according to OpenAI. It competes direc",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-29T16:06:27.413Z",
+    "published": "Wed, 29 Jul 2026 11:50:56 +0000"
+  },
+  {
+    "url": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
+    "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
+    "description": "Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft open source project.\nThe post Tame Dependabot: Group your updates, slow the cadenc",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-07-29T16:06:32.900Z",
+    "published": "Wed, 29 Jul 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/more-typos-fewer-em-dashes-writers-are-creating-an-anti-ai-literary-counterculture/",
+    "title": "More Typos, Fewer Em Dashes: Writers Are Creating an Anti-AI ‘Literary Counterculture’",
+    "description": "Novelists, journalists, and power LinkedIn posters are embracing first-person narratives and idiosyncrasies to avoid being mistaken for chat bots.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-07-29T16:06:34.188Z",
+    "published": "Wed, 29 Jul 2026 10:30:00 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/open-weight-ai-civil-war/",
+    "title": "Open weights vs. closed: An AI civil war's afoot, and the stakes are existential",
+    "description": "It started as China vs. the US, but it's become a face-off between two fundamentally different ways of building LLMs. And the safety of everything is on the line.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-29T16:06:41.121Z",
+    "published": "Wed, 29 Jul 2026 15:00:45 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/remap-windows-copilot-key/",
+    "title": "How to remap the Windows 11 Copilot key and restore your missing Right Ctrl button",
+    "description": "Pressing the Copilot key on your laptop keyboard launches Copilot. But whether or not you use Microsoft's AI, you can remap the key to trigger a different feature.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-29T16:06:41.121Z",
+    "published": "Wed, 29 Jul 2026 13:01:00 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/74-of-workers-ask-ai-questions-instead-of-colleagues/",
+    "title": "74% of workers ask AI questions instead of colleagues - with potentially serious consequences",
+    "description": "A series of studies revealed that employees are spending less time asking their coworkers for help. Here's how that tactic could backfire and how organizations need to adapt.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-29T16:06:41.121Z",
+    "published": "Wed, 29 Jul 2026 12:19:00 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2226069/doordash-drone-delivery-service-faa-approval/",
+    "title": "DoorDash unveils its own drone delivery service after FAA approval",
+    "description": "The company developed the DoorDash Air drones in-house.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-29T16:06:41.722Z",
+    "published": "Wed, 29 Jul 2026 15:10:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2224915/google-lets-mad-users-talk-to-gemini-by-pressing-fn/",
+    "title": "Google will let Mac users talk to Gemini simply by pressing the 'fn' key",
+    "description": "Users only have to long-press the 'fn' key on the bottom left corner of their keyboard to talk to Gemini on Mac.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-29T16:06:41.722Z",
+    "published": "Wed, 29 Jul 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2225931/framework-laptop-13-pro-review/",
+    "title": "Framework Laptop 13 Pro review: A repairable notebook at the top of the class",
+    "description": "The Framework 13 Pro is a class-leading Windows laptop that, right now, is just a little too pricey.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-29T16:06:41.722Z",
+    "published": "Wed, 29 Jul 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2225849/google-shuts-down-alphafold/",
+    "title": "Google shuts down its Nobel-prize winning AlphaFold project as it focuses on Gemini",
+    "description": "DeepMind&#39;s award-winning AlphaFold team is no more.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-29T16:06:41.722Z",
+    "published": "Wed, 29 Jul 2026 10:40:36 +0000"
   }
 ]
