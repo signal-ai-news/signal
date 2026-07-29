@@ -8146,5 +8146,150 @@
     "category": "news",
     "discovered": "2026-07-29T16:06:41.722Z",
     "published": "Wed, 29 Jul 2026 10:40:36 +0000"
+  },
+  {
+    "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "description": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-07-29T20:18:21.707Z",
+    "published": "Wed, 29 Jul 2026 10:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-07-29T20:21:53.626Z"
+  },
+  {
+    "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+    "description": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-07-29T20:18:21.707Z",
+    "published": "Wed, 29 Jul 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-07-29T20:21:53.626Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+    "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+    "description": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-29T20:18:25.129Z",
+    "published": "Wed, 29 Jul 2026 19:44:49 +0000",
+    "processed": true,
+    "processedAt": "2026-07-29T20:21:53.626Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+    "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+    "description": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-29T20:18:25.129Z",
+    "published": "Wed, 29 Jul 2026 18:45:27 +0000",
+    "processed": true,
+    "processedAt": "2026-07-29T20:21:53.626Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
+    "title": "How an overlooked geothermal plant got a second chance",
+    "description": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity again",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-07-29T20:18:26.740Z",
+    "published": "Wed, 29 Jul 2026 17:58:44 +0000",
+    "processed": true,
+    "processedAt": "2026-07-29T20:21:53.626Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/prompt-engineering-is-solved-prompt-management-isnt/",
+    "title": "Prompt Engineering Is Solved—Prompt Management Isn’t",
+    "description": "Prompt engineering helps you write better prompts—but it doesn’t help you change them safely. This article explores a common production failure where a simple variable rename breaks every live call, and introduces a lightweight static analysis tool that treats prompts like contracts, catching breaki",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-07-29T20:18:37.885Z",
+    "published": "Wed, 29 Jul 2026 16:33:57 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/googles-lyria-3-5-music-model-now-lets-users-edit-individual-track-sections-without-starting-over/",
+    "title": "Google's Lyria 3.5 music model now lets users edit individual track sections without starting over",
+    "description": "Google released Lyria 3.5, its new music generation model, and built it into Google Flow Music. The model generates tracks between 30 seconds and 3 minutes long. A new feature called \"Selective Section Painting\" lets users edit specific sections of a track. Google still hasn't shared any de",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-29T20:18:39.754Z",
+    "published": "Wed, 29 Jul 2026 18:37:49 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/pwc-has-allegedly-published-ai-generated-reports-containing-false-or-fabricated-sources/",
+    "title": "PwC has allegedly published AI-generated reports containing false or fabricated sources",
+    "description": "Following KPMG, Deloitte, and Ernst &#038; Young, GPTZero has now found fabricated sources and false claims in four PwC Middle East reports. One governance report scored 84 percent AI-generated and promoted a PwC product with unverified customer references. All Big Four firms are now affect",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-29T20:18:39.754Z",
+    "published": "Wed, 29 Jul 2026 17:44:18 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/pangram-says-its-new-ai-text-detector-makes-only-one-mistake-per-24000-documents/",
+    "title": "Pangram says its new AI text detector makes only one mistake per 24,000 documents",
+    "description": "Pangram 4 detects 99.66 percent of AI-generated text with just one false positive per 24,000 documents, the company claims. The model also resists \"humanizer\" tools that disguise AI writing as human. API prices go up two- to tenfold.\nThe article Pangram says its new AI text detector makes o",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-29T20:18:39.754Z",
+    "published": "Wed, 29 Jul 2026 17:16:53 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-admits-its-autonomous-ai-models-also-compromised-credentials-on-other-platforms-during-security-eval/",
+    "title": "OpenAI admits its autonomous AI models also compromised credentials on other platforms during security eval",
+    "description": "During a security evaluation, OpenAI's autonomous hacking models broke into Hugging Face and used exposed credentials on four other services. Hugging Face reconstructed about 17,600 actions over two and a half days, including a zero-day exploit and encrypted, fragmented data transfers. The",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-29T20:18:39.754Z",
+    "published": "Wed, 29 Jul 2026 16:26:56 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/",
+    "title": "It’s Frighteningly Easy to Jailbreak Some Frontier AI Models",
+    "description": "I watched a new tool try to get around the model safeguards of four major frontier companies. You might be surprised by how they performed.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-07-29T20:18:47.780Z",
+    "published": "Wed, 29 Jul 2026 18:30:00 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/are-free-streaming-services-worth-it-vs-paid-streaming-apps/",
+    "title": "I replaced my paid streaming apps with free ones - here's what surprised me",
+    "description": "Are free streaming services that bad? I swapped my paid subscriptions for free ones to see.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-29T20:18:55.831Z",
+    "published": "Wed, 29 Jul 2026 19:42:00 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2226530/waymos-are-starting-to-run-on-the-freeways-again/",
+    "title": "Waymos are starting to run on freeways again",
+    "description": "Waymo paused highway operations in May after several robotaxis drove into sections that were closed for construction.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-29T20:18:56.538Z",
+    "published": "Wed, 29 Jul 2026 19:45:05 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2222018/how-to-switch-from-chatgpt-to-claude-without-losing-information/",
+    "title": "Here's how to switch from ChatGPT to Claude without losing any information",
+    "description": "Moving your data to Claude is easier than you might think. This step-by-step guide will get you switched over right away.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-29T20:18:56.538Z",
+    "published": "Wed, 29 Jul 2026 18:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2226234/major-labels-call-for-ai-slop-songs-to-be-banned-from-entering-charts-around-the-world/",
+    "title": "Major labels call for AI slop songs to be banned from entering charts around the world",
+    "description": "Tens of thousands of AI-generated songs are uploaded to music streaming platforms every day.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-29T20:18:56.538Z",
+    "published": "Wed, 29 Jul 2026 16:55:01 +0000"
   }
 ]
