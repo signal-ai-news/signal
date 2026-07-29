@@ -1080,9 +1080,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-23T21:39:32.111Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-29T20:41:24.781Z"
   },
   {
     "slug": "australia-ai-regulations",
@@ -1102,9 +1103,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-24T09:13:14.117Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-29T20:41:37.989Z"
   },
   {
     "slug": "avoid-ai-slop",
@@ -2247,6 +2249,50 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-29T16:52:31.370Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "gpt-5-6-breakthrough",
+    "title": "5x Smarter AI",
+    "summary": "GPT-5.6 is the ultimate AI efficiency booster, and you need to know how it works",
+    "category": "LLM",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/gpt-5-6-breakthrough.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/gpt-5-6-breakthrough.html",
+    "sourceName": "OpenAI Blog",
+    "wordCount": 414,
+    "tags": [
+      "GPT-5.6",
+      "AI Efficiency",
+      "LLM",
+      "OpenAI",
+      "Breakthrough"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-29T20:41:08.178Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "geothermal-plant-revival",
+    "title": "2 Years: Geothermal Plant Revival",
+    "summary": "Discover how an AI-powered breakthrough saved a failing geothermal plant from extinction",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/geothermal-plant-revival.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/geothermal-plant-revival.html",
+    "sourceName": "MIT Tech Review AI",
+    "wordCount": 535,
+    "tags": [
+      "geothermal energy",
+      "AI",
+      "renewable energy",
+      "sustainability",
+      "energy"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-29T20:41:08.178Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
