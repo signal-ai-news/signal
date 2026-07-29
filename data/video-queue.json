@@ -1034,9 +1034,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-23T17:04:40.979Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-29T16:52:41.348Z"
   },
   {
     "slug": "google-gemini-nears-billion-user-milestone",
@@ -1056,9 +1057,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-23T21:39:32.111Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-29T16:52:50.771Z"
   },
   {
     "slug": "amd-helios-ai-rack-scale-system",
@@ -2157,6 +2159,94 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-29T10:13:05.679Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "5-ai-hacks-for-youtube",
+    "title": "5 AI Hacks for YouTube",
+    "summary": "Unlock the ultimate YouTube SEO tool built with AI, for free",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/5-ai-hacks-for-youtube.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/5-ai-hacks-for-youtube.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 402,
+    "tags": [
+      "YouTube SEO",
+      "AI Tool",
+      "TubeRank AI",
+      "Free SEO Tool",
+      "YouTube Optimization"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-29T16:52:31.370Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "proofcouncil-ai-math-problems",
+    "title": "5 Breakthroughs",
+    "summary": "Discover the ultimate AI tool solving open math problems",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/proofcouncil-ai-math-problems.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/proofcouncil-ai-math-problems.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 383,
+    "tags": [
+      "AI",
+      "Math",
+      "ProofCouncil",
+      "LLM",
+      "Breakthrough"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-29T16:52:31.370Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "encore-ai-raises-30m",
+    "title": "3 Breakthrough AI Agents",
+    "summary": "Encore AI's $30M funding will change sales forever - here's how",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/encore-ai-raises-30m.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/encore-ai-raises-30m.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 537,
+    "tags": [
+      "Encore AI",
+      "AI Agents",
+      "Sales Techniques",
+      "CRM Data",
+      "AI Funding"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-29T16:52:31.370Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "gemini-2-5-deprecated",
+    "title": "3 Reasons Gemini 2.5 Is Dead",
+    "summary": "Google's Gemini 2.5 models are being discontinued - here's what you need to know",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/gemini-2-5-deprecated.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/gemini-2-5-deprecated.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 438,
+    "tags": [
+      "Gemini 2.5",
+      "AI models",
+      "Google",
+      "discontinued",
+      "upgrade"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-29T16:52:31.370Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
