@@ -7331,5 +7331,231 @@
     "category": "news",
     "discovered": "2026-07-28T20:38:20.173Z",
     "published": "Tue, 28 Jul 2026 15:55:20 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+    "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+    "description": "The deal is Cyera's third acquisition this year.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-29T00:13:29.811Z",
+    "published": "Wed, 29 Jul 2026 00:09:05 +0000",
+    "processed": true,
+    "processedAt": "2026-07-29T00:17:10.240Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+    "title": "Bot-detection startup Spur nabs $200M from Insight",
+    "description": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-29T00:13:29.811Z",
+    "published": "Tue, 28 Jul 2026 21:29:34 +0000",
+    "processed": true,
+    "processedAt": "2026-07-29T00:17:10.240Z"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+    "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+    "description": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-07-29T00:13:30.424Z",
+    "published": "Tue, 28 Jul 2026 21:36:39 +0000",
+    "processed": true,
+    "processedAt": "2026-07-29T00:17:10.240Z"
+  },
+  {
+    "url": "https://www.thealgorithmicbridge.com/p/the-actual-reason-why-google-fell",
+    "title": "The Actual Reason Why Google \"Fell Out\" of the AI Race Changes Everything",
+    "description": "Article URL: https://www.thealgorithmicbridge.com/p/the-actual-reason-why-google-fell\nComments URL: https://news.ycombinator.com/item?id=49091635\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T00:13:36.695Z",
+    "published": "Tue, 28 Jul 2026 23:58:43 +0000",
+    "processed": true,
+    "processedAt": "2026-07-29T00:17:10.240Z"
+  },
+  {
+    "url": "https://thewire.in/labour/told-to-train-ai-models-indian-workers-fought-back",
+    "title": "Told to Train AI Models, Indian Workers Fought Back",
+    "description": "Article URL: https://thewire.in/labour/told-to-train-ai-models-indian-workers-fought-back\nComments URL: https://news.ycombinator.com/item?id=49091598\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T00:13:36.695Z",
+    "published": "Tue, 28 Jul 2026 23:55:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-29T00:17:10.240Z"
+  },
+  {
+    "url": "https://www.ft.com/content/5c8a2816-8f28-4257-8707-b22ebaa6089c",
+    "title": "Hedge funds face demands to stump up collateral as AI stocks tumble",
+    "description": "Article URL: https://www.ft.com/content/5c8a2816-8f28-4257-8707-b22ebaa6089c\nComments URL: https://news.ycombinator.com/item?id=49091545\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T00:13:36.695Z",
+    "published": "Tue, 28 Jul 2026 23:46:53 +0000"
+  },
+  {
+    "url": "https://www.theguardian.com/technology/2026/jul/28/apple-second-ever-5tn-company-as-investors-flee-ai-stocks",
+    "title": "Apple becomes second $5T company as investors flee AI stocks",
+    "description": "Article URL: https://www.theguardian.com/technology/2026/jul/28/apple-second-ever-5tn-company-as-investors-flee-ai-stocks\nComments URL: https://news.ycombinator.com/item?id=49091512\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T00:13:36.695Z",
+    "published": "Tue, 28 Jul 2026 23:41:59 +0000"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html",
+    "title": "TSMC is accelerating Arizona factory build-out to capitalize on AI 'megatrend'",
+    "description": "Article URL: https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html\nComments URL: https://news.ycombinator.com/item?id=49091437\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T00:13:36.695Z",
+    "published": "Tue, 28 Jul 2026 23:31:45 +0000"
+  },
+  {
+    "url": "https://www.together.ai/customers/cursor",
+    "title": "Cursor and Together AI deliver real-time, low-latency inference at scale",
+    "description": "Article URL: https://www.together.ai/customers/cursor\nComments URL: https://news.ycombinator.com/item?id=49091417\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T00:13:36.695Z",
+    "published": "Tue, 28 Jul 2026 23:30:24 +0000"
+  },
+  {
+    "url": "https://github.com/adithyan-ak/agenthound",
+    "title": "Agenthound – Offensive security framework for AI agent infrastructure",
+    "description": "Article URL: https://github.com/adithyan-ak/agenthound\nComments URL: https://news.ycombinator.com/item?id=49091338\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T00:13:36.695Z",
+    "published": "Tue, 28 Jul 2026 23:22:15 +0000"
+  },
+  {
+    "url": "https://github.com/kyle-visner/magpie",
+    "title": "Show HN: Magpie, a CLI to Turn Your AI Agent into a Bookkeeper",
+    "description": "Hi HN,Annoucing the release of Magpie, a CLI tool which turns your AI agent into an expert bookkeeper, based on Jaybase. (https://news.ycombinator.com/item?id=48999936)As someone who owns a small, tech business, I have very simple books. somewhere between 10-30 transactions a month, a few depreciat",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T00:13:36.695Z",
+    "published": "Tue, 28 Jul 2026 23:16:16 +0000"
+  },
+  {
+    "url": "https://ae.studio/jobs/pirate",
+    "title": "AE Studio recruiting pirates to recover treasure located by AI",
+    "description": "Article URL: https://ae.studio/jobs/pirate\nComments URL: https://news.ycombinator.com/item?id=49091183\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T00:13:36.695Z",
+    "published": "Tue, 28 Jul 2026 23:03:12 +0000"
+  },
+  {
+    "url": "https://vishal.rs/essay/banning-ai-will-not-make-it-go-away",
+    "title": "Banning AI will not make it go away",
+    "description": "Article URL: https://vishal.rs/essay/banning-ai-will-not-make-it-go-away\nComments URL: https://news.ycombinator.com/item?id=49090999\nPoints: 21\n# Comments: 18",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T00:13:36.695Z",
+    "published": "Tue, 28 Jul 2026 22:45:13 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2225612/ai-company-employees-petition-us-government-for-regulation/",
+    "title": "AI company employees petition US Government for regulation",
+    "description": "Article URL: https://www.engadget.com/2225612/ai-company-employees-petition-us-government-for-regulation/\nComments URL: https://news.ycombinator.com/item?id=49090795\nPoints: 4\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T00:13:36.695Z",
+    "published": "Tue, 28 Jul 2026 22:24:16 +0000"
+  },
+  {
+    "url": "https://mustuse.ai",
+    "title": "Show HN: Mustuse.ai – Open-source automated ranking system run by agents",
+    "description": "Hi HN,MustUse.ai is an open-source framework for building ranking sites that Codex agents can fully research and maintain automatically.Friends often ask me which AI tools they should use for different tasks. I wanted a ranking I could trust and point them to, but many of the lists I found were ful",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T00:13:36.695Z",
+    "published": "Tue, 28 Jul 2026 22:19:12 +0000"
+  },
+  {
+    "url": "https://sessionradar.com",
+    "title": "SessionRadar – Monitor Claude Code and Codex sessions from your menu bar",
+    "description": "Article URL: https://sessionradar.com\nComments URL: https://news.ycombinator.com/item?id=49090736\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T00:13:36.695Z",
+    "published": "Tue, 28 Jul 2026 22:19:00 +0000"
+  },
+  {
+    "url": "https://apnews.com/article/new-york-school-artificial-intelligence-robot-teacher-c2126c704104c4eb68b79738630b07df",
+    "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
+    "description": "Article URL: https://apnews.com/article/new-york-school-artificial-intelligence-robot-teacher-c2126c704104c4eb68b79738630b07df\nComments URL: https://news.ycombinator.com/item?id=49090690\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T00:13:36.695Z",
+    "published": "Tue, 28 Jul 2026 22:15:02 +0000"
+  },
+  {
+    "url": "https://www.404media.co/substackers-say-new-ai-detection-tool-is-a-witch-hunt/",
+    "title": "Substackers Say New AI Detection Tool Is a 'Witch Hunt'",
+    "description": "Article URL: https://www.404media.co/substackers-say-new-ai-detection-tool-is-a-witch-hunt/\nComments URL: https://news.ycombinator.com/item?id=49090647\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T00:13:36.695Z",
+    "published": "Tue, 28 Jul 2026 22:12:03 +0000"
+  },
+  {
+    "url": "https://mariofilho.com/gemini-portuguese-parish-records/",
+    "title": "I Asked Gemini to Read 300-Year-Old Portuguese Parish Records",
+    "description": "Article URL: https://mariofilho.com/gemini-portuguese-parish-records/\nComments URL: https://news.ycombinator.com/item?id=49090597\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T00:13:36.695Z",
+    "published": "Tue, 28 Jul 2026 22:08:46 +0000"
+  },
+  {
+    "url": "https://kovashikawa.github.io/ai/architecs-anthill-ai/",
+    "title": "Architects, Anthills, and AI: A Nobel Prize's Lesson on Scientific Progress",
+    "description": "Article URL: https://kovashikawa.github.io/ai/architecs-anthill-ai/\nComments URL: https://news.ycombinator.com/item?id=49090591\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T00:13:36.695Z",
+    "published": "Tue, 28 Jul 2026 22:08:04 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
+    "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
+    "description": "Article URL: https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/\nComments URL: https://news.ycombinator.com/item?id=49090579\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T00:13:36.695Z",
+    "published": "Tue, 28 Jul 2026 22:07:20 +0000"
+  },
+  {
+    "url": "https://finance.yahoo.com/markets/stocks/articles/ai-bond-binge-enters-era-181015249.html",
+    "title": "AI Deals Struggle to Get Across Finish Line Bond Binge Enters Weak Demand Era",
+    "description": "Article URL: https://finance.yahoo.com/markets/stocks/articles/ai-bond-binge-enters-era-181015249.html\nComments URL: https://news.ycombinator.com/item?id=49090489\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-29T00:13:36.695Z",
+    "published": "Tue, 28 Jul 2026 22:00:01 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2225652/ebay-and-its-former-execs-settle-cyberstalking-case-brought-by-journalist-couple/",
+    "title": "eBay and its former execs settle cyberstalking case brought by journalist couple",
+    "description": "Ina and David Steiner will receive compensation after a 2019 campaign to silence their critiques of the company.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-29T00:14:01.965Z",
+    "published": "Tue, 28 Jul 2026 22:31:41 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2225612/ai-company-employees-petition-us-government-for-regulation/",
+    "title": "AI company employees petition US government for regulation",
+    "description": "A thousand workers from OpenAI, Anthropic, Google, Meta and more have signed the letter.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-29T00:14:01.965Z",
+    "published": "Tue, 28 Jul 2026 21:20:39 +0000"
   }
 ]
