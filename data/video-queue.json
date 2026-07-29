@@ -988,9 +988,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-23T17:04:40.979Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-29T10:13:16.264Z"
   },
   {
     "slug": "new-york-power-grid-snags",
@@ -1010,9 +1011,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-23T17:04:40.979Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-29T10:13:24.263Z"
   },
   {
     "slug": "ai-scaling-lessons-learned",
@@ -2111,6 +2113,50 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-28T21:47:22.515Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "cyera-acquires-oasis-security",
+    "title": "3 Breakthroughs in AI Security",
+    "summary": "Cyera's $1B acquisition of Oasis Security is a major move to safeguard AI agents",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/cyera-acquires-oasis-security.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/cyera-acquires-oasis-security.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 355,
+    "tags": [
+      "AI Security",
+      "Cyera",
+      "Oasis Security",
+      "Acquisition",
+      "Tech News"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-29T10:13:05.679Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "google-fell-behind-in-ai",
+    "title": "3 Reasons Google Fell Behind in AI",
+    "summary": "You won't believe the surprising reason Google lost its lead in the AI race",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/google-fell-behind-in-ai.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/google-fell-behind-in-ai.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 557,
+    "tags": [
+      "AI",
+      "Google",
+      "Machine Learning",
+      "Tech News",
+      "Innovation"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-29T10:13:05.679Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
