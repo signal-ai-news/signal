@@ -8879,5 +8879,348 @@
     "category": "news",
     "discovered": "2026-07-30T16:07:44.758Z",
     "published": "Thu, 30 Jul 2026 12:30:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "description": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-07-30T20:45:24.838Z",
+    "published": "Thu, 30 Jul 2026 10:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-07-30T20:49:03.587Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+    "description": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply chain risk, casting doubt on the government's ban on its AI technology.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-30T20:45:27.929Z",
+    "published": "Thu, 30 Jul 2026 20:26:38 +0000",
+    "processed": true,
+    "processedAt": "2026-07-30T20:49:03.587Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+    "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+    "description": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-30T20:45:27.929Z",
+    "published": "Thu, 30 Jul 2026 19:44:16 +0000",
+    "processed": true,
+    "processedAt": "2026-07-30T20:49:03.587Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+    "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "description": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-30T20:45:27.929Z",
+    "published": "Thu, 30 Jul 2026 18:57:58 +0000",
+    "processed": true,
+    "processedAt": "2026-07-30T20:49:03.587Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+    "title": "LinkedIn adds a button to report AI-generated ‘slop’",
+    "description": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-30T20:45:27.929Z",
+    "published": "Thu, 30 Jul 2026 18:05:21 +0000",
+    "processed": true,
+    "processedAt": "2026-07-30T20:49:03.587Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+    "title": "Okta buys AI security startup Permiso — source says for about $200M",
+    "description": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-30T20:45:27.929Z",
+    "published": "Thu, 30 Jul 2026 16:09:42 +0000"
+  },
+  {
+    "url": "https://scale.com/blog/scale-appoints-new-ceo",
+    "title": "Scale AI appoints Google Cloud exec as new CEO",
+    "description": "Article URL: https://scale.com/blog/scale-appoints-new-ceo\nComments URL: https://news.ycombinator.com/item?id=49115404\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-30T20:45:36.491Z",
+    "published": "Thu, 30 Jul 2026 20:35:07 +0000"
+  },
+  {
+    "url": "https://github.com/colliehq/collie",
+    "title": "Show HN: Collie – a local AI harness that runs the browser, desktop and code",
+    "description": "Article URL: https://github.com/colliehq/collie\nComments URL: https://news.ycombinator.com/item?id=49115262\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-30T20:45:36.491Z",
+    "published": "Thu, 30 Jul 2026 20:24:02 +0000"
+  },
+  {
+    "url": "https://firebender.com/",
+    "title": "Firebender: Android AI Coder",
+    "description": "Article URL: https://firebender.com/\nComments URL: https://news.ycombinator.com/item?id=49115143\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-30T20:45:36.491Z",
+    "published": "Thu, 30 Jul 2026 20:13:05 +0000"
+  },
+  {
+    "url": "https://blog.triplecloud.tech/posts/instrument-llm-agent-opentelemetry",
+    "title": "Instrument an LLM Agent with OpenTelemetry · TripleCloud Blog",
+    "description": "Article URL: https://blog.triplecloud.tech/posts/instrument-llm-agent-opentelemetry\nComments URL: https://news.ycombinator.com/item?id=49115116\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-30T20:45:36.491Z",
+    "published": "Thu, 30 Jul 2026 20:10:53 +0000"
+  },
+  {
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-accidentally-spent-usd1-8-million-using-claude-for-menial-coding-task-went-860-percent-over-budget-catastrophically-expensive-coding-blunders-discovered-in-internal-amazon-ai-usage-metrics",
+    "title": "Amazon accidentally spent $1.8M using Claude for a menial coding task, went",
+    "description": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-accidentally-spent-usd1-8-million-using-claude-for-menial-coding-task-went-860-percent-over-budget-catastrophically-expensive-coding-blunders-discovered-in-internal-amazon-ai-usage-metrics\nComments URL: https://n",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-30T20:45:36.491Z",
+    "published": "Thu, 30 Jul 2026 20:07:06 +0000"
+  },
+  {
+    "url": "https://www.by-human.net/",
+    "title": "Made by Human, Not by Gen-AI",
+    "description": "Article URL: https://www.by-human.net/\nComments URL: https://news.ycombinator.com/item?id=49114964\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-30T20:45:36.491Z",
+    "published": "Thu, 30 Jul 2026 19:58:56 +0000"
+  },
+  {
+    "url": "https://chsxf.dev/2026/07/27/18-firefox-setting-up-google-search-without-ai.html",
+    "title": "Google Search on Firefox Without AI",
+    "description": "Article URL: https://chsxf.dev/2026/07/27/18-firefox-setting-up-google-search-without-ai.html\nComments URL: https://news.ycombinator.com/item?id=49114955\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-30T20:45:36.491Z",
+    "published": "Thu, 30 Jul 2026 19:58:01 +0000"
+  },
+  {
+    "url": "https://www.wsj.com/world/europe/eu-opens-call-for-creation-of-local-ai-gigafactories-c286213d",
+    "title": "EU Opens Call for Creation of Local AI Gigafactories",
+    "description": "Article URL: https://www.wsj.com/world/europe/eu-opens-call-for-creation-of-local-ai-gigafactories-c286213d\nComments URL: https://news.ycombinator.com/item?id=49114950\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-30T20:45:36.491Z",
+    "published": "Thu, 30 Jul 2026 19:57:32 +0000"
+  },
+  {
+    "url": "https://www.theregister.com/ai-and-ml/2026/07/30/open-source-project-fools-ai-scrapers-with-poisoned-font/5281303",
+    "title": "Open source project fools AI scrapers with poisoned font",
+    "description": "Article URL: https://www.theregister.com/ai-and-ml/2026/07/30/open-source-project-fools-ai-scrapers-with-poisoned-font/5281303\nComments URL: https://news.ycombinator.com/item?id=49114820\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-30T20:45:36.491Z",
+    "published": "Thu, 30 Jul 2026 19:45:47 +0000"
+  },
+  {
+    "url": "https://www.aiexperts.com/blog/junk-work-to-judgment-work",
+    "title": "From Junk Work to Judgment Work: What AI Should Change",
+    "description": "Article URL: https://www.aiexperts.com/blog/junk-work-to-judgment-work\nComments URL: https://news.ycombinator.com/item?id=49114766\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-30T20:45:36.491Z",
+    "published": "Thu, 30 Jul 2026 19:43:02 +0000"
+  },
+  {
+    "url": "https://pantsyr.dev/blog/why-prompt-injection-is-still-possible-in-llm-applications/",
+    "title": "Why prompt injection is still possible in LLM applications",
+    "description": "Article URL: https://pantsyr.dev/blog/why-prompt-injection-is-still-possible-in-llm-applications/\nComments URL: https://news.ycombinator.com/item?id=49114699\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-30T20:45:36.491Z",
+    "published": "Thu, 30 Jul 2026 19:38:39 +0000"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-07-30/deepseek-is-developing-massive-ai-data-center-in-inner-mongolia",
+    "title": "DeepSeek Plans Gigawatt Scale AI Data Center in Inner Mongolia",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-07-30/deepseek-is-developing-massive-ai-data-center-in-inner-mongolia\nComments URL: https://news.ycombinator.com/item?id=49114675\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-30T20:45:36.491Z",
+    "published": "Thu, 30 Jul 2026 19:36:49 +0000"
+  },
+  {
+    "url": "https://futurism.com/artificial-intelligence/linkedin-adds-button-report-seems-like-ai-slop",
+    "title": "LinkedIn Adds \"Seems Like AI Slop\" Button on Every Post",
+    "description": "Article URL: https://futurism.com/artificial-intelligence/linkedin-adds-button-report-seems-like-ai-slop\nComments URL: https://news.ycombinator.com/item?id=49114582\nPoints: 6\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-30T20:45:36.491Z",
+    "published": "Thu, 30 Jul 2026 19:29:56 +0000"
+  },
+  {
+    "url": "https://www.euronews.com/my-europe/2026/07/30/eu-opens-call-for-seven-gigafactories-to-train-next-generation-ai-technologies",
+    "title": "EU opens call for seven 'gigafactories' to train next-generation AI technologies",
+    "description": "Article URL: https://www.euronews.com/my-europe/2026/07/30/eu-opens-call-for-seven-gigafactories-to-train-next-generation-ai-technologies\nComments URL: https://news.ycombinator.com/item?id=49114356\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-30T20:45:36.491Z",
+    "published": "Thu, 30 Jul 2026 19:12:47 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
+    "title": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
+    "description": "Article URL: https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/\nComments URL: https://news.ycombinator.com/item?id=49114326\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-30T20:45:36.491Z",
+    "published": "Thu, 30 Jul 2026 19:11:05 +0000"
+  },
+  {
+    "url": "https://www.marginpoints.com/issues/2026-07-30-ai-agent-only-trade-show-ferrari-luce",
+    "title": "AI-agent-only trade show, Ferrari Luce",
+    "description": "Article URL: https://www.marginpoints.com/issues/2026-07-30-ai-agent-only-trade-show-ferrari-luce\nComments URL: https://news.ycombinator.com/item?id=49114301\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-30T20:45:36.491Z",
+    "published": "Thu, 30 Jul 2026 19:09:30 +0000"
+  },
+  {
+    "url": "https://www.vice.com/en/article/thieves-are-now-targeting-ai-data-center-construction-sites-for-copper-and-expensive-equipment/",
+    "title": "Thieves Are Now Targeting AI Data Center Construction Sites",
+    "description": "Article URL: https://www.vice.com/en/article/thieves-are-now-targeting-ai-data-center-construction-sites-for-copper-and-expensive-equipment/\nComments URL: https://news.ycombinator.com/item?id=49114292\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-30T20:45:36.491Z",
+    "published": "Thu, 30 Jul 2026 19:09:10 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=BzY8EqYEP8o",
+    "title": "Did Alex Karp Just Declare War on the AI Labs [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=BzY8EqYEP8o\nComments URL: https://news.ycombinator.com/item?id=49114229\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-30T20:45:36.491Z",
+    "published": "Thu, 30 Jul 2026 19:02:38 +0000"
+  },
+  {
+    "url": "https://predx-article.fika.bar/microsoft-s-ai-ambitions-put-openai-and-anthropic-on-notice-01KYRCW9T4AXTRP346SMDSAH4M",
+    "title": "Microsoft's AI Ambitions Put OpenAI and Anthropic on Notice",
+    "description": "Article URL: https://predx-article.fika.bar/microsoft-s-ai-ambitions-put-openai-and-anthropic-on-notice-01KYRCW9T4AXTRP346SMDSAH4M\nComments URL: https://news.ycombinator.com/item?id=49114209\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-30T20:45:36.491Z",
+    "published": "Thu, 30 Jul 2026 19:01:33 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/the-python-ecosystem-that-changed-ai-development/",
+    "title": "The Python Ecosystem That Changed AI Development",
+    "description": "How one open-source ecosystem made state-of-the-art AI accessible\nThe post The Python Ecosystem That Changed AI Development appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-07-30T20:45:41.395Z",
+    "published": "Thu, 30 Jul 2026 16:30:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-goes-full-china-pricing-mode-with-an-80-percent-cut-to-its-most-affordable-gpt-5-6-model/",
+    "title": "OpenAI goes full China pricing mode with an 80 percent cut to its most affordable GPT-5.6 model",
+    "description": "Starting July 30, OpenAI is cutting GPT-5.6 Luna prices by 80 percent and Terra by 20 percent. OpenAI says its top-tier Sol model helped make the company's own infrastructure more efficient, enabling the cuts. Price pressure from cheap Chinese providers and Microsoft's own MAI models likely",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-30T20:45:43.103Z",
+    "published": "Thu, 30 Jul 2026 18:46:24 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/ex-openai-researcher-bets-100-billion-will-flow-into-training-data-because-scaling-alone-wont-cut-it/",
+    "title": "Ex-OpenAI researcher bets $100 billion will flow into training data because scaling alone won't cut it",
+    "description": "Former OpenAI employee Andrew Ho and Cambridge researcher Adam Hunt see a growing problem with large language models. Instead of becoming more versatile, the models are becoming more specialized, excelling at coding and math while stagnating or even regressing in other areas. Ho is leaving",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-30T20:45:43.103Z",
+    "published": "Thu, 30 Jul 2026 18:07:17 +0000"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/",
+    "title": "Stacked sessions and pull requests in the GitHub Copilot app",
+    "description": "Learn how I modernized an old codebase of mine using stacked sessions and pull requests in the GitHub Copilot app.\nThe post Stacked sessions and pull requests in the GitHub Copilot app appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-07-30T20:45:47.976Z",
+    "published": "Thu, 30 Jul 2026 17:30:24 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
+    "title": "Everyone Is Freaking Out About OpenAI and Anthropic’s Race for Dominance",
+    "description": "Researchers fear AI is moving too fast, while Mark Zuckerberg is worried about who owns it. Plus: Inside Black Forest Labs’ push into robotics.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-07-30T20:45:49.224Z",
+    "published": "Thu, 30 Jul 2026 20:12:57 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
+    "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
+    "description": "This week on Uncanny Valley, we discuss the open- vs. closed-source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in search-engine results.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-07-30T20:45:49.224Z",
+    "published": "Thu, 30 Jul 2026 17:51:10 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/",
+    "title": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting",
+    "description": "The two Chrome updates in June patched more bugs than the 23 updates before them. Now, Google is ramping up its patching schedule thanks to AI-assisted vulnerability discovery.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-07-30T20:45:49.224Z",
+    "published": "Thu, 30 Jul 2026 17:00:00 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/windows-installation-files-getting-bigger-blame-ai/",
+    "title": "Your Windows download keeps getting bigger, and AI is to blame - here's why it matters",
+    "description": "It's not your imagination. Windows installation files have been creeping up in size. It might even be fair to call them bloated. And you'll never guess where the problem comes from.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-30T20:45:54.880Z",
+    "published": "Thu, 30 Jul 2026 16:18:00 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/openais-rogue-ai-models-attacked-other-companies-besides-hugging-face/",
+    "title": "OpenAI's rogue agent didn't stop at Hugging Face - here's what we know",
+    "description": "The same autonomous OpenAI agent that escaped its test environment and breached Hugging Face was also busy hacking other AI systems. Lucky us.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-30T20:45:54.880Z",
+    "published": "Thu, 30 Jul 2026 16:06:50 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2227306/sonos-ai-product-event-september-2026/",
+    "title": "Sonos is planning a product event for September",
+    "description": "Unsurprisingly, it's likely to focus on AI.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-30T20:45:55.454Z",
+    "published": "Thu, 30 Jul 2026 18:40:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2227268/google-gemini-robotics-2-platform-intelligent-whole-body-control/",
+    "title": "Google's new Gemini Robotics 2 platform allows for 'intelligent whole-body control'",
+    "description": "The company made a video of the bots in action doing stuff like cleaning trash and picking up watering cans.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-30T20:45:55.454Z",
+    "published": "Thu, 30 Jul 2026 17:57:10 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2227188/linkedin-testing-seems-like-ai-slop-reporting-tool/",
+    "title": "LinkedIn is testing a 'seems like AI slop' reporting tool",
+    "description": "The company is also removing some of its own AI-writing features.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-30T20:45:55.454Z",
+    "published": "Thu, 30 Jul 2026 17:02:54 +0000"
   }
 ]
