@@ -1172,9 +1172,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-24T09:13:14.117Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-30T17:10:16.646Z"
   },
   {
     "slug": "ai-guard-essentials",
@@ -1194,9 +1195,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-24T09:13:14.117Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-30T17:10:26.379Z"
   },
   {
     "slug": "ai-guardrails-cybersecurity-research",
@@ -2317,6 +2319,116 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-30T08:00:20.882Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-chef-robot-training",
+    "title": "3 Meals That Trained Robots",
+    "summary": "I let a camera-wearing chef into my home to train robots, and here's what happened",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-chef-robot-training.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-chef-robot-training.html",
+    "sourceName": "Wired AI",
+    "wordCount": 541,
+    "tags": [
+      "AI",
+      "Robotics",
+      "Food",
+      "Innovation",
+      "Technology"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-30T17:10:07.236Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "idle-gpus-essential-ml",
+    "title": "3 Ways to Unlock Idle GPUs",
+    "summary": "Don't let idle GPUs ground your machine learning progress",
+    "category": "ML",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/idle-gpus-essential-ml.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/idle-gpus-essential-ml.html",
+    "sourceName": "Hugging Face Blog",
+    "wordCount": 469,
+    "tags": [
+      "gpu management",
+      "machine learning",
+      "ml optimization",
+      "idle gpus",
+      "hugging face"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-30T17:10:07.236Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-app-development-breakthrough",
+    "title": "3 Ways AI Is Changing App Development",
+    "summary": "Meta's latest announcement reveals AI is making it dramatically easier to build new apps - here's what you need to know",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-app-development-breakthrough.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-app-development-breakthrough.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 377,
+    "tags": [
+      "AI",
+      "app development",
+      "Meta",
+      "Mark Zuckerberg",
+      "tech news"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-30T17:10:07.236Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-industrys-latest-talent-obsession",
+    "title": "2,000 Elite Engineers",
+    "summary": "Only 2,000 US engineers can deliver meaningful AI ROI, sparking a talent war",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-industrys-latest-talent-obsession.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-industrys-latest-talent-obsession.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 401,
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Talent Shortage",
+      "Forward-Deployed Engineers",
+      "Tech News"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-30T17:10:07.236Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "hugging-face-breach-3-essential-lessons",
+    "title": "3 Essential Lessons",
+    "summary": "Don't miss the critical takeaways from the OpenAI hack against Hugging Face",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/hugging-face-breach-3-essential-lessons.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/hugging-face-breach-3-essential-lessons.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 509,
+    "tags": [
+      "Hugging Face",
+      "OpenAI",
+      "Cybersecurity",
+      "AI",
+      "Hacking"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-30T17:10:07.236Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
