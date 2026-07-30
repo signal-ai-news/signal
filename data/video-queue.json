@@ -1126,9 +1126,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-24T09:13:14.117Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-30T08:00:31.793Z"
   },
   {
     "slug": "stop-ai-conversations-from-drifting-off-topic",
@@ -1148,9 +1149,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-24T09:13:14.117Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-30T08:00:41.490Z"
   },
   {
     "slug": "oracle-ai-layoffs",
@@ -2293,6 +2295,28 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-29T20:41:08.178Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "tripling-arc-agi-3-scores",
+    "title": "3X Better AI",
+    "summary": "Discover how two simple settings can supercharge your AI performance",
+    "category": "LLM",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/tripling-arc-agi-3-scores.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/tripling-arc-agi-3-scores.html",
+    "sourceName": "OpenAI Blog",
+    "wordCount": 484,
+    "tags": [
+      "AI",
+      "GPT-5.6",
+      "ARC-AGI-3",
+      "LLM",
+      "OpenAI"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-30T08:00:20.882Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
