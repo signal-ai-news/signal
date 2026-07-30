@@ -1218,9 +1218,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-24T17:14:36.888Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-30T21:50:07.736Z"
   },
   {
     "slug": "hetzner-llm-inference-breakthrough",
@@ -1240,9 +1241,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-24T17:14:36.888Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-30T21:50:19.624Z"
   },
   {
     "slug": "grok-excel-ai-add-in",
@@ -2429,6 +2431,72 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-30T17:10:07.236Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "gpt-5-6-price-drop",
+    "title": "3x Cheaper: GPT-5.6",
+    "summary": "OpenAI just made its powerful GPT-5.6 model more affordable for businesses, but what does this mean for you?",
+    "category": "LLM",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/gpt-5-6-price-drop.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/gpt-5-6-price-drop.html",
+    "sourceName": "OpenAI Blog",
+    "wordCount": 477,
+    "tags": [
+      "GPT-5.6",
+      "OpenAI",
+      "LLM",
+      "AI Pricing",
+      "Business"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-30T21:49:56.055Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "google-ai-bug-fixing-breakthrough",
+    "title": "3X Bug Fix Rate",
+    "summary": "Google's AI-powered bug fixing is a major breakthrough, patching more bugs in June than in the past two years combined",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/google-ai-bug-fixing-breakthrough.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/google-ai-bug-fixing-breakthrough.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 383,
+    "tags": [
+      "Google",
+      "AI",
+      "Bug Fixing",
+      "Chrome",
+      "Tech News"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-30T21:49:56.055Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "linkedin-ai-slop-reporting",
+    "title": "3 Ways LinkedIn Fights AI Slop",
+    "summary": "LinkedIn introduces a new button to report low-quality AI-generated content, and it's a breakthrough for authenticity",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/linkedin-ai-slop-reporting.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/linkedin-ai-slop-reporting.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 426,
+    "tags": [
+      "LinkedIn",
+      "AI",
+      "Content Quality",
+      "Social Media",
+      "Authenticity"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-30T21:49:56.055Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
