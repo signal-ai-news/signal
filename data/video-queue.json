@@ -1264,9 +1264,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-24T17:14:36.888Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-31T10:04:40.614Z"
   },
   {
     "slug": "ai-personality-matters",
@@ -1286,9 +1287,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-24T21:45:02.620Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-31T10:04:59.304Z"
   },
   {
     "slug": "anthropic-launches-opus-5",
@@ -2497,6 +2499,28 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-30T21:49:56.055Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "reddit-ai-impact",
+    "title": "3 Reasons Reddit's Future Is Uncertain",
+    "summary": "Reddit's latest financial report reveals a solid quarter, but AI's impact is stirring market concerns",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/reddit-ai-impact.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/reddit-ai-impact.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 368,
+    "tags": [
+      "Reddit",
+      "AI",
+      "Google",
+      "Market Trends",
+      "Tech News"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-31T10:04:30.650Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
