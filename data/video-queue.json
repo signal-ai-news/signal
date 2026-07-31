@@ -1310,9 +1310,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-24T21:45:02.620Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-31T17:13:11.591Z"
   },
   {
     "slug": "organ-preservation-breakthroughs",
@@ -1332,9 +1333,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-24T21:45:02.620Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-31T17:13:25.555Z"
   },
   {
     "slug": "build-ai-chat-apps-with-bonsai",
@@ -2521,6 +2523,50 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-31T10:04:30.650Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "siri-ai-paywall-what-you-need-to-know",
+    "title": "3 Reasons Siri AI Paywall",
+    "summary": "Siri AI's new paywall is coming: here's what you need to know",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/siri-ai-paywall-what-you-need-to-know.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/siri-ai-paywall-what-you-need-to-know.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 447,
+    "tags": [
+      "Siri AI",
+      "Apple",
+      "iCloud+",
+      "AI tools",
+      "Tech News"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-31T17:12:58.018Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "spacex-xai-turbines-removal-delay",
+    "title": "3 Reasons SpaceX Won't Ditch Turbines",
+    "summary": "SpaceX's xAI data centers face a year-long delay in removing unpermitted turbines, but what does this mean for the future of sustainable energy?",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/spacex-xai-turbines-removal-delay.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/spacex-xai-turbines-removal-delay.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 520,
+    "tags": [
+      "SpaceX",
+      "xAI",
+      "Sustainable Energy",
+      "Data Centers",
+      "Turbines"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-31T17:12:58.018Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
