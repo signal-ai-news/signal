@@ -1356,9 +1356,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-25T07:34:35.968Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-31T21:47:23.741Z"
   },
   {
     "slug": "openai-ai-keypad-review",
@@ -1378,9 +1379,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-25T15:46:44.473Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-07-31T21:47:37.527Z"
   },
   {
     "slug": "threadfork-ai-meeting-notes",
@@ -2567,6 +2569,28 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-31T17:12:58.018Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "snapchat-axes-ai-generated-content",
+    "title": "3 Reasons Snapchat Axed AI",
+    "summary": "Snapchat just made a drastic change to its Spotlight recommendations, and it's essential for all creators to know",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/snapchat-axes-ai-generated-content.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/snapchat-axes-ai-generated-content.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 375,
+    "tags": [
+      "Snapchat",
+      "AI",
+      "Social Media",
+      "Content Creation",
+      "Algorithm Update"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-07-31T21:47:12.593Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
