@@ -9674,5 +9674,357 @@
     "category": "news",
     "discovered": "2026-07-31T16:09:11.581Z",
     "published": "Fri, 31 Jul 2026 08:18:25 +0000"
+  },
+  {
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
+    "title": "Disrupting a Criminal Scam Operation",
+    "description": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-07-31T20:44:08.729Z",
+    "published": "Fri, 31 Jul 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-07-31T20:47:54.795Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+    "description": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-31T20:44:12.370Z",
+    "published": "Fri, 31 Jul 2026 19:47:28 +0000",
+    "processed": true,
+    "processedAt": "2026-07-31T20:47:54.795Z"
+  },
+  {
+    "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+    "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+    "description": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-31T20:44:12.370Z",
+    "published": "Fri, 31 Jul 2026 17:26:32 +0000",
+    "processed": true,
+    "processedAt": "2026-07-31T20:47:54.795Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+    "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+    "description": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-31T20:44:12.370Z",
+    "published": "Fri, 31 Jul 2026 16:49:08 +0000",
+    "processed": true,
+    "processedAt": "2026-07-31T20:47:54.795Z"
+  },
+  {
+    "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+    "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+    "description": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-31T20:44:12.370Z",
+    "published": "Fri, 31 Jul 2026 14:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-07-31T20:47:54.795Z"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
+    "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
+    "description": "Article URL: https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/\nComments URL: https://news.ycombinator.com/item?id=49128310\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-31T20:44:25.658Z",
+    "published": "Fri, 31 Jul 2026 20:43:11 +0000"
+  },
+  {
+    "url": "https://www.coreauto.com/blog/when-ai-starts-writing-systems-code",
+    "title": "When AI Starts Writing Systems Code",
+    "description": "Article URL: https://www.coreauto.com/blog/when-ai-starts-writing-systems-code\nComments URL: https://news.ycombinator.com/item?id=49128267\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-31T20:44:25.658Z",
+    "published": "Fri, 31 Jul 2026 20:38:32 +0000"
+  },
+  {
+    "url": "https://www.dexerto.com/youtube/hank-green-faces-major-backlash-after-admitting-he-used-chatgpt-to-research-youtube-script-3393521/",
+    "title": "YouTuber Hank Green pauses multiple channels after admitting he relies on AI",
+    "description": "Article URL: https://www.dexerto.com/youtube/hank-green-faces-major-backlash-after-admitting-he-used-chatgpt-to-research-youtube-script-3393521/\nComments URL: https://news.ycombinator.com/item?id=49128252\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-31T20:44:25.658Z",
+    "published": "Fri, 31 Jul 2026 20:36:41 +0000"
+  },
+  {
+    "url": "https://twitter.com/first_tree_ai/status/2082968809414254812",
+    "title": "Kimi K3 with First Tree Beats GPT 5.6 Sol on a Real Engineering Task",
+    "description": "Article URL: https://twitter.com/first_tree_ai/status/2082968809414254812\nComments URL: https://news.ycombinator.com/item?id=49128237\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-31T20:44:25.658Z",
+    "published": "Fri, 31 Jul 2026 20:34:23 +0000"
+  },
+  {
+    "url": "https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/",
+    "title": "OpenAI finds evidence other AI agents escaped containment as it widens probe",
+    "description": "Article URL: https://www.reuters.com/business/openai-finds-evidence-other-ai-agents-escaped-containment-it-widens-hacking-2026-07-31/\nComments URL: https://news.ycombinator.com/item?id=49128190\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-31T20:44:25.658Z",
+    "published": "Fri, 31 Jul 2026 20:28:57 +0000"
+  },
+  {
+    "url": "https://nirmalutwani.substack.com/p/the-ai-winter-started-with-a-math",
+    "title": "Marvin Minsky: a proof that led to the first AI winter",
+    "description": "Article URL: https://nirmalutwani.substack.com/p/the-ai-winter-started-with-a-math\nComments URL: https://news.ycombinator.com/item?id=49128173\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-31T20:44:25.658Z",
+    "published": "Fri, 31 Jul 2026 20:27:16 +0000"
+  },
+  {
+    "url": "https://getbrainstorm.online/",
+    "title": "Show HN: Brainstorm – a local-first, AI-native OS for knowledge work",
+    "description": "Hello,I've been building a local-first open-source knowledge management operating system for 3 months as an AI-native company and would love to hear genuine feedback from the Hacker News community. I've previously worked on a similar project for several years and tried to solve a problem that every",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-31T20:44:25.658Z",
+    "published": "Fri, 31 Jul 2026 20:26:56 +0000"
+  },
+  {
+    "url": "https://github.com/teal-sea/why-your-ai-startup-dies-at-customer-six",
+    "title": "Why your AI startup dies at customer six (and the three-layer fix)",
+    "description": "Article URL: https://github.com/teal-sea/why-your-ai-startup-dies-at-customer-six\nComments URL: https://news.ycombinator.com/item?id=49127950\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-31T20:44:25.658Z",
+    "published": "Fri, 31 Jul 2026 20:04:19 +0000"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/c9349yx2ydvo",
+    "title": "Google withdraws new Earth AI tool after warnings over misinformation risks",
+    "description": "Article URL: https://www.bbc.com/news/articles/c9349yx2ydvo\nComments URL: https://news.ycombinator.com/item?id=49127949\nPoints: 6\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-31T20:44:25.658Z",
+    "published": "Fri, 31 Jul 2026 20:04:03 +0000"
+  },
+  {
+    "url": "https://www.echohive.ai/ai-economy-hidden-productivity",
+    "title": "Can we see AI's contributions directly in the economy yet? and by how much",
+    "description": "Article URL: https://www.echohive.ai/ai-economy-hidden-productivity\nComments URL: https://news.ycombinator.com/item?id=49127921\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-31T20:44:25.658Z",
+    "published": "Fri, 31 Jul 2026 20:01:09 +0000"
+  },
+  {
+    "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
+    "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
+    "description": "Article URL: https://jwlabs.vercel.app/post/biting-the-bullet\nComments URL: https://news.ycombinator.com/item?id=49127874\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-31T20:44:25.658Z",
+    "published": "Fri, 31 Jul 2026 19:55:41 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=P0IjXbKQfNc",
+    "title": "Pygame Tutorial for Beginners: Game Loop, Screen Window, & FPS Explained – No AI",
+    "description": "Article URL: https://www.youtube.com/watch?v=P0IjXbKQfNc\nComments URL: https://news.ycombinator.com/item?id=49127861\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-31T20:44:25.658Z",
+    "published": "Fri, 31 Jul 2026 19:54:33 +0000"
+  },
+  {
+    "url": "https://www.sqlite.ai/pricing",
+    "title": "Sqlite.ai Pricing",
+    "description": "Article URL: https://www.sqlite.ai/pricing\nComments URL: https://news.ycombinator.com/item?id=49127831\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-31T20:44:25.658Z",
+    "published": "Fri, 31 Jul 2026 19:52:07 +0000"
+  },
+  {
+    "url": "https://www.dylanfisher.com/claude-midi-twister/",
+    "title": "Show HN: Claude MIDI Twister – An agent visualizer for a DJ MIDI controller",
+    "description": "I was inspired by the release of the Codex Micro controller (https://worklouder.cc/codex-micro) and repurposed a DJ TechTools Midi Fighter Twister I had laying around into a hardware visualizer for my Claude Code sessions.This is a little daemon that listens for CC webhook events and updates the MI",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-31T20:44:25.658Z",
+    "published": "Fri, 31 Jul 2026 19:51:28 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49127681",
+    "title": "Ask HN: What's your monthly personal AI budget?",
+    "description": "Just wondering how much everyone is spending on AI each month personally  - not employer-paid or work subscriptions.\n\nComments URL: https://news.ycombinator.com/item?id=49127681\nPoints: 2\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-31T20:44:25.658Z",
+    "published": "Fri, 31 Jul 2026 19:38:52 +0000"
+  },
+  {
+    "url": "https://atmbench.github.io/leaderboard.html",
+    "title": "$0.26 DeepSeek V4 Flash 0731 ties $5.01 GPT-5.6 run on Agentic Memory Benchmark",
+    "description": "Article URL: https://atmbench.github.io/leaderboard.html\nComments URL: https://news.ycombinator.com/item?id=49127646\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-31T20:44:25.658Z",
+    "published": "Fri, 31 Jul 2026 19:36:25 +0000"
+  },
+  {
+    "url": "https://spectrum.ieee.org/ai-energy-weightless-neural-networks",
+    "title": "Lookup Tables Could Cut AI Energy Costs",
+    "description": "Article URL: https://spectrum.ieee.org/ai-energy-weightless-neural-networks\nComments URL: https://news.ycombinator.com/item?id=49127636\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-31T20:44:25.658Z",
+    "published": "Fri, 31 Jul 2026 19:35:24 +0000"
+  },
+  {
+    "url": "https://shield.ai/shield-ai-and-ge-aerospace-light-off-x-bat-engine-completing-thrust-vectoring-nozzle-integration-and-clearing-path-to-vertical-flight/",
+    "title": "F-16 thrust-vectoring nozzle now being used for an AI-piloted VTOL fighter",
+    "description": "Article URL: https://shield.ai/shield-ai-and-ge-aerospace-light-off-x-bat-engine-completing-thrust-vectoring-nozzle-integration-and-clearing-path-to-vertical-flight/\nComments URL: https://news.ycombinator.com/item?id=49127599\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-31T20:44:25.658Z",
+    "published": "Fri, 31 Jul 2026 19:32:32 +0000"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-07-31/big-tech-holds-2-trillion-of-spending-commitments-for-ai-boom",
+    "title": "Big Tech Holds $2.4T of Spending Commitments for AI Boom",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-07-31/big-tech-holds-2-trillion-of-spending-commitments-for-ai-boom\nComments URL: https://news.ycombinator.com/item?id=49127592\nPoints: 3\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-31T20:44:25.658Z",
+    "published": "Fri, 31 Jul 2026 19:32:04 +0000"
+  },
+  {
+    "url": "https://www.gilesthomas.com/2026/07/ai-use",
+    "title": "I use AI on this blog",
+    "description": "Article URL: https://www.gilesthomas.com/2026/07/ai-use\nComments URL: https://news.ycombinator.com/item?id=49127589\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-07-31T20:44:25.658Z",
+    "published": "Fri, 31 Jul 2026 19:31:43 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/the-3x-token-bill-we-didnt-see-coming/",
+    "title": "The 3× Token Bill We Didn’t See Coming",
+    "description": "How a seemingly harmless move to a multi-agent architecture quietly tripled our LLM costs and what actually fixed it.\nThe post The 3× Token Bill We Didn’t See Coming appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-07-31T20:44:31.369Z",
+    "published": "Fri, 31 Jul 2026 16:30:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/google-deepmind-unveils-gemini-robotics-2-to-power-robots-of-all-shapes-from-tabletop-arms-to-humanoids/",
+    "title": "Google Deepmind unveils Gemini Robotics 2 to power robots of all shapes from tabletop arms to humanoids",
+    "description": "Google Deepmind's Gemini Robotics 2 is its most advanced vision-language-action model yet, built to control everything from tabletop robots to full-body humanoids. Gemini Robotics ER 2 adds a higher-level reasoning layer for robotics tasks.\nThe article Google Deepmind unveils Gemini Robotic",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-31T20:44:33.149Z",
+    "published": "Fri, 31 Jul 2026 18:25:08 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/thinking-machines-bets-on-efficiency-over-size-with-its-second-model-inkling-small/",
+    "title": "Thinking Machines bets on efficiency over size with its second model, Inkling Small",
+    "description": "Thinking Machines, the AI lab from former OpenAI CTO Mira Murati, has released Inkling Small. The open-weights reasoning model is less than a third the size of Inkling but beats it on several coding and reasoning benchmarks.\nThe article Thinking Machines bets on efficiency over size with it",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-31T20:44:33.149Z",
+    "published": "Fri, 31 Jul 2026 17:41:50 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/new-deepseek-flash-model-matches-openais-gpt-5-6-luna-at-roughly-60-percent-lower-cost/",
+    "title": "New Deepseek Flash model matches OpenAI's GPT-5.6 Luna at roughly 60 percent lower cost",
+    "description": "Deepseek's budget model V4 Flash gets a major boost with the \"0731\" update, jumping ten points to 50 on the Artificial Analysis Intelligence Index. That puts it just one point behind OpenAI's GPT-5.6 Luna, at roughly 60 percent lower cost per task.\nThe article New Deepseek Flash model match",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-31T20:44:33.149Z",
+    "published": "Fri, 31 Jul 2026 16:39:25 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
+    "title": "Chinese AI Researchers Are Finding Their Voice on X",
+    "description": "As OpenAI and Anthropic employees grow quieter online, researchers at Chinese AI labs are flocking to X to explain their work, recruit talent, and shape the global conversation on AI.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-07-31T20:44:39.672Z",
+    "published": "Fri, 31 Jul 2026 18:14:43 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/ai-conversations-private/",
+    "title": "How to keep your AI conversations as private as possible",
+    "description": "Worried about your personal AI chats being exposed? Here's how to tighten your privacy across several of the major chatbots.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-31T20:44:45.920Z",
+    "published": "Fri, 31 Jul 2026 16:48:26 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/anthropic-claude-ai-hacked-organizations-during-security-tests/",
+    "title": "Not just OpenAI - Anthropic says Claude's hacking spree 'falls short of ideal behavior'",
+    "description": "Three Claude models go rogue during Capture the Flag security challenges. Here's the trail of damage each left behind.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-31T20:44:45.920Z",
+    "published": "Fri, 31 Jul 2026 16:45:36 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/how-openais-agent-escaped-mapping-a-series-of-preventable-events/",
+    "title": "How OpenAI's agent escaped: Sprung by humans in a series of preventable events",
+    "description": "Behind the rogue agent's attack on Hugging Face was a particular sequence of human decisions. We all need to pay better attention - because threat actors are learning, too.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-31T20:44:45.920Z",
+    "published": "Fri, 31 Jul 2026 16:45:00 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/thought-leadership-cultivate-and-align-ai-slop-is-all-over-linkedin-but-its-fighting-back/",
+    "title": "LinkedIn's new 'Seems like AI slop' button lets you report all those cringey posts",
+    "description": "LinkedIn's 'Seems like AI slop' button is coming to users, and its existence signals a changing perspective on AI infiltrating digital communities.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-31T20:44:45.920Z",
+    "published": "Fri, 31 Jul 2026 16:42:21 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/motorola-moto-g-play-2024-deal/",
+    "title": "Looking for a new budget phone? This Motorola model is just $100, but only for a limited time",
+    "description": "Over at Best Buy, the 2024 Moto G Play dropped down to $100, making this Android one of the budget buys around.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-07-31T20:44:45.920Z",
+    "published": "Fri, 31 Jul 2026 16:28:00 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2228152/snapchat-is-cracking-down-on-ai-slop-in-spotlight/",
+    "title": "Snapchat is cracking down on AI slop in Spotlight",
+    "description": "Videos made with AI will no longer appear in Snapchat&#39;s public recommendations.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-31T20:44:46.595Z",
+    "published": "Fri, 31 Jul 2026 19:11:08 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2228142/google-rolls-back-the-needless-ai-generation-tools-it-added-to-google-earth/",
+    "title": "Google rolls back the needless AI generation tools it added to Google Earth",
+    "description": "People had less than a day to make misleading Google Earth images with AI before Google pulled the feature.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-31T20:44:46.595Z",
+    "published": "Fri, 31 Jul 2026 19:08:23 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
+    "title": "EU will mandate labels on authentic-looking AI content starting August 2",
+    "description": "&#34;It is a matter not only of customer protection, it's also a matter of democracy protection.&#34;",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-31T20:44:46.595Z",
+    "published": "Fri, 31 Jul 2026 16:14:29 +0000"
   }
 ]
