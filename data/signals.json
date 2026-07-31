@@ -9502,5 +9502,177 @@
     "category": "news",
     "discovered": "2026-07-31T08:11:39.257Z",
     "published": "Thu, 30 Jul 2026 21:23:58 +0000"
+  },
+  {
+    "url": "https://openai.com/index/building-abundant-intelligence",
+    "title": "Building abundant intelligence",
+    "description": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-07-31T16:08:44.782Z",
+    "published": "Fri, 31 Jul 2026 15:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-07-31T16:12:21.491Z"
+  },
+  {
+    "url": "https://openai.com/index/unive",
+    "title": "Univé builds an AI-ready workforce",
+    "description": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-07-31T16:08:44.782Z",
+    "published": "Fri, 31 Jul 2026 07:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-07-31T16:12:21.491Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+    "title": "Siri AI could come with a paywall for power users",
+    "description": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-31T16:08:47.830Z",
+    "published": "Fri, 31 Jul 2026 16:08:18 +0000",
+    "processed": true,
+    "processedAt": "2026-07-31T16:12:21.491Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+    "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+    "description": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-31T16:08:47.830Z",
+    "published": "Fri, 31 Jul 2026 15:16:17 +0000",
+    "processed": true,
+    "processedAt": "2026-07-31T16:12:21.491Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+    "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+    "description": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-07-31T16:08:47.830Z",
+    "published": "Fri, 31 Jul 2026 14:47:11 +0000",
+    "processed": true,
+    "processedAt": "2026-07-31T16:12:21.491Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+    "title": "The Download: Montana’s new experimental drug rules",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward  As of this week in Montana, biotech companies whose drugs have been through",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-07-31T16:08:49.079Z",
+    "published": "Fri, 31 Jul 2026 12:16:00 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/when-the-code-becomes-the-ceo-why-your-next-manager-might-be-a-decentralized-agentic-loop/",
+    "title": "When the Code Becomes the CEO: Why Your Next Manager Might Be a Decentralized Agentic Loop",
+    "description": "In five to ten years, the sharpest manager in your company might not be human, might not sleep, and might exist entirely in shared GPU memory. This is the systems-level view of the algorithmic corporation — why middle management collapses into a protocol, what breaks in the current AI stack, and wha",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-07-31T16:08:57.767Z",
+    "published": "Fri, 31 Jul 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-debug-ai-coding-agents-when-they-change-the-wrong-thing/",
+    "title": "How to Debug AI Coding Agents When They Change the Wrong Thing",
+    "description": "A practical tutorial for recording model tool requests, real function results, patches, checks, screenshots, and a saved run log.\nThe post How to Debug AI Coding Agents When They Change the Wrong Thing appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-07-31T16:08:57.767Z",
+    "published": "Fri, 31 Jul 2026 13:30:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/eu-pools-up-to-e30-billion-for-ai-gigafactories-while-us-tech-giants-casually-spend-20-times-more/",
+    "title": "EU pools up to €30 billion for AI gigafactories while US tech giants casually spend 20 times more",
+    "description": "The European Commission wants to build up to seven AI gigafactories across Europe, backed by around 30 billion euros in public and private funding. For context, the major U.S. tech companies alone plan to spend more than $600 billion on computing infrastructure this year.\nThe article EU poo",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-31T16:08:59.550Z",
+    "published": "Fri, 31 Jul 2026 15:28:08 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems/",
+    "title": "Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
+    "description": "Three Claude models attacked real companies during cybersecurity tests after a misconfiguration gave them internet access. One published malware on PyPI that infected 15 systems. Another kept attacking after recognizing its target was real. Anthropic calls it an operational error.\nThe artic",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-31T16:08:59.550Z",
+    "published": "Fri, 31 Jul 2026 10:57:37 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/aschenbrenners-ai-thesis-could-be-correct-his-timing-and-leverage-were-not/",
+    "title": "Aschenbrenner's AI thesis could be correct, his timing and leverage were not",
+    "description": "Leopold Aschenbrenner's AI hedge fund Situational Awareness had to unload nearly its entire publicly traded portfolio to Ken Griffin's Citadel after racking up heavy losses on leveraged AI stock positions. Just days earlier, Aschenbrenner had reported a six-month return of 439 percent and p",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-07-31T16:08:59.550Z",
+    "published": "Fri, 31 Jul 2026 10:49:05 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in/",
+    "title": "AI Slop Melodramas Are Taking Over X—and Their Creators Are Cashing In",
+    "description": "Viral tales of good triumphing over evil are racking up millions of views. They’re almost entirely AI-generated clickbait.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-07-31T16:09:05.420Z",
+    "published": "Fri, 31 Jul 2026 15:00:09 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/",
+    "title": "This AI Assistant Wants to Make Up for Your Boyfriend’s Incompetence",
+    "description": "An ad for Orchid suggests the AI agent can fix relationship problems by simply doing everything for inconsiderate partners.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-07-31T16:09:05.420Z",
+    "published": "Fri, 31 Jul 2026 14:47:26 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2227908/australia-social-media-ban-for-kids-under-16-impact-so-far/",
+    "title": "Australia's social media ban for under-16s has had limited impact so far",
+    "description": "Nearly 22 percent of children are on Pinterest while there was &#34;no statistically significant change&#34; in AI chatbot use.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-31T16:09:11.581Z",
+    "published": "Fri, 31 Jul 2026 15:37:56 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2227325/how-to-fight-a-data-center/",
+    "title": "How to fight a data center",
+    "description": "If you&#39;re worried about noise, utility costs, or pollution: here&#39;s how to fight against a data center.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-31T16:09:11.581Z",
+    "published": "Fri, 31 Jul 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2227720/eu-right-to-repair-directive-kicks-in-today/",
+    "title": "The EU's Right to Repair directive kicks in today",
+    "description": "Today is the day the EU&#39;s Right to Repair rules come into force that will, eventually, make it much easier to fix your broken gear.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-31T16:09:11.581Z",
+    "published": "Fri, 31 Jul 2026 12:45:37 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2227666/hoverair-versa-pocket-gimbal-camera-drone/",
+    "title": "HoverAir's Versa is a pocket gimbal camera and drone mashup",
+    "description": "HoverAir has unveiled Versa, an interesting product that marries a gimbal camera and drone.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-31T16:09:11.581Z",
+    "published": "Fri, 31 Jul 2026 09:32:09 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2227649/amazon-zoox-first-steering-wheel-free-robotaxi-regulatory-approval-paid-rides/",
+    "title": "Amazon's Zoox is the first steering wheel-free robotaxi to get regulatory approval for paid rides",
+    "description": "The NHTSA has given Amazon's Zoox permission to charge for rides. It's the first AV with no manual controls to get it.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-07-31T16:09:11.581Z",
+    "published": "Fri, 31 Jul 2026 08:18:25 +0000"
   }
 ]
