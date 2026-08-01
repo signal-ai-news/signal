@@ -10623,5 +10623,222 @@
     "category": "news",
     "discovered": "2026-08-01T12:18:00.359Z",
     "published": "Sat, 01 Aug 2026 10:01:02 GMT"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-07-30/how-chatgpt-and-ai-are-dividing-friends-and-families",
+    "title": "AI Adoption Is Dividing Friends, Families and Co-Workers",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-07-30/how-chatgpt-and-ai-are-dividing-friends-and-families\nComments URL: https://news.ycombinator.com/item?id=49135367\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T15:48:20.299Z",
+    "published": "Sat, 01 Aug 2026 15:39:36 +0000",
+    "processed": true,
+    "processedAt": "2026-08-01T15:51:30.124Z"
+  },
+  {
+    "url": "https://github.com/thelounge/thelounge/pull/5130/files",
+    "title": "docs: Add AI Section to CONTRIBUTING.md",
+    "description": "Article URL: https://github.com/thelounge/thelounge/pull/5130/files\nComments URL: https://news.ycombinator.com/item?id=49134946\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T15:48:20.299Z",
+    "published": "Sat, 01 Aug 2026 14:49:23 +0000",
+    "processed": true,
+    "processedAt": "2026-08-01T15:51:30.124Z"
+  },
+  {
+    "url": "https://blog.sparsh.dev/how-to-prompt-llms/",
+    "title": "How to Prompt Any LLM?",
+    "description": "Article URL: https://blog.sparsh.dev/how-to-prompt-llms/\nComments URL: https://news.ycombinator.com/item?id=49134770\nPoints: 2\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T15:48:20.299Z",
+    "published": "Sat, 01 Aug 2026 14:29:55 +0000",
+    "processed": true,
+    "processedAt": "2026-08-01T15:51:30.124Z"
+  },
+  {
+    "url": "https://www.twitch.tv/myimaginationai",
+    "title": "The World First AI Agentic Radio, for vibe coders, good vibes only",
+    "description": "Article URL: https://www.twitch.tv/myimaginationai\nComments URL: https://news.ycombinator.com/item?id=49134677\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T15:48:20.299Z",
+    "published": "Sat, 01 Aug 2026 14:17:52 +0000",
+    "processed": true,
+    "processedAt": "2026-08-01T15:51:30.124Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49134600",
+    "title": "Ask HN: Can AI breakthroughs in mathematics help non-mathematicians feel better?",
+    "description": "Maybe mathematicians will no longer seem like the smartest people?Maybe people who struggled with math in school will no longer feel shame decades later?\n\nComments URL: https://news.ycombinator.com/item?id=49134600\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T15:48:20.299Z",
+    "published": "Sat, 01 Aug 2026 14:09:02 +0000",
+    "processed": true,
+    "processedAt": "2026-08-01T15:51:30.124Z"
+  },
+  {
+    "url": "https://github.com/aurorallm/aurora",
+    "title": "Show HN: Aurora – AI Gateway built in Go",
+    "description": "Every Ai project needs the same infra - API keys, providers SDKs, retry logic, cost tracking. it should be infra layer.\nAurora is a Go gateway that handles that layer, ~15MB binary, no dependencies. It proxies requests to OpenaAI, Anthropic, Gemini etc, and can convert between formats - use the Ope",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T15:48:20.299Z",
+    "published": "Sat, 01 Aug 2026 13:56:31 +0000"
+  },
+  {
+    "url": "https://github.com/schmitech/orbit",
+    "title": "Open-Source AI Platform Orbit",
+    "description": "Article URL: https://github.com/schmitech/orbit\nComments URL: https://news.ycombinator.com/item?id=49134457\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T15:48:20.299Z",
+    "published": "Sat, 01 Aug 2026 13:51:40 +0000"
+  },
+  {
+    "url": "https://github.com/wienerdog-ai/wienerdog/",
+    "title": "Show HN: Wienerdog – memory and self-improving skills for Claude Code/Codex",
+    "description": "The idea of Wienerdog was born out of my experience setting up my own simple but effective system of memory, self-improving skills and hooks for Claude Code and Codex. As I was teaching my friends and colleagues how to set up their own I found myself automating more and more of my system setup and",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T15:48:20.299Z",
+    "published": "Sat, 01 Aug 2026 13:44:05 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=PcEWx_001aU",
+    "title": "How the smartest people use AI",
+    "description": "Article URL: https://www.youtube.com/watch?v=PcEWx_001aU\nComments URL: https://news.ycombinator.com/item?id=49134325\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T15:48:20.299Z",
+    "published": "Sat, 01 Aug 2026 13:37:09 +0000"
+  },
+  {
+    "url": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing",
+    "title": "How to Spot AI Writing",
+    "description": "Article URL: https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing\nComments URL: https://news.ycombinator.com/item?id=49134310\nPoints: 26\n# Comments: 60",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T15:48:20.299Z",
+    "published": "Sat, 01 Aug 2026 13:35:26 +0000"
+  },
+  {
+    "url": "https://frontierroles.com/",
+    "title": "Show HN: Job board and MCP server for AI developers",
+    "description": "Article URL: https://frontierroles.com/\nComments URL: https://news.ycombinator.com/item?id=49134249\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T15:48:20.299Z",
+    "published": "Sat, 01 Aug 2026 13:25:48 +0000"
+  },
+  {
+    "url": "https://whatever.scalzi.com/2026/07/31/another-reason-not-to-use-ai-for-your-writing/",
+    "title": "Scalzi – Another Reason Not to Use \"AI\" for Your Writing",
+    "description": "Article URL: https://whatever.scalzi.com/2026/07/31/another-reason-not-to-use-ai-for-your-writing/\nComments URL: https://news.ycombinator.com/item?id=49134103\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T15:48:20.299Z",
+    "published": "Sat, 01 Aug 2026 13:06:10 +0000"
+  },
+  {
+    "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
+    "title": "Google kills Earth AI generator after one day",
+    "description": "Article URL: https://twitter.com/newsfromgoogle/status/2083249962150760610\nComments URL: https://news.ycombinator.com/item?id=49134079\nPoints: 53\n# Comments: 82",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T15:48:20.299Z",
+    "published": "Sat, 01 Aug 2026 13:02:44 +0000"
+  },
+  {
+    "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+    "title": "Charlie Stross – On the non-use of AI in my writing process",
+    "description": "Article URL: https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html\nComments URL: https://news.ycombinator.com/item?id=49134038\nPoints: 17\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T15:48:20.299Z",
+    "published": "Sat, 01 Aug 2026 12:56:54 +0000"
+  },
+  {
+    "url": "https://zeltser.com/ai-security-market-field-guide",
+    "title": "A Field Guide to the AI Security Market",
+    "description": "Article URL: https://zeltser.com/ai-security-market-field-guide\nComments URL: https://news.ycombinator.com/item?id=49133934\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T15:48:20.299Z",
+    "published": "Sat, 01 Aug 2026 12:39:39 +0000"
+  },
+  {
+    "url": "https://howmachinesthink.substack.com/p/july-2026-in-ai-what-actually-mattered",
+    "title": "July 2026 in AI",
+    "description": "Article URL: https://howmachinesthink.substack.com/p/july-2026-in-ai-what-actually-mattered\nComments URL: https://news.ycombinator.com/item?id=49133917\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T15:48:20.299Z",
+    "published": "Sat, 01 Aug 2026 12:38:04 +0000"
+  },
+  {
+    "url": "https://github.com/MiskaKan/thinair",
+    "title": "Integrate LLM into your Python runtime",
+    "description": "Article URL: https://github.com/MiskaKan/thinair\nComments URL: https://news.ycombinator.com/item?id=49133864\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T15:48:20.299Z",
+    "published": "Sat, 01 Aug 2026 12:31:52 +0000"
+  },
+  {
+    "url": "https://github.com/pochenai/nano-llm-posttraining",
+    "title": "Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)",
+    "description": "Article URL: https://github.com/pochenai/nano-llm-posttraining\nComments URL: https://news.ycombinator.com/item?id=49133851\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T15:48:20.299Z",
+    "published": "Sat, 01 Aug 2026 12:30:32 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/coding-agents-dont-need-bigger-context-windows-they-need-a-context-compiler/",
+    "title": "Coding Agents Don’t Need Bigger Context Windows — They Need a Context Compiler",
+    "description": "Most coding agents treat prompt construction like retrieval: gather more files, add more context, hope the model figures it out. But that approach breaks down fast. As context grows, irrelevant code competes for attention, and when the window fills, agents start compressing their own memory—often mi",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-01T15:48:25.748Z",
+    "published": "Sat, 01 Aug 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/put-the-agent-inside-the-workflow/",
+    "title": "Put the Agent Inside the Workflow",
+    "description": "A hybrid LLM application pattern that combines a predefined workflow with adaptive agent behavior\nThe post Put the Agent Inside the Workflow appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-01T15:48:25.748Z",
+    "published": "Sat, 01 Aug 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/ai-coding-agents-can-modernize-research-software-but-cant-judge-if-the-science-is-right/",
+    "title": "AI coding agents can modernize research software but can't judge if the science is right",
+    "description": "A field report from OpenAI and academic partners shows coding agents can modernize neglected research software, with speedups of up to 60x. But the systems are \"eloquent, convincing, and confidently wrong in ways that are easy to miss,\" participants say. The effort shifts from writing code",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-01T15:48:27.654Z",
+    "published": "Sat, 01 Aug 2026 14:26:28 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/a-security-researcher-built-a-self-spreading-worm-that-hides-inside-word-docs-and-hijacks-microsoft-copilot/",
+    "title": "A security researcher built a self-spreading worm that hides inside Word docs and hijacks Microsoft Copilot",
+    "description": "A security researcher has demonstrated a worm-like attack on Microsoft Copilot for Word: invisible prompt injections hidden in documents spread automatically into new files every time they're reused. Microsoft confirmed the issue but failed to fix it after 144 days and two attempts.\nThe art",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-01T15:48:27.654Z",
+    "published": "Sat, 01 Aug 2026 13:51:57 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/bytedances-seedance-2-5-generates-30-second-video-clips-with-built-in-audio/",
+    "title": "ByteDance's Seedance 2.5 generates 30-second video clips with built-in audio",
+    "description": "ByteDance just shipped Seedance 2.5, an AI video model that produces video and audio together in one go. Each clip runs up to 30 seconds, three times what Google's Gemini Omni Flash puts out. Users can feed in dozens of images, videos, and audio files as reference. For ad teams, this could",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-01T15:48:27.654Z",
+    "published": "Sat, 01 Aug 2026 13:33:41 +0000"
   }
 ]
