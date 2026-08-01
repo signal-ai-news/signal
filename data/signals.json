@@ -10243,5 +10243,186 @@
     "category": "news",
     "discovered": "2026-08-01T00:15:30.641Z",
     "published": "Fri, 31 Jul 2026 20:49:45 +0000"
+  },
+  {
+    "url": "https://openai.com/index/ten-advances-in-mathematics",
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "description": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-01T08:57:08.468Z",
+    "published": "Sat, 01 Aug 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-01T09:00:48.352Z"
+  },
+  {
+    "url": "https://sendpageapp.com",
+    "title": "Show HN: SendPage – Paste AI-generated HTML, get a link clients can open",
+    "description": "Article URL: https://sendpageapp.com\nComments URL: https://news.ycombinator.com/item?id=49132412\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T08:57:18.578Z",
+    "published": "Sat, 01 Aug 2026 08:39:42 +0000",
+    "processed": true,
+    "processedAt": "2026-08-01T09:00:48.352Z"
+  },
+  {
+    "url": "https://www.reuters.com/legal/litigation/perplexity-ai-loses-bid-toss-reddit-lawsuit-over-data-scraping-2026-07-31/",
+    "title": "Perplexity AI loses bid to toss Reddit lawsuit over data scraping",
+    "description": "Article URL: https://www.reuters.com/legal/litigation/perplexity-ai-loses-bid-toss-reddit-lawsuit-over-data-scraping-2026-07-31/\nComments URL: https://news.ycombinator.com/item?id=49132193\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T08:57:18.578Z",
+    "published": "Sat, 01 Aug 2026 08:04:22 +0000",
+    "processed": true,
+    "processedAt": "2026-08-01T09:00:48.352Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49132161",
+    "title": "Ask HN: How did your boss's behavior change with the rise of AI?",
+    "description": "I am trying to understand whether the rise of AI affects managers and the work dynamics positively or negatively\n\nComments URL: https://news.ycombinator.com/item?id=49132161\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T08:57:18.578Z",
+    "published": "Sat, 01 Aug 2026 07:58:13 +0000",
+    "processed": true,
+    "processedAt": "2026-08-01T09:00:48.352Z"
+  },
+  {
+    "url": "https://weeraman.com/the-prototype-isnt-the-product/",
+    "title": "AI doesn't generate working products, that's still your job",
+    "description": "Article URL: https://weeraman.com/the-prototype-isnt-the-product/\nComments URL: https://news.ycombinator.com/item?id=49132130\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T08:57:18.578Z",
+    "published": "Sat, 01 Aug 2026 07:52:10 +0000",
+    "processed": true,
+    "processedAt": "2026-08-01T09:00:48.352Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=DRbZyuY8EN8",
+    "title": "Is AI Conscious? [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=DRbZyuY8EN8\nComments URL: https://news.ycombinator.com/item?id=49132014\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T08:57:18.578Z",
+    "published": "Sat, 01 Aug 2026 07:31:13 +0000"
+  },
+  {
+    "url": "https://twitter.com/iron_redux/status/2083360414037938609",
+    "title": "GPT has proved nonsofic groups are exist",
+    "description": "Article URL: https://twitter.com/iron_redux/status/2083360414037938609\nComments URL: https://news.ycombinator.com/item?id=49131791\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T08:57:18.578Z",
+    "published": "Sat, 01 Aug 2026 06:51:25 +0000"
+  },
+  {
+    "url": "https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-built-its-own-ai-model-that-now-ranks-among-the-worlds-best/",
+    "title": "Thomson Reuters Built Its Own AI Model That Now Ranks Among the Best",
+    "description": "Article URL: https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-built-its-own-ai-model-that-now-ranks-among-the-worlds-best/\nComments URL: https://news.ycombinator.com/item?id=49131361\nPoints: 5\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T08:57:18.578Z",
+    "published": "Sat, 01 Aug 2026 05:37:16 +0000"
+  },
+  {
+    "url": "https://www.derekthompson.org/p/the-four-horsemen-of-the-ai-bubble",
+    "title": "The Four Horsemen of the AI Bubble Apocalypse",
+    "description": "Article URL: https://www.derekthompson.org/p/the-four-horsemen-of-the-ai-bubble\nComments URL: https://news.ycombinator.com/item?id=49131316\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T08:57:18.578Z",
+    "published": "Sat, 01 Aug 2026 05:30:26 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ckoi0RTEgcY",
+    "title": "The AI Data Center Explained – From Electricity to ChatGPT [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=ckoi0RTEgcY\nComments URL: https://news.ycombinator.com/item?id=49131279\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T08:57:18.578Z",
+    "published": "Sat, 01 Aug 2026 05:21:52 +0000"
+  },
+  {
+    "url": "https://acefleet.dev/blog/announcing-the-ace-sidecar",
+    "title": "Ace Sidecar – Efficiency Optimization for Local AI Coding",
+    "description": "Article URL: https://acefleet.dev/blog/announcing-the-ace-sidecar\nComments URL: https://news.ycombinator.com/item?id=49130939\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T08:57:18.578Z",
+    "published": "Sat, 01 Aug 2026 04:08:03 +0000"
+  },
+  {
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "title": "Last 30 Days (Skill) – AI Agent for Reddit, X, YT, HN, Web and Polymarket",
+    "description": "Article URL: https://github.com/mvanhorn/last30days-skill\nComments URL: https://news.ycombinator.com/item?id=49130905\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T08:57:18.578Z",
+    "published": "Sat, 01 Aug 2026 04:00:39 +0000"
+  },
+  {
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3362616/us-lawmakers-investigate-doordashs-use-moonshot-ais-kimi-k26-model",
+    "title": "US lawmakers investigate DoorDash's use of Moonshot AI's Kimi K2.6 model",
+    "description": "Article URL: https://www.scmp.com/news/china/diplomacy/article/3362616/us-lawmakers-investigate-doordashs-use-moonshot-ais-kimi-k26-model\nComments URL: https://news.ycombinator.com/item?id=49130703\nPoints: 6\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T08:57:18.578Z",
+    "published": "Sat, 01 Aug 2026 03:11:07 +0000"
+  },
+  {
+    "url": "https://hereisyourbrain.substack.com/p/ai-generated-content-mind-virus",
+    "title": "AI broke writing as proof-of-thought",
+    "description": "Article URL: https://hereisyourbrain.substack.com/p/ai-generated-content-mind-virus\nComments URL: https://news.ycombinator.com/item?id=49130644\nPoints: 8\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T08:57:18.578Z",
+    "published": "Sat, 01 Aug 2026 02:55:00 +0000"
+  },
+  {
+    "url": "https://github.com/alectrocute/dario-and-amanda-prompt/blob/main/outputs.md",
+    "title": "Claude 5 family's hallucinations look a lot like internal Anthropic emails",
+    "description": "Article URL: https://github.com/alectrocute/dario-and-amanda-prompt/blob/main/outputs.md\nComments URL: https://news.ycombinator.com/item?id=49130638\nPoints: 3\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T08:57:18.578Z",
+    "published": "Sat, 01 Aug 2026 02:53:10 +0000"
+  },
+  {
+    "url": "https://microsoft.github.io/flint-chart/",
+    "title": "Flint: A Visualization Language for the AI Era",
+    "description": "Article URL: https://microsoft.github.io/flint-chart/\nComments URL: https://news.ycombinator.com/item?id=49130604\nPoints: 107\n# Comments: 33",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T08:57:18.578Z",
+    "published": "Sat, 01 Aug 2026 02:45:09 +0000"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
+    "title": "Leopold Aschenbrenner built a $45B AI hedge fund – and lost most of it in days",
+    "description": "Article URL: https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html\nComments URL: https://news.ycombinator.com/item?id=49130576\nPoints: 7\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T08:57:18.578Z",
+    "published": "Sat, 01 Aug 2026 02:39:33 +0000"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/c77g6dm5pr8o",
+    "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
+    "description": "Article URL: https://www.bbc.com/news/articles/c77g6dm5pr8o\nComments URL: https://news.ycombinator.com/item?id=49130478\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-01T08:57:18.578Z",
+    "published": "Sat, 01 Aug 2026 02:16:24 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-is-reportedly-building-astra-a-model-family-designed-to-work-on-problems-for-hours-or-days/",
+    "title": "OpenAI is reportedly building Astra, a model family designed to work on problems for hours or days",
+    "description": "OpenAI is building a new model family called \"Astra\" that would let multiple agents tackle complex problems together for hours or even days. CEO Sam Altman has already demoed Astra to policymakers in Washington. OpenAI hasn't decided whether to release it as GPT-6 or a new GPT-5 variant.\nTh",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-01T08:57:25.764Z",
+    "published": "Sat, 01 Aug 2026 08:24:49 +0000"
   }
 ]
