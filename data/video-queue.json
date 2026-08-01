@@ -1495,9 +1495,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-25T20:36:59.559Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-01T20:37:00.873Z"
   },
   {
     "slug": "avoiding-ai-workshops",
@@ -1517,9 +1518,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-25T20:36:59.559Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-01T20:37:08.709Z"
   },
   {
     "slug": "ai-transparency-canada",
@@ -2771,6 +2773,72 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-01T15:42:32.801Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-agentic-radio-for-vibe-coders",
+    "title": "5 Essential AI Radio Stations",
+    "summary": "Discover the world's first AI-powered radio for vibe coders, broadcasting 24/7 good vibes only",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-agentic-radio-for-vibe-coders.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-agentic-radio-for-vibe-coders.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 444,
+    "tags": [
+      "AI",
+      "Radio",
+      "Vibe Coders",
+      "Good Vibes",
+      "Community"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-01T20:36:48.661Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-brendans-2025",
+    "title": "3 Essential AI Brendans",
+    "summary": "Meet the AI tool that's about to change how you interact with technology forever",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-brendans-2025.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-brendans-2025.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 441,
+    "tags": [
+      "AI",
+      "Brendan Gregg",
+      "Virtual Assistants",
+      "Tech News",
+      "Innovation"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-01T20:36:48.661Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "browsers-without-ai",
+    "title": "3 Browsers Without AI",
+    "summary": "Ditch AI-infused browsers and switch to these alternatives for a more private experience",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/browsers-without-ai.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/browsers-without-ai.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 426,
+    "tags": [
+      "web browsers",
+      "AI",
+      "privacy",
+      "technology",
+      "browser alternatives"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-01T20:36:48.661Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
