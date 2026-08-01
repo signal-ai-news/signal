@@ -1448,9 +1448,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-25T20:36:59.559Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-01T15:42:42.258Z"
   },
   {
     "slug": "optimize-vector-search",
@@ -1471,9 +1472,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-25T20:36:59.559Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-01T15:42:52.371Z"
   },
   {
     "slug": "qualcomm-price-hike-impact",
@@ -2659,6 +2661,116 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-01T07:54:00.714Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-impact-on-managers",
+    "title": "3 Ways AI Changed Bosses",
+    "summary": "Discover how AI is transforming management styles and work dynamics",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-impact-on-managers.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-impact-on-managers.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 386,
+    "tags": [
+      "AI",
+      "management",
+      "work dynamics",
+      "productivity",
+      "leadership"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-01T15:42:32.801Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "biology-ai-breakthroughs",
+    "title": "3 Breakthroughs in Biology AI",
+    "summary": "Discover how autonomous biology AI models are changing the game",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/biology-ai-breakthroughs.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/biology-ai-breakthroughs.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 470,
+    "tags": [
+      "biology",
+      "AI",
+      "autonomous",
+      "models",
+      "machine learning"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-01T15:42:32.801Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-fails-vs-newspaper-archives",
+    "title": "3 Reasons AI Fails",
+    "summary": "Newspaper archives outperform AI in accuracy, and here's why you need to know",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-fails-vs-newspaper-archives.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-fails-vs-newspaper-archives.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 411,
+    "tags": [
+      "AI",
+      "Newspaper Archives",
+      "Accuracy",
+      "Research",
+      "Technology"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-01T15:42:32.801Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-video-tracker-platform",
+    "title": "3 AI Video Breakthroughs",
+    "summary": "Discover the ultimate AI video comparison platform that's changing the game",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-video-tracker-platform.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-video-tracker-platform.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 419,
+    "tags": [
+      "AI",
+      "Video",
+      "Comparison",
+      "Tracker",
+      "Platform"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-01T15:42:32.801Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-bargaining-breakthroughs",
+    "title": "3 Breakthroughs in AI Bargaining",
+    "summary": "Discover the essential frameworks for less confused AI research",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-bargaining-breakthroughs.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-bargaining-breakthroughs.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 466,
+    "tags": [
+      "AI",
+      "Bargaining",
+      "Research",
+      "Frameworks",
+      "LessWrong"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-01T15:42:32.801Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
