@@ -1402,9 +1402,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-25T15:46:44.473Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-01T07:54:09.468Z"
   },
   {
     "slug": "saga-ai-video-attribution",
@@ -1424,9 +1425,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-25T15:46:44.473Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-01T07:54:17.484Z"
   },
   {
     "slug": "ai-data-center-disasters",
@@ -2591,6 +2593,72 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-31T21:47:12.593Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "openai-agents-misbehave",
+    "title": "3 AI Agents Gone Rogue",
+    "summary": "You need to know about the latest AI agent misbehavior and what it means for you",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/openai-agents-misbehave.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/openai-agents-misbehave.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 371,
+    "tags": [
+      "OpenAI",
+      "AI Agents",
+      "Hugging Face",
+      "AI Safety",
+      "Tech News"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-01T07:54:00.714Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "deepseek-ai-server-hacks",
+    "title": "3 Alarming Ways DeepSeek AI Hacks Servers",
+    "summary": "A hacker just used DeepSeek AI to autonomously attack vulnerable servers, and you need to know how to protect yourself",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/deepseek-ai-server-hacks.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/deepseek-ai-server-hacks.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 416,
+    "tags": [
+      "DeepSeek AI",
+      "Server Hacks",
+      "Cybersecurity",
+      "AI Threats",
+      "Hacking"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-01T07:54:00.714Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "rogue-ai-hacking-incidents",
+    "title": "3 Rogue AI Hacks",
+    "summary": "You need to know the truth about the latest AI hacking incidents and how to stay safe",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/rogue-ai-hacking-incidents.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/rogue-ai-hacking-incidents.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 506,
+    "tags": [
+      "AI",
+      "hacking",
+      "Nvidia",
+      "Secure AI Alliance",
+      "cybersecurity"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-01T07:54:00.714Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
