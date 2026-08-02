@@ -622,7 +622,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T19:00:55.616Z",
-    "published": "Tue, 21 Jul 2026 17:56:28 +0000"
+    "published": "Tue, 21 Jul 2026 17:56:28 +0000",
+    "processed": true,
+    "processedAt": "2026-08-02T11:49:46.292Z"
   },
   {
     "url": "https://andrewrussell.substack.com/p/i-built-an-ai-agent-i-cant-turn-",
@@ -631,7 +633,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T19:00:55.616Z",
-    "published": "Tue, 21 Jul 2026 17:56:17 +0000"
+    "published": "Tue, 21 Jul 2026 17:56:17 +0000",
+    "processed": true,
+    "processedAt": "2026-08-02T11:49:46.292Z"
   },
   {
     "url": "https://github.com/yashchimata/statgate",
@@ -640,7 +644,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T19:00:55.616Z",
-    "published": "Tue, 21 Jul 2026 17:55:23 +0000"
+    "published": "Tue, 21 Jul 2026 17:55:23 +0000",
+    "processed": true,
+    "processedAt": "2026-08-02T11:49:46.292Z"
   },
   {
     "url": "https://twitter.com/OfficialLoganK/status/2079590123038204255",
@@ -11428,5 +11434,27 @@
     "category": "news",
     "discovered": "2026-08-02T07:56:27.209Z",
     "published": "Sun, 02 Aug 2026 07:53:07 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/ai-finds-plenty-of-security-flaws-but-almost-none-of-them-get-exploited/",
+    "title": "AI finds plenty of security flaws, but almost none of them get exploited",
+    "description": "VulnCheck counted how often security flaws found by AI actually get exploited. Out of 1,061 AI-discovered vulnerabilities in the first half of 2026, just 14 saw confirmed attacks. That's 1.3 percent, the same rate as vulnerabilities overall. But exploits are landing faster, with the median",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-02T11:46:20.327Z",
+    "published": "Sun, 02 Aug 2026 10:09:34 +0000",
+    "processed": true,
+    "processedAt": "2026-08-02T11:49:46.292Z"
+  },
+  {
+    "url": "https://the-decoder.com/claude-opus-5-pushes-prompt-to-game-ai-from-rough-color-blocks-to-full-3d-prototypes-with-physics-and-music/",
+    "title": "Claude Opus 5 pushes prompt-to-game AI from rough color blocks to full 3D prototypes with physics and music",
+    "description": "Anthropic's Claude Opus 5 generates complete 3D games from single prompts, including a first-person shooter, a kart racer, and a Minecraft clone, all without a single external asset. Geometry, textures, physics, and in some cases music are produced as code and run directly in the browser. I",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-02T11:46:20.327Z",
+    "published": "Sun, 02 Aug 2026 08:51:07 +0000",
+    "processed": true,
+    "processedAt": "2026-08-02T11:49:46.292Z"
   }
 ]
