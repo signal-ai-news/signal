@@ -1541,9 +1541,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-25T20:36:59.559Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-02T07:55:07.733Z"
   },
   {
     "slug": "ai-detection-software-review",
@@ -1563,9 +1564,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-25T20:36:59.559Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-02T07:55:18.118Z"
   },
   {
     "slug": "ai-authorization-secrets",
@@ -2839,6 +2841,28 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-01T20:36:48.661Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "mexico-us-ai-boom",
+    "title": "5 Ways Mexico Fuels US AI Boom",
+    "summary": "Mexico's surprising role in America's AI revolution will change everything",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/mexico-us-ai-boom.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/mexico-us-ai-boom.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 430,
+    "tags": [
+      "AI",
+      "Mexico",
+      "US",
+      "Tech",
+      "Innovation"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-02T07:54:54.692Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
