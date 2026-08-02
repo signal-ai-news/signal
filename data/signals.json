@@ -11456,5 +11456,240 @@
     "published": "Sun, 02 Aug 2026 08:51:07 +0000",
     "processed": true,
     "processedAt": "2026-08-02T11:49:46.292Z"
+  },
+  {
+    "url": "https://flashblaze.xyz/posts/having-fun-with-omp-deepseek-luna-and-agy/",
+    "title": "Having fun with oh my pi, DeepSeek-V4-Flash, GPT-5.6 Luna and Antigravity CLI",
+    "description": "Article URL: https://flashblaze.xyz/posts/having-fun-with-omp-deepseek-luna-and-agy/\nComments URL: https://news.ycombinator.com/item?id=49145463\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T15:47:54.595Z",
+    "published": "Sun, 02 Aug 2026 15:23:59 +0000",
+    "processed": true,
+    "processedAt": "2026-08-02T15:51:24.829Z"
+  },
+  {
+    "url": "https://github.com/AML-memory/agent-memory-leaderboard",
+    "title": "Show HN: A fixed harness for comparing LLM agent memory systems",
+    "description": "Article URL: https://github.com/AML-memory/agent-memory-leaderboard\nComments URL: https://news.ycombinator.com/item?id=49145408\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T15:47:54.595Z",
+    "published": "Sun, 02 Aug 2026 15:18:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-02T15:51:24.829Z"
+  },
+  {
+    "url": "https://blog.mozilla.org/en/mozilla/mozilla-state-of-open-source-ai-report/",
+    "title": "Mozilla's Inaugural 'State of Open Source AI' Report Is Here",
+    "description": "Article URL: https://blog.mozilla.org/en/mozilla/mozilla-state-of-open-source-ai-report/\nComments URL: https://news.ycombinator.com/item?id=49145395\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T15:47:54.595Z",
+    "published": "Sun, 02 Aug 2026 15:16:22 +0000",
+    "processed": true,
+    "processedAt": "2026-08-02T15:51:24.829Z"
+  },
+  {
+    "url": "https://utopiagov.com/blog/political-compass",
+    "title": "Claude on Political Compass",
+    "description": "Article URL: https://utopiagov.com/blog/political-compass\nComments URL: https://news.ycombinator.com/item?id=49145337\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T15:47:54.595Z",
+    "published": "Sun, 02 Aug 2026 15:06:59 +0000",
+    "processed": true,
+    "processedAt": "2026-08-02T15:51:24.829Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=OX1yHmeLPy8",
+    "title": "YouTube AI slop prevention targeting known good channels",
+    "description": "Article URL: https://www.youtube.com/watch?v=OX1yHmeLPy8\nComments URL: https://news.ycombinator.com/item?id=49145190\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T15:47:54.595Z",
+    "published": "Sun, 02 Aug 2026 14:50:39 +0000",
+    "processed": true,
+    "processedAt": "2026-08-02T15:51:24.829Z"
+  },
+  {
+    "url": "https://pluralistic.net/2026/08/01/dare-snot/",
+    "title": "Pluralistic: Why businesses lie about AI",
+    "description": "Article URL: https://pluralistic.net/2026/08/01/dare-snot/\nComments URL: https://news.ycombinator.com/item?id=49145174\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T15:47:54.595Z",
+    "published": "Sun, 02 Aug 2026 14:48:57 +0000"
+  },
+  {
+    "url": "https://github.com/xcreener/xcreener-mcp",
+    "title": "Show HN: MCP server so AI agents can screen markets in plain English",
+    "description": "Article URL: https://github.com/xcreener/xcreener-mcp\nComments URL: https://news.ycombinator.com/item?id=49145092\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T15:47:54.595Z",
+    "published": "Sun, 02 Aug 2026 14:38:46 +0000"
+  },
+  {
+    "url": "https://rails-agent.com",
+    "title": "Show HN: Rails Agent – Build Autonomous AI Agents Natively in Ruby on Rails",
+    "description": "Rails Agent - The Fullstack Agentic Development Platform For Ruby on Rails. Build, Test, Deploy & Monitor in one single dashboard. Advanced alternative for RubyLLM and Active Agent\n\nComments URL: https://news.ycombinator.com/item?id=49145011\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T15:47:54.595Z",
+    "published": "Sun, 02 Aug 2026 14:25:01 +0000"
+  },
+  {
+    "url": "https://www.librarian.net/notoai/",
+    "title": "How to disable or avoid intrusive AI – librarian.net",
+    "description": "Article URL: https://www.librarian.net/notoai/\nComments URL: https://news.ycombinator.com/item?id=49144973\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T15:47:54.595Z",
+    "published": "Sun, 02 Aug 2026 14:21:30 +0000"
+  },
+  {
+    "url": "https://github.com/silverdolphin863/claude-code-meter",
+    "title": "Show HN: CC Meter, a Windows Tray Gauge for Claude Code and Codex Limits",
+    "description": "Article URL: https://github.com/silverdolphin863/claude-code-meter\nComments URL: https://news.ycombinator.com/item?id=49144960\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T15:47:54.595Z",
+    "published": "Sun, 02 Aug 2026 14:19:25 +0000"
+  },
+  {
+    "url": "https://nochan.net/b/Internet-Crap/20260714-Do-Not-Trust--Continuously-Verify/",
+    "title": "Do Not Trust, Continuously Verify (Your AI Agents)",
+    "description": "Article URL: https://nochan.net/b/Internet-Crap/20260714-Do-Not-Trust--Continuously-Verify/\nComments URL: https://news.ycombinator.com/item?id=49144956\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T15:47:54.595Z",
+    "published": "Sun, 02 Aug 2026 14:19:04 +0000"
+  },
+  {
+    "url": "https://www.banfacialrecognition.com/venues/",
+    "title": "Ban AI Surveillance at Live Events",
+    "description": "Article URL: https://www.banfacialrecognition.com/venues/\nComments URL: https://news.ycombinator.com/item?id=49144879\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T15:47:54.595Z",
+    "published": "Sun, 02 Aug 2026 14:10:18 +0000"
+  },
+  {
+    "url": "https://runtimewire.com/article/arrakis-security-raises-8-million-ai-agent-runtime-controls",
+    "title": "Arrakis raises $8M for AI agent runtime security",
+    "description": "Article URL: https://runtimewire.com/article/arrakis-security-raises-8-million-ai-agent-runtime-controls\nComments URL: https://news.ycombinator.com/item?id=49144865\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T15:47:54.595Z",
+    "published": "Sun, 02 Aug 2026 14:08:42 +0000"
+  },
+  {
+    "url": "https://github.com/zamarrowski/claudemon",
+    "title": "Show HN: Claude Code takes forever, so I filled the waiting with Pokémon",
+    "description": "Wild Pokemon appear while you work in Claude Code.\n\nComments URL: https://news.ycombinator.com/item?id=49144843\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T15:47:54.595Z",
+    "published": "Sun, 02 Aug 2026 14:05:50 +0000"
+  },
+  {
+    "url": "https://www.wsj.com/tech/ai/ai-slop-blurring-reality-podcast-06a9e879",
+    "title": "AI Images Are Everywhere. Here's What They Do to Our Brains, and What We Can Do",
+    "description": "Article URL: https://www.wsj.com/tech/ai/ai-slop-blurring-reality-podcast-06a9e879\nComments URL: https://news.ycombinator.com/item?id=49144838\nPoints: 2\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T15:47:54.595Z",
+    "published": "Sun, 02 Aug 2026 14:05:27 +0000"
+  },
+  {
+    "url": "https://www.stlouisfed.org/on-the-economy/2026/jul/ai-productivity-what-firms-say-earnings-calls",
+    "title": "AI and Productivity: What Firms Are Saying on Earnings Calls",
+    "description": "Article URL: https://www.stlouisfed.org/on-the-economy/2026/jul/ai-productivity-what-firms-say-earnings-calls\nComments URL: https://news.ycombinator.com/item?id=49144826\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T15:47:54.595Z",
+    "published": "Sun, 02 Aug 2026 14:04:13 +0000"
+  },
+  {
+    "url": "https://www.alecvo.org/blog/types-with-ai/",
+    "title": "Types with AI: Working with LLMs Through Types",
+    "description": "Article URL: https://www.alecvo.org/blog/types-with-ai/\nComments URL: https://news.ycombinator.com/item?id=49144719\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T15:47:54.595Z",
+    "published": "Sun, 02 Aug 2026 13:52:12 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49144673",
+    "title": "Ask HN: Is discovery channel using AI?",
+    "description": "My family and I have been watching discovery's shark week, and I could swear that many of the B rolls we've been watching are AI generated.can anyone confirm? That seems... surprising to me.\n\nComments URL: https://news.ycombinator.com/item?id=49144673\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T15:47:54.595Z",
+    "published": "Sun, 02 Aug 2026 13:47:02 +0000"
+  },
+  {
+    "url": "https://crestnotch.app/",
+    "title": "Show HN: Crest, a MacBook notch control room that answers Claude Code prompts",
+    "description": "Article URL: https://crestnotch.app/\nComments URL: https://news.ycombinator.com/item?id=49144669\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T15:47:54.595Z",
+    "published": "Sun, 02 Aug 2026 13:46:38 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-apply-coding-agents-to-non-programming-tasks/",
+    "title": "How to Apply Coding Agents to Non-Programming Tasks",
+    "description": "Perform non-programming tasks with coding agents\nThe post How to Apply Coding Agents to Non-Programming Tasks appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-02T15:48:00.023Z",
+    "published": "Sun, 02 Aug 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/i-replaced-a-15-minute-booking-process-with-a-langgraph-ai-agent/",
+    "title": "I Replaced a 15-Minute Booking Process with a LangGraph AI Agent",
+    "description": "A step-by-step guide to building, running, and monitoring a stateful customer support agent using Python, LangGraph, and Langfuse.\nThe post I Replaced a 15-Minute Booking Process with a LangGraph AI Agent appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-02T15:48:00.023Z",
+    "published": "Sun, 02 Aug 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-presence-wants-to-make-ai-agents-production-ready-for-businesses/",
+    "title": "OpenAI Presence wants to make AI agents production-ready for businesses",
+    "description": "OpenAI's new enterprise offering, Presence, is designed to get AI agents into production for customer service and internal workflows. Unlike the existing Workspace Agents, Presence targets external deployments. For complex cases, OpenAI's own engineers step in.\nThe article OpenAI Presence w",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-02T15:48:01.720Z",
+    "published": "Sun, 02 Aug 2026 13:10:21 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/meta-ai-uses-a-second-ai-agent-as-a-memory-coach-to-keep-long-tasks-on-track/",
+    "title": "Meta AI uses a second AI agent as a memory coach to keep long tasks on track",
+    "description": "Meta AI wants to stop AI agents from forgetting errors they've already diagnosed and repeating failed steps during complex tasks. A separate memory agent maintains a structured memory bank and decides when to remind the main agent and when to stay silent. The system improved scores by up to",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-02T15:48:01.720Z",
+    "published": "Sun, 02 Aug 2026 12:57:38 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/a-real-macos-flaw-worth-200k-went-unreported-because-apples-bug-bounty-inbox-was-full-of-ai-slop/",
+    "title": "A real macOS flaw worth $200K went unreported because Apple's bug bounty inbox was full of AI slop",
+    "description": "Apple's bug bounty program is drowning in AI-generated bug reports. The company has capped submissions per researcher because fabricated reports are clogging the review pipeline. As a result, Italian startup Bynario was initially unable to report a serious macOS vulnerability worth up to $2",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-02T15:48:01.720Z",
+    "published": "Sun, 02 Aug 2026 12:42:49 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2225770/bluetooth-speakers-common-problems-fixes/",
+    "title": "Common problems with Bluetooth speakers and how to fix them",
+    "description": "Struggling with audio dropout or finnicky pairing? Ensure these common Bluetooth speaker problems aren&#39;t getting in the way of your auditory delights.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-02T15:48:16.164Z",
+    "published": "Sun, 02 Aug 2026 14:30:00 +0000"
   }
 ]
