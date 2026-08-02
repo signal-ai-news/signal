@@ -655,7 +655,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T19:00:55.616Z",
-    "published": "Tue, 21 Jul 2026 17:55:20 +0000"
+    "published": "Tue, 21 Jul 2026 17:55:20 +0000",
+    "processed": true,
+    "processedAt": "2026-08-02T20:19:33.878Z"
   },
   {
     "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
@@ -719,7 +721,9 @@
     "source": "Towards Data Science",
     "category": "ml",
     "discovered": "2026-07-21T19:30:21.691Z",
-    "published": "Mon, 20 Jul 2026 15:00:00 +0000"
+    "published": "Mon, 20 Jul 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-02T20:19:33.878Z"
   },
   {
     "url": "https://towardsdatascience.com/automatically-assign-a-category-to-uncategorised-rows-in-power-query-and-dax/",
@@ -728,7 +732,9 @@
     "source": "Towards Data Science",
     "category": "ml",
     "discovered": "2026-07-21T19:30:21.691Z",
-    "published": "Mon, 20 Jul 2026 12:00:00 +0000"
+    "published": "Mon, 20 Jul 2026 12:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-02T20:19:33.878Z"
   },
   {
     "url": "https://the-decoder.com/an-ai-system-helped-pakistani-judges-clear-massive-backlogs-at-38-50-return-per-dollar-invested/",
@@ -737,7 +743,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-21T19:30:23.275Z",
-    "published": "Tue, 21 Jul 2026 19:12:20 +0000"
+    "published": "Tue, 21 Jul 2026 19:12:20 +0000",
+    "processed": true,
+    "processedAt": "2026-08-02T20:19:33.878Z"
   },
   {
     "url": "https://the-decoder.com/claude-cowork-learns-new-skills-through-screen-recordings-and-voice-over-explanations/",
@@ -11691,5 +11699,16 @@
     "category": "news",
     "discovered": "2026-08-02T15:48:16.164Z",
     "published": "Sun, 02 Aug 2026 14:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2226181/2026-solar-eclipse-what-part-of-united-states-can-see/",
+    "title": "Here's where you want to be to see the 2026 solar eclipse",
+    "description": "If you want the best view of the 2026 solar eclipse, you&#39;ll need to travel to Spain or Iceland.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-02T20:16:26.315Z",
+    "published": "Sun, 02 Aug 2026 17:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-02T20:19:33.878Z"
   }
 ]
