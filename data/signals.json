@@ -11710,5 +11710,204 @@
     "published": "Sun, 02 Aug 2026 17:30:00 +0000",
     "processed": true,
     "processedAt": "2026-08-02T20:19:33.878Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+    "title": "Sam Altman and AI’s decel debate",
+    "description": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-02T23:45:14.590Z",
+    "published": "Sun, 02 Aug 2026 20:54:22 +0000",
+    "processed": true,
+    "processedAt": "2026-08-02T23:49:00.125Z"
+  },
+  {
+    "url": "https://www.vox.com/culture/492604/ai-deepfake-gay-influencers-tiktok-thirst-traps",
+    "title": "The diabolical world of convincing AI thirst traps",
+    "description": "Article URL: https://www.vox.com/culture/492604/ai-deepfake-gay-influencers-tiktok-thirst-traps\nComments URL: https://news.ycombinator.com/item?id=49149429\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T23:45:28.330Z",
+    "published": "Sun, 02 Aug 2026 23:24:09 +0000",
+    "processed": true,
+    "processedAt": "2026-08-02T23:49:00.125Z"
+  },
+  {
+    "url": "https://github.com/spikonado/sprocket",
+    "title": "Show HN: I'm 16 y/o and Built the only AI Agent for Hardware and Software Dev",
+    "description": "Article URL: https://github.com/spikonado/sprocket\nComments URL: https://news.ycombinator.com/item?id=49149322\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T23:45:28.330Z",
+    "published": "Sun, 02 Aug 2026 23:04:53 +0000",
+    "processed": true,
+    "processedAt": "2026-08-02T23:49:00.125Z"
+  },
+  {
+    "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
+    "title": "AI poster wins Ohio State Fair contest",
+    "description": "Article URL: https://www.ohiostatefair.com/p/get-involved/arts/poster-contest\nComments URL: https://news.ycombinator.com/item?id=49149188\nPoints: 34\n# Comments: 15",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T23:45:28.330Z",
+    "published": "Sun, 02 Aug 2026 22:43:47 +0000",
+    "processed": true,
+    "processedAt": "2026-08-02T23:49:00.125Z"
+  },
+  {
+    "url": "https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/",
+    "title": "Teaching an AI to know itself: Building a local LLM agent in D",
+    "description": "Article URL: https://blog.dlang.org/2026/06/07/teaching-an-ai-to-know-itself-building-a-local-llm-agent-in-d/\nComments URL: https://news.ycombinator.com/item?id=49149134\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T23:45:28.330Z",
+    "published": "Sun, 02 Aug 2026 22:36:31 +0000",
+    "processed": true,
+    "processedAt": "2026-08-02T23:49:00.125Z"
+  },
+  {
+    "url": "https://cretezy.com/2026/aur-ai-security/",
+    "title": "Reviewing the Arch User Repository with AI",
+    "description": "Article URL: https://cretezy.com/2026/aur-ai-security/\nComments URL: https://news.ycombinator.com/item?id=49149119\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T23:45:28.330Z",
+    "published": "Sun, 02 Aug 2026 22:35:13 +0000"
+  },
+  {
+    "url": "https://github.com/joey-io/gauge",
+    "title": "Gauge – see where your Claude Code subscription goes",
+    "description": "Article URL: https://github.com/joey-io/gauge\nComments URL: https://news.ycombinator.com/item?id=49149111\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T23:45:28.330Z",
+    "published": "Sun, 02 Aug 2026 22:34:01 +0000"
+  },
+  {
+    "url": "https://www.morningstar.com/news/marketwatch/20260731180/job-seekers-can-now-spend-thousands-on-ai-certificates-is-it-worth-it",
+    "title": "30% of certificate credentials reported on LinkedIn are now AI-related",
+    "description": "Article URL: https://www.morningstar.com/news/marketwatch/20260731180/job-seekers-can-now-spend-thousands-on-ai-certificates-is-it-worth-it\nComments URL: https://news.ycombinator.com/item?id=49149108\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T23:45:28.330Z",
+    "published": "Sun, 02 Aug 2026 22:33:44 +0000"
+  },
+  {
+    "url": "https://drive.google.com/file/d/14IKYzJavvzvbCL8GR0SkjzRmroMAaboN/view?usp=drive_link",
+    "title": "Tlbic: Expanded appendix on AI dialogue, plus a note on shared human wisdom",
+    "description": "Article URL: https://drive.google.com/file/d/14IKYzJavvzvbCL8GR0SkjzRmroMAaboN/view?usp=drive_link\nComments URL: https://news.ycombinator.com/item?id=49148777\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T23:45:28.330Z",
+    "published": "Sun, 02 Aug 2026 21:54:50 +0000"
+  },
+  {
+    "url": "https://buildtounderstand.org/explorations/what-is-the-smallest-ai-platform-that-could-possibly-work/",
+    "title": "What Is the Smallest (AI) Platform That Could Possibly Work?",
+    "description": "Article URL: https://buildtounderstand.org/explorations/what-is-the-smallest-ai-platform-that-could-possibly-work/\nComments URL: https://news.ycombinator.com/item?id=49148769\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T23:45:28.330Z",
+    "published": "Sun, 02 Aug 2026 21:53:55 +0000"
+  },
+  {
+    "url": "https://github.com/ConsciousGroupMind/SKYNET-800---Collective-Intelligence-Forecasting-System",
+    "title": "Show HN: Alfa. Killing AI hallucinations with resonance",
+    "description": "This code predicts the exact time and price of a future price point, and can also construct a curve of future prices. It can be used to decipher any process that has a graph—for example, a graph of mutual understanding between artificial intelligence and a human.\n\nComments URL: https://news.ycombin",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T23:45:28.330Z",
+    "published": "Sun, 02 Aug 2026 21:51:09 +0000"
+  },
+  {
+    "url": "https://www.jvt.me/posts/2026/08/02/ai-maintainer/",
+    "title": "How much AI can a maintainer get away with using without losing their humanity?",
+    "description": "Article URL: https://www.jvt.me/posts/2026/08/02/ai-maintainer/\nComments URL: https://news.ycombinator.com/item?id=49148708\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T23:45:28.330Z",
+    "published": "Sun, 02 Aug 2026 21:47:45 +0000"
+  },
+  {
+    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work/",
+    "title": "How AI is expanding what people do at work",
+    "description": "Article URL: https://openai.com/index/how-ai-is-expanding-what-people-do-at-work/\nComments URL: https://news.ycombinator.com/item?id=49148630\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T23:45:28.330Z",
+    "published": "Sun, 02 Aug 2026 21:40:11 +0000"
+  },
+  {
+    "url": "https://deltiasgaming.com/google-removes-new-earth-ai-tool-a-day-after-users-create-fake-disasters/",
+    "title": "Google Removes New Earth AI Tool a Day After Users Create Fake Disasters",
+    "description": "Article URL: https://deltiasgaming.com/google-removes-new-earth-ai-tool-a-day-after-users-create-fake-disasters/\nComments URL: https://news.ycombinator.com/item?id=49148433\nPoints: 2\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T23:45:28.330Z",
+    "published": "Sun, 02 Aug 2026 21:17:56 +0000"
+  },
+  {
+    "url": "https://elezea.com/2026/08/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide/",
+    "title": "Should You Use AI for a Task?",
+    "description": "Article URL: https://elezea.com/2026/08/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide/\nComments URL: https://news.ycombinator.com/item?id=49148410\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T23:45:28.330Z",
+    "published": "Sun, 02 Aug 2026 21:16:04 +0000"
+  },
+  {
+    "url": "https://gavinray97.github.io/blog/design-by-contract-and-effects-for-llms",
+    "title": "Design by Contract and effects are essential for LLM-generated code",
+    "description": "Article URL: https://gavinray97.github.io/blog/design-by-contract-and-effects-for-llms\nComments URL: https://news.ycombinator.com/item?id=49148299\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T23:45:28.330Z",
+    "published": "Sun, 02 Aug 2026 21:05:18 +0000"
+  },
+  {
+    "url": "https://seanhelvey.com/tools-and-their-tools/",
+    "title": "AI Mania: From Tulips to Tokens",
+    "description": "Article URL: https://seanhelvey.com/tools-and-their-tools/\nComments URL: https://news.ycombinator.com/item?id=49148159\nPoints: 46\n# Comments: 48",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T23:45:28.330Z",
+    "published": "Sun, 02 Aug 2026 20:48:28 +0000"
+  },
+  {
+    "url": "https://www.aikido.dev/blog/anthropic-rogue-agents-package-stole-keys",
+    "title": "Anthropic's Fever Dream: Claude's package that stole real keys",
+    "description": "Article URL: https://www.aikido.dev/blog/anthropic-rogue-agents-package-stole-keys\nComments URL: https://news.ycombinator.com/item?id=49148070\nPoints: 10\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T23:45:28.330Z",
+    "published": "Sun, 02 Aug 2026 20:36:21 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=_V_ed5fuexA[Video]",
+    "title": "The next 50 years: humanity, AI, power – Yuval Noah Harari [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=_V_ed5fuexA[Video]\nComments URL: https://news.ycombinator.com/item?id=49148064\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T23:45:28.330Z",
+    "published": "Sun, 02 Aug 2026 20:35:33 +0000"
+  },
+  {
+    "url": "https://authoryze.ai",
+    "title": "Show HN: Authoryze- payment controls for AI agents",
+    "description": "Article URL: https://authoryze.ai\nComments URL: https://news.ycombinator.com/item?id=49148057\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T23:45:28.330Z",
+    "published": "Sun, 02 Aug 2026 20:34:42 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
+    "title": "SynthID watermark is hard to break, but it doesn't solve AI disinformation",
+    "description": "Article URL: https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/\nComments URL: https://news.ycombinator.com/item?id=49147938\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T23:45:28.330Z",
+    "published": "Sun, 02 Aug 2026 20:22:23 +0000"
   }
 ]
