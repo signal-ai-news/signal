@@ -1633,9 +1633,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-26T15:48:05.923Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-02T20:39:41.752Z"
   },
   {
     "slug": "ai-red-flags-you-need-to-know",
@@ -1655,9 +1656,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-26T15:48:05.923Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-02T20:39:55.172Z"
   },
   {
     "slug": "ai-kill-switch-bill-unveiled",
@@ -2931,6 +2933,138 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-02T15:47:58.987Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "5-ai-tools-you-need-to-know",
+    "title": "5 AI Tools You Need",
+    "summary": "Discover the ultimate AI tools that will change your life: oh my pi, DeepSeek-V4-Flash, GPT-5.6 Luna, and Antigravity CLI",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/5-ai-tools-you-need-to-know.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/5-ai-tools-you-need-to-know.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 593,
+    "tags": [
+      "AI",
+      "DeepSeek",
+      "GPT",
+      "Antigravity",
+      "oh my pi"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-02T20:39:29.277Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-memory-breakthroughs",
+    "title": "3 Breakthroughs in AI Memory",
+    "summary": "Discover the ultimate comparison tool for LLM agent memory systems",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-memory-breakthroughs.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-memory-breakthroughs.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 482,
+    "tags": [
+      "AI",
+      "LLM",
+      "Memory Systems",
+      "Leaderboard",
+      "Comparison Tool"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-02T20:39:29.277Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "mozilla-state-of-open-source-ai-report",
+    "title": "3 Breakthroughs in Open Source AI",
+    "summary": "You need to know about Mozilla's inaugural report on the state of open source AI",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/mozilla-state-of-open-source-ai-report.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/mozilla-state-of-open-source-ai-report.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 455,
+    "tags": [
+      "AI",
+      "Open Source",
+      "Mozilla",
+      "State of Open Source AI",
+      "Machine Learning"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-02T20:39:29.277Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "youtube-ai-slop-prevention",
+    "title": "3 Ways YouTube AI Saves Good Channels",
+    "summary": "YouTube's new AI tool is a breakthrough in preventing slop on known good channels",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/youtube-ai-slop-prevention.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/youtube-ai-slop-prevention.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 394,
+    "tags": [
+      "YouTube",
+      "AI",
+      "Slop Prevention",
+      "Good Channels",
+      "Community"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-02T20:39:29.277Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "best-places-to-see-2026-solar-eclipse",
+    "title": "2 Spots for 2026 Eclipse",
+    "summary": "Don't miss the ultimate viewing spots for the 2026 solar eclipse",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/best-places-to-see-2026-solar-eclipse.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/best-places-to-see-2026-solar-eclipse.html",
+    "sourceName": "Engadget AI",
+    "wordCount": 423,
+    "tags": [
+      "solar eclipse",
+      "2026 eclipse",
+      "Spain",
+      "Iceland",
+      "astronomy"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-02T20:39:29.277Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "auto-category-power-query-dax",
+    "title": "3 Essential Steps to Auto-Category",
+    "summary": "Don't let uncategorized data hold you back - learn how to automatically assign categories in Power Query and DAX",
+    "category": "ML",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/auto-category-power-query-dax.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/auto-category-power-query-dax.html",
+    "sourceName": "Towards Data Science",
+    "wordCount": 548,
+    "tags": [
+      "Power Query",
+      "DAX",
+      "Data Categorization",
+      "Facility Management",
+      "ml"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-02T20:39:29.277Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
