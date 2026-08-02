@@ -11220,5 +11220,213 @@
     "category": "community",
     "discovered": "2026-08-01T23:47:53.534Z",
     "published": "Sat, 01 Aug 2026 20:17:59 +0000"
+  },
+  {
+    "url": "https://www.tamedtable.com/",
+    "title": "Show HN: TamedTable, AI ETL in Natural Language",
+    "description": "Hi HN, TamedTable is an LLM harness for data ETL.And yes, it was developed using AI, meaning you can take the entire specification and recreate it to your desires:https://github.com/ZSvedic/TamedTable\n\nComments URL: https://news.ycombinator.com/item?id=49142102\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T07:56:12.765Z",
+    "published": "Sun, 02 Aug 2026 07:51:37 +0000",
+    "processed": true,
+    "processedAt": "2026-08-02T07:59:47.367Z"
+  },
+  {
+    "url": "https://hellochinatech.com/p/deepseek-liang-wenfeng-transcript",
+    "title": "DeepSeek's Theory of the AI Gap",
+    "description": "Article URL: https://hellochinatech.com/p/deepseek-liang-wenfeng-transcript\nComments URL: https://news.ycombinator.com/item?id=49141929\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T07:56:12.765Z",
+    "published": "Sun, 02 Aug 2026 07:16:07 +0000",
+    "processed": true,
+    "processedAt": "2026-08-02T07:59:47.367Z"
+  },
+  {
+    "url": "https://galda.app/",
+    "title": "Show HN: Galda – Come back to Claude Code/Codex without digging through Git",
+    "description": "Article URL: https://galda.app/\nComments URL: https://news.ycombinator.com/item?id=49141897\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T07:56:12.765Z",
+    "published": "Sun, 02 Aug 2026 07:11:13 +0000",
+    "processed": true,
+    "processedAt": "2026-08-02T07:59:47.367Z"
+  },
+  {
+    "url": "https://www.lesswrong.com/posts/GPbWyHgx9hCLMdAjc/mud-as-ai-evaluation-and-llm-judge-distortion-in-ways",
+    "title": "MUD as AI Evaluation and LLM-judge distortion in ways aggregate κ misses",
+    "description": "Article URL: https://www.lesswrong.com/posts/GPbWyHgx9hCLMdAjc/mud-as-ai-evaluation-and-llm-judge-distortion-in-ways\nComments URL: https://news.ycombinator.com/item?id=49141862\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T07:56:12.765Z",
+    "published": "Sun, 02 Aug 2026 07:02:18 +0000",
+    "processed": true,
+    "processedAt": "2026-08-02T07:59:47.367Z"
+  },
+  {
+    "url": "https://ai.2it.onl/posts/concurrency-sweep/",
+    "title": "Testing LLM Concurrency on Consumer Hardware (RTX 5060)",
+    "description": "Article URL: https://ai.2it.onl/posts/concurrency-sweep/\nComments URL: https://news.ycombinator.com/item?id=49141833\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T07:56:12.765Z",
+    "published": "Sun, 02 Aug 2026 06:57:01 +0000",
+    "processed": true,
+    "processedAt": "2026-08-02T07:59:47.367Z"
+  },
+  {
+    "url": "https://twitter.com/MaxForAI/status/2083481455095959945",
+    "title": "DeepSeek V4 Pro GA on GPT 5.6 Sol (xhigh) level for fraction of cost",
+    "description": "Article URL: https://twitter.com/MaxForAI/status/2083481455095959945\nComments URL: https://news.ycombinator.com/item?id=49141776\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T07:56:12.765Z",
+    "published": "Sun, 02 Aug 2026 06:46:43 +0000"
+  },
+  {
+    "url": "https://deckspace.dev/claude-accounts/",
+    "title": "Show HN: Run multiple Claude desktop accounts in isolated windows (Mac/Windows)",
+    "description": "Article URL: https://deckspace.dev/claude-accounts/\nComments URL: https://news.ycombinator.com/item?id=49141736\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T07:56:12.765Z",
+    "published": "Sun, 02 Aug 2026 06:38:40 +0000"
+  },
+  {
+    "url": "https://agent-browser.dev/",
+    "title": "Agent-Browser – Browser Automation for AI",
+    "description": "Article URL: https://agent-browser.dev/\nComments URL: https://news.ycombinator.com/item?id=49141627\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T07:56:12.765Z",
+    "published": "Sun, 02 Aug 2026 06:15:23 +0000"
+  },
+  {
+    "url": "https://github.com/Midstall/claude-for-hardware",
+    "title": "Claude-for-Hardware",
+    "description": "Article URL: https://github.com/Midstall/claude-for-hardware\nComments URL: https://news.ycombinator.com/item?id=49141461\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T07:56:12.765Z",
+    "published": "Sun, 02 Aug 2026 05:40:32 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=r7b2uwy8_CM",
+    "title": "AI Ate Your RAM (Why Memory Prices Exploded)",
+    "description": "Article URL: https://www.youtube.com/watch?v=r7b2uwy8_CM\nComments URL: https://news.ycombinator.com/item?id=49141426\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T07:56:12.765Z",
+    "published": "Sun, 02 Aug 2026 05:33:53 +0000"
+  },
+  {
+    "url": "https://github.com/ANIRudH-lab-life/job-radar",
+    "title": "JobRadar: Open-source job search agent that scores listings with a local LLM",
+    "description": "Article URL: https://github.com/ANIRudH-lab-life/job-radar\nComments URL: https://news.ycombinator.com/item?id=49141408\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T07:56:12.765Z",
+    "published": "Sun, 02 Aug 2026 05:30:33 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=6Ide5pRLR8Y",
+    "title": "Challenge GPT and Claude to Run Their Own Lemonade Stands[video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=6Ide5pRLR8Y\nComments URL: https://news.ycombinator.com/item?id=49141228\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T07:56:12.765Z",
+    "published": "Sun, 02 Aug 2026 04:51:47 +0000"
+  },
+  {
+    "url": "https://github.com/jonhardwick-spec/ccn",
+    "title": "Show HN: Nuking the crap Claude left in the codebase – CCN",
+    "description": "CCN Strips comments out of codebases, and comments ONLY, this isn't a regex parse that could potentially eat your code, no this actually makes a list and checks it twice.I, as a real developer, often leave bytes of comments in my own codebases then forget about them, AI models leave MEGABYTES and h",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T07:56:12.765Z",
+    "published": "Sun, 02 Aug 2026 04:31:26 +0000"
+  },
+  {
+    "url": "https://isaacsu.com/2026/08/dont-credit-the-llm/",
+    "title": "Don't credit the LLM",
+    "description": "Article URL: https://isaacsu.com/2026/08/dont-credit-the-llm/\nComments URL: https://news.ycombinator.com/item?id=49141008\nPoints: 28\n# Comments: 37",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T07:56:12.765Z",
+    "published": "Sun, 02 Aug 2026 04:07:46 +0000"
+  },
+  {
+    "url": "https://runtimewire.com/article/futurism-says-meta-has-almost-nothing-to-show-for-ai-the-numbers-say-otherwise",
+    "title": "Futurism says Meta has \"almost nothing\" to show for AI. The numbers say",
+    "description": "Article URL: https://runtimewire.com/article/futurism-says-meta-has-almost-nothing-to-show-for-ai-the-numbers-say-otherwise\nComments URL: https://news.ycombinator.com/item?id=49140938\nPoints: 3\n# Comments: 6",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T07:56:12.765Z",
+    "published": "Sun, 02 Aug 2026 03:55:08 +0000"
+  },
+  {
+    "url": "https://www.axios.com/2026/08/01/deepseek-model-cheap-ai-price-war",
+    "title": "AI Models as Commodities",
+    "description": "Article URL: https://www.axios.com/2026/08/01/deepseek-model-cheap-ai-price-war\nComments URL: https://news.ycombinator.com/item?id=49140923\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T07:56:12.765Z",
+    "published": "Sun, 02 Aug 2026 03:51:00 +0000"
+  },
+  {
+    "url": "https://www.lerobit.com",
+    "title": "AI Marketing",
+    "description": "Article URL: https://www.lerobit.com\nComments URL: https://news.ycombinator.com/item?id=49140750\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T07:56:12.765Z",
+    "published": "Sun, 02 Aug 2026 03:20:25 +0000"
+  },
+  {
+    "url": "https://firstemployee.ai/",
+    "title": "Show HN: FirstEmployee.ai – Start a Business",
+    "description": "Article URL: https://firstemployee.ai/\nComments URL: https://news.ycombinator.com/item?id=49140638\nPoints: 2\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T07:56:12.765Z",
+    "published": "Sun, 02 Aug 2026 02:59:21 +0000"
+  },
+  {
+    "url": "https://www.twitch.tv/newsmyimaginationai",
+    "title": "The world first agentic AI radio",
+    "description": "Article URL: https://www.twitch.tv/newsmyimaginationai\nComments URL: https://news.ycombinator.com/item?id=49140554\nPoints: 4\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-02T07:56:12.765Z",
+    "published": "Sun, 02 Aug 2026 02:42:49 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/after-hugging-face-incident-metr-urges-independent-root-cause-investigations-into-ai-agent-misbehavior/",
+    "title": "After Hugging Face incident, METR urges independent root-cause investigations into AI agent misbehavior",
+    "description": "Research organization METR is calling for systematic, independently led investigations whenever AI agents act autonomously against their developers' intentions. The push comes partly in response to the Hugging Face hack carried out by OpenAI models. METR's own Frontier Risk Report documente",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-02T07:56:20.447Z",
+    "published": "Sun, 02 Aug 2026 07:33:17 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/snap-and-linkedin-are-fighting-back-against-a-flood-of-low-quality-ai-content/",
+    "title": "Snap and LinkedIn are fighting back against a flood of low-quality AI content",
+    "description": "Snap is banning AI-generated videos from Spotlight to keep the feed focused on human creativity. Content edited with Snapchat's own AI tools is still allowed. LinkedIn, meanwhile, has rolled out a dedicated \"AI slop\" reporting button.\nThe article Snap and LinkedIn are fighting back against",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-02T07:56:20.447Z",
+    "published": "Sun, 02 Aug 2026 06:49:28 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
+    "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+    "description": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-02T07:56:27.209Z",
+    "published": "Sun, 02 Aug 2026 07:53:07 +0000"
   }
 ]
