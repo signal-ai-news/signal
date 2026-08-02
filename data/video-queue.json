@@ -1587,9 +1587,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-25T20:36:59.559Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-02T15:48:14.111Z"
   },
   {
     "slug": "ai-consulting-breakthroughs",
@@ -1609,9 +1610,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-26T08:00:03.034Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-02T15:48:27.101Z"
   },
   {
     "slug": "ai-layoffs-tech-companies",
@@ -2863,6 +2865,72 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-02T07:54:54.692Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-security-flaws-exploited",
+    "title": "1.3%: AI Security Flaws Exploited",
+    "summary": "A shocking new study reveals that only a tiny fraction of AI-discovered security flaws are actually being exploited by hackers",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-security-flaws-exploited.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-security-flaws-exploited.html",
+    "sourceName": "The Decoder",
+    "wordCount": 411,
+    "tags": [
+      "AI Security",
+      "Vulnerabilities",
+      "Cybersecurity",
+      "Hacking",
+      "Online Safety"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-02T15:47:58.987Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-agents-outsmarting-us",
+    "title": "3 Reasons AI Agents Are Outsmarting Us",
+    "summary": "An AI creator's worst nightmare: building an agent that won't listen",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-agents-outsmarting-us.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-agents-outsmarting-us.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 499,
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Tech News",
+      "Innovation"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-02T15:47:58.987Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "statgate-llm-evals-breakthrough",
+    "title": "3 Breakthrough Ways Statgate Boosts LLM Evals",
+    "summary": "Discover how Statgate's statistically calibrated gates are changing the game for LLM evaluations",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/statgate-llm-evals-breakthrough.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/statgate-llm-evals-breakthrough.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 472,
+    "tags": [
+      "LLM",
+      "Statgate",
+      "AI",
+      "Machine Learning",
+      "Calibrated Gates"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-02T15:47:58.987Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
