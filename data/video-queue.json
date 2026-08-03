@@ -1679,9 +1679,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-26T15:48:05.923Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-03T12:40:14.935Z"
   },
   {
     "slug": "three-ai-counting-breakthrough",
@@ -1701,9 +1702,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-26T15:48:05.923Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-03T12:40:18.613Z"
   },
   {
     "slug": "ai-replaces-website",
@@ -3065,6 +3067,50 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-02T20:39:29.277Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-thirst-traps-exposed",
+    "title": "3 AI Thirst Traps to Watch",
+    "summary": "Don't fall for these convincing AI-generated social media influencers",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-thirst-traps-exposed.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-thirst-traps-exposed.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 546,
+    "tags": [
+      "AI",
+      "Social Media",
+      "Influencers",
+      "Deepfakes",
+      "Technology"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-03T12:40:02.693Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-art-wins-ohio-state-fair",
+    "title": "3 Reasons AI Art Won",
+    "summary": "An AI-generated poster just took top honors at the Ohio State Fair, and you need to know what this means for the future of art",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-art-wins-ohio-state-fair.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-art-wins-ohio-state-fair.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 473,
+    "tags": [
+      "AI Art",
+      "Ohio State Fair",
+      "Art Contest",
+      "Machine Learning",
+      "Creative Technology"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-03T12:40:02.693Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
