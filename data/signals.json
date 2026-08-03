@@ -12200,5 +12200,195 @@
     "category": "news",
     "discovered": "2026-08-03T12:41:57.904Z",
     "published": "Mon, 03 Aug 2026 09:43:32 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+    "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+    "description": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents that can code, reason, create media, and complete complex tasks. Siri AI is genuinely useful, yet it",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-03T19:06:31.899Z",
+    "published": "Mon, 03 Aug 2026 18:43:43 +0000",
+    "processed": true,
+    "processedAt": "2026-08-03T19:10:04.079Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+    "title": "Congress’s favorite AI tool? ChatGPT",
+    "description": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-03T19:06:31.899Z",
+    "published": "Mon, 03 Aug 2026 16:40:55 +0000",
+    "processed": true,
+    "processedAt": "2026-08-03T19:10:04.079Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/prompt-context-loop-the-three-engineering-layers-every-rag-system-is-built-on/",
+    "title": "Prompt, Context, Loop: The Three Engineering Layers Every RAG System Is Built On",
+    "description": "Enterprise Document Intelligence [Vol.1 #M2] - Every RAG system is built in three engineering layers stacked on one LLM call: prompt (the call itself), context (what fills the model’s window), loop (when the next call fires and when it stops). Knowing which layer you are standing on is half of build",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-03T19:06:42.449Z",
+    "published": "Mon, 03 Aug 2026 16:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-03T19:10:04.079Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/cli-agents-with-python-ollama/",
+    "title": "How to Build CLI Agents with Python & Ollama",
+    "description": "Create a local CLI Agent from scratch completely for free\nThe post How to Build CLI Agents with Python &#038; Ollama appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-03T19:06:42.449Z",
+    "published": "Mon, 03 Aug 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-03T19:10:04.079Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/the-ai-was-the-easy-part-what-is-a-forward-deployed-engineer-in-a-supply-chain/",
+    "title": "The AI Was the Easy Part: What Is a Forward-Deployed Engineer in a Supply Chain?",
+    "description": "What actually makes a Forward Deployed Engineer, told through one supply chain project.\nThe post The AI Was the Easy Part: What Is a Forward-Deployed Engineer in a Supply Chain? appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-03T19:06:42.449Z",
+    "published": "Mon, 03 Aug 2026 13:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-03T19:10:04.079Z"
+  },
+  {
+    "url": "https://the-decoder.com/alibabas-new-qwen-model-is-also-taking-your-job-but-this-time-its-great/",
+    "title": "Alibaba's new Qwen model is also taking your job, but this time it's great",
+    "description": "Alibaba is marketing its new AI model Qwen 3.8 with a video that shows the AI working while a person enjoys their hobbies. It's a deliberate contrast to the job loss warnings from OpenAI and Anthropic. Of course, it's still just marketing.\nThe article Alibaba&#039;s new Qwen model is also t",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-03T19:06:44.348Z",
+    "published": "Mon, 03 Aug 2026 17:12:23 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/ibm-finds-92-of-companies-hit-by-ai-security-breaches-lacked-basic-access-controls/",
+    "title": "IBM finds 92% of companies hit by AI security breaches lacked basic access controls",
+    "description": "According to IBM, 92 percent of companies that experienced an AI security incident had inadequate access controls for their AI systems. The model itself was rarely the problem.\nThe article IBM finds 92% of companies hit by AI security breaches lacked basic access controls appeared first on",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-03T19:06:44.348Z",
+    "published": "Mon, 03 Aug 2026 15:47:08 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/interpol-says-ai-has-become-the-core-operational-driver-of-cybercrime-across-africa/",
+    "title": "Interpol says AI has become the \"core operational driver of cybercrime\" across Africa",
+    "description": "AI is involved in 55 percent of reported cybercrimes in Africa, according to a new Interpol report. Financial losses more than doubled from $192 million to $484 million, and about 600,000 cases of digital extortion involving deepfakes were recorded.\nThe article Interpol says AI has become t",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-03T19:06:44.348Z",
+    "published": "Mon, 03 Aug 2026 15:00:28 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/chinas-minimax-h3-is-the-first-open-model-to-top-an-ai-video-ranking/",
+    "title": "China's MiniMax H3 is the first open model to top an AI video ranking",
+    "description": "MiniMax releases H3 video model weights, putting an open model at the top of a video ranking for the first time.\nThe article China&#039;s MiniMax H3 is the first open model to top an AI video ranking appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-03T19:06:44.348Z",
+    "published": "Mon, 03 Aug 2026 13:52:29 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/apple-macbook-air-limited-supply-price-hike/",
+    "title": "I tried buying a MacBook Air from Apple today - shipping was delayed by over a month",
+    "description": "Apple is starting to feel the global memory shortage, with MacBook Air shipments delayed by a month or more.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-03T19:06:56.091Z",
+    "published": "Mon, 03 Aug 2026 18:50:00 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/ai-is-cyber-weapon-and-massive-target-crowdstrike-warns/",
+    "title": "AI is both a cyber weapon and a massive target, CrowdStrike warns",
+    "description": "The same AI tools triggering suspicious alerts are being attacked by cybercriminals in droves.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-03T19:06:56.091Z",
+    "published": "Mon, 03 Aug 2026 17:52:06 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/ai-shopping-searches-surging-commerce-leaders-top-priority/",
+    "title": "AI shopping searches surged 200% in one year - and it's a top priority for commerce leaders now",
+    "description": "Eighty-six percent of commerce leaders believe AI is raising the bar for customer expectations.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-03T19:06:56.091Z",
+    "published": "Mon, 03 Aug 2026 16:12:16 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/how-to-keep-ai-conversations-private-chatgpt-gemini-copilot-claude/",
+    "title": "How to keep your conversations with ChatGPT, Gemini, Copilot or Claude as private as possible",
+    "description": "Worried about your personal AI chats being exposed? Here's how to tighten your privacy across several major chatbots.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-03T19:06:56.091Z",
+    "published": "Mon, 03 Aug 2026 14:45:00 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/zimaos-is-for-those-who-want-to-go-local-with-cloud-storage/",
+    "title": "This free Google Drive alternative keeps your files private - and local",
+    "description": "Looking to shift your storage needs from a third-party cloud service to inside your home network? If so, ZimaOS is a great option.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-03T19:06:56.091Z",
+    "published": "Mon, 03 Aug 2026 13:50:45 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/what-are-duress-passcodes/",
+    "title": "Duress passcodes explained: How they work and why they can land you in court",
+    "description": "But if you've been looking for the duress passcode feature on your phone, I have bad news for you.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-03T19:06:56.091Z",
+    "published": "Mon, 03 Aug 2026 12:43:00 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2229272/anbernic-rg-sp-will-be-available-on-august-5/",
+    "title": "The Anbernic RG SP will be available on August 5",
+    "description": "This modern-day Game Boy Advance SP remake starts at $65, but Anbernic is offering early bird pricing.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-03T19:06:56.637Z",
+    "published": "Mon, 03 Aug 2026 17:54:59 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2226190/apple-airtags-pros-cons/",
+    "title": "The pros and cons of using Apple AirTags",
+    "description": "AirTags are great, but there are competing trackers that offer handy features and unique form factors.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-03T19:06:56.637Z",
+    "published": "Mon, 03 Aug 2026 17:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2229209/gemini-spark-now-has-chrome-web-browsing-capabliities/",
+    "title": "Gemini Spark now has Chrome web-browsing capabilities",
+    "description": "Google&#39;s AI assistant can &#34;use your logged-in accounts and saved passwords to handle tedious web errands.&#34;",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-03T19:06:56.637Z",
+    "published": "Mon, 03 Aug 2026 17:17:20 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2229067/best-wireless-earbuds-120058222/",
+    "title": "Best wireless earbuds for 2026",
+    "description": "It&#39;s safe to say the wireless earbuds space is pretty saturated. We&#39;ve tested and reviewed dozens of models; these are our top picks.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-03T19:06:56.637Z",
+    "published": "Mon, 03 Aug 2026 15:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2228894/eu-announces-new-rules-on-ai-transparency/",
+    "title": "EU announces new rules on AI transparency",
+    "description": "The European Union has announced that new AI rules are now enforceable across the bloc.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-03T19:06:56.637Z",
+    "published": "Mon, 03 Aug 2026 13:15:20 +0000"
   }
 ]
