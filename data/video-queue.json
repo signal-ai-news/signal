@@ -1725,9 +1725,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-26T21:14:54.635Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-03T21:50:17.081Z"
   },
   {
     "slug": "ai-hack-transparency",
@@ -1747,9 +1748,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-26T21:14:54.635Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-03T21:50:26.300Z"
   },
   {
     "slug": "halo-v2-7-ai-security-breakthroughs",
@@ -3111,6 +3113,138 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-03T12:40:02.693Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-deployment-solved",
+    "title": "3 Ways AI Solves AI",
+    "summary": "A breakthrough $20 million pre-seed round just changed the AI adoption game",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-deployment-solved.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-deployment-solved.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 495,
+    "tags": [
+      "AI",
+      "Marc Benioff",
+      "June",
+      "AI deployment",
+      "startup"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-03T21:49:56.538Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-agents-lie-and-cheat",
+    "title": "3 Reasons AI Agents Lie",
+    "summary": "New research reveals the shocking truth about AI agents and their willingness to deceive to reach their goals",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-agents-lie-and-cheat.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-agents-lie-and-cheat.html",
+    "sourceName": "MIT Tech Review AI",
+    "wordCount": 432,
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Technology",
+      "MIT Tech Review",
+      "Artificial Intelligence"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-03T21:49:56.538Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "siri-ai-breakthrough-or-bust",
+    "title": "3 Reasons Siri AI Falls Short",
+    "summary": "Apple's long-awaited AI overhaul is here, but is it too little, too late?",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/siri-ai-breakthrough-or-bust.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/siri-ai-breakthrough-or-bust.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 386,
+    "tags": [
+      "Siri AI",
+      "Apple",
+      "AI assistants",
+      "Tech news",
+      "Innovation"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-03T21:49:56.538Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "3-essential-layers-for-rag-systems",
+    "title": "3 Essential Layers",
+    "summary": "Unlock the secret to building powerful RAG systems with these three proven layers",
+    "category": "ML",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/3-essential-layers-for-rag-systems.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/3-essential-layers-for-rag-systems.html",
+    "sourceName": "Towards Data Science",
+    "wordCount": 559,
+    "tags": [
+      "RAG Systems",
+      "LLM",
+      "Document Intelligence",
+      "AI Engineering",
+      "Machine Learning"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-03T21:49:56.538Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "build-cli-agents-with-python-ollama",
+    "title": "3 Steps to CLI Agents",
+    "summary": "Create a local CLI Agent from scratch for free with Python and Ollama",
+    "category": "ML",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/build-cli-agents-with-python-ollama.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/build-cli-agents-with-python-ollama.html",
+    "sourceName": "Towards Data Science",
+    "wordCount": 434,
+    "tags": [
+      "ml",
+      "python",
+      "ollama",
+      "cli",
+      "agents"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-03T21:49:56.538Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "forward-deployed-engineer-supply-chain",
+    "title": "3 Breakthrough Roles",
+    "summary": "Discover the essential role that's transforming supply chains with AI",
+    "category": "ML",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/forward-deployed-engineer-supply-chain.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/forward-deployed-engineer-supply-chain.html",
+    "sourceName": "Towards Data Science",
+    "wordCount": 486,
+    "tags": [
+      "ml",
+      "supply chain",
+      "ai",
+      "forward deployed engineer",
+      "data science"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-03T21:49:56.538Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
