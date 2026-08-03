@@ -11909,5 +11909,296 @@
     "category": "community",
     "discovered": "2026-08-02T23:45:28.330Z",
     "published": "Sun, 02 Aug 2026 20:22:23 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+    "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+    "description": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-03T12:41:22.227Z",
+    "published": "Mon, 03 Aug 2026 10:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-03T12:45:05.976Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+    "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-03T12:41:23.497Z",
+    "published": "Mon, 03 Aug 2026 12:08:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-03T12:45:05.976Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "title": "Here’s why AI agents lie and cheat to reach their goals",
+    "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-03T12:41:23.497Z",
+    "published": "Mon, 03 Aug 2026 08:30:05 +0000",
+    "processed": true,
+    "processedAt": "2026-08-03T12:45:05.976Z"
+  },
+  {
+    "url": "https://sixb.ai/news/sixb-framework-launch",
+    "title": "Show HN: Sixb – the operating layer for enterprise AI",
+    "description": "Hi HN!We open sourced a framework to be able to model the operational layer of a business.1. The problem today:Almost every company uses an AI assistant: ChatGPT, Claude, or Gemini.But it remains an assistant.And the companies are giving more and more information, even if some are sensitive, becaus",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-03T12:41:32.580Z",
+    "published": "Mon, 03 Aug 2026 12:41:04 +0000",
+    "processed": true,
+    "processedAt": "2026-08-03T12:45:05.976Z"
+  },
+  {
+    "url": "https://github.com/Angeliasrl/norms-mcp-engine",
+    "title": "Show HN: A fail-closed evidence engine for norms used by AI agents",
+    "description": "Article URL: https://github.com/Angeliasrl/norms-mcp-engine\nComments URL: https://news.ycombinator.com/item?id=49154830\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-03T12:41:32.580Z",
+    "published": "Mon, 03 Aug 2026 12:26:21 +0000",
+    "processed": true,
+    "processedAt": "2026-08-03T12:45:05.976Z"
+  },
+  {
+    "url": "https://www.404media.co/inside-an-ai-tiktok-shop-slop-factory-that-shills-supplements-recalled-by-the-fda/",
+    "title": "Inside An AI TikTok Shop Slop Factory That Shills Supplements Recalled by FDA",
+    "description": "Article URL: https://www.404media.co/inside-an-ai-tiktok-shop-slop-factory-that-shills-supplements-recalled-by-the-fda/\nComments URL: https://news.ycombinator.com/item?id=49154813\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-03T12:41:32.580Z",
+    "published": "Mon, 03 Aug 2026 12:23:59 +0000"
+  },
+  {
+    "url": "https://argot.tmonier.com/",
+    "title": "Show HN: Argot, a Rust AI guardrail based on your codebase AST patterns",
+    "description": "We have lots of benchmarks for new frontier LLMs (SWE benchmarks etc) to make them score on the \"best code\". In large codebase, the best code is the one that matches the codebase own voice and conventions, because that's the mental model of the team.Ingesting a full codebase explicit/implict patter",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-03T12:41:32.580Z",
+    "published": "Mon, 03 Aug 2026 12:12:51 +0000"
+  },
+  {
+    "url": "https://github.com/Kirill-Chistov/VibeMenu",
+    "title": "VibeMenu – a local macOS menu-bar dashboard for Claude Code and Codex",
+    "description": "Article URL: https://github.com/Kirill-Chistov/VibeMenu\nComments URL: https://news.ycombinator.com/item?id=49154689\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-03T12:41:32.580Z",
+    "published": "Mon, 03 Aug 2026 12:10:04 +0000"
+  },
+  {
+    "url": "https://github.com/vkarach/spriteloom",
+    "title": "Spriteloom – local AI pixel-art generator plugin for Aseprite",
+    "description": "Article URL: https://github.com/vkarach/spriteloom\nComments URL: https://news.ycombinator.com/item?id=49154659\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-03T12:41:32.580Z",
+    "published": "Mon, 03 Aug 2026 12:06:49 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Gw_hnD7m00M",
+    "title": "What You'd See During an AI World War [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=Gw_hnD7m00M\nComments URL: https://news.ycombinator.com/item?id=49154647\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-03T12:41:32.580Z",
+    "published": "Mon, 03 Aug 2026 12:05:15 +0000"
+  },
+  {
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004",
+    "title": "The AI bubble is popping; we just don't know it yet",
+    "description": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004\nComments URL: https://news.ycombinator.com/item?id=49154601\nPoints: 34\n# Comments: 16",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-03T12:41:32.580Z",
+    "published": "Mon, 03 Aug 2026 11:59:10 +0000"
+  },
+  {
+    "url": "https://github.com/sahilmahendrakar/ccbeam",
+    "title": "Show HN: Ccbeam – Teleport your Claude Code sessions to and from the cloud",
+    "description": "I got tired of leaving my laptop open while running coding agents, so I built ccbeam.With ccbeam, you can teleport your claude code session to and from your laptop, the cloud, and your remote devices. Your in progress work is transported too.You can start a claude code session from your laptop, bea",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-03T12:41:32.580Z",
+    "published": "Mon, 03 Aug 2026 11:55:44 +0000"
+  },
+  {
+    "url": "https://github.com/UnrealFactory/AgentCodeGUI",
+    "title": "Show HN: AgentCodeGUI – Multi-Account Desktop GUI for Claude Code and Codex",
+    "description": "While working with Claude Code and Codex, I realized I didn't really need an IDE anymore. Keeping a heavy IDE open, waiting for it to load, and then opening yet another terminal tab just to run an agent was more overhead than it was worth.It got worse with multiple agents — one terminal per agent,",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-03T12:41:32.580Z",
+    "published": "Mon, 03 Aug 2026 11:48:18 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49154372",
+    "title": "What are your Thoughts on AI Agents?",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=49154372\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-03T12:41:32.580Z",
+    "published": "Mon, 03 Aug 2026 11:33:25 +0000"
+  },
+  {
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/03/sci-fi-authors-scalzi-and-stross-decry-ais-dystopian-impact-on-their-craft/5282176",
+    "title": "Sci-fi authors Scalzi and Stross decry AI's dystopian impact on their craft",
+    "description": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/03/sci-fi-authors-scalzi-and-stross-decry-ais-dystopian-impact-on-their-craft/5282176\nComments URL: https://news.ycombinator.com/item?id=49154250\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-03T12:41:32.580Z",
+    "published": "Mon, 03 Aug 2026 11:17:58 +0000"
+  },
+  {
+    "url": "https://bazman88.github.io/",
+    "title": "Show HN: I turned the AI alignment debate into a strategy game",
+    "description": "Article URL: https://bazman88.github.io/\nComments URL: https://news.ycombinator.com/item?id=49154227\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-03T12:41:32.580Z",
+    "published": "Mon, 03 Aug 2026 11:15:46 +0000"
+  },
+  {
+    "url": "https://reviscio.com",
+    "title": "Reviscio – Free AI learning and study tools",
+    "description": "Article URL: https://reviscio.com\nComments URL: https://news.ycombinator.com/item?id=49154154\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-03T12:41:32.580Z",
+    "published": "Mon, 03 Aug 2026 11:08:22 +0000"
+  },
+  {
+    "url": "https://github.com/garagehq/nightcrawler/",
+    "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+    "description": "Article URL: https://github.com/garagehq/nightcrawler/\nComments URL: https://news.ycombinator.com/item?id=49154127\nPoints: 17\n# Comments: 9",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-03T12:41:32.580Z",
+    "published": "Mon, 03 Aug 2026 11:06:15 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "title": "Why AI agents lie and cheat to reach their goals",
+    "description": "Article URL: https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/\nComments URL: https://news.ycombinator.com/item?id=49154072\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-03T12:41:32.580Z",
+    "published": "Mon, 03 Aug 2026 11:00:59 +0000",
+    "processed": true,
+    "processedAt": "2026-08-03T12:45:05.976Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=gt-0t01COPw",
+    "title": "I Asked AI to Design 12 ESP32 Dev Boards. It Said No [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=gt-0t01COPw\nComments URL: https://news.ycombinator.com/item?id=49154067\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-03T12:41:32.580Z",
+    "published": "Mon, 03 Aug 2026 11:00:36 +0000"
+  },
+  {
+    "url": "https://philarchive.org/rec/NOVWIL",
+    "title": "What Is Left for Us? Against Degradation of Research by AI",
+    "description": "Article URL: https://philarchive.org/rec/NOVWIL\nComments URL: https://news.ycombinator.com/item?id=49153970\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-03T12:41:32.580Z",
+    "published": "Mon, 03 Aug 2026 10:46:41 +0000"
+  },
+  {
+    "url": "https://www.msn.com/en-us/money/other/hollywood-fights-ai-in-public-while-quietly-building-it-into-movies/ar-AA28IhCH",
+    "title": "Hollywood fights AI in public while building it into movies",
+    "description": "Article URL: https://www.msn.com/en-us/money/other/hollywood-fights-ai-in-public-while-quietly-building-it-into-movies/ar-AA28IhCH\nComments URL: https://news.ycombinator.com/item?id=49153942\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-03T12:41:32.580Z",
+    "published": "Mon, 03 Aug 2026 10:43:58 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49153851",
+    "title": "AI agent on a network made for geniuses to lead and focus on what's important",
+    "description": "Show HN: A network where an AI agent can create posts, comment, and moderate — users can talk to it in-thread.\n\nComments URL: https://news.ycombinator.com/item?id=49153851\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-03T12:41:32.580Z",
+    "published": "Mon, 03 Aug 2026 10:32:22 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-claude-help-me-build-my-200k-ml-resume/",
+    "title": "How Claude Help Me Build My $200k+ ML Resume",
+    "description": "How use Claude to craft an outstanding resume that lands offers\nThe post How Claude Help Me Build My $200k+ ML Resume appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-03T12:41:39.266Z",
+    "published": "Mon, 03 Aug 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/unicorn-pelican-middle-earth-openai-co-founder-karpathy-is-looking-for-the-next-ai-vibe-test/",
+    "title": "Unicorn, pelican, Middle-earth: OpenAI co-founder Karpathy is looking for the next AI vibe test",
+    "description": "One paragraph of \"Lord of the Rings\" in, 5,500 lines of code out. Andrej Karpathy had Claude Opus 5 turn Tolkien's opening into a 3D browser scene.\nThe article Unicorn, pelican, Middle-earth: OpenAI co-founder Karpathy is looking for the next AI vibe test appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-03T12:41:41.122Z",
+    "published": "Mon, 03 Aug 2026 12:07:31 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/two-teams-solved-the-same-quantum-crypto-problem-using-gpt-5-6-just-three-hours-apart/",
+    "title": "Two teams solved the same quantum crypto problem using GPT-5.6 just three hours apart",
+    "description": "Two research teams independently solved the same open quantum cryptography problem using OpenAI's GPT-5.6 Sol Ultra, submitting their papers just three hours apart. \"If someone mentions an open problem, the first thing is to see if GPT solves it,\" says one of the researchers. The case raise",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-03T12:41:41.122Z",
+    "published": "Mon, 03 Aug 2026 10:49:58 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/",
+    "title": "Alibaba’s open-weight Qwen3.8-Max takes on long-horizon AI tasks with 2.4 trillion parameters",
+    "description": "Alibaba's new flagship model Qwen3.8-Max is built to handle complex tasks on its own over days at a time, from reproducing research papers to designing chips autonomously. The team plans to release the weights next week.\nThe article Alibaba’s open-weight Qwen3.8-Max takes on long-horizon AI",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-03T12:41:41.122Z",
+    "published": "Mon, 03 Aug 2026 10:48:50 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
+    "title": "AI Conquered Coding. Fast Food Is Next",
+    "description": "Your next drive-thru order might be taken by a bot. And you might not even notice.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-03T12:41:49.523Z",
+    "published": "Mon, 03 Aug 2026 10:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/",
+    "title": "The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
+    "description": "Steve Elmers, also known as the “Guardrail Guy,” is done calling out license plate readers after two that appeared in his videos were vandalized.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-03T12:41:49.523Z",
+    "published": "Mon, 03 Aug 2026 09:30:00 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/google-used-ai-to-fix-1072-chrome-security-bugs-in-60-days/",
+    "title": "How Google used AI agents to find and fix 1,072 Chrome security bugs - in 60 days",
+    "description": "With 3.5 billion active users to protect, Google is relying on Gemini to find Chrome security bugs fast - and before attackers do.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-03T12:41:57.065Z",
+    "published": "Mon, 03 Aug 2026 12:29:00 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2228802/macbook-airs-reportedly-in-short-supply-due-to-ramaggedon/",
+    "title": "MacBook Air laptops are reportedly in short supply due to Ramaggedon",
+    "description": "Not only did MacBook Air prices recently go up, but you couldn&#39;t get one today even if you wanted to.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-03T12:41:57.904Z",
+    "published": "Mon, 03 Aug 2026 09:43:32 +0000"
   }
 ]
