@@ -1817,9 +1817,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-27T12:40:05.035Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-04T18:14:20.006Z"
   },
   {
     "slug": "us-army-ai-tokens",
@@ -1839,9 +1840,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-27T12:40:05.035Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-04T18:14:31.717Z"
   },
   {
     "slug": "brain-waves-physical-ai",
@@ -3423,6 +3425,28 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-04T10:14:46.565Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "lfm2-5-2-6b-deploy-local-agents",
+    "title": "3 Breakthroughs in LFM2.5-2.6B",
+    "summary": "Discover how LFM2.5-2.6B is changing the AI landscape with local agents",
+    "category": "ML",
+    "coverImage": null,
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/lfm2-5-2-6b-deploy-local-agents.html",
+    "sourceName": "Hugging Face Blog",
+    "wordCount": 507,
+    "tags": [
+      "LFM2.5-2.6B",
+      "AI",
+      "Machine Learning",
+      "Hugging Face",
+      "Local Agents"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-04T18:14:08.961Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
