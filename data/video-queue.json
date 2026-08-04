@@ -1771,9 +1771,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-27T12:40:05.035Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-04T10:15:01.240Z"
   },
   {
     "slug": "ai-data-centers-forcing-homeowners-out",
@@ -1793,9 +1794,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-27T12:40:05.035Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-04T10:15:11.143Z"
   },
   {
     "slug": "google-ai-unification",
@@ -3245,6 +3247,182 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-03T21:49:56.538Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "aws-superblocks-breakthrough",
+    "title": "3 Ways AWS Boosts Superblocks",
+    "summary": "AWS just embedded Superblocks into its private clouds, and it's a big deal for app development",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/aws-superblocks-breakthrough.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/aws-superblocks-breakthrough.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 458,
+    "tags": [
+      "AWS",
+      "Superblocks",
+      "vibe-coding",
+      "app development",
+      "AI"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-04T10:14:46.564Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "design-arena-creators-raise-7-9-million",
+    "title": "7.9M Raised",
+    "summary": "Design Arena creators just raised $7.9 million to bring human taste to AI models, and it's a breakthrough you need to know about",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/design-arena-creators-raise-7-9-million.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/design-arena-creators-raise-7-9-million.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 408,
+    "tags": [
+      "AI",
+      "Design Arena",
+      "Funding",
+      "Tech News",
+      "Artificial Intelligence"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-04T10:14:46.565Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "openai-luxury-trip-backlash",
+    "title": "3 Reasons OpenAI's Luxury Trip Backfired",
+    "summary": "Influencers face online backlash after attending OpenAI's exclusive getaway",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/openai-luxury-trip-backlash.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/openai-luxury-trip-backlash.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 375,
+    "tags": [
+      "OpenAI",
+      "AI Ethics",
+      "Influencer Marketing",
+      "Tech News",
+      "Artificial Intelligence"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-04T10:14:46.565Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "trump-ai-policy-robotics-impact",
+    "title": "3 Ways Trump's AI Policy Impacts Robotics",
+    "summary": "Trump's AI protectionism has significant implications for the future of robotics, and you need to know how it affects you",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/trump-ai-policy-robotics-impact.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/trump-ai-policy-robotics-impact.html",
+    "sourceName": "MIT Tech Review AI",
+    "wordCount": 486,
+    "tags": [
+      "AI",
+      "Robotics",
+      "Trump",
+      "Protectionism",
+      "Technology"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-04T10:14:46.565Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "apple-lawsuit-fails",
+    "title": "3 Reasons Apple's Lawsuit Fails",
+    "summary": "OpenAI fires back at Apple's baseless claims, here's what you need to know",
+    "category": "LLM",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/apple-lawsuit-fails.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/apple-lawsuit-fails.html",
+    "sourceName": "OpenAI Blog",
+    "wordCount": 459,
+    "tags": [
+      "OpenAI",
+      "Apple",
+      "Lawsuit",
+      "AI",
+      "Technology"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-04T10:14:46.565Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "circles-powers-telco-personalization-with-openai",
+    "title": "3x Telco Boost",
+    "summary": "Circles' AI-native telco experiences are increasing revenue by 22% - here's how",
+    "category": "LLM",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/circles-powers-telco-personalization-with-openai.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/circles-powers-telco-personalization-with-openai.html",
+    "sourceName": "OpenAI Blog",
+    "wordCount": 470,
+    "tags": [
+      "OpenAI",
+      "Telco",
+      "Personalization",
+      "AI",
+      "Circles"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-04T10:14:46.565Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-industry-marxist-according-to-palantir-ceo",
+    "title": "3 Red Flags in AI",
+    "summary": "Palantir CEO Alex Karp calls out the AI industry, warning of untrustworthy labs after a $1 billion profit quarter",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-industry-marxist-according-to-palantir-ceo.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-industry-marxist-according-to-palantir-ceo.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 397,
+    "tags": [
+      "AI",
+      "Palantir",
+      "Alex Karp",
+      "Enterprise",
+      "Tech News"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-04T10:14:46.565Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-bug-finding-pitfalls",
+    "title": "5 Bug-Finding AI Pitfalls",
+    "summary": "AI finds security holes 9 times faster than humans can fix them, but at what cost?",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-bug-finding-pitfalls.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-bug-finding-pitfalls.html",
+    "sourceName": "ZDNet AI",
+    "wordCount": 601,
+    "tags": [
+      "AI",
+      "cybersecurity",
+      "bug finding",
+      "enterprise security",
+      "vulnerabilities"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-04T10:14:46.565Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
