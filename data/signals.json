@@ -754,7 +754,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-21T19:30:23.275Z",
-    "published": "Tue, 21 Jul 2026 17:07:21 +0000"
+    "published": "Tue, 21 Jul 2026 17:07:21 +0000",
+    "processed": true,
+    "processedAt": "2026-08-04T08:13:54.728Z"
   },
   {
     "url": "https://the-decoder.com/google-ships-three-new-gemini-flash-models-but-its-frontier-3-5-pro-remains-lost-in-training/",
@@ -12454,5 +12456,49 @@
     "category": "news",
     "discovered": "2026-08-03T22:44:44.716Z",
     "published": "Mon, 03 Aug 2026 22:27:46 +0000"
+  },
+  {
+    "url": "https://openai.com/index/apple-is-getting-this-wrong",
+    "title": "Apple is getting this wrong",
+    "description": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-04T08:10:18.509Z",
+    "published": "Mon, 03 Aug 2026 22:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-04T08:13:54.728Z"
+  },
+  {
+    "url": "https://openai.com/index/circles",
+    "title": "Circles powers telco personalization with OpenAI technology",
+    "description": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-04T08:10:18.509Z",
+    "published": "Mon, 03 Aug 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-04T08:13:54.728Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+    "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+    "description": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-04T08:10:21.672Z",
+    "published": "Mon, 03 Aug 2026 23:19:50 +0000",
+    "processed": true,
+    "processedAt": "2026-08-04T08:13:54.728Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/ai-is-finding-bugs-faster-than-humans-can-fix-them-how-enterprise-security-teams-must-adapt/",
+    "title": "AI is finding bugs faster than humans can fix them: How enterprise security teams must adapt",
+    "description": "It's far easier to find security holes than to fix them, and leaving it to AI can introduce 9 times as many new vulnerabilities as developers do.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-04T08:10:46.252Z",
+    "published": "Tue, 04 Aug 2026 08:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-04T08:13:54.728Z"
   }
 ]
