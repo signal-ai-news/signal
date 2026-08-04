@@ -12906,5 +12906,314 @@
     "category": "news",
     "discovered": "2026-08-04T16:25:49.291Z",
     "published": "Tue, 04 Aug 2026 09:22:06 +0000"
+  },
+  {
+    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "title": "New ways to learn and teach with ChatGPT Work and Codex",
+    "description": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-04T20:58:11.511Z",
+    "published": "Tue, 04 Aug 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-04T21:01:57.960Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+    "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+    "description": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-04T20:58:14.716Z",
+    "published": "Tue, 04 Aug 2026 20:05:26 +0000",
+    "processed": true,
+    "processedAt": "2026-08-04T21:01:57.960Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+    "description": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-04T20:58:14.716Z",
+    "published": "Tue, 04 Aug 2026 19:48:40 +0000",
+    "processed": true,
+    "processedAt": "2026-08-04T21:01:57.960Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+    "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+    "description": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-04T20:58:14.716Z",
+    "published": "Tue, 04 Aug 2026 19:34:34 +0000",
+    "processed": true,
+    "processedAt": "2026-08-04T21:01:57.960Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+    "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+    "description": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-04T20:58:14.716Z",
+    "published": "Tue, 04 Aug 2026 19:28:49 +0000",
+    "processed": true,
+    "processedAt": "2026-08-04T21:01:57.960Z"
+  },
+  {
+    "url": "https://twitter.com/DuckDuckGo/status/2082850280413049311",
+    "title": "DuckDuckGo: \"No Camera. No AI. Just Normal Sunglasses.\"",
+    "description": "Article URL: https://twitter.com/DuckDuckGo/status/2082850280413049311\nComments URL: https://news.ycombinator.com/item?id=49175000\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T20:58:20.187Z",
+    "published": "Tue, 04 Aug 2026 20:54:04 +0000"
+  },
+  {
+    "url": "https://shumer.dev/how-i-prompt-fable",
+    "title": "Stop micromanaging Fable/Claude 5",
+    "description": "Article URL: https://shumer.dev/how-i-prompt-fable\nComments URL: https://news.ycombinator.com/item?id=49174806\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T20:58:20.187Z",
+    "published": "Tue, 04 Aug 2026 20:41:41 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49174796",
+    "title": "Am I spreading a mind virus when I help others use Claude?",
+    "description": "I’ve been thinking about this for a while inspired partly by the point of Sapiens how wheat domesticated humans, and also that show Pluribus, but the other day I helped my elderly father in law learn to use it and got me wondering… am I now just doing its bidding? It started to feel like I was when",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T20:58:20.187Z",
+    "published": "Tue, 04 Aug 2026 20:41:15 +0000"
+  },
+  {
+    "url": "https://github.com/0xeb/ghidrasql",
+    "title": "Fastest way to run ghidrasql: point an AI coding agent at the installer prompt",
+    "description": "Article URL: https://github.com/0xeb/ghidrasql\nComments URL: https://news.ycombinator.com/item?id=49174716\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T20:58:20.187Z",
+    "published": "Tue, 04 Aug 2026 20:35:22 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.02162",
+    "title": "AAFlow: Scalable Patterns for Agentic AI Workflows",
+    "description": "Article URL: https://arxiv.org/abs/2605.02162\nComments URL: https://news.ycombinator.com/item?id=49174689\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T20:58:20.187Z",
+    "published": "Tue, 04 Aug 2026 20:34:04 +0000"
+  },
+  {
+    "url": "https://github.com/gojargo/jargo",
+    "title": "Show HN: Jargo, Voice AI for Golang",
+    "description": "Work in progress !\n\nComments URL: https://news.ycombinator.com/item?id=49174608\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T20:58:20.187Z",
+    "published": "Tue, 04 Aug 2026 20:28:47 +0000"
+  },
+  {
+    "url": "https://github.com/Kratos-Analytics-LLC/AgentRails",
+    "title": "AgentRails – a safety layer for AI agents that take real actions",
+    "description": "Article URL: https://github.com/Kratos-Analytics-LLC/AgentRails\nComments URL: https://news.ycombinator.com/item?id=49174602\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T20:58:20.187Z",
+    "published": "Tue, 04 Aug 2026 20:28:36 +0000"
+  },
+  {
+    "url": "https://blog.fogus.me/llm/born-against.html",
+    "title": "Born Against, or why hobby programming communities are aggressively against LLM",
+    "description": "Article URL: https://blog.fogus.me/llm/born-against.html\nComments URL: https://news.ycombinator.com/item?id=49174553\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T20:58:20.187Z",
+    "published": "Tue, 04 Aug 2026 20:24:24 +0000"
+  },
+  {
+    "url": "https://www.ifo.de/DocDL/cesifo1_wp12882.pdf",
+    "title": "Do Personal AI Conversations Reduce Loneliness? Evidence from an Experiment [pdf]",
+    "description": "Article URL: https://www.ifo.de/DocDL/cesifo1_wp12882.pdf\nComments URL: https://news.ycombinator.com/item?id=49174520\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T20:58:20.187Z",
+    "published": "Tue, 04 Aug 2026 20:21:59 +0000"
+  },
+  {
+    "url": "https://optimustrend.blogspot.com/2026/08/googles-ai-earth-feature-fails-in-day_01827970193.html",
+    "title": "Google's AI Earth Feature Fails in a Day",
+    "description": "Article URL: https://optimustrend.blogspot.com/2026/08/googles-ai-earth-feature-fails-in-day_01827970193.html\nComments URL: https://news.ycombinator.com/item?id=49174500\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T20:58:20.187Z",
+    "published": "Tue, 04 Aug 2026 20:19:57 +0000"
+  },
+  {
+    "url": "https://useknowable.ai/",
+    "title": "Show HN: Visual AI Tutoring in the Browser",
+    "description": "Been working on this full-time for a few months now. It's an AI tutoring application that takes in context on your page via Desk View, and responds like a real tutor would.It only works in Safari on 2022+ Macbook Pros or 2023+ Macbook Airs. Very particular hardware requirements because it's a new k",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T20:58:20.187Z",
+    "published": "Tue, 04 Aug 2026 20:19:52 +0000"
+  },
+  {
+    "url": "https://www.sylvainkalache.com/blog/ai-writes-the-code-but-humans-cant-review-it-all",
+    "title": "AI Writes the Code, but Humans Can't Review It All. Now What?",
+    "description": "Article URL: https://www.sylvainkalache.com/blog/ai-writes-the-code-but-humans-cant-review-it-all\nComments URL: https://news.ycombinator.com/item?id=49174469\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T20:58:20.187Z",
+    "published": "Tue, 04 Aug 2026 20:17:37 +0000"
+  },
+  {
+    "url": "https://heronsperch.blogspot.com/2026/08/open-source-is-hobbling-itself-over.html",
+    "title": "Open Source Is Hobbling Itself over Generative AI",
+    "description": "Article URL: https://heronsperch.blogspot.com/2026/08/open-source-is-hobbling-itself-over.html\nComments URL: https://news.ycombinator.com/item?id=49174392\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T20:58:20.187Z",
+    "published": "Tue, 04 Aug 2026 20:13:02 +0000"
+  },
+  {
+    "url": "https://necktochoke.com/",
+    "title": "Show HN: My tool scanned 256 AI-built apps and most had exposed credentials",
+    "description": "All of a sudden everybody wants to build with AI. People in hell want ice water. Built something with AI and don't know if it's secure? Try necktochoke.\n\nComments URL: https://news.ycombinator.com/item?id=49174388\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T20:58:20.187Z",
+    "published": "Tue, 04 Aug 2026 20:12:45 +0000"
+  },
+  {
+    "url": "https://www.twz.com/air/x-62a-toting-infrared-search-and-track-pod-used-its-ai-brain-to-autonomously-intercept-an-enemy-t-38",
+    "title": "X-62A Used Its AI 'Brain' to Autonomously Intercept an 'Enemy' T-38",
+    "description": "Article URL: https://www.twz.com/air/x-62a-toting-infrared-search-and-track-pod-used-its-ai-brain-to-autonomously-intercept-an-enemy-t-38\nComments URL: https://news.ycombinator.com/item?id=49174378\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T20:58:20.187Z",
+    "published": "Tue, 04 Aug 2026 20:11:43 +0000"
+  },
+  {
+    "url": "https://github.com/genspark-ai/genoffice",
+    "title": "GenOffice – GenSpark's AI native office suite",
+    "description": "Article URL: https://github.com/genspark-ai/genoffice\nComments URL: https://news.ycombinator.com/item?id=49174189\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T20:58:20.187Z",
+    "published": "Tue, 04 Aug 2026 19:57:57 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+    "title": "Wrinkles, an AI app that uncovers the hidden stories of places around you",
+    "description": "Article URL: https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/\nComments URL: https://news.ycombinator.com/item?id=49174180\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T20:58:20.187Z",
+    "published": "Tue, 04 Aug 2026 19:57:16 +0000",
+    "processed": true,
+    "processedAt": "2026-08-04T21:01:57.960Z"
+  },
+  {
+    "url": "https://www.macrumors.com/2026/08/04/aple-bug-bounty-limits-ai/",
+    "title": "Apple Limits Bug Bounty Submissions After Flood of AI Slop",
+    "description": "Article URL: https://www.macrumors.com/2026/08/04/aple-bug-bounty-limits-ai/\nComments URL: https://news.ycombinator.com/item?id=49174082\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T20:58:20.187Z",
+    "published": "Tue, 04 Aug 2026 19:51:27 +0000"
+  },
+  {
+    "url": "https://www.reuters.com/world/german-court-rules-ai-music-firm-suno-broke-copyright-rules-2026-07-31/",
+    "title": "German court rules AI music firm Suno broke copyright rules",
+    "description": "Article URL: https://www.reuters.com/world/german-court-rules-ai-music-firm-suno-broke-copyright-rules-2026-07-31/\nComments URL: https://news.ycombinator.com/item?id=49173828\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T20:58:20.187Z",
+    "published": "Tue, 04 Aug 2026 19:35:19 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/this-years-pulitzer-prizes-saw-a-record-number-of-winners-disclose-ai-use/",
+    "title": "This year's Pulitzer Prizes saw a record number of winners disclose AI use",
+    "description": "A record eight entries honored at the 2026 Pulitzer Prizes disclosed using AI, including five winners. Newsrooms such as the Wall Street Journal and AP used LLMs mainly to search large document sets faster. Pulitzer administrator Marjorie Miller said AI remains off-limits for writing and ed",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-04T20:58:26.686Z",
+    "published": "Tue, 04 Aug 2026 17:26:03 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet/",
+    "title": "Google moves billions in Anthropic chip risk off its balance sheet",
+    "description": "Google is working with Broadcom, Apollo, Blackstone, and Morgan Stanley on a multibillion-dollar financing structure that supplies Anthropic with AI chips and data centers while keeping most of the risk off Google's balance sheet. The setup leaves roughly $200 billion in contracts dependent",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-04T20:58:26.686Z",
+    "published": "Tue, 04 Aug 2026 16:38:58 +0000"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/",
+    "title": "How the GitHub legal team used Copilot CLI to streamline their workflows",
+    "description": "Learn how to build tools to simplify how you work—without writing a single line of code.\nThe post How the GitHub legal team used Copilot CLI to streamline their workflows appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-08-04T20:58:31.862Z",
+    "published": "Tue, 04 Aug 2026 19:02:34 +0000"
+  },
+  {
+    "url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/",
+    "title": "Turn one giant AI-generated pull request to a reviewable stack",
+    "description": "Instead of one huge, un-reviewable pull request, teach coding agents to decompose work into a clean, ordered stack with GitHub stacked pull requests.\nThe post Turn one giant AI-generated pull request to a reviewable stack appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-08-04T20:58:31.862Z",
+    "published": "Tue, 04 Aug 2026 16:47:18 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/ninja-slushi-88-deal/",
+    "title": "The Ninja Slushi makes vacation-worthy frozen drinks, and I highly recommend it (especially on sale)",
+    "description": "The popular Ninja Slushi is on sale for under $300 once again. Here's where to find the deal.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-04T20:58:50.731Z",
+    "published": "Tue, 04 Aug 2026 16:27:34 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2230316/doj-extracts-dollar32-million-from-openai-over-hiring-discrimination-allegations/",
+    "title": "DOJ extracts $3.2 million from OpenAI over hiring discrimination allegations",
+    "description": "DOJ extracts $3.2 million from OpenAI over hiring discrimination allegations.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-04T20:58:51.315Z",
+    "published": "Tue, 04 Aug 2026 19:19:09 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2230268/can-ms-paint-run-doom-yes/",
+    "title": "Can MS Paint run Doom? (Yes)",
+    "description": "Can MS Paint run Doom? (Yes)",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-04T20:58:51.315Z",
+    "published": "Tue, 04 Aug 2026 18:51:23 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2230256/apple-caps-bug-bounty-program-due-to-deluge-of-ai-submissions/",
+    "title": "Apple caps bug bounty program due to deluge of AI submissions",
+    "description": "Apple caps bug bounty program due to deluge of AI submissions.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-04T20:58:51.315Z",
+    "published": "Tue, 04 Aug 2026 18:43:40 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2230147/cmf-announces-its-first-pair-of-open-ear-earbuds-for-under-dollar100/",
+    "title": "CMF announces its first pair of open-ear earbuds for under $100",
+    "description": "CMF announces its first pair of open-ear earbuds for under $100.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-04T20:58:51.315Z",
+    "published": "Tue, 04 Aug 2026 17:12:57 +0000"
   }
 ]
