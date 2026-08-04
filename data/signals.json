@@ -12500,5 +12500,411 @@
     "published": "Tue, 04 Aug 2026 08:00:00 GMT",
     "processed": true,
     "processedAt": "2026-08-04T08:13:54.728Z"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+    "title": "The latest AI news we announced in July 2026",
+    "description": "Here are Google’s latest AI updates from July 2026",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-08-04T16:25:12.450Z",
+    "published": "Tue, 04 Aug 2026 13:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-04T16:28:56.920Z"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+    "title": "Inside our 353,000-person vibe coding course",
+    "description": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-08-04T16:25:12.450Z",
+    "published": "Mon, 03 Aug 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-04T16:28:56.920Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-08-04T16:25:13.084Z",
+    "published": "Tue, 04 Aug 2026 13:58:29 GMT",
+    "processed": true,
+    "processedAt": "2026-08-04T16:28:56.920Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+    "title": "Spotify expands AI remix and covers project with Merlin partnership",
+    "description": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-04T16:25:14.283Z",
+    "published": "Tue, 04 Aug 2026 15:50:06 +0000",
+    "processed": true,
+    "processedAt": "2026-08-04T16:28:56.920Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+    "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+    "description": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-04T16:25:14.283Z",
+    "published": "Tue, 04 Aug 2026 15:20:06 +0000",
+    "processed": true,
+    "processedAt": "2026-08-04T16:28:56.920Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+    "description": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-04T16:25:14.283Z",
+    "published": "Tue, 04 Aug 2026 14:03:01 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+    "title": "Is the future of data centers portable? Runware builds a pod to find out",
+    "description": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-04T16:25:14.283Z",
+    "published": "Tue, 04 Aug 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+    "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Trump’s AI protectionism has come for robotics   —James O’Donnell&#160; Humanoid robots usually elicit more cringe than awe: They&#160;stumble,&#160;k",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-04T16:25:15.529Z",
+    "published": "Tue, 04 Aug 2026 12:14:00 +0000"
+  },
+  {
+    "url": "https://github.com/KERNlang/agon",
+    "title": "Agon – A coliseum for AI coding models",
+    "description": "Article URL: https://github.com/KERNlang/agon\nComments URL: https://news.ycombinator.com/item?id=49171011\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T16:25:28.282Z",
+    "published": "Tue, 04 Aug 2026 16:16:59 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2602.16763",
+    "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+    "description": "Article URL: https://arxiv.org/abs/2602.16763\nComments URL: https://news.ycombinator.com/item?id=49170915\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T16:25:28.282Z",
+    "published": "Tue, 04 Aug 2026 16:10:39 +0000"
+  },
+  {
+    "url": "https://www.union.ai/blog-post/flyte-2-is-generally-available-the-durable-open-source-ai-runtime",
+    "title": "Flyte 2 is GA: durable distributed AI workflows using regular Python",
+    "description": "Article URL: https://www.union.ai/blog-post/flyte-2-is-generally-available-the-durable-open-source-ai-runtime\nComments URL: https://news.ycombinator.com/item?id=49170846\nPoints: 8\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T16:25:28.282Z",
+    "published": "Tue, 04 Aug 2026 16:05:52 +0000"
+  },
+  {
+    "url": "https://www.understandingai.org/p/mathematicians-are-grappling-with",
+    "title": "How mathematicians are responding to AI",
+    "description": "Article URL: https://www.understandingai.org/p/mathematicians-are-grappling-with\nComments URL: https://news.ycombinator.com/item?id=49170824\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T16:25:28.282Z",
+    "published": "Tue, 04 Aug 2026 16:04:13 +0000"
+  },
+  {
+    "url": "https://jesta.ai/blog/darkreasoning",
+    "title": "An LLM attacked our lab so we made it work for us",
+    "description": "Article URL: https://jesta.ai/blog/darkreasoning\nComments URL: https://news.ycombinator.com/item?id=49170748\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T16:25:28.282Z",
+    "published": "Tue, 04 Aug 2026 15:59:11 +0000"
+  },
+  {
+    "url": "https://www.wheresyoured.at/the-ai-demand-bubble/",
+    "title": "The AI Demand Bubble",
+    "description": "Article URL: https://www.wheresyoured.at/the-ai-demand-bubble/\nComments URL: https://news.ycombinator.com/item?id=49170648\nPoints: 9\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T16:25:28.282Z",
+    "published": "Tue, 04 Aug 2026 15:51:51 +0000"
+  },
+  {
+    "url": "https://blog.cloudflare.com/engineering-standards-enforcement/",
+    "title": "Cloudflare enforces engineering standards using AI",
+    "description": "Article URL: https://blog.cloudflare.com/engineering-standards-enforcement/\nComments URL: https://news.ycombinator.com/item?id=49170628\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T16:25:28.282Z",
+    "published": "Tue, 04 Aug 2026 15:49:50 +0000"
+  },
+  {
+    "url": "https://github.com/bublhub/BubbleHub",
+    "title": "Show HN: BubbleHub - a local runtime and hosting for LLM agents",
+    "description": "Article URL: https://github.com/bublhub/BubbleHub\nComments URL: https://news.ycombinator.com/item?id=49170566\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T16:25:28.282Z",
+    "published": "Tue, 04 Aug 2026 15:45:12 +0000"
+  },
+  {
+    "url": "https://github.com/maxrodrigo/clai",
+    "title": "Show HN: Clai – AI for the command line (stdin → LLM → stdout)",
+    "description": "Since ChatGPT launched I've been trying to integrate LLMs into my workflows; emails, commits PRSs, or even long chat threads.\nMy instinct was to code a small automation platform, but I found myself limited once again by its own constraints. Went back to zero, twice, and went back to the tools I've",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T16:25:28.282Z",
+    "published": "Tue, 04 Aug 2026 15:42:39 +0000"
+  },
+  {
+    "url": "https://github.com/ronle/clayrune",
+    "title": "Show HN: Clayrune – Run Claude Code agents in parallel without losing context",
+    "description": "Article URL: https://github.com/ronle/clayrune\nComments URL: https://news.ycombinator.com/item?id=49170443\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T16:25:28.282Z",
+    "published": "Tue, 04 Aug 2026 15:35:06 +0000"
+  },
+  {
+    "url": "https://www.reuters.com/world/trump-administration-drafting-ban-chinese-data-center-devices-sources-say-2026-08-04/",
+    "title": "US plans to ban Chinese parts from AI data centers",
+    "description": "Article URL: https://www.reuters.com/world/trump-administration-drafting-ban-chinese-data-center-devices-sources-say-2026-08-04/\nComments URL: https://news.ycombinator.com/item?id=49170439\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T16:25:28.282Z",
+    "published": "Tue, 04 Aug 2026 15:34:42 +0000"
+  },
+  {
+    "url": "https://xtokenchecker.com/",
+    "title": "Show HN: XTokenChecker – Verifies model identities of your AI gateway",
+    "description": "Article URL: https://xtokenchecker.com/\nComments URL: https://news.ycombinator.com/item?id=49170424\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T16:25:28.282Z",
+    "published": "Tue, 04 Aug 2026 15:33:32 +0000"
+  },
+  {
+    "url": "https://abcnews.com/Entertainment/wireStory/ai-assisted-staging-draws-boos-richard-wagner-festival-135314478",
+    "title": "AI-assisted staging draws boos at the Richard Wagner festival in Germany",
+    "description": "Article URL: https://abcnews.com/Entertainment/wireStory/ai-assisted-staging-draws-boos-richard-wagner-festival-135314478\nComments URL: https://news.ycombinator.com/item?id=49170410\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T16:25:28.282Z",
+    "published": "Tue, 04 Aug 2026 15:32:13 +0000"
+  },
+  {
+    "url": "https://www.korvo.xyz/",
+    "title": "Show HN: Korvo – Local-first AI workspace that traces answers to the source",
+    "description": "Article URL: https://www.korvo.xyz/\nComments URL: https://news.ycombinator.com/item?id=49170374\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T16:25:28.282Z",
+    "published": "Tue, 04 Aug 2026 15:29:23 +0000"
+  },
+  {
+    "url": "https://www.rand.org/content/dam/rand/pubs/papers/2006/P3244.pdf",
+    "title": "Alchemy and AI – Hubert Dreyfus (1965) [pdf]",
+    "description": "Article URL: https://www.rand.org/content/dam/rand/pubs/papers/2006/P3244.pdf\nComments URL: https://news.ycombinator.com/item?id=49170344\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T16:25:28.282Z",
+    "published": "Tue, 04 Aug 2026 15:27:48 +0000"
+  },
+  {
+    "url": "https://varto.ai/news/putnambench/",
+    "title": "Varto proves complete PutnamBench AI math benchmark in Isabelle",
+    "description": "Article URL: https://varto.ai/news/putnambench/\nComments URL: https://news.ycombinator.com/item?id=49170286\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T16:25:28.282Z",
+    "published": "Tue, 04 Aug 2026 15:23:54 +0000"
+  },
+  {
+    "url": "https://tryclicked.app/blog/building-with-an-ai-assistant",
+    "title": "What broke when I shipped a browser extension with an AI assistant",
+    "description": "Article URL: https://tryclicked.app/blog/building-with-an-ai-assistant\nComments URL: https://news.ycombinator.com/item?id=49170273\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T16:25:28.282Z",
+    "published": "Tue, 04 Aug 2026 15:23:09 +0000"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-08-04/china-s-ai-blitz-creates-death-zone-for-rival-us-model-makers",
+    "title": "China's AI Blitz Creates 'Death Zone' for Rival US Model Makers",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-08-04/china-s-ai-blitz-creates-death-zone-for-rival-us-model-makers\nComments URL: https://news.ycombinator.com/item?id=49170176\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T16:25:28.282Z",
+    "published": "Tue, 04 Aug 2026 15:17:08 +0000"
+  },
+  {
+    "url": "https://quickchat.ai/post/discord-ai-support-ticket-bot",
+    "title": "AI Discord Ticket Bot: Answer First, Then Escalate (No Code)",
+    "description": "Article URL: https://quickchat.ai/post/discord-ai-support-ticket-bot\nComments URL: https://news.ycombinator.com/item?id=49170100\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T16:25:28.282Z",
+    "published": "Tue, 04 Aug 2026 15:12:25 +0000"
+  },
+  {
+    "url": "https://wram.chat/",
+    "title": "Show HN: Real-time argument duello game – AI judge decides who's right",
+    "description": "Article URL: https://wram.chat/\nComments URL: https://news.ycombinator.com/item?id=49169967\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-04T16:25:28.282Z",
+    "published": "Tue, 04 Aug 2026 15:02:37 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/using-agents-as-tools/",
+    "title": "Using Agents as Tools",
+    "description": "Building manager–specialist workflows with the OpenAI Agents SDK\nThe post Using Agents as Tools appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-04T16:25:33.575Z",
+    "published": "Tue, 04 Aug 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-locks-in-10-billion-of-compute-from-volta-a-cloud-startup-that-didnt-exist-six-months-ago/",
+    "title": "Anthropic locks in $10 billion of compute from Volta, a cloud startup that didn't exist six months ago",
+    "description": "Anthropic is locking in $10 billion worth of computing capacity from Volta Infra Holdings, a cloud startup that's only a few months old.\nThe article Anthropic locks in $10 billion of compute from Volta, a cloud startup that didn&#039;t exist six months ago appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-04T16:25:35.174Z",
+    "published": "Tue, 04 Aug 2026 15:21:14 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/silicon-valleys-rift-over-open-source-pushes-back-contemplated-white-house-bans-on-chinese-ai/",
+    "title": "Silicon Valley’s rift over open source pushes back contemplated White House bans on Chinese AI",
+    "description": "The Trump administration discussed sanctions and cloud bans targeting Chinese open-weight AI models, according to the New York Times. OpenAI and Anthropic pushed for restrictions, while Nvidia, Google, and Meta fought back. After pushback from Silicon Valley, Washington backed off for now,",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-04T16:25:35.174Z",
+    "published": "Tue, 04 Aug 2026 12:23:43 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-fires-back-at-apples-trade-secret-lawsuit-with-chat-logs-showing-apple-employees-kept-texting-their-former-colleague/",
+    "title": "OpenAI fires back at Apple's trade secret lawsuit with chat logs showing Apple employees kept texting their former colleague",
+    "description": "OpenAI is pushing back against Apple's trade secret lawsuit and has released iMessage threads from former Apple engineer Chang Liu. The messages appear to show Apple employees themselves reaching out to their former colleague for technical help and internal files after he left the company.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-04T16:25:35.174Z",
+    "published": "Tue, 04 Aug 2026 10:22:53 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/ai-tells-detection-world-series-of-poker-espn/",
+    "title": "Is This Poker Player Bluffing? The AI Thinks So",
+    "description": "ESPN unveiled an “AI tells detection” tool during broadcasts of the 2026 World Series of Poker. Is it a neat computer-powered party trick, or a real threat to poker’s future?",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-04T16:25:42.334Z",
+    "published": "Tue, 04 Aug 2026 11:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck/",
+    "title": "‘Everyone Is Doing It’: The Truth About AI in Hollywood",
+    "description": "Puck’s Matthew Belloni says AI has quietly become part of everyday filmmaking. The battle now isn’t whether Hollywood will use the technology—it’s who controls what’ll come next.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-04T16:25:42.334Z",
+    "published": "Tue, 04 Aug 2026 10:30:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/mistral-is-in-the-right-place-at-the-right-time/",
+    "title": "Mistral Is in the Right Place at the Right Time",
+    "description": "Open-weight AI models are having a moment in the wake of recent turmoil at US tech giants. For French AI lab Mistral, that’s the the best thing that could have happened.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-04T16:25:42.334Z",
+    "published": "Tue, 04 Aug 2026 09:21:11 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/mango-launcher-might-be-the-most-enjoyable-home-screen-on-the-market/",
+    "title": "This Android launcher made my home screen fun again - and I'm using the free version",
+    "description": "If you're in the mood for some whimsy, Mango Launcher is what you want.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-04T16:25:48.658Z",
+    "published": "Tue, 04 Aug 2026 15:22:00 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/home-batteries-cost-thousands-so-why-do-91-of-owners-say-they-would-buy-one-again/",
+    "title": "Home batteries cost thousands. So why would 91% of owners buy one again?",
+    "description": "Up-front cost is a big barrier for those considering battery systems, but homeowner experience shows why the value overshadows the sticker shock almost every time.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-04T16:25:48.658Z",
+    "published": "Tue, 04 Aug 2026 14:20:14 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/microsoft-finally-realized-windows-11-is-too-annoying-can-it-be-fixed/",
+    "title": "Microsoft finally realized Windows 11 is too annoying. Can it be fixed?",
+    "description": "Microsoft's latest progress report details much-needed Windows 11 improvements in reliability, performance, stability, and usability. But pressure to monetize key features remains.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-04T16:25:48.658Z",
+    "published": "Tue, 04 Aug 2026 13:43:26 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/best-phones-without-ai-features/",
+    "title": "The best anti-AI smartphones in 2026: Expert tested and recommended",
+    "description": "Sick to death of unwanted AI features getting stuffed into your smartphone? We tested the best models from Apple, Samsung, and more that forego AI in favor of features you actually need.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-04T16:25:48.658Z",
+    "published": "Tue, 04 Aug 2026 11:00:55 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/best-hisense-tv/",
+    "title": "The best Hisense TVs of 2026: Expert tested for streaming, gaming, and more",
+    "description": "Hisense has quickly become one of the more trusted names in mid-range TVs, and has recently started to offer truly premium-grade screens for high-end home theaters with new technology like RGB Mini LED panels and AI integration.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-04T16:25:48.658Z",
+    "published": "Tue, 04 Aug 2026 10:00:45 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2230042/apple-claims-that-even-more-ex-employees-may-have-given-trade-secrets-to-openai/",
+    "title": "Apple claims that even more ex-employees may have given trade secrets to OpenAI",
+    "description": "Apple is requesting expedited discovery in an ongoing lawsuit against OpenAI.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-04T16:25:49.291Z",
+    "published": "Tue, 04 Aug 2026 15:57:41 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2229903/new-samsung-tvs-will-support-hdr10-plus-advanced-streaming-on-prime-video-starting-this-month/",
+    "title": "New Samsung TVs will support HDR10+ Advanced streaming on Prime Video starting this month",
+    "description": "The main features of HDR10+ Advanced include Enhanced Overall Brightness and Intelligent Motion Smoothing.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-04T16:25:49.291Z",
+    "published": "Tue, 04 Aug 2026 14:36:01 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2229768/open-ai-says-apple-is-wrong-in-trade-secret-lawsuit/",
+    "title": "OpenAI says Apple 'is getting this wrong' after trade secret lawsuit",
+    "description": "Apple sued OpenAI and two of its former employees for trade secret theft. OpenAI has just published its response.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-04T16:25:49.291Z",
+    "published": "Tue, 04 Aug 2026 11:54:50 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2229725/apple-developing-seamless-copy-paste-experience-iphones-windows-pcs/",
+    "title": "Apple is working on a seamless copy-paste experience between iPhones and Windows PCs",
+    "description": "Apple is developing seamless copy-paste between iPhones and Windows PCs, but it's unclear if it will be available outside the EU.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-04T16:25:49.291Z",
+    "published": "Tue, 04 Aug 2026 09:22:06 +0000"
   }
 ]
