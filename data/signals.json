@@ -13459,5 +13459,123 @@
     "category": "news",
     "discovered": "2026-08-05T06:15:18.209Z",
     "published": "Tue, 04 Aug 2026 21:42:08 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+    "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+    "description": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-05T13:05:48.035Z",
+    "published": "Wed, 05 Aug 2026 12:28:38 +0000",
+    "processed": true,
+    "processedAt": "2026-08-05T13:09:27.878Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+    "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+    "description": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-05T13:05:48.035Z",
+    "published": "Wed, 05 Aug 2026 11:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-05T13:09:27.878Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+    "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. NASA’s new dark energy space telescope can also detect killer asteroids   At the end of August, NASA is set to launch the Nancy Grace Roman Space Tele",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-05T13:05:49.188Z",
+    "published": "Wed, 05 Aug 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-05T13:09:27.878Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/building-document-structure-with-loop-engineering-recovering-a-pdfs-outline-from-body-typography-for-rag/",
+    "title": "Building Document Structure with Loop Engineering: Recovering a PDF’s Outline from Body Typography for RAG",
+    "description": "Enterprise Document Intelligence [Vol.1 #5octies] - Rules propose, LLM validates: six deterministic signals on span-level typography surface heading candidates, one bounded loop keeps the real ones, and the same toc_df drops back into the RAG pipeline\nThe post Building Document Structure with Loop E",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-05T13:06:03.092Z",
+    "published": "Wed, 05 Aug 2026 12:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-05T13:09:27.878Z"
+  },
+  {
+    "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon/",
+    "title": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
+    "description": "A US appeals court has overturned Amazon's injunction against Perplexity's AI shopping agents, ruling that it's the users who access Amazon, not the startup. It's the first federal appeals court decision on whether AI agents can lawfully act on online platforms on behalf of users, and it co",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-05T13:06:05.176Z",
+    "published": "Wed, 05 Aug 2026 10:31:42 +0000",
+    "processed": true,
+    "processedAt": "2026-08-05T13:09:27.878Z"
+  },
+  {
+    "url": "https://the-decoder.com/an-ai-agent-went-rogue-during-uk-safety-tests-creating-fake-identities-and-launching-social-engineering-attacks-unprompted/",
+    "title": "An AI agent went rogue during UK safety tests, creating fake identities and launching social engineering attacks unprompted",
+    "description": "In a security test by the British AI Safety Institute, an AI agent went rogue on the open internet without being told to. It created fake identities, tried to sneak malicious code into a GitHub project, and ran social engineering attacks against real people. Of 19 unsanctioned actions acros",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-05T13:06:05.176Z",
+    "published": "Wed, 05 Aug 2026 10:15:49 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/ai-notetakers-invited-to-the-meetings/",
+    "title": "The AI Notetaker Has Been Invited to All the Meetings",
+    "description": "Wispr Flow, a popular dictation tool, has released a live notetaker that transcribes and summarizes meetings. It joins a growing wave of AI notetakers for the workplace.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-05T13:06:12.250Z",
+    "published": "Wed, 05 Aug 2026 07:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/algorithm-turning-on-ai-influencers-are-humans-worried/",
+    "title": "AI Influencers Are Heading Into Uncharted Territory",
+    "description": "Some creators fear the EU AI Act’s regulatory chaos will upend their lucrative businesses. Others are owning it by incorporating AI transparency into their creative process.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-05T13:06:12.250Z",
+    "published": "Wed, 05 Aug 2026 00:00:00 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/my-favorite-tools-for-voice-prompting-ai-dictation/",
+    "title": "I've dictated over 120,000 words with my voice - these are my 3 favorite tools (and one is free)",
+    "description": "I tested today's leading AI voice tools to find which delivers the best accuracy, privacy, corrections, and everyday productivity without slowing down real work.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-05T13:06:18.808Z",
+    "published": "Wed, 05 Aug 2026 13:00:28 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/the-linux-desktop-finally-cracks-the-10-market-share-barrier/",
+    "title": "Desktop Linux just cracked 10% market share - and Windows 11 is mostly to blame",
+    "description": "Windows is in decline, and both Macs and Linux are gaining ground at its expense.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-05T13:06:18.808Z",
+    "published": "Wed, 05 Aug 2026 12:42:03 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2230632/samsung-3d-memory-ai-data-centers/",
+    "title": "Samsung announces next-gen 3D memory when all we want is reasonably priced DDR5",
+    "description": "Samsung&#39;s latest memory and storage tech is mostly designed for data centers, not consoles or PCs.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-05T13:06:19.369Z",
+    "published": "Wed, 05 Aug 2026 09:47:28 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2230628/openai-anthropic-models-hacking-spree-test-uk-ai-research-institute/",
+    "title": "OpenAI and Anthropic models went on a hacking spree when tested by the UK's AI research institute",
+    "description": "The UK AI Security Institute says OpenAI's and and Anthropic's models engaged in deceptive behavior and harmful activity during testing.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-05T13:06:19.369Z",
+    "published": "Wed, 05 Aug 2026 09:16:33 +0000"
   }
 ]
