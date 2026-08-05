@@ -1955,9 +1955,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-27T21:49:05.826Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-05T22:19:18.877Z"
   },
   {
     "slug": "3-ai-mistakes-that-can-kill-your-business",
@@ -1977,9 +1978,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-28T09:48:29.205Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-05T22:19:29.018Z"
   },
   {
     "slug": "cursor-makes-india-push",
@@ -3561,6 +3563,28 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-05T17:13:14.629Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "shopify-ai-search-boosts-sales",
+    "title": "3X More Sales",
+    "summary": "Shopify's AI search is driving massive traffic and sales increases, defying expectations",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/shopify-ai-search-boosts-sales.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/shopify-ai-search-boosts-sales.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 399,
+    "tags": [
+      "Shopify",
+      "AI Search",
+      "Ecommerce",
+      "Sales",
+      "Traffic"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-05T22:19:07.653Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
