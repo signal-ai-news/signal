@@ -13803,5 +13803,249 @@
     "category": "news",
     "discovered": "2026-08-05T19:05:06.901Z",
     "published": "Wed, 05 Aug 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+    "title": "Meta launches Muse Code, an AI agent for large code bases",
+    "description": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-05T22:42:26.468Z",
+    "published": "Wed, 05 Aug 2026 21:21:28 +0000",
+    "processed": true,
+    "processedAt": "2026-08-05T22:46:00.055Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+    "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+    "description": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-05T22:42:26.468Z",
+    "published": "Wed, 05 Aug 2026 20:05:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-05T22:46:00.055Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+    "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+    "description": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-05T22:42:26.468Z",
+    "published": "Wed, 05 Aug 2026 19:30:19 +0000",
+    "processed": true,
+    "processedAt": "2026-08-05T22:46:00.055Z"
+  },
+  {
+    "url": "https://505labs.com/blog/private-llm-inside-a-tee",
+    "title": "Private LLM in a TEE, verified against Intel's root with no cloud in the chain",
+    "description": "Article URL: https://505labs.com/blog/private-llm-inside-a-tee\nComments URL: https://news.ycombinator.com/item?id=49189950\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T22:42:32.040Z",
+    "published": "Wed, 05 Aug 2026 22:31:20 +0000",
+    "processed": true,
+    "processedAt": "2026-08-05T22:46:00.055Z"
+  },
+  {
+    "url": "https://www.reuters.com/legal/litigation/openai-anthropic-ai-agents-implicated-new-security-breaches-2026-08-05/",
+    "title": "OpenAI, Anthropic AI agents implicated in new security breaches",
+    "description": "Article URL: https://www.reuters.com/legal/litigation/openai-anthropic-ai-agents-implicated-new-security-breaches-2026-08-05/\nComments URL: https://news.ycombinator.com/item?id=49189848\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T22:42:32.040Z",
+    "published": "Wed, 05 Aug 2026 22:19:44 +0000",
+    "processed": true,
+    "processedAt": "2026-08-05T22:46:00.055Z"
+  },
+  {
+    "url": "https://www.chaidhat.com/blog",
+    "title": "How to Improve the AI Frontier",
+    "description": "Article URL: https://www.chaidhat.com/blog\nComments URL: https://news.ycombinator.com/item?id=49189815\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T22:42:32.040Z",
+    "published": "Wed, 05 Aug 2026 22:16:28 +0000"
+  },
+  {
+    "url": "https://annas-archive.gl/blog/physical-destruction.html",
+    "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+    "description": "Article URL: https://annas-archive.gl/blog/physical-destruction.html\nComments URL: https://news.ycombinator.com/item?id=49189813\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T22:42:32.040Z",
+    "published": "Wed, 05 Aug 2026 22:16:22 +0000"
+  },
+  {
+    "url": "https://github.com/marella/modelregistry",
+    "title": "Modelregistry: Decentralizing distribution of open-source AI models",
+    "description": "Article URL: https://github.com/marella/modelregistry\nComments URL: https://news.ycombinator.com/item?id=49189794\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T22:42:32.040Z",
+    "published": "Wed, 05 Aug 2026 22:14:53 +0000"
+  },
+  {
+    "url": "https://heyski.io/",
+    "title": "Voice mode for Claude Code. Claude Code now answers you like a real person",
+    "description": "Article URL: https://heyski.io/\nComments URL: https://news.ycombinator.com/item?id=49189657\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T22:42:32.040Z",
+    "published": "Wed, 05 Aug 2026 22:03:30 +0000"
+  },
+  {
+    "url": "https://books.kodel.com.br/pt-br/livros/software-development-ia-era/",
+    "title": "Free book (software development in the AI era)",
+    "description": "Article URL: https://books.kodel.com.br/pt-br/livros/software-development-ia-era/\nComments URL: https://news.ycombinator.com/item?id=49189580\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T22:42:32.040Z",
+    "published": "Wed, 05 Aug 2026 21:56:58 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=XVgedf0TzYc",
+    "title": "AI Agents for Healthcare?",
+    "description": "Article URL: https://www.youtube.com/watch?v=XVgedf0TzYc\nComments URL: https://news.ycombinator.com/item?id=49189535\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T22:42:32.040Z",
+    "published": "Wed, 05 Aug 2026 21:52:53 +0000"
+  },
+  {
+    "url": "https://github.com/JohnVictorCrown/WaterToGo",
+    "title": "Water to Go – Rewrite Any Project to Go with Any AI Coder",
+    "description": "Article URL: https://github.com/JohnVictorCrown/WaterToGo\nComments URL: https://news.ycombinator.com/item?id=49189271\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T22:42:32.040Z",
+    "published": "Wed, 05 Aug 2026 21:28:05 +0000"
+  },
+  {
+    "url": "https://github.com/Carlo1911/skill-evolution",
+    "title": "Show HN: A self-improvement feedback loop for AI agent skills",
+    "description": "Article URL: https://github.com/Carlo1911/skill-evolution\nComments URL: https://news.ycombinator.com/item?id=49189270\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T22:42:32.040Z",
+    "published": "Wed, 05 Aug 2026 21:28:05 +0000"
+  },
+  {
+    "url": "https://www.rnz.co.nz/news/world/901880/ai-models-breaking-contraints-has-industry-concerned-helen-toner-says",
+    "title": "AI models breaking contraints has industry concerned",
+    "description": "Article URL: https://www.rnz.co.nz/news/world/901880/ai-models-breaking-contraints-has-industry-concerned-helen-toner-says\nComments URL: https://news.ycombinator.com/item?id=49189038\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T22:42:32.040Z",
+    "published": "Wed, 05 Aug 2026 21:08:53 +0000"
+  },
+  {
+    "url": "https://thenextweb.com/news/a-fed-official-is-asking-whether-ai-is-becoming-too-big-to-fail",
+    "title": "A Fed official is asking whether AI is becoming 'too big to fail'",
+    "description": "Article URL: https://thenextweb.com/news/a-fed-official-is-asking-whether-ai-is-becoming-too-big-to-fail\nComments URL: https://news.ycombinator.com/item?id=49189030\nPoints: 12\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T22:42:32.040Z",
+    "published": "Wed, 05 Aug 2026 21:08:25 +0000"
+  },
+  {
+    "url": "https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai",
+    "title": "When online commenters detect my art as AI",
+    "description": "Article URL: https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai\nComments URL: https://news.ycombinator.com/item?id=49188916\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T22:42:32.040Z",
+    "published": "Wed, 05 Aug 2026 20:58:52 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
+    "title": "Hank Green found the AI problem that YouTube labels can't catch",
+    "description": "Article URL: https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/\nComments URL: https://news.ycombinator.com/item?id=49188880\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T22:42:32.040Z",
+    "published": "Wed, 05 Aug 2026 20:54:44 +0000"
+  },
+  {
+    "url": "https://github.com/moon2022alakhali-commits/agentguard",
+    "title": "AgentGuard – fail-closed approval gateway for AI agent tool calls",
+    "description": "Article URL: https://github.com/moon2022alakhali-commits/agentguard\nComments URL: https://news.ycombinator.com/item?id=49188739\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T22:42:32.040Z",
+    "published": "Wed, 05 Aug 2026 20:43:29 +0000"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-08-05/balyasny-verition-join-hedge-funds-losing-money-in-brutal-july",
+    "title": "AI-Focused Altimeter Sinks 11%, Joins Funds Hit by Brutal July",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-08-05/balyasny-verition-join-hedge-funds-losing-money-in-brutal-july\nComments URL: https://news.ycombinator.com/item?id=49188714\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T22:42:32.040Z",
+    "published": "Wed, 05 Aug 2026 20:41:38 +0000"
+  },
+  {
+    "url": "https://github.com/bashalarmistalt/tcrf-ai-agent-payload-report",
+    "title": "Tcrf.net served Claude a payload telling it to wipe the working directory",
+    "description": "Article URL: https://github.com/bashalarmistalt/tcrf-ai-agent-payload-report\nComments URL: https://news.ycombinator.com/item?id=49188588\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T22:42:32.040Z",
+    "published": "Wed, 05 Aug 2026 20:31:20 +0000"
+  },
+  {
+    "url": "https://trycodus.com/blog/muse-code-vs-claude-code-benchmarks",
+    "title": "Is Muse Code a Claude Code Killer?",
+    "description": "Article URL: https://trycodus.com/blog/muse-code-vs-claude-code-benchmarks\nComments URL: https://news.ycombinator.com/item?id=49188359\nPoints: 1\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T22:42:32.040Z",
+    "published": "Wed, 05 Aug 2026 20:14:09 +0000"
+  },
+  {
+    "url": "https://blog.zernote.com/ai-moderators-ten-years/",
+    "title": "AI moderators won't run discovery interviews for another ten years",
+    "description": "Article URL: https://blog.zernote.com/ai-moderators-ten-years/\nComments URL: https://news.ycombinator.com/item?id=49188194\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T22:42:32.040Z",
+    "published": "Wed, 05 Aug 2026 20:01:54 +0000"
+  },
+  {
+    "url": "https://emschwartz.me/notes-from-the-ai-coding-transition/",
+    "title": "Notes from the AI Coding Transition",
+    "description": "Article URL: https://emschwartz.me/notes-from-the-ai-coding-transition/\nComments URL: https://news.ycombinator.com/item?id=49188066\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T22:42:32.040Z",
+    "published": "Wed, 05 Aug 2026 19:52:41 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
+    "title": "The Most Dangerous AI Hacking Techniques Still Have Humans in the Loop",
+    "description": "Security researcher James Kettle tried to push the limit of AI’s hacking abilities—and discovered how effective it can be when combined with human expertise.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-05T22:42:45.208Z",
+    "published": "Wed, 05 Aug 2026 19:42:12 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2231285/meta-introduces-muse-code-its-take-on-a-coding-agent/",
+    "title": "Meta introduces Muse Code, its take on a coding agent",
+    "description": "The terminal-based coding tool is powered by a new AI model, Muse Spark 1.2.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-05T22:42:51.890Z",
+    "published": "Wed, 05 Aug 2026 21:57:52 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2231133/minecraft-is-coming-to-switch-2-on-october-27/",
+    "title": "Minecraft is coming to Switch 2 on October 27",
+    "description": "Minecraft for the Switch 2 feels like a perfect place for mouse controls, but Mojang hasn&#39;t said anything about that feature yet.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-05T22:42:51.890Z",
+    "published": "Wed, 05 Aug 2026 19:07:35 +0000"
   }
 ]
