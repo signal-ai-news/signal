@@ -1863,9 +1863,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-27T21:49:05.826Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-05T10:06:07.601Z"
   },
   {
     "slug": "nuclear-breakthroughs-lasers-organ-preservation",
@@ -1885,9 +1886,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-27T21:49:05.826Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-05T10:06:15.303Z"
   },
   {
     "slug": "path-to-artificial-superintelligence",
@@ -3447,6 +3449,72 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-04T18:14:08.961Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-safety-risks-you-need-to-know",
+    "title": "3 AI Safety Risks",
+    "summary": "A new report reveals the safety gap in open-weight AI models, and what it means for you",
+    "category": "NEWS",
+    "coverImage": null,
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-safety-risks-you-need-to-know.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 461,
+    "tags": [
+      "AI",
+      "Safety",
+      "Open-weight",
+      "Z.ai",
+      "GLM-5.2"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-05T10:05:57.961Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "nvidia-open-secure-ai-alliance-progress",
+    "title": "3 Breakthroughs in 7 Days",
+    "summary": "Nvidia's new Open Secure AI Alliance is already making waves in the AI industry, and you need to know what's happening",
+    "category": "NEWS",
+    "coverImage": null,
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/nvidia-open-secure-ai-alliance-progress.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 379,
+    "tags": [
+      "Nvidia",
+      "AI",
+      "Artificial Intelligence",
+      "Open Secure AI Alliance",
+      "Tech News"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-05T10:05:57.961Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "openai-third-party-cyber-evaluations",
+    "title": "3 Essential AI Safeguards",
+    "summary": "Don't miss the latest on third-party cyber evaluations involving OpenAI models and new safeguards to strengthen AI model testing",
+    "category": "LLM",
+    "coverImage": null,
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/openai-third-party-cyber-evaluations.html",
+    "sourceName": "OpenAI Blog",
+    "wordCount": 405,
+    "tags": [
+      "OpenAI",
+      "cybersecurity",
+      "AI models",
+      "third-party evaluations",
+      "safeguards"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-05T10:05:57.961Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
