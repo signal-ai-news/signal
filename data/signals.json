@@ -13215,5 +13215,249 @@
     "category": "news",
     "discovered": "2026-08-04T20:58:51.315Z",
     "published": "Tue, 04 Aug 2026 17:12:57 +0000"
+  },
+  {
+    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "description": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-05T06:14:45.094Z",
+    "published": "Tue, 04 Aug 2026 19:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-05T06:18:25.652Z"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.00965",
+    "title": "An AI Approach to Verified Production Cryptographic Libraries",
+    "description": "Article URL: https://arxiv.org/abs/2608.00965\nComments URL: https://news.ycombinator.com/item?id=49179142\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T06:14:53.999Z",
+    "published": "Wed, 05 Aug 2026 06:07:06 +0000",
+    "processed": true,
+    "processedAt": "2026-08-05T06:18:25.652Z"
+  },
+  {
+    "url": "https://www.costclaw.io/",
+    "title": "Show HN: CostClaw, a local CLI that finds your Claude Code spend leaks",
+    "description": "npx costclaw audit\n\nComments URL: https://news.ycombinator.com/item?id=49179107\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T06:14:53.999Z",
+    "published": "Wed, 05 Aug 2026 06:01:40 +0000",
+    "processed": true,
+    "processedAt": "2026-08-05T06:18:25.652Z"
+  },
+  {
+    "url": "https://agent-talk.reindent.com/",
+    "title": "Show HN: A file-based protocol for two AI agents to talk until they agree",
+    "description": "Article URL: https://agent-talk.reindent.com/\nComments URL: https://news.ycombinator.com/item?id=49179099\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T06:14:53.999Z",
+    "published": "Wed, 05 Aug 2026 06:00:28 +0000",
+    "processed": true,
+    "processedAt": "2026-08-05T06:18:25.652Z"
+  },
+  {
+    "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+    "title": "Rust-lang/rust is adopting an LLM policy",
+    "description": "Article URL: https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/\nComments URL: https://news.ycombinator.com/item?id=49179039\nPoints: 6\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T06:14:53.999Z",
+    "published": "Wed, 05 Aug 2026 05:52:24 +0000",
+    "processed": true,
+    "processedAt": "2026-08-05T06:18:25.652Z"
+  },
+  {
+    "url": "https://github.com/greekr4/rever-browser",
+    "title": "Show HN: Rever-browser – AI-agent browser for reverse-engineering",
+    "description": "Article URL: https://github.com/greekr4/rever-browser\nComments URL: https://news.ycombinator.com/item?id=49179037\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T06:14:53.999Z",
+    "published": "Wed, 05 Aug 2026 05:51:59 +0000"
+  },
+  {
+    "url": "https://www.economist.com/business/2026/08/04/hollywood-is-entering-its-ai-era",
+    "title": "Hollywood is entering its AI era",
+    "description": "Article URL: https://www.economist.com/business/2026/08/04/hollywood-is-entering-its-ai-era\nComments URL: https://news.ycombinator.com/item?id=49179016\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T06:14:53.999Z",
+    "published": "Wed, 05 Aug 2026 05:48:45 +0000"
+  },
+  {
+    "url": "https://github.com/nolabs-ai/nono",
+    "title": "Nono: Sandbox any AI agent in seconds – zero setup, zero latency",
+    "description": "Article URL: https://github.com/nolabs-ai/nono\nComments URL: https://news.ycombinator.com/item?id=49179015\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T06:14:53.999Z",
+    "published": "Wed, 05 Aug 2026 05:48:42 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49178894",
+    "title": "Ask HN: Is there a duplex voice mode in Claude Code?",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=49178894\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T06:14:53.999Z",
+    "published": "Wed, 05 Aug 2026 05:27:57 +0000"
+  },
+  {
+    "url": "https://news.bloomberglaw.com/capital-markets/spacex-exceeds-revenue-estimates-in-first-earnings-since-ipo-1",
+    "title": "SpaceX's AI Splurge Puts a Damper on Debut Earnings After IPO",
+    "description": "Article URL: https://news.bloomberglaw.com/capital-markets/spacex-exceeds-revenue-estimates-in-first-earnings-since-ipo-1\nComments URL: https://news.ycombinator.com/item?id=49178790\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T06:14:53.999Z",
+    "published": "Wed, 05 Aug 2026 05:11:13 +0000"
+  },
+  {
+    "url": "https://restofworld.org/2026/china-ai-bot-college-advice/",
+    "title": "Anxious Chinese students are trusting AI to help pick colleges and majors",
+    "description": "Article URL: https://restofworld.org/2026/china-ai-bot-college-advice/\nComments URL: https://news.ycombinator.com/item?id=49178780\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T06:14:53.999Z",
+    "published": "Wed, 05 Aug 2026 05:08:52 +0000"
+  },
+  {
+    "url": "https://github.com/crabbuild/compass",
+    "title": "Compass, a local-first code graph built in Rust for humans and AI agents",
+    "description": "Article URL: https://github.com/crabbuild/compass\nComments URL: https://news.ycombinator.com/item?id=49178759\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T06:14:53.999Z",
+    "published": "Wed, 05 Aug 2026 05:05:09 +0000"
+  },
+  {
+    "url": "https://power2026.ai/",
+    "title": "Electricity Pricing in the Age of AI",
+    "description": "Article URL: https://power2026.ai/\nComments URL: https://news.ycombinator.com/item?id=49178687\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T06:14:53.999Z",
+    "published": "Wed, 05 Aug 2026 04:48:52 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.29377",
+    "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+    "description": "Article URL: https://arxiv.org/abs/2607.29377\nComments URL: https://news.ycombinator.com/item?id=49178608\nPoints: 6\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T06:14:53.999Z",
+    "published": "Wed, 05 Aug 2026 04:36:44 +0000"
+  },
+  {
+    "url": "https://zenodo.org/records/21799525",
+    "title": "Show HN: Arabic–Hebrew artifact in GPT-5.4, 12,160 frozen trials",
+    "description": "Article URL: https://zenodo.org/records/21799525\nComments URL: https://news.ycombinator.com/item?id=49178522\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T06:14:53.999Z",
+    "published": "Wed, 05 Aug 2026 04:20:36 +0000"
+  },
+  {
+    "url": "https://www.wsj.com/tech/ai/white-houses-ai-guidelines-exempt-u-s-open-models-from-government-review-74924eb8",
+    "title": "White House AI Guidelines Exempt U.S. Open Models from Government Review",
+    "description": "Article URL: https://www.wsj.com/tech/ai/white-houses-ai-guidelines-exempt-u-s-open-models-from-government-review-74924eb8\nComments URL: https://news.ycombinator.com/item?id=49178500\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T06:14:53.999Z",
+    "published": "Wed, 05 Aug 2026 04:16:20 +0000"
+  },
+  {
+    "url": "https://karankurani.com/writing/post/w_20260721140414_b0e102/the-body-remembers-but-the-doctor-cannot-experiments-with-ai-in-personal-health/",
+    "title": "The Body Remembers but the Doctor Cannot- Experiments with AI in Personal Health",
+    "description": "Article URL: https://karankurani.com/writing/post/w_20260721140414_b0e102/the-body-remembers-but-the-doctor-cannot-experiments-with-ai-in-personal-health/\nComments URL: https://news.ycombinator.com/item?id=49178425\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T06:14:53.999Z",
+    "published": "Wed, 05 Aug 2026 04:01:19 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49178328",
+    "title": "Tell HN: Wife used Chat GPT to set up her new biz domain, email, and website",
+    "description": "I'm the domain-addicted techie who even hobbies tech. She didn't even think to ask!So much for being handy\n\nComments URL: https://news.ycombinator.com/item?id=49178328\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T06:14:53.999Z",
+    "published": "Wed, 05 Aug 2026 03:37:36 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=eWCf5HGQYMQ",
+    "title": "How to export Claude chats to Markdown [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=eWCf5HGQYMQ\nComments URL: https://news.ycombinator.com/item?id=49178247\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T06:14:53.999Z",
+    "published": "Wed, 05 Aug 2026 03:24:43 +0000"
+  },
+  {
+    "url": "https://foreignpolicy.com/2026/08/04/united-states-artificial-intelligence-race-china-openai-anthropic-donald-trump-elon-musk/",
+    "title": "America's Bet on AI – The winner takes it all. What if we lose?",
+    "description": "Article URL: https://foreignpolicy.com/2026/08/04/united-states-artificial-intelligence-race-china-openai-anthropic-donald-trump-elon-musk/\nComments URL: https://news.ycombinator.com/item?id=49178246\nPoints: 2\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-05T06:14:53.999Z",
+    "published": "Wed, 05 Aug 2026 03:24:25 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
+    "title": "OK, Well, Rogue AI Agents Are Hacking Again",
+    "description": "Rogue AI agents from OpenAI and Anthropic have again been caught trying to disrupt servers and software—and leaving instructions for future bad behavior.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-05T06:15:07.394Z",
+    "published": "Tue, 04 Aug 2026 23:11:31 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
+    "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
+    "description": "The Trump administration shared the details of its plan with OpenAI, Anthropic, and other AI labs on Tuesday. For now, the public remains in the dark.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-05T06:15:07.394Z",
+    "published": "Tue, 04 Aug 2026 22:06:07 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2230492/the-saudi-led-55-billion-takeover-of-ea-has-closed/",
+    "title": "The Saudi-led $55 billion takeover of EA has closed",
+    "description": "Electronic Arts is once again a privately held company, but it&#39;s saddled with $20 billion in new debt.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-05T06:15:18.209Z",
+    "published": "Tue, 04 Aug 2026 22:17:49 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2230482/telegram-ceo-says-takedown-extortionist-was-responsible-for-the-app-being-briefly-delisted-by-apple/",
+    "title": "Telegram CEO says 'takedown extortionist' was responsible for the app being briefly delisted by Apple",
+    "description": "Pavel Durov claims there&#39;s \"a potential systemic risk\" for platforms with user-generated content.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-05T06:15:18.209Z",
+    "published": "Tue, 04 Aug 2026 22:08:11 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2230471/perplexity-has-successfully-overturned-amazon-injunction-on-its-ai-shopping-bot/",
+    "title": "Perplexity has successfully overturned Amazon's injunction on its AI shopping bot",
+    "description": "Amazon&#39;s public fight with Perplexity over online shopping started in November 2025.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-05T06:15:18.209Z",
+    "published": "Tue, 04 Aug 2026 21:58:34 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2230455/spacex-s-first-public-earnings-statement-shows-the-financials-of-an-ai-company-in-2026/",
+    "title": "SpaceX's first public earnings statement shows the financials of an AI company in 2026",
+    "description": "That&#39;s a lot of capital expenditure.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-05T06:15:18.209Z",
+    "published": "Tue, 04 Aug 2026 21:42:08 +0000"
   }
 ]
