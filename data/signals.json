@@ -765,7 +765,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-21T19:30:23.275Z",
-    "published": "Tue, 21 Jul 2026 16:52:51 +0000"
+    "published": "Tue, 21 Jul 2026 16:52:51 +0000",
+    "processed": true,
+    "processedAt": "2026-08-06T08:11:14.144Z"
   },
   {
     "url": "https://the-decoder.com/alibabas-qwen-image-3-0-renders-full-infographic-grids-and-readable-ten-pixel-text-in-a-single-pass/",
@@ -774,7 +776,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-21T19:30:23.275Z",
-    "published": "Tue, 21 Jul 2026 15:55:09 +0000"
+    "published": "Tue, 21 Jul 2026 15:55:09 +0000",
+    "processed": true,
+    "processedAt": "2026-08-06T08:11:14.144Z"
   },
   {
     "url": "https://the-decoder.com/microsoft-and-mistral-strike-multi-billion-dollar-deal-to-build-ai-infrastructure-across-europe/",
@@ -783,7 +787,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-21T19:30:23.275Z",
-    "published": "Tue, 21 Jul 2026 15:07:22 +0000"
+    "published": "Tue, 21 Jul 2026 15:07:22 +0000",
+    "processed": true,
+    "processedAt": "2026-08-06T08:11:14.144Z"
   },
   {
     "url": "https://the-decoder.com/alibabas-qwen-audio-3-0-tts-plus-tops-the-competition-in-the-text-to-speech-rankings/",
@@ -14047,5 +14053,27 @@
     "category": "news",
     "discovered": "2026-08-05T22:42:51.890Z",
     "published": "Wed, 05 Aug 2026 19:07:35 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
+    "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
+    "description": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nose.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-06T08:07:55.588Z",
+    "published": "Thu, 06 Aug 2026 00:15:04 +0000",
+    "processed": true,
+    "processedAt": "2026-08-06T08:11:14.144Z"
+  },
+  {
+    "url": "https://www.wired.com/story/openais-browser-could-be-hijacked-to-spam-your-whatsapp-contacts/",
+    "title": "OpenAI’s Browser Could Be Hijacked to Spam Your WhatsApp Contacts",
+    "description": "Researchers at security firm Zenity found more than a dozen flaws in AI browsers—and managed to get OpenAI’s Atlas to make an unauthorized Amazon purchase.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-06T08:07:55.588Z",
+    "published": "Wed, 05 Aug 2026 23:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-06T08:11:14.144Z"
   }
 ]
