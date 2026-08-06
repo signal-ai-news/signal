@@ -2001,9 +2001,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-28T09:48:29.205Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-06T10:14:27.935Z"
   },
   {
     "slug": "ai-decipher-ancient-languages",
@@ -2023,9 +2024,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-28T09:48:29.205Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-06T10:14:41.237Z"
   },
   {
     "slug": "5-ways-to-host-the-ultimate-dinner-party-with-google-search",
@@ -3585,6 +3587,72 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-05T22:19:07.653Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "klaviyo-acquisition-eliastorres",
+    "title": "3 Reasons Klaviyo's Acquisition Matters",
+    "summary": "Klaviyo just acquired Elias Torres' agency in a full-circle reunion that's about to change e-commerce forever",
+    "category": "NEWS",
+    "coverImage": null,
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/klaviyo-acquisition-eliastorres.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 433,
+    "tags": [
+      "Klaviyo",
+      "Elias Torres",
+      "E-commerce",
+      "AI",
+      "Acquisition"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-06T10:14:07.605Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "jeff-dean-leaves-google-ai-startup",
+    "title": "3 AI Legends Exit Google",
+    "summary": "Jeff Dean and top AI researchers are leaving Google to launch a groundbreaking startup that will change the face of scientific discovery",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/jeff-dean-leaves-google-ai-startup.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/jeff-dean-leaves-google-ai-startup.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 417,
+    "tags": [
+      "AI",
+      "Google",
+      "Startup",
+      "Jeff Dean",
+      "Scientific Discovery"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-06T10:14:07.605Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-privacy-breakthroughs",
+    "title": "3 Breakthroughs in AI Privacy",
+    "summary": "A new way to keep your AI private, without the cloud",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-privacy-breakthroughs.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-privacy-breakthroughs.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 481,
+    "tags": [
+      "AI",
+      "Privacy",
+      "TEE",
+      "LLM",
+      "Cloudless"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-06T10:14:07.605Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
