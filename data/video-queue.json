@@ -2185,9 +2185,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-29T10:13:05.679Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-07T20:05:02.686Z"
   },
   {
     "slug": "google-fell-behind-in-ai",
@@ -2207,9 +2208,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-29T10:13:05.679Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-07T20:05:12.531Z"
   },
   {
     "slug": "5-ai-hacks-for-youtube",
@@ -3923,6 +3925,94 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-07T15:11:08.817Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "openai-astra-cybersecurity-evaluations",
+    "title": "3 Breakthrough Cybersecurity Moves",
+    "summary": "Don't miss OpenAI's essential steps to strengthen Astra's safeguards and security controls",
+    "category": "LLM",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/openai-astra-cybersecurity-evaluations.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/openai-astra-cybersecurity-evaluations.html",
+    "sourceName": "OpenAI Blog",
+    "wordCount": 447,
+    "tags": [
+      "cybersecurity",
+      "OpenAI",
+      "Astra",
+      "llm",
+      "ai"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-07T20:04:48.972Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-tutor-breakthroughs",
+    "title": "3 AI Tutor Breakthroughs",
+    "summary": "Discover how AI tutors know when to help and when to hold back",
+    "category": "ML",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-tutor-breakthroughs.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-tutor-breakthroughs.html",
+    "sourceName": "Hugging Face Blog",
+    "wordCount": 477,
+    "tags": [
+      "AI",
+      "Tutoring",
+      "Machine Learning",
+      "Education",
+      "Technology"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-07T20:04:48.972Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "tech-giants-failing",
+    "title": "3 Reasons Tech Giants Are Failing",
+    "summary": "Historian Jill Lepore reveals the shocking truth behind Silicon Valley's leadership",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/tech-giants-failing.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/tech-giants-failing.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 362,
+    "tags": [
+      "Silicon Valley",
+      "Jill Lepore",
+      "Tech Giants",
+      "Artificial State",
+      "Leadership"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-07T20:04:48.972Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-sentience-breakthrough",
+    "title": "3 Steps to AI Sentience",
+    "summary": "Discover the proven path to creating conscious AI, as revealed by a recent breakthrough",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-sentience-breakthrough.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-sentience-breakthrough.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 531,
+    "tags": [
+      "AI",
+      "Sentience",
+      "Machine Learning",
+      "Breakthrough",
+      "Consciousness"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-07T20:04:48.972Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
