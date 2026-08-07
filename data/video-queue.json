@@ -2047,9 +2047,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-28T17:12:25.402Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-07T05:53:51.096Z"
   },
   {
     "slug": "fish-audio-52m-raise-what-it-means",
@@ -2069,9 +2070,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-28T17:12:25.402Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-07T05:54:01.403Z"
   },
   {
     "slug": "recursive-superintelligence-amazon-deal",
@@ -3653,6 +3655,28 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-06T10:14:07.605Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "openai-smart-speaker-essential-guide",
+    "title": "3 Reasons OpenAI's $350 Speaker Is A Breakthrough",
+    "summary": "Don't miss out on the ultimate AI smart speaker that's about to change everything!",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/openai-smart-speaker-essential-guide.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/openai-smart-speaker-essential-guide.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 384,
+    "tags": [
+      "OpenAI",
+      "Smart Speaker",
+      "AI Device",
+      "Tech News",
+      "Innovation"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-07T05:53:37.591Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
