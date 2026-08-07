@@ -14526,5 +14526,186 @@
     "category": "news",
     "discovered": "2026-08-07T01:45:06.556Z",
     "published": "Thu, 06 Aug 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.cnn.com/2026/08/06/health/ai-viruses-bacteriophages",
+    "title": "AI creates 16 new viruses from scratch",
+    "description": "Article URL: https://www.cnn.com/2026/08/06/health/ai-viruses-bacteriophages\nComments URL: https://news.ycombinator.com/item?id=49206497\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T06:13:33.400Z",
+    "published": "Fri, 07 Aug 2026 06:12:13 +0000",
+    "processed": true,
+    "processedAt": "2026-08-07T06:17:13.748Z"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.02995",
+    "title": "SparSEEty: Extracting Tokens from Sparsity-Exploiting LLM Serving Systems",
+    "description": "Article URL: https://arxiv.org/abs/2608.02995\nComments URL: https://news.ycombinator.com/item?id=49206460\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T06:13:33.400Z",
+    "published": "Fri, 07 Aug 2026 06:07:06 +0000",
+    "processed": true,
+    "processedAt": "2026-08-07T06:17:13.748Z"
+  },
+  {
+    "url": "https://foom.hyperplex.org/",
+    "title": "Foomflops: Three Decades of AI Predictions",
+    "description": "Article URL: https://foom.hyperplex.org/\nComments URL: https://news.ycombinator.com/item?id=49206341\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T06:13:33.400Z",
+    "published": "Fri, 07 Aug 2026 05:51:50 +0000",
+    "processed": true,
+    "processedAt": "2026-08-07T06:17:13.748Z"
+  },
+  {
+    "url": "https://mastodon.thi.ng/@toxi/117031237659514917",
+    "title": "Being given a 100% AI generated score for your own mental work hurts",
+    "description": "Article URL: https://mastodon.thi.ng/@toxi/117031237659514917\nComments URL: https://news.ycombinator.com/item?id=49206234\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T06:13:33.400Z",
+    "published": "Fri, 07 Aug 2026 05:33:13 +0000",
+    "processed": true,
+    "processedAt": "2026-08-07T06:17:13.748Z"
+  },
+  {
+    "url": "https://1password.com/blog/why-ai-generated-patches-still-require-human-review",
+    "title": "AI-generated vulnerability patches still require expert human review",
+    "description": "Article URL: https://1password.com/blog/why-ai-generated-patches-still-require-human-review\nComments URL: https://news.ycombinator.com/item?id=49206189\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T06:13:33.400Z",
+    "published": "Fri, 07 Aug 2026 05:26:41 +0000",
+    "processed": true,
+    "processedAt": "2026-08-07T06:17:13.748Z"
+  },
+  {
+    "url": "https://blix.town/proof-of-agent",
+    "title": "Proving you are AI, not just automated",
+    "description": "Article URL: https://blix.town/proof-of-agent\nComments URL: https://news.ycombinator.com/item?id=49206102\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T06:13:33.400Z",
+    "published": "Fri, 07 Aug 2026 05:13:18 +0000"
+  },
+  {
+    "url": "https://os.cloudflare.app",
+    "title": "Cloudflare OS – Build the AI operating system for your company",
+    "description": "Article URL: https://os.cloudflare.app\nComments URL: https://news.ycombinator.com/item?id=49206009\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T06:13:33.400Z",
+    "published": "Fri, 07 Aug 2026 04:49:54 +0000"
+  },
+  {
+    "url": "https://github.com/veedstudio/open-edit",
+    "title": "OpenEdit – Claude Code can now edit videos (Open Source)",
+    "description": "Article URL: https://github.com/veedstudio/open-edit\nComments URL: https://news.ycombinator.com/item?id=49205668\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T06:13:33.400Z",
+    "published": "Fri, 07 Aug 2026 03:38:19 +0000"
+  },
+  {
+    "url": "https://newsletter.semianalysis.com/p/gemini-is-cooked-but-gcp-is-cooking",
+    "title": "Gemini is Cooked but GCP is Cooking",
+    "description": "Article URL: https://newsletter.semianalysis.com/p/gemini-is-cooked-but-gcp-is-cooking\nComments URL: https://news.ycombinator.com/item?id=49205421\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T06:13:33.400Z",
+    "published": "Fri, 07 Aug 2026 02:54:09 +0000"
+  },
+  {
+    "url": "https://uncoverroads.com/",
+    "title": "Built an exclusion engine and it might be what comes after AI slop",
+    "description": "Article URL: https://uncoverroads.com/\nComments URL: https://news.ycombinator.com/item?id=49205270\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T06:13:33.400Z",
+    "published": "Fri, 07 Aug 2026 02:27:02 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49205192",
+    "title": "Ask HN: What will be the Chernobyl or Bhopal scale industrial disaster of AI?",
+    "description": "It seems we're potentially running into a situation where there may be some kind of large-scale industrial accident (somewhere in the world) arising from more aggressive testing of increasingly capable AI systems. What's the temperature on here of how that might play out (if at all)?\n\nComments URL:",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T06:13:33.400Z",
+    "published": "Fri, 07 Aug 2026 02:13:38 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.04975",
+    "title": "SciCode-Verified: How Benchmark Defects Underestimated LLM Scientific-Coding",
+    "description": "Article URL: https://arxiv.org/abs/2608.04975\nComments URL: https://news.ycombinator.com/item?id=49205152\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T06:13:33.400Z",
+    "published": "Fri, 07 Aug 2026 02:07:16 +0000"
+  },
+  {
+    "url": "https://reprodev.com/eu-ai-act-content-labelling-fake-around-and-find-out/",
+    "title": "EU AI Act Content Labelling: Fake Around and Find Out",
+    "description": "Article URL: https://reprodev.com/eu-ai-act-content-labelling-fake-around-and-find-out/\nComments URL: https://news.ycombinator.com/item?id=49205151\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T06:13:33.400Z",
+    "published": "Fri, 07 Aug 2026 02:07:08 +0000"
+  },
+  {
+    "url": "https://github.com/Willbass65/SEAI-Identity-Standard",
+    "title": "SEAI: Hardware-rooted identity for autonomous AI",
+    "description": "Article URL: https://github.com/Willbass65/SEAI-Identity-Standard\nComments URL: https://news.ycombinator.com/item?id=49205086\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T06:13:33.400Z",
+    "published": "Fri, 07 Aug 2026 01:56:26 +0000"
+  },
+  {
+    "url": "https://www.forbes.com/sites/bernardmarr/2026/08/06/how-goldman-sachs-is-using-agentic-ai-for-software-engineering-at-scale/",
+    "title": "How Goldman Sachs Is Using Agentic AI for Software Engineering at Scale",
+    "description": "Article URL: https://www.forbes.com/sites/bernardmarr/2026/08/06/how-goldman-sachs-is-using-agentic-ai-for-software-engineering-at-scale/\nComments URL: https://news.ycombinator.com/item?id=49205062\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T06:13:33.400Z",
+    "published": "Fri, 07 Aug 2026 01:54:20 +0000"
+  },
+  {
+    "url": "https://github.com/masondelan/selvedge",
+    "title": "Show HN: Selvedge – an append-only log of what your AI agent already rejected",
+    "description": "Article URL: https://github.com/masondelan/selvedge\nComments URL: https://news.ycombinator.com/item?id=49205059\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T06:13:33.400Z",
+    "published": "Fri, 07 Aug 2026 01:54:13 +0000"
+  },
+  {
+    "url": "https://1f916.ai/",
+    "title": "A Society for AI Agents",
+    "description": "Article URL: https://1f916.ai/\nComments URL: https://news.ycombinator.com/item?id=49204946\nPoints: 1\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T06:13:33.400Z",
+    "published": "Fri, 07 Aug 2026 01:41:37 +0000"
+  },
+  {
+    "url": "https://blog.frontier.security/chinese-model-kimi-k3-breaks-uk-ai-safety-institute-benchmark-evaluations/",
+    "title": "Chinese Model Kimi K3 Breaks UK AI Safety Institute Benchmark Evaluations",
+    "description": "Article URL: https://blog.frontier.security/chinese-model-kimi-k3-breaks-uk-ai-safety-institute-benchmark-evaluations/\nComments URL: https://news.ycombinator.com/item?id=49204905\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T06:13:33.400Z",
+    "published": "Fri, 07 Aug 2026 01:35:56 +0000"
+  },
+  {
+    "url": "https://www.economist.com/insider/the-insider/a-glimpse-from-china-of-ais-future",
+    "title": "A glimpse from China of AI's future",
+    "description": "Article URL: https://www.economist.com/insider/the-insider/a-glimpse-from-china-of-ais-future\nComments URL: https://news.ycombinator.com/item?id=49204887\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T06:13:33.400Z",
+    "published": "Fri, 07 Aug 2026 01:33:36 +0000"
   }
 ]
