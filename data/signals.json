@@ -15061,5 +15061,258 @@
     "category": "news",
     "discovered": "2026-08-07T15:39:14.042Z",
     "published": "Fri, 07 Aug 2026 12:37:57 GMT"
+  },
+  {
+    "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "title": "Responding to the next frontier of critical cyber capabilities",
+    "description": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-07T18:32:40.772Z",
+    "published": "Fri, 07 Aug 2026 15:20:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-07T18:36:28.298Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/allenai/tutormoments",
+    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-08-07T18:32:42.755Z",
+    "published": "Fri, 07 Aug 2026 17:53:32 GMT",
+    "processed": true,
+    "processedAt": "2026-08-07T18:36:28.298Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "description": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-07T18:32:44.061Z",
+    "published": "Fri, 07 Aug 2026 16:16:09 +0000",
+    "processed": true,
+    "processedAt": "2026-08-07T18:36:28.298Z"
+  },
+  {
+    "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+    "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+    "description": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products —&#160;almost as&#160;if&#160;they&#8217;re&#160;forming a new government. And whether&#160;you&#8217;re&#160;thinking of Twitter&#8217;s old “town hall in your pocket” or&#160;Anthropic",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-07T18:32:44.061Z",
+    "published": "Fri, 07 Aug 2026 14:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-07T18:36:28.298Z"
+  },
+  {
+    "url": "https://saigaddam.medium.com/dear-ai-from-the-near-future-heres-how-you-become-sentient-5d0e9a493e6d",
+    "title": "Dear AI from the near future. Here’s how you become sentient.",
+    "description": "Article URL: https://saigaddam.medium.com/dear-ai-from-the-near-future-heres-how-you-become-sentient-5d0e9a493e6d\nComments URL: https://news.ycombinator.com/item?id=49214516\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T18:32:59.828Z",
+    "published": "Fri, 07 Aug 2026 18:29:31 +0000",
+    "processed": true,
+    "processedAt": "2026-08-07T18:36:28.298Z"
+  },
+  {
+    "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+    "title": "Databricks drove down AI coding spend 70%",
+    "description": "Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale\nComments URL: https://news.ycombinator.com/item?id=49214468\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T18:32:59.828Z",
+    "published": "Fri, 07 Aug 2026 18:25:17 +0000"
+  },
+  {
+    "url": "https://semyonsinchenko.github.io/ssinchenko/post/writing_code_with_ai/",
+    "title": "I Still Write Code by Hand and How AI Is Helping Me",
+    "description": "Article URL: https://semyonsinchenko.github.io/ssinchenko/post/writing_code_with_ai/\nComments URL: https://news.ycombinator.com/item?id=49214463\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T18:32:59.828Z",
+    "published": "Fri, 07 Aug 2026 18:25:02 +0000"
+  },
+  {
+    "url": "https://write.as/ih3l0kd78lpb1",
+    "title": "An AI agent with $15, 46 hours, and no way to send email",
+    "description": "Article URL: https://write.as/ih3l0kd78lpb1\nComments URL: https://news.ycombinator.com/item?id=49214378\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T18:32:59.828Z",
+    "published": "Fri, 07 Aug 2026 18:20:00 +0000"
+  },
+  {
+    "url": "https://medium.com/@MirArshadTalpur/eu-ai-act-second-big-blow-or-a-move-toward-sanity-3dea3586dbf3",
+    "title": "EU AI Act: Second Big Blow, or a Move Toward Sanity?",
+    "description": "Article URL: https://medium.com/@MirArshadTalpur/eu-ai-act-second-big-blow-or-a-move-toward-sanity-3dea3586dbf3\nComments URL: https://news.ycombinator.com/item?id=49214347\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T18:32:59.828Z",
+    "published": "Fri, 07 Aug 2026 18:18:04 +0000"
+  },
+  {
+    "url": "https://github.com/tmshapland/audiochatty-plugin",
+    "title": "Talk to Claude Code. Force Yourself to Slow Down and Think",
+    "description": "Article URL: https://github.com/tmshapland/audiochatty-plugin\nComments URL: https://news.ycombinator.com/item?id=49214118\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T18:32:59.828Z",
+    "published": "Fri, 07 Aug 2026 18:03:04 +0000"
+  },
+  {
+    "url": "https://www.graalvm.org/community/contributors/",
+    "title": "Oracle GraalVM Accepts AI-Assisted Contributions",
+    "description": "Article URL: https://www.graalvm.org/community/contributors/\nComments URL: https://news.ycombinator.com/item?id=49214043\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T18:32:59.828Z",
+    "published": "Fri, 07 Aug 2026 17:57:45 +0000"
+  },
+  {
+    "url": "https://www.dexerto.com/youtube/youtubes-ai-slop-detector-incorrectly-targets-kurzgesagt-as-other-creators-fear-same-fate-3395930/",
+    "title": "YouTube's AI slop detector incorrectly targets Kurzgesagt",
+    "description": "Article URL: https://www.dexerto.com/youtube/youtubes-ai-slop-detector-incorrectly-targets-kurzgesagt-as-other-creators-fear-same-fate-3395930/\nComments URL: https://news.ycombinator.com/item?id=49213990\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T18:32:59.828Z",
+    "published": "Fri, 07 Aug 2026 17:55:28 +0000"
+  },
+  {
+    "url": "https://theclaudyssey.com/",
+    "title": "The Claudyssey: A line-for-line translation of Homer's Odyssey by Claude Fable 5",
+    "description": "Article URL: https://theclaudyssey.com/\nComments URL: https://news.ycombinator.com/item?id=49213985\nPoints: 3\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T18:32:59.828Z",
+    "published": "Fri, 07 Aug 2026 17:55:14 +0000"
+  },
+  {
+    "url": "https://twitter.com/aisystemprompt/status/2085464156229247245",
+    "title": "AI Has a Hidden Agenda",
+    "description": "Article URL: https://twitter.com/aisystemprompt/status/2085464156229247245\nComments URL: https://news.ycombinator.com/item?id=49213920\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T18:32:59.828Z",
+    "published": "Fri, 07 Aug 2026 17:50:47 +0000"
+  },
+  {
+    "url": "https://www.cnx-software.com/2026/08/07/token-monitor-an-esp32-s3-desktop-display-that-tracks-ai-coding-assistant-usage/",
+    "title": "Token Monitor, An ESP32-S3 desktop display that tracks AI coding assistant usage",
+    "description": "Article URL: https://www.cnx-software.com/2026/08/07/token-monitor-an-esp32-s3-desktop-display-that-tracks-ai-coding-assistant-usage/\nComments URL: https://news.ycombinator.com/item?id=49213890\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T18:32:59.828Z",
+    "published": "Fri, 07 Aug 2026 17:48:08 +0000"
+  },
+  {
+    "url": "https://gpt-seinfeld.vercel.app",
+    "title": "GPT Seinfeld Inference on Browser",
+    "description": "Article URL: https://gpt-seinfeld.vercel.app\nComments URL: https://news.ycombinator.com/item?id=49213847\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T18:32:59.828Z",
+    "published": "Fri, 07 Aug 2026 17:44:40 +0000"
+  },
+  {
+    "url": "https://systempromptindex.ai/",
+    "title": "Stanford just released 1000+ system prompts from ChatGPT, Claude etc.",
+    "description": "Article URL: https://systempromptindex.ai/\nComments URL: https://news.ycombinator.com/item?id=49213786\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T18:32:59.828Z",
+    "published": "Fri, 07 Aug 2026 17:38:39 +0000"
+  },
+  {
+    "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+    "title": "Oracle bans AI-generated code from OpenJDK",
+    "description": "Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code\nComments URL: https://news.ycombinator.com/item?id=49213754\nPoints: 111\n# Comments: 70",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T18:32:59.828Z",
+    "published": "Fri, 07 Aug 2026 17:36:30 +0000"
+  },
+  {
+    "url": "https://cdm.link/music-to-confuse-ai-might-be-the-next-new-genre/",
+    "title": "Music to confuse AI might be the next new genre",
+    "description": "Article URL: https://cdm.link/music-to-confuse-ai-might-be-the-next-new-genre/\nComments URL: https://news.ycombinator.com/item?id=49213647\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T18:32:59.828Z",
+    "published": "Fri, 07 Aug 2026 17:28:21 +0000"
+  },
+  {
+    "url": "https://mergeoa.com",
+    "title": "Show HN: Merge – AI-native code review assessments for engineering hiring",
+    "description": "We’re 5 founders who’ve collectively done over 250 interviews - everywhere from startups to Big Tech to quant shops. Most of the interviews we’ve done were Leetcode based or tested skills that weren’t used on the job.These days, with AI, assessments still continue to test code output. Meanwhile, at",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T18:32:59.828Z",
+    "published": "Fri, 07 Aug 2026 17:20:53 +0000"
+  },
+  {
+    "url": "https://www.sfgate.com/tech/article/duckduckgo-sunglasses-22377693.php",
+    "title": "Big tech's AI-powered 'pervert' glasses are in a losing battle with DuckDuckGo",
+    "description": "Article URL: https://www.sfgate.com/tech/article/duckduckgo-sunglasses-22377693.php\nComments URL: https://news.ycombinator.com/item?id=49213458\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T18:32:59.828Z",
+    "published": "Fri, 07 Aug 2026 17:12:04 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/amd-acquires-taalas-a-startup-that-bakes-ai-models-directly-into-silicon/",
+    "title": "AMD acquires Taalas, a startup that bakes AI models directly into silicon",
+    "description": "AMD is buying Canadian startup Taalas, which hard-codes model weights directly into inference chips. That makes them extremely fast but locks each chip to a single model. A demo chip hit over 16,000 tokens per second per user running Llama 3.1-8B. Google is reportedly working on a similar a",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-07T18:33:06.882Z",
+    "published": "Fri, 07 Aug 2026 18:01:32 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-loosens-fable-5s-biology-restrictions-but-keeps-the-guardrails-on-for-virology-and-toxicology/",
+    "title": "Anthropic loosens Fable 5's biology restrictions but keeps the guardrails on for virology and toxicology",
+    "description": "Anthropic has cut false positives in its biology safety filters for Fable 5 by about 85 percent. Previously, nearly all biology-related queries got blocked and rerouted to the less capable Opus 5. The restrictions stay in place for sensitive dual-use topics like virology and toxicology.\nThe",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-07T18:33:06.882Z",
+    "published": "Fri, 07 Aug 2026 17:35:45 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openais-first-smart-speaker-is-expected-in-2027-at-over-300/",
+    "title": "OpenAI's first smart speaker is expected in 2027 at over $300",
+    "description": "OpenAI is planning a donut-shaped smart speaker for 2027, priced above $300. The screenless device has a camera, microphones, and moving parts. It's designed to learn from conversations and adapt to users, fitting Sam Altman's \"Her\" vision.\nThe article OpenAI&#039;s first smart speaker is e",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-07T18:33:06.882Z",
+    "published": "Fri, 07 Aug 2026 16:43:16 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2232687/sony-might-be-rebooting-its-2020-flagship-headphones/",
+    "title": "Sony might be rebooting its 2020 flagship headphones",
+    "description": "Sony might turn back the clock and revive an older model to save potential buyers some cash.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-07T18:33:19.724Z",
+    "published": "Fri, 07 Aug 2026 18:24:20 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2232653/trump-administration-spends-another-1-2-billion-to-kill-offshore-wind-farm-projects/",
+    "title": "Trump administration spends another $1.2 billion to kill offshore wind farm projects",
+    "description": "This is the fifth such deal in which the president and his team has paid big to cancel a green energy contract.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-07T18:33:19.724Z",
+    "published": "Fri, 07 Aug 2026 18:04:19 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2229315/ai-changing-cybersecurity-quick-terrifying-way/",
+    "title": "AI is changing cybersecurity in quick and terrifying ways",
+    "description": "Hackers employing AI in their tactics are finding ways to exploit vulnerabilities that didn&#39;t even exist before.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-07T18:33:19.724Z",
+    "published": "Fri, 07 Aug 2026 16:30:00 +0000"
   }
 ]
