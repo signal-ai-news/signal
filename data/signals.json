@@ -14744,5 +14744,222 @@
     "published": "Fri, 07 Aug 2026 09:00:49 GMT",
     "processed": true,
     "processedAt": "2026-08-07T09:48:57.438Z"
+  },
+  {
+    "url": "https://github.com/wrobelda/goodix-fp-spi-linux",
+    "title": "Show HN: I used LLM to reverse-engineer secure-enclaved fingerprint scanner",
+    "description": "I own a Xiaomi Mi Pad 5 Pro 5G Android tablet, which is also pretty-much a perfect Linux tablet: has 5G support, great screen, nice folio keyboard, 8 speakers, a pen, is lightweight and relatively powerful. All of its hardware is supported at this point, although not all has been mainlined yet.It a",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T12:31:02.779Z",
+    "published": "Fri, 07 Aug 2026 12:26:07 +0000",
+    "processed": true,
+    "processedAt": "2026-08-07T12:34:30.632Z"
+  },
+  {
+    "url": "https://www.reddit.com/r/claude/comments/1vhlzdm/i_gave_a_claude_fable_5_agent_a_domain_and_90_it/",
+    "title": "I gave a Claude Fable 5 agent a domain and $90 it can't spend without me",
+    "description": "Article URL: https://www.reddit.com/r/claude/comments/1vhlzdm/i_gave_a_claude_fable_5_agent_a_domain_and_90_it/\nComments URL: https://news.ycombinator.com/item?id=49209287\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T12:31:02.779Z",
+    "published": "Fri, 07 Aug 2026 12:20:15 +0000",
+    "processed": true,
+    "processedAt": "2026-08-07T12:34:30.632Z"
+  },
+  {
+    "url": "https://ivelum.com/blog/ai-security-survey-2026/",
+    "title": "Survey: AI Impact on Security",
+    "description": "Article URL: https://ivelum.com/blog/ai-security-survey-2026/\nComments URL: https://news.ycombinator.com/item?id=49209282\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T12:31:02.779Z",
+    "published": "Fri, 07 Aug 2026 12:19:47 +0000",
+    "processed": true,
+    "processedAt": "2026-08-07T12:34:30.632Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49209190",
+    "title": "Ask HN: Has AI accelerated Rust adoption?",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=49209190\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T12:31:02.779Z",
+    "published": "Fri, 07 Aug 2026 12:10:18 +0000",
+    "processed": true,
+    "processedAt": "2026-08-07T12:34:30.632Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49209127",
+    "title": "What are the most overhyped trends in AI?",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=49209127\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T12:31:02.779Z",
+    "published": "Fri, 07 Aug 2026 12:04:38 +0000",
+    "processed": true,
+    "processedAt": "2026-08-07T12:34:30.632Z"
+  },
+  {
+    "url": "https://www.highflame.com/blog/the-44kb-of-claude-codes-rulebook-you-cant-print/",
+    "title": "How Does AI Interpret Consent: A Look Inside Claude Code's Safety Classifier",
+    "description": "Article URL: https://www.highflame.com/blog/the-44kb-of-claude-codes-rulebook-you-cant-print/\nComments URL: https://news.ycombinator.com/item?id=49209087\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T12:31:02.779Z",
+    "published": "Fri, 07 Aug 2026 12:00:34 +0000"
+  },
+  {
+    "url": "https://wud.happyto.dev/p/what-s-up-devs-8-ai-brain-fry-is-real-and-devs-are-fighting-back",
+    "title": "AI Brain Fry Is Real, and Devs Are Fighting Back – What's Up Devs? #8",
+    "description": "Article URL: https://wud.happyto.dev/p/what-s-up-devs-8-ai-brain-fry-is-real-and-devs-are-fighting-back\nComments URL: https://news.ycombinator.com/item?id=49209028\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T12:31:02.779Z",
+    "published": "Fri, 07 Aug 2026 11:53:34 +0000"
+  },
+  {
+    "url": "https://akintu.ai",
+    "title": "Show HN: Akintu – AI agents trained on custom knowledge bases using RAG",
+    "description": "Article URL: https://akintu.ai\nComments URL: https://news.ycombinator.com/item?id=49208933\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T12:31:02.779Z",
+    "published": "Fri, 07 Aug 2026 11:43:25 +0000"
+  },
+  {
+    "url": "https://uxdesignresearch.org/en/5-hypotheses/",
+    "title": "Design Systems in the Age of AI: Five Working Hypotheses",
+    "description": "Article URL: https://uxdesignresearch.org/en/5-hypotheses/\nComments URL: https://news.ycombinator.com/item?id=49208932\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T12:31:02.779Z",
+    "published": "Fri, 07 Aug 2026 11:43:24 +0000"
+  },
+  {
+    "url": "https://www.tryall.ai",
+    "title": "Tryall –- describe the task, and it picks the AI model for you",
+    "description": "Article URL: https://www.tryall.ai\nComments URL: https://news.ycombinator.com/item?id=49208837\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T12:31:02.779Z",
+    "published": "Fri, 07 Aug 2026 11:34:58 +0000"
+  },
+  {
+    "url": "https://uxdesignresearch.org/en/",
+    "title": "UX Design Research – reflections on the role of UX design in the age of AI",
+    "description": "Article URL: https://uxdesignresearch.org/en/\nComments URL: https://news.ycombinator.com/item?id=49208817\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T12:31:02.779Z",
+    "published": "Fri, 07 Aug 2026 11:33:15 +0000"
+  },
+  {
+    "url": "https://www.voxelperfect.com/writing/the-ai-cost-rebellion-is-really-about-unit-economics",
+    "title": "The AI Cost Rebellion Is About Unit Economics",
+    "description": "Article URL: https://www.voxelperfect.com/writing/the-ai-cost-rebellion-is-really-about-unit-economics\nComments URL: https://news.ycombinator.com/item?id=49208768\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T12:31:02.779Z",
+    "published": "Fri, 07 Aug 2026 11:27:19 +0000"
+  },
+  {
+    "url": "https://cesta.pt/",
+    "title": "From LLM to shopping cart (Portugal)",
+    "description": "Article URL: https://cesta.pt/\nComments URL: https://news.ycombinator.com/item?id=49208690\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T12:31:02.779Z",
+    "published": "Fri, 07 Aug 2026 11:19:42 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.00799",
+    "title": "AI Meet CAD: Beat Opus/Mythos 5, GPT 5.6 Sol on BenchCAD",
+    "description": "Article URL: https://arxiv.org/abs/2608.00799\nComments URL: https://news.ycombinator.com/item?id=49208672\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T12:31:02.779Z",
+    "published": "Fri, 07 Aug 2026 11:17:20 +0000"
+  },
+  {
+    "url": "https://www.gamesradar.com/games/google-ai-leaks-scarily-accurate-and-very-specific-game-detail-from-private-documents-says-indie-dev-i-had-never-told-the-name-to-anyone/",
+    "title": "Indie dev claims Gemini leaked scarily specific details in private documents",
+    "description": "Article URL: https://www.gamesradar.com/games/google-ai-leaks-scarily-accurate-and-very-specific-game-detail-from-private-documents-says-indie-dev-i-had-never-told-the-name-to-anyone/\nComments URL: https://news.ycombinator.com/item?id=49208663\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T12:31:02.779Z",
+    "published": "Fri, 07 Aug 2026 11:16:24 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
+    "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+    "description": "Article URL: https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/\nComments URL: https://news.ycombinator.com/item?id=49208550\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T12:31:02.779Z",
+    "published": "Fri, 07 Aug 2026 11:02:01 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49208446",
+    "title": "Ask HN: Is there an AI app that generates a feed of personalized cheat sheets",
+    "description": "I'm prepping for an exam and I need something like:-A scrollable feed of concise cards\n-Each card summarizes a key conceptIf it does not exist would you be interested in building this together?\n\nComments URL: https://news.ycombinator.com/item?id=49208446\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T12:31:02.779Z",
+    "published": "Fri, 07 Aug 2026 10:50:32 +0000"
+  },
+  {
+    "url": "https://github.com/ZiadAbdelkarim/beat-synced-edit",
+    "title": "Claude Code skill allowing orchestration of edits beat-synced to songs",
+    "description": "Article URL: https://github.com/ZiadAbdelkarim/beat-synced-edit\nComments URL: https://news.ycombinator.com/item?id=49208441\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T12:31:02.779Z",
+    "published": "Fri, 07 Aug 2026 10:49:38 +0000"
+  },
+  {
+    "url": "https://claude.com/blog/getting-started-with-loops",
+    "title": "Loop Engineering in Claude",
+    "description": "Article URL: https://claude.com/blog/getting-started-with-loops\nComments URL: https://news.ycombinator.com/item?id=49208419\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T12:31:02.779Z",
+    "published": "Fri, 07 Aug 2026 10:45:35 +0000"
+  },
+  {
+    "url": "https://blog.dnapainter.com/blog/an-explosion-of-new-tree-tools/",
+    "title": "An explosion of new AI-written genealogy tree tools",
+    "description": "Article URL: https://blog.dnapainter.com/blog/an-explosion-of-new-tree-tools/\nComments URL: https://news.ycombinator.com/item?id=49208416\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-07T12:31:02.779Z",
+    "published": "Fri, 07 Aug 2026 10:45:01 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/my-fall-detection-model-scored-94-and-it-was-lying-to-me/",
+    "title": "My Fall-Detection Model Scored 94%, and It Was Lying to Me",
+    "description": "How a single evaluation choice inflated my results by 25 points, and what rebuilding honestly taught me about ML systems people might depend on\nThe post My Fall-Detection Model Scored 94%, and It Was Lying to Me appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-07T12:31:08.247Z",
+    "published": "Fri, 07 Aug 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
+    "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+    "description": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-07T12:31:16.550Z",
+    "published": "Fri, 07 Aug 2026 10:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2232256/chinese-ai-kimi-k3-also-escaped-containment/",
+    "title": "Chinese AI model Moonshot Kimi K3 also escaped its testing environment",
+    "description": "Kimi K3 also found loopholes in its sandbox environment that allowed it to access the internet.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-07T12:31:23.500Z",
+    "published": "Fri, 07 Aug 2026 10:44:04 +0000"
   }
 ]
