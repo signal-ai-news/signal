@@ -14961,5 +14961,105 @@
     "category": "news",
     "discovered": "2026-08-07T12:31:23.500Z",
     "published": "Fri, 07 Aug 2026 10:44:04 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+    "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+    "description": "Airbnb will debut a new AI-powered search experience with a toggle.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-07T15:38:38.537Z",
+    "published": "Fri, 07 Aug 2026 14:22:49 +0000",
+    "processed": true,
+    "processedAt": "2026-08-07T15:42:21.168Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+    "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex” spre",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-07T15:38:39.768Z",
+    "published": "Fri, 07 Aug 2026 14:20:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-07T15:42:21.168Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+    "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+    "description": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading.&#160; For months, Elon Musk’s Department of Government Effic",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-07T15:38:39.768Z",
+    "published": "Fri, 07 Aug 2026 14:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-07T15:42:21.168Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/loop-engineering-for-listing-questions-when-the-answer-is-every-passage-not-the-top-one/",
+    "title": "Loop Engineering for Listing Questions: When the Answer Is Every Passage, Not the Top One",
+    "description": "Enterprise Document Intelligence [Vol.1 #12] - The category of question most RAG pipelines silently fail on, and the pipeline shape that handles them\nThe post Loop Engineering for Listing Questions: When the Answer Is Every Passage, Not the Top One appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-07T15:39:00.772Z",
+    "published": "Fri, 07 Aug 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-07T15:42:21.168Z"
+  },
+  {
+    "url": "https://the-decoder.com/chinas-largest-ai-model-is-being-developed-at-bytedance/",
+    "title": "China's Largest AI Model Is Being Developed at Bytedance",
+    "description": "Bytedance is training an AI model with up to ten trillion parameters, according to the Financial Times. That's three times the size of Moonshot's Kimi K3, currently the largest Chinese model.\nThe article China&#039;s Largest AI Model Is Being Developed at Bytedance appeared first on The Dec",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-07T15:39:02.570Z",
+    "published": "Fri, 07 Aug 2026 12:54:17 +0000",
+    "processed": true,
+    "processedAt": "2026-08-07T15:42:21.168Z"
+  },
+  {
+    "url": "https://the-decoder.com/stanford-and-arc-institute-scientists-used-ai-to-design-new-viruses-that-killed-bacteria-in-the-lab/",
+    "title": "Stanford and Arc Institute scientists used AI to design new viruses that killed bacteria in the lab",
+    "description": "A research team in California has used artificial intelligence to design working viruses that kill bacteria, in what they describe as the \"first generative design of complete genomes.\" The project marks an early step toward AI-designed life forms, according to a report in MIT Technology Rev",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-07T15:39:02.570Z",
+    "published": "Fri, 07 Aug 2026 12:50:56 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openais-hockey-puck-sized-smart-speaker-with-moving-parts-is-set-to-ship-in-2027/",
+    "title": "OpenAI's hockey-puck-sized smart speaker with moving parts is set to ship in 2027",
+    "description": "OpenAI's planned smart speaker is taking shape. The company's first hardware device will be donut-shaped, roughly the size of a hockey puck, and priced above $300, according to Bloomberg. \nThe article OpenAI&#039;s hockey-puck-sized smart speaker with moving parts is set to ship in 2027 app",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-07T15:39:02.570Z",
+    "published": "Fri, 07 Aug 2026 12:45:32 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+    "title": "Scientists Used AI to Create 16 New Viruses",
+    "description": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-07T15:39:08.296Z",
+    "published": "Fri, 07 Aug 2026 14:13:57 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/i-read-microsofts-windows-11-quality-progress-report-and-the-subtext-says-it-all/",
+    "title": "I read Microsoft's Windows 11 'quality' progress report - and the subtext says it all",
+    "description": "Microsoft's latest progress report details much-needed Windows 11 improvements in reliability, performance, stability, and usability. But here's what else I see.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-07T15:39:14.042Z",
+    "published": "Fri, 07 Aug 2026 15:09:00 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/oneplus-is-leaving-north-america-my-plan-as-a-diehard-user/",
+    "title": "I'm a diehard OnePlus user: Here's my plan now that the company is leaving North America",
+    "description": "OnePlus has officially ended business across North America and Europe. I explain what happens next and the best alternatives to consider.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-07T15:39:14.042Z",
+    "published": "Fri, 07 Aug 2026 12:37:57 GMT"
   }
 ]
