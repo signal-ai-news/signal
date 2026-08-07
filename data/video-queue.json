@@ -2139,9 +2139,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-28T21:47:22.515Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-07T15:11:26.955Z"
   },
   {
     "slug": "jacob-tsimerman-on-ai-and-math",
@@ -2161,9 +2162,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-28T21:47:22.515Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-07T15:11:37.829Z"
   },
   {
     "slug": "cyera-acquires-oasis-security",
@@ -3767,6 +3769,160 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-07T09:35:56.107Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-agent-plugins-standard",
+    "title": "5 Giants Unite",
+    "summary": "Amazon, Microsoft, and others just created a groundbreaking standard for AI agent plugins - here's what you need to know",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-agent-plugins-standard.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-agent-plugins-standard.html",
+    "sourceName": "The Decoder",
+    "wordCount": 430,
+    "tags": [
+      "AI",
+      "Agent Plugins",
+      "Amazon",
+      "Microsoft",
+      "OpenAI"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-07T15:11:08.817Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "best-electric-screwdrivers-2026",
+    "title": "5 Best Electric Screwdrivers",
+    "summary": "Don't miss the top-rated electric screwdrivers that'll make your DIY tasks a breeze",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/best-electric-screwdrivers-2026.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/best-electric-screwdrivers-2026.html",
+    "sourceName": "ZDNet AI",
+    "wordCount": 394,
+    "tags": [
+      "electric screwdrivers",
+      "DIY tools",
+      "home improvement",
+      "power tools",
+      "2026 reviews"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-07T15:11:08.817Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "qwen-audio-3-0-tts-plus-review",
+    "title": "3 Reasons Qwen Audio 3.0 Tops TTS",
+    "summary": "Alibaba's Qwen Audio 3.0 TTS Plus just outranked the competition, but what does it mean for you?",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/qwen-audio-3-0-tts-plus-review.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/qwen-audio-3-0-tts-plus-review.html",
+    "sourceName": "The Decoder",
+    "wordCount": 482,
+    "tags": [
+      "Qwen Audio 3.0",
+      "TTS Plus",
+      "text-to-speech",
+      "Alibaba",
+      "Artificial Analysis"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-07T15:11:08.817Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "xiaomi-robotics-1-trains-on-100k-hours-of-motion-data",
+    "title": "100k Hours: The Breakthrough",
+    "summary": "Xiaomi's latest robotics experiment reveals a surprising truth about training robots to move",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/xiaomi-robotics-1-trains-on-100k-hours-of-motion-data.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/xiaomi-robotics-1-trains-on-100k-hours-of-motion-data.html",
+    "sourceName": "The Decoder",
+    "wordCount": 448,
+    "tags": [
+      "Xiaomi",
+      "Robotics",
+      "AI",
+      "Machine Learning",
+      "Innovation"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-07T15:11:08.817Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-security-survey-2026",
+    "title": "3 AI Security Breakthroughs",
+    "summary": "You need to know how AI is changing security today",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-security-survey-2026.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-security-survey-2026.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 438,
+    "tags": [
+      "AI",
+      "Security",
+      "Survey",
+      "2026",
+      "Breakthroughs"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-07T15:11:08.817Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-accelerates-rust-adoption",
+    "title": "3 Reasons AI Boosts Rust",
+    "summary": "Discover how AI is driving Rust adoption at an unprecedented rate",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-accelerates-rust-adoption.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-accelerates-rust-adoption.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 413,
+    "tags": [
+      "Rust",
+      "AI",
+      "Programming",
+      "Adoption",
+      "Community"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-07T15:11:08.817Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-trends-to-watch-out-for",
+    "title": "3 Overhyped AI Trends",
+    "summary": "Don't fall for these overhyped AI trends that are making waves in the tech community",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-trends-to-watch-out-for.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-trends-to-watch-out-for.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 445,
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Tech Trends",
+      "Hype",
+      "Innovation"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-07T15:11:08.817Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
