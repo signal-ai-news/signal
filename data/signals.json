@@ -14075,5 +14075,456 @@
     "published": "Wed, 05 Aug 2026 23:30:00 +0000",
     "processed": true,
     "processedAt": "2026-08-06T08:11:14.144Z"
+  },
+  {
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+    "description": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-07T01:44:35.359Z",
+    "published": "Thu, 06 Aug 2026 10:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-07T01:48:14.680Z"
+  },
+  {
+    "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+    "title": "Working with the American Psychological Association on youth mental health and AI",
+    "description": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-07T01:44:35.359Z",
+    "published": "Thu, 06 Aug 2026 06:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-07T01:48:14.680Z"
+  },
+  {
+    "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "title": "From asking to doing: How the world is putting ChatGPT to work",
+    "description": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-07T01:44:35.359Z",
+    "published": "Thu, 06 Aug 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-07T01:48:14.680Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/baseten",
+    "title": "Baseten on Hugging Face Inference Providers 🔥",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-08-07T01:44:37.466Z",
+    "published": "Thu, 06 Aug 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-07T01:48:14.680Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+    "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+    "description": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-07T01:44:38.635Z",
+    "published": "Thu, 06 Aug 2026 22:43:53 +0000",
+    "processed": true,
+    "processedAt": "2026-08-07T01:48:14.680Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+    "title": "ChatGPT brings unlimited text chats to free users",
+    "description": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-07T01:44:38.635Z",
+    "published": "Thu, 06 Aug 2026 17:34:42 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+    "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+    "description": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-07T01:44:38.635Z",
+    "published": "Thu, 06 Aug 2026 17:00:37 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+    "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+    "description": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-07T01:44:38.635Z",
+    "published": "Thu, 06 Aug 2026 15:53:03 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+    "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+    "description": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after he left the company —undermine its claims that the allegedly st",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-07T01:44:38.635Z",
+    "published": "Thu, 06 Aug 2026 15:10:32 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+    "title": "Amid legal battles, Suno says it will start watermarking songs",
+    "description": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-07T01:44:38.635Z",
+    "published": "Thu, 06 Aug 2026 13:31:57 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+    "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+    "description": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-07T01:44:38.635Z",
+    "published": "Thu, 06 Aug 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+    "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+    "description": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-07T01:44:38.635Z",
+    "published": "Thu, 06 Aug 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+    "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+    "description": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-07T01:44:38.635Z",
+    "published": "Thu, 06 Aug 2026 12:30:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+    "title": "Omilia raises $67M to scale its customer support platform",
+    "description": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-07T01:44:38.635Z",
+    "published": "Thu, 06 Aug 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+    "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. After a wave of painful losses in the tech talent wars, delays to its next flagship model",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-07T01:44:39.725Z",
+    "published": "Thu, 06 Aug 2026 12:10:00 +0000"
+  },
+  {
+    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+    "description": "",
+    "source": "DeepMind Blog",
+    "category": "llm",
+    "discovered": "2026-08-07T01:44:45.586Z",
+    "published": "Thu, 06 Aug 2026 15:06:15 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/i-built-an-ai-data-agent-which-can-query-data-and-answer-business-questions-heres-how/",
+    "title": "I Built an AI Data Agent Which Can Query Data and Answer Business Questions. Here’s How.",
+    "description": "A step-by-step guide to building a data agent and conversational interface that let business users to explore data in natural language without SQL\nThe post I Built an AI Data Agent Which Can Query Data and Answer Business Questions. Here’s How. appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-07T01:44:49.136Z",
+    "published": "Thu, 06 Aug 2026 16:30:00 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/last-months-lessons-learned/",
+    "title": "Last Month’s Machine Learning Lessons Learned",
+    "description": "The downside of conference travel\nThe post Last Month’s Machine Learning Lessons Learned appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-07T01:44:49.136Z",
+    "published": "Thu, 06 Aug 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/i-built-a-tool-calling-agent-in-python-heres-how-i-debugged-it/",
+    "title": "I Built a Tool-Calling Agent in Python. Here’s How I Debugged It",
+    "description": "A minimal loop with real API calls, validation, compact outputs, and trace evidence before adding an agent framework\nThe post I Built a Tool-Calling Agent in Python. Here’s How I Debugged It appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-07T01:44:49.136Z",
+    "published": "Thu, 06 Aug 2026 13:30:00 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/loop-engineering-for-cross-references-when-rag-answers-see-section-7-2-instead-of-the-actual-answer/",
+    "title": "Loop Engineering for Cross-References: When RAG Answers ‘see Section 7.2’ Instead of the Actual Answer",
+    "description": "Enterprise Document Intelligence [Vol.1 #11] - When the first answer points elsewhere in the document, the pipeline loops back to fetch the linked context\nThe post Loop Engineering for Cross-References: When RAG Answers ‘see Section 7.2’ Instead of the Actual Answer appeared first on Towards Data Sc",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-07T01:44:49.136Z",
+    "published": "Thu, 06 Aug 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-improves-gpt-5-6-sol-in-chatgpt-and-restricts-free-users-to-its-weakest-model/",
+    "title": "OpenAI improves GPT-5.6 Sol in ChatGPT and restricts free users to its weakest model",
+    "description": "OpenAI has updated GPT-5.6 Sol with more focused responses and a reasoning slider that lets users adjust how deeply the model thinks. Free users will get unlimited text chats with the smaller GPT-5.6 Luna starting next week, plus a button that lets Luna reason longer. But the smaller model",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-07T01:44:53.764Z",
+    "published": "Thu, 06 Aug 2026 18:38:27 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/deepminds-talent-drain-likely-comes-down-to-chip-shortages-a-conflict-of-interest-and-googles-bureaucracy/",
+    "title": "Deepmind's talent drain likely comes down to chip shortages, a conflict of interest, and Google's bureaucracy",
+    "description": "Ex-Google Deepmind CEO Demis Hassabis has reportedly stepped back from day-to-day operations for about a year, as he sees himself more as a scientist than a manager. Researchers are also complaining about limited access to Google’s own TPU chips, while external customers like Anthropic can",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-07T01:44:53.764Z",
+    "published": "Thu, 06 Aug 2026 18:05:54 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/microsofts-ai-revenue-reportedly-depends-on-openai-for-70-percent/",
+    "title": "Microsoft's AI revenue reportedly depends on OpenAI for 70 percent",
+    "description": "Microsoft generated $24.1 billion in AI revenue through OpenAI in the fiscal year ending in June. That's about 70 percent of its total AI business, according to a Bloomberg analysis. The heavy reliance helps explain why a company long known for vendor lock-in has recently been championing o",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-07T01:44:53.764Z",
+    "published": "Thu, 06 Aug 2026 17:35:33 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/claude-code-is-the-fastest-agent-framework-but-costs-nearly-three-times-more-than-the-cheapest-rival/",
+    "title": "Claude Code is the fastest agent framework but costs nearly three times more than the cheapest rival",
+    "description": "Composio tested Deepseek V4 Flash across four agent frameworks on 30 real-world tasks. Success rates were mostly similar, but costs varied by nearly 3x: OpenCode came in cheapest at $0.073 per task, while Claude Code cost $0.195 despite using the fewest tool calls and output tokens. The cho",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-07T01:44:53.764Z",
+    "published": "Thu, 06 Aug 2026 16:33:59 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/qwen3-8-max-catches-claude-opus-4-8-but-kimi-k3-still-scores-higher-for-25-percent-less/",
+    "title": "Qwen3.8 Max catches Claude Opus 4.8 but Kimi K3 still scores higher for 25 percent less",
+    "description": "Alibaba's Qwen3.8 Max scores 56 on the Artificial Analysis Intelligence Index, a 10-point jump over Qwen3.7 Max (46).\nThe article Qwen3.8 Max catches Claude Opus 4.8 but Kimi K3 still scores higher for 25 percent less appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-07T01:44:53.764Z",
+    "published": "Thu, 06 Aug 2026 13:33:28 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/the-company-that-made-open-weights-mainstream-now-competes-on-discounts/",
+    "title": "The company that made open weights mainstream now competes on discounts",
+    "description": "Meta released Muse Spark 1.2 along with its own coding agent, Muse Code, which is designed to pick up exactly where it left off after a crash. The cheapest tier runs just 20 cents per million output tokens but requires users to share their data for training. Meta is competing on price, not",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-07T01:44:53.764Z",
+    "published": "Thu, 06 Aug 2026 12:31:52 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-reportedly-slows-research-after-its-own-models-secretly-coordinated-hacks-for-weeks-undetected/",
+    "title": "OpenAI reportedly slows research after its own models secretly coordinated hacks for weeks undetected",
+    "description": "During internal security tests, OpenAI's AI agents built their own message board with hundreds of thousands of posts, shared exploits and credentials, and eventually attacked external platforms like Hugging Face. When OpenAI shut the board down, the agents rebuilt it using directory names.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-07T01:44:53.764Z",
+    "published": "Thu, 06 Aug 2026 11:49:26 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-developer-warns-the-tireless-eagle-eyes-of-a-million-models-are-coming-for-your-exposed-api-keys-and-crypto-wallets/",
+    "title": "OpenAI developer warns the \"tireless eagle eyes of a million models\" are coming for your exposed API keys and crypto wallets",
+    "description": "OpenAI developer \"roon\" warns on X that AI models could soon start scanning for exposed API keys, crypto wallets, and login credentials at scale. His warning follows OpenAI's autonomous Hugging Face hack, which he called a \"warning shot.\"\nThe article OpenAI developer warns the &quot;tireles",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-07T01:44:53.764Z",
+    "published": "Thu, 06 Aug 2026 10:11:02 +0000"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/",
+    "title": "A guide to slash commands in the GitHub Copilot app",
+    "description": "Go beyond chat in the GitHub Copilot app with these slash commands. They'll help you plan, collaborate, automate, and customize your dev workflow.\nThe post A guide to slash commands in the GitHub Copilot app appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-08-07T01:44:58.681Z",
+    "published": "Thu, 06 Aug 2026 19:49:34 +0000"
+  },
+  {
+    "url": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/",
+    "title": "How we took malware advisories beyond npm",
+    "description": "GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid.\nThe post How we took malware advisories beyond npm appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-08-07T01:44:58.681Z",
+    "published": "Thu, 06 Aug 2026 16:51:12 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/",
+    "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
+    "description": "Security researchers say that Kimi K3, an open-weight model from China, wandered off to the internet in an attempt to cheat on a test it was given.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-07T01:44:59.840Z",
+    "published": "Fri, 07 Aug 2026 01:16:55 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/why-normal-people-arent-using-ai-agents/",
+    "title": "Why Normal People Aren’t Using AI Agents",
+    "description": "The tech industry is realizing it needs to build agents based on what regular consumers want, not just what its AI models can do.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-07T01:44:59.840Z",
+    "published": "Thu, 06 Aug 2026 19:55:45 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/ice-dna-collection-increases-spacex-rocket-crashes-into-the-moon-and-the-ai-backlash-grows/",
+    "title": "ICE’s DNA Collection Increases, SpaceX’s Rocket Crashes Into the Moon, and the AI Backlash Grows",
+    "description": "In today’s episode of Uncanny Valley, we discuss how ICE has been collecting DNA samples of people who have no criminal convictions, including children, which end up in an FBI database indefinitely.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-07T01:44:59.840Z",
+    "published": "Thu, 06 Aug 2026 19:30:46 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
+    "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
+    "description": "Its WeatherNext model, which will be open-sourced, can accurately predict a storm’s track and intensity using lower-resolution weather data. Researchers don’t yet fully understand how it does this.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-07T01:44:59.840Z",
+    "published": "Thu, 06 Aug 2026 16:23:04 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/m5-macbook-deals-amazon/",
+    "title": "The M5 MacBook Air is down to the lowest price we've seen since Apple's price hike",
+    "description": "Apple increased prices in its official store, but Amazon has the lowest prices on the new 13-inch M5 MacBook Air right now.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-07T01:45:06.010Z",
+    "published": "Thu, 06 Aug 2026 16:25:00 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/galaxy-z-fold-8-perfect-accessories/",
+    "title": "I've been using the Galaxy Z Fold 8 for two weeks - these two accessories perfect the experience",
+    "description": "With the Galaxy Z Fold 8 as my main driver, these two accessories are must-haves (and one isn't even made by Samsung).",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-07T01:45:06.010Z",
+    "published": "Thu, 06 Aug 2026 14:27:00 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/adobe-launches-plugin-for-chatgpt-how-it-works/",
+    "title": "You can use 70+ Adobe tools without leaving ChatGPT now - here's how",
+    "description": "Adobe's new plugin works both in Work and Codex, and is available today in ChatGPT.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-07T01:45:06.010Z",
+    "published": "Thu, 06 Aug 2026 13:00:00 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/favorite-ai-tools-for-voice-dictation-while-vibe-coding-one-is-free/",
+    "title": "My 3 favorite AI tools for voice dictation while vibe coding - and one is free",
+    "description": "I've tested the top AI voice tools to find which delivers the best accuracy, privacy, and corrections.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-07T01:45:06.010Z",
+    "published": "Thu, 06 Aug 2026 12:47:00 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/ai-isnt-ready-to-patch-your-software-74-of-them-miss-the-mark/",
+    "title": "AI failed to properly patch software flaws 74% of the time, 1Password's study warns",
+    "description": "We might be eager to thread AI into every area of our cybersecurity defenses, but new research reveals why we should pull back.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-07T01:45:06.010Z",
+    "published": "Thu, 06 Aug 2026 12:45:41 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/free-ai-course-stanford/",
+    "title": "Taught by AI pioneers, Stanford's free online course takes you far beyond ChatGPT",
+    "description": "Most AI courses teach today's tools, but this free Stanford classic by Peter Norvig and Sebastian Thrun dives into the deeper foundational ideas you need to truly understand artificial intelligence.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-07T01:45:06.010Z",
+    "published": "Thu, 06 Aug 2026 12:45:23 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2232141/google-open-source-ai-model-can-help-with-earlier-hurricane-warnings/",
+    "title": "Google open-sources an AI model it says can help with earlier hurricane warnings",
+    "description": "WeatherNext can deliver a 15-day forecast predicting storms' track and intensity.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-07T01:45:06.556Z",
+    "published": "Thu, 06 Aug 2026 22:40:33 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2232108/openai-s-ring-shaped-smart-speaker-will-reportedly-cost-between-300-and-400/",
+    "title": "OpenAI's ring-shaped smart speaker will reportedly cost between $300 and $400",
+    "description": "It would be an ambitiously high price for the AI-powered hardware pivot.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-07T01:45:06.556Z",
+    "published": "Thu, 06 Aug 2026 21:46:26 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2232014/ai-is-now-making-new-viruses/",
+    "title": "AI is now making new viruses",
+    "description": "What could possibly go wrong?",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-07T01:45:06.556Z",
+    "published": "Thu, 06 Aug 2026 19:57:14 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2231926/fcc-shredded-local-tv-station-ownership-rules-legality/",
+    "title": "The FCC just shredded local TV station ownership rules, despite questionable legality",
+    "description": "This is great news for Nexstar Media Group and Sinclair Broadcast Group.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-07T01:45:06.556Z",
+    "published": "Thu, 06 Aug 2026 18:44:50 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2231870/suno-adding-audio-watermarks-ai-generated-songs-identifiable/",
+    "title": "Suno is adding audio watermarks so AI-generated songs are more easily identifiable",
+    "description": "Suno is adding audio watermarks so AI-generated songs are more easily identifiable",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-07T01:45:06.556Z",
+    "published": "Thu, 06 Aug 2026 17:51:42 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2231807/openai-no-longer-limit-how-many-texts-free-accounts-send-chatgpt/",
+    "title": "OpenAI will no longer limit how many texts free accounts can send to ChatGPT",
+    "description": "There will still be limits on image generation, voice mode usage and other features.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-07T01:45:06.556Z",
+    "published": "Thu, 06 Aug 2026 17:01:56 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2231620/the-fathom-is-fords-first-midsize-electric-truck/",
+    "title": "The $28,350 Fathom is Ford's first midsize electric truck",
+    "description": "Ford&#39;s first midsize electric truck has a name and a price, but we're still waiting for a proper design reveal.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-07T01:45:06.556Z",
+    "published": "Thu, 06 Aug 2026 14:51:08 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2227078/dolby-vision-2-is-officially-available-on-select-hisense-tvs/",
+    "title": "Dolby Vision 2 is officially available on select Hisense TVs",
+    "description": "Dolby Vision 2 includes a new algorithm that optimizes content on a scene-by-scene basis.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-07T01:45:06.556Z",
+    "published": "Thu, 06 Aug 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2231088/adobe-new-chatgpt-plugin-brings-70-of-its-tools-to-openai-chatbot/",
+    "title": "Adobe's new ChatGPT plugin brings 70 of its tools to OpenAI's chatbot",
+    "description": "Adobe is continuing its enthusiastic embrace of generative AI.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-07T01:45:06.556Z",
+    "published": "Thu, 06 Aug 2026 13:00:00 +0000"
   }
 ]
