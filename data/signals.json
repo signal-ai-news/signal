@@ -820,7 +820,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-21T19:30:23.275Z",
-    "published": "Mon, 20 Jul 2026 18:08:33 +0000"
+    "published": "Mon, 20 Jul 2026 18:08:33 +0000",
+    "processed": true,
+    "processedAt": "2026-08-07T20:28:22.219Z"
   },
   {
     "url": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation/",
@@ -829,7 +831,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-21T19:30:23.275Z",
-    "published": "Mon, 20 Jul 2026 17:32:41 +0000"
+    "published": "Mon, 20 Jul 2026 17:32:41 +0000",
+    "processed": true,
+    "processedAt": "2026-08-07T20:28:22.219Z"
   },
   {
     "url": "https://the-decoder.com/nvidias-grip-on-ai-chips-weakens-as-microsoft-turns-to-amd-and-anthropic-may-follow/",
@@ -838,7 +842,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-21T19:30:23.275Z",
-    "published": "Mon, 20 Jul 2026 16:44:30 +0000"
+    "published": "Mon, 20 Jul 2026 16:44:30 +0000",
+    "processed": true,
+    "processedAt": "2026-08-07T20:28:22.219Z"
   },
   {
     "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
@@ -15314,5 +15320,27 @@
     "category": "news",
     "discovered": "2026-08-07T18:33:19.724Z",
     "published": "Fri, 07 Aug 2026 16:30:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-flags-its-new-astra-model-as-potentially-reaching-the-highest-cybersecurity-risk-level-for-the-first-time/",
+    "title": "OpenAI flags its new Astra model as potentially reaching the highest cybersecurity risk level for the first time",
+    "description": "Internal tests of OpenAI's new AI model Astra show cybersecurity capabilities so strong that the company can no longer rule out the highest risk level in its own safety framework. Parts of Astra's development have been paused. The move follows recently disclosed incidents in which autonomou",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-07T20:25:00.307Z",
+    "published": "Fri, 07 Aug 2026 19:41:06 +0000",
+    "processed": true,
+    "processedAt": "2026-08-07T20:28:22.220Z"
+  },
+  {
+    "url": "https://the-decoder.com/ai-music-generator-suno-tightens-rules-to-fight-spam-and-address-growing-copyright-concerns/",
+    "title": "AI music generator Suno tightens rules to fight spam and address growing copyright concerns",
+    "description": "Suno CEO Mikey Shulman has announced new guidelines and tighter download limits after its AI-generated music was used to game streaming platforms for profit. The company also faces pressure from a German copyright ruling and an admission by one of its investors that AI music competes direct",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-07T20:25:00.307Z",
+    "published": "Fri, 07 Aug 2026 18:35:42 +0000",
+    "processed": true,
+    "processedAt": "2026-08-07T20:28:22.220Z"
   }
 ]
