@@ -798,7 +798,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-21T19:30:23.275Z",
-    "published": "Tue, 21 Jul 2026 11:31:15 +0000"
+    "published": "Tue, 21 Jul 2026 11:31:15 +0000",
+    "processed": true,
+    "processedAt": "2026-08-07T09:48:57.438Z"
   },
   {
     "url": "https://the-decoder.com/xiaomi-robotics-1-shows-that-more-data-beats-bigger-models-when-training-robots-to-move/",
@@ -807,7 +809,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-21T19:30:23.275Z",
-    "published": "Tue, 21 Jul 2026 08:56:51 +0000"
+    "published": "Tue, 21 Jul 2026 08:56:51 +0000",
+    "processed": true,
+    "processedAt": "2026-08-07T09:48:57.438Z"
   },
   {
     "url": "https://the-decoder.com/googles-frozen-v2-chip-reportedly-bakes-geminis-architecture-directly-into-silicon-for-efficiency-gains/",
@@ -14707,5 +14711,38 @@
     "category": "community",
     "discovered": "2026-08-07T06:13:33.400Z",
     "published": "Fri, 07 Aug 2026 01:33:36 +0000"
+  },
+  {
+    "url": "https://openai.com/index/hsp-gruppe",
+    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+    "description": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-07T09:45:09.950Z",
+    "published": "Fri, 07 Aug 2026 09:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-07T09:48:57.438Z"
+  },
+  {
+    "url": "https://the-decoder.com/amazon-cursor-microsoft-openai-and-vercel-unite-on-a-shared-standard-for-ai-agent-plugins/",
+    "title": "Amazon, Cursor, Microsoft, OpenAI, and Vercel unite on a shared standard for AI agent plugins",
+    "description": "Amazon, Cursor, Microsoft, OpenAI, and Vercel have jointly created Agent Plugins, an open standard that defines a single package format for AI agent extensions. Version 1.0.0 uses a plugin.json manifest file and supports both agent skills and MCP servers.\nThe article Amazon, Cursor, Microso",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-07T09:45:37.376Z",
+    "published": "Fri, 07 Aug 2026 08:54:45 +0000",
+    "processed": true,
+    "processedAt": "2026-08-07T09:48:57.438Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/best-electric-screwdriver/",
+    "title": "The best electric screwdrivers of 2026: Expert tested and reviewed",
+    "description": "I tested dozens of the best electric screwdrivers on the market to help you find the perfect one to take the strain out of your DIY tasks.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-07T09:45:49.774Z",
+    "published": "Fri, 07 Aug 2026 09:00:49 GMT",
+    "processed": true,
+    "processedAt": "2026-08-07T09:48:57.438Z"
   }
 ]
