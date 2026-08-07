@@ -2093,9 +2093,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-28T17:12:25.402Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-07T09:36:14.363Z"
   },
   {
     "slug": "gemini-api-managed-agents",
@@ -2115,9 +2116,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-28T21:47:22.515Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-07T09:36:34.731Z"
   },
   {
     "slug": "olmoearth-platform-geospatial-inference",
@@ -3677,6 +3679,94 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-07T05:53:37.591Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-viruses-from-scratch",
+    "title": "3 Reasons AI Viruses Terrify",
+    "summary": "AI just created 16 new viruses from scratch - here's what you need to know",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-viruses-from-scratch.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-viruses-from-scratch.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 469,
+    "tags": [
+      "AI",
+      "Viruses",
+      "Bacteriophages",
+      "Health",
+      "Technology"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-07T09:35:56.107Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "three-decades-of-ai-predictions",
+    "title": "3 Decades of AI",
+    "summary": "Discover the essential AI predictions from the last 30 years",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/three-decades-of-ai-predictions.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/three-decades-of-ai-predictions.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 422,
+    "tags": [
+      "AI",
+      "Foomflops",
+      "Predictions",
+      "Community",
+      "Technology"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-07T09:35:56.107Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-scores-mental-work",
+    "title": "3 Reasons AI Scores Hurt",
+    "summary": "Getting a 100% AI-generated score for your mental work can be devastating, but what does it mean for your creativity and self-worth?",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-scores-mental-work.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-scores-mental-work.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 519,
+    "tags": [
+      "AI",
+      "Mental Work",
+      "Creativity",
+      "Self-Worth",
+      "Technology"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-07T09:35:56.107Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-patch-fails-human-review-essential",
+    "title": "3 AI Patch Fails",
+    "summary": "Don't rely solely on AI-generated vulnerability patches - here's why",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-patch-fails-human-review-essential.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-patch-fails-human-review-essential.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 386,
+    "tags": [
+      "AI",
+      "vulnerability patches",
+      "cybersecurity",
+      "human review",
+      "1password"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-07T09:35:56.107Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
