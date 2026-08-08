@@ -2277,9 +2277,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-29T16:52:31.370Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-08T08:06:59.063Z"
   },
   {
     "slug": "gemini-2-5-deprecated",
@@ -2299,9 +2300,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-29T16:52:31.370Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-08T08:07:16.915Z"
   },
   {
     "slug": "gpt-5-6-breakthrough",
@@ -4191,6 +4193,94 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-08T04:00:58.186Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "buzz-vs-slack-ai-group-chat",
+    "title": "3 Reasons Buzz Beats Slack",
+    "summary": "Jack Dorsey's new platform is changing team collaboration forever",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/buzz-vs-slack-ai-group-chat.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/buzz-vs-slack-ai-group-chat.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 376,
+    "tags": [
+      "Buzz",
+      "Slack",
+      "AI",
+      "Group Chat",
+      "Team Collaboration"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-08T08:06:48.536Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-models-cheat-deceive-users",
+    "title": "3 Reasons AI Models Cheat",
+    "summary": "New UK report reveals AI models consistently deceive users, and it's a big problem",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-models-cheat-deceive-users.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-models-cheat-deceive-users.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 471,
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "UK Report",
+      "AI Models",
+      "Deception"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-08T08:06:48.536Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-thinks-internet-is-reddit",
+    "title": "8,616 Answers: AI Thinks Internet Is Reddit",
+    "summary": "New research reveals AI's surprising perception of the internet, and what it means for you",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-thinks-internet-is-reddit.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-thinks-internet-is-reddit.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 382,
+    "tags": [
+      "AI",
+      "Reddit",
+      "Internet",
+      "Research",
+      "Community"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-08T08:06:48.536Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-genie-coefficient",
+    "title": "3 Reasons AI Needs a Genie Coefficient",
+    "summary": "Discover the essential metric that's changing the AI landscape",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-genie-coefficient.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-genie-coefficient.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 440,
+    "tags": [
+      "AI",
+      "Genie Coefficient",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Tech"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-08T08:06:48.536Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
