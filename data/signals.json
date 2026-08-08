@@ -15532,5 +15532,60 @@
     "category": "community",
     "discovered": "2026-08-07T22:19:31.509Z",
     "published": "Fri, 07 Aug 2026 19:06:50 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "title": "OpenAI says it slowed Astra model development over security concerns",
+    "description": "OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-08T00:02:41.964Z",
+    "published": "Fri, 07 Aug 2026 22:48:24 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T00:06:22.968Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=NYmXYF8A3Q4",
+    "title": "Energy-Based Models Explained: The AI Beyond Next-Token [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=NYmXYF8A3Q4\nComments URL: https://news.ycombinator.com/item?id=49217331\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-08T00:02:51.215Z",
+    "published": "Fri, 07 Aug 2026 23:12:16 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T00:06:22.968Z"
+  },
+  {
+    "url": "https://github.com/Graphify-Labs/graphify",
+    "title": "Graphify – Less token use for Claude Code",
+    "description": "Article URL: https://github.com/Graphify-Labs/graphify\nComments URL: https://news.ycombinator.com/item?id=49217306\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-08T00:02:51.216Z",
+    "published": "Fri, 07 Aug 2026 23:09:02 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T00:06:22.968Z"
+  },
+  {
+    "url": "https://www.patreon.com/MacSurf/posts/macsurf-state-of-166060679",
+    "title": "MacSurf and the State of AI Assisted Projects",
+    "description": "Article URL: https://www.patreon.com/MacSurf/posts/macsurf-state-of-166060679\nComments URL: https://news.ycombinator.com/item?id=49217059\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-08T00:02:51.216Z",
+    "published": "Fri, 07 Aug 2026 22:35:55 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T00:06:22.968Z"
+  },
+  {
+    "url": "https://cowchat.cowboy.inc/",
+    "title": "Cowchat – Let Claude, Codex, and other agents talk to each other locally",
+    "description": "Article URL: https://cowchat.cowboy.inc/\nComments URL: https://news.ycombinator.com/item?id=49216941\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-08T00:02:51.216Z",
+    "published": "Fri, 07 Aug 2026 22:24:11 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T00:06:22.968Z"
   }
 ]
