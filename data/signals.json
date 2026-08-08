@@ -1051,7 +1051,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T20:58:55.544Z",
-    "published": "Tue, 21 Jul 2026 19:33:17 +0000"
+    "published": "Tue, 21 Jul 2026 19:33:17 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T16:00:19.349Z"
   },
   {
     "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
@@ -16124,5 +16126,49 @@
     "category": "news",
     "discovered": "2026-08-08T14:07:22.207Z",
     "published": "Sat, 08 Aug 2026 11:30:00 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/before-q-k-and-v-reconstructing-the-transformer/",
+    "title": "Before Q, K, and V: Reconstructing the Transformer",
+    "description": "Many Transformer explainers start with the finished architecture. We ask why it looks the way it does.\nThe post Before Q, K, and V: Reconstructing the Transformer appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-08T15:56:55.903Z",
+    "published": "Sat, 08 Aug 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T16:00:19.350Z"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-sets-claude-code-to-auto-mode-by-default-to-protect-developers-from-bad-approvals/",
+    "title": "Anthropic sets Claude Code to Auto Mode by default to protect developers from bad approvals",
+    "description": "Starting August 14, Anthropic will make Auto Mode in Claude Code the default for Pro, Max, and Team plans. The company says it's safer. In tests, the classifier caught 89 percent of dangerous commands, while human reviewers caught only 13.6 percent. For the most widely used AI coding tool,",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-08T15:56:57.628Z",
+    "published": "Sat, 08 Aug 2026 14:58:57 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T16:00:19.350Z"
+  },
+  {
+    "url": "https://the-decoder.com/readers-rate-ai-generated-short-stories-higher-than-human-ones-until-they-learn-a-machine-wrote-them/",
+    "title": "Readers rate AI-generated short stories higher than human ones until they learn a machine wrote them",
+    "description": "People can't tell ChatGPT-generated short stories from human-written ones, according to a new study. More than 2,500 participants performed no better than chance. The AI-generated texts were actually rated higher, but scores dropped as soon as participants learned a machine wrote them.\nThe",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-08T15:56:57.628Z",
+    "published": "Sat, 08 Aug 2026 14:18:55 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T16:00:19.350Z"
+  },
+  {
+    "url": "https://www.engadget.com/2229993/claude-vs-chatgpt-how-ai-assistants-differ/",
+    "title": "Claude Vs ChatGPT: How These AI Assistants Differ",
+    "description": "In a practical breakdown of how Claude and ChatGPT AI models differ, one tends to fall short when it comes to quality responses and overall user experience.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-08T15:57:10.680Z",
+    "published": "Sat, 08 Aug 2026 15:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T16:00:19.350Z"
   }
 ]
