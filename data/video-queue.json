@@ -2231,9 +2231,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-29T16:52:31.370Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-08T04:01:07.633Z"
   },
   {
     "slug": "proofcouncil-ai-math-problems",
@@ -2253,9 +2254,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-29T16:52:31.370Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-08T04:01:21.242Z"
   },
   {
     "slug": "encore-ai-raises-30m",
@@ -4013,6 +4015,182 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-07T20:04:48.972Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "openai-astra-model-cybersecurity-risk",
+    "title": "3 Reasons Astra AI Is A Breakthrough",
+    "summary": "OpenAI's new Astra model raises the bar for cybersecurity, but at what cost?",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/openai-astra-model-cybersecurity-risk.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/openai-astra-model-cybersecurity-risk.html",
+    "sourceName": "The Decoder",
+    "wordCount": 442,
+    "tags": [
+      "OpenAI",
+      "Astra",
+      "Cybersecurity",
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-08T04:00:58.186Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-music-generator-suno-tightens-rules",
+    "title": "3 Ways AI Music Goes Legit",
+    "summary": "Suno's new rules are a breakthrough in the fight against AI music spam and copyright concerns",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-music-generator-suno-tightens-rules.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-music-generator-suno-tightens-rules.html",
+    "sourceName": "The Decoder",
+    "wordCount": 444,
+    "tags": [
+      "AI music",
+      "Suno",
+      "copyright concerns",
+      "music generator",
+      "streaming platforms"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-08T04:00:58.186Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-video-generation-revolution",
+    "title": "1 AI Breakthrough",
+    "summary": "District 9 director Neill Blomkamp just made a sci-fi horror film entirely with AI",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-video-generation-revolution.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-video-generation-revolution.html",
+    "sourceName": "The Decoder",
+    "wordCount": 403,
+    "tags": [
+      "AI",
+      "video generation",
+      "Neill Blomkamp",
+      "District 9",
+      "Seedance 2.0"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-08T04:00:58.186Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "nvidia-ai-grip-weakening",
+    "title": "3 Reasons Nvidia's AI Grip Is Slipping",
+    "summary": "Microsoft and Anthropic are making moves that could shake up the AI chip market, and you need to know how",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/nvidia-ai-grip-weakening.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/nvidia-ai-grip-weakening.html",
+    "sourceName": "The Decoder",
+    "wordCount": 460,
+    "tags": [
+      "AI",
+      "Nvidia",
+      "AMD",
+      "Microsoft",
+      "Anthropic"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-08T04:00:58.186Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-spend-tracking-rippling",
+    "title": "3 Breakthroughs in AI Spend Tracking",
+    "summary": "Rippling's new AI Spend Console is a wake-up call for businesses overspending on AI tools",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-spend-tracking-rippling.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-spend-tracking-rippling.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 471,
+    "tags": [
+      "AI",
+      "Rippling",
+      "AI Spend Console",
+      "Employee ROI",
+      "AI Tools"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-08T04:00:58.186Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-taking-jobs-first",
+    "title": "3 Jobs AI Will Take First",
+    "summary": "Don't miss the essential truth about AI and HR jobs",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-taking-jobs-first.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-taking-jobs-first.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 413,
+    "tags": [
+      "AI",
+      "HR",
+      "Jobs",
+      "Automation",
+      "FutureOfWork"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-08T04:00:58.186Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ripping-ai-spend-console",
+    "title": "5 Ways Rippling's AI Spend Console Gives You Control",
+    "summary": "Take back control of your AI spend with Rippling's breakthrough new tool",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ripping-ai-spend-console.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ripping-ai-spend-console.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 521,
+    "tags": [
+      "Rippling",
+      "AI Spend Console",
+      "AI Management",
+      "Cost Control",
+      "Tech News"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-08T04:00:58.186Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "openai-astra-security-concerns",
+    "title": "3 AI Security Red Flags",
+    "summary": "OpenAI hits the brakes on Astra model development over security concerns - what you need to know",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/openai-astra-security-concerns.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/openai-astra-security-concerns.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 447,
+    "tags": [
+      "OpenAI",
+      "Astra",
+      "AI Security",
+      "Cybersecurity",
+      "Tech News"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-08T04:00:58.186Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
