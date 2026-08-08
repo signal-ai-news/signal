@@ -2323,9 +2323,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-29T20:41:08.178Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-08T14:05:53.141Z"
   },
   {
     "slug": "geothermal-plant-revival",
@@ -2345,9 +2346,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-29T20:41:08.178Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-08T14:06:01.914Z"
   },
   {
     "slug": "tripling-arc-agi-3-scores",
@@ -4281,6 +4283,138 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-08T08:06:48.536Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "roku-ai-slop-channel-explained",
+    "title": "3 Reasons Roku's 24/7 AI SloMo Channel Is a Breakthrough",
+    "summary": "Roku just launched a 24/7 AI channel that's changing the way we consume entertainment",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/roku-ai-slop-channel-explained.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/roku-ai-slop-channel-explained.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 393,
+    "tags": [
+      "Roku",
+      "AI",
+      "Streaming",
+      "Entertainment",
+      "Tech"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-08T14:05:41.171Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "meta-cto-ai-productivity-gains",
+    "title": "3 AI Productivity Hacks",
+    "summary": "Meta's CTO says employees should use AI to do more work, but what does this mean for you?",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/meta-cto-ai-productivity-gains.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/meta-cto-ai-productivity-gains.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 363,
+    "tags": [
+      "AI productivity",
+      "Meta CTO",
+      "Andrew Bosworth",
+      "AI tools",
+      "productivity gains"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-08T14:05:41.171Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-engineering-101",
+    "title": "5 Essential Steps to AI Engineering",
+    "summary": "Don't miss the ultimate guide to transitioning into AI engineering",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-engineering-101.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-engineering-101.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 451,
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Engineering",
+      "Career Development",
+      "Tech"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-08T14:05:41.171Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "countersign-ai-kill-switch",
+    "title": "1 Kill Switch for All AI Agents",
+    "summary": "Discover the ultimate solution for securing your AI agents across multiple wallet vendors",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/countersign-ai-kill-switch.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/countersign-ai-kill-switch.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 366,
+    "tags": [
+      "AI Security",
+      "Countersign",
+      "Wallet Vendors",
+      "Kill Switch",
+      "Audit Log"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-08T14:05:41.171Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "hosted-llm-wiki-breakthroughs",
+    "title": "3 Breakthroughs in Hosted LLM Wiki",
+    "summary": "Discover the ultimate hosted LLM wiki that's changing the game for AI enthusiasts",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/hosted-llm-wiki-breakthroughs.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/hosted-llm-wiki-breakthroughs.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 462,
+    "tags": [
+      "AI",
+      "LLM",
+      "Hosted Wiki",
+      "Karpathy",
+      "Hacker News"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-08T14:05:41.171Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-impact-on-kids",
+    "title": "3 Reasons AI Is Hurting Kids",
+    "summary": "Discover the shocking truth about AI's impact on young minds",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-impact-on-kids.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-impact-on-kids.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 503,
+    "tags": [
+      "AI",
+      "Kids",
+      "Mental Health",
+      "Education",
+      "Technology"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-08T14:05:41.171Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
