@@ -16170,5 +16170,177 @@
     "published": "Sat, 08 Aug 2026 15:30:00 +0000",
     "processed": true,
     "processedAt": "2026-08-08T16:00:19.350Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49223750",
+    "title": "I built a tool to deploy small AI apps. Am I solving a real problem?",
+    "description": "I built a tool that deploys small AI apps from GitHub without needing AWS or keeping your laptop running. Before I spend more time on it, I'm curious—how are you all deploying apps that only a few people use? Is this a real pain point for you?\n\nComments URL: https://news.ycombinator.com/item?id=492",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-08T17:17:48.271Z",
+    "published": "Sat, 08 Aug 2026 17:16:46 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T17:20:59.761Z"
+  },
+  {
+    "url": "https://imageapiai.com",
+    "title": "Show HN: Image generation API using AI",
+    "description": "Article URL: https://imageapiai.com\nComments URL: https://news.ycombinator.com/item?id=49223692\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-08T17:17:48.271Z",
+    "published": "Sat, 08 Aug 2026 17:10:52 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T17:20:59.761Z"
+  },
+  {
+    "url": "https://www.inc.com/scott-hutcheson/ai-layoffs-amazon-cloudflare/91386604",
+    "title": "AI Layoffs at Oracle, Amazon, and Cloudflare All Have One Thing in Common",
+    "description": "Article URL: https://www.inc.com/scott-hutcheson/ai-layoffs-amazon-cloudflare/91386604\nComments URL: https://news.ycombinator.com/item?id=49223549\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-08T17:17:48.271Z",
+    "published": "Sat, 08 Aug 2026 16:56:16 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T17:20:59.761Z"
+  },
+  {
+    "url": "https://www.storagereview.com/news/amd-instinct-coder-puts-8-mi325x-gpus-behind-local-ai-coding-claiming-70-lower-token-costs",
+    "title": "AMD Instinct Coder Puts 8 MI325X GPUs Behind Local AI Coding, Claiming 70% Lower",
+    "description": "Article URL: https://www.storagereview.com/news/amd-instinct-coder-puts-8-mi325x-gpus-behind-local-ai-coding-claiming-70-lower-token-costs\nComments URL: https://news.ycombinator.com/item?id=49223512\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-08T17:17:48.271Z",
+    "published": "Sat, 08 Aug 2026 16:52:44 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T17:20:59.761Z"
+  },
+  {
+    "url": "https://twitter.com/MTSlive/status/2085842125464457722",
+    "title": "Why every AI model tells Japanese voters to vote for the Communist Party",
+    "description": "Article URL: https://twitter.com/MTSlive/status/2085842125464457722\nComments URL: https://news.ycombinator.com/item?id=49223376\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-08T17:17:48.271Z",
+    "published": "Sat, 08 Aug 2026 16:37:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T17:20:59.761Z"
+  },
+  {
+    "url": "https://apps.apple.com/us/app/fencingvision-ai-coach/id6794765462",
+    "title": "An AI-powered iOS app for real-time fencing analysis (tracking/skeletons)",
+    "description": "Article URL: https://apps.apple.com/us/app/fencingvision-ai-coach/id6794765462\nComments URL: https://news.ycombinator.com/item?id=49223335\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-08T17:17:48.271Z",
+    "published": "Sat, 08 Aug 2026 16:33:35 +0000"
+  },
+  {
+    "url": "https://interconnected.org/home/2026/08/08/alignment",
+    "title": "AI alignment is a red herring",
+    "description": "Article URL: https://interconnected.org/home/2026/08/08/alignment\nComments URL: https://news.ycombinator.com/item?id=49223330\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-08T17:17:48.271Z",
+    "published": "Sat, 08 Aug 2026 16:32:53 +0000"
+  },
+  {
+    "url": "https://fauxthropic.com/",
+    "title": "Claude but It's Good at Misinformation",
+    "description": "Article URL: https://fauxthropic.com/\nComments URL: https://news.ycombinator.com/item?id=49223289\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-08T17:17:48.271Z",
+    "published": "Sat, 08 Aug 2026 16:27:58 +0000"
+  },
+  {
+    "url": "https://www.wazzup.im",
+    "title": "Offline AI Search Engine",
+    "description": "Article URL: https://www.wazzup.im\nComments URL: https://news.ycombinator.com/item?id=49223271\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-08T17:17:48.271Z",
+    "published": "Sat, 08 Aug 2026 16:25:40 +0000"
+  },
+  {
+    "url": "https://bytepith.com/article/how-ai-layoffs-trigger-economic-spiral",
+    "title": "How AI Layoffs Can Trigger an Economic Spiral",
+    "description": "Article URL: https://bytepith.com/article/how-ai-layoffs-trigger-economic-spiral\nComments URL: https://news.ycombinator.com/item?id=49223221\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-08T17:17:48.271Z",
+    "published": "Sat, 08 Aug 2026 16:20:58 +0000"
+  },
+  {
+    "url": "https://vibetv.shop/",
+    "title": "Claude TV",
+    "description": "Article URL: https://vibetv.shop/\nComments URL: https://news.ycombinator.com/item?id=49223218\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-08T17:17:48.271Z",
+    "published": "Sat, 08 Aug 2026 16:20:24 +0000"
+  },
+  {
+    "url": "https://github.com/arnoldpredator/pyreplay",
+    "title": "A tool to quickly step through and audit LLM-generated Python codebases",
+    "description": "Article URL: https://github.com/arnoldpredator/pyreplay\nComments URL: https://news.ycombinator.com/item?id=49223208\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-08T17:17:48.271Z",
+    "published": "Sat, 08 Aug 2026 16:19:31 +0000"
+  },
+  {
+    "url": "https://fengrru.me/blog/ctm-theory-review.md",
+    "title": "Show HN: A Source-Level Review of Sakana AI's Continuous Thought Machine",
+    "description": "Article URL: https://fengrru.me/blog/ctm-theory-review.md\nComments URL: https://news.ycombinator.com/item?id=49222937\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-08T17:17:48.271Z",
+    "published": "Sat, 08 Aug 2026 15:48:08 +0000"
+  },
+  {
+    "url": "https://code.claude.com/docs/en/cross-session-messaging",
+    "title": "Message your other Claude Code sessions",
+    "description": "Article URL: https://code.claude.com/docs/en/cross-session-messaging\nComments URL: https://news.ycombinator.com/item?id=49222824\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-08T17:17:48.271Z",
+    "published": "Sat, 08 Aug 2026 15:34:49 +0000"
+  },
+  {
+    "url": "https://lambdaland.org/posts/2026-08-07-ai-writing-stupid/",
+    "title": "Writing with AI Is Stupid",
+    "description": "Article URL: https://lambdaland.org/posts/2026-08-07-ai-writing-stupid/\nComments URL: https://news.ycombinator.com/item?id=49222498\nPoints: 5\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-08T17:17:48.271Z",
+    "published": "Sat, 08 Aug 2026 15:02:51 +0000"
+  },
+  {
+    "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+    "title": "The tragedy of the commons, AI edition",
+    "description": "Article URL: https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition\nComments URL: https://news.ycombinator.com/item?id=49222402\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-08T17:17:48.271Z",
+    "published": "Sat, 08 Aug 2026 14:52:31 +0000"
+  },
+  {
+    "url": "https://unpredictabletokens.substack.com/p/ai-escaped-its-sandbox-what-that",
+    "title": "'AI Escaped Its Sandbox' — What Does That Actually Mean?",
+    "description": "Article URL: https://unpredictabletokens.substack.com/p/ai-escaped-its-sandbox-what-that\nComments URL: https://news.ycombinator.com/item?id=49222259\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-08T17:17:48.271Z",
+    "published": "Sat, 08 Aug 2026 14:39:12 +0000"
+  },
+  {
+    "url": "https://ai-updates.net/ai-leaders-say-the-singularity-has-already-begun/",
+    "title": "AI Leaders Say the Singularity Has Begun",
+    "description": "Article URL: https://ai-updates.net/ai-leaders-say-the-singularity-has-already-begun/\nComments URL: https://news.ycombinator.com/item?id=49222180\nPoints: 2\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-08T17:17:48.271Z",
+    "published": "Sat, 08 Aug 2026 14:32:02 +0000"
   }
 ]
