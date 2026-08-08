@@ -886,7 +886,9 @@
     "source": "TechCrunch AI",
     "category": "news",
     "discovered": "2026-07-21T20:21:44.926Z",
-    "published": "Tue, 21 Jul 2026 19:43:41 +0000"
+    "published": "Tue, 21 Jul 2026 19:43:41 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T04:22:39.910Z"
   },
   {
     "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
@@ -895,7 +897,9 @@
     "source": "TechCrunch AI",
     "category": "news",
     "discovered": "2026-07-21T20:21:44.926Z",
-    "published": "Tue, 21 Jul 2026 19:39:30 +0000"
+    "published": "Tue, 21 Jul 2026 19:39:30 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T04:22:39.910Z"
   },
   {
     "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
@@ -959,7 +963,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T20:58:55.544Z",
-    "published": "Tue, 21 Jul 2026 20:31:02 +0000"
+    "published": "Tue, 21 Jul 2026 20:31:02 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T04:22:39.910Z"
   },
   {
     "url": "https://cyberscoop.com/ai-models-cheat-deceive-users-aisi-report/",
@@ -968,7 +974,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T20:58:55.544Z",
-    "published": "Tue, 21 Jul 2026 20:15:42 +0000"
+    "published": "Tue, 21 Jul 2026 20:15:42 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T04:22:39.910Z"
   },
   {
     "url": "https://github.com/zachrip/claude-bucks",
@@ -977,7 +985,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T20:58:55.544Z",
-    "published": "Tue, 21 Jul 2026 20:15:01 +0000"
+    "published": "Tue, 21 Jul 2026 20:15:01 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T04:22:39.910Z"
   },
   {
     "url": "https://growtika.com/blog/reddit-ai-visibility-research",
