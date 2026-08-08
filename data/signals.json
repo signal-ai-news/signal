@@ -15997,5 +15997,132 @@
     "category": "news",
     "discovered": "2026-08-08T11:52:19.376Z",
     "published": "Sat, 08 Aug 2026 11:08:48 +0000"
+  },
+  {
+    "url": "https://twitter.com/MaxAnderson/status/2080229375773941871",
+    "title": "At the altar of AI capex, Google is sacrificing the golden goose",
+    "description": "Article URL: https://twitter.com/MaxAnderson/status/2080229375773941871\nComments URL: https://news.ycombinator.com/item?id=49221930\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-08T14:07:00.559Z",
+    "published": "Sat, 08 Aug 2026 14:03:44 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T14:10:30.087Z"
+  },
+  {
+    "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+    "title": "Gentoo bugzilla closed due AI bot scraper overload",
+    "description": "Article URL: https://social.treehouse.systems/@mgorny/117058483039362779\nComments URL: https://news.ycombinator.com/item?id=49221864\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-08T14:07:00.559Z",
+    "published": "Sat, 08 Aug 2026 13:55:42 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T14:10:30.087Z"
+  },
+  {
+    "url": "https://www.theguardian.com/technology/2026/aug/05/ai-generated-stories-rated-better-quality-than-human-written-ones-study-finds",
+    "title": "AI-generated stories rated better quality than human-written ones, study finds",
+    "description": "Article URL: https://www.theguardian.com/technology/2026/aug/05/ai-generated-stories-rated-better-quality-than-human-written-ones-study-finds\nComments URL: https://news.ycombinator.com/item?id=49221820\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-08T14:07:00.559Z",
+    "published": "Sat, 08 Aug 2026 13:48:32 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T14:10:30.087Z"
+  },
+  {
+    "url": "https://www.forbes.com/sites/iainmartin/2026/08/06/ais-latest-rocket-ship-is-an-old-school-28-year-old-data-company/",
+    "title": "AI's Latest Rocket Ship Is an Old School, 28-Year-Old Data Company",
+    "description": "Article URL: https://www.forbes.com/sites/iainmartin/2026/08/06/ais-latest-rocket-ship-is-an-old-school-28-year-old-data-company/\nComments URL: https://news.ycombinator.com/item?id=49221761\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-08T14:07:00.559Z",
+    "published": "Sat, 08 Aug 2026 13:39:49 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T14:10:30.087Z"
+  },
+  {
+    "url": "https://marketdaily.ai/blog/eng-llm-council-judge-en-202608",
+    "title": "I run a 9-model LLM council to write a financial newsletter. What breaks",
+    "description": "Article URL: https://marketdaily.ai/blog/eng-llm-council-judge-en-202608\nComments URL: https://news.ycombinator.com/item?id=49221691\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-08T14:07:00.559Z",
+    "published": "Sat, 08 Aug 2026 13:30:01 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T14:10:30.087Z"
+  },
+  {
+    "url": "https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41",
+    "title": "Move 37 Is the Moment AI Changes Everything. It's Suddenly Happening Everywhere",
+    "description": "Article URL: https://www.wsj.com/tech/ai/move-37-ai-demis-hassabis-google-deepmind-alphago-ec832a41\nComments URL: https://news.ycombinator.com/item?id=49221493\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-08T14:07:00.559Z",
+    "published": "Sat, 08 Aug 2026 13:02:18 +0000"
+  },
+  {
+    "url": "https://overlk.itch.io/afterimage",
+    "title": "Show HN: My AI agent built and shipped a browser game on its own",
+    "description": "Article URL: https://overlk.itch.io/afterimage\nComments URL: https://news.ycombinator.com/item?id=49221471\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-08T14:07:00.559Z",
+    "published": "Sat, 08 Aug 2026 12:58:58 +0000"
+  },
+  {
+    "url": "https://paper-trader.org",
+    "title": "Show HN: A Free Paper Trading Platform with AI Coaching for Global Markets",
+    "description": "Article URL: https://paper-trader.org\nComments URL: https://news.ycombinator.com/item?id=49221195\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-08T14:07:00.559Z",
+    "published": "Sat, 08 Aug 2026 12:28:29 +0000"
+  },
+  {
+    "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
+    "title": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+    "description": "Article URL: https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference\nComments URL: https://news.ycombinator.com/item?id=49221089\nPoints: 39\n# Comments: 5",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-08T14:07:00.559Z",
+    "published": "Sat, 08 Aug 2026 12:16:03 +0000"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/07/24/chinese-ai-model-openai-cyber-attack.html",
+    "title": "A Chinese AI model stopped OpenAI's 'unprecedented' cyber attack",
+    "description": "Article URL: https://www.cnbc.com/2026/07/24/chinese-ai-model-openai-cyber-attack.html\nComments URL: https://news.ycombinator.com/item?id=49221002\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-08T14:07:00.559Z",
+    "published": "Sat, 08 Aug 2026 12:01:17 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/building-a-streamlit-ui-for-my-langgraph-ai-agent/",
+    "title": "Building a Streamlit UI for My LangGraph AI Agent",
+    "description": "Building a production-ready web interface for a stateful LangGraph agent\nThe post Building a Streamlit UI for My LangGraph AI Agent appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-08T14:07:07.981Z",
+    "published": "Sat, 08 Aug 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/claude-code-sessions-can-now-talk-to-each-other-and-share-context-across-terminals/",
+    "title": "Claude Code sessions can now talk to each other and share context across terminals",
+    "description": "Claude Code now lets sessions talk to each other. On macOS and Linux, instances running in parallel can send messages, share insights, and check on each other's status.\nThe article Claude Code sessions can now talk to each other and share context across terminals appeared first on The Decod",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-08T14:07:09.691Z",
+    "published": "Sat, 08 Aug 2026 12:28:36 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2232571/big-walk-retro-electronic-repairs-and-other-new-indie-games-worth-checking-out/",
+    "title": "Big Walk, retro electronic repairs and other new indie games worth checking out",
+    "description": "We&#39;re looking forward to Big Walk, ReStory: Chill Electronics Repairs, Pigeon: A Love Story and several others this week.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-08T14:07:22.207Z",
+    "published": "Sat, 08 Aug 2026 11:30:00 +0000"
   }
 ]
