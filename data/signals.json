@@ -1062,7 +1062,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T20:58:55.544Z",
-    "published": "Tue, 21 Jul 2026 19:31:35 +0000"
+    "published": "Tue, 21 Jul 2026 19:31:35 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T21:05:00.586Z"
   },
   {
     "url": "https://www.gritt.ai/",
@@ -1071,7 +1073,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T20:58:55.544Z",
-    "published": "Tue, 21 Jul 2026 19:31:15 +0000"
+    "published": "Tue, 21 Jul 2026 19:31:15 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T21:05:00.586Z"
   },
   {
     "url": "https://www.proofatlas.ai/formalizations/natural-density-log-time-collatz/",
@@ -1080,7 +1084,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T20:58:55.544Z",
-    "published": "Tue, 21 Jul 2026 19:18:43 +0000"
+    "published": "Tue, 21 Jul 2026 19:18:43 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T21:05:00.586Z"
   },
   {
     "url": "https://news.bloombergtax.com/financial-accounting/big-tech-ai-spree-revives-accounting-devices-that-toppled-enron",
@@ -1089,7 +1095,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T20:58:55.544Z",
-    "published": "Tue, 21 Jul 2026 19:17:40 +0000"
+    "published": "Tue, 21 Jul 2026 19:17:40 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T21:05:00.586Z"
   },
   {
     "url": "https://thenextweb.com/news/tech-giants-hidden-off-balance-sheet-debt-ai",
@@ -16487,5 +16495,16 @@
     "category": "community",
     "discovered": "2026-08-08T19:17:31.776Z",
     "published": "Sat, 08 Aug 2026 17:41:39 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+    "title": "OpenAI acquires presentation startup NextSlide",
+    "description": "NextSlide says its team members are now working on ChatGPT.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-08T21:01:26.969Z",
+    "published": "Sat, 08 Aug 2026 19:41:13 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T21:05:00.587Z"
   }
 ]
