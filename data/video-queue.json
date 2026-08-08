@@ -2369,9 +2369,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-30T08:00:20.882Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-08T19:19:58.012Z"
   },
   {
     "slug": "ai-chef-robot-training",
@@ -2391,9 +2392,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-30T17:10:07.236Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-08T19:20:08.469Z"
   },
   {
     "slug": "idle-gpus-essential-ml",
@@ -4415,6 +4417,205 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-08T14:05:41.171Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "google-ai-capex-sacrifice",
+    "title": "3 Reasons Google's AI Bet Is Backfiring",
+    "summary": "Google's massive investment in AI is putting its core business at risk, and you need to know why",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/google-ai-capex-sacrifice.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/google-ai-capex-sacrifice.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 479,
+    "tags": [
+      "Google",
+      "AI",
+      "Capex",
+      "Investment",
+      "Risk"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-08T19:19:47.609Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "gentoo-bugzilla-ai-bot-scraper-overload",
+    "title": "3 Reasons AI Bots Broke Gentoo",
+    "summary": "Gentoo's bugzilla shut down due to an AI bot scraper overload, here's what you need to know",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/gentoo-bugzilla-ai-bot-scraper-overload.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/gentoo-bugzilla-ai-bot-scraper-overload.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 471,
+    "tags": [
+      "Gentoo",
+      "Bugzilla",
+      "AI Bots",
+      "Scraper Overload",
+      "Community"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-08T19:19:47.609Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-latest-rocket-ship",
+    "title": "3 Reasons AI's Latest Breakthrough",
+    "summary": "You need to know about the 28-year-old data company that's making waves in AI",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-latest-rocket-ship.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-latest-rocket-ship.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 407,
+    "tags": [
+      "AI",
+      "Data Company",
+      "Breakthrough",
+      "Innovation",
+      "Technology"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-08T19:19:47.609Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "3-ai-models-breakthrough-in-financial-newsletter",
+    "title": "3 AI Models Break",
+    "summary": "You need to know how a 9-model LLM council is changing the game in financial writing",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/3-ai-models-breakthrough-in-financial-newsletter.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/3-ai-models-breakthrough-in-financial-newsletter.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 451,
+    "tags": [
+      "AI",
+      "Financial News",
+      "LLM Council",
+      "Writing",
+      "Breakthrough"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-08T19:19:47.609Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "transformer-secrets-revealed",
+    "title": "3 Essential Transformer Secrets",
+    "summary": "Unlock the power of AI's most popular architecture, the Transformer, by understanding its origins and evolution",
+    "category": "ML",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/transformer-secrets-revealed.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/transformer-secrets-revealed.html",
+    "sourceName": "Towards Data Science",
+    "wordCount": 499,
+    "tags": [
+      "Transformer",
+      "AI",
+      "Machine Learning",
+      "Deep Learning",
+      "Neural Networks"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-08T19:19:47.609Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-observability-breakthroughs",
+    "title": "3 Breakthroughs in AI Observability",
+    "summary": "Discover the essential tools for coding agents and LLM applications",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-observability-breakthroughs.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-observability-breakthroughs.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 499,
+    "tags": [
+      "AI",
+      "Observability",
+      "Coding Agents",
+      "LLM Applications",
+      "Telemetry"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-08T19:19:47.609Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-app-deployment-made-easy",
+    "title": "3 Essential AI App Deployment Hacks",
+    "summary": "Don't let AI app deployment hold you back - discover the ultimate solution today!",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-app-deployment-made-easy.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-app-deployment-made-easy.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 662,
+    "tags": [
+      "AI",
+      "App Deployment",
+      "GitHub",
+      "AWS",
+      "Machine Learning"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-08T19:19:47.609Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-layoffs-oracle-amazon-cloudflare",
+    "title": "3 AI Layoff Secrets",
+    "summary": "What's behind the surprising AI layoffs at top tech companies?",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-layoffs-oracle-amazon-cloudflare.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-layoffs-oracle-amazon-cloudflare.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 391,
+    "tags": [
+      "AI",
+      "layoffs",
+      "Oracle",
+      "Amazon",
+      "Cloudflare",
+      "tech news"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-08T19:19:47.609Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-models-japan-communists",
+    "title": "3 Alarming Reasons AI Models Back Japan's Communists",
+    "summary": "Discover why AI models are unanimously telling Japanese voters to vote for the Communist Party",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-models-japan-communists.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-models-japan-communists.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 448,
+    "tags": [
+      "AI models",
+      "Japanese politics",
+      "Communist Party",
+      "voter influence",
+      "technology"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-08T19:19:47.609Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
