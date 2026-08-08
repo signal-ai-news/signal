@@ -996,7 +996,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T20:58:55.544Z",
-    "published": "Tue, 21 Jul 2026 20:05:46 +0000"
+    "published": "Tue, 21 Jul 2026 20:05:46 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T06:30:33.900Z"
   },
   {
     "url": "https://github.com/rishipadhye/my-LLM",
@@ -1005,7 +1007,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T20:58:55.544Z",
-    "published": "Tue, 21 Jul 2026 19:52:00 +0000"
+    "published": "Tue, 21 Jul 2026 19:52:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T06:30:33.900Z"
   },
   {
     "url": "https://tokenpath.ai",
@@ -1014,7 +1018,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T20:58:55.544Z",
-    "published": "Tue, 21 Jul 2026 19:48:06 +0000"
+    "published": "Tue, 21 Jul 2026 19:48:06 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T06:30:33.900Z"
   },
   {
     "url": "https://twitter.com/karpathy/status/2079610838143623371",
@@ -1023,7 +1029,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T20:58:55.544Z",
-    "published": "Tue, 21 Jul 2026 19:46:38 +0000"
+    "published": "Tue, 21 Jul 2026 19:46:38 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T06:30:33.901Z"
   },
   {
     "url": "https://spectrum.ieee.org/ai-agent-benchmark",
@@ -1032,7 +1040,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-21T20:58:55.544Z",
-    "published": "Tue, 21 Jul 2026 19:36:36 +0000"
+    "published": "Tue, 21 Jul 2026 19:36:36 +0000",
+    "processed": true,
+    "processedAt": "2026-08-08T06:30:33.901Z"
   },
   {
     "url": "https://telemetry.dev/",
