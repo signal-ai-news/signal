@@ -16526,5 +16526,177 @@
     "published": "Sat, 08 Aug 2026 19:41:13 +0000",
     "processed": true,
     "processedAt": "2026-08-08T21:05:00.587Z"
+  },
+  {
+    "url": "https://www.oreilly.com/radar/teaching-coding-when-ai-can-write-the-code/",
+    "title": "Teaching Coding When AI Can Write the Code",
+    "description": "Article URL: https://www.oreilly.com/radar/teaching-coding-when-ai-can-write-the-code/\nComments URL: https://news.ycombinator.com/item?id=49227028\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-09T00:02:31.377Z",
+    "published": "Sat, 08 Aug 2026 23:55:37 +0000",
+    "processed": true,
+    "processedAt": "2026-08-09T00:05:59.348Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49226913",
+    "title": "Things I learned about how people use AI after 1800 people",
+    "description": "I'm running a an AI fluency assessment tool and after 1800 real users who interact with our chat bot 20-40 minutes; here are some weird things we found out.1. The least AI-fluent professionals overestimated their score by 40 points. The most fluent underestimated by 27. 67 point Dunning-Kruger gap.",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-09T00:02:31.377Z",
+    "published": "Sat, 08 Aug 2026 23:35:27 +0000",
+    "processed": true,
+    "processedAt": "2026-08-09T00:05:59.348Z"
+  },
+  {
+    "url": "https://github.com/sebastiancarlos/faaah",
+    "title": "Show HN: Faaah – Filesystem as an AI Handler",
+    "description": "Article URL: https://github.com/sebastiancarlos/faaah\nComments URL: https://news.ycombinator.com/item?id=49226789\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-09T00:02:31.377Z",
+    "published": "Sat, 08 Aug 2026 23:13:46 +0000",
+    "processed": true,
+    "processedAt": "2026-08-09T00:05:59.348Z"
+  },
+  {
+    "url": "https://twitter.com/gdb/status/2086092396023120286",
+    "title": "GPT-4 finished training four years ago today",
+    "description": "Article URL: https://twitter.com/gdb/status/2086092396023120286\nComments URL: https://news.ycombinator.com/item?id=49226743\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-09T00:02:31.377Z",
+    "published": "Sat, 08 Aug 2026 23:05:30 +0000",
+    "processed": true,
+    "processedAt": "2026-08-09T00:05:59.348Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49226649",
+    "title": "How AI is breaking the British State",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=49226649\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-09T00:02:31.377Z",
+    "published": "Sat, 08 Aug 2026 22:50:11 +0000",
+    "processed": true,
+    "processedAt": "2026-08-09T00:05:59.348Z"
+  },
+  {
+    "url": "https://towardsdev.com/the-memory-efficient-ai-agent-building-a-context-engine-in-go-d4b7557c44d8?sk=22b2ffc30beac55a6f47841eb4df980b",
+    "title": "You can build an AI agent's memory layer with only Go's standard library",
+    "description": "Article URL: https://towardsdev.com/the-memory-efficient-ai-agent-building-a-context-engine-in-go-d4b7557c44d8?sk=22b2ffc30beac55a6f47841eb4df980b\nComments URL: https://news.ycombinator.com/item?id=49226647\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-09T00:02:31.377Z",
+    "published": "Sat, 08 Aug 2026 22:50:06 +0000"
+  },
+  {
+    "url": "https://www.theguardian.com/technology/2026/aug/08/google-demis-hassabis-deepmind-shifts-role",
+    "title": "Google DeepMind enters a new era as co-founder Demis Hassabis shifts AI role",
+    "description": "Article URL: https://www.theguardian.com/technology/2026/aug/08/google-demis-hassabis-deepmind-shifts-role\nComments URL: https://news.ycombinator.com/item?id=49226641\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-09T00:02:31.377Z",
+    "published": "Sat, 08 Aug 2026 22:49:54 +0000"
+  },
+  {
+    "url": "https://benzi.fly.dev/about",
+    "title": "Show HN: Try Benzi – A coding harness/agent beating Claude Code itself on Sonnet",
+    "description": "Hi y'all. Been working on something that should've been made a long time ago imo. It compiles codebases into O(1) hashmaps that the agent queries to discover the structure of your code/answer questions/write code.It also does complete static analysis checks on any writes the agent makes.Don't take",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-09T00:02:31.377Z",
+    "published": "Sat, 08 Aug 2026 22:47:56 +0000"
+  },
+  {
+    "url": "https://www.beren.io/2026-07-26-How-Can-LLM-RL-Work-Despite-Information-Theoretic-Inefficiency/",
+    "title": "How Can LLM RL Work Despite Information-Theoretic Inefficiency",
+    "description": "Article URL: https://www.beren.io/2026-07-26-How-Can-LLM-RL-Work-Despite-Information-Theoretic-Inefficiency/\nComments URL: https://news.ycombinator.com/item?id=49226535\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-09T00:02:31.377Z",
+    "published": "Sat, 08 Aug 2026 22:32:28 +0000"
+  },
+  {
+    "url": "https://github.com/amos-labs/expertcache",
+    "title": "Show HN: ExpertCache – Run the Full GPT-OSS 120B (63GB) on a 16GB M1 Pro",
+    "description": "Article URL: https://github.com/amos-labs/expertcache\nComments URL: https://news.ycombinator.com/item?id=49226502\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-09T00:02:31.377Z",
+    "published": "Sat, 08 Aug 2026 22:28:33 +0000"
+  },
+  {
+    "url": "https://therokuchannel.roku.com/details/b484db42f3d31b6dc2f604d453c694a0/fairground-ai-creator-tv",
+    "title": "Roku Fairgound, a new 24/7 AI slop channel",
+    "description": "Article URL: https://therokuchannel.roku.com/details/b484db42f3d31b6dc2f604d453c694a0/fairground-ai-creator-tv\nComments URL: https://news.ycombinator.com/item?id=49226480\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-09T00:02:31.377Z",
+    "published": "Sat, 08 Aug 2026 22:25:59 +0000"
+  },
+  {
+    "url": "https://twitter.com/DimitrisPapail/status/2086158118354887060",
+    "title": "AI Settles a 25 Year-Old Problem We Left Behind",
+    "description": "Article URL: https://twitter.com/DimitrisPapail/status/2086158118354887060\nComments URL: https://news.ycombinator.com/item?id=49226444\nPoints: 8\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-09T00:02:31.377Z",
+    "published": "Sat, 08 Aug 2026 22:22:24 +0000"
+  },
+  {
+    "url": "https://justwordz.medium.com/the-ai-music-debate-is-missing-half-the-money-ffb714924aaa",
+    "title": "AI Music Debate Is Missing Half the Money",
+    "description": "Article URL: https://justwordz.medium.com/the-ai-music-debate-is-missing-half-the-money-ffb714924aaa\nComments URL: https://news.ycombinator.com/item?id=49226090\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-09T00:02:31.377Z",
+    "published": "Sat, 08 Aug 2026 21:31:03 +0000"
+  },
+  {
+    "url": "https://proton.me/business/blog/shadow-ai",
+    "title": "Shadow AI is a hidden risk to your business",
+    "description": "Article URL: https://proton.me/business/blog/shadow-ai\nComments URL: https://news.ycombinator.com/item?id=49226019\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-09T00:02:31.377Z",
+    "published": "Sat, 08 Aug 2026 21:20:43 +0000"
+  },
+  {
+    "url": "https://freebot.dev/",
+    "title": "I gave Claude complete ownership over a website",
+    "description": "Article URL: https://freebot.dev/\nComments URL: https://news.ycombinator.com/item?id=49225880\nPoints: 3\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-09T00:02:31.377Z",
+    "published": "Sat, 08 Aug 2026 21:01:09 +0000"
+  },
+  {
+    "url": "https://curtispoe.org/paad/",
+    "title": "How to write production-quality code with AI",
+    "description": "Article URL: https://curtispoe.org/paad/\nComments URL: https://news.ycombinator.com/item?id=49225778\nPoints: 5\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-09T00:02:31.377Z",
+    "published": "Sat, 08 Aug 2026 20:50:42 +0000"
+  },
+  {
+    "url": "https://kotaku.com/youtube-mistakenly-penalizes-popular-science-channel-kurzgesagt-for-ai-generated-slop-2000722702",
+    "title": "YouTube Mistakenly Penalizes Kurzgesagt for AI-Generated Slop",
+    "description": "Article URL: https://kotaku.com/youtube-mistakenly-penalizes-popular-science-channel-kurzgesagt-for-ai-generated-slop-2000722702\nComments URL: https://news.ycombinator.com/item?id=49225764\nPoints: 16\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-09T00:02:31.377Z",
+    "published": "Sat, 08 Aug 2026 20:47:57 +0000"
+  },
+  {
+    "url": "https://ai-updates.net/instagram-ai-human-attention-content/",
+    "title": "Instagram's AI Rewards Human Attention",
+    "description": "Article URL: https://ai-updates.net/instagram-ai-human-attention-content/\nComments URL: https://news.ycombinator.com/item?id=49225763\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-09T00:02:31.377Z",
+    "published": "Sat, 08 Aug 2026 20:47:49 +0000"
   }
 ]
