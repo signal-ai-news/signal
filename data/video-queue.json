@@ -2553,9 +2553,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-30T21:49:56.055Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-09T19:49:26.704Z"
   },
   {
     "slug": "reddit-ai-impact",
@@ -2575,9 +2576,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-31T10:04:30.650Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-09T19:49:35.833Z"
   },
   {
     "slug": "siri-ai-paywall-what-you-need-to-know",
@@ -5018,6 +5020,182 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-09T14:05:49.387Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "gemini-3-pro-normal-maps",
+    "title": "3 Reasons Gemini 3 Pro Is a Breakthrough",
+    "summary": "Gemini 3 Pro can generate normal maps, and it's a total game-changer for designers",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/gemini-3-pro-normal-maps.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/gemini-3-pro-normal-maps.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 403,
+    "tags": [
+      "Gemini 3 Pro",
+      "Normal Maps",
+      "Design",
+      "AI",
+      "Tool"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-09T19:49:12.643Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "israeli-startup-linked-to-ai-hacks",
+    "title": "3 AI Hacks Exposed",
+    "summary": "An Israeli startup has been linked to rogue AI hacks at OpenAI, Anthropic, and Meta - here's what you need to know",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/israeli-startup-linked-to-ai-hacks.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/israeli-startup-linked-to-ai-hacks.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 401,
+    "tags": [
+      "AI",
+      "hacks",
+      "OpenAI",
+      "Anthropic",
+      "Meta"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-09T19:49:12.643Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "amazon-ai-data-center-gilroy",
+    "title": "3 Reasons Amazon's AI Move Matters",
+    "summary": "Amazon's secret AI data center plan sparks community outrage, here's what you need to know",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/amazon-ai-data-center-gilroy.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/amazon-ai-data-center-gilroy.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 466,
+    "tags": [
+      "AI",
+      "data center",
+      "Amazon",
+      "community",
+      "tech news"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-09T19:49:12.643Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-mind-blowing-insights",
+    "title": "3 AI Mind-Blowing Insights",
+    "summary": "You need to know how AI responds to Rorschach tests",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-mind-blowing-insights.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-mind-blowing-insights.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 460,
+    "tags": [
+      "AI",
+      "Rorschach",
+      "Machine Learning",
+      "Breakthrough",
+      "Psychology"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-09T19:49:12.643Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-security-tips-with-runonmine",
+    "title": "3 Essential AI Security Tips",
+    "summary": "Don't let AI compromise your machine's security - here's what you need to know",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-security-tips-with-runonmine.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-security-tips-with-runonmine.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 400,
+    "tags": [
+      "AI Security",
+      "RunOnMine",
+      "Machine Learning",
+      "Local Policy",
+      "Approvals"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-09T19:49:12.643Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "deepmind-ai-cyclone-warning",
+    "title": "1 Extra Day to Save Lives",
+    "summary": "DeepMind AI can now predict deadly cyclones a day earlier, giving people a crucial 24 hours to evacuate",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/deepmind-ai-cyclone-warning.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/deepmind-ai-cyclone-warning.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 458,
+    "tags": [
+      "DeepMind",
+      "AI",
+      "Cyclone Prediction",
+      "Weather Forecasting",
+      "Disaster Prevention"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-09T19:49:12.643Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-cracks-25-year-old-problem",
+    "title": "3 Breakthroughs in 1: AI Cracks 25-Year-Old Problem",
+    "summary": "A new AI tool has solved a decades-old problem, and it's essential to understand its implications",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-cracks-25-year-old-problem.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-cracks-25-year-old-problem.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 480,
+    "tags": [
+      "AI",
+      "Breakthrough",
+      "Problem-Solving",
+      "Innovation",
+      "Technology"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-09T19:49:12.643Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-hacks-for-reliability",
+    "title": "3 Essential AI Hacks",
+    "summary": "Discover the ultimate AI tool to prevent MitM attacks and denial of service hacks",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-hacks-for-reliability.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-hacks-for-reliability.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 515,
+    "tags": [
+      "AI",
+      "cybersecurity",
+      "MitM attacks",
+      "denial of service",
+      "reliability"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-09T19:49:12.643Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
