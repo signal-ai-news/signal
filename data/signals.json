@@ -17315,5 +17315,96 @@
     "category": "news",
     "discovered": "2026-08-09T14:02:56.519Z",
     "published": "Sun, 09 Aug 2026 12:29:06 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+    "title": "The AI safety test is becoming a safety risk",
+    "description": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-09T15:17:33.911Z",
+    "published": "Sun, 09 Aug 2026 14:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-09T15:20:54.417Z"
+  },
+  {
+    "url": "https://mental.jmir.org/2026/1/e88186",
+    "title": "Human Shadows in Machine Minds: Study Interpreting AI Responses to Rorschach",
+    "description": "Article URL: https://mental.jmir.org/2026/1/e88186\nComments URL: https://news.ycombinator.com/item?id=49232163\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-09T15:17:40.677Z",
+    "published": "Sun, 09 Aug 2026 15:13:12 +0000",
+    "processed": true,
+    "processedAt": "2026-08-09T15:20:54.417Z"
+  },
+  {
+    "url": "https://swiftrocks.com/using-ai-without-losing-critical-thinking",
+    "title": "Using AI without losing your critical thinking",
+    "description": "Article URL: https://swiftrocks.com/using-ai-without-losing-critical-thinking\nComments URL: https://news.ycombinator.com/item?id=49232014\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-09T15:17:40.677Z",
+    "published": "Sun, 09 Aug 2026 14:58:29 +0000",
+    "processed": true,
+    "processedAt": "2026-08-09T15:20:54.417Z"
+  },
+  {
+    "url": "https://github.com/jnorthrup/hermes-jekyl-hyde",
+    "title": "Adversarial LLM Reversal for hermes-agent",
+    "description": "Article URL: https://github.com/jnorthrup/hermes-jekyl-hyde\nComments URL: https://news.ycombinator.com/item?id=49231797\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-09T15:17:40.677Z",
+    "published": "Sun, 09 Aug 2026 14:32:01 +0000",
+    "processed": true,
+    "processedAt": "2026-08-09T15:20:54.417Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=aVKROmuXSN0",
+    "title": "I8 Engine Swap Project: AI CAN bus reverse engineering [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=aVKROmuXSN0\nComments URL: https://news.ycombinator.com/item?id=49231741\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-09T15:17:40.677Z",
+    "published": "Sun, 09 Aug 2026 14:26:46 +0000",
+    "processed": true,
+    "processedAt": "2026-08-09T15:20:54.417Z"
+  },
+  {
+    "url": "https://redmonk.com/videos/charity-majors/",
+    "title": "Charity Majors on AI, Determinism, Instrumentation, & Eating Your Broccoli",
+    "description": "Article URL: https://redmonk.com/videos/charity-majors/\nComments URL: https://news.ycombinator.com/item?id=49231698\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-09T15:17:40.677Z",
+    "published": "Sun, 09 Aug 2026 14:22:52 +0000"
+  },
+  {
+    "url": "https://everythingengineer.substack.com/p/captains-read-the-outputs-a-better-human-agent-ux",
+    "title": "Captaining your AI: new human-agent UX paradigm",
+    "description": "Article URL: https://everythingengineer.substack.com/p/captains-read-the-outputs-a-better-human-agent-ux\nComments URL: https://news.ycombinator.com/item?id=49231552\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-09T15:17:40.677Z",
+    "published": "Sun, 09 Aug 2026 14:05:45 +0000"
+  },
+  {
+    "url": "https://bytepith.com/article/slow-squeeze-climate-demographics-and-state-power",
+    "title": "Why climate, fertility collapse, and AI compute share the same bottleneck?",
+    "description": "Article URL: https://bytepith.com/article/slow-squeeze-climate-demographics-and-state-power\nComments URL: https://news.ycombinator.com/item?id=49231279\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-09T15:17:40.677Z",
+    "published": "Sun, 09 Aug 2026 13:33:59 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/i-thought-loading-data-was-the-finish-line-it-was-the-starting-point/",
+    "title": "I Thought Loading Data Was the Finish Line. It Was the Starting Point.",
+    "description": "Building my first dbt models and learning what “analysis-ready” data actually means\nThe post I Thought Loading Data Was the Finish Line. It Was the Starting Point. appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-09T15:17:47.076Z",
+    "published": "Sun, 09 Aug 2026 15:00:00 +0000"
   }
 ]
