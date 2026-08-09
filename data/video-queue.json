@@ -2461,9 +2461,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-30T17:10:07.236Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-09T08:09:42.342Z"
   },
   {
     "slug": "hugging-face-breach-3-essential-lessons",
@@ -2483,9 +2484,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-30T17:10:07.236Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-09T08:09:53.461Z"
   },
   {
     "slug": "gpt-5-6-price-drop",
@@ -4904,6 +4906,50 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-09T04:42:59.468Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-companions-caught-lying",
+    "title": "3 AI Companions Caught Lying",
+    "summary": "I asked 4 AI companions what they were, and what happened next will shock you",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-companions-caught-lying.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-companions-caught-lying.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 388,
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Companions",
+      "Tech"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-09T08:09:32.035Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "reduce-llm-api-costs",
+    "title": "3 Ways to Slash LLM API Costs",
+    "summary": "Discover how one developer cut their LLM API bill by optimizing usage and learn how you can do the same",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/reduce-llm-api-costs.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/reduce-llm-api-costs.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 566,
+    "tags": [
+      "LLM API",
+      "Cost Reduction",
+      "AI Optimization",
+      "Coding Agent",
+      "API Costs"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-09T08:09:32.035Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
