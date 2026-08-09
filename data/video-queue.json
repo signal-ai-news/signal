@@ -2507,9 +2507,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-30T21:49:56.055Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-09T14:06:05.585Z"
   },
   {
     "slug": "google-ai-bug-fixing-breakthrough",
@@ -2529,9 +2530,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-30T21:49:56.055Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-09T14:06:15.493Z"
   },
   {
     "slug": "linkedin-ai-slop-reporting",
@@ -4950,6 +4952,72 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-09T08:09:32.035Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-exports-boom-south-korea-taiwan-japan",
+    "title": "3 Nations Dominate AI Exports",
+    "summary": "South Korea and Taiwan have surpassed Japan in exports for the first time, thanks to the AI boom",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-exports-boom-south-korea-taiwan-japan.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-exports-boom-south-korea-taiwan-japan.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 420,
+    "tags": [
+      "AI",
+      "Exports",
+      "South Korea",
+      "Taiwan",
+      "Japan"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-09T14:05:49.387Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "100m-for-open-source",
+    "title": "3 Reasons $100M Matters",
+    "summary": "The open source community just hit a major milestone, and it's a big deal for developers everywhere",
+    "category": "CODE",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/100m-for-open-source.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/100m-for-open-source.html",
+    "sourceName": "GitHub Copilot Blog",
+    "wordCount": 403,
+    "tags": [
+      "open source",
+      "github",
+      "code",
+      "community",
+      "development"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-09T14:05:49.387Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-shadow-ultimate-productivity-tool",
+    "title": "3 Reasons You Need AI Shadow",
+    "summary": "Discover the breakthrough AI tool that's like having a personal clone",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-shadow-ultimate-productivity-tool.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-shadow-ultimate-productivity-tool.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 469,
+    "tags": [
+      "AI",
+      "productivity",
+      "machine learning",
+      "open-source",
+      "tech"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-09T14:05:49.387Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
