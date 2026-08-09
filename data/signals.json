@@ -1227,7 +1227,9 @@
     "source": "GitHub Copilot Blog",
     "category": "code",
     "discovered": "2026-07-21T21:59:54.093Z",
-    "published": "Mon, 20 Jul 2026 16:00:00 +0000"
+    "published": "Mon, 20 Jul 2026 16:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-09T11:20:41.586Z"
   },
   {
     "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
@@ -1291,7 +1293,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T07:26:21.393Z",
-    "published": "Wed, 22 Jul 2026 07:01:37 +0000"
+    "published": "Wed, 22 Jul 2026 07:01:37 +0000",
+    "processed": true,
+    "processedAt": "2026-08-09T11:20:41.586Z"
   },
   {
     "url": "https://iask.ai",
@@ -1300,7 +1304,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T07:26:21.393Z",
-    "published": "Wed, 22 Jul 2026 06:58:49 +0000"
+    "published": "Wed, 22 Jul 2026 06:58:49 +0000",
+    "processed": true,
+    "processedAt": "2026-08-09T11:20:41.586Z"
   },
   {
     "url": "https://news.ycombinator.com/item?id=49002711",
@@ -17088,5 +17094,27 @@
     "category": "news",
     "discovered": "2026-08-09T10:05:20.091Z",
     "published": "Sun, 09 Aug 2026 09:30:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/ai-is-flooding-britains-employment-courts-with-lawsuits/",
+    "title": "AI is flooding Britain's employment courts with lawsuits",
+    "description": "Britain's employment courts saw 39 percent more claims in the year through March 2026, many written with ChatGPT or Grok. The backlog jumped 55 percent to 64,000 unresolved cases, with AI-generated filings often running hundreds of pages and citing fabricated laws. The Economist calls it a",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-09T11:17:07.674Z",
+    "published": "Sun, 09 Aug 2026 10:26:43 +0000",
+    "processed": true,
+    "processedAt": "2026-08-09T11:20:41.586Z"
+  },
+  {
+    "url": "https://www.wired.com/story/meetily-lets-you-transcribe-and-summarize-meetings-without-a-subscription-heres-how/",
+    "title": "Meetily Lets You Transcribe and Summarize Meetings Without a Subscription—Here’s How",
+    "description": "There are endless ways to record and transcribe your virtual meetings with AI. Here’s an option that’s free and open source.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-09T11:17:14.305Z",
+    "published": "Sun, 09 Aug 2026 10:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-09T11:20:41.586Z"
   }
 ]
