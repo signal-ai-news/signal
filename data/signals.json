@@ -1315,7 +1315,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T07:26:21.393Z",
-    "published": "Wed, 22 Jul 2026 06:46:08 +0000"
+    "published": "Wed, 22 Jul 2026 06:46:08 +0000",
+    "processed": true,
+    "processedAt": "2026-08-09T19:25:11.897Z"
   },
   {
     "url": "https://humanistreview.ai/issue-1/appiah-ai-moral-character/",
@@ -1324,7 +1326,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T07:26:21.393Z",
-    "published": "Wed, 22 Jul 2026 06:34:41 +0000"
+    "published": "Wed, 22 Jul 2026 06:34:41 +0000",
+    "processed": true,
+    "processedAt": "2026-08-09T19:25:11.897Z"
   },
   {
     "url": "https://apps.apple.com/us/app/nura-dev-voice-for-ai-coding/id6767097351",
@@ -1333,7 +1337,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T07:26:21.393Z",
-    "published": "Wed, 22 Jul 2026 06:31:20 +0000"
+    "published": "Wed, 22 Jul 2026 06:31:20 +0000",
+    "processed": true,
+    "processedAt": "2026-08-09T19:25:11.897Z"
   },
   {
     "url": "https://twitter.com/claudedevs/status/2079674432038248611",
@@ -17560,5 +17566,27 @@
     "category": "news",
     "discovered": "2026-08-09T17:08:05.588Z",
     "published": "Sun, 09 Aug 2026 16:30:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+    "title": "Anthropic is turning Claude Code’s auto mode on by default",
+    "description": "Programming with Claude Code will soon require even less human oversight.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-09T19:21:31.926Z",
+    "published": "Sun, 09 Aug 2026 19:20:32 +0000",
+    "processed": true,
+    "processedAt": "2026-08-09T19:25:11.898Z"
+  },
+  {
+    "url": "https://www.engadget.com/2231293/how-to-use-claude-voice-mode/",
+    "title": "How to use Claude's voice mode",
+    "description": "Anthropic&#39;s chatbot can be very vocal, if you want it to be.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-09T19:22:03.187Z",
+    "published": "Sun, 09 Aug 2026 18:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-09T19:25:11.898Z"
   }
 ]
