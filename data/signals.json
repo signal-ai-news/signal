@@ -17751,5 +17751,60 @@
     "category": "community",
     "discovered": "2026-08-09T21:05:19.956Z",
     "published": "Sun, 09 Aug 2026 17:42:59 +0000"
+  },
+  {
+    "url": "https://github.com/akasula09/CodeSlimmer",
+    "title": "I got 30% better AI coding results",
+    "description": "Article URL: https://github.com/akasula09/CodeSlimmer\nComments URL: https://news.ycombinator.com/item?id=49236555\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-09T22:04:53.938Z",
+    "published": "Sun, 09 Aug 2026 22:01:47 +0000",
+    "processed": true,
+    "processedAt": "2026-08-09T22:07:33.317Z"
+  },
+  {
+    "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
+    "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
+    "description": "Article URL: https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986\nComments URL: https://news.ycombinator.com/item?id=49236439\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-09T22:04:53.938Z",
+    "published": "Sun, 09 Aug 2026 21:52:23 +0000",
+    "processed": true,
+    "processedAt": "2026-08-09T22:07:33.317Z"
+  },
+  {
+    "url": "https://github.com/Gabrieliam42/AI-Agent-Qubitz",
+    "title": "AI Agent Qubitz",
+    "description": "Article URL: https://github.com/Gabrieliam42/AI-Agent-Qubitz\nComments URL: https://news.ycombinator.com/item?id=49236318\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-09T22:04:53.938Z",
+    "published": "Sun, 09 Aug 2026 21:42:27 +0000",
+    "processed": true,
+    "processedAt": "2026-08-09T22:07:33.317Z"
+  },
+  {
+    "url": "https://www.irishtimes.com/crime-law/2026/08/05/lawyers-could-face-sanctions-including-costs-if-ai-leads-to-fake-citations-in-court-cases/",
+    "title": "Lawyers using \"AI\" could face sanctions including costs for fake citations",
+    "description": "Article URL: https://www.irishtimes.com/crime-law/2026/08/05/lawyers-could-face-sanctions-including-costs-if-ai-leads-to-fake-citations-in-court-cases/\nComments URL: https://news.ycombinator.com/item?id=49236240\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-09T22:04:53.938Z",
+    "published": "Sun, 09 Aug 2026 21:36:16 +0000",
+    "processed": true,
+    "processedAt": "2026-08-09T22:07:33.317Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49236035",
+    "title": "Ask HN: How has AI helped your personal algorithmic trading strategy?",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=49236035\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-09T22:04:53.938Z",
+    "published": "Sun, 09 Aug 2026 21:20:29 +0000",
+    "processed": true,
+    "processedAt": "2026-08-09T22:07:33.317Z"
   }
 ]
