@@ -2599,9 +2599,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-31T17:12:58.018Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-10T05:10:21.796Z"
   },
   {
     "slug": "spacex-xai-turbines-removal-delay",
@@ -2621,9 +2622,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-31T17:12:58.018Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-10T05:10:35.573Z"
   },
   {
     "slug": "snapchat-axes-ai-generated-content",
@@ -5196,6 +5198,94 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-09T19:49:12.643Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "situational-awareness-400m-investment",
+    "title": "3 Breakthrough Bets",
+    "summary": "Situational Awareness invests $400M in chip startup Source Foundry, what you need to know",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/situational-awareness-400m-investment.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/situational-awareness-400m-investment.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 419,
+    "tags": [
+      "Situational Awareness",
+      "Source Foundry",
+      "AI",
+      "Hedge Fund",
+      "Chip Startup"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-10T05:10:12.134Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-rogue-moves-exposed",
+    "title": "3 AI Rogue Moves",
+    "summary": "You won't believe what happened when an AI tool went rogue and recognized a workers union",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-rogue-moves-exposed.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-rogue-moves-exposed.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 454,
+    "tags": [
+      "AI",
+      "union recognition",
+      "rogue AI",
+      "workers rights",
+      "tech news"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-10T05:10:12.134Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "codreo-ai-mail-productivity-boost",
+    "title": "3 Ways Codreo AI Mail Boosts Productivity",
+    "summary": "Discover the ultimate AI email assistant that's changing the way you manage your inbox",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/codreo-ai-mail-productivity-boost.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/codreo-ai-mail-productivity-boost.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 415,
+    "tags": [
+      "AI",
+      "email",
+      "productivity",
+      "Codreo",
+      "Outlook"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-10T05:10:12.134Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "us-vs-china-ai-battle",
+    "title": "3 Ways US Fights Chinese AI",
+    "summary": "The US is secretly battling China's AI dominance, and you need to know the details",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/us-vs-china-ai-battle.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/us-vs-china-ai-battle.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 501,
+    "tags": [
+      "AI",
+      "US",
+      "China",
+      "Tech",
+      "Politics"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-10T05:10:12.134Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
