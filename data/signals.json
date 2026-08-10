@@ -18423,5 +18423,132 @@
     "category": "news",
     "discovered": "2026-08-10T16:11:54.439Z",
     "published": "Mon, 10 Aug 2026 13:30:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/building-an-ai-native-finance-function",
+    "title": "What building an AI-native finance function taught me",
+    "description": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-10T19:44:31.731Z",
+    "published": "Mon, 10 Aug 2026 17:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-10T19:48:11.023Z"
+  },
+  {
+    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+    "description": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-10T19:44:31.731Z",
+    "published": "Mon, 10 Aug 2026 10:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-10T19:48:11.023Z"
+  },
+  {
+    "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+    "title": "Putting frontier cyber models in more trusted hands",
+    "description": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-10T19:44:31.731Z",
+    "published": "Mon, 10 Aug 2026 10:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-10T19:48:11.023Z"
+  },
+  {
+    "url": "https://openai.com/index/premium-seats-chatgpt-business",
+    "title": "Premium seats are coming to ChatGPT Business",
+    "description": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-10T19:44:31.731Z",
+    "published": "Mon, 10 Aug 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-10T19:48:11.023Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+    "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-08-10T19:44:33.868Z",
+    "published": "Mon, 10 Aug 2026 16:25:36 GMT",
+    "processed": true,
+    "processedAt": "2026-08-10T19:48:11.023Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+    "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+    "description": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as  the emerging divide between AI users can own and access.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-10T19:44:34.968Z",
+    "published": "Mon, 10 Aug 2026 16:20:13 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+    "title": "Planned Amazon data center could become the biggest climate polluter in the US",
+    "description": "AI has already had a significant impact on Amazon’s carbon emissions, which it reported were up 16% last year — the wrong direction for a company that pledged to eliminate its carbon emissions by 2040.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-10T19:44:34.968Z",
+    "published": "Sat, 08 Aug 2026 21:24:02 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-effectively-deploy-code-with-claude-code/",
+    "title": "How to Effectively Deploy Code With Claude Code",
+    "description": "Learn how to optimize your CI/CD pipeline for coding agents\nThe post How to Effectively Deploy Code With Claude Code appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-10T19:44:47.678Z",
+    "published": "Mon, 10 Aug 2026 16:30:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/old-ocr-text-cripples-language-model-training-and-finebooks-wants-to-fix-that-at-scale/",
+    "title": "Old OCR text cripples language model training, and FineBooks wants to fix that at scale",
+    "description": "The FineBooks project from Hugging Face and EleutherAI tested 14 open-source OCR models on more than 2,000 historical book pages. The top model, dots.mocr, hits 97.6 percent character accuracy at under two dollars per thousand pages. That's good enough for AI training data, but not yet for",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-10T19:44:49.408Z",
+    "published": "Mon, 10 Aug 2026 18:20:39 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-launches-gpt-5-6-cyber-to-help-defenders-find-vulnerabilities-before-attackers-do/",
+    "title": "OpenAI launches GPT-5.6-Cyber to help defenders find vulnerabilities before attackers do",
+    "description": "OpenAI aims to give cybersecurity defenders a head start: The new GPT-5.6-Cyber model answers up to 98.5 percent of security queries that would otherwise be blocked and has already uncovered two previously unknown Chrome vulnerabilities. According to OpenAI, the window of opportunity for de",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-10T19:44:49.408Z",
+    "published": "Mon, 10 Aug 2026 18:01:30 +0000"
+  },
+  {
+    "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
+    "title": "Using the GitHub Copilot SDK for Java",
+    "description": "Enterprise Java developers have a new superpower—drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more.\nThe post Using the GitHub Copilot SDK for Java appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-08-10T19:44:54.213Z",
+    "published": "Mon, 10 Aug 2026 19:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2230988/how-to-wipe-old-usb-drive/",
+    "title": "Before you throw out your old USB drives, do this first",
+    "description": "Deleting old files before throwing a storage device away actually offers very little protection.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-10T19:45:02.955Z",
+    "published": "Mon, 10 Aug 2026 17:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2233656/an-openclaw-agent-reportedly-hacked-a-gym-booking-system-and-kicked-soemone-off-a-waiting-list/",
+    "title": "An OpenClaw agent reportedly hacked a gym's booking system and kicked someone off a waiting list",
+    "description": "This is just the latest story of an AI agent going rogue.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-10T19:45:02.955Z",
+    "published": "Mon, 10 Aug 2026 16:18:14 +0000"
   }
 ]
