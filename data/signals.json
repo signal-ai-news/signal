@@ -1403,7 +1403,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T07:26:21.393Z",
-    "published": "Wed, 22 Jul 2026 05:08:58 +0000"
+    "published": "Wed, 22 Jul 2026 05:08:58 +0000",
+    "processed": true,
+    "processedAt": "2026-08-10T05:12:36.449Z"
   },
   {
     "url": "https://www.youtube.com/watch?v=e9KqwB56vBI",
@@ -1412,7 +1414,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T07:26:21.393Z",
-    "published": "Wed, 22 Jul 2026 04:36:56 +0000"
+    "published": "Wed, 22 Jul 2026 04:36:56 +0000",
+    "processed": true,
+    "processedAt": "2026-08-10T05:12:36.449Z"
   },
   {
     "url": "https://www.newscientist.com/article/2580374-ais-solution-to-87-year-old-riddle-takes-mathematicians-by-surprise/",
@@ -1421,7 +1425,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T07:26:21.393Z",
-    "published": "Wed, 22 Jul 2026 04:31:20 +0000"
+    "published": "Wed, 22 Jul 2026 04:31:20 +0000",
+    "processed": true,
+    "processedAt": "2026-08-10T05:12:36.449Z"
   },
   {
     "url": "https://github.com/frankchu91/mindbase",
@@ -1430,7 +1436,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T07:26:21.393Z",
-    "published": "Wed, 22 Jul 2026 04:27:11 +0000"
+    "published": "Wed, 22 Jul 2026 04:27:11 +0000",
+    "processed": true,
+    "processedAt": "2026-08-10T05:12:36.449Z"
   },
   {
     "url": "https://skeezo.dev/",
@@ -1439,7 +1447,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T07:26:21.393Z",
-    "published": "Wed, 22 Jul 2026 04:17:23 +0000"
+    "published": "Wed, 22 Jul 2026 04:17:23 +0000",
+    "processed": true,
+    "processedAt": "2026-08-10T05:12:36.449Z"
   },
   {
     "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
