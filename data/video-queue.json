@@ -2737,9 +2737,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-01T15:42:32.801Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-10T20:12:03.206Z"
   },
   {
     "slug": "biology-ai-breakthroughs",
@@ -2759,9 +2760,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-01T15:42:32.801Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-10T20:12:19.774Z"
   },
   {
     "slug": "ai-fails-vs-newspaper-archives",
@@ -5444,6 +5446,138 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-10T15:32:36.085Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "model-ml-gpt-5-6-sol-finance",
+    "title": "5x Faster Finance Work",
+    "summary": "Discover how Model ML is supercharging finance work with GPT-5.6 Sol",
+    "category": "LLM",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/model-ml-gpt-5-6-sol-finance.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/model-ml-gpt-5-6-sol-finance.html",
+    "sourceName": "OpenAI Blog",
+    "wordCount": 417,
+    "tags": [
+      "GPT-5.6 Sol",
+      "Model ML",
+      "Finance",
+      "AI",
+      "Productivity"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-10T20:11:53.442Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "evolve-your-marketing-with-ai",
+    "title": "3 AI Tools",
+    "summary": "Google's new AI tools simplify marketing workflow",
+    "category": "LLM",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/evolve-your-marketing-with-ai.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/evolve-your-marketing-with-ai.html",
+    "sourceName": "Google AI Blog",
+    "wordCount": 447,
+    "tags": [
+      "google ads",
+      "google analytics",
+      "ai marketing",
+      "marketing workflow",
+      "llm"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-10T20:11:53.442Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "data-warehouses-fail-ai",
+    "title": "3 Reasons Data Warehouses Fail AI",
+    "summary": "You need to know why traditional data warehouses aren't cutting it for AI agents",
+    "category": "ML",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/data-warehouses-fail-ai.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/data-warehouses-fail-ai.html",
+    "sourceName": "Towards Data Science",
+    "wordCount": 455,
+    "tags": [
+      "ai",
+      "ml",
+      "data warehouse",
+      "agent-ready",
+      "traditional architectures"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-10T20:11:53.442Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "vae-explained-ml-breakthrough",
+    "title": "3 Essential VAEs",
+    "summary": "Unlock the power of Variational Autoencoders and discover how they're changing the face of machine learning",
+    "category": "ML",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/vae-explained-ml-breakthrough.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/vae-explained-ml-breakthrough.html",
+    "sourceName": "Towards Data Science",
+    "wordCount": 616,
+    "tags": [
+      "ml",
+      "vae",
+      "machine learning",
+      "autoencoders",
+      "deep learning"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-10T20:11:53.442Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-finance-breakthroughs",
+    "title": "5 AI Finance Breakthroughs",
+    "summary": "Don't miss OpenAI CFO Sarah Friar's 5 essential lessons for building an AI-native finance function",
+    "category": "LLM",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-finance-breakthroughs.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-finance-breakthroughs.html",
+    "sourceName": "OpenAI Blog",
+    "wordCount": 577,
+    "tags": [
+      "AI",
+      "Finance",
+      "OpenAI",
+      "LLM",
+      "Automation"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-10T20:11:53.442Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "nvidia-magpie-tts-voice-agents",
+    "title": "3 Breakthroughs in AI Voice",
+    "summary": "Discover the ultimate AI tool for building low-latency multilingual voice agents",
+    "category": "ML",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/nvidia-magpie-tts-voice-agents.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/nvidia-magpie-tts-voice-agents.html",
+    "sourceName": "Hugging Face Blog",
+    "wordCount": 485,
+    "tags": [
+      "NVIDIA Magpie TTS",
+      "AI Voice Agents",
+      "Multilingual Support",
+      "Low-Latency",
+      "ML"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-10T20:11:53.442Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
