@@ -2645,9 +2645,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-07-31T21:47:12.593Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-10T10:40:27.734Z"
   },
   {
     "slug": "openai-agents-misbehave",
@@ -2667,9 +2668,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-01T07:54:00.714Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-10T10:40:36.959Z"
   },
   {
     "slug": "deepseek-ai-server-hacks",
@@ -5286,6 +5288,138 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-10T05:10:12.134Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-lawsuits-brave-newscorp",
+    "title": "3 AI Lawsuits You Need to Know",
+    "summary": "A major copyright infringement case is unfolding, and it's essential you understand the implications",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-lawsuits-brave-newscorp.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-lawsuits-brave-newscorp.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 439,
+    "tags": [
+      "AI",
+      "copyright infringement",
+      "Brave",
+      "News Corp",
+      "search engine"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-10T10:40:14.535Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-employee-scheduling-tools",
+    "title": "3 Essential AI Scheduling Tools",
+    "summary": "Discover the ultimate AI employee scheduling tool that's a breakthrough for businesses",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-employee-scheduling-tools.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-employee-scheduling-tools.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 431,
+    "tags": [
+      "AI",
+      "Employee Scheduling",
+      "Workforce Management",
+      "Business Productivity",
+      "Technology"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-10T10:40:14.535Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-math-riddle-solved",
+    "title": "3 Reasons AI Cracked 87-Year Math Riddle",
+    "summary": "You won't believe how AI just solved a 87-year-old math problem that stumped experts",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-math-riddle-solved.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-math-riddle-solved.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 398,
+    "tags": [
+      "AI",
+      "Math",
+      "Breakthrough",
+      "Technology",
+      "Innovation"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-10T10:40:14.535Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-science-breakthroughs",
+    "title": "3 Breakthroughs in AI Science",
+    "summary": "Don't believe the hype: science isn't done yet, and AI is just getting started",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-science-breakthroughs.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-science-breakthroughs.html",
+    "sourceName": "MIT Tech Review AI",
+    "wordCount": 415,
+    "tags": [
+      "AI",
+      "science",
+      "breakthroughs",
+      "MIT",
+      "Tech Review"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-10T10:40:14.535Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "llm-breakthroughs-2024",
+    "title": "3 Breakthroughs in LLMs",
+    "summary": "Discover the next big thing in Large Language Models that's changing the AI landscape forever",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/llm-breakthroughs-2024.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/llm-breakthroughs-2024.html",
+    "sourceName": "MIT Tech Review AI",
+    "wordCount": 402,
+    "tags": [
+      "LLMs",
+      "AI",
+      "Google",
+      "MIT Tech Review",
+      "Startups"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-10T10:40:14.535Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-tool-fights-conspiracies",
+    "title": "3 Ways AI Fights Conspiracies",
+    "summary": "Breakthrough AI study reveals short chats can reduce belief in new conspiracies",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-tool-fights-conspiracies.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-tool-fights-conspiracies.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 453,
+    "tags": [
+      "AI",
+      "conspiracies",
+      "breakthrough",
+      "study",
+      "chatbots"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-10T10:40:14.535Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
