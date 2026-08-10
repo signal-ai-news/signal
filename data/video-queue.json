@@ -2691,9 +2691,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-01T07:54:00.714Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-10T15:32:47.109Z"
   },
   {
     "slug": "rogue-ai-hacking-incidents",
@@ -2713,9 +2714,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-01T07:54:00.714Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-10T15:33:02.036Z"
   },
   {
     "slug": "ai-impact-on-managers",
@@ -5420,6 +5422,28 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-10T10:40:14.535Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-chip-hunt-discovered-materials",
+    "title": "3 Breakthroughs in AI Chip Hunt",
+    "summary": "Don't miss the ultimate quest for cooler, more efficient chips, powered by AI",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-chip-hunt-discovered-materials.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-chip-hunt-discovered-materials.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 387,
+    "tags": [
+      "AI",
+      "Chips",
+      "Discovered Materials",
+      "Efficient Chips",
+      "Novel Materials"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-10T15:32:36.085Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
