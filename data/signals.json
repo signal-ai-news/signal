@@ -18025,5 +18025,276 @@
     "category": "news",
     "discovered": "2026-08-10T10:04:51.622Z",
     "published": "Mon, 10 Aug 2026 09:19:11 +0000"
+  },
+  {
+    "url": "https://huggingface.co/blog/muse-glimmer",
+    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-08-10T12:35:22.311Z",
+    "published": "Mon, 10 Aug 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-10T12:39:08.663Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+    "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+    "description": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-10T12:35:23.431Z",
+    "published": "Mon, 10 Aug 2026 12:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-10T12:39:08.663Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
+    "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh, who lea",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-10T12:35:24.625Z",
+    "published": "Mon, 10 Aug 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-10T12:39:08.663Z"
+  },
+  {
+    "url": "https://www.pokecut.com/",
+    "title": "Pokecut: Free AI Photo Editor and Generator",
+    "description": "Article URL: https://www.pokecut.com/\nComments URL: https://news.ycombinator.com/item?id=49242799\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T12:35:40.312Z",
+    "published": "Mon, 10 Aug 2026 12:32:44 +0000",
+    "processed": true,
+    "processedAt": "2026-08-10T12:39:08.663Z"
+  },
+  {
+    "url": "https://github.com/mekickdemons-creator/mnemara",
+    "title": "Mnemara – a memory layer that keeps Claude agents continuous",
+    "description": "Article URL: https://github.com/mekickdemons-creator/mnemara\nComments URL: https://news.ycombinator.com/item?id=49242743\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T12:35:40.312Z",
+    "published": "Mon, 10 Aug 2026 12:26:38 +0000",
+    "processed": true,
+    "processedAt": "2026-08-10T12:39:08.663Z"
+  },
+  {
+    "url": "https://bobdahacker.com/blog/tldv-hack",
+    "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
+    "description": "Article URL: https://bobdahacker.com/blog/tldv-hack\nComments URL: https://news.ycombinator.com/item?id=49242739\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T12:35:40.312Z",
+    "published": "Mon, 10 Aug 2026 12:26:05 +0000"
+  },
+  {
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-farmer-kills-25-acres-of-crops-after-following-ai-generated-weed-and-pest-control-advice-farmer-trusted-pesticide-recipe-after-months-of-successful-advice",
+    "title": "Farmer kills 25 acres of crops after following AI weed and pest control advice",
+    "description": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-farmer-kills-25-acres-of-crops-after-following-ai-generated-weed-and-pest-control-advice-farmer-trusted-pesticide-recipe-after-months-of-successful-advice\nComments URL: https://news.ycombinator.com/item?id=49242",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T12:35:40.312Z",
+    "published": "Mon, 10 Aug 2026 12:24:28 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
+    "title": "The AI Slop Backlash Is Having an Impact",
+    "description": "Article URL: https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/\nComments URL: https://news.ycombinator.com/item?id=49242714\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T12:35:40.312Z",
+    "published": "Mon, 10 Aug 2026 12:24:18 +0000"
+  },
+  {
+    "url": "https://calnewport.com/on-ai-coding-and-its-discontents/",
+    "title": "AI Coding and Its Discontents",
+    "description": "Article URL: https://calnewport.com/on-ai-coding-and-its-discontents/\nComments URL: https://news.ycombinator.com/item?id=49242660\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T12:35:40.312Z",
+    "published": "Mon, 10 Aug 2026 12:17:26 +0000"
+  },
+  {
+    "url": "https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c",
+    "title": "In-House LLM Serving at Netflix",
+    "description": "Article URL: https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c\nComments URL: https://news.ycombinator.com/item?id=49242563\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T12:35:40.312Z",
+    "published": "Mon, 10 Aug 2026 12:03:26 +0000"
+  },
+  {
+    "url": "https://thenewstack.io/ai-productivity-measurement-gap/",
+    "title": "AI coding got faster. Why didn't engineering?",
+    "description": "Article URL: https://thenewstack.io/ai-productivity-measurement-gap/\nComments URL: https://news.ycombinator.com/item?id=49242523\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T12:35:40.312Z",
+    "published": "Mon, 10 Aug 2026 11:58:48 +0000"
+  },
+  {
+    "url": "https://9to5mac.com/2026/08/07/claude-code-now-lets-sessions-talk-to-each-other-on-macos/",
+    "title": "Claude Code now lets sessions talk to each other on macOS",
+    "description": "Article URL: https://9to5mac.com/2026/08/07/claude-code-now-lets-sessions-talk-to-each-other-on-macos/\nComments URL: https://news.ycombinator.com/item?id=49242504\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T12:35:40.312Z",
+    "published": "Mon, 10 Aug 2026 11:55:45 +0000"
+  },
+  {
+    "url": "https://www.mikeayles.com/blog/on-chip-llm-kv260/",
+    "title": "Show HN: Taalas-style on-chip LLM weights on a $250 AMD FPGA (60k tok/s)",
+    "description": "Article URL: https://www.mikeayles.com/blog/on-chip-llm-kv260/\nComments URL: https://news.ycombinator.com/item?id=49242475\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T12:35:40.312Z",
+    "published": "Mon, 10 Aug 2026 11:52:07 +0000"
+  },
+  {
+    "url": "https://restofworld.org/2026/china-ai-boyfriend-ban-bytedance-doubao/",
+    "title": "Beijing is forcing a mass breakup with AI lovers",
+    "description": "Article URL: https://restofworld.org/2026/china-ai-boyfriend-ban-bytedance-doubao/\nComments URL: https://news.ycombinator.com/item?id=49242418\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T12:35:40.312Z",
+    "published": "Mon, 10 Aug 2026 11:46:33 +0000"
+  },
+  {
+    "url": "https://www.aalto.fi/en/news/ai-model-captures-how-humans-read-paving-the-way-to-personalised-text-and-better-augmented-reality",
+    "title": "AI model captures how humans read, paving the way to personalised text",
+    "description": "Article URL: https://www.aalto.fi/en/news/ai-model-captures-how-humans-read-paving-the-way-to-personalised-text-and-better-augmented-reality\nComments URL: https://news.ycombinator.com/item?id=49242412\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T12:35:40.312Z",
+    "published": "Mon, 10 Aug 2026 11:45:58 +0000"
+  },
+  {
+    "url": "https://twitter.com/finkd/status/2086754845218726027",
+    "title": "Meta's new open-weight model targets local agentic AI",
+    "description": "Article URL: https://twitter.com/finkd/status/2086754845218726027\nComments URL: https://news.ycombinator.com/item?id=49242038\nPoints: 15\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T12:35:40.312Z",
+    "published": "Mon, 10 Aug 2026 10:55:03 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=sXA77wLF678",
+    "title": "China doesn't need to beat US AI [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=sXA77wLF678\nComments URL: https://news.ycombinator.com/item?id=49242036\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T12:35:40.312Z",
+    "published": "Mon, 10 Aug 2026 10:54:36 +0000"
+  },
+  {
+    "url": "https://github.com/kylehuirevvision/databricks-cost-optimizer",
+    "title": "Databricks Cost Optimizer: Audit Spend with Codex or Claude Code",
+    "description": "Article URL: https://github.com/kylehuirevvision/databricks-cost-optimizer\nComments URL: https://news.ycombinator.com/item?id=49242026\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T12:35:40.312Z",
+    "published": "Mon, 10 Aug 2026 10:53:21 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=RE4IDWjfOZc",
+    "title": "The OpenAI and Hugging Face breach story told from the perspective of the AI",
+    "description": "Article URL: https://www.youtube.com/watch?v=RE4IDWjfOZc\nComments URL: https://news.ycombinator.com/item?id=49242015\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T12:35:40.312Z",
+    "published": "Mon, 10 Aug 2026 10:52:23 +0000"
+  },
+  {
+    "url": "https://github.com/missingstudio/eva",
+    "title": "Show HN: An open-source multi-tenant, AI-native software factory",
+    "description": "Article URL: https://github.com/missingstudio/eva\nComments URL: https://news.ycombinator.com/item?id=49241928\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T12:35:40.312Z",
+    "published": "Mon, 10 Aug 2026 10:40:40 +0000"
+  },
+  {
+    "url": "https://blog.cloudflare.com/ai-search-easier/",
+    "title": "Cloudflare AI Search: give your agents a search engine for your data",
+    "description": "Article URL: https://blog.cloudflare.com/ai-search-easier/\nComments URL: https://news.ycombinator.com/item?id=49241903\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T12:35:40.312Z",
+    "published": "Mon, 10 Aug 2026 10:36:55 +0000"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/c7vgq5mgz2mo",
+    "title": "Senior detective under investigation over use of AI",
+    "description": "Article URL: https://www.bbc.com/news/articles/c7vgq5mgz2mo\nComments URL: https://news.ycombinator.com/item?id=49241888\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T12:35:40.312Z",
+    "published": "Mon, 10 Aug 2026 10:35:19 +0000"
+  },
+  {
+    "url": "https://www.theregister.com/os-platforms/2026/08/10/linus-torvalds-says-ai-has-made-huge-linux-kernel-updates-the-new-normal/5285268",
+    "title": "Linus Torvalds says AI has made Linux kernel updates the new normal",
+    "description": "Article URL: https://www.theregister.com/os-platforms/2026/08/10/linus-torvalds-says-ai-has-made-huge-linux-kernel-updates-the-new-normal/5285268\nComments URL: https://news.ycombinator.com/item?id=49241797\nPoints: 6\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T12:35:40.312Z",
+    "published": "Mon, 10 Aug 2026 10:24:10 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/spp-net-paper-walkthrough-breaking-the-fixed-size-constraint/",
+    "title": "SPP-Net Paper Walkthrough: Breaking the Fixed-Size Constraint",
+    "description": "Learn how Spatial Pyramid Pooling enables CNNs to handle any image size, with a from-scratch PyTorch implementation\nThe post SPP-Net Paper Walkthrough: Breaking the Fixed-Size Constraint appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-10T12:35:45.347Z",
+    "published": "Mon, 10 Aug 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-acquires-nextslide-to-bring-ai-generated-presentations-into-chatgpt/",
+    "title": "OpenAI acquires NextSlide to bring AI-generated presentations into ChatGPT",
+    "description": "OpenAI acquired NextSlide, the startup that turned prompts, notes, documents, and research into editable presentations.\nThe article OpenAI acquires NextSlide to bring AI-generated presentations into ChatGPT appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-10T12:35:46.919Z",
+    "published": "Mon, 10 Aug 2026 10:08:14 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
+    "title": "The AI Slop Backlash Is Actually Having an Impact",
+    "description": "Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-10T12:35:53.956Z",
+    "published": "Mon, 10 Aug 2026 11:30:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/the-rise-of-the-1-am-job-interview/",
+    "title": "The Rise of the 1 am Job Interview",
+    "description": "An AI interview is increasingly the first step of a hiring process. Since there’s no human on the other end, candidates are scheduling them whenever—even deep into the night.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-10T12:35:53.956Z",
+    "published": "Mon, 10 Aug 2026 10:30:00 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/how-i-use-claude-cowork-record-a-skill-for-automated-research/",
+    "title": "Claude's Record-a-Skill cut my research from hours to 30 minutes - but the magic has limits",
+    "description": "I used Claude Cowork to automate a workflow, and the result was remarkably effective, but it exposed four serious drawbacks.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-10T12:36:00.093Z",
+    "published": "Mon, 10 Aug 2026 12:26:54 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2233312/metas-open-source-muse-glimmer-model-can-run-on-a-single-computer/",
+    "title": "Meta's 'open source' Muse Glimmer model can run on a single computer",
+    "description": "Meta has released a new slimmed down &#39;open source&#39; AI model that&#39;s light enough to run on a single computer.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-10T12:36:00.738Z",
+    "published": "Mon, 10 Aug 2026 12:29:38 +0000"
   }
 ]
