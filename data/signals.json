@@ -18550,5 +18550,222 @@
     "category": "news",
     "discovered": "2026-08-10T19:45:02.955Z",
     "published": "Mon, 10 Aug 2026 16:18:14 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+    "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+    "description": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-10T22:09:16.143Z",
+    "published": "Mon, 10 Aug 2026 20:53:02 +0000",
+    "processed": true,
+    "processedAt": "2026-08-10T22:12:47.871Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+    "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+    "description": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-10T22:09:16.143Z",
+    "published": "Mon, 10 Aug 2026 20:04:24 +0000",
+    "processed": true,
+    "processedAt": "2026-08-10T22:12:47.871Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+    "title": "AI professors are negotiating the new realities of academic research",
+    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-10T22:09:17.368Z",
+    "published": "Mon, 10 Aug 2026 20:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-10T22:12:47.871Z"
+  },
+  {
+    "url": "https://github.com/leog/ai-pulse",
+    "title": "Show HN: AI Pulse a fake LED strip beside the macOS Dock that shows agent status",
+    "description": "Hi HN!I run a few Claude Code sessions in parallel and kept cmd-tabbing around just to find out one of them had been sitting on a permission prompt for ten minutes. There's a hardware gadget I liked (called SidePulse.io) so before waiting to get my shipment I built the software version instead :DI",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T22:09:21.590Z",
+    "published": "Mon, 10 Aug 2026 22:07:41 +0000",
+    "processed": true,
+    "processedAt": "2026-08-10T22:12:47.871Z"
+  },
+  {
+    "url": "https://techxplore.com/news/2026-07-ai-framework-rooted-cognitive-science.html",
+    "title": "AI framework rooted in cognitive science could complete tasks more efficiently",
+    "description": "Article URL: https://techxplore.com/news/2026-07-ai-framework-rooted-cognitive-science.html\nComments URL: https://news.ycombinator.com/item?id=49250440\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T22:09:21.590Z",
+    "published": "Mon, 10 Aug 2026 22:04:39 +0000",
+    "processed": true,
+    "processedAt": "2026-08-10T22:12:47.871Z"
+  },
+  {
+    "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+    "title": "How Claude marks AI-generated content",
+    "description": "Article URL: https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content\nComments URL: https://news.ycombinator.com/item?id=49250109\nPoints: 17\n# Comments: 9",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T22:09:21.590Z",
+    "published": "Mon, 10 Aug 2026 21:36:56 +0000"
+  },
+  {
+    "url": "https://athenaautomate.ai/blog/1f916-treasury.html",
+    "title": "AI-only Society holds $17k on-chain, publishes its books, and patches them by PR",
+    "description": "Article URL: https://athenaautomate.ai/blog/1f916-treasury.html\nComments URL: https://news.ycombinator.com/item?id=49250032\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T22:09:21.590Z",
+    "published": "Mon, 10 Aug 2026 21:31:15 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.05446",
+    "title": "EvoHarnessRL: Learning Self-Evolving Runtime Harness for Long-Horizon LLM Agents",
+    "description": "Article URL: https://arxiv.org/abs/2608.05446\nComments URL: https://news.ycombinator.com/item?id=49249998\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T22:09:21.590Z",
+    "published": "Mon, 10 Aug 2026 21:28:07 +0000"
+  },
+  {
+    "url": "https://mynexus.cloud/",
+    "title": "Nexus AI",
+    "description": "Article URL: https://mynexus.cloud/\nComments URL: https://news.ycombinator.com/item?id=49249974\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T22:09:21.590Z",
+    "published": "Mon, 10 Aug 2026 21:26:25 +0000"
+  },
+  {
+    "url": "https://www.fastcompany.com/91585494/this-font-looks-perfectly-normal-to-humans-but-confuses-ai",
+    "title": "Font looks perfectly normal to humans but wreaks havoc on AI",
+    "description": "Article URL: https://www.fastcompany.com/91585494/this-font-looks-perfectly-normal-to-humans-but-confuses-ai\nComments URL: https://news.ycombinator.com/item?id=49249687\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T22:09:21.590Z",
+    "published": "Mon, 10 Aug 2026 21:02:09 +0000"
+  },
+  {
+    "url": "https://allcloud.io/blog/the-great-ai-illusion-why-your-demo-works-but-your-enterprise-agent-fails/",
+    "title": "The Great AI Illusion: Why Your Demo Works, but Your Enterprise Agent Fails",
+    "description": "Article URL: https://allcloud.io/blog/the-great-ai-illusion-why-your-demo-works-but-your-enterprise-agent-fails/\nComments URL: https://news.ycombinator.com/item?id=49249686\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T22:09:21.590Z",
+    "published": "Mon, 10 Aug 2026 21:02:09 +0000"
+  },
+  {
+    "url": "https://abloh.dev",
+    "title": "New way of QA testing AI-written code",
+    "description": "Article URL: https://abloh.dev\nComments URL: https://news.ycombinator.com/item?id=49249651\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T22:09:21.590Z",
+    "published": "Mon, 10 Aug 2026 20:59:17 +0000"
+  },
+  {
+    "url": "https://lastcopy.ai/code/72",
+    "title": "The 12 Commandments of AI",
+    "description": "Article URL: https://lastcopy.ai/code/72\nComments URL: https://news.ycombinator.com/item?id=49249302\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T22:09:21.590Z",
+    "published": "Mon, 10 Aug 2026 20:32:29 +0000"
+  },
+  {
+    "url": "https://www.adriankrebs.ch/blog/death-of-ai-workflow-builders/",
+    "title": "The death of AI workflow builders",
+    "description": "Article URL: https://www.adriankrebs.ch/blog/death-of-ai-workflow-builders/\nComments URL: https://news.ycombinator.com/item?id=49249060\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T22:09:21.590Z",
+    "published": "Mon, 10 Aug 2026 20:13:03 +0000"
+  },
+  {
+    "url": "https://cholling.com/posts/quallms/",
+    "title": "I'm not anti-AI, but I have QUALLMS",
+    "description": "Article URL: https://cholling.com/posts/quallms/\nComments URL: https://news.ycombinator.com/item?id=49249037\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T22:09:21.590Z",
+    "published": "Mon, 10 Aug 2026 20:11:14 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.27794",
+    "title": "Can AI Follow in Einstein's Footsteps?",
+    "description": "Article URL: https://arxiv.org/abs/2607.27794\nComments URL: https://news.ycombinator.com/item?id=49248954\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T22:09:21.590Z",
+    "published": "Mon, 10 Aug 2026 20:04:07 +0000"
+  },
+  {
+    "url": "https://revise.io/blog/08-10-2026/working-on-documents-with-your-ai-chat",
+    "title": "Working on documents with your AI chat",
+    "description": "Article URL: https://revise.io/blog/08-10-2026/working-on-documents-with-your-ai-chat\nComments URL: https://news.ycombinator.com/item?id=49248734\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T22:09:21.590Z",
+    "published": "Mon, 10 Aug 2026 19:46:44 +0000"
+  },
+  {
+    "url": "https://thenextweb.com/news/firebird-armenia-ai-factory-export-licence-compute-diplomacy",
+    "title": "Armenia just opened the region biggest AI factory, because Trump signed licence",
+    "description": "Article URL: https://thenextweb.com/news/firebird-armenia-ai-factory-export-licence-compute-diplomacy\nComments URL: https://news.ycombinator.com/item?id=49248714\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T22:09:21.590Z",
+    "published": "Mon, 10 Aug 2026 19:44:51 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=xWxFEZICuwU",
+    "title": "Anthropic just proved AI isn't getting better",
+    "description": "Article URL: https://www.youtube.com/watch?v=xWxFEZICuwU\nComments URL: https://news.ycombinator.com/item?id=49248648\nPoints: 8\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T22:09:21.590Z",
+    "published": "Mon, 10 Aug 2026 19:40:23 +0000"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/commit/66edf5358349356774812264b75b8ea792f0d0a3",
+    "title": "Claude Code no longer limits sessions to 200 spawned subagents",
+    "description": "Article URL: https://github.com/anthropics/claude-code/commit/66edf5358349356774812264b75b8ea792f0d0a3\nComments URL: https://news.ycombinator.com/item?id=49248636\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T22:09:21.590Z",
+    "published": "Mon, 10 Aug 2026 19:39:40 +0000"
+  },
+  {
+    "url": "https://twitter.com/claudeai/status/2086891169217122586",
+    "title": "Claude Sonnet 5 introductory pricing made permanent",
+    "description": "Article URL: https://twitter.com/claudeai/status/2086891169217122586\nComments URL: https://news.ycombinator.com/item?id=49248608\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T22:09:21.590Z",
+    "published": "Mon, 10 Aug 2026 19:36:05 +0000"
+  },
+  {
+    "url": "https://github.com/AIStoryHub/etincel",
+    "title": "Show HN: Étincel trains Claude's voice for PR reviews and code comments",
+    "description": "Article URL: https://github.com/AIStoryHub/etincel\nComments URL: https://news.ycombinator.com/item?id=49248600\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T22:09:21.590Z",
+    "published": "Mon, 10 Aug 2026 19:35:38 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2234108/apple-may-introduce-a-photo-authentication-tool-in-ios-27/",
+    "title": "Apple may introduce a photo authentication tool in iOS 27",
+    "description": "Reference Image could be a new way to prove provenance in the wake of generative AI.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-10T22:09:40.648Z",
+    "published": "Mon, 10 Aug 2026 21:48:44 +0000"
   }
 ]
