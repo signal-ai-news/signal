@@ -17826,5 +17826,204 @@
     "published": "Sun, 09 Aug 2026 21:20:29 +0000",
     "processed": true,
     "processedAt": "2026-08-09T22:07:33.317Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+    "title": "AI for science needs reasoning, not just data",
+    "description": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. Wi",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-10T10:04:25.395Z",
+    "published": "Mon, 10 Aug 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-10T10:07:59.037Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+    "title": "These startups are chasing the next big thing in LLMs",
+    "description": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they des",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-10T10:04:25.395Z",
+    "published": "Mon, 10 Aug 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-10T10:07:59.037Z"
+  },
+  {
+    "url": "https://aiunderstanding.org/news/ai-chats-emerging-conspiracy-beliefs-study",
+    "title": "Study Finds Short AI Chats Reduced Belief in New Conspiracies",
+    "description": "Article URL: https://aiunderstanding.org/news/ai-chats-emerging-conspiracy-beliefs-study\nComments URL: https://news.ycombinator.com/item?id=49241569\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T10:04:30.403Z",
+    "published": "Mon, 10 Aug 2026 09:54:55 +0000",
+    "processed": true,
+    "processedAt": "2026-08-10T10:07:59.037Z"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/cvgx4yd1gl2o",
+    "title": "Tech leaders say AI means less work – staff say they work up to 90 hours a week",
+    "description": "Article URL: https://www.bbc.com/news/articles/cvgx4yd1gl2o\nComments URL: https://news.ycombinator.com/item?id=49241559\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T10:04:30.403Z",
+    "published": "Mon, 10 Aug 2026 09:53:37 +0000",
+    "processed": true,
+    "processedAt": "2026-08-10T10:07:59.037Z"
+  },
+  {
+    "url": "https://vladthe.dev/blog/claude-code-ai-slop-and-the-death-of-the-art",
+    "title": "Claude Code, AI Slop, and the Death of the Art?",
+    "description": "Article URL: https://vladthe.dev/blog/claude-code-ai-slop-and-the-death-of-the-art\nComments URL: https://news.ycombinator.com/item?id=49241531\nPoints: 2\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T10:04:30.403Z",
+    "published": "Mon, 10 Aug 2026 09:49:52 +0000",
+    "processed": true,
+    "processedAt": "2026-08-10T10:07:59.037Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49241439",
+    "title": "Did Apple Search engine bot enter the security LLM fuzzing gauntlet",
+    "description": "Just noticed in the last 4 weeks that this user-agent string has gone crazy on the sites I support.20 million requests in the last 4 weeks or about 500k a day and alot of it looks to try and 'hack'......user-agent: Mozilla/5.0 (compatible; Applebot-Extended/0.1; +http://www.apple.com/go/applebot)i.",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T10:04:30.403Z",
+    "published": "Mon, 10 Aug 2026 09:38:44 +0000"
+  },
+  {
+    "url": "https://github.com/armin5872/OptiQra",
+    "title": "Show HN: OptiQra – Open-source AI website optimization and intelligence platform",
+    "description": "Hi HN,I've been building OptiQra for quite a while, and I finally finished the desktop version.OptiQra is an open-source website intelligence and optimization platform. It can crawl and analyze websites or local projects, identify SEO/AEO/GEO, accessibility, performance and technical issues, explai",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T10:04:30.403Z",
+    "published": "Mon, 10 Aug 2026 09:13:54 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49241042",
+    "title": "Ask HN: Gemini/Antigravity or Claude Code, which is better for programming?",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=49241042\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T10:04:30.403Z",
+    "published": "Mon, 10 Aug 2026 08:45:10 +0000"
+  },
+  {
+    "url": "https://www.leadinginproduct.com/p/ai-pm-role-same-job",
+    "title": "AI won't kill the PM role. Same job, better tools",
+    "description": "Article URL: https://www.leadinginproduct.com/p/ai-pm-role-same-job\nComments URL: https://news.ycombinator.com/item?id=49240977\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T10:04:30.403Z",
+    "published": "Mon, 10 Aug 2026 08:36:12 +0000"
+  },
+  {
+    "url": "https://x.com/AgentMemoryL",
+    "title": "How should we evaluate memory for AI agents?",
+    "description": "Article URL: https://x.com/AgentMemoryL\nComments URL: https://news.ycombinator.com/item?id=49240894\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T10:04:30.403Z",
+    "published": "Mon, 10 Aug 2026 08:25:23 +0000"
+  },
+  {
+    "url": "https://www.vincentschmalbach.com/gpt-5-6-made-me-less-productive/",
+    "title": "Switching from GPT-5.5 to GPT-5.6 Made Me Less Productive",
+    "description": "Article URL: https://www.vincentschmalbach.com/gpt-5-6-made-me-less-productive/\nComments URL: https://news.ycombinator.com/item?id=49240879\nPoints: 3\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T10:04:30.403Z",
+    "published": "Mon, 10 Aug 2026 08:23:55 +0000"
+  },
+  {
+    "url": "https://www.heise.de/en/news/Amazon-plans-gigantic-gas-power-plant-for-new-AI-data-center-11404051.html",
+    "title": "Amazon plans gigantic gas power plant for new AI data center",
+    "description": "Article URL: https://www.heise.de/en/news/Amazon-plans-gigantic-gas-power-plant-for-new-AI-data-center-11404051.html\nComments URL: https://news.ycombinator.com/item?id=49240853\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T10:04:30.403Z",
+    "published": "Mon, 10 Aug 2026 08:20:58 +0000"
+  },
+  {
+    "url": "https://filtar.web.app",
+    "title": "My AI story begins in 2018",
+    "description": "Article URL: https://filtar.web.app\nComments URL: https://news.ycombinator.com/item?id=49240700\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T10:04:30.403Z",
+    "published": "Mon, 10 Aug 2026 08:00:24 +0000"
+  },
+  {
+    "url": "https://wan3.io/wan-3-0",
+    "title": "Wan 3.0 AI – multimodal video generation",
+    "description": "Article URL: https://wan3.io/wan-3-0\nComments URL: https://news.ycombinator.com/item?id=49240673\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T10:04:30.403Z",
+    "published": "Mon, 10 Aug 2026 07:57:55 +0000"
+  },
+  {
+    "url": "https://www.marcusoft.net/2026/08/ai-robots.html",
+    "title": "Are AI agents our industry's industrial robots?",
+    "description": "Article URL: https://www.marcusoft.net/2026/08/ai-robots.html\nComments URL: https://news.ycombinator.com/item?id=49240341\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T10:04:30.403Z",
+    "published": "Mon, 10 Aug 2026 07:13:26 +0000"
+  },
+  {
+    "url": "https://www.lesswrong.com/posts/Wty5mcDBEmypap8o2/how-to-be-an-ai-safety-research-engineer",
+    "title": "How to be an AI safety research engineer",
+    "description": "Article URL: https://www.lesswrong.com/posts/Wty5mcDBEmypap8o2/how-to-be-an-ai-safety-research-engineer\nComments URL: https://news.ycombinator.com/item?id=49240278\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T10:04:30.403Z",
+    "published": "Mon, 10 Aug 2026 07:01:57 +0000"
+  },
+  {
+    "url": "https://www.rnz.co.nz/news/world/952663/ai-assistant-hacks-gym-website-in-first-known-australian-autonomous-cyber-attack",
+    "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
+    "description": "Article URL: https://www.rnz.co.nz/news/world/952663/ai-assistant-hacks-gym-website-in-first-known-australian-autonomous-cyber-attack\nComments URL: https://news.ycombinator.com/item?id=49240128\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T10:04:30.403Z",
+    "published": "Mon, 10 Aug 2026 06:46:28 +0000"
+  },
+  {
+    "url": "https://github.com/yaminbakoh4-dot/NexusMem",
+    "title": "Show HN: NexusMem – Local context memory engine for AI coding agents",
+    "description": "Article URL: https://github.com/yaminbakoh4-dot/NexusMem\nComments URL: https://news.ycombinator.com/item?id=49240020\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-10T10:04:30.403Z",
+    "published": "Mon, 10 Aug 2026 06:34:23 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/hidden-text-in-a-pdf-is-enough-to-steal-sensitive-data-through-atlassians-ai-agent-rovo/",
+    "title": "Hidden text in a PDF is enough to steal sensitive data through Atlassian's AI agent Rovo",
+    "description": "Security firm PromptArmor shows how hidden instructions in a PDF can hijack Atlassian's AI agent Rovo, silently forwarding sensitive data from Jira and Confluence to an external server. The attack needs no user confirmation and leaves no trace.\nThe article Hidden text in a PDF is enough to",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-10T10:04:37.391Z",
+    "published": "Mon, 10 Aug 2026 08:46:36 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2233258/future-apple-watches-may-includes-more-screen-sizes-or-even-a-model-with-no-display/",
+    "title": "Future Apple Watches may include more screen sizes or even a model with no display",
+    "description": "Apple&#39;s next Watch won&#39;t change much, but future models may see significant updates.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-10T10:04:51.622Z",
+    "published": "Mon, 10 Aug 2026 09:52:02 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2233237/openai-slows-down-astra-development-due-to-cybersecurity-concerns/",
+    "title": "OpenAI slows down Astra development due to cybersecurity concerns",
+    "description": "Meta slowed down development of its Astra model as it couldn&#39;t &#39;rule out critical cyber capabilities.&#39;",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-10T10:04:51.622Z",
+    "published": "Mon, 10 Aug 2026 09:19:11 +0000"
   }
 ]
