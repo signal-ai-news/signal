@@ -19450,5 +19450,105 @@
     "category": "news",
     "discovered": "2026-08-11T18:08:48.451Z",
     "published": "Tue, 11 Aug 2026 16:02:33 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+    "title": "OpenAI launches ChatGPT desktop app for Linux",
+    "description": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-11T21:26:27.490Z",
+    "published": "Tue, 11 Aug 2026 19:15:35 +0000",
+    "processed": true,
+    "processedAt": "2026-08-11T21:30:02.505Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+    "title": "Google’s Gemini app surges to one billion users",
+    "description": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-11T21:26:27.490Z",
+    "published": "Tue, 11 Aug 2026 18:49:12 +0000",
+    "processed": true,
+    "processedAt": "2026-08-11T21:30:02.505Z"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
+    "title": "Chrome adopts what may be the best protection yet against account takeovers",
+    "description": "Device-bound session credentials thwart an increasingly common form of account takeover.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-08-11T21:26:28.327Z",
+    "published": "Tue, 11 Aug 2026 20:59:52 +0000",
+    "processed": true,
+    "processedAt": "2026-08-11T21:30:02.505Z"
+  },
+  {
+    "url": "https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/",
+    "title": "From coder to orchestrator: How agents shift the role of a developer",
+    "description": "Developers are owning more of the delivery system around code, not just code itself. Join us during GitHub Universe to meet other devs, learn something new, and explore what's next.\nThe post From coder to orchestrator: How agents shift the role of a developer appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-08-11T21:26:47.000Z",
+    "published": "Tue, 11 Aug 2026 18:38:17 +0000",
+    "processed": true,
+    "processedAt": "2026-08-11T21:30:02.505Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/why-software-factories-are-back-ai/",
+    "title": "Why software factories are back - and how they work in the age of AI",
+    "description": "Imagine submitting your vibe-coded app to a service that validates, tests, and then mass-produces it in a repeatable, automated fashion for delivery to a wide audience.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-11T21:26:54.909Z",
+    "published": "Tue, 11 Aug 2026 21:23:33 GMT",
+    "processed": true,
+    "processedAt": "2026-08-11T21:30:02.505Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/how-to-make-generate-ai-flyer-tips-prompts-that-work/",
+    "title": "How to create flyers with AI that people won't hate: 8 tips (and prompts) that really work",
+    "description": "Most AI flyers are still a mess, but the right prompts can make all the difference.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-11T21:26:54.909Z",
+    "published": "Tue, 11 Aug 2026 20:53:19 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2235010/government-workers-can-officially-waste-time-scrolling-tiktok-again/",
+    "title": "Government workers can officially waste time scrolling TikTok again",
+    "description": "The app was banned from government devices in 2022.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-11T21:26:55.499Z",
+    "published": "Tue, 11 Aug 2026 21:03:25 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2234851/abbott-partners-with-google-health-for-ai-powered-glucose-monitoring/",
+    "title": "Abbott partners with Google Health for AI-powered glucose monitoring",
+    "description": "Abbott partners with Google Health for AI-powered glucose monitoring.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-11T21:26:55.499Z",
+    "published": "Tue, 11 Aug 2026 18:35:34 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2234172/can-macbook-run-multiple-external-monitors/",
+    "title": "Can a MacBook run multiple external monitors? It depends",
+    "description": "Most current models support at least two.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-11T21:26:55.499Z",
+    "published": "Tue, 11 Aug 2026 18:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2234838/authors-face-backlash-for-participation-in-2022-google-ai-study/",
+    "title": "Authors face backlash for participation in 2022 Google AI study",
+    "description": "Thirteen authors joined a little-known Google AI study in 2022. Now they&#39;re facing backlash.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-11T21:26:55.499Z",
+    "published": "Tue, 11 Aug 2026 18:24:38 +0000"
   }
 ]
