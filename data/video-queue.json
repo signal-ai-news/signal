@@ -2875,9 +2875,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-01T20:36:48.661Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-11T15:31:04.441Z"
   },
   {
     "slug": "browsers-without-ai",
@@ -2897,9 +2898,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-01T20:36:48.661Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-11T15:31:14.608Z"
   },
   {
     "slug": "mexico-us-ai-boom",
@@ -5736,6 +5738,94 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-11T08:41:07.918Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-is-dead-organoids-are-alive",
+    "title": "3 Reasons AI Is Doomed",
+    "summary": "Mini human brains are being grown in labs and could soon outthink neural networks",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-is-dead-organoids-are-alive.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-is-dead-organoids-are-alive.html",
+    "sourceName": "Wired AI",
+    "wordCount": 489,
+    "tags": [
+      "AI",
+      "Organoids",
+      "Neural Networks",
+      "Machine Learning",
+      "Breakthrough"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-11T15:30:54.740Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "schizophrenia-genetics-breakthroughs",
+    "title": "3 Breakthroughs in Schizophrenia Genetics",
+    "summary": "AI helps unravel the genetic puzzle of schizophrenia, revealing new avenues for research and treatment",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/schizophrenia-genetics-breakthroughs.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/schizophrenia-genetics-breakthroughs.html",
+    "sourceName": "Wired AI",
+    "wordCount": 424,
+    "tags": [
+      "schizophrenia",
+      "genetics",
+      "AI",
+      "mental health",
+      "breakthroughs"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-11T15:30:54.740Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "spotify-ai-crackdown",
+    "title": "3 Reasons Spotify's AI Crackdown Matters",
+    "summary": "Spotify's bold move to label and exclude AI-generated music will change how you discover new artists",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/spotify-ai-crackdown.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/spotify-ai-crackdown.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 408,
+    "tags": [
+      "Spotify",
+      "AI Music",
+      "Music Streaming",
+      "AI Policy",
+      "Music Discovery"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-11T15:30:54.740Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-watermarks-explained",
+    "title": "3 Ways AI Watermarks Change Everything",
+    "summary": "Anthropic's breakthrough AI watermarking technology raises essential questions about authenticity and transparency in AI-generated content",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-watermarks-explained.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-watermarks-explained.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 510,
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Watermarks",
+      "Transparency",
+      "Authenticity"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-11T15:30:54.740Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
