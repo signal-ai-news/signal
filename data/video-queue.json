@@ -2783,9 +2783,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-01T15:42:32.801Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-11T04:51:19.834Z"
   },
   {
     "slug": "ai-video-tracker-platform",
@@ -2805,9 +2806,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-01T15:42:32.801Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-11T04:51:28.014Z"
   },
   {
     "slug": "ai-bargaining-breakthroughs",
@@ -5578,6 +5580,72 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-10T20:11:53.442Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "zuckerberg-ai-manifesto-fails",
+    "title": "3 Reasons Zuckerberg's AI Plan Fails",
+    "summary": "Mark Zuckerberg's 6,500-word AI manifesto has sparked controversy, but what does it mean for the future of artificial intelligence?",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/zuckerberg-ai-manifesto-fails.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/zuckerberg-ai-manifesto-fails.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 380,
+    "tags": [
+      "AI",
+      "Mark Zuckerberg",
+      "Meta AI",
+      "Personal Superintelligence",
+      "Tech News"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-11T04:51:07.216Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-efficiency-breakthroughs",
+    "title": "3 Breakthroughs in AI Efficiency",
+    "summary": "A new AI framework rooted in cognitive science is changing the game",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-efficiency-breakthroughs.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-efficiency-breakthroughs.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 439,
+    "tags": [
+      "AI",
+      "Cognitive Science",
+      "Efficiency",
+      "Breakthrough",
+      "Technology"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-11T04:51:07.216Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "openai-7-billion-employee-tender-offer",
+    "title": "7 Billion Reasons",
+    "summary": "OpenAI just made a massive $7 billion move that's sending shockwaves through the tech industry",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/openai-7-billion-employee-tender-offer.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/openai-7-billion-employee-tender-offer.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 630,
+    "tags": [
+      "OpenAI",
+      "AI News",
+      "Tech Industry",
+      "Tender Offer",
+      "San Francisco Housing"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-11T04:51:07.216Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
