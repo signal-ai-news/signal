@@ -1502,7 +1502,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T09:51:19.957Z",
-    "published": "Wed, 22 Jul 2026 08:47:14 +0000"
+    "published": "Wed, 22 Jul 2026 08:47:14 +0000",
+    "processed": true,
+    "processedAt": "2026-08-11T00:07:12.573Z"
   },
   {
     "url": "https://codeberg.org/Codeberg/org/pulls/1253",
@@ -18767,5 +18769,49 @@
     "category": "news",
     "discovered": "2026-08-10T22:09:40.648Z",
     "published": "Mon, 10 Aug 2026 21:48:44 +0000"
+  },
+  {
+    "url": "https://openai.com/index/zapier",
+    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+    "description": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-11T00:03:34.776Z",
+    "published": "Mon, 10 Aug 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-11T00:07:12.573Z"
+  },
+  {
+    "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+    "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+    "description": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-11T00:03:34.776Z",
+    "published": "Mon, 10 Aug 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-11T00:07:12.573Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+    "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+    "description": "San Francisco's housing market is in trouble again.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-11T00:03:38.061Z",
+    "published": "Tue, 11 Aug 2026 00:03:18 +0000",
+    "processed": true,
+    "processedAt": "2026-08-11T00:07:12.573Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+    "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+    "description": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-11T00:03:38.061Z",
+    "published": "Mon, 10 Aug 2026 23:56:15 +0000",
+    "processed": true,
+    "processedAt": "2026-08-11T00:07:12.573Z"
   }
 ]
