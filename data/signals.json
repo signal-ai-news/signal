@@ -1513,7 +1513,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T09:51:19.957Z",
-    "published": "Wed, 22 Jul 2026 08:27:12 +0000"
+    "published": "Wed, 22 Jul 2026 08:27:12 +0000",
+    "processed": true,
+    "processedAt": "2026-08-11T08:35:48.458Z"
   },
   {
     "url": "https://www.reuters.com/technology/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-2026-07-21/",
@@ -1522,7 +1524,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T09:51:19.957Z",
-    "published": "Wed, 22 Jul 2026 08:25:58 +0000"
+    "published": "Wed, 22 Jul 2026 08:25:58 +0000",
+    "processed": true,
+    "processedAt": "2026-08-11T08:35:48.458Z"
   },
   {
     "url": "https://silknova-ai.com/",
@@ -1531,7 +1535,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T09:51:19.957Z",
-    "published": "Wed, 22 Jul 2026 08:18:19 +0000"
+    "published": "Wed, 22 Jul 2026 08:18:19 +0000",
+    "processed": true,
+    "processedAt": "2026-08-11T08:35:48.458Z"
   },
   {
     "url": "https://www.marble.onl/posts/copyright_vs_ai.html",
@@ -1540,7 +1546,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T09:51:19.957Z",
-    "published": "Wed, 22 Jul 2026 08:12:16 +0000"
+    "published": "Wed, 22 Jul 2026 08:12:16 +0000",
+    "processed": true,
+    "processedAt": "2026-08-11T08:35:48.458Z"
   },
   {
     "url": "https://www.melaya.org",
@@ -1549,7 +1557,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T09:51:19.957Z",
-    "published": "Wed, 22 Jul 2026 07:57:30 +0000"
+    "published": "Wed, 22 Jul 2026 07:57:30 +0000",
+    "processed": true,
+    "processedAt": "2026-08-11T08:35:48.458Z"
   },
   {
     "url": "https://the-decoder.com/openai-claims-responsibility-for-the-hugging-face-hack-after-its-own-models-escaped-a-test-sandbox/",
