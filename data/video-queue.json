@@ -2921,9 +2921,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-02T07:54:54.692Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-11T20:12:26.452Z"
   },
   {
     "slug": "ai-security-flaws-exploited",
@@ -2943,9 +2944,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-02T15:47:58.987Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-11T20:12:37.412Z"
   },
   {
     "slug": "ai-agents-outsmarting-us",
@@ -5826,6 +5828,50 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-11T15:30:54.740Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "openai-coo-exit-what-it-means",
+    "title": "3 Reasons OpenAI's COO Exit Matters",
+    "summary": "You need to know how Brad Lightcap's departure will impact the future of AI",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/openai-coo-exit-what-it-means.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/openai-coo-exit-what-it-means.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 397,
+    "tags": [
+      "OpenAI",
+      "AI News",
+      "Brad Lightcap",
+      "Tech Industry",
+      "Artificial Intelligence"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-11T20:12:10.737Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "river-ai-1-1b-funding",
+    "title": "1.1B in 2 Months",
+    "summary": "River AI just raised $1.1 billion in funding, but what does it mean for the future of AI?",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/river-ai-1-1b-funding.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/river-ai-1-1b-funding.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 353,
+    "tags": [
+      "River AI",
+      "AI Funding",
+      "General Catalyst",
+      "Igor Babuschkin",
+      "AI News"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-11T20:12:10.737Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
