@@ -2829,9 +2829,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-01T15:42:32.801Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-11T08:41:20.281Z"
   },
   {
     "slug": "ai-agentic-radio-for-vibe-coders",
@@ -2851,9 +2852,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-01T20:36:48.661Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-11T08:41:30.541Z"
   },
   {
     "slug": "ai-brendans-2025",
@@ -5646,6 +5648,94 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-11T04:51:07.216Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "folding-prion-protein-with-ai",
+    "title": "3 Breakthroughs in Prion Protein Folding",
+    "summary": "AI achieves a major milestone in understanding prion diseases, and you need to know how it works",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/folding-prion-protein-with-ai.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/folding-prion-protein-with-ai.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 564,
+    "tags": [
+      "AI",
+      "Prion Protein",
+      "Folding",
+      "Breakthrough",
+      "Community"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-11T08:41:07.918Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "codeberg-llm-policy-explained",
+    "title": "3 Essential Facts: Codeberg's LLM Policy",
+    "summary": "You need to know how Codeberg's new policy will impact your projects",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/codeberg-llm-policy-explained.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/codeberg-llm-policy-explained.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 402,
+    "tags": [
+      "Codeberg",
+      "LLM",
+      "AI",
+      "Community",
+      "Policy"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-11T08:41:07.918Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-regulations-update",
+    "title": "3 AI Rules You Need to Know",
+    "summary": "New IP regulations for AI distillation are changing the game - here's what you need to know",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-regulations-update.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-regulations-update.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 404,
+    "tags": [
+      "AI",
+      "Regulations",
+      "IP Law",
+      "AI Distillation",
+      "Copyright"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-11T08:41:07.918Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "melaya-ai-breakthrough",
+    "title": "3 Reasons Melaya AI Breaks Mold",
+    "summary": "Discover how Melaya gives AI a governed Android phone, changing the AI game forever",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/melaya-ai-breakthrough.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/melaya-ai-breakthrough.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 492,
+    "tags": [
+      "Melaya",
+      "AI",
+      "Android",
+      "Agent Builder",
+      "AI Tool"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-11T08:41:07.918Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
