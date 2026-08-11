@@ -19341,5 +19341,114 @@
     "category": "news",
     "discovered": "2026-08-11T14:48:00.083Z",
     "published": "Tue, 11 Aug 2026 11:58:34 +0000"
+  },
+  {
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "title": "Testing ads in ChatGPT",
+    "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-11T18:08:09.283Z",
+    "published": "Tue, 11 Aug 2026 10:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-11T18:11:57.788Z"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+    "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+    "description": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-08-11T18:08:11.636Z",
+    "published": "Tue, 11 Aug 2026 17:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-11T18:11:57.788Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+    "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+    "description": "One of OpenAI's longest serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-11T18:08:13.420Z",
+    "published": "Tue, 11 Aug 2026 17:41:34 +0000",
+    "processed": true,
+    "processedAt": "2026-08-11T18:11:57.788Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+    "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+    "description": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-11T18:08:13.420Z",
+    "published": "Tue, 11 Aug 2026 17:41:22 +0000",
+    "processed": true,
+    "processedAt": "2026-08-11T18:11:57.788Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+    "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+    "description": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the company's models made more progress than you might expect.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-11T18:08:13.420Z",
+    "published": "Tue, 11 Aug 2026 16:25:20 +0000",
+    "processed": true,
+    "processedAt": "2026-08-11T18:11:57.788Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/should-ai-developers-make-the-switch-from-polars-to-pandas/",
+    "title": "Should AI Developers Make the Switch from Polars to Pandas?",
+    "description": "Not all Python data libraries are created equal! \nThe post Should AI Developers Make the Switch from Polars to Pandas? appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-11T18:08:31.312Z",
+    "published": "Tue, 11 Aug 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-lets-employees-cash-out-another-7-billion-in-stock/",
+    "title": "OpenAI lets employees cash out another $7 billion in stock",
+    "description": "OpenAI wrapped up a $7 billion stock buyback, letting current and former employees sell shares at the company's $852 billion valuation. The move is meant to ease pressure on employees waiting for liquidity ahead of a potential IPO. OpenAI ran a similar $6.6 billion sale in October 2025.\nThe",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-11T18:08:33.304Z",
+    "published": "Tue, 11 Aug 2026 18:01:22 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning/",
+    "title": "\"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning",
+    "description": "Security researchers found a vulnerability in the APIs of OpenAI, Anthropic, and Google that lets them extract encrypted reasoning traces and move them between models. A scan of public sessions turned up dozens of passwords and API keys. The traces also show that the reasoning summaries use",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-11T18:08:33.304Z",
+    "published": "Tue, 11 Aug 2026 17:38:49 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/nvidias-open-weight-nemotron-3-5-lightning-prioritizes-speed-over-maximum-intelligence/",
+    "title": "Nvidia's open-weight Nemotron 3.5 Lightning prioritizes speed over maximum intelligence",
+    "description": "Nvidia's Nemotron 3.5 Lightning is an open-weights model with just 3.6 billion active parameters that matches OpenAI's gpt-oss-120b on the Intelligence Index despite being four times smaller. At nearly 670 tokens per second, it's also the fastest model in the comparison, showing Nvidia is b",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-11T18:08:33.304Z",
+    "published": "Tue, 11 Aug 2026 15:07:44 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/microsoft-word-1-1a-windows/",
+    "title": "A developer got Word 1.1a from 1990 to run on Windows 11 - try it yourself",
+    "description": "Longing for a plain, old-fashioned version of Microsoft Word without all the bells, whistles, and AI slop? One developer managed to coax Word 1.1a to run on today's Windows.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-11T18:08:47.861Z",
+    "published": "Tue, 11 Aug 2026 16:55:09 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2234632/supermassive-games-will-lay-off-up-to-75-employees/",
+    "title": "Supermassive Games will lay off up to 75 workers",
+    "description": "The maker of Until Dawn and Directive 8020 says it&#39;s cutting jobs to ensure it remains sustainable.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-11T18:08:48.451Z",
+    "published": "Tue, 11 Aug 2026 16:02:33 +0000"
   }
 ]
