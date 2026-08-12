@@ -20340,5 +20340,413 @@
     "category": "news",
     "discovered": "2026-08-12T16:13:34.416Z",
     "published": "Wed, 12 Aug 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-08-12T20:03:02.836Z",
+    "published": "Wed, 12 Aug 2026 16:14:36 GMT",
+    "processed": true,
+    "processedAt": "2026-08-12T20:06:43.104Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+    "description": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-12T20:03:04.029Z",
+    "published": "Wed, 12 Aug 2026 18:19:12 +0000",
+    "processed": true,
+    "processedAt": "2026-08-12T20:06:43.104Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+    "description": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advances in Asia.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-12T20:03:04.029Z",
+    "published": "Wed, 12 Aug 2026 17:51:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-12T20:06:43.104Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+    "description": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-12T20:03:04.029Z",
+    "published": "Wed, 12 Aug 2026 17:41:29 +0000",
+    "processed": true,
+    "processedAt": "2026-08-12T20:06:43.104Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+    "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
+    "description": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-12T20:03:04.029Z",
+    "published": "Wed, 12 Aug 2026 16:57:58 +0000",
+    "processed": true,
+    "processedAt": "2026-08-12T20:06:43.104Z"
+  },
+  {
+    "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+    "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+    "description": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings espe",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-12T20:03:04.029Z",
+    "published": "Wed, 12 Aug 2026 16:46:02 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
+    "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
+    "description": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings espe",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-12T20:03:04.029Z",
+    "published": "Wed, 12 Aug 2026 14:22:00 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
+    "title": "Scientists just created female clones of male mice",
+    "description": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice.&#160; “No one has done this before,” says Monika Ward, a reproductive biologist",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-12T20:03:05.340Z",
+    "published": "Wed, 12 Aug 2026 18:59:48 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+    "title": "Scaling AI agents with trustworthy data",
+    "description": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges o",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-12T20:03:05.340Z",
+    "published": "Wed, 12 Aug 2026 16:51:57 +0000"
+  },
+  {
+    "url": "https://lateos.ai/ling-3.0-tiny-research/",
+    "title": "Full red-teaming test ling 3.0 tiny AI. 123-class battery (391 completed records",
+    "description": "Article URL: https://lateos.ai/ling-3.0-tiny-research/\nComments URL: https://news.ycombinator.com/item?id=49277759\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T20:03:12.123Z",
+    "published": "Wed, 12 Aug 2026 19:57:56 +0000"
+  },
+  {
+    "url": "https://github.com/lilcipherx/drift",
+    "title": "Drift – Intent-driven versioning for AI coding agents",
+    "description": "Article URL: https://github.com/lilcipherx/drift\nComments URL: https://news.ycombinator.com/item?id=49277475\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T20:03:12.123Z",
+    "published": "Wed, 12 Aug 2026 19:32:41 +0000"
+  },
+  {
+    "url": "https://deepcortex.com/get-started-1",
+    "title": "Show HN: NuFlow, visual, AI powered, low code, dev and deploy platform",
+    "description": "Article URL: https://deepcortex.com/get-started-1\nComments URL: https://news.ycombinator.com/item?id=49277465\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T20:03:12.123Z",
+    "published": "Wed, 12 Aug 2026 19:31:52 +0000"
+  },
+  {
+    "url": "https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is",
+    "title": "AI agents aren't legally responsible for harm they cause. So who is?",
+    "description": "Article URL: https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is\nComments URL: https://news.ycombinator.com/item?id=49277401\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T20:03:12.123Z",
+    "published": "Wed, 12 Aug 2026 19:27:08 +0000"
+  },
+  {
+    "url": "https://tooldirectory.ai/research/ai-tool-mortality",
+    "title": "How many AI tools die?",
+    "description": "Article URL: https://tooldirectory.ai/research/ai-tool-mortality\nComments URL: https://news.ycombinator.com/item?id=49277341\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T20:03:12.123Z",
+    "published": "Wed, 12 Aug 2026 19:22:24 +0000"
+  },
+  {
+    "url": "https://hollyafrench.com/2026/08/12/Seven-Reasons-Engineers-Hate-Their-Managers",
+    "title": "Reasons Engineers Hate Their Managers in the Age of AI",
+    "description": "Article URL: https://hollyafrench.com/2026/08/12/Seven-Reasons-Engineers-Hate-Their-Managers\nComments URL: https://news.ycombinator.com/item?id=49277312\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T20:03:12.123Z",
+    "published": "Wed, 12 Aug 2026 19:19:54 +0000"
+  },
+  {
+    "url": "https://callforge.dev/",
+    "title": "Show HN: Tired of rebuilding Twilio+LLM+billing for every voice-agent client",
+    "description": "Article URL: https://callforge.dev/\nComments URL: https://news.ycombinator.com/item?id=49277211\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T20:03:12.123Z",
+    "published": "Wed, 12 Aug 2026 19:12:13 +0000"
+  },
+  {
+    "url": "https://smunshi.net/posts/ai-theses.html",
+    "title": "Theses on AI",
+    "description": "Article URL: https://smunshi.net/posts/ai-theses.html\nComments URL: https://news.ycombinator.com/item?id=49277183\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T20:03:12.123Z",
+    "published": "Wed, 12 Aug 2026 19:09:54 +0000"
+  },
+  {
+    "url": "https://twitter.com/lifeofjer/status/2087608101293916466",
+    "title": "We started tracking which AI model wrote every line, and you should too",
+    "description": "Article URL: https://twitter.com/lifeofjer/status/2087608101293916466\nComments URL: https://news.ycombinator.com/item?id=49277116\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T20:03:12.123Z",
+    "published": "Wed, 12 Aug 2026 19:05:17 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=8GWPjTDPVIM",
+    "title": "Zitron on CNBC talking Nvidia, unprofitable AI labs, and the Greater AI Bubble [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=8GWPjTDPVIM\nComments URL: https://news.ycombinator.com/item?id=49276945\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T20:03:12.123Z",
+    "published": "Wed, 12 Aug 2026 18:52:27 +0000"
+  },
+  {
+    "url": "https://johnjwang.com/post/2026/08/12/how-claude-watermarking-probably-works/",
+    "title": "How Claude's watermarking (probably) works",
+    "description": "Article URL: https://johnjwang.com/post/2026/08/12/how-claude-watermarking-probably-works/\nComments URL: https://news.ycombinator.com/item?id=49276728\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T20:03:12.123Z",
+    "published": "Wed, 12 Aug 2026 18:32:23 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+    "title": "AI coding startup Cognition in talks to raise at $40B valuation",
+    "description": "Article URL: https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/\nComments URL: https://news.ycombinator.com/item?id=49276706\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T20:03:12.123Z",
+    "published": "Wed, 12 Aug 2026 18:30:41 +0000",
+    "processed": true,
+    "processedAt": "2026-08-12T20:06:43.104Z"
+  },
+  {
+    "url": "https://text.npr.org/nx-s1-5853571",
+    "title": "Adults have struggled to set rules for AI in school. These teens figured it out",
+    "description": "Article URL: https://text.npr.org/nx-s1-5853571\nComments URL: https://news.ycombinator.com/item?id=49276587\nPoints: 7\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T20:03:12.123Z",
+    "published": "Wed, 12 Aug 2026 18:21:09 +0000"
+  },
+  {
+    "url": "https://brettcodes.com/im-done-using-ai/",
+    "title": "I'm Done Using AI",
+    "description": "Article URL: https://brettcodes.com/im-done-using-ai/\nComments URL: https://news.ycombinator.com/item?id=49276573\nPoints: 4\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T20:03:12.123Z",
+    "published": "Wed, 12 Aug 2026 18:19:51 +0000"
+  },
+  {
+    "url": "https://www.scmp.com/tech/big-tech/article/3363491/chinas-top-ai-still-trained-nvidia-chips-what-delaying-switch-local-tech",
+    "title": "China's top AI continues using Nvidia amid high costs of local chip transition",
+    "description": "Article URL: https://www.scmp.com/tech/big-tech/article/3363491/chinas-top-ai-still-trained-nvidia-chips-what-delaying-switch-local-tech\nComments URL: https://news.ycombinator.com/item?id=49276563\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T20:03:12.123Z",
+    "published": "Wed, 12 Aug 2026 18:19:18 +0000"
+  },
+  {
+    "url": "https://www.404media.co/twitch-training-amazon-ai-models-how-to-opt-out-setting/",
+    "title": "Twitch Is Mining Peoples' Streams to Train Amazon's AI",
+    "description": "Article URL: https://www.404media.co/twitch-training-amazon-ai-models-how-to-opt-out-setting/\nComments URL: https://news.ycombinator.com/item?id=49276344\nPoints: 12\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T20:03:12.123Z",
+    "published": "Wed, 12 Aug 2026 18:02:18 +0000"
+  },
+  {
+    "url": "https://sequoiacap.com/article/partnering-with-preview-lights-inference-action/",
+    "title": "Preview, a production platform for AI video, raises $12M seed led by Sequoia",
+    "description": "Article URL: https://sequoiacap.com/article/partnering-with-preview-lights-inference-action/\nComments URL: https://news.ycombinator.com/item?id=49276268\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T20:03:12.123Z",
+    "published": "Wed, 12 Aug 2026 17:56:30 +0000"
+  },
+  {
+    "url": "https://github.com/sjjian/openhare",
+    "title": "Openhare: AI-powered desktop SQL client. Cross-platform. Built with Flutter",
+    "description": "Article URL: https://github.com/sjjian/openhare\nComments URL: https://news.ycombinator.com/item?id=49276189\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T20:03:12.123Z",
+    "published": "Wed, 12 Aug 2026 17:51:55 +0000"
+  },
+  {
+    "url": "https://thequietus.com/news/spotify-to-begin-labelling-ai-generated-artist-profiles/",
+    "title": "Spotify to Begin Labelling AI-Generated Artist Profiles",
+    "description": "Article URL: https://thequietus.com/news/spotify-to-begin-labelling-ai-generated-artist-profiles/\nComments URL: https://news.ycombinator.com/item?id=49276182\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T20:03:12.123Z",
+    "published": "Wed, 12 Aug 2026 17:51:24 +0000"
+  },
+  {
+    "url": "https://dreamgroup.com/blog/inside-a-multi-agent-ai-framework-used-to-compromise-government-entities-in-asia",
+    "title": "A Multi-Agent AI Framework Used to Compromise Government Entities in Asia",
+    "description": "Article URL: https://dreamgroup.com/blog/inside-a-multi-agent-ai-framework-used-to-compromise-government-entities-in-asia\nComments URL: https://news.ycombinator.com/item?id=49276153\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T20:03:12.123Z",
+    "published": "Wed, 12 Aug 2026 17:48:47 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/before-full-agentic-rag-know-how-you-decide-and-the-parsing-methods-you-pick-from/",
+    "title": "Before Full Agentic RAG: Know How You Decide, and the Parsing Methods You Pick From",
+    "description": "Enterprise Document Intelligence [Vol.1 #5nonies] - Nature, plan, execute, synthesize: closing brick 1 with a dispatcher that reads each PDF’s nature and picks the method that fits, fitz, Docling, PaddleOCR, EasyOCR, MinerU or Surya, then folds the outputs into one corpus\nThe post Before Full Agenti",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-12T20:03:18.015Z",
+    "published": "Wed, 12 Aug 2026 16:30:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/spacexais-grok-4-6-matches-openais-best-model-and-undercuts-it-on-price/",
+    "title": "SpaceXAI's Grok 4.6 matches OpenAI's best model and undercuts it on price",
+    "description": "xAI's Grok 4.6 scores 61 points on the Artificial Analysis Intelligence Index, tying GPT-5.6 Sol and trailing only Anthropic's Claude Opus 5. On agentic tasks, it completes complex workflows in about 53 steps where Claude Opus 5 needs 103, at a price more than 60 percent lower.\nThe article",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-12T20:03:20.026Z",
+    "published": "Wed, 12 Aug 2026 18:33:21 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/researchers-can-now-reverse-engineer-llm-prompts-from-output-text-with-near-perfect-accuracy/",
+    "title": "Researchers can now reverse-engineer LLM prompts from output text with near-perfect accuracy",
+    "description": "Researchers at IIT Bombay and Adobe Research have built an inverse language model that reconstructs the original prompt from an LLM's output with near-perfect accuracy. Their method, called \"Previous-Token Prediction,\" doesn't need access to model weights and works across different models.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-12T20:03:20.026Z",
+    "published": "Wed, 12 Aug 2026 17:32:59 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/ai-tools-for-breast-cancer-detection-fall-short-of-radiologists-expectations/",
+    "title": "AI tools for breast cancer detection fall short of radiologists' expectations",
+    "description": "About half of 215 surveyed members of the Society of Breast Imaging already use FDA-approved AI tools for breast cancer detection, but the results fall short of expectations. Only 35 percent report lower recall rates, while 59 percent had expected them. The gap between promise and reality r",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-12T20:03:20.026Z",
+    "published": "Wed, 12 Aug 2026 16:24:32 +0000"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/",
+    "title": "Write your first prompt with the GitHub Copilot app",
+    "description": "Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence.\nThe post Write your first prompt with the GitHub Copilot app appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-08-12T20:03:26.019Z",
+    "published": "Wed, 12 Aug 2026 19:00:00 +0000"
+  },
+  {
+    "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project/",
+    "title": "Your contributors are AI-first now. Is your project?",
+    "description": "AI contributors are already in your queue. AutoGPT maintainer Nicholas Tindle shares the repo instructions, gates, and boundaries that keep maintainers in control.\nThe post Your contributors are AI-first now. Is your project? appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-08-12T20:03:26.019Z",
+    "published": "Wed, 12 Aug 2026 18:00:08 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
+    "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
+    "description": "AI agents that break free and hack into other systems are only trying to make us happy.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-12T20:03:27.257Z",
+    "published": "Wed, 12 Aug 2026 18:45:00 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/google-pixel-11-first-look/",
+    "title": "Google's new Pixel 11 makes a strong case for skipping the Pro models - here's why",
+    "description": "Although the design is largely unchanged, the Pixel 11 packs meaningful upgrades, including the Tensor G6 chip and improved cameras.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-12T20:03:35.017Z",
+    "published": "Wed, 12 Aug 2026 14:00:00 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2235769/flightaware-dropped-its-lawsuit-against-kalshi-after-just-one-day/",
+    "title": "FlightAware dropped its lawsuit against Kalshi after just one day",
+    "description": "FlightAware&#39;s case against Kalshi has been voluntarily dismissed &#34;without prejudice against all defendants.&#34;",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-12T20:03:35.630Z",
+    "published": "Wed, 12 Aug 2026 19:33:29 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2235726/pixel-buds-pro-2-and-2a-are-getting-some-upgrades-including-deeper-gemini-integration/",
+    "title": "Pixel Buds Pro 2 and 2a are getting some upgrades, including deeper Gemini integration",
+    "description": "Google didn&#39;t have any new headphones this year, but some new features are coming to the Pixel Buds.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-12T20:03:35.630Z",
+    "published": "Wed, 12 Aug 2026 18:52:33 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2234173/chatgpt-free-features-2026/",
+    "title": "ChatGPT: What's free in 2026 and what isn't?",
+    "description": "As of August 2026, you can send unlimited texts to ChatGPT.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-12T20:03:35.630Z",
+    "published": "Wed, 12 Aug 2026 18:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2235647/twitch-streamers-can-now-refuse-to-let-amazon-train-its-gen-ai-models-on-their-content/",
+    "title": "Twitch streamers can now refuse to let Amazon train its genAI models on their content",
+    "description": "There's now an opt-out toggle for something that should have been opt-in to begin with.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-12T20:03:35.630Z",
+    "published": "Wed, 12 Aug 2026 17:46:29 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2235640/honor-launches-its-long-awaited-robot-phone-and-yes-it-can-wiggle-at-you/",
+    "title": "Honor launches its long-awaited Robot Phone and yes it can wiggle at you",
+    "description": "The big news with Honor&#39;s latest is the automated pop-up camera gimbal.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-12T20:03:35.630Z",
+    "published": "Wed, 12 Aug 2026 17:42:53 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2235525/why-excited-about-smartphone-colors-in-2026/",
+    "title": "I'm more excited about smartphone colors than any actual new features in 2026",
+    "description": "Forget AI, we are most looking forward to fun new colors this coming hardware season.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-12T20:03:35.630Z",
+    "published": "Wed, 12 Aug 2026 17:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2231585/hdmi-splitter-vs-switch-how-different/",
+    "title": "HDMI splitter vs. HDMI switch: How are they different?",
+    "description": "If you&#39;ve got a jumble of HDMI cables behind your entertainment center, one of these devices might help.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-12T20:03:35.630Z",
+    "published": "Wed, 12 Aug 2026 16:30:00 +0000"
   }
 ]
