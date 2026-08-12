@@ -3013,9 +3013,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-02T20:39:29.277Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-12T15:30:45.843Z"
   },
   {
     "slug": "ai-memory-breakthroughs",
@@ -3035,9 +3036,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-02T20:39:29.277Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-12T15:30:57.996Z"
   },
   {
     "slug": "mozilla-state-of-open-source-ai-report",
@@ -5984,6 +5986,160 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-12T05:20:18.259Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "making-llm-extraction-trustworthy",
+    "title": "3 Ways to Trust AI",
+    "summary": "Don't miss the essential breakthrough in AI extraction you need to know",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/making-llm-extraction-trustworthy.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/making-llm-extraction-trustworthy.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 459,
+    "tags": [
+      "AI",
+      "LLM",
+      "Extraction",
+      "Trust",
+      "Breakthrough"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-12T15:30:31.435Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-crash-dump-tools-traccia",
+    "title": "3 Essential AI Crash Dump Tools",
+    "summary": "Discover the ultimate AI crash dump tool to boost your agent's performance",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-crash-dump-tools-traccia.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-crash-dump-tools-traccia.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 356,
+    "tags": [
+      "AI",
+      "Traccia",
+      "crash dump",
+      "machine learning",
+      "AI agents"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-12T15:30:31.435Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "online-trends-are-wrong",
+    "title": "3 Reasons Online Trends Are Wrong",
+    "summary": "Cyber-ethnographer Ruby J. Thelot reveals the truth behind viral trends",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/online-trends-are-wrong.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/online-trends-are-wrong.html",
+    "sourceName": "Wired AI",
+    "wordCount": 515,
+    "tags": [
+      "online trends",
+      "viral trends",
+      "cyber-ethnography",
+      "Ruby J. Thelot",
+      "WIRED AI"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-12T15:30:31.435Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "pixel-11-discount-codes",
+    "title": "3 Reasons to Check Gmail",
+    "summary": "Google is sending out exclusive discount codes for the Pixel 11 - here's how to get yours",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/pixel-11-discount-codes.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/pixel-11-discount-codes.html",
+    "sourceName": "Engadget AI",
+    "wordCount": 464,
+    "tags": [
+      "Pixel 11",
+      "Google",
+      "Discount Codes",
+      "Gmail",
+      "Smartphones"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-12T15:30:31.435Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-code-testing-breakthrough",
+    "title": "10x Growth: AI Code Testing",
+    "summary": "Blacksmith's valuation skyrockets nearly 10x in under a year, here's what you need to know",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-code-testing-breakthrough.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-code-testing-breakthrough.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 579,
+    "tags": [
+      "AI",
+      "code testing",
+      "Blacksmith",
+      "startup",
+      "tech news"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-12T15:30:31.435Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-reporters-breaking-big-news",
+    "title": "3 AI Reporters Breaking News",
+    "summary": "AI newsrooms are now breaking major stories, and it's a breakthrough for journalism",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-reporters-breaking-big-news.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-reporters-breaking-big-news.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 466,
+    "tags": [
+      "AI",
+      "Journalism",
+      "News",
+      "Technology",
+      "Media"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-12T15:30:31.435Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-jobs-2026",
+    "title": "3 Reasons AI Isn't Killing Jobs",
+    "summary": "The AI job apocalypse hasn't arrived, but what's really going on?",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-jobs-2026.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-jobs-2026.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 517,
+    "tags": [
+      "AI",
+      "Jobs",
+      "Technology",
+      "Future of Work",
+      "Innovation"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-12T15:30:31.435Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
