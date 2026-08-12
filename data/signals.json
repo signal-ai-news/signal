@@ -1645,7 +1645,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T12:54:23.949Z",
-    "published": "Wed, 22 Jul 2026 12:49:37 +0000"
+    "published": "Wed, 22 Jul 2026 12:49:37 +0000",
+    "processed": true,
+    "processedAt": "2026-08-12T05:22:39.783Z"
   },
   {
     "url": "https://www.whitehouse.gov/releases/2026/07/45502/",
@@ -1654,7 +1656,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T12:54:23.949Z",
-    "published": "Wed, 22 Jul 2026 12:47:10 +0000"
+    "published": "Wed, 22 Jul 2026 12:47:10 +0000",
+    "processed": true,
+    "processedAt": "2026-08-12T05:22:39.783Z"
   },
   {
     "url": "https://github.com/Relo-video/SynthCut",
@@ -1663,7 +1667,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T12:54:23.949Z",
-    "published": "Wed, 22 Jul 2026 12:45:05 +0000"
+    "published": "Wed, 22 Jul 2026 12:45:05 +0000",
+    "processed": true,
+    "processedAt": "2026-08-12T05:22:39.783Z"
   },
   {
     "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-considers-replacing-chatgpt-claude-100000468.html",
@@ -1672,7 +1678,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T12:54:23.949Z",
-    "published": "Wed, 22 Jul 2026 12:41:15 +0000"
+    "published": "Wed, 22 Jul 2026 12:41:15 +0000",
+    "processed": true,
+    "processedAt": "2026-08-12T05:22:39.783Z"
   },
   {
     "url": "https://github.com/d87skg/traccia",
@@ -1681,7 +1689,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T12:54:23.949Z",
-    "published": "Wed, 22 Jul 2026 12:35:42 +0000"
+    "published": "Wed, 22 Jul 2026 12:35:42 +0000",
+    "processed": true,
+    "processedAt": "2026-08-12T05:22:39.783Z"
   },
   {
     "url": "https://probably.co.uk/posts/claude-pro-kagi-assistant-charm-hyper/",
