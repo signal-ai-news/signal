@@ -20748,5 +20748,258 @@
     "category": "news",
     "discovered": "2026-08-12T20:03:35.630Z",
     "published": "Wed, 12 Aug 2026 16:30:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/ringcentral",
+    "title": "How RingCentral builds AI-native work from engineering to ops",
+    "description": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-12T22:24:33.413Z",
+    "published": "Wed, 12 Aug 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-12T22:28:12.007Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+    "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+    "description": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-12T22:24:36.582Z",
+    "published": "Wed, 12 Aug 2026 20:10:40 +0000",
+    "processed": true,
+    "processedAt": "2026-08-12T22:28:12.007Z"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+    "title": "Terabytes of credentials leaked in massive supply-chain attack",
+    "description": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-08-12T22:24:37.128Z",
+    "published": "Wed, 12 Aug 2026 21:43:21 +0000",
+    "processed": true,
+    "processedAt": "2026-08-12T22:28:12.007Z"
+  },
+  {
+    "url": "https://awaitinginput.substack.com/p/gpt-loves-gambling-and-bumping-butts",
+    "title": "GPT Loves Chinese Gambling",
+    "description": "Article URL: https://awaitinginput.substack.com/p/gpt-loves-gambling-and-bumping-butts\nComments URL: https://news.ycombinator.com/item?id=49279393\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T22:24:43.367Z",
+    "published": "Wed, 12 Aug 2026 22:22:33 +0000",
+    "processed": true,
+    "processedAt": "2026-08-12T22:28:12.007Z"
+  },
+  {
+    "url": "https://neurometric.substack.com/p/gemma-4b-vs-gemini-flash-you-dont",
+    "title": "Gemma 4B vs. Gemini Flash on Tool Calling",
+    "description": "Article URL: https://neurometric.substack.com/p/gemma-4b-vs-gemini-flash-you-dont\nComments URL: https://news.ycombinator.com/item?id=49279379\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T22:24:43.367Z",
+    "published": "Wed, 12 Aug 2026 22:20:41 +0000",
+    "processed": true,
+    "processedAt": "2026-08-12T22:28:12.007Z"
+  },
+  {
+    "url": "https://mcclowes.com/blog/2026/05/29/ai-is-just-another-layer",
+    "title": "AI is the next layer of software development",
+    "description": "Article URL: https://mcclowes.com/blog/2026/05/29/ai-is-just-another-layer\nComments URL: https://news.ycombinator.com/item?id=49279230\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T22:24:43.367Z",
+    "published": "Wed, 12 Aug 2026 22:04:09 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=SH00Rso79Gg",
+    "title": "IBM Let Me Inside the Machine Nobody's Watching in the AI Race [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=SH00Rso79Gg\nComments URL: https://news.ycombinator.com/item?id=49279081\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T22:24:43.367Z",
+    "published": "Wed, 12 Aug 2026 21:51:37 +0000"
+  },
+  {
+    "url": "https://github.com/nilbuild/developer-roadmap/issues/10226",
+    "title": "AI Course for Golang incorrectly generates content about the Go board game",
+    "description": "Article URL: https://github.com/nilbuild/developer-roadmap/issues/10226\nComments URL: https://news.ycombinator.com/item?id=49278936\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T22:24:43.367Z",
+    "published": "Wed, 12 Aug 2026 21:38:34 +0000"
+  },
+  {
+    "url": "https://nomark.me/#text-watermark",
+    "title": "Show HN: Remove AI Watermark from Text",
+    "description": "Article URL: https://nomark.me/#text-watermark\nComments URL: https://news.ycombinator.com/item?id=49278933\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T22:24:43.367Z",
+    "published": "Wed, 12 Aug 2026 21:38:20 +0000"
+  },
+  {
+    "url": "https://github.com/janbalangue/async-bulkhead-llm",
+    "title": "Show HN: Keep batch LLM jobs from starving interactive traffic (TypeScript)",
+    "description": "Article URL: https://github.com/janbalangue/async-bulkhead-llm\nComments URL: https://news.ycombinator.com/item?id=49278841\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T22:24:43.367Z",
+    "published": "Wed, 12 Aug 2026 21:30:56 +0000"
+  },
+  {
+    "url": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/",
+    "title": "A simple fix for LLM tail latency",
+    "description": "Article URL: https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/\nComments URL: https://news.ycombinator.com/item?id=49278732\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T22:24:43.367Z",
+    "published": "Wed, 12 Aug 2026 21:22:03 +0000"
+  },
+  {
+    "url": "https://teambuildingschool.com",
+    "title": "Rubber Chicken AI",
+    "description": "Article URL: https://teambuildingschool.com\nComments URL: https://news.ycombinator.com/item?id=49278586\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T22:24:43.367Z",
+    "published": "Wed, 12 Aug 2026 21:08:36 +0000"
+  },
+  {
+    "url": "https://www.wsj.com/tech/ai/why-wall-street-and-nvidia-are-building-an-exotic-money-pipeline-for-the-ai-boom-346ba482",
+    "title": "Why Wall Street and Nvidia Are Building an Exotic Money Pipeline for the AI Boom",
+    "description": "Article URL: https://www.wsj.com/tech/ai/why-wall-street-and-nvidia-are-building-an-exotic-money-pipeline-for-the-ai-boom-346ba482\nComments URL: https://news.ycombinator.com/item?id=49278471\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T22:24:43.367Z",
+    "published": "Wed, 12 Aug 2026 20:59:26 +0000"
+  },
+  {
+    "url": "https://github.com/Ymirke/tmux-agent-switcher",
+    "title": "Show HN: Tmux-agent-switcher: see which Claude/Codex agents need your attention",
+    "description": "Since the start of this year I've coded pretty much exclusively by running multiple AI agents in parallel.Having tried a bunch of tools for managing them, I kept coming back to tmux. This is becaues I want to run them on a separate machine as I like being able to close my laptop, or even have long",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T22:24:43.367Z",
+    "published": "Wed, 12 Aug 2026 20:53:14 +0000"
+  },
+  {
+    "url": "https://github.com/MPIsaac-Per/linear-claude-bridge",
+    "title": "Show HN: A Linear agent that runs Claude Code sessions on your own machine",
+    "description": "I keep everything in a local Obsidian knowledge base and run Claude Code against it all day. I also live in Linear. I wanted to ask the knowledge base questions within the Linear ticket.So, I created a small bridge. Register a Linear OAuth app as an agent, mention it or delegate an issue, and it ru",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T22:24:43.367Z",
+    "published": "Wed, 12 Aug 2026 20:37:06 +0000"
+  },
+  {
+    "url": "https://talkshi.com/blog/reddit-or-ai",
+    "title": "Can you tell if a comment is AI?",
+    "description": "Article URL: https://talkshi.com/blog/reddit-or-ai\nComments URL: https://news.ycombinator.com/item?id=49278199\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T22:24:43.367Z",
+    "published": "Wed, 12 Aug 2026 20:36:46 +0000"
+  },
+  {
+    "url": "https://www.motherjones.com/politics/2026/08/artificial-intelligence-ai-claude-write-novel-anthropic-copyright-manuscript/",
+    "title": "I Asked AI to Write a Novel. It's Not So Bad",
+    "description": "Article URL: https://www.motherjones.com/politics/2026/08/artificial-intelligence-ai-claude-write-novel-anthropic-copyright-manuscript/\nComments URL: https://news.ycombinator.com/item?id=49278163\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T22:24:43.367Z",
+    "published": "Wed, 12 Aug 2026 20:33:12 +0000"
+  },
+  {
+    "url": "https://opensource.org/blog/the-ai-era-arcs-toward-openness",
+    "title": "The AI Era Arcs Toward Openness",
+    "description": "Article URL: https://opensource.org/blog/the-ai-era-arcs-toward-openness\nComments URL: https://news.ycombinator.com/item?id=49278092\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T22:24:43.367Z",
+    "published": "Wed, 12 Aug 2026 20:25:27 +0000"
+  },
+  {
+    "url": "https://rye.ai/blog/ai-agent-sandboxes-ebpf-runtime-visibility/",
+    "title": "AI Agent Sandboxes Stop Escapes. They Don't Tell You What Happened Inside",
+    "description": "Article URL: https://rye.ai/blog/ai-agent-sandboxes-ebpf-runtime-visibility/\nComments URL: https://news.ycombinator.com/item?id=49278090\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T22:24:43.367Z",
+    "published": "Wed, 12 Aug 2026 20:25:22 +0000"
+  },
+  {
+    "url": "https://claude.com/claude-in-chrome",
+    "title": "Claude for Chrome",
+    "description": "Article URL: https://claude.com/claude-in-chrome\nComments URL: https://news.ycombinator.com/item?id=49278068\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T22:24:43.367Z",
+    "published": "Wed, 12 Aug 2026 20:23:37 +0000"
+  },
+  {
+    "url": "https://www.ams.org/journals/notices/202607/noti3372/noti3372.html",
+    "title": "Mathematician Jacob Tsimerman on Getting to the Fun Faster with AI",
+    "description": "Article URL: https://www.ams.org/journals/notices/202607/noti3372/noti3372.html\nComments URL: https://news.ycombinator.com/item?id=49278045\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T22:24:43.367Z",
+    "published": "Wed, 12 Aug 2026 20:21:16 +0000"
+  },
+  {
+    "url": "https://github.com/jonaslejon/linux-security-audit-plugin/",
+    "title": "Linux Security Audit Claude Code Plugin",
+    "description": "Article URL: https://github.com/jonaslejon/linux-security-audit-plugin/\nComments URL: https://news.ycombinator.com/item?id=49278007\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T22:24:43.367Z",
+    "published": "Wed, 12 Aug 2026 20:18:42 +0000"
+  },
+  {
+    "url": "https://github.blog/news-insights/company-news/github-availability-report-july-2026/",
+    "title": "GitHub availability report: July 2026",
+    "description": "In July, we experienced eight incidents that resulted in degraded performance across GitHub services.\nThe post GitHub availability report: July 2026 appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-08-12T22:24:55.655Z",
+    "published": "Wed, 12 Aug 2026 22:17:32 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
+    "title": "The White House Is Going to Expand Its AI Policy",
+    "description": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-12T22:24:56.823Z",
+    "published": "Wed, 12 Aug 2026 21:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2235919/claude-cowork-can-now-run-in-a-chrome-sidebar/",
+    "title": "Claude Cowork can now run in a Chrome sidebar",
+    "description": "Take your conversations with the chatbot into the Anthropic browser extension.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-12T22:25:03.921Z",
+    "published": "Wed, 12 Aug 2026 22:19:29 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2235905/trump-is-being-sued-for-charging-for-faster-access-to-truth-social-posts/",
+    "title": "Trump is being sued for charging for faster access to Truth Social posts",
+    "description": "A new lawsuit claims the Truth API violates the First and Fifth Amendments.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-12T22:25:03.921Z",
+    "published": "Wed, 12 Aug 2026 22:02:38 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2235857/german-nonprofit-files-criminal-complaint-over-meta-smart-glasses-privacy/",
+    "title": "German nonprofit files criminal complaint over Meta smart glasses privacy",
+    "description": "Worrying about Google Glassholes almost feels quaint in comparison.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-12T22:25:03.921Z",
+    "published": "Wed, 12 Aug 2026 20:43:06 +0000"
   }
 ]
