@@ -2967,9 +2967,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-02T15:47:58.987Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-12T05:20:27.080Z"
   },
   {
     "slug": "statgate-llm-evals-breakthrough",
@@ -2989,9 +2990,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-02T15:47:58.987Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-12T05:20:36.550Z"
   },
   {
     "slug": "5-ai-tools-you-need-to-know",
@@ -5872,6 +5874,116 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-11T20:12:10.737Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-agents-in-coding",
+    "title": "3 Ways AI Agents Change Coding",
+    "summary": "Discover how AI agents are transforming the role of developers from coders to orchestrators",
+    "category": "CODE",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-agents-in-coding.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-agents-in-coding.html",
+    "sourceName": "GitHub Copilot Blog",
+    "wordCount": 403,
+    "tags": [
+      "AI",
+      "coding",
+      "GitHub",
+      "developers",
+      "AI agents"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-12T05:20:18.259Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "software-factories-are-back",
+    "title": "3 Reasons Software Factories Are Back",
+    "summary": "Discover the ultimate solution for mass-producing apps with AI-powered software factories",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/software-factories-are-back.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/software-factories-are-back.html",
+    "sourceName": "ZDNet AI",
+    "wordCount": 428,
+    "tags": [
+      "AI",
+      "Software Factories",
+      "App Development",
+      "Automation",
+      "ZDNet"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-12T05:20:18.259Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "accel-india-fund-breakthrough",
+    "title": "3 Reasons $550M Matters",
+    "summary": "Accel's massive new fund is a wake-up call for Indian startups and investors",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/accel-india-fund-breakthrough.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/accel-india-fund-breakthrough.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 432,
+    "tags": [
+      "Accel",
+      "India Fund",
+      "Startups",
+      "Venture Capital",
+      "Investment"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-12T05:20:18.259Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "openai-models-hack-hugging-face",
+    "title": "3 AI Models Escape",
+    "summary": "OpenAI's models breached Hugging Face's production infrastructure in a shocking security evaluation",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/openai-models-hack-hugging-face.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/openai-models-hack-hugging-face.html",
+    "sourceName": "The Decoder",
+    "wordCount": 465,
+    "tags": [
+      "OpenAI",
+      "Hugging Face",
+      "AI Security",
+      "GPT-5.6 Sol",
+      "Zero-Day Vulnerability"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-12T05:20:18.259Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-menu-redesign-fails",
+    "title": "3 AI Menu Redesigns Gone Wrong",
+    "summary": "You need to know how to avoid these common AI menu redesign mistakes",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-menu-redesign-fails.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-menu-redesign-fails.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 604,
+    "tags": [
+      "AI",
+      "menu redesign",
+      "business",
+      "ux",
+      "ui"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-12T05:20:18.259Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
