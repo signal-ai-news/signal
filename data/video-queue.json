@@ -3059,9 +3059,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-02T20:39:29.277Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-12T20:10:17.960Z"
   },
   {
     "slug": "youtube-ai-slop-prevention",
@@ -3081,9 +3082,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-02T20:39:29.277Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-12T20:10:28.244Z"
   },
   {
     "slug": "best-places-to-see-2026-solar-eclipse",
@@ -6140,6 +6142,117 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-12T15:30:31.435Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "lovable-13-3b-valuation",
+    "title": "3 Reasons $13.3B Lovable Matters",
+    "summary": "Lovable's massive new funding is a breakthrough you need to know about",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/lovable-13-3b-valuation.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/lovable-13-3b-valuation.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 403,
+    "tags": [
+      "Lovable",
+      "AI funding",
+      "startup news",
+      "TechCrunch",
+      "artificial intelligence"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-12T20:10:03.950Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "videoverse-acquisition-scandal",
+    "title": "3 Red Flags",
+    "summary": "Don't miss the shocking story of VideoVerse's $250 million collapse",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/videoverse-acquisition-scandal.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/videoverse-acquisition-scandal.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 468,
+    "tags": [
+      "VideoVerse",
+      "acquisition",
+      "scandal",
+      "fraud",
+      "investors"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-12T20:10:03.950Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "olmoearth-embeddings-studio-downstream-analysis",
+    "title": "3 Breakthroughs with OlmoEarth",
+    "summary": "Unlock custom embedding exports with OlmoEarth Studio for ultimate analysis",
+    "category": "ML",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/olmoearth-embeddings-studio-downstream-analysis.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/olmoearth-embeddings-studio-downstream-analysis.html",
+    "sourceName": "Hugging Face Blog",
+    "wordCount": 439,
+    "tags": [
+      "OlmoEarth",
+      "ml",
+      "Hugging Face",
+      "embeddings",
+      "downstream analysis"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-12T20:10:03.950Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-coding-startup-cognition-40b-valuation",
+    "title": "3X Growth: AI Coding Startup",
+    "summary": "Cognition is reportedly in talks to raise another mega round at a $40B valuation, just months after its last funding round",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-coding-startup-cognition-40b-valuation.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-coding-startup-cognition-40b-valuation.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 472,
+    "tags": [
+      "AI",
+      "coding",
+      "startup",
+      "funding",
+      "Cognition"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-12T20:10:03.950Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-pioneers-debate-regulation",
+    "title": "3 AI Pioneers Sound Alarm",
+    "summary": "Don't miss what three AI legends just said about the future of artificial intelligence",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-pioneers-debate-regulation.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-pioneers-debate-regulation.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 497,
+    "tags": [
+      "AI",
+      "Artificial Intelligence",
+      "Geoffrey Hinton",
+      "Fei-Fei Li",
+      "Andrew Ng",
+      "AI Safety"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-12T20:10:03.950Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
