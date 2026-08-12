@@ -19898,5 +19898,447 @@
     "category": "news",
     "discovered": "2026-08-12T12:35:59.244Z",
     "published": "Wed, 12 Aug 2026 10:00:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "title": "From assistance to execution: How enterprises put AI to work",
+    "description": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-12T16:13:00.274Z",
+    "published": "Wed, 12 Aug 2026 06:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-12T16:16:43.638Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+    "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+    "description": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-12T16:13:03.536Z",
+    "published": "Wed, 12 Aug 2026 16:04:27 +0000",
+    "processed": true,
+    "processedAt": "2026-08-12T16:16:43.638Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
+    "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+    "description": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-12T16:13:03.536Z",
+    "published": "Wed, 12 Aug 2026 15:44:56 +0000",
+    "processed": true,
+    "processedAt": "2026-08-12T16:16:43.638Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+    "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+    "description": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-12T16:13:03.536Z",
+    "published": "Wed, 12 Aug 2026 14:20:33 +0000",
+    "processed": true,
+    "processedAt": "2026-08-12T16:16:43.638Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=a00xIn5kwhM",
+    "title": "RL Environments Explained: How AI Agents Learn Real-World Work [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=a00xIn5kwhM\nComments URL: https://news.ycombinator.com/item?id=49274668\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T16:13:12.519Z",
+    "published": "Wed, 12 Aug 2026 16:10:14 +0000",
+    "processed": true,
+    "processedAt": "2026-08-12T16:16:43.638Z"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.10920",
+    "title": "IO Factory: Simulating AI-Enabled Influence Campaigns at Scale [pdf]",
+    "description": "Article URL: https://arxiv.org/abs/2608.10920\nComments URL: https://news.ycombinator.com/item?id=49274594\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T16:13:12.519Z",
+    "published": "Wed, 12 Aug 2026 16:04:35 +0000"
+  },
+  {
+    "url": "https://dreasays.substack.com/p/putting-claudes-watermarking-to-the",
+    "title": "Putting Claude's Watermarking to the Test",
+    "description": "Article URL: https://dreasays.substack.com/p/putting-claudes-watermarking-to-the\nComments URL: https://news.ycombinator.com/item?id=49274556\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T16:13:12.519Z",
+    "published": "Wed, 12 Aug 2026 16:02:23 +0000"
+  },
+  {
+    "url": "https://github.com/coachpato/archer-os",
+    "title": "Archer OS: draft spec for AI agents operating apps under OS authority",
+    "description": "Article URL: https://github.com/coachpato/archer-os\nComments URL: https://news.ycombinator.com/item?id=49274512\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T16:13:12.519Z",
+    "published": "Wed, 12 Aug 2026 15:59:25 +0000"
+  },
+  {
+    "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16371/request-for-information-rfi-on-modernizing-the-national-vulnerability-database-in-the-age-of",
+    "title": "NIST RFI for modernizing the NVD in the wake of AI",
+    "description": "Article URL: https://www.federalregister.gov/documents/2026/08/12/2026-16371/request-for-information-rfi-on-modernizing-the-national-vulnerability-database-in-the-age-of\nComments URL: https://news.ycombinator.com/item?id=49274498\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T16:13:12.519Z",
+    "published": "Wed, 12 Aug 2026 15:58:50 +0000"
+  },
+  {
+    "url": "https://dubir.net/tools/local-llm-hardware-calculator/",
+    "title": "Local LLM Hardware Calc",
+    "description": "Article URL: https://dubir.net/tools/local-llm-hardware-calculator/\nComments URL: https://news.ycombinator.com/item?id=49274480\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T16:13:12.519Z",
+    "published": "Wed, 12 Aug 2026 15:58:02 +0000"
+  },
+  {
+    "url": "https://biz.chosun.com/it-science/ict/2026/08/12/XIEQWWZCDRFH7BJV5Z3DOY2RLQ/",
+    "title": "Samsung with Claude: \"Design and verification shortened to 2 days from a month\"",
+    "description": "Article URL: https://biz.chosun.com/it-science/ict/2026/08/12/XIEQWWZCDRFH7BJV5Z3DOY2RLQ/\nComments URL: https://news.ycombinator.com/item?id=49274393\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T16:13:12.519Z",
+    "published": "Wed, 12 Aug 2026 15:53:42 +0000"
+  },
+  {
+    "url": "https://www.pcmag.com/news/apple-limits-bug-bounty-submissions-after-a-barrage-of-ai-entries",
+    "title": "Apple Caps Bug Bounty Submissions After AI Surge",
+    "description": "Article URL: https://www.pcmag.com/news/apple-limits-bug-bounty-submissions-after-a-barrage-of-ai-entries\nComments URL: https://news.ycombinator.com/item?id=49274335\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T16:13:12.519Z",
+    "published": "Wed, 12 Aug 2026 15:50:32 +0000"
+  },
+  {
+    "url": "https://www.npr.org/2026/08/11/nx-s1-5927074/researchers-have-successfully-used-ai-to-create-brand-new-viruses",
+    "title": "Researchers have successfully used AI to create brand new viruses",
+    "description": "Article URL: https://www.npr.org/2026/08/11/nx-s1-5927074/researchers-have-successfully-used-ai-to-create-brand-new-viruses\nComments URL: https://news.ycombinator.com/item?id=49274317\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T16:13:12.519Z",
+    "published": "Wed, 12 Aug 2026 15:49:35 +0000"
+  },
+  {
+    "url": "https://www.ft.com/content/7d2ab3e0-9085-48f6-b38a-d90260d58795",
+    "title": "China-linked hackers hit Taiwan in unprecedented 'autonomous' AI cyber attack",
+    "description": "Article URL: https://www.ft.com/content/7d2ab3e0-9085-48f6-b38a-d90260d58795\nComments URL: https://news.ycombinator.com/item?id=49274007\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T16:13:12.519Z",
+    "published": "Wed, 12 Aug 2026 15:31:55 +0000"
+  },
+  {
+    "url": "https://fairground.tv/",
+    "title": "Roku Introduces Fairground AI Creator TV",
+    "description": "Article URL: https://fairground.tv/\nComments URL: https://news.ycombinator.com/item?id=49274000\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T16:13:12.519Z",
+    "published": "Wed, 12 Aug 2026 15:31:24 +0000"
+  },
+  {
+    "url": "https://utkarshx.substack.com/p/why-ai-models-love-japan",
+    "title": "Why AI models love Japan",
+    "description": "Article URL: https://utkarshx.substack.com/p/why-ai-models-love-japan\nComments URL: https://news.ycombinator.com/item?id=49273940\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T16:13:12.519Z",
+    "published": "Wed, 12 Aug 2026 15:28:01 +0000"
+  },
+  {
+    "url": "https://www.reversinglabs.com/blog/owasp-top-10-for-llm-apps-excessive-agency",
+    "title": "OWASP Top for LLM Apps 2026: Excessive agency risk on the rise",
+    "description": "Article URL: https://www.reversinglabs.com/blog/owasp-top-10-for-llm-apps-excessive-agency\nComments URL: https://news.ycombinator.com/item?id=49273905\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T16:13:12.519Z",
+    "published": "Wed, 12 Aug 2026 15:25:43 +0000"
+  },
+  {
+    "url": "https://www.theguardian.com/tv-and-radio/2026/aug/12/roku-ai-slop-fairground-creator-tv-channel",
+    "title": "Roku's AI slop channel is worse than expected",
+    "description": "Article URL: https://www.theguardian.com/tv-and-radio/2026/aug/12/roku-ai-slop-fairground-creator-tv-channel\nComments URL: https://news.ycombinator.com/item?id=49273825\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T16:13:12.519Z",
+    "published": "Wed, 12 Aug 2026 15:21:00 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49273774",
+    "title": "Ask HN: Are there any production LLM pipeline setups to learn from?",
+    "description": "I believe vLLM has been the gold standard for inferencing but I'd like to learn how vLLM, langgraph, langfuse, other observability and business logic is meld into a single setup.\n\nComments URL: https://news.ycombinator.com/item?id=49273774\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T16:13:12.519Z",
+    "published": "Wed, 12 Aug 2026 15:18:25 +0000"
+  },
+  {
+    "url": "https://leaddev.com/ai/your-interview-questions-assume-candidates-can-afford-claude-code-max",
+    "title": "Interview questions assume candidates can afford Claude Code Max",
+    "description": "Article URL: https://leaddev.com/ai/your-interview-questions-assume-candidates-can-afford-claude-code-max\nComments URL: https://news.ycombinator.com/item?id=49273683\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T16:13:12.519Z",
+    "published": "Wed, 12 Aug 2026 15:13:39 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49273667",
+    "title": "Ask HN: How do you envision the AI Software Factory?",
+    "description": "Is this an over-hyped concept and we just connect the harness via MCP to Slack / Jira / ... or do you envision completely new systems like GasTown for how we produce code in the future?\n\nComments URL: https://news.ycombinator.com/item?id=49273667\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T16:13:12.519Z",
+    "published": "Wed, 12 Aug 2026 15:12:36 +0000"
+  },
+  {
+    "url": "https://blog.greg.technology/2026/08/11/reflections-on-ai.html",
+    "title": "Reflections on AI",
+    "description": "Article URL: https://blog.greg.technology/2026/08/11/reflections-on-ai.html\nComments URL: https://news.ycombinator.com/item?id=49273597\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T16:13:12.519Z",
+    "published": "Wed, 12 Aug 2026 15:08:24 +0000"
+  },
+  {
+    "url": "https://rafaelresearch.com/research/ai-in-immigration-practice",
+    "title": "AI in Immigration Practice: What Attorneys Are Required to Do",
+    "description": "Article URL: https://rafaelresearch.com/research/ai-in-immigration-practice\nComments URL: https://news.ycombinator.com/item?id=49273538\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-12T16:13:12.519Z",
+    "published": "Wed, 12 Aug 2026 15:04:57 +0000"
+  },
+  {
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "title": "Putting sign language AI into users’ hands",
+    "description": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+    "source": "DeepMind Blog",
+    "category": "llm",
+    "discovered": "2026-08-12T16:13:14.324Z",
+    "published": "Wed, 12 Aug 2026 14:01:59 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/backpropagation-explained-for-beginners-part-3-how-backpropagation-really-works/",
+    "title": "Backpropagation Explained for Beginners (Part 3): How Backpropagation Really Works",
+    "description": "From one gradient to every gradient\nThe post Backpropagation Explained for Beginners (Part 3): How Backpropagation Really Works appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-12T16:13:17.924Z",
+    "published": "Wed, 12 Aug 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/building-multimodal-workflows-with-a-local-llm/",
+    "title": "Building Multimodal Workflows with a Local LLM",
+    "description": "Image inputs and structured outputs with Gemma 4 and Ollama\nThe post Building Multimodal Workflows with a Local LLM appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-12T16:13:17.924Z",
+    "published": "Wed, 12 Aug 2026 13:30:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/googles-gemini-is-losing-market-share-to-chatgpt-and-claude-according-to-new-market-data/",
+    "title": "Google's Gemini is losing market share to ChatGPT and Claude according to new market data",
+    "description": "Three data sources tell the same story: Google's Gemini is losing AI market share. Pangram reports a drop from 12 to 1.9 percent, while OpenAI holds over 50 percent, and Anthropic grew from 4.3 to 14.9 percent. Similarweb and OpenRouter confirm the trend.\nThe article Google&#039;s Gemini is",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-12T16:13:19.765Z",
+    "published": "Wed, 12 Aug 2026 15:50:04 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/legal-startup-founder-robert-mahari-joins-anthropic-to-lead-claudes-push-into-law-practices/",
+    "title": "Legal startup founder Robert Mahari joins Anthropic to lead Claude's push into law practices",
+    "description": "Robert Mahari is Anthropic's first \"Head of Claude for Legal,\" responsible for deploying and expanding the Claude AI model across the legal industry.\nThe article Legal startup founder Robert Mahari joins Anthropic to lead Claude&#039;s push into law practices appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-12T16:13:19.765Z",
+    "published": "Wed, 12 Aug 2026 13:51:18 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/nvidias-nemotron-4-aims-for-one-trillion-parameters-a-scale-chinese-labs-already-surpassed/",
+    "title": "Nvidia's Nemotron 4 aims for one trillion parameters, a scale Chinese labs already surpassed",
+    "description": "Nvidia is working on Nemotron 4, a new open-weight model designed to rival the world’s best freely available models.\nThe article Nvidia&#039;s Nemotron 4 aims for one trillion parameters, a scale Chinese labs already surpassed appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-12T16:13:19.765Z",
+    "published": "Wed, 12 Aug 2026 12:37:58 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/new-camera-tricks-on-google-latest-pixel-11-smartphones/",
+    "title": "4 New Camera Tricks on Google’s Latest Pixel 11 Smartphones",
+    "description": "From Magic Capture and Instant Night Sight to a built-in teleprompter, here’s a look at a few camera features on Google’s new Pixel 11 series.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-12T16:13:26.419Z",
+    "published": "Wed, 12 Aug 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/google-pixel-tag-ultra-wideband-bluetooth-channel-sounding/",
+    "title": "The Pixel Tag is Google's $29 AirTag alternative - with one big advantage",
+    "description": "Google's new finder tags use an emerging Bluetooth technology to stand apart from competing devices made by Apple and Samsung.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-12T16:13:33.836Z",
+    "published": "Wed, 12 Aug 2026 14:30:00 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/microsoft-august-windows-update-421-bugs-zero-day-exploited/",
+    "title": "Microsoft fixes 421 bugs and a Windows zero-day in August Patch Tuesday - update ASAP",
+    "description": "The exploited zero-day flaw could allow an attacker to gain system privileges on a Windows PC.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-12T16:13:33.836Z",
+    "published": "Wed, 12 Aug 2026 14:15:33 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/google-pixel-watch-5-vs-apple-watch-series-11/",
+    "title": "Google Pixel Watch 5 vs. Apple Watch Series 11: How Google competes against Apple",
+    "description": "The Google Pixel Watch 5 is a big upgrade over its predecessor, but is it enough to take on the Apple Watch Series 11?",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-12T16:13:33.836Z",
+    "published": "Wed, 12 Aug 2026 14:01:31 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/google-pixel-11-pro-vs-apple-iphone-17-pro/",
+    "title": "Google Pixel 11 Pro vs. Apple iPhone 17 Pro: Which Pro model should you buy?",
+    "description": "The two Google and Apple phones go neck to neck against each other, but only one will suit your needs.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-12T16:13:33.836Z",
+    "published": "Wed, 12 Aug 2026 14:01:10 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/strength-training-pixel-watch-5-workout-apps/",
+    "title": "Pixel Watch 5's strength training feature could replace my top lifting app - no phone needed",
+    "description": "Strength training is all the buzz. Google built a special exercise experience into the Pixel Watch 5 to make it easier to get started.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-12T16:13:33.836Z",
+    "published": "Wed, 12 Aug 2026 14:01:06 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/google-pixel-11-pro-xl-vs-samsung-galaxy-s26-ultra/",
+    "title": "Google Pixel 11 Pro XL vs Samsung Galaxy S26 Ultra: I compared both - this one pulls ahead",
+    "description": "Both models are large and boast the best from each manufacturer, but which one makes the most sense for your needs?",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-12T16:13:33.836Z",
+    "published": "Wed, 12 Aug 2026 14:00:54 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/google-pixel-11-pro-vs-samsung-galaxy-s26/",
+    "title": "Google Pixel 11 Pro vs. Samsung Galaxy S26: I compared the two Android flagships, here's my pick",
+    "description": "Google's new Pixel 11 Pro has a lot going for it, but how does it stack against Samsung's Galaxy S26?",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-12T16:13:33.836Z",
+    "published": "Wed, 12 Aug 2026 14:00:38 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/google-pixel-11-pro-hilight-feature-android-golden-days/",
+    "title": "This subtle Pixel 11 Pro feature reminds me of the golden days of Android phones",
+    "description": "The new Google Pixel 11 Pro models feature a useful HiLight indicator that pays homage to classic notification LEDs.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-12T16:13:33.836Z",
+    "published": "Wed, 12 Aug 2026 14:00:13 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2235132/pixel-11-pro-vs-galaxy-s26-ultra-specs-compared/",
+    "title": "Pixel 11 Pro vs Galaxy S26 Ultra: Comparing their cameras, display, battery and specs",
+    "description": "Google&#39;s most powerful flagships take aim at Samsung&#39;s crown.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-12T16:13:34.416Z",
+    "published": "Wed, 12 Aug 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2235158/pixel-watch-5-hands-on-whats-new-google-health-ai-workout-builder/",
+    "title": "Pixel Watch 5 hands-on: Health, GPS and AI at the forefront",
+    "description": "Most of this year&#39;s updates for Google&#39;s Pixel Watch series aren&#39;t in the hardware.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-12T16:13:34.416Z",
+    "published": "Wed, 12 Aug 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2234960/pixel-11-series-cost-more-but-less-ram/",
+    "title": "Google's Pixel 11 Pro and Pro XL have less RAM despite price increases",
+    "description": "The Pixel 11, Pixel 11 Pro, Pro XL and Pixel 11 Pro Fold all cost about $100 more than last year&#39;s models.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-12T16:13:34.416Z",
+    "published": "Wed, 12 Aug 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2234879/google-pixel-11-pro-announced-specs-price/",
+    "title": "Google's Pixel 11 Pro and Pro XL are the toughest Pixel phones yet",
+    "description": "Camera upgrades, a thinner camera bar and a more powerful processor are available on the Pixel 11 Pro and Pro XL.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-12T16:13:34.416Z",
+    "published": "Wed, 12 Aug 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2234896/google-pixel-tag-announced-price/",
+    "title": "Google's Pixel Tag is an AirTag for Android phones",
+    "description": "Google is taking on Apple&#39;s AirTag with its own trackable accessory.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-12T16:13:34.416Z",
+    "published": "Wed, 12 Aug 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2235261/pixel-11-camera-upgardes-include-instant-night-sight-and-bigger-sensors/",
+    "title": "Pixel 11 camera upgrades include Instant Night Sight and bigger sensors",
+    "description": "Google&#39;s Pixel 11 cameras provide a nice mix of improved hardware and AI features.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-12T16:13:34.416Z",
+    "published": "Wed, 12 Aug 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2234932/google-pixel-watch-5-announced-price/",
+    "title": "Google's Pixel Watch 5 gets offline Gemini support, improved GPS-tracking and a slightly higher price",
+    "description": "The biggest additions on the Pixel Watch 5 are new health features.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-12T16:13:34.416Z",
+    "published": "Wed, 12 Aug 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2235086/google-makes-quick-share-even-more-like-apple-s-airdrop/",
+    "title": "Google makes Quick Share even more like Apple's AirDrop",
+    "description": "Now it's just a tap to share contact info, photos or videos between supported devices.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-12T16:13:34.416Z",
+    "published": "Wed, 12 Aug 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2234618/deepmind-newest-model-allows-pixel-11-devices-to-transcribe-sign-language-into-text/",
+    "title": "DeepMind's newest model allows Pixel 11 devices to transcribe sign language into text",
+    "description": "Google&#39;s Pixel 11 lineup will be able to transcribe sign language into text.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-12T16:13:34.416Z",
+    "published": "Wed, 12 Aug 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2235022/google-s-pixel-11-phones-offer-more-proactive-ai-notifications-and-help/",
+    "title": "Google's Pixel 11 phones offer more proactive AI notifications and help",
+    "description": "Google is upgrading Gemini Intelligence for its latest hardware release.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-12T16:13:34.416Z",
+    "published": "Wed, 12 Aug 2026 14:00:00 +0000"
   }
 ]
