@@ -1700,7 +1700,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T12:54:23.949Z",
-    "published": "Wed, 22 Jul 2026 12:35:05 +0000"
+    "published": "Wed, 22 Jul 2026 12:35:05 +0000",
+    "processed": true,
+    "processedAt": "2026-08-12T09:47:21.591Z"
   },
   {
     "url": "https://robinshields.github.io/HumanBenchmark/",
@@ -19588,5 +19590,49 @@
     "published": "Tue, 11 Aug 2026 21:39:11 +0000",
     "processed": true,
     "processedAt": "2026-08-11T23:29:08.702Z"
+  },
+  {
+    "url": "https://www.wired.com/story/youre-thinking-about-online-trends-all-wrong/",
+    "title": "You’re Thinking About Online Trends All Wrong",
+    "description": "From pessimism around dating to AI reshaping culture, cyber-ethnographer Ruby J. Thelot tells WIRED why people are putting too much stock into things that go viral.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-12T09:43:53.323Z",
+    "published": "Wed, 12 Aug 2026 09:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-12T09:47:21.591Z"
+  },
+  {
+    "url": "https://www.engadget.com/2235200/unreleased-xbox-elite-controller-3-sold-to-unsuspecting-buyer/",
+    "title": "The unreleased Xbox Elite Controller 3 may have ended up in an unsuspecting buyer's hands",
+    "description": "An Xbox Elite Controller 3 may have been sold in a marketplace, months after images of the unreleased model were leaked.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-12T09:44:12.452Z",
+    "published": "Wed, 12 Aug 2026 09:21:05 +0000",
+    "processed": true,
+    "processedAt": "2026-08-12T09:47:21.592Z"
+  },
+  {
+    "url": "https://www.engadget.com/2235193/google-sending-out-emails-discount-codes-pixel-11/",
+    "title": "Google is now sending out emails with discount codes for the Pixel 11",
+    "description": "You may want to keep a close eye on your Gmail inbox if you're looking to get a Pixel 11.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-12T09:44:12.452Z",
+    "published": "Wed, 12 Aug 2026 08:23:46 +0000",
+    "processed": true,
+    "processedAt": "2026-08-12T09:47:21.592Z"
+  },
+  {
+    "url": "https://www.engadget.com/2235171/sonos-ace-ultra-over-ear-headphones-fcc-filing/",
+    "title": "Sonos Ace Ultra over-ear headphones show up in FCC filing",
+    "description": "Sonos could launch a new pair of headphones called the &#34;Ace Ultra&#34; at its September event.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-12T09:44:12.452Z",
+    "published": "Wed, 12 Aug 2026 05:53:41 +0000",
+    "processed": true,
+    "processedAt": "2026-08-12T09:47:21.592Z"
   }
 ]
