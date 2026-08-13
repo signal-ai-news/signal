@@ -3105,9 +3105,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-02T20:39:29.277Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-13T05:50:27.374Z"
   },
   {
     "slug": "auto-category-power-query-dax",
@@ -3127,9 +3128,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-02T20:39:29.277Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-13T05:50:36.729Z"
   },
   {
     "slug": "ai-thirst-traps-exposed",
@@ -6253,6 +6255,160 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-12T20:10:03.950Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "amazon-twitch-streamers-content",
+    "title": "3 Reasons Amazon's Twitch Move Matters",
+    "summary": "Twitch streamers' content will be used to train Amazon's AI by default, unless they opt out - here's what you need to know",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/amazon-twitch-streamers-content.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/amazon-twitch-streamers-content.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 486,
+    "tags": [
+      "Twitch",
+      "Amazon",
+      "AI",
+      "streaming",
+      "online privacy"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-13T05:50:17.043Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "terabytes-of-credentials-leaked-in-massive-supply-chain-attack",
+    "title": "3 Billion Credentials Leaked",
+    "summary": "A massive supply-chain attack has exposed 3 billion credentials, don't miss what you need to know",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/terabytes-of-credentials-leaked-in-massive-supply-chain-attack.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/terabytes-of-credentials-leaked-in-massive-supply-chain-attack.html",
+    "sourceName": "Ars Technica AI",
+    "wordCount": 493,
+    "tags": [
+      "AI",
+      "Supply Chain Attack",
+      "Cybersecurity",
+      "Data Breach",
+      " Credentials Leaked"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-13T05:50:17.043Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "gemma-4b-vs-gemini-flash-ultimate-showdown",
+    "title": "3 AI Tools Compared",
+    "summary": "Don't miss the essential breakdown of Gemma 4B and Gemini Flash on tool calling",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/gemma-4b-vs-gemini-flash-ultimate-showdown.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/gemma-4b-vs-gemini-flash-ultimate-showdown.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 355,
+    "tags": [
+      "AI tools",
+      "Gemma 4B",
+      "Gemini Flash",
+      "tool calling",
+      "AI comparison"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-13T05:50:17.043Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-secrets-for-staying-valuable",
+    "title": "5 AI Secrets",
+    "summary": "Discover how to stay ahead in an AI-driven workplace",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-secrets-for-staying-valuable.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-secrets-for-staying-valuable.html",
+    "sourceName": "ZDNet AI",
+    "wordCount": 442,
+    "tags": [
+      "AI",
+      "workplace",
+      "productivity",
+      "future of work",
+      "tech skills"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-13T05:50:17.043Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "stop-twitch-from-training-ai-on-your-streams",
+    "title": "3 Ways to Stop Twitch AI",
+    "summary": "Don't let Twitch use your streams to train AI without your consent",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/stop-twitch-from-training-ai-on-your-streams.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/stop-twitch-from-training-ai-on-your-streams.html",
+    "sourceName": "Engadget AI",
+    "wordCount": 520,
+    "tags": [
+      "Twitch",
+      "AI",
+      "Streaming",
+      "Online Privacy",
+      "Data Protection"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-13T05:50:17.043Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-beats-human-benchmark",
+    "title": "3 Reasons AI Beats You",
+    "summary": "Find out how your reasoning skills stack up against AI models with this essential tool",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-beats-human-benchmark.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-beats-human-benchmark.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 643,
+    "tags": [
+      "AI",
+      "Human Benchmark",
+      "Reasoning Skills",
+      "Machine Learning",
+      "Intelligence"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-13T05:50:17.043Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-voice-chat-server-rtx-3050-ti",
+    "title": "11.9s Voice-to-Voice: AI Breakthrough",
+    "summary": "Discover the essential tool that's changing voice chat servers forever",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-voice-chat-server-rtx-3050-ti.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-voice-chat-server-rtx-3050-ti.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 423,
+    "tags": [
+      "AI",
+      "voice chat server",
+      "RTX 3050 Ti",
+      "Stt+LLM+TTS",
+      "community"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-13T05:50:17.043Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
