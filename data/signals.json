@@ -21419,5 +21419,150 @@
     "category": "news",
     "discovered": "2026-08-13T16:13:49.449Z",
     "published": "Thu, 13 Aug 2026 15:49:07 +0000"
+  },
+  {
+    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "title": "The builder’s guide to GPT‑5.6",
+    "description": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-13T19:47:41.176Z",
+    "published": "Thu, 13 Aug 2026 11:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-13T19:51:23.855Z"
+  },
+  {
+    "url": "https://openai.com/index/previewing-ultrafast",
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "description": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-13T19:47:41.176Z",
+    "published": "Thu, 13 Aug 2026 10:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-13T19:51:23.855Z"
+  },
+  {
+    "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+    "title": "Bring your spreadsheet data to life with Sheets canvas",
+    "description": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-08-13T19:47:42.481Z",
+    "published": "Thu, 13 Aug 2026 16:45:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-13T19:51:23.855Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-08-13T19:47:43.074Z",
+    "published": "Thu, 13 Aug 2026 17:16:04 GMT",
+    "processed": true,
+    "processedAt": "2026-08-13T19:51:23.855Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed",
+    "description": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-13T19:47:44.579Z",
+    "published": "Thu, 13 Aug 2026 19:22:40 +0000",
+    "processed": true,
+    "processedAt": "2026-08-13T19:51:23.855Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+    "title": "IBM partners with OpenAI to bolster enterprise AI push",
+    "description": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-13T19:47:44.579Z",
+    "published": "Thu, 13 Aug 2026 19:19:49 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+    "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+    "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-13T19:47:44.579Z",
+    "published": "Thu, 13 Aug 2026 18:28:14 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+    "title": "OpenAI hires new CRO as executive shake-up continues",
+    "description": "Dali Rajic will take over as OpenAI's top salesperson.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-13T19:47:44.579Z",
+    "published": "Thu, 13 Aug 2026 17:07:13 +0000"
+  },
+  {
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "title": "Introducing Gemini 3.7 Flash",
+    "description": "",
+    "source": "DeepMind Blog",
+    "category": "llm",
+    "discovered": "2026-08-13T19:48:04.017Z",
+    "published": "Thu, 13 Aug 2026 17:04:18 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-utilize-okf-efficiently-to-enable-knowledge-exchange-among-llms/",
+    "title": "How to Utilize OKF Efficiently to Enable Knowledge Exchange Among LLMs",
+    "description": "Google's Open Knowledge Format (OKF) is a Markdown+YAML skeleton for sharing knowledge between humans and AI agents. This post reuses that skeleton for a very specific job — an agent-to-agent hand-off of pre-tokenized integer arrays between three Qwen2.5-Coder models (7B, 3B, 1.5B) — and shows the 2",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-13T19:48:07.494Z",
+    "published": "Thu, 13 Aug 2026 16:30:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/suno-studio-2-0s-new-chat-feature-lets-you-talk-to-your-daw-like-its-a-bandmate/",
+    "title": "Suno Studio 2.0's new chat feature lets you talk to your DAW like it's a bandmate",
+    "description": "With Studio 2.0, Suno turns its AI music platform into a full production tool for Premier subscribers. A chat feature creates instruments and plugins via text, while MIDI import and 32-bit export come without limits. That unlimited export clashes with Suno's own recently announced download",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-13T19:48:09.230Z",
+    "published": "Thu, 13 Aug 2026 19:39:54 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessors-price-by-50/",
+    "title": "Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50%",
+    "description": "Google shipped Gemini 3.7 Flash just three weeks after 3.6 Flash. The new model is supposed to be Google's most capable workhorse yet for coding and AI agents, and according to the company's own benchmarks, it beats Claude Sonnet 5 and GPT-5.6 Terra at half the price.\nThe article Gemini 3.7",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-13T19:48:09.230Z",
+    "published": "Thu, 13 Aug 2026 18:41:52 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/deepseek-launches-an-improved-v4-pro-model-raises-api-prices-and-makes-its-agent-software-open-source/",
+    "title": "Deepseek ships improved V4 Pro, open-sources its agent software, and raises API prices",
+    "description": "Deepseek has moved its flagship V4-Pro out of the testing phase and released its agent software, Harness v0.1, under the MIT license. API prices are going up at the same time, with cache hits jumping to six times their current cost. For agent workflows that repeatedly read the same files, t",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-13T19:48:09.230Z",
+    "published": "Thu, 13 Aug 2026 16:27:32 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/gemini-voice-calling-on-android-auto-keeps-failing-google-must-fix-by-september/",
+    "title": "Gemini voice calling on Android Auto keeps failing me - and Google has until September to fix it",
+    "description": "With Google Assistant shutting down this fall, Android users will be left with inferior voice calling, thanks to Gemini.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-13T19:48:27.080Z",
+    "published": "Thu, 13 Aug 2026 17:07:04 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2234175/save-google-storage-space-change-one-android-setting/",
+    "title": "Save space in your Google storage by changing this one Android setting",
+    "description": "If your Google One plan is reaching its data limit, try this before you pay more for storage.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-13T19:48:27.654Z",
+    "published": "Thu, 13 Aug 2026 16:30:00 +0000"
   }
 ]
