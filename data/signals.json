@@ -21564,5 +21564,78 @@
     "category": "news",
     "discovered": "2026-08-13T19:48:27.654Z",
     "published": "Thu, 13 Aug 2026 16:30:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+    "description": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-13T22:24:04.743Z",
+    "published": "Thu, 13 Aug 2026 21:13:24 +0000",
+    "processed": true,
+    "processedAt": "2026-08-13T22:27:37.596Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+    "description": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-13T22:24:04.743Z",
+    "published": "Thu, 13 Aug 2026 20:14:39 +0000",
+    "processed": true,
+    "processedAt": "2026-08-13T22:27:37.596Z"
+  },
+  {
+    "url": "https://www.wired.com/story/mark-zuckerbergs-ai-manifesto-is-6500-words-and-barely-says-anything/",
+    "title": "Mark Zuckerberg’s AI Manifesto Is 6,500 Words—and Barely Says Anything",
+    "description": "AI is shifting the culture, from tech CEO manifestos to 1 am job interviews. We unpack some of the latest, along with the top findings from Black Hat and Defcon, this week on Uncanny Valley.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-13T22:24:22.890Z",
+    "published": "Thu, 13 Aug 2026 21:14:43 +0000",
+    "processed": true,
+    "processedAt": "2026-08-13T22:27:37.596Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/openai-brings-the-chatgpt-desktop-app-to-linux/",
+    "title": "I tried the new ChatGPT Desktop App for Linux - but I'll stick to my browser for now",
+    "description": "This preview release of ChatGPT Desktop for Linux supports Ubuntu, Debian, and Fedora is here.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-13T22:24:29.298Z",
+    "published": "Thu, 13 Aug 2026 20:46:54 GMT",
+    "processed": true,
+    "processedAt": "2026-08-13T22:27:37.596Z"
+  },
+  {
+    "url": "https://www.engadget.com/2236717/cloud-storage-great-until-vendor-goes-out-of-business-nine-pbs/",
+    "title": "Cloud storage is great until your vendor goes out of business",
+    "description": "A St. Louis PBS station is suing a data center provider to rescue a 70-year archive.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-13T22:24:29.925Z",
+    "published": "Thu, 13 Aug 2026 22:04:16 +0000",
+    "processed": true,
+    "processedAt": "2026-08-13T22:27:37.596Z"
+  },
+  {
+    "url": "https://www.engadget.com/2236683/netflix-shuts-down-oxenfree-studio-night-school-weeks-after-praising-its-really-solid-numbers/",
+    "title": "Netflix shuts down Oxenfree studio Night School weeks after praising its 'really solid numbers'",
+    "description": "Execs praised Night School&#39;s latest game, Unhinged, before pulling the rug.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-13T22:24:29.925Z",
+    "published": "Thu, 13 Aug 2026 21:24:22 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2236616/hosting-provider-namecheap-is-down-after-data-center-cooling-failure/",
+    "title": "Hosting provider Namecheap is down after data center cooling failure",
+    "description": "Hosting provider Namecheap is down after data center cooling failure.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-13T22:24:29.925Z",
+    "published": "Thu, 13 Aug 2026 20:01:57 +0000"
   }
 ]
