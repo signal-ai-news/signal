@@ -21237,5 +21237,69 @@
     "category": "news",
     "discovered": "2026-08-13T09:44:06.946Z",
     "published": "Thu, 13 Aug 2026 09:26:41 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/langchain-vs-langgraph-4-key-differences-and-when-to-use-each/",
+    "title": "LangChain vs LangGraph: 4 Key Differences and When to Use Each",
+    "description": "A practical guide to choose the proper tool for your agentic workflows and systems\nThe post LangChain vs LangGraph: 4 Key Differences and When to Use Each appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-13T12:36:31.276Z",
+    "published": "Thu, 13 Aug 2026 12:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-13T12:40:06.542Z"
+  },
+  {
+    "url": "https://the-decoder.com/fable-5s-slow-adoption-suggests-corporate-willingness-to-pay-for-frontier-ai-has-hit-a-ceiling/",
+    "title": "Fable 5's slow adoption suggests corporate willingness to pay for frontier AI has hit a ceiling",
+    "description": "Anthropic's Fable 5 is considered the most powerful AI model on the market, but U.S. companies are barely buying it. According to Ramp data, Fable 5 accounts for only six percent of Anthropic tokens sold. The model's steep price tag suggests corporate AI spending may have hit a ceiling, at",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-13T12:36:32.989Z",
+    "published": "Thu, 13 Aug 2026 10:46:20 +0000",
+    "processed": true,
+    "processedAt": "2026-08-13T12:40:06.542Z"
+  },
+  {
+    "url": "https://the-decoder.com/top-ai-lab-researchers-warned-about-automated-ai-research-and-several-of-their-predicted-milestones-have-already-fallen/",
+    "title": "Top AI lab researchers warned about automated AI research, and several of their predicted milestones have already fallen",
+    "description": "IAPS fellow Severin Field interviewed 25 researchers from OpenAI, Anthropic, Google Deepmind, Meta, and US universities about recursive self-improvement. In a new blog post, he takes stock. Several of the milestones those researchers named have already been hit.\nThe article Top AI lab resea",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-13T12:36:32.989Z",
+    "published": "Thu, 13 Aug 2026 10:42:05 +0000",
+    "processed": true,
+    "processedAt": "2026-08-13T12:40:06.542Z"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-brings-claude-cowork-to-its-chrome-extension-adding-skills-and-plugins-to-the-browser/",
+    "title": "Anthropic brings Claude Cowork to its Chrome extension, adding skills and plugins to the browser",
+    "description": "Claude Cowork now runs directly in the side panel of Anthropic's Chrome extension. \nThe article Anthropic brings Claude Cowork to its Chrome extension, adding skills and plugins to the browser appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-13T12:36:32.989Z",
+    "published": "Thu, 13 Aug 2026 10:15:29 +0000",
+    "processed": true,
+    "processedAt": "2026-08-13T12:40:06.542Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/why-most-developers-prefer-claude-code-over-codex/",
+    "title": "75% of developers I surveyed prefer Claude Code - here's why they choose it over Codex",
+    "description": "Three out of four of the 138 developers I surveyed use Claude Code. Here's what they say matters in daily AI coding workflows.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-13T12:36:57.053Z",
+    "published": "Thu, 13 Aug 2026 12:06:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-13T12:40:06.542Z"
+  },
+  {
+    "url": "https://www.engadget.com/2236063/apple-tv-adds-classic-movie-selection/",
+    "title": "You can now watch classic movies like The Martian, E.T. and Zodiac on Apple TV",
+    "description": "Apple just made around 20 classic movies available for subscribers to stream.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-13T12:36:57.688Z",
+    "published": "Thu, 13 Aug 2026 10:05:35 +0000"
   }
 ]
