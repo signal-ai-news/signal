@@ -3243,9 +3243,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-03T21:49:56.538Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-13T20:03:24.636Z"
   },
   {
     "slug": "3-essential-layers-for-rag-systems",
@@ -3265,9 +3266,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-03T21:49:56.538Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-13T20:03:34.652Z"
   },
   {
     "slug": "build-cli-agents-with-python-ollama",
@@ -6501,6 +6503,94 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-13T15:32:28.031Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "openai-appoints-new-cro",
+    "title": "3 Reasons OpenAI's New Hire Matters",
+    "summary": "You need to know how OpenAI's new Chief Revenue Officer will impact the future of AI",
+    "category": "LLM",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/openai-appoints-new-cro.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/openai-appoints-new-cro.html",
+    "sourceName": "OpenAI Blog",
+    "wordCount": 398,
+    "tags": [
+      "OpenAI",
+      "AI",
+      "Revenue",
+      "Leadership",
+      "Technology"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-13T20:03:11.872Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "microsoft-copilot-ai-features-merged",
+    "title": "3 AI Features Microsoft Just Killed",
+    "summary": "Microsoft simplifies Copilot by merging apps and dropping unsuccessful AI features",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/microsoft-copilot-ai-features-merged.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/microsoft-copilot-ai-features-merged.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 430,
+    "tags": [
+      "Microsoft",
+      "Copilot",
+      "AI",
+      "Tech News",
+      "Innovation"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-13T20:03:11.872Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "flock-tightens-rules-amid-surveillance-backlash",
+    "title": "3 Breakthrough Changes",
+    "summary": "Flock's new rules may calm surveillance concerns, but what do they mean for you?",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/flock-tightens-rules-amid-surveillance-backlash.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/flock-tightens-rules-amid-surveillance-backlash.html",
+    "sourceName": "MIT Tech Review AI",
+    "wordCount": 422,
+    "tags": [
+      "Flock",
+      "surveillance",
+      "license plate readers",
+      "police tech",
+      "data privacy"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-13T20:03:11.872Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "3x-faster-ml-with-strands-agents",
+    "title": "3x Faster ML",
+    "summary": "Breakthrough ML platform combines recording, training, and deployment in one place",
+    "category": "ML",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/3x-faster-ml-with-strands-agents.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/3x-faster-ml-with-strands-agents.html",
+    "sourceName": "Hugging Face Blog",
+    "wordCount": 449,
+    "tags": [
+      "ml",
+      "strands-agents",
+      "hugging-face",
+      "le-robot",
+      "machine-learning"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-13T20:03:11.872Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
