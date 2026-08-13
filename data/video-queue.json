@@ -3197,9 +3197,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-03T21:49:56.538Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-13T15:32:41.461Z"
   },
   {
     "slug": "ai-agents-lie-and-cheat",
@@ -3219,9 +3220,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-03T21:49:56.538Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-13T15:32:56.458Z"
   },
   {
     "slug": "siri-ai-breakthrough-or-bust",
@@ -6411,6 +6413,94 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-13T05:50:17.043Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "kids-and-ai",
+    "title": "5 Shocking Ways Kids Use AI",
+    "summary": "What happens when kids are given the keys to artificial intelligence?",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/kids-and-ai.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/kids-and-ai.html",
+    "sourceName": "MIT Tech Review AI",
+    "wordCount": 516,
+    "tags": [
+      "AI",
+      "Kids",
+      "Education",
+      "Technology",
+      "Innovation"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-13T15:32:28.031Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-breakthrough-m23-problem",
+    "title": "40yr Problem Solved",
+    "summary": "You need to know how affordable AI cracked a 40-year math puzzle",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-breakthrough-m23-problem.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-breakthrough-m23-problem.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 380,
+    "tags": [
+      "AI",
+      "Math",
+      "Breakthrough",
+      "M23 Problem",
+      "Galois Theory"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-13T15:32:28.031Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "boltz-shutdown-ai-attacks",
+    "title": "3 AI Attacks",
+    "summary": "Boltz's sudden shutdown reveals a darker side of AI: can you protect yourself?",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/boltz-shutdown-ai-attacks.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/boltz-shutdown-ai-attacks.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 465,
+    "tags": [
+      "AI",
+      "Boltz",
+      "Bitcoin",
+      "Cybersecurity",
+      "Artificial Intelligence"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-13T15:32:28.031Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "langchain-vs-langgraph-ultimate-guide",
+    "title": "4 Essential AI Tools",
+    "summary": "Don't choose the wrong AI tool for your workflows - learn the 4 key differences between LangChain and LangGraph",
+    "category": "ML",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/langchain-vs-langgraph-ultimate-guide.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/langchain-vs-langgraph-ultimate-guide.html",
+    "sourceName": "Towards Data Science",
+    "wordCount": 508,
+    "tags": [
+      "ml",
+      "ai",
+      "langchain",
+      "langgraph",
+      "workflow optimization"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-13T15:32:28.031Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
