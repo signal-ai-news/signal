@@ -1711,7 +1711,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T12:54:23.949Z",
-    "published": "Wed, 22 Jul 2026 12:31:21 +0000"
+    "published": "Wed, 22 Jul 2026 12:31:21 +0000",
+    "processed": true,
+    "processedAt": "2026-08-13T05:23:17.236Z"
   },
   {
     "url": "https://lilting.ch/en/articles/voice-chat-server-stt-llm-tts-4gb",
@@ -1720,7 +1722,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T12:54:23.949Z",
-    "published": "Wed, 22 Jul 2026 12:29:42 +0000"
+    "published": "Wed, 22 Jul 2026 12:29:42 +0000",
+    "processed": true,
+    "processedAt": "2026-08-13T05:23:17.236Z"
   },
   {
     "url": "https://hugston.com/HugstonOne_Enterprise_Whitepaper_2026.pdf",
@@ -21001,5 +21005,38 @@
     "category": "news",
     "discovered": "2026-08-12T22:25:03.921Z",
     "published": "Wed, 12 Aug 2026 20:43:06 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+    "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+    "description": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-13T05:19:41.099Z",
+    "published": "Wed, 12 Aug 2026 22:26:37 +0000",
+    "processed": true,
+    "processedAt": "2026-08-13T05:23:17.237Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/polymaths-specialists-arent-required-ai-agent-workplace/",
+    "title": "'Specialists aren't required' anymore: How to stay valuable in an AI agent workplace today",
+    "description": "Versatility is in, with people expected to work across the tech stack.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-13T05:20:07.810Z",
+    "published": "Thu, 13 Aug 2026 01:00:39 GMT",
+    "processed": true,
+    "processedAt": "2026-08-13T05:23:17.237Z"
+  },
+  {
+    "url": "https://www.engadget.com/2235928/how-to-stop-twitch-training-ai-on-streams/",
+    "title": "How to stop Twitch from training AI on your streams",
+    "description": "And why the company didn&#39;t make the feature opt-in.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-13T05:20:08.455Z",
+    "published": "Wed, 12 Aug 2026 22:38:45 +0000",
+    "processed": true,
+    "processedAt": "2026-08-13T05:23:17.237Z"
   }
 ]
