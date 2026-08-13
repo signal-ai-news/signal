@@ -3151,9 +3151,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-03T12:40:02.693Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-13T09:46:52.926Z"
   },
   {
     "slug": "ai-art-wins-ohio-state-fair",
@@ -3173,9 +3174,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-03T12:40:02.693Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-13T09:47:06.920Z"
   },
   {
     "slug": "ai-deployment-solved",
