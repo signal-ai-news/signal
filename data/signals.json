@@ -21038,5 +21038,204 @@
     "published": "Wed, 12 Aug 2026 22:38:45 +0000",
     "processed": true,
     "processedAt": "2026-08-13T05:23:17.237Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+    "title": "How kids feel about AI, in their own words",
+    "description": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-13T09:43:39.516Z",
+    "published": "Thu, 13 Aug 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-13T09:47:15.898Z"
+  },
+  {
+    "url": "https://www.shaowuzhang.com/files/how-we-found-m23.pdf",
+    "title": "Affordable AI helped us solve 40yr degree 23 inverse Galois problem [pdf]",
+    "description": "Article URL: https://www.shaowuzhang.com/files/how-we-found-m23.pdf\nComments URL: https://news.ycombinator.com/item?id=49283581\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-13T09:43:45.122Z",
+    "published": "Thu, 13 Aug 2026 09:37:04 +0000",
+    "processed": true,
+    "processedAt": "2026-08-13T09:47:15.898Z"
+  },
+  {
+    "url": "https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model",
+    "title": "If I own Claude's outputs why can't I train my own model on them?",
+    "description": "Article URL: https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model\nComments URL: https://news.ycombinator.com/item?id=49283563\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-13T09:43:45.122Z",
+    "published": "Thu, 13 Aug 2026 09:34:13 +0000",
+    "processed": true,
+    "processedAt": "2026-08-13T09:47:15.898Z"
+  },
+  {
+    "url": "https://twitter.com/zachbussey/status/2087573860929478785",
+    "title": "Twitch now uses your channel to train generative AI by default",
+    "description": "Article URL: https://twitter.com/zachbussey/status/2087573860929478785\nComments URL: https://news.ycombinator.com/item?id=49283420\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-13T09:43:45.122Z",
+    "published": "Thu, 13 Aug 2026 09:14:31 +0000",
+    "processed": true,
+    "processedAt": "2026-08-13T09:47:15.898Z"
+  },
+  {
+    "url": "https://davidebtc186.substack.com/p/ai-vs-ai-how-boltzs-shutdown-reveals",
+    "title": "Boltz shuts down Bitcoin swaps, citing AI attacks outpacing patching",
+    "description": "Article URL: https://davidebtc186.substack.com/p/ai-vs-ai-how-boltzs-shutdown-reveals\nComments URL: https://news.ycombinator.com/item?id=49283406\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-13T09:43:45.122Z",
+    "published": "Thu, 13 Aug 2026 09:12:23 +0000",
+    "processed": true,
+    "processedAt": "2026-08-13T09:47:15.898Z"
+  },
+  {
+    "url": "https://arxiv.org/abs/2606.03811",
+    "title": "AI Agents Enable Adaptive Computer Worms",
+    "description": "Article URL: https://arxiv.org/abs/2606.03811\nComments URL: https://news.ycombinator.com/item?id=49283295\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-13T09:43:45.122Z",
+    "published": "Thu, 13 Aug 2026 08:52:44 +0000"
+  },
+  {
+    "url": "https://videoupscaler.com",
+    "title": "I built an AI video upscaler that runs the heavy GPU work in the cloud",
+    "description": "Article URL: https://videoupscaler.com\nComments URL: https://news.ycombinator.com/item?id=49283137\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-13T09:43:45.122Z",
+    "published": "Thu, 13 Aug 2026 08:29:35 +0000"
+  },
+  {
+    "url": "https://www.ign.com/articles/twitch-now-trains-amazons-generative-ai-models-on-your-channel-by-default",
+    "title": "Twitch Now Trains Amazon's Generative AI Models on Your Channel by Default",
+    "description": "Article URL: https://www.ign.com/articles/twitch-now-trains-amazons-generative-ai-models-on-your-channel-by-default\nComments URL: https://news.ycombinator.com/item?id=49283127\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-13T09:43:45.122Z",
+    "published": "Thu, 13 Aug 2026 08:26:44 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49283011",
+    "title": "Gemini API removes postpay billing",
+    "description": "Mail received:We are writing to inform you of an upcoming billing change to Google AI Studio and the Gemini API.We require developers to switch your Gemini API billing from Postpay to Prepay by September 14, 2026. This is part of our ongoing effort to improve our platform to give developers more co",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-13T09:43:45.122Z",
+    "published": "Thu, 13 Aug 2026 08:05:58 +0000"
+  },
+  {
+    "url": "https://github.com/rockeet/relational-to-kv",
+    "title": "Show HN: Relational-to-KV – AI maps relational models to ToplingDB/RocksDB",
+    "description": "Article URL: https://github.com/rockeet/relational-to-kv\nComments URL: https://news.ycombinator.com/item?id=49282960\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-13T09:43:45.122Z",
+    "published": "Thu, 13 Aug 2026 07:58:16 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.09867",
+    "title": "Stealing Reasoning Traces from Proprietary LLM APIs [pdf]",
+    "description": "Article URL: https://arxiv.org/abs/2608.09867\nComments URL: https://news.ycombinator.com/item?id=49282839\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-13T09:43:45.122Z",
+    "published": "Thu, 13 Aug 2026 07:41:03 +0000"
+  },
+  {
+    "url": "https://www.windowscentral.com/artificial-intelligence/if-it-was-opt-in-nobody-would-opt-in-cringe-twitch-cpo-admits-everyone-hates-its-ai-training-feature-doesnt-care",
+    "title": "Twitch CPO squirms, admits everyone hates its new AI training 'feature'",
+    "description": "Article URL: https://www.windowscentral.com/artificial-intelligence/if-it-was-opt-in-nobody-would-opt-in-cringe-twitch-cpo-admits-everyone-hates-its-ai-training-feature-doesnt-care\nComments URL: https://news.ycombinator.com/item?id=49282805\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-13T09:43:45.122Z",
+    "published": "Thu, 13 Aug 2026 07:35:17 +0000"
+  },
+  {
+    "url": "https://www.recastsystems.com/",
+    "title": "Recast uses hyper-resolution AI weather model",
+    "description": "Article URL: https://www.recastsystems.com/\nComments URL: https://news.ycombinator.com/item?id=49282801\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-13T09:43:45.122Z",
+    "published": "Thu, 13 Aug 2026 07:34:53 +0000"
+  },
+  {
+    "url": "https://comma.ai/shop/chestnut",
+    "title": "Comma.ai Launches a PCIe Gen4 X4 to USB4 Dock with Open-Source Firmware",
+    "description": "Article URL: https://comma.ai/shop/chestnut\nComments URL: https://news.ycombinator.com/item?id=49282649\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-13T09:43:45.122Z",
+    "published": "Thu, 13 Aug 2026 07:10:08 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.11694",
+    "title": "The Wording Effect: Quantifying Two-Way Drift in LLM Benchmark Performance",
+    "description": "Article URL: https://arxiv.org/abs/2608.11694\nComments URL: https://news.ycombinator.com/item?id=49282632\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-13T09:43:45.122Z",
+    "published": "Thu, 13 Aug 2026 07:07:07 +0000"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cwymw4434v7o",
+    "title": "Why Japanese firms are being so slow to use AI",
+    "description": "Article URL: https://www.bbc.co.uk/news/articles/cwymw4434v7o\nComments URL: https://news.ycombinator.com/item?id=49282544\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-13T09:43:45.122Z",
+    "published": "Thu, 13 Aug 2026 06:53:53 +0000"
+  },
+  {
+    "url": "https://webscraper.io/blog/how-web-scraper-was-translated-into-50-languages-with-ai",
+    "title": "Web Scraper was translated into 50 languages with AI",
+    "description": "Article URL: https://webscraper.io/blog/how-web-scraper-was-translated-into-50-languages-with-ai\nComments URL: https://news.ycombinator.com/item?id=49282505\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-13T09:43:45.122Z",
+    "published": "Thu, 13 Aug 2026 06:45:53 +0000"
+  },
+  {
+    "url": "https://www.echohive.ai/ai-engineering-acceleration",
+    "title": "Samsung used AI to cut a chip-verification loop 15–30×",
+    "description": "Article URL: https://www.echohive.ai/ai-engineering-acceleration\nComments URL: https://news.ycombinator.com/item?id=49282459\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-13T09:43:45.122Z",
+    "published": "Thu, 13 Aug 2026 06:37:50 +0000"
+  },
+  {
+    "url": "https://sparai.org/projects/f26/",
+    "title": "SPAR – Fall 2026 AI Safety Research Projects",
+    "description": "Article URL: https://sparai.org/projects/f26/\nComments URL: https://news.ycombinator.com/item?id=49282431\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-13T09:43:45.122Z",
+    "published": "Thu, 13 Aug 2026 06:32:49 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/fatty-liver-disease-ai-detection-cancer/",
+    "title": "There’s a Fatty Liver Epidemic. AI Could Help Get Ahead of It",
+    "description": "Over a billion people worldwide have livers with excess fat, which can lead to a host of medical problems. Researchers think AI tools can spot the condition—and help stop it—early enough to save lives.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-13T09:43:59.320Z",
+    "published": "Thu, 13 Aug 2026 09:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2236054/meta-donates-15000-ray-ban-meta-glasses-to-vision-ireland/",
+    "title": "Meta is giving away 15,000 AI glasses to blind and visually impaired people in Ireland",
+    "description": "Meta is donating 15,000 Ray-Ban Meta glasses to an Irish charity supporting people with sight loss.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-13T09:44:06.946Z",
+    "published": "Thu, 13 Aug 2026 09:26:41 +0000"
   }
 ]
