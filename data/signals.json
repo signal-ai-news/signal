@@ -22183,5 +22183,96 @@
     "category": "news",
     "discovered": "2026-08-14T20:07:49.909Z",
     "published": "Fri, 14 Aug 2026 19:04:42 +0000"
+  },
+  {
+    "url": "https://towardsdev.com/i-built-an-ai-agent-sandbox-from-the-go-standard-library-350ecac5d578?sk=f58cedafe6394788d87ecb3179f2ccbd",
+    "title": "Show HN: A sandbox for AI agents using nothing but Go's standard library",
+    "description": "Article URL: https://towardsdev.com/i-built-an-ai-agent-sandbox-from-the-go-standard-library-350ecac5d578?sk=f58cedafe6394788d87ecb3179f2ccbd\nComments URL: https://news.ycombinator.com/item?id=49304882\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T21:44:54.095Z",
+    "published": "Fri, 14 Aug 2026 21:36:07 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T21:48:25.815Z"
+  },
+  {
+    "url": "https://github.com/kanjani-ai-research/Vesta",
+    "title": "Vesta, adaptive ontology for Claude Code",
+    "description": "Article URL: https://github.com/kanjani-ai-research/Vesta\nComments URL: https://news.ycombinator.com/item?id=49304849\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T21:44:54.095Z",
+    "published": "Fri, 14 Aug 2026 21:33:11 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T21:48:25.815Z"
+  },
+  {
+    "url": "https://osaurus.ai",
+    "title": "AI runs here. Not out there",
+    "description": "Article URL: https://osaurus.ai\nComments URL: https://news.ycombinator.com/item?id=49304848\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T21:44:54.095Z",
+    "published": "Fri, 14 Aug 2026 21:32:28 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T21:48:25.815Z"
+  },
+  {
+    "url": "https://yeshi.ai/",
+    "title": "YeshiAI – AI for spiritual practice across five religious paths",
+    "description": "Article URL: https://yeshi.ai/\nComments URL: https://news.ycombinator.com/item?id=49304689\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T21:44:54.095Z",
+    "published": "Fri, 14 Aug 2026 21:15:31 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T21:48:25.815Z"
+  },
+  {
+    "url": "https://documentation.suse.com/suse-ai/1.0/html/AI-deployment/index.html",
+    "title": "Deploying and Installing SUSE AI",
+    "description": "Article URL: https://documentation.suse.com/suse-ai/1.0/html/AI-deployment/index.html\nComments URL: https://news.ycombinator.com/item?id=49304513\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T21:44:54.095Z",
+    "published": "Fri, 14 Aug 2026 20:58:40 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T21:48:25.815Z"
+  },
+  {
+    "url": "https://github.com/ob22a/ai-lab",
+    "title": "AI-Lab: Classical AI and search algorithms implemented in Python",
+    "description": "Article URL: https://github.com/ob22a/ai-lab\nComments URL: https://news.ycombinator.com/item?id=49304392\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T21:44:54.095Z",
+    "published": "Fri, 14 Aug 2026 20:47:57 +0000"
+  },
+  {
+    "url": "https://www.suse.com/news/suse-linux-enterprise-server-16-ai-ready-long-term-support/",
+    "title": "AI-Assisted Management Drives Latest SUSE Linux Release (2025)",
+    "description": "Article URL: https://www.suse.com/news/suse-linux-enterprise-server-16-ai-ready-long-term-support/\nComments URL: https://news.ycombinator.com/item?id=49304072\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T21:44:54.095Z",
+    "published": "Fri, 14 Aug 2026 20:21:05 +0000"
+  },
+  {
+    "url": "https://www.techradar.com/pro/young-people-increasingly-dont-trust-ai-or-the-billionaires-that-keep-telling-us-we-should-all-love-ai-survey-finds",
+    "title": "Young people increasingly don't trust AI",
+    "description": "Article URL: https://www.techradar.com/pro/young-people-increasingly-dont-trust-ai-or-the-billionaires-that-keep-telling-us-we-should-all-love-ai-survey-finds\nComments URL: https://news.ycombinator.com/item?id=49303999\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T21:44:54.095Z",
+    "published": "Fri, 14 Aug 2026 20:14:08 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-announces-watermark-detection-api-that-will-let-third-parties-detect-claudes-ai-texts/",
+    "title": "Anthropic announces watermark detection API that will let third parties detect Claude's AI texts",
+    "description": "Anthropic will soon offer a watermark detection API that lets third parties check whether text was written by Claude. The technology builds on Google's SynthID method and tweaks the randomness during word selection without affecting text quality, Anthropic says. The approach has limits with",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-14T21:45:01.823Z",
+    "published": "Fri, 14 Aug 2026 21:29:17 +0000"
   }
 ]
