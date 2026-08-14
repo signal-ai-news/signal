@@ -1733,7 +1733,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T12:54:23.949Z",
-    "published": "Wed, 22 Jul 2026 12:27:45 +0000"
+    "published": "Wed, 22 Jul 2026 12:27:45 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T05:17:57.708Z"
   },
   {
     "url": "https://github.com/Vortx-AI/emem",
@@ -1742,7 +1744,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T12:54:23.949Z",
-    "published": "Wed, 22 Jul 2026 12:22:43 +0000"
+    "published": "Wed, 22 Jul 2026 12:22:43 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T05:17:57.708Z"
   },
   {
     "url": "https://mastodon.social/@Edent/116963246879491202",
@@ -21637,5 +21641,38 @@
     "category": "news",
     "discovered": "2026-08-13T22:24:29.925Z",
     "published": "Thu, 13 Aug 2026 20:01:57 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+    "title": "The Safety Reckoning Inside OpenAI",
+    "description": "OpenAI’s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-14T05:15:05.690Z",
+    "published": "Thu, 13 Aug 2026 22:37:19 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T05:17:57.709Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/dicio-free-android-assistant-gemini-keeps-data-private/",
+    "title": "This free Android assistant fixes my biggest Gemini frustration - and keeps my data private",
+    "description": "With Google set to retire Assistant, and Gemini not exactly the replacement many of us want, Dicio is a solid option. There's one catch.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-14T05:15:12.699Z",
+    "published": "Fri, 14 Aug 2026 00:00:45 GMT",
+    "processed": true,
+    "processedAt": "2026-08-14T05:17:57.709Z"
+  },
+  {
+    "url": "https://www.engadget.com/2236741/mico-microsofts-weird-lil-ai-guy-has-been-demoted/",
+    "title": "Mico, Microsoft's weird lil' AI guy, has been demoted",
+    "description": "The amorphous corporate mascot will no longer haunt Copilot Voice.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-14T05:15:13.318Z",
+    "published": "Thu, 13 Aug 2026 22:51:31 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T05:17:57.709Z"
   }
 ]
