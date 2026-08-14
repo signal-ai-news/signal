@@ -22347,5 +22347,69 @@
     "category": "community",
     "discovered": "2026-08-14T22:55:39.581Z",
     "published": "Fri, 14 Aug 2026 21:48:09 +0000"
+  },
+  {
+    "url": "https://newsletter.kentbeck.com/p/baking-a-model",
+    "title": "Baking a Model: A Metaphor for LLM Training",
+    "description": "Article URL: https://newsletter.kentbeck.com/p/baking-a-model\nComments URL: https://news.ycombinator.com/item?id=49305969\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T23:55:33.695Z",
+    "published": "Fri, 14 Aug 2026 23:46:45 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T23:59:03.103Z"
+  },
+  {
+    "url": "https://flownie.com/",
+    "title": "Flownie – Open and Visual Data Workflow Platform with AI Agent Assistance",
+    "description": "Article URL: https://flownie.com/\nComments URL: https://news.ycombinator.com/item?id=49305904\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T23:55:33.695Z",
+    "published": "Fri, 14 Aug 2026 23:38:09 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T23:59:03.103Z"
+  },
+  {
+    "url": "https://github.com/talos-kernel/talos",
+    "title": "Talos AI Agent Super Secure",
+    "description": "Article URL: https://github.com/talos-kernel/talos\nComments URL: https://news.ycombinator.com/item?id=49305773\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T23:55:33.695Z",
+    "published": "Fri, 14 Aug 2026 23:18:48 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T23:59:03.103Z"
+  },
+  {
+    "url": "https://github.com/kikazamek999-eng/beyond-brute-force-scaling",
+    "title": "A Framework for Solving the AI Data Center Energy Crisis",
+    "description": "Article URL: https://github.com/kikazamek999-eng/beyond-brute-force-scaling\nComments URL: https://news.ycombinator.com/item?id=49305700\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T23:55:33.695Z",
+    "published": "Fri, 14 Aug 2026 23:11:12 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T23:59:03.103Z"
+  },
+  {
+    "url": "https://www.indiehackers.com/post/selling-my-production-ready-4-in-1-fastapi-ai-automation-suite-8-000-xUGCgKAjlrU9gcOIdp2Z",
+    "title": "Selling my production-ready 4-in-1 FastAPI AI Automation Suite ($8k)",
+    "description": "Article URL: https://www.indiehackers.com/post/selling-my-production-ready-4-in-1-fastapi-ai-automation-suite-8-000-xUGCgKAjlrU9gcOIdp2Z\nComments URL: https://news.ycombinator.com/item?id=49305690\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T23:55:33.695Z",
+    "published": "Fri, 14 Aug 2026 23:10:06 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T23:59:03.103Z"
+  },
+  {
+    "url": "https://github.com/robss2020/claude-fable-5-having-fun",
+    "title": "Claude Fable 5 Having Fun",
+    "description": "Article URL: https://github.com/robss2020/claude-fable-5-having-fun\nComments URL: https://news.ycombinator.com/item?id=49305642\nPoints: 8\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T23:55:33.695Z",
+    "published": "Fri, 14 Aug 2026 23:01:46 +0000"
   }
 ]
