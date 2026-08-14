@@ -21984,5 +21984,204 @@
     "category": "news",
     "discovered": "2026-08-14T18:31:39.647Z",
     "published": "Fri, 14 Aug 2026 16:00:16 GMT"
+  },
+  {
+    "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+    "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+    "description": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-08-14T20:07:20.965Z",
+    "published": "Fri, 14 Aug 2026 17:03:54 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T20:10:59.987Z"
+  },
+  {
+    "url": "https://www.aletheionagi.com",
+    "title": "Show HN: AletheionAGI – Grounding enforcement for AI agents",
+    "description": "Article URL: https://www.aletheionagi.com\nComments URL: https://news.ycombinator.com/item?id=49303499\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T20:07:28.973Z",
+    "published": "Fri, 14 Aug 2026 19:28:17 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T20:10:59.987Z"
+  },
+  {
+    "url": "https://biasly.ai/",
+    "title": "Show HN: Biasly.ai – Bias detection with historical context",
+    "description": "Article URL: https://biasly.ai/\nComments URL: https://news.ycombinator.com/item?id=49303447\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T20:07:28.973Z",
+    "published": "Fri, 14 Aug 2026 19:23:37 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T20:10:59.987Z"
+  },
+  {
+    "url": "https://cvd.z.ai",
+    "title": "Z.ai Security Disclosure",
+    "description": "Article URL: https://cvd.z.ai\nComments URL: https://news.ycombinator.com/item?id=49303433\nPoints: 22\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T20:07:28.973Z",
+    "published": "Fri, 14 Aug 2026 19:22:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T20:10:59.987Z"
+  },
+  {
+    "url": "https://www.anthropic.com/news/claude-text-watermark",
+    "title": "How Claude's text watermarking works",
+    "description": "Article URL: https://www.anthropic.com/news/claude-text-watermark\nComments URL: https://news.ycombinator.com/item?id=49303350\nPoints: 19\n# Comments: 12",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T20:07:28.973Z",
+    "published": "Fri, 14 Aug 2026 19:15:51 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T20:10:59.987Z"
+  },
+  {
+    "url": "https://talkingpostgres.com/episodes/how-ai-is-changing-software-development-with-simon-willison",
+    "title": "How AI is changing how I build software with Simon Willison, on Talking Postgres",
+    "description": "Article URL: https://talkingpostgres.com/episodes/how-ai-is-changing-software-development-with-simon-willison\nComments URL: https://news.ycombinator.com/item?id=49303217\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T20:07:28.973Z",
+    "published": "Fri, 14 Aug 2026 19:04:31 +0000"
+  },
+  {
+    "url": "https://finance.yahoo.com/healthcare/articles/exclusive-former-openai-exec-fidji-192343263.html",
+    "title": "Fmr OpenAI exec Fidji Simo discusses POTS battle and plan to cure it with AI",
+    "description": "Article URL: https://finance.yahoo.com/healthcare/articles/exclusive-former-openai-exec-fidji-192343263.html\nComments URL: https://news.ycombinator.com/item?id=49302933\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T20:07:28.973Z",
+    "published": "Fri, 14 Aug 2026 18:42:57 +0000"
+  },
+  {
+    "url": "https://www.moonlight.ng/captain/",
+    "title": "Show HN: Captain, AI Travel Agent",
+    "description": "I’m a software designer from Lagos exploring conversational interfaces and frameworks for building agents. I made Captain to help with everyday travel planning. It can explore an itinerary, check live flight prices, or watch for the right time to book. Captain is a Telegram bot powered by a general",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T20:07:28.973Z",
+    "published": "Fri, 14 Aug 2026 18:25:20 +0000"
+  },
+  {
+    "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+    "title": "You can now turn off Google Gemini's visible watermarks",
+    "description": "Article URL: https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal\nComments URL: https://news.ycombinator.com/item?id=49302644\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T20:07:28.973Z",
+    "published": "Fri, 14 Aug 2026 18:21:24 +0000"
+  },
+  {
+    "url": "https://github.com/OpenLabs-so/openanalytics",
+    "title": "Show HN: Open-source and AI native web analytics",
+    "description": "Article URL: https://github.com/OpenLabs-so/openanalytics\nComments URL: https://news.ycombinator.com/item?id=49302597\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T20:07:28.973Z",
+    "published": "Fri, 14 Aug 2026 18:17:42 +0000"
+  },
+  {
+    "url": "https://joshuasaxe181906.substack.com/p/we-urgently-need-a-coherent-national",
+    "title": "We urgently need a coherent national AI cybersecurity policy",
+    "description": "Article URL: https://joshuasaxe181906.substack.com/p/we-urgently-need-a-coherent-national\nComments URL: https://news.ycombinator.com/item?id=49302565\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T20:07:28.973Z",
+    "published": "Fri, 14 Aug 2026 18:15:00 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=2x0BKQBMbF4",
+    "title": "An easy way to build self-diagnosing and self-learning AI agents in production",
+    "description": "Article URL: https://www.youtube.com/watch?v=2x0BKQBMbF4\nComments URL: https://news.ycombinator.com/item?id=49302294\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T20:07:28.973Z",
+    "published": "Fri, 14 Aug 2026 17:55:36 +0000"
+  },
+  {
+    "url": "https://github.com/Anchorstate-Lab/GMR",
+    "title": "When facts change, should AI memory change?",
+    "description": "Article URL: https://github.com/Anchorstate-Lab/GMR\nComments URL: https://news.ycombinator.com/item?id=49302149\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T20:07:28.973Z",
+    "published": "Fri, 14 Aug 2026 17:46:26 +0000"
+  },
+  {
+    "url": "https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/",
+    "title": "Apple trains its own AI model for China market with Alibaba's support, sources",
+    "description": "Article URL: https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/\nComments URL: https://news.ycombinator.com/item?id=49302098\nPoints: 6\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T20:07:28.973Z",
+    "published": "Fri, 14 Aug 2026 17:43:35 +0000"
+  },
+  {
+    "url": "https://neurise.io/blog-auto-1-1-mld-usd-dla-river-ai-rewolucja-spersonalizowanego-ai.html",
+    "title": "1,1 mld USD dla River AI: Co oznacza rewolucja spersonalizowanego AI?",
+    "description": "Article URL: https://neurise.io/blog-auto-1-1-mld-usd-dla-river-ai-rewolucja-spersonalizowanego-ai.html\nComments URL: https://news.ycombinator.com/item?id=49302058\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T20:07:28.973Z",
+    "published": "Fri, 14 Aug 2026 17:41:09 +0000"
+  },
+  {
+    "url": "https://openrouter.ai/blog/announcements/web-search-benchmark/",
+    "title": "LLM Web Search Benchmarks: More Searches Beat a Better Search Engine",
+    "description": "Article URL: https://openrouter.ai/blog/announcements/web-search-benchmark/\nComments URL: https://news.ycombinator.com/item?id=49302033\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T20:07:28.973Z",
+    "published": "Fri, 14 Aug 2026 17:39:15 +0000"
+  },
+  {
+    "url": "https://github.com/insightitsGit/PrismManifest",
+    "title": "Agentic AI drops digits, This library catches them before it runs in fintech",
+    "description": "Article URL: https://github.com/insightitsGit/PrismManifest\nComments URL: https://news.ycombinator.com/item?id=49301925\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T20:07:28.973Z",
+    "published": "Fri, 14 Aug 2026 17:32:07 +0000"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-08-14/nvidia-s-500-billion-plan-envelops-wall-street-in-its-ai-frenzy",
+    "title": "Nvidia's $500B Plan Envelops Wall Sreett in Its AI Frenzy",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-08-14/nvidia-s-500-billion-plan-envelops-wall-street-in-its-ai-frenzy\nComments URL: https://news.ycombinator.com/item?id=49301890\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T20:07:28.973Z",
+    "published": "Fri, 14 Aug 2026 17:28:35 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49301819",
+    "title": "Ask HN: Has anyone been fired because of an AI-driven DDoS attack?",
+    "description": "I’m curious whether anyone here has experienced the human/business impact of the recent increase in automated or AI-assisted traffic and DDoS attacks.Has anyone actually lost their job, been fired, or had their team significantly downsized after an attack caused a major outage, unexpected cloud bil",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T20:07:28.973Z",
+    "published": "Fri, 14 Aug 2026 17:24:08 +0000"
+  },
+  {
+    "url": "https://inherentlabs.ai/research/training-to-replicate",
+    "title": "Training AI Scientists to Replicate Research",
+    "description": "Article URL: https://inherentlabs.ai/research/training-to-replicate\nComments URL: https://news.ycombinator.com/item?id=49301764\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T20:07:28.973Z",
+    "published": "Fri, 14 Aug 2026 17:20:01 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content/",
+    "title": "Google will now allow users to remove visible watermarks from AI content",
+    "description": "The invisible SynthID will remain.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-14T20:07:49.909Z",
+    "published": "Fri, 14 Aug 2026 19:04:42 +0000"
   }
 ]
