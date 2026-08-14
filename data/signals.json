@@ -21702,5 +21702,78 @@
     "published": "Fri, 14 Aug 2026 09:00:00 +0000",
     "processed": true,
     "processedAt": "2026-08-14T09:39:32.073Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/i-made-an-llm-lay-siege-to-my-minecraft-house/",
+    "title": "I Made an LLM Lay Siege to My Minecraft House",
+    "description": "Can a language model do live adversarial level design? Yes, emphasis on the adversarial part\nThe post I Made an LLM Lay Siege to My Minecraft House appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-14T12:29:49.936Z",
+    "published": "Fri, 14 Aug 2026 12:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T12:33:15.298Z"
+  },
+  {
+    "url": "https://the-decoder.com/claude-code-now-runs-daily-maintenance-on-anthropics-software-with-a-46-percent-merge-rate/",
+    "title": "Claude Code now runs daily maintenance on Anthropic's software with a 46 percent merge rate",
+    "description": "Anthropic is testing whether Claude Code can handle daily maintenance of the company's own apps, from crash fuzzing to dead-code removal. In a few weeks, the AI created 388 pull requests, and 46 percent were merged after human review. Claude Code inventor Boris Cherny sees this as \"early si",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-14T12:29:51.727Z",
+    "published": "Fri, 14 Aug 2026 11:44:38 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T12:33:15.298Z"
+  },
+  {
+    "url": "https://the-decoder.com/zhipu-ai-releases-glm-5-3-claims-its-the-strongest-open-weights-coding-model/",
+    "title": "Zhipu AI releases GLM-5.3, claims it's the strongest open-weights coding model",
+    "description": "Zhipu AI has released GLM-5.3, a model that, according to its own benchmarks, is the most powerful open-weights coding model, with a 50 percent improvement over its predecessor through post-training alone. Trained for cybersecurity, GLM-5.3 helped security teams find 2,436 vulnerabilities a",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-14T12:29:51.727Z",
+    "published": "Fri, 14 Aug 2026 10:21:34 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T12:33:15.298Z"
+  },
+  {
+    "url": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
+    "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
+    "description": "Joi AI hired 10 people to masturbate using AI companions as part of a monthlong “wellness” study. The company claims the practice could help “solve male loneliness.”",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-14T12:29:58.329Z",
+    "published": "Fri, 14 Aug 2026 10:45:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T12:33:15.298Z"
+  },
+  {
+    "url": "https://www.wired.com/story/people-are-marrying-chatbots-these-lawmakers-want-to-stop-them/",
+    "title": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
+    "description": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-14T12:29:58.329Z",
+    "published": "Fri, 14 Aug 2026 10:15:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T12:33:15.298Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/openfactory-is-an-impressive-new-service-that-allows-you-to-build-your-own-linux-distribution/",
+    "title": "I used OpenFactory to build my own Linux distro overnight - this AI tool is going to be big",
+    "description": "Need a custom Linux distribution, but don't have time to learn how to build one? OpenFactory can help you.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-14T12:30:16.457Z",
+    "published": "Fri, 14 Aug 2026 11:53:42 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2236912/deepseek-ai-models-get-four-times-pricier/",
+    "title": "DeepSeek's AI models are about to cost four times more",
+    "description": "DeepSeek has announced price hikes for its V4 models.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-14T12:30:17.071Z",
+    "published": "Fri, 14 Aug 2026 10:58:24 +0000"
   }
 ]
