@@ -3381,9 +3381,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-04T10:14:46.565Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-14T20:01:25.691Z"
   },
   {
     "slug": "trump-ai-policy-robotics-impact",
@@ -3403,9 +3404,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-04T10:14:46.565Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-14T20:01:34.841Z"
   },
   {
     "slug": "apple-lawsuit-fails",
@@ -6815,6 +6817,94 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-14T15:07:16.064Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-price-war-heats-up",
+    "title": "3 AI Giants Clash",
+    "summary": "Don't miss the ultimate AI showdown: OpenAI, Anthropic, and Chinese rivals are changing the game",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-price-war-heats-up.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-price-war-heats-up.html",
+    "sourceName": "Ars Technica AI",
+    "wordCount": 686,
+    "tags": [
+      "AI",
+      "OpenAI",
+      "Anthropic",
+      "Chinese AI",
+      "Price War"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-14T20:01:15.113Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "flock-ai-updates",
+    "title": "3 Essential AI Updates",
+    "summary": "Flock's new rules are changing the surveillance game - here's what you need to know",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/flock-ai-updates.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/flock-ai-updates.html",
+    "sourceName": "MIT Tech Review AI",
+    "wordCount": 573,
+    "tags": [
+      "Flock",
+      "AI",
+      "Surveillance",
+      "Technology",
+      "News"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-14T20:01:15.113Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "google-ai-watermark-removal",
+    "title": "3 AI Secrets Unlocked",
+    "summary": "Google's latest AI update is a breakthrough for creators, but what does it mean for you?",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/google-ai-watermark-removal.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/google-ai-watermark-removal.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 427,
+    "tags": [
+      "Google AI",
+      "AI Watermark",
+      "AI Generations",
+      "Content Creation",
+      "Tech News"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-14T20:01:15.113Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-data-scientist-workflow-2026",
+    "title": "5 Ways AI Changed My Life",
+    "summary": "Discover how AI has transformed the daily workflow of a data scientist in 2026",
+    "category": "ML",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-data-scientist-workflow-2026.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-data-scientist-workflow-2026.html",
+    "sourceName": "Towards Data Science",
+    "wordCount": 501,
+    "tags": [
+      "AI",
+      "Data Science",
+      "Machine Learning",
+      "Workflow Automation",
+      "Future of Work"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-14T20:01:15.113Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
