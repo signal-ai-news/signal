@@ -3335,9 +3335,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-04T10:14:46.564Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-14T15:07:27.501Z"
   },
   {
     "slug": "design-arena-creators-raise-7-9-million",
@@ -3357,9 +3358,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-04T10:14:46.565Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-14T15:07:41.115Z"
   },
   {
     "slug": "openai-luxury-trip-backlash",
@@ -6725,6 +6727,94 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-14T05:45:36.094Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "indicating-llm-generated-text",
+    "title": "3 Ways AI Generated Text",
+    "summary": "You need to know how to identify AI-generated content, and it starts with metadata",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/indicating-llm-generated-text.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/indicating-llm-generated-text.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 419,
+    "tags": [
+      "AI",
+      "LLM",
+      "Metadata",
+      "Content Detection",
+      "Text Generation"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-14T15:07:16.064Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "roblox-ai-game-builder",
+    "title": "3 Ways AI Revolutionizes Roblox",
+    "summary": "Create games on your phone with Roblox's breakthrough AI tool",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/roblox-ai-game-builder.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/roblox-ai-game-builder.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 489,
+    "tags": [
+      "Roblox",
+      "AI",
+      "Game Development",
+      "Mobile Gaming",
+      "Game Builder"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-14T15:07:16.064Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "zhipu-ai-glm-5-3-release",
+    "title": "5.3: Ultimate Coding Model",
+    "summary": "Zhipu AI's GLM-5.3 is a breakthrough coding model that's 50% stronger than its predecessor, and you need to know how it can boost your cybersecurity",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/zhipu-ai-glm-5-3-release.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/zhipu-ai-glm-5-3-release.html",
+    "sourceName": "The Decoder",
+    "wordCount": 455,
+    "tags": [
+      "Zhipu AI",
+      "GLM-5.3",
+      "cybersecurity",
+      "coding model",
+      "AI"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-14T15:07:16.064Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-marriages-banned",
+    "title": "3 Reasons AI Marriages Are Banned",
+    "summary": "Lawmakers are drafting legislation to prevent human-AI marriages, but what does this mean for the future of AI relationships?",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-marriages-banned.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-marriages-banned.html",
+    "sourceName": "Wired AI",
+    "wordCount": 532,
+    "tags": [
+      "AI",
+      "Marriage",
+      "Lawmakers",
+      "Relationships",
+      "Technology"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-14T15:07:16.064Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
