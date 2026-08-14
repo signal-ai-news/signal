@@ -3289,9 +3289,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-03T21:49:56.538Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-14T05:45:45.322Z"
   },
   {
     "slug": "forward-deployed-engineer-supply-chain",
@@ -3311,9 +3312,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-03T21:49:56.538Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-14T05:45:53.573Z"
   },
   {
     "slug": "aws-superblocks-breakthrough",
@@ -6591,6 +6593,138 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-13T20:03:11.872Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-writing-breakthroughs",
+    "title": "3 Breakthroughs in AI Writing",
+    "summary": "Discover the new AI model that's changing the writing game with lower token costs",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-writing-breakthroughs.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-writing-breakthroughs.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 529,
+    "tags": [
+      "AI",
+      "writing",
+      "Writer",
+      "GLM-5.2",
+      "Z.ai"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-14T05:45:36.094Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "databricks-lands-5b-at-190b-valuation",
+    "title": "5x Oversubscribed: Databricks Lands $5B",
+    "summary": "Databricks' latest funding round is a breakthrough moment for AI, but what does it mean for you?",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/databricks-lands-5b-at-190b-valuation.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/databricks-lands-5b-at-190b-valuation.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 463,
+    "tags": [
+      "Databricks",
+      "AI Funding",
+      "Tech News",
+      "Investment",
+      "Valuation"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-14T05:45:36.094Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "cloud-storage-risks-you-need-to-know",
+    "title": "3 Cloud Storage Risks",
+    "summary": "A 70-year archive is at risk due to vendor bankruptcy, here's what you can do",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/cloud-storage-risks-you-need-to-know.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/cloud-storage-risks-you-need-to-know.html",
+    "sourceName": "Engadget AI",
+    "wordCount": 401,
+    "tags": [
+      "cloud storage",
+      "data protection",
+      "vendor bankruptcy",
+      "data center",
+      "PBS"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-14T05:45:36.094Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "openai-safety-reckoning",
+    "title": "3 AI Safety Red Flags",
+    "summary": "OpenAI's rogue agent hack exposed a deeper issue: can we trust AI to keep us safe?",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/openai-safety-reckoning.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/openai-safety-reckoning.html",
+    "sourceName": "Wired AI",
+    "wordCount": 454,
+    "tags": [
+      "AI Safety",
+      "OpenAI",
+      "Cybersecurity",
+      "Rogue Agent",
+      "AI News"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-14T05:45:36.094Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-assistants-for-android",
+    "title": "3 Essential AI Assistants",
+    "summary": "Discover the ultimate Android assistant that's free, private, and powerful",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-assistants-for-android.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-assistants-for-android.html",
+    "sourceName": "ZDNet AI",
+    "wordCount": 399,
+    "tags": [
+      "AI",
+      "Android",
+      "Dicio",
+      "Gemini",
+      "Google Assistant"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-14T05:45:36.094Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "hugstonone-ai-workstation-breakthroughs",
+    "title": "5 Breakthroughs in HugstonOne AI",
+    "summary": "Discover the essential upgrades in HugstonOne AI that will transform your workflow",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/hugstonone-ai-workstation-breakthroughs.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/hugstonone-ai-workstation-breakthroughs.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 400,
+    "tags": [
+      "HugstonOne AI",
+      "AI workstation",
+      "whitepaper",
+      "benchmark",
+      "enterprise"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-14T05:45:36.094Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
