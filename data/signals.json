@@ -21775,5 +21775,96 @@
     "category": "news",
     "discovered": "2026-08-14T12:30:17.071Z",
     "published": "Fri, 14 Aug 2026 10:58:24 +0000"
+  },
+  {
+    "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "title": "State of Open Models: Summer 2026 Observations",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-08-14T15:26:01.431Z",
+    "published": "Fri, 14 Aug 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-14T15:29:23.241Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+    "title": "Kog is going deeper to squeeze more inference out of GPUs",
+    "description": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-14T15:26:02.641Z",
+    "published": "Fri, 14 Aug 2026 14:50:11 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T15:29:23.241Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+    "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+    "description": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-14T15:26:02.641Z",
+    "published": "Fri, 14 Aug 2026 14:05:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T15:29:23.241Z"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+    "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+    "description": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-08-14T15:26:03.566Z",
+    "published": "Fri, 14 Aug 2026 14:27:14 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T15:29:23.241Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+    "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwid",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-14T15:26:04.240Z",
+    "published": "Fri, 14 Aug 2026 12:17:21 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T15:29:23.241Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/rag-workflow-and-loop-engineering-the-dispatcher-that-decides-when-to-loop-and-when-to-stop/",
+    "title": "RAG Workflow and Loop Engineering: The Dispatcher That Decides When to Loop and When to Stop",
+    "description": "Enterprise Document Intelligence [Vol.1 #13] - Putting the patterns together, and why this is what “agentic RAG” should look like\nThe post RAG Workflow and Loop Engineering: The Dispatcher That Decides When to Loop and When to Stop appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-14T15:26:19.060Z",
+    "published": "Fri, 14 Aug 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/my-model-was-cheating-on-its-own-test/",
+    "title": "My Model Was Cheating on Its Own Test",
+    "description": "A preprocessing pipeline let my car price model peek at the test set before the exam, and the twelve points of R squared it cheated its way to\nThe post My Model Was Cheating on Its Own Test appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-14T15:26:19.060Z",
+    "published": "Fri, 14 Aug 2026 13:30:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/gpt-5-6-sol-goes-14x-faster-as-openai-launches-ultrafast-mode-powered-by-cerebras/",
+    "title": "GPT-5.6 Sol goes 14x faster as OpenAI launches Ultrafast mode powered by Cerebras",
+    "description": "OpenAI is launching \"Ultrafast,\" a new inference mode that delivers GPT-5.6 Sol at up to 750 output tokens per second, powered by Cerebras hardware from their $10 billion partnership. Together with \"Standard\" and \"Fast,\" Ultrafast creates a three-tier pricing structure that turns inference",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-14T15:26:20.766Z",
+    "published": "Fri, 14 Aug 2026 14:21:50 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
+    "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
+    "description": "Tim O’Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI—as long as it’s open source.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-14T15:26:27.711Z",
+    "published": "Fri, 14 Aug 2026 15:00:00 +0000"
   }
 ]
