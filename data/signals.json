@@ -21866,5 +21866,123 @@
     "category": "news",
     "discovered": "2026-08-14T15:26:27.711Z",
     "published": "Fri, 14 Aug 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+    "title": "Google will now allow users to remove visible watermark from its AI generations",
+    "description": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-14T18:31:07.503Z",
+    "published": "Fri, 14 Aug 2026 16:13:40 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T18:34:48.680Z"
+  },
+  {
+    "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+    "description": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#16",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-14T18:31:07.503Z",
+    "published": "Fri, 14 Aug 2026 15:43:28 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T18:34:48.680Z"
+  },
+  {
+    "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+    "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+    "description": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#16",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-14T18:31:07.503Z",
+    "published": "Fri, 14 Aug 2026 14:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T18:34:48.680Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/a-day-in-the-life-of-a-data-scientist-in-2026/",
+    "title": "A Day in the Life of a Data Scientist in 2026",
+    "description": "How AI has massively changed my day-to-day workflow\nThe post A Day in the Life of a Data Scientist in 2026 appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-14T18:31:25.636Z",
+    "published": "Fri, 14 Aug 2026 16:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T18:34:48.680Z"
+  },
+  {
+    "url": "https://the-decoder.com/alibabas-qwen-team-releases-qwen-3-8-models-with-open-weights-under-the-apache-2-0-license/",
+    "title": "Alibaba's Qwen team releases Qwen 3.8 models with open weights under the Apache 2.0 license",
+    "description": "Alibaba's AI team Qwen has released new open model weights under the Apache 2.0 license with Qwen 3.8. The dense 27-billion-parameter model is designed to outperform the larger Qwen 3.7 Plus in coding and office tasks and natively processes up to 262,000 tokens of context. With this release",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-14T18:31:27.338Z",
+    "published": "Fri, 14 Aug 2026 17:01:54 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T18:34:48.680Z"
+  },
+  {
+    "url": "https://the-decoder.com/openais-computer-history-turns-your-clicks-and-keystrokes-into-a-searchable-chatgpt-memory-timeline/",
+    "title": "OpenAI's Computer History turns your clicks and keystrokes into a searchable ChatGPT memory timeline",
+    "description": "OpenAI's Computer History records clicks, keystrokes, and app switches on Mac and turns them into a searchable timeline for ChatGPT and Codex. The data is stored locally as unencrypted Markdown files. OpenAI says it's not used for AI training, but memories that feed into chats may still end",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-14T18:31:27.338Z",
+    "published": "Fri, 14 Aug 2026 16:43:43 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/study-contradicts-anthropic-and-openai-claims-that-autonomous-ai-research-is-within-reach/",
+    "title": "Study contradicts Anthropic and OpenAI claims that autonomous AI research is within reach",
+    "description": "AI agents using Claude Opus 4.8 and GPT-5.6 Sol were given six days, $3,000 in API credits, and GPU access to independently write AI research papers. The original authors of unpublished NeurIPS papers rated the results as \"Reject.\" According to the study, conducted with Princeton and the UK",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-14T18:31:27.338Z",
+    "published": "Fri, 14 Aug 2026 16:06:32 +0000"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
+    "title": "How to bring your software delivery workflow into GitHub with agent apps",
+    "description": "See how four GitHub agent apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub. \nThe post How to bring your software delivery workflow into GitHub with agent apps appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-08-14T18:31:32.378Z",
+    "published": "Fri, 14 Aug 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/google-meet-take-notes-in-person-meetings-how-it-works/",
+    "title": "Google Meet can take notes for your in-person meetings now - here's how it works",
+    "description": "Google's Gemini-driven meeting software can now save a transcript, send it to Google Drive, and email you a copy.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-14T18:31:39.647Z",
+    "published": "Fri, 14 Aug 2026 16:54:29 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/apple-warns-targetted-spyware-attacks-what-to-do/",
+    "title": "Apple is warning users of new spyware attacks - what to do if you're a target",
+    "description": "New spyware attacks are aimed at journalists, activists, politicians, diplomats, and others. Here's how Apple is notifying them and what they should do - after turning on Lockdown Mode.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-14T18:31:39.647Z",
+    "published": "Fri, 14 Aug 2026 16:08:11 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/dell-xps-13-spotlight/",
+    "title": "Dell XPS 13 review: The first budget laptop to rival Neo raises the bar for all PCs",
+    "description": "The Dell XPS 13 flaunts build quality rarely seen at this price point, but not without trade-offs.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-14T18:31:39.647Z",
+    "published": "Fri, 14 Aug 2026 16:00:46 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/chatgpt-computer-history/",
+    "title": "ChatGPT's new Computer History tracks your Mac activity to create a timeline -  but should you let it?",
+    "description": "Rolling out to ChatGPT's Mac app, Computer History creates a timeline from your activities across the apps and websites you use on your Mac. Is that a privacy risk?",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-14T18:31:39.647Z",
+    "published": "Fri, 14 Aug 2026 16:00:16 GMT"
   }
 ]
