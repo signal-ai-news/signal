@@ -1755,7 +1755,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T12:54:23.949Z",
-    "published": "Wed, 22 Jul 2026 12:15:44 +0000"
+    "published": "Wed, 22 Jul 2026 12:15:44 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T09:39:32.072Z"
   },
   {
     "url": "https://www.theverge.com/games/966589/roblox-build-ai-phone-moblie-games",
@@ -1764,7 +1766,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T12:54:23.949Z",
-    "published": "Wed, 22 Jul 2026 12:15:24 +0000"
+    "published": "Wed, 22 Jul 2026 12:15:24 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T09:39:32.072Z"
   },
   {
     "url": "https://github.com/BrunkenClaas/lx",
@@ -1773,7 +1777,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T12:54:23.949Z",
-    "published": "Wed, 22 Jul 2026 12:14:09 +0000"
+    "published": "Wed, 22 Jul 2026 12:14:09 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T09:39:32.072Z"
   },
   {
     "url": "https://ronaknathani.com/blog/2026/07/spend-the-ai-dividend-on-quality/",
@@ -21674,5 +21680,27 @@
     "published": "Thu, 13 Aug 2026 22:51:31 +0000",
     "processed": true,
     "processedAt": "2026-08-14T05:17:57.709Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+    "title": "This scientist is helping build a missing map of childhood",
+    "description": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged,",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-14T09:35:58.343Z",
+    "published": "Fri, 14 Aug 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T09:39:32.073Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+    "title": "Job titles of the future: Space travel agent",
+    "description": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman &#38; Erica, he has orchestrated everything from the construction of a client’s superyacht to vacations in the Bahamas at a location so private that guests must sign an N",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-14T09:35:58.343Z",
+    "published": "Fri, 14 Aug 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T09:39:32.073Z"
   }
 ]
