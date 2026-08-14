@@ -22274,5 +22274,78 @@
     "category": "news",
     "discovered": "2026-08-14T21:45:01.823Z",
     "published": "Fri, 14 Aug 2026 21:29:17 +0000"
+  },
+  {
+    "url": "https://pub.towardsai.net/grok-4-6-x-cursor-elon-musk-just-bought-his-way-into-the-ai-coding-war-15a1292d4121",
+    "title": "Musk assembled a full-stack AI coding play while everyone watched benchmarks",
+    "description": "Article URL: https://pub.towardsai.net/grok-4-6-x-cursor-elon-musk-just-bought-his-way-into-the-ai-coding-war-15a1292d4121\nComments URL: https://news.ycombinator.com/item?id=49305536\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T22:55:39.581Z",
+    "published": "Fri, 14 Aug 2026 22:44:34 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T22:59:10.393Z"
+  },
+  {
+    "url": "https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/",
+    "title": "US to tell partners they must pick sides in AI race with China",
+    "description": "Article URL: https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/\nComments URL: https://news.ycombinator.com/item?id=49305304\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T22:55:39.581Z",
+    "published": "Fri, 14 Aug 2026 22:18:51 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T22:59:10.393Z"
+  },
+  {
+    "url": "https://www.taipeitimes.com/News/front/archives/2026/08/14/2003862463",
+    "title": "Taiwan targeted in AI-driven hacking campaign",
+    "description": "Article URL: https://www.taipeitimes.com/News/front/archives/2026/08/14/2003862463\nComments URL: https://news.ycombinator.com/item?id=49305196\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T22:55:39.581Z",
+    "published": "Fri, 14 Aug 2026 22:09:51 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T22:59:10.393Z"
+  },
+  {
+    "url": "https://fn2.ai/claude",
+    "title": "Show HN: I built a Claude Code plugin to query 10.6M earnings-call embeddings",
+    "description": "Hi HN,I've been using LLMs for one-off market questions against a database of earnings transcripts since ~2025. In tech years that's a long time so as a Solo dev I built a platform around it and have been adding miscellaneous other financial tools and integrations. Backend infrastructure is super b",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T22:55:39.581Z",
+    "published": "Fri, 14 Aug 2026 22:09:36 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T22:59:10.393Z"
+  },
+  {
+    "url": "https://playhyperbubble.com/",
+    "title": "Show HN: I asked Claude to turn 20 years of my research into a game",
+    "description": "I'm a professor of advanced technology transitions at ASU, and part of my work includes pushing at the edges of what frontier models can and can't do. Out of curiosity I asked Fable 5, via Claude Code, to research the past two decades of my research and design a browser game from it — something tha",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T22:55:39.581Z",
+    "published": "Fri, 14 Aug 2026 22:01:06 +0000",
+    "processed": true,
+    "processedAt": "2026-08-14T22:59:10.393Z"
+  },
+  {
+    "url": "https://weavescope.com/",
+    "title": "Show HN: WeaveScope – Elixir native observability for AI agents",
+    "description": "Article URL: https://weavescope.com/\nComments URL: https://news.ycombinator.com/item?id=49305100\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T22:55:39.581Z",
+    "published": "Fri, 14 Aug 2026 21:58:16 +0000"
+  },
+  {
+    "url": "https://embassia.com",
+    "title": "Show HN: Embassia – LLM Search Console – Web crawlers talk to your site's agent",
+    "description": "You want to know what visitors are actually curious about.But there is no adequate tool for this. Not even the Google Search Console.Right now:-Crawlers use superficial queries.\n-They get data from your website.\n-You get zero deep intent.So we are building Embassia.-Integrate our agent on your webs",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-14T22:55:39.581Z",
+    "published": "Fri, 14 Aug 2026 21:48:09 +0000"
   }
 ]
