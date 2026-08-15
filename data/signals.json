@@ -23088,5 +23088,114 @@
     "published": "Sat, 15 Aug 2026 15:30:00 +0000",
     "processed": true,
     "processedAt": "2026-08-15T15:52:07.012Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+    "title": "SpaceX officially closes its Cursor acquisition",
+    "description": "AI coding startup Cursor is now officially a part of SpaceX.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-15T16:55:45.996Z",
+    "published": "Sat, 15 Aug 2026 16:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T16:59:09.128Z"
+  },
+  {
+    "url": "https://intelligence.org/briefing/",
+    "title": "Briefing on Extinction-Level AI Threats",
+    "description": "Article URL: https://intelligence.org/briefing/\nComments URL: https://news.ycombinator.com/item?id=49311954\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T16:55:54.694Z",
+    "published": "Sat, 15 Aug 2026 16:33:30 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T16:59:09.128Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=iVXerna_D4A",
+    "title": "Godfather of AI: \"If you sleep well tonight...\" [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=iVXerna_D4A\nComments URL: https://news.ycombinator.com/item?id=49311880\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T16:55:54.694Z",
+    "published": "Sat, 15 Aug 2026 16:24:46 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T16:59:09.128Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=iPUn1Fnfn0k",
+    "title": "Is AI Coding Effecting Our Mental Health? [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=iPUn1Fnfn0k\nComments URL: https://news.ycombinator.com/item?id=49311858\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T16:55:54.694Z",
+    "published": "Sat, 15 Aug 2026 16:21:54 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T16:59:09.128Z"
+  },
+  {
+    "url": "https://myfirst.news/",
+    "title": "Show HN: MyFirst.News – AI-generated podcast for curious kids",
+    "description": "Article URL: https://myfirst.news/\nComments URL: https://news.ycombinator.com/item?id=49311773\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T16:55:54.694Z",
+    "published": "Sat, 15 Aug 2026 16:14:11 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T16:59:09.128Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49311655",
+    "title": "Ask HN: How to Stay Marketable in the AI Era?",
+    "description": "I've got a CS degree and I'm working as a mid-level full stack developer.An unfortunate part of my career is being based in Iraq where almost no developer job exists, even if it did the competition would be crazy.I want to learn something new even if not software development related that should kee",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T16:55:54.694Z",
+    "published": "Sat, 15 Aug 2026 15:58:59 +0000"
+  },
+  {
+    "url": "https://mangatranslator.me/",
+    "title": "Mee Manga Translator: AI manga translation that preserves original artwork",
+    "description": "Article URL: https://mangatranslator.me/\nComments URL: https://news.ycombinator.com/item?id=49311584\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T16:55:54.694Z",
+    "published": "Sat, 15 Aug 2026 15:51:22 +0000"
+  },
+  {
+    "url": "https://see-geo.com",
+    "title": "Has anyone tried this tool to improve LLM visibility?",
+    "description": "Article URL: https://see-geo.com\nComments URL: https://news.ycombinator.com/item?id=49311474\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T16:55:54.694Z",
+    "published": "Sat, 15 Aug 2026 15:36:25 +0000"
+  },
+  {
+    "url": "https://spectrum.ieee.org/ai-designed-virus",
+    "title": "AI Can Now Design Functional Viruses. Should We Worry?",
+    "description": "Article URL: https://spectrum.ieee.org/ai-designed-virus\nComments URL: https://news.ycombinator.com/item?id=49311445\nPoints: 45\n# Comments: 53",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T16:55:54.694Z",
+    "published": "Sat, 15 Aug 2026 15:32:25 +0000"
+  },
+  {
+    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live/",
+    "title": "We built a realtime system for responsive voice AI in six months",
+    "description": "Article URL: https://openai.com/index/continuous-voice-interaction-with-gpt-live/\nComments URL: https://news.ycombinator.com/item?id=49311259\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T16:55:54.694Z",
+    "published": "Sat, 15 Aug 2026 15:12:49 +0000"
+  },
+  {
+    "url": "https://theconversation.com/china-is-shaping-the-future-of-open-source-technology-including-ai-288061",
+    "title": "China is shaping the future of open‑source technology – including AI",
+    "description": "Article URL: https://theconversation.com/china-is-shaping-the-future-of-open-source-technology-including-ai-288061\nComments URL: https://news.ycombinator.com/item?id=49311121\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T16:55:54.694Z",
+    "published": "Sat, 15 Aug 2026 14:56:31 +0000"
   }
 ]
