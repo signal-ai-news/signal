@@ -2030,7 +2030,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T14:26:21.844Z",
-    "published": "Wed, 22 Jul 2026 13:44:06 +0000"
+    "published": "Wed, 22 Jul 2026 13:44:06 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T07:47:03.123Z"
   },
   {
     "url": "https://thenextweb.com/news/openai-confirms-its-ai-broke-out-of-a-sandbox-and-breached-hugging-face",
@@ -2039,7 +2041,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T14:26:21.844Z",
-    "published": "Wed, 22 Jul 2026 13:42:51 +0000"
+    "published": "Wed, 22 Jul 2026 13:42:51 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T07:47:03.123Z"
   },
   {
     "url": "https://tlsradar.com/scan",
@@ -2048,7 +2052,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T14:26:21.844Z",
-    "published": "Wed, 22 Jul 2026 13:41:31 +0000"
+    "published": "Wed, 22 Jul 2026 13:41:31 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T07:47:03.123Z"
   },
   {
     "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
@@ -22450,5 +22456,27 @@
     "published": "Sat, 15 Aug 2026 05:30:18 +0000",
     "processed": true,
     "processedAt": "2026-08-15T05:49:44.428Z"
+  },
+  {
+    "url": "https://the-decoder.com/world-labs-turns-one-real-world-robot-task-into-thousands-of-simulated-variations-for-training/",
+    "title": "World Labs turns one real-world robot task into thousands of simulated variations for training",
+    "description": "World Labs, the startup founded by AI pioneer Fei-Fei Li, has unveiled a simulation engine that trains robot controllers entirely in virtual environments. From a single real-world task, the system generates thousands of controlled variations. The trained models then ran for one hour each on",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-15T07:43:43.494Z",
+    "published": "Sat, 15 Aug 2026 07:30:48 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T07:47:03.123Z"
+  },
+  {
+    "url": "https://the-decoder.com/the-tragedy-of-the-cognitive-commons-explains-how-rational-ai-adoption-could-destroy-entire-professions-expertise/",
+    "title": "The \"tragedy of the cognitive commons\" explains how rational AI adoption could destroy entire professions' expertise",
+    "description": "A new research paper frames AI adoption as a \"tragedy of the cognitive commons.\" Every company that cuts entry-level jobs benefits individually, but the collective expertise of entire professions erodes. The consequences may not become visible until 2030 to 2045, when today's missing junior",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-15T07:43:43.494Z",
+    "published": "Sat, 15 Aug 2026 06:00:52 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T07:47:03.123Z"
   }
 ]
