@@ -23298,5 +23298,78 @@
     "published": "Sat, 15 Aug 2026 18:00:00 +0000",
     "processed": true,
     "processedAt": "2026-08-15T19:05:17.936Z"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/cz97ljy91zxo",
+    "title": "Why tech bosses keep sharing their manifestos about AI",
+    "description": "Article URL: https://www.bbc.com/news/articles/cz97ljy91zxo\nComments URL: https://news.ycombinator.com/item?id=49313519\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T19:45:10.149Z",
+    "published": "Sat, 15 Aug 2026 19:30:32 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T19:48:13.320Z"
+  },
+  {
+    "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+    "title": "So How Is AI Drug Discovery Doing, Really?",
+    "description": "Article URL: https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really\nComments URL: https://news.ycombinator.com/item?id=49313367\nPoints: 12\n# Comments: 5",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T19:45:10.149Z",
+    "published": "Sat, 15 Aug 2026 19:12:53 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T19:48:13.320Z"
+  },
+  {
+    "url": "https://www.atomic14.com/2026/08/15/output-style-does-nothing",
+    "title": "The Output Style, It Does Nothing – Learning to Live with Claude",
+    "description": "Article URL: https://www.atomic14.com/2026/08/15/output-style-does-nothing\nComments URL: https://news.ycombinator.com/item?id=49313024\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T19:45:10.149Z",
+    "published": "Sat, 15 Aug 2026 18:30:23 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T19:48:13.320Z"
+  },
+  {
+    "url": "https://thezvi.substack.com/p/the-three-ai-pills",
+    "title": "The Three AI Pills",
+    "description": "Article URL: https://thezvi.substack.com/p/the-three-ai-pills\nComments URL: https://news.ycombinator.com/item?id=49312959\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T19:45:10.149Z",
+    "published": "Sat, 15 Aug 2026 18:24:27 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T19:48:13.320Z"
+  },
+  {
+    "url": "https://github.com/narelabs/TUPOI",
+    "title": "Tupoi: An attention-free LLM with strictly O(1) memory and 6 KB state",
+    "description": "Article URL: https://github.com/narelabs/TUPOI\nComments URL: https://news.ycombinator.com/item?id=49312921\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T19:45:10.149Z",
+    "published": "Sat, 15 Aug 2026 18:21:24 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T19:48:13.320Z"
+  },
+  {
+    "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+    "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+    "description": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians\nComments URL: https://news.ycombinator.com/item?id=49312845\nPoints: 174\n# Comments: 134",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T19:45:10.150Z",
+    "published": "Sat, 15 Aug 2026 18:13:02 +0000"
+  },
+  {
+    "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+    "title": "AI detectors are creating a new era of distrust",
+    "description": "Article URL: https://www.theverge.com/column/976690/ai-writing-detectors-suspicion\nComments URL: https://news.ycombinator.com/item?id=49312810\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T19:45:10.150Z",
+    "published": "Sat, 15 Aug 2026 18:07:52 +0000"
   }
 ]
