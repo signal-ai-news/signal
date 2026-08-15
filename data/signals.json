@@ -1788,7 +1788,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T12:54:23.949Z",
-    "published": "Wed, 22 Jul 2026 12:13:23 +0000"
+    "published": "Wed, 22 Jul 2026 12:13:23 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T03:08:33.141Z"
   },
   {
     "url": "https://grith.ai/blog/openai-model-breached-hugging-face-eval-breakout",
@@ -1797,7 +1799,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T12:54:23.949Z",
-    "published": "Wed, 22 Jul 2026 12:12:09 +0000"
+    "published": "Wed, 22 Jul 2026 12:12:09 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T03:08:33.141Z"
   },
   {
     "url": "https://github.com/menot-you/n-memory",
@@ -1806,7 +1810,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T12:54:23.949Z",
-    "published": "Wed, 22 Jul 2026 12:10:38 +0000"
+    "published": "Wed, 22 Jul 2026 12:10:38 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T03:08:33.141Z"
   },
   {
     "url": "https://towardsdatascience.com/from-green-checkmark-to-real-judgment-auditing-ai-agent-skills-with-skillspector/",
@@ -1815,7 +1821,9 @@
     "source": "Towards Data Science",
     "category": "ml",
     "discovered": "2026-07-22T12:54:30.621Z",
-    "published": "Wed, 22 Jul 2026 12:00:00 +0000"
+    "published": "Wed, 22 Jul 2026 12:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T03:08:33.141Z"
   },
   {
     "url": "https://the-decoder.com/samsung-deepens-its-ai-empire-with-a-potential-billion-euro-stake-in-europes-hottest-ai-startup/",
@@ -1824,7 +1832,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-22T12:54:32.923Z",
-    "published": "Wed, 22 Jul 2026 11:24:08 +0000"
+    "published": "Wed, 22 Jul 2026 11:24:08 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T03:08:33.141Z"
   },
   {
     "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
