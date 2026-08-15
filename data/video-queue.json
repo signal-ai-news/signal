@@ -3565,9 +3565,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-05T10:05:57.961Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-15T19:01:25.952Z"
   },
   {
     "slug": "openai-third-party-cyber-evaluations",
@@ -3587,9 +3588,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-05T10:05:57.961Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-15T19:01:35.907Z"
   },
   {
     "slug": "windborne-ai-weather-forecasting",
@@ -7527,6 +7529,138 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-15T13:21:04.749Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-social-bot-dangers",
+    "title": "3 AI Bot Dangers",
+    "summary": "New AI tool can create and detect social bot content, but what does it mean for you?",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-social-bot-dangers.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-social-bot-dangers.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 515,
+    "tags": [
+      "AI",
+      "Social Bots",
+      "Machine Learning",
+      "Cybersecurity",
+      "Tech News"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-15T19:01:14.492Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "us-ai-coalition-china-warning",
+    "title": "3 AI Sides: US Warns Allies",
+    "summary": "The US is warning its allies to pick a side in the AI race with China, but what does this mean for you?",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/us-ai-coalition-china-warning.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/us-ai-coalition-china-warning.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 604,
+    "tags": [
+      "AI",
+      "US",
+      "China",
+      "Tech",
+      "Coalition"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-15T19:01:14.492Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "analog-tv-explained",
+    "title": "3 Reasons Analog TV Matters",
+    "summary": "You need to know the difference between analog and digital TV, and it's not just about picture quality",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/analog-tv-explained.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/analog-tv-explained.html",
+    "sourceName": "Engadget AI",
+    "wordCount": 460,
+    "tags": [
+      "analog TV",
+      "digital TV",
+      "TV technology",
+      "entertainment",
+      "tech news"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-15T19:01:14.492Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "etsy-failing-sellers-fleeing",
+    "title": "3 Reasons Etsy Is Failing",
+    "summary": "Etsy's shift towards mass-produced goods and AI knockoffs is driving away its core sellers",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/etsy-failing-sellers-fleeing.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/etsy-failing-sellers-fleeing.html",
+    "sourceName": "Wired AI",
+    "wordCount": 464,
+    "tags": [
+      "Etsy",
+      "AI",
+      "e-commerce",
+      "sellers",
+      "mass-produced goods"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-15T19:01:14.492Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "spacex-cursor-acquisition",
+    "title": "3 Reasons SpaceX Acquired Cursor",
+    "summary": "SpaceX just acquired AI coding startup Cursor - here's what you need to know",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/spacex-cursor-acquisition.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/spacex-cursor-acquisition.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 568,
+    "tags": [
+      "SpaceX",
+      "Cursor",
+      "AI coding",
+      "acquisition",
+      "tech news"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-15T19:01:14.492Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-monitoring-essential-tools",
+    "title": "3 Essential AI Monitoring Tools",
+    "summary": "You need to know about self-hosted monitoring for AI recommendations",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-monitoring-essential-tools.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-monitoring-essential-tools.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 450,
+    "tags": [
+      "AI",
+      "monitoring",
+      "self-hosted",
+      "recommendations",
+      "MIT License"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-15T19:01:14.492Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
