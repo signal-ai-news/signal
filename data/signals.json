@@ -23371,5 +23371,78 @@
     "category": "community",
     "discovered": "2026-08-15T19:45:10.150Z",
     "published": "Sat, 15 Aug 2026 18:07:52 +0000"
+  },
+  {
+    "url": "https://temporalstore.ai/blog-context-management.html",
+    "title": "TemporalStore: A disruptive open-source engine managing your LLM memory",
+    "description": "Article URL: https://temporalstore.ai/blog-context-management.html\nComments URL: https://news.ycombinator.com/item?id=49314204\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T20:53:30.340Z",
+    "published": "Sat, 15 Aug 2026 20:51:41 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T20:56:54.594Z"
+  },
+  {
+    "url": "https://glad-ia-tor.com",
+    "title": "Show HN: Glad-AI-Tor – AI tools ranked by user votes, not by who pays",
+    "description": "Article URL: https://glad-ia-tor.com\nComments URL: https://news.ycombinator.com/item?id=49314034\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T20:53:30.340Z",
+    "published": "Sat, 15 Aug 2026 20:29:45 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T20:56:54.594Z"
+  },
+  {
+    "url": "https://github.com/sanderland/ctok",
+    "title": "Ctok: Reconstructed Claude Tokenizer",
+    "description": "Article URL: https://github.com/sanderland/ctok\nComments URL: https://news.ycombinator.com/item?id=49313865\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T20:53:30.340Z",
+    "published": "Sat, 15 Aug 2026 20:10:23 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T20:56:54.594Z"
+  },
+  {
+    "url": "https://christian.bock.bio/posts/frontier_xg_worldcup/",
+    "title": "Can an LLM price a World Cup match better than the market (and make money)?",
+    "description": "Article URL: https://christian.bock.bio/posts/frontier_xg_worldcup/\nComments URL: https://news.ycombinator.com/item?id=49313812\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T20:53:30.340Z",
+    "published": "Sat, 15 Aug 2026 20:04:07 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T20:56:54.594Z"
+  },
+  {
+    "url": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
+    "title": "Meta will train its AI on Newsmax, a far-right media outlet",
+    "description": "Article URL: https://popular.info/p/meta-will-train-its-ai-on-far-right\nComments URL: https://news.ycombinator.com/item?id=49313778\nPoints: 4\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T20:53:30.340Z",
+    "published": "Sat, 15 Aug 2026 20:00:14 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T20:56:54.594Z"
+  },
+  {
+    "url": "https://www.nature.com/articles/s41573-026-01496-2",
+    "title": "AI in drug discovery — what it is, where we stand and the path forward",
+    "description": "Article URL: https://www.nature.com/articles/s41573-026-01496-2\nComments URL: https://news.ycombinator.com/item?id=49313367\nPoints: 36\n# Comments: 22",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T20:53:30.340Z",
+    "published": "Sat, 15 Aug 2026 19:12:53 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2237226/apple-watch-battery-replacement-how-much-cost-worth-it/",
+    "title": "Apple Watch battery replacement: How much does it cost and is it worth it?",
+    "description": "Replacing the battery on your Apple Watch can extend its life, but you&#39;ll have to determine whether it&#39;s worthwhile for your model.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-15T20:54:01.497Z",
+    "published": "Sat, 15 Aug 2026 20:00:00 +0000"
   }
 ]
