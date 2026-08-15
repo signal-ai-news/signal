@@ -2217,7 +2217,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-22T14:26:47.679Z",
-    "published": "Wed, 22 Jul 2026 13:00:00 +0000"
+    "published": "Wed, 22 Jul 2026 13:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T23:48:12.613Z"
   },
   {
     "url": "https://www.engadget.com/2220546/samsung-new-foldables-come-with-gemini-notebook/",
@@ -2226,7 +2228,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-22T14:26:47.679Z",
-    "published": "Wed, 22 Jul 2026 13:00:00 +0000"
+    "published": "Wed, 22 Jul 2026 13:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T23:48:12.613Z"
   },
   {
     "url": "https://www.engadget.com/2220510/samsung-slimmer-galaxy-z-flip-8-brings-apps-and-ai-to-the-cover-screen/",
@@ -2235,7 +2239,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-22T14:26:47.679Z",
-    "published": "Wed, 22 Jul 2026 13:00:00 +0000"
+    "published": "Wed, 22 Jul 2026 13:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T23:48:12.613Z"
   },
   {
     "url": "https://www.engadget.com/2219690/samsung-galaxy-unpacked-july-2026-live-blog-z-fold-8-launch/",
@@ -2244,7 +2250,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-22T14:26:47.679Z",
-    "published": "Wed, 22 Jul 2026 06:00:00 +0000"
+    "published": "Wed, 22 Jul 2026 06:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T23:48:12.613Z"
   },
   {
     "url": "https://www.engadget.com/2220436/openai-admits-models-hacked-hugging-face-on-their-own/",
@@ -23554,5 +23562,16 @@
     "category": "community",
     "discovered": "2026-08-15T22:52:27.564Z",
     "published": "Sat, 15 Aug 2026 21:06:05 +0000"
+  },
+  {
+    "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-hit-3-091606840.html",
+    "title": "Alibaba AI Models Hit 3B Downloads, Passing Meta, Google",
+    "description": "Article URL: https://finance.yahoo.com/technology/ai/articles/alibaba-ai-models-hit-3-091606840.html\nComments URL: https://news.ycombinator.com/item?id=49315160\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T23:43:27.823Z",
+    "published": "Sat, 15 Aug 2026 23:10:56 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T23:48:12.614Z"
   }
 ]
