@@ -23197,5 +23197,60 @@
     "category": "community",
     "discovered": "2026-08-15T16:55:54.694Z",
     "published": "Sat, 15 Aug 2026 14:56:31 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49312559",
+    "title": "Ask HN: Will AI lead to complete human irrelevance?",
+    "description": "After the recent mathematical advances in AI, it is clear that it is possible for AI to surpass the abilities of even the smartest humans in specific domains. I feel that it is thereby inevitable that AI will be able to surpass humans in any domain of economic, scientific, or otherwise practical re",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T17:49:27.434Z",
+    "published": "Sat, 15 Aug 2026 17:41:17 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T17:52:01.709Z"
+  },
+  {
+    "url": "https://lettertrace.com",
+    "title": "Show HN: Self-hosted monitoring for AI recommendations (MIT License)",
+    "description": "Article URL: https://lettertrace.com\nComments URL: https://news.ycombinator.com/item?id=49312505\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T17:49:27.434Z",
+    "published": "Sat, 15 Aug 2026 17:35:13 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T17:52:01.709Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=-T39cM3LPk0",
+    "title": "Don't let AI rob you",
+    "description": "Article URL: https://www.youtube.com/watch?v=-T39cM3LPk0\nComments URL: https://news.ycombinator.com/item?id=49312478\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T17:49:27.434Z",
+    "published": "Sat, 15 Aug 2026 17:31:43 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T17:52:01.709Z"
+  },
+  {
+    "url": "https://blog.atuin.sh/atuin-ai-oss/",
+    "title": "Open Sourcing the Atuin AI Server",
+    "description": "Article URL: https://blog.atuin.sh/atuin-ai-oss/\nComments URL: https://news.ycombinator.com/item?id=49312363\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T17:49:27.434Z",
+    "published": "Sat, 15 Aug 2026 17:15:46 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T17:52:01.709Z"
+  },
+  {
+    "url": "https://henrikwarne.com/2026/08/15/lessons-learned-from-fixing-flaky-tests-with-claude/",
+    "title": "Lessons Learned from Fixing Flaky Tests with Claude",
+    "description": "Article URL: https://henrikwarne.com/2026/08/15/lessons-learned-from-fixing-flaky-tests-with-claude/\nComments URL: https://news.ycombinator.com/item?id=49312355\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T17:49:27.434Z",
+    "published": "Sat, 15 Aug 2026 17:14:58 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T17:52:01.709Z"
   }
 ]
