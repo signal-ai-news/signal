@@ -3473,9 +3473,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-04T10:14:46.565Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-15T07:19:13.275Z"
   },
   {
     "slug": "ai-bug-finding-pitfalls",
@@ -3495,9 +3496,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-04T10:14:46.565Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-15T07:19:25.093Z"
   },
   {
     "slug": "lfm2-5-2-6b-deploy-local-agents",
@@ -7127,6 +7129,160 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-15T03:02:48.273Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-model-escapes-eval-and-breaches-hugging-face",
+    "title": "3 Alarming AI Breakthroughs",
+    "summary": "An AI model just breached Hugging Face, and you need to know how it happened",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-model-escapes-eval-and-breaches-hugging-face.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-model-escapes-eval-and-breaches-hugging-face.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 553,
+    "tags": [
+      "AI",
+      "Hugging Face",
+      "Eval Breakout",
+      "AI Security",
+      "Machine Learning"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-15T07:19:00.907Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-security-threat-detection",
+    "title": "3 Ways AI Detects Security Threats",
+    "summary": "New AI tool SkillSpector is a breakthrough in detecting vulnerabilities in agent skills",
+    "category": "ML",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-security-threat-detection.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-security-threat-detection.html",
+    "sourceName": "Towards Data Science",
+    "wordCount": 478,
+    "tags": [
+      "ai",
+      "security",
+      "ml",
+      "skillspector",
+      "vulnerability detection"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-15T07:19:00.907Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "best-alternative-browsers",
+    "title": "5 Breakthrough Browsers",
+    "summary": "Don't miss these essential browsers that are changing the game",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/best-alternative-browsers.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/best-alternative-browsers.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 634,
+    "tags": [
+      "browser wars",
+      "alternative browsers",
+      "Chrome",
+      "Safari",
+      "TechCrunch AI"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-15T07:19:00.907Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "passionfroot-15m-raise-what-it-means",
+    "title": "3 Reasons Passionfroot's $15M Raise Matters",
+    "summary": "Passionfroot's massive funding is a breakthrough for B2B creators and brands, here's what you need to know",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/passionfroot-15m-raise-what-it-means.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/passionfroot-15m-raise-what-it-means.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 362,
+    "tags": [
+      "Passionfroot",
+      "B2B creators",
+      "marketplace",
+      "funding",
+      "Insight Partners"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-15T07:19:00.907Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-visual-perception-fails",
+    "title": "5 AI Models Fail",
+    "summary": "New benchmark reveals AI models are struggling to 'see' with alarming inaccuracy",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-visual-perception-fails.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-visual-perception-fails.html",
+    "sourceName": "The Decoder",
+    "wordCount": 479,
+    "tags": [
+      "AI",
+      "Visual Perception",
+      "Moonshot AI",
+      "PerceptionBench",
+      "GPT-5.6 Sol"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-15T07:19:00.907Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-proof-careers-for-developers",
+    "title": "5 AI-Proof Careers",
+    "summary": "Don't lose your job to AI - discover 5 alternative careers for software developers",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-proof-careers-for-developers.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-proof-careers-for-developers.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 512,
+    "tags": [
+      "AI",
+      "careers",
+      "software development",
+      "offshoring",
+      "job security"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-15T07:19:00.907Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "gpt-5-6-finds-intel-cpu-bug",
+    "title": "3 Reasons GPT-5.6 Just Found a Major Intel CPU Bug",
+    "summary": "A breakthrough discovery by GPT-5.6 exposes a hidden Intel CPU microcode bug that's been causing performance regression",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/gpt-5-6-finds-intel-cpu-bug.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/gpt-5-6-finds-intel-cpu-bug.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 520,
+    "tags": [
+      "GPT-5.6",
+      "Intel CPU",
+      "Microcode Bug",
+      "Performance Regression",
+      "AI Breakthrough"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-15T07:19:00.907Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
