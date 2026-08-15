@@ -2129,7 +2129,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-07-22T14:26:38.449Z",
-    "published": "Tue, 21 Jul 2026 10:30:00 +0000"
+    "published": "Tue, 21 Jul 2026 10:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T15:52:07.011Z"
   },
   {
     "url": "https://www.wired.com/story/etsy-is-in-its-flop-era-and-sellers-are-fleeing/",
@@ -2138,7 +2140,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-07-22T14:26:38.449Z",
-    "published": "Tue, 21 Jul 2026 09:00:00 +0000"
+    "published": "Tue, 21 Jul 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T15:52:07.011Z"
   },
   {
     "url": "https://www.zdnet.com/article/samsung-galaxy-z-fold-8-vs-z-flip-8/",
@@ -2147,7 +2151,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-22T14:26:47.011Z",
-    "published": "Wed, 22 Jul 2026 13:01:00 GMT"
+    "published": "Wed, 22 Jul 2026 13:01:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-15T15:52:07.011Z"
   },
   {
     "url": "https://www.zdnet.com/article/galaxy-watch-9-vs-galaxy-watch-8/",
@@ -23060,5 +23066,27 @@
     "category": "community",
     "discovered": "2026-08-15T14:54:14.381Z",
     "published": "Sat, 15 Aug 2026 13:43:46 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings/",
+    "title": "Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings",
+    "description": "Nvidia has cut its guarantee for OpenAI's planned data center in Ohio nearly in half, from $250 billion to just under $120 billion, after investors pushed back on the risk. Meanwhile, Anthropic is complicating the AI bubble debate with revenue that jumped from $4.7 billion to $11.5 billion",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-15T15:48:58.206Z",
+    "published": "Sat, 15 Aug 2026 15:41:02 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T15:52:07.012Z"
+  },
+  {
+    "url": "https://www.engadget.com/2234240/what-is-analog-tv-how-different-from-digital-tv/",
+    "title": "What is analog TV and how is it different from digital TV?",
+    "description": "Going analog is all the rage, but does it apply to the small screen?",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-15T15:49:13.382Z",
+    "published": "Sat, 15 Aug 2026 15:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T15:52:07.012Z"
   }
 ]
