@@ -23463,5 +23463,96 @@
     "published": "Sat, 15 Aug 2026 21:29:19 +0000",
     "processed": true,
     "processedAt": "2026-08-15T21:49:53.153Z"
+  },
+  {
+    "url": "https://www.biattle.com",
+    "title": "BIAttle – Real-time debate arena for Gemini and Groq with live moderation",
+    "description": "Article URL: https://www.biattle.com\nComments URL: https://news.ycombinator.com/item?id=49314983\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T22:52:27.564Z",
+    "published": "Sat, 15 Aug 2026 22:43:21 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T22:55:05.651Z"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.13122",
+    "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+    "description": "Article URL: https://arxiv.org/abs/2608.13122\nComments URL: https://news.ycombinator.com/item?id=49314967\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T22:52:27.564Z",
+    "published": "Sat, 15 Aug 2026 22:41:51 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T22:55:05.651Z"
+  },
+  {
+    "url": "https://fbirds5230.github.io/sentinel-scan/",
+    "title": "Sentinel Scan: an authorized LLM red-team audit, run by an AI agent",
+    "description": "Article URL: https://fbirds5230.github.io/sentinel-scan/\nComments URL: https://news.ycombinator.com/item?id=49314841\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T22:52:27.564Z",
+    "published": "Sat, 15 Aug 2026 22:23:10 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T22:55:05.651Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49314731",
+    "title": "Ask HN: I created a web browser using Claude, everybody hates it",
+    "description": "I created a web browser, Northstar web browser, using Claude, Gemini and Chatgpt Codex, everybody hates it, insults me personally and calls it AI slop.https://github.com/nordstjernen-web/northstar-browserDoes this mean that the AI coding services are a failure? Claude is a failure?\n\nComments URL: h",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T22:52:27.564Z",
+    "published": "Sat, 15 Aug 2026 22:05:13 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T22:55:05.651Z"
+  },
+  {
+    "url": "https://chrisbergeron.com/2026/08/11/why_ai_agents_need_verified_identity/",
+    "title": "Why AI agents need verified identity",
+    "description": "Article URL: https://chrisbergeron.com/2026/08/11/why_ai_agents_need_verified_identity/\nComments URL: https://news.ycombinator.com/item?id=49314608\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T22:52:27.564Z",
+    "published": "Sat, 15 Aug 2026 21:44:48 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T22:55:05.651Z"
+  },
+  {
+    "url": "https://github.com/christensen143/claude-trofeo-hud",
+    "title": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+    "description": "Article URL: https://github.com/christensen143/claude-trofeo-hud\nComments URL: https://news.ycombinator.com/item?id=49314594\nPoints: 8\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T22:52:27.564Z",
+    "published": "Sat, 15 Aug 2026 21:42:39 +0000"
+  },
+  {
+    "url": "https://tokenlab.sh/zh/mcp",
+    "title": "Show HN: TokenLab MCP, model discovery, pricing, and native AI endpoint tools",
+    "description": "Article URL: https://tokenlab.sh/zh/mcp\nComments URL: https://news.ycombinator.com/item?id=49314483\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T22:52:27.564Z",
+    "published": "Sat, 15 Aug 2026 21:26:34 +0000"
+  },
+  {
+    "url": "https://www.timeshighereducation.com/opinion/ai-makes-foundational-knowledge-more-important-ever",
+    "title": "AI makes foundational knowledge more important",
+    "description": "Article URL: https://www.timeshighereducation.com/opinion/ai-makes-foundational-knowledge-more-important-ever\nComments URL: https://news.ycombinator.com/item?id=49314435\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T22:52:27.564Z",
+    "published": "Sat, 15 Aug 2026 21:18:21 +0000"
+  },
+  {
+    "url": "https://www.scientificamerican.com/podcast/episode/a-nonspeaking-person-is-the-star-of-this-opera-ai-made-that-possible/",
+    "title": "The unlikely opera star: How AI helped a nonspeaking performer find his voice",
+    "description": "Article URL: https://www.scientificamerican.com/podcast/episode/a-nonspeaking-person-is-the-star-of-this-opera-ai-made-that-possible/\nComments URL: https://news.ycombinator.com/item?id=49314329\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T22:52:27.564Z",
+    "published": "Sat, 15 Aug 2026 21:06:05 +0000"
   }
 ]
