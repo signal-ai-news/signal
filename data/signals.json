@@ -1931,7 +1931,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T13:29:46.445Z",
-    "published": "Wed, 22 Jul 2026 13:02:56 +0000"
+    "published": "Wed, 22 Jul 2026 13:02:56 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T05:49:44.427Z"
   },
   {
     "url": "https://news.ycombinator.com/item?id=49006088",
@@ -1940,7 +1942,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T13:29:46.445Z",
-    "published": "Wed, 22 Jul 2026 13:00:04 +0000"
+    "published": "Wed, 22 Jul 2026 13:00:04 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T05:49:44.427Z"
   },
   {
     "url": "https://twitter.com/awesomekling/status/2079913512772522384",
@@ -1949,7 +1953,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T13:29:46.445Z",
-    "published": "Wed, 22 Jul 2026 12:59:59 +0000"
+    "published": "Wed, 22 Jul 2026 12:59:59 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T05:49:44.427Z"
   },
   {
     "url": "https://www.ciscopress.com/store/securing-ai-using-zero-trust-principles-9780138363321",
@@ -2013,7 +2019,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T14:26:21.844Z",
-    "published": "Wed, 22 Jul 2026 13:52:09 +0000"
+    "published": "Wed, 22 Jul 2026 13:52:09 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T05:49:44.427Z"
   },
   {
     "url": "https://altertable.ai/blog/2026-07-22-hand-the-agent-a-map",
@@ -22431,5 +22439,16 @@
     "category": "community",
     "discovered": "2026-08-14T23:55:33.695Z",
     "published": "Fri, 14 Aug 2026 23:01:46 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception/",
+    "title": "New benchmark confirms AI models still perform poorly at visual perception",
+    "description": "Moonshot AI's PerceptionBench tests how well multimodal AI models can actually \"see,\" separate from logical reasoning. No frontier model reaches 60 percent accuracy, and GPT-5.6 Sol leads by a narrow margin. Many supposed reasoning errors actually happen as early as the image-reading stage.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-15T05:46:44.388Z",
+    "published": "Sat, 15 Aug 2026 05:30:18 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T05:49:44.428Z"
   }
 ]
