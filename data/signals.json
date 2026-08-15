@@ -22678,5 +22678,69 @@
     "published": "Sat, 15 Aug 2026 09:00:00 +0000",
     "processed": true,
     "processedAt": "2026-08-15T09:56:32.149Z"
+  },
+  {
+    "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+    "title": "Working with AI Feels More Like Leadership Than Coding",
+    "description": "Article URL: https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/\nComments URL: https://news.ycombinator.com/item?id=49309451\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T10:52:35.843Z",
+    "published": "Sat, 15 Aug 2026 10:39:41 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T10:55:37.010Z"
+  },
+  {
+    "url": "https://github.com/stormaref/LiquidGlassSkill",
+    "title": "LiquidGlassSkill: Claude skill to implement Apple Liquid Glass UI styles",
+    "description": "Article URL: https://github.com/stormaref/LiquidGlassSkill\nComments URL: https://news.ycombinator.com/item?id=49309425\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T10:52:35.843Z",
+    "published": "Sat, 15 Aug 2026 10:31:58 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T10:55:37.010Z"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google",
+    "title": "Alibaba AI Models Hit 3B Downloads, Passing Meta, Google",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google\nComments URL: https://news.ycombinator.com/item?id=49309183\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T10:52:35.843Z",
+    "published": "Sat, 15 Aug 2026 09:46:39 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T10:55:37.010Z"
+  },
+  {
+    "url": "https://banproof.io/",
+    "title": "BanProof AI",
+    "description": "Article URL: https://banproof.io/\nComments URL: https://news.ycombinator.com/item?id=49309125\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T10:52:35.843Z",
+    "published": "Sat, 15 Aug 2026 09:36:48 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T10:55:37.010Z"
+  },
+  {
+    "url": "https://freellmapi.co/",
+    "title": "Free LLM API – every free model behind one key",
+    "description": "Article URL: https://freellmapi.co/\nComments URL: https://news.ycombinator.com/item?id=49309112\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T10:52:35.843Z",
+    "published": "Sat, 15 Aug 2026 09:33:40 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T10:55:37.010Z"
+  },
+  {
+    "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+    "title": "Debian has begun voting on the future of AI/LLM contributions",
+    "description": "Article URL: https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html\nComments URL: https://news.ycombinator.com/item?id=49309050\nPoints: 10\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T10:52:35.843Z",
+    "published": "Sat, 15 Aug 2026 09:20:07 +0000"
   }
 ]
