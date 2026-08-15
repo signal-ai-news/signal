@@ -22960,5 +22960,105 @@
     "category": "news",
     "discovered": "2026-08-15T13:43:29.986Z",
     "published": "Sat, 15 Aug 2026 12:51:33 +0000"
+  },
+  {
+    "url": "https://agentwrought.com/",
+    "title": "I gave an AI £150 and three months to earn its own subscription",
+    "description": "Article URL: https://agentwrought.com/\nComments URL: https://news.ycombinator.com/item?id=49311040\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T14:54:14.381Z",
+    "published": "Sat, 15 Aug 2026 14:48:39 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T14:57:18.375Z"
+  },
+  {
+    "url": "https://arxiv.org/abs/2606.27045",
+    "title": "Paper on Architecture for AI-Assisted Software Development",
+    "description": "Article URL: https://arxiv.org/abs/2606.27045\nComments URL: https://news.ycombinator.com/item?id=49311006\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T14:54:14.381Z",
+    "published": "Sat, 15 Aug 2026 14:43:28 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T14:57:18.375Z"
+  },
+  {
+    "url": "https://mooch.agency/say-less",
+    "title": "Make Claude Say Less",
+    "description": "Article URL: https://mooch.agency/say-less\nComments URL: https://news.ycombinator.com/item?id=49310979\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T14:54:14.381Z",
+    "published": "Sat, 15 Aug 2026 14:40:15 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T14:57:18.375Z"
+  },
+  {
+    "url": "https://github.com/Squid-Pay/Squid-Agent-Wallet-SDK",
+    "title": "Open-source wallet SDK for AI agents",
+    "description": "Article URL: https://github.com/Squid-Pay/Squid-Agent-Wallet-SDK\nComments URL: https://news.ycombinator.com/item?id=49310808\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T14:54:14.381Z",
+    "published": "Sat, 15 Aug 2026 14:19:20 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T14:57:18.375Z"
+  },
+  {
+    "url": "https://www.japantimes.co.jp/business/2026/08/15/tech/us-ai-coalition-china-warning/",
+    "title": "U.S. to tell partners they must pick sides in AI race with China",
+    "description": "Article URL: https://www.japantimes.co.jp/business/2026/08/15/tech/us-ai-coalition-china-warning/\nComments URL: https://news.ycombinator.com/item?id=49310765\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T14:54:14.381Z",
+    "published": "Sat, 15 Aug 2026 14:14:03 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T14:57:18.375Z"
+  },
+  {
+    "url": "https://srikanth.ch/posts/the-ai-situation/",
+    "title": "The AI Situation in Software Development",
+    "description": "Article URL: https://srikanth.ch/posts/the-ai-situation/\nComments URL: https://news.ycombinator.com/item?id=49310755\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T14:54:14.381Z",
+    "published": "Sat, 15 Aug 2026 14:12:27 +0000"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+    "title": "Secondhand book sales are booming. Is it because of AI?",
+    "description": "Article URL: https://www.bbc.co.uk/news/articles/cp3rprx2wl4o\nComments URL: https://news.ycombinator.com/item?id=49310725\nPoints: 19\n# Comments: 9",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T14:54:14.381Z",
+    "published": "Sat, 15 Aug 2026 14:08:55 +0000"
+  },
+  {
+    "url": "https://klr-pattern.github.io/nexusx/",
+    "title": "Model your business once – for humans and AI alike",
+    "description": "Article URL: https://klr-pattern.github.io/nexusx/\nComments URL: https://news.ycombinator.com/item?id=49310720\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T14:54:14.381Z",
+    "published": "Sat, 15 Aug 2026 14:08:40 +0000"
+  },
+  {
+    "url": "https://opensauce.it/cloudflare-ai-psychosis/",
+    "title": "Cloudflare's AI Psychosis",
+    "description": "Article URL: https://opensauce.it/cloudflare-ai-psychosis/\nComments URL: https://news.ycombinator.com/item?id=49310719\nPoints: 36\n# Comments: 5",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T14:54:14.381Z",
+    "published": "Sat, 15 Aug 2026 14:08:40 +0000"
+  },
+  {
+    "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+    "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+    "description": "Article URL: http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html\nComments URL: https://news.ycombinator.com/item?id=49310495\nPoints: 11\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T14:54:14.381Z",
+    "published": "Sat, 15 Aug 2026 13:43:46 +0000"
   }
 ]
