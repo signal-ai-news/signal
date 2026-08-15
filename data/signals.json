@@ -2107,7 +2107,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-07-22T14:26:38.449Z",
-    "published": "Tue, 21 Jul 2026 16:08:44 +0000"
+    "published": "Tue, 21 Jul 2026 16:08:44 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T11:47:34.788Z"
   },
   {
     "url": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/",
@@ -2116,7 +2118,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-07-22T14:26:38.449Z",
-    "published": "Tue, 21 Jul 2026 15:00:00 +0000"
+    "published": "Tue, 21 Jul 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T11:47:34.788Z"
   },
   {
     "url": "https://www.wired.com/story/big-interview-stanford-students-booing-sundar-pichai/",
@@ -22742,5 +22746,38 @@
     "category": "community",
     "discovered": "2026-08-15T10:52:35.843Z",
     "published": "Sat, 15 Aug 2026 09:20:07 +0000"
+  },
+  {
+    "url": "https://xenodium.com/agent-shell-0-73-updates#agent-shell-enters-the-chat",
+    "title": "Show HN: Agent-shell – vendor-neutral chat with AI agents in Emacs",
+    "description": "Article URL: https://xenodium.com/agent-shell-0-73-updates#agent-shell-enters-the-chat\nComments URL: https://news.ycombinator.com/item?id=49309755\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T11:44:08.188Z",
+    "published": "Sat, 15 Aug 2026 11:42:16 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T11:47:34.789Z"
+  },
+  {
+    "url": "https://www.axios.com/2026/08/14/anthropic-model-2-ai-risk",
+    "title": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\"",
+    "description": "Article URL: https://www.axios.com/2026/08/14/anthropic-model-2-ai-risk\nComments URL: https://news.ycombinator.com/item?id=49309551\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-15T11:44:08.188Z",
+    "published": "Sat, 15 Aug 2026 11:00:24 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T11:47:34.789Z"
+  },
+  {
+    "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors/",
+    "title": "AI-generated books are flooding Amazon and tanking sales for human authors",
+    "description": "AI-generated books make up 20 percent of Amazon's self-published catalog but bring in only 12 percent of sales. A new study finds that revenue per book is dropping for human-written titles too, in seven of eight genres. The findings could give copyright plaintiffs the market-harm data their",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-15T11:44:14.784Z",
+    "published": "Sat, 15 Aug 2026 11:00:50 +0000",
+    "processed": true,
+    "processedAt": "2026-08-15T11:47:34.789Z"
   }
 ]
