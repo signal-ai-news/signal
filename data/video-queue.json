@@ -3427,9 +3427,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-04T10:14:46.565Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-15T03:03:02.593Z"
   },
   {
     "slug": "circles-powers-telco-personalization-with-openai",
@@ -3449,9 +3450,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-04T10:14:46.565Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-15T03:03:12.427Z"
   },
   {
     "slug": "ai-industry-marxist-according-to-palantir-ceo",
@@ -6905,6 +6907,226 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-14T20:01:15.113Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "cloud-storage-disasters-pbs",
+    "title": "3 Cloud Storage Disasters",
+    "summary": "PBS station's 50TB data loss is a wake-up call for cloud storage users",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/cloud-storage-disasters-pbs.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/cloud-storage-disasters-pbs.html",
+    "sourceName": "Ars Technica AI",
+    "wordCount": 495,
+    "tags": [
+      "cloud storage",
+      "data loss",
+      "PBS",
+      "Iron Mountain",
+      "disaster recovery"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-15T03:02:48.273Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-security-disclosure",
+    "title": "3 Essential AI Security Facts",
+    "summary": "Don't miss the latest Z.ai security disclosure that's changing the game",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-security-disclosure.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-security-disclosure.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 391,
+    "tags": [
+      "AI",
+      "Security",
+      "Z.ai",
+      "Disclosure",
+      "Community"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-15T03:02:48.273Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "suse-ai-deployment-guide",
+    "title": "5 Essential Steps to SUSE AI",
+    "summary": "Don't miss the ultimate guide to deploying SUSE AI for a breakthrough in your business",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/suse-ai-deployment-guide.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/suse-ai-deployment-guide.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 537,
+    "tags": [
+      "SUSE AI",
+      "AI deployment",
+      "business breakthrough",
+      "essential guide",
+      "AI tool"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-15T03:02:48.273Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "us-china-ai-race",
+    "title": "3 Sides to Choose",
+    "summary": "US tells partners to pick a side in the escalating AI war with China",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/us-china-ai-race.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/us-china-ai-race.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 430,
+    "tags": [
+      "AI",
+      "US",
+      "China",
+      "Tech",
+      "Geopolitics"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-15T03:02:48.273Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "taiwan-targeted-in-ai-driven-hacking-campaign",
+    "title": "3 AI Hacking Threats",
+    "summary": "Taiwan is under attack by AI-driven hackers, and you need to know how to protect yourself",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/taiwan-targeted-in-ai-driven-hacking-campaign.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/taiwan-targeted-in-ai-driven-hacking-campaign.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 359,
+    "tags": [
+      "AI",
+      "hacking",
+      "cybersecurity",
+      "Taiwan",
+      "breakthrough"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-15T03:02:48.273Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "llm-training-breakthroughs",
+    "title": "3 Breakthroughs in LLM Training",
+    "summary": "Discover the essential techniques to train a proven LLM model today",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/llm-training-breakthroughs.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/llm-training-breakthroughs.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 512,
+    "tags": [
+      "LLM Training",
+      "AI Models",
+      "Machine Learning",
+      "Breakthrough Techniques",
+      "Proven Methods"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-15T03:02:48.273Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "flownie-ai-data-workflow-platform",
+    "title": "3 Reasons Flownie AI Will Change Data Workflows",
+    "summary": "Discover the ultimate data workflow platform that's about to disrupt the industry with AI agent assistance",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/flownie-ai-data-workflow-platform.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/flownie-ai-data-workflow-platform.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 425,
+    "tags": [
+      "Flownie",
+      "AI",
+      "Data Workflow",
+      "Visual Platform",
+      "Machine Learning"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-15T03:02:48.273Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "talos-ai-agent-ultimate-security",
+    "title": "3 Reasons Talos AI Agent Is Ultimate Security",
+    "summary": "Don't miss out on the essential Talos AI Agent that's breaking through security barriers",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/talos-ai-agent-ultimate-security.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/talos-ai-agent-ultimate-security.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 376,
+    "tags": [
+      "Talos AI Agent",
+      "Security",
+      "AI Tools",
+      "Breakthrough Technology",
+      "Community"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-15T03:02:48.273Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-data-center-energy-crisis",
+    "title": "3 Ways to Solve AI Energy Crisis",
+    "summary": "Don't miss the ultimate framework to reduce AI's massive energy footprint",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-data-center-energy-crisis.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-data-center-energy-crisis.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 454,
+    "tags": [
+      "AI",
+      "Data Center",
+      "Energy Crisis",
+      "Sustainability",
+      "Technology"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-15T03:02:48.273Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "fastapi-ai-automation-suite",
+    "title": "4-in-1 AI Breakthrough",
+    "summary": "Unlock the ultimate AI automation suite for a fraction of the cost",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/fastapi-ai-automation-suite.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/fastapi-ai-automation-suite.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 496,
+    "tags": [
+      "AI",
+      "Automation",
+      "FastAPI",
+      "Breakthrough",
+      "Essential"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-15T03:02:48.273Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
