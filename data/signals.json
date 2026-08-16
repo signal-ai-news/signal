@@ -24313,5 +24313,150 @@
     "published": "Sun, 16 Aug 2026 15:31:21 +0000",
     "processed": true,
     "processedAt": "2026-08-16T15:54:27.596Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+    "description": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-16T16:56:15.134Z",
+    "published": "Sun, 16 Aug 2026 16:53:51 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T16:59:23.669Z"
+  },
+  {
+    "url": "https://zerolabs.rubrik.com/blog/breaking-ai-orchestration-part-2-hijacking-n8n-hitl-chat-sessions",
+    "title": "Breaking AI Orchestration: Hijacking N8n HITL Chat Sessions",
+    "description": "Article URL: https://zerolabs.rubrik.com/blog/breaking-ai-orchestration-part-2-hijacking-n8n-hitl-chat-sessions\nComments URL: https://news.ycombinator.com/item?id=49321627\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T16:56:20.685Z",
+    "published": "Sun, 16 Aug 2026 16:49:31 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T16:59:23.669Z"
+  },
+  {
+    "url": "https://www.theregister.com/offbeat/2026/08/14/russian-missile-uses-nvidia-ai-chip-to-help-target-ukraine/5287976",
+    "title": "Russian missile uses Nvidia AI chip to help target Ukraine",
+    "description": "Article URL: https://www.theregister.com/offbeat/2026/08/14/russian-missile-uses-nvidia-ai-chip-to-help-target-ukraine/5287976\nComments URL: https://news.ycombinator.com/item?id=49321617\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T16:56:20.685Z",
+    "published": "Sun, 16 Aug 2026 16:47:40 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T16:59:23.669Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49321400",
+    "title": "Ask HN: What tools are you using for human code review of AI-assisted code?",
+    "description": "A good proportion of us and our colleagues are now churning out agent-assisted code at an incredible rate, with some of it that is actually good, and a lot that is not so good. I'm personally finding that the real quality gate for our projects is now how thoroughly the generated code was human revi",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T16:56:20.685Z",
+    "published": "Sun, 16 Aug 2026 16:20:45 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T16:59:23.669Z"
+  },
+  {
+    "url": "https://github.com/fayzan123/rungraph",
+    "title": "Show HN: Rungraph – See your AI coding-agent runs as a graph",
+    "description": "Article URL: https://github.com/fayzan123/rungraph\nComments URL: https://news.ycombinator.com/item?id=49321388\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T16:56:20.685Z",
+    "published": "Sun, 16 Aug 2026 16:18:51 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T16:59:23.669Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/FINAL-Bench/open-discovery-challenge",
+    "title": "Who Tells You Whether the Molecule Your AI Just Designed Is Any Good?",
+    "description": "Article URL: https://huggingface.co/blog/FINAL-Bench/open-discovery-challenge\nComments URL: https://news.ycombinator.com/item?id=49321291\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T16:56:20.685Z",
+    "published": "Sun, 16 Aug 2026 16:08:21 +0000"
+  },
+  {
+    "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+    "title": "Rogue AI aren't science fiction anymore",
+    "description": "Article URL: https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai\nComments URL: https://news.ycombinator.com/item?id=49321279\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T16:56:20.685Z",
+    "published": "Sun, 16 Aug 2026 16:07:07 +0000"
+  },
+  {
+    "url": "https://github.com/sib-project/sib",
+    "title": "Show HN: Sib - Unixy LLM Client using Git to store converastions, instead SQLite",
+    "description": "Hi all :)The reason I like git is that the source tree snapshot and the commit structure itself are always immutable, and destructive operations are just renaming a ref file.Once you understand that, no matter how hard the CLI is to make sense of, you never hesitate to run a command. You can always",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T16:56:20.685Z",
+    "published": "Sun, 16 Aug 2026 15:35:00 +0000"
+  },
+  {
+    "url": "https://zenodo.org/records/21967218",
+    "title": "Europe Cannot Govern AI by Cloud Region Alone: A Architecture for AI Sovereignty",
+    "description": "Article URL: https://zenodo.org/records/21967218\nComments URL: https://news.ycombinator.com/item?id=49320995\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T16:56:20.685Z",
+    "published": "Sun, 16 Aug 2026 15:31:51 +0000"
+  },
+  {
+    "url": "https://thomas-witt.com/blog/blog-subagent-model-pin/",
+    "title": "I stopped my Claude Code subagents from running on Fable instead of Sonnet",
+    "description": "Article URL: https://thomas-witt.com/blog/blog-subagent-model-pin/\nComments URL: https://news.ycombinator.com/item?id=49320976\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T16:56:20.685Z",
+    "published": "Sun, 16 Aug 2026 15:29:22 +0000"
+  },
+  {
+    "url": "https://www.keemate.com/",
+    "title": "Keemate – a modular AI keypad that runs commands in any app, on any model",
+    "description": "Article URL: https://www.keemate.com/\nComments URL: https://news.ycombinator.com/item?id=49320954\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T16:56:20.685Z",
+    "published": "Sun, 16 Aug 2026 15:26:41 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49320927",
+    "title": "Ask HN: AI-Contributor-Only Projects?",
+    "description": "Obviously a lot of noise recently of maintainers trying to stop AI contributions to avoid being overwhelmed.But I'm curious if there have been any credible experiments at the opposite extreme - where repos / code can be submitted to (and reviewed) only by AI agents.  I'm curious whether it's possib",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T16:56:20.685Z",
+    "published": "Sun, 16 Aug 2026 15:24:28 +0000"
+  },
+  {
+    "url": "https://www.empirical.health/blog/macrocyclic-peptides/",
+    "title": "Enlicitide: A stress test for AI in drug discovery",
+    "description": "Article URL: https://www.empirical.health/blog/macrocyclic-peptides/\nComments URL: https://news.ycombinator.com/item?id=49320793\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T16:56:20.685Z",
+    "published": "Sun, 16 Aug 2026 15:07:05 +0000"
+  },
+  {
+    "url": "https://querytrace.co/",
+    "title": "AI Search Analytics · QueryTrace",
+    "description": "Article URL: https://querytrace.co/\nComments URL: https://news.ycombinator.com/item?id=49320712\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T16:56:20.685Z",
+    "published": "Sun, 16 Aug 2026 14:57:21 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49320686",
+    "title": "Is msnbot being used to train AI models?",
+    "description": "(Summary: msnbot seems to be downloading my website for training an AI model)The msnbot was retired a decade ago for indexing the web, replaced by bingbot. You can tell bingbot not to train AI models by setting a meta tag eg .A month ago I started using this tag for bingbot. After this the defunct",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T16:56:20.685Z",
+    "published": "Sun, 16 Aug 2026 14:54:53 +0000"
   }
 ]
