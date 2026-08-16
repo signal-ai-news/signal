@@ -24668,5 +24668,114 @@
     "category": "community",
     "discovered": "2026-08-16T19:42:35.332Z",
     "published": "Sun, 16 Aug 2026 17:43:12 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+    "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+    "description": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-16T20:51:35.210Z",
+    "published": "Sun, 16 Aug 2026 20:32:01 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T20:54:30.338Z"
+  },
+  {
+    "url": "https://writifyai.com/blog/do-people-really-care-if-an-article-is-written-by-ai/",
+    "title": "Do people care if articles are written by AI?",
+    "description": "Article URL: https://writifyai.com/blog/do-people-really-care-if-an-article-is-written-by-ai/\nComments URL: https://news.ycombinator.com/item?id=49323517\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T20:51:41.361Z",
+    "published": "Sun, 16 Aug 2026 20:47:20 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T20:54:30.338Z"
+  },
+  {
+    "url": "https://www.beautifului.dev/",
+    "title": "Beautiful UI for AI-native interfaces",
+    "description": "Article URL: https://www.beautifului.dev/\nComments URL: https://news.ycombinator.com/item?id=49323480\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T20:51:41.362Z",
+    "published": "Sun, 16 Aug 2026 20:42:52 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T20:54:30.338Z"
+  },
+  {
+    "url": "https://screenform.app",
+    "title": "ScreenForm – circle anything on your screen, get an AI answer",
+    "description": "Article URL: https://screenform.app\nComments URL: https://news.ycombinator.com/item?id=49323427\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T20:51:41.362Z",
+    "published": "Sun, 16 Aug 2026 20:35:21 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T20:54:30.338Z"
+  },
+  {
+    "url": "https://twitter.com/geno_spot/status/2089086269087166694",
+    "title": "Rounds of AI telephone with an egg. The word \"chicken\" lost on round 10",
+    "description": "Article URL: https://twitter.com/geno_spot/status/2089086269087166694\nComments URL: https://news.ycombinator.com/item?id=49323422\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T20:51:41.362Z",
+    "published": "Sun, 16 Aug 2026 20:35:10 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T20:54:30.338Z"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+    "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion\nComments URL: https://news.ycombinator.com/item?id=49323381\nPoints: 6\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T20:51:41.362Z",
+    "published": "Sun, 16 Aug 2026 20:31:16 +0000"
+  },
+  {
+    "url": "https://github.com/humanlayer/12-factor-agents",
+    "title": "12-Factor Agents – Principles for building reliable LLM applications",
+    "description": "Article URL: https://github.com/humanlayer/12-factor-agents\nComments URL: https://news.ycombinator.com/item?id=49323369\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T20:51:41.362Z",
+    "published": "Sun, 16 Aug 2026 20:30:06 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.13404",
+    "title": "Does Fixing Break Security? An Empirical Study of LLM Security Degradation",
+    "description": "Article URL: https://arxiv.org/abs/2608.13404\nComments URL: https://news.ycombinator.com/item?id=49323197\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T20:51:41.362Z",
+    "published": "Sun, 16 Aug 2026 20:09:22 +0000"
+  },
+  {
+    "url": "https://hyp-e.com/",
+    "title": "Show HN: AI activity discovery that brings all activities to one platform",
+    "description": "Article URL: https://hyp-e.com/\nComments URL: https://news.ycombinator.com/item?id=49323151\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T20:51:41.362Z",
+    "published": "Sun, 16 Aug 2026 20:04:37 +0000"
+  },
+  {
+    "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
+    "title": "Red queen hypothesis – a new way forward for self-improving AI",
+    "description": "Article URL: https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai\nComments URL: https://news.ycombinator.com/item?id=49323136\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T20:51:41.362Z",
+    "published": "Sun, 16 Aug 2026 20:01:13 +0000"
+  },
+  {
+    "url": "https://news.bloomberglaw.com/mergers-and-acquisitions/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+    "title": "Stripe Nears Deal to Buy AI Firm OpenRouter for over $7B",
+    "description": "Article URL: https://news.bloomberglaw.com/mergers-and-acquisitions/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion\nComments URL: https://news.ycombinator.com/item?id=49323032\nPoints: 8\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T20:51:41.362Z",
+    "published": "Sun, 16 Aug 2026 19:47:34 +0000"
   }
 ]
