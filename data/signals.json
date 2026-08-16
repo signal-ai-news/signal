@@ -24458,5 +24458,60 @@
     "category": "community",
     "discovered": "2026-08-16T16:56:20.685Z",
     "published": "Sun, 16 Aug 2026 14:54:53 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49321985",
+    "title": "Show HN: I built my 15-year-old game idea in a week with AI",
+    "description": "The game is Distro Fighter, and the WARS management mode is the part I'd wanted to build for 15 years but never had the time or resources for. With AI handling the tedious and brain-rotting monotonous parts, I built in a week what would have taken me months.In WARS you claim a fighter (your distro)",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T17:43:14.676Z",
+    "published": "Sun, 16 Aug 2026 17:35:26 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T17:45:39.822Z"
+  },
+  {
+    "url": "https://www.macobserver.com/news/ai-can-guess-your-location-from-social-media-photos-with-87-to-91-accuracy/",
+    "title": "AI Can Guess Your Location from Social Media Photos with 87% to 91% Accuracy",
+    "description": "Article URL: https://www.macobserver.com/news/ai-can-guess-your-location-from-social-media-photos-with-87-to-91-accuracy/\nComments URL: https://news.ycombinator.com/item?id=49321857\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T17:43:14.676Z",
+    "published": "Sun, 16 Aug 2026 17:19:09 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T17:45:39.822Z"
+  },
+  {
+    "url": "https://github.com/aiconnai/agentshield",
+    "title": "AgentShield – Offline Rust security scanner for AI agent tools and MCP (<50ms)",
+    "description": "Article URL: https://github.com/aiconnai/agentshield\nComments URL: https://news.ycombinator.com/item?id=49321810\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T17:43:14.676Z",
+    "published": "Sun, 16 Aug 2026 17:12:52 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T17:45:39.822Z"
+  },
+  {
+    "url": "https://think-twice.me/?p=102",
+    "title": "AI won't solve the work-theater problem",
+    "description": "Article URL: https://think-twice.me/?p=102\nComments URL: https://news.ycombinator.com/item?id=49321743\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T17:43:14.676Z",
+    "published": "Sun, 16 Aug 2026 17:03:50 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T17:45:39.822Z"
+  },
+  {
+    "url": "https://novelarcade.substack.com/p/whats-worse-than-ai-slop-trad-slop",
+    "title": "Publishing: What's Worse Than AI Slop? Trad Slop",
+    "description": "Article URL: https://novelarcade.substack.com/p/whats-worse-than-ai-slop-trad-slop\nComments URL: https://news.ycombinator.com/item?id=49321737\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T17:43:14.676Z",
+    "published": "Sun, 16 Aug 2026 17:03:21 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T17:45:39.822Z"
   }
 ]
