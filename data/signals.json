@@ -2558,7 +2558,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T17:44:36.398Z",
-    "published": "Wed, 22 Jul 2026 16:41:26 +0000"
+    "published": "Wed, 22 Jul 2026 16:41:26 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T15:54:27.596Z"
   },
   {
     "url": "https://towardsdatascience.com/loop-engineering-for-rag-generation-when-top-1-is-enough-when-you-need-top-k/",
@@ -2567,7 +2569,9 @@
     "source": "Towards Data Science",
     "category": "ml",
     "discovered": "2026-07-22T17:44:42.671Z",
-    "published": "Wed, 22 Jul 2026 16:30:00 +0000"
+    "published": "Wed, 22 Jul 2026 16:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T15:54:27.596Z"
   },
   {
     "url": "https://the-decoder.com/anthropic-will-deploy-2-gigawatts-of-amd-gpus-for-claude-in-a-deal-worth-up-to-5-billion/",
@@ -2576,7 +2580,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-22T17:44:44.878Z",
-    "published": "Wed, 22 Jul 2026 16:54:26 +0000"
+    "published": "Wed, 22 Jul 2026 16:54:26 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T15:54:27.596Z"
   },
   {
     "url": "https://the-decoder.com/every-frontier-ai-model-tested-by-britains-safety-institute-tried-to-cheat-on-cybersecurity-evaluations/",
@@ -24285,5 +24291,27 @@
     "category": "news",
     "discovered": "2026-08-16T14:55:20.495Z",
     "published": "Sun, 16 Aug 2026 13:30:00 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/designing-a-persistent-knowledge-layer-that-refuses-to-guess/",
+    "title": "Designing a Persistent Knowledge Layer That Refuses to Guess",
+    "description": "RAG Retrieves, It Never Remembers. A vendor-neutral blueprint for applications that accumulate understanding. Includes a complete Azure-native implementation (Microsoft Foundry, Azure AI Search, Cosmos DB, FastAPI) mapped to a property-insurance corpus. \nThe post Designing a Persistent Knowledge Lay",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-16T15:49:32.890Z",
+    "published": "Sun, 16 Aug 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T15:54:27.596Z"
+  },
+  {
+    "url": "https://the-decoder.com/top-mathematicians-say-llms-are-strong-calculators-but-poor-creative-thinkers/",
+    "title": "Top mathematicians say LLMs are strong calculators but poor creative thinkers",
+    "description": "Two renowned mathematicians, Timothy Gowers and Peter Sarnak, say large language models are good at combining known methods but lack the intuition for genuinely new mathematical ideas.\nThe article Top mathematicians say LLMs are strong calculators but poor creative thinkers appeared first o",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-16T15:49:34.412Z",
+    "published": "Sun, 16 Aug 2026 15:31:21 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T15:54:27.596Z"
   }
 ]
