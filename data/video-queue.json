@@ -3657,9 +3657,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-05T22:19:07.653Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-16T07:21:22.632Z"
   },
   {
     "slug": "klaviyo-acquisition-eliastorres",
@@ -3679,9 +3680,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-06T10:14:07.605Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-16T07:21:34.723Z"
   },
   {
     "slug": "jeff-dean-leaves-google-ai-startup",
@@ -7905,6 +7907,138 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-16T03:16:28.161Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "shieldfont-ai-scrapers-robots-txt",
+    "title": "3 Ways ShieldFont Beats AI Scrapers",
+    "summary": "Meet ShieldFont, the breakthrough tool that's putting AI scrapers in their place by protecting your site's content",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/shieldfont-ai-scrapers-robots-txt.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/shieldfont-ai-scrapers-robots-txt.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 355,
+    "tags": [
+      "ShieldFont",
+      "AI Scrapers",
+      "Robots.txt",
+      "Web Security",
+      "Content Protection"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-16T07:21:11.101Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "has-ai-hallucination-been-solved",
+    "title": "3 Breakthroughs in AI Hallucination",
+    "summary": "New developments may have finally cracked the code on AI's biggest flaw",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/has-ai-hallucination-been-solved.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/has-ai-hallucination-been-solved.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 444,
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Hallucination",
+      "Breakthroughs",
+      "Technology"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-16T07:21:11.101Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "truestar-ai-breakthroughs",
+    "title": "3 Breakthroughs in AI Research",
+    "summary": "Discover the ultimate AI tool for expert interviews and deep research",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/truestar-ai-breakthroughs.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/truestar-ai-breakthroughs.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 529,
+    "tags": [
+      "AI",
+      "TrueStar",
+      "Expert Interviews",
+      "Deep Research",
+      "Hacker News"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-16T07:21:11.101Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "us-workers-delegate-tasks-to-ai",
+    "title": "20% of US Workers",
+    "summary": "One in five US workers now delegates tasks to AI instead of colleagues, survey finds",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/us-workers-delegate-tasks-to-ai.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/us-workers-delegate-tasks-to-ai.html",
+    "sourceName": "The Decoder",
+    "wordCount": 397,
+    "tags": [
+      "AI",
+      "productivity",
+      "workplace",
+      "technology",
+      "future of work"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-16T07:21:11.101Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-coding-future",
+    "title": "3 Ways AI Coding Will Change Everything",
+    "summary": "Discover how AI coding will redefine expertise and transform the tech industry",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-coding-future.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-coding-future.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 374,
+    "tags": [
+      "AI",
+      "coding",
+      "expertise",
+      "tech",
+      "future"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-16T07:21:11.101Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "tokencompress-ai-tool",
+    "title": "2ms AI Breakthrough",
+    "summary": "Discover the essential Tokencompress AI tool that's 5x faster than similar tools",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/tokencompress-ai-tool.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/tokencompress-ai-tool.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 448,
+    "tags": [
+      "AI",
+      "Tokencompress",
+      "Go CLI",
+      "MCP sidecar",
+      "AI optimization"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-16T07:21:11.101Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
