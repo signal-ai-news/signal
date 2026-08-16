@@ -24796,5 +24796,123 @@
     "published": "Sun, 16 Aug 2026 20:57:04 +0000",
     "processed": true,
     "processedAt": "2026-08-16T21:46:29.734Z"
+  },
+  {
+    "url": "https://www.vinaa.ai/tools/ai-chat-history-browser/",
+    "title": "Show HN: ChatGPT and Claude export viewer that runs locally in the browser",
+    "description": "I regularly export my chats from ChatGPT and Claude as backup. There are times I wanted to quickly see what is inside them So I built this tool to make these export easier to browse.One thing I learnt while building is that neither ChatGPT nor Claude export enough info to reproduce everything you s",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T22:50:13.258Z",
+    "published": "Sun, 16 Aug 2026 22:37:58 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T22:52:46.148Z"
+  },
+  {
+    "url": "https://github.com/smarter-sh/smarter",
+    "title": "Smarter – open-source, declarative AI authoring platform (Django, K8s-inspired)",
+    "description": "Article URL: https://github.com/smarter-sh/smarter\nComments URL: https://news.ycombinator.com/item?id=49324366\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T22:50:13.258Z",
+    "published": "Sun, 16 Aug 2026 22:25:17 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T22:52:46.148Z"
+  },
+  {
+    "url": "https://github.com/gmhoward9289-ops/legbar",
+    "title": "Legbar – live AI agent sessions beside GitHub CI, in one terminal",
+    "description": "Article URL: https://github.com/gmhoward9289-ops/legbar\nComments URL: https://news.ycombinator.com/item?id=49324201\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T22:50:13.258Z",
+    "published": "Sun, 16 Aug 2026 22:06:14 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T22:52:46.148Z"
+  },
+  {
+    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+    "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+    "description": "Article URL: https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing\nComments URL: https://news.ycombinator.com/item?id=49324087\nPoints: 40\n# Comments: 26",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T22:50:13.258Z",
+    "published": "Sun, 16 Aug 2026 21:53:43 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T22:52:46.148Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49324078",
+    "title": "Claude Seems Down",
+    "description": "Throwing \"Authentication service was unavailable.\", no updates on their status page, but there are on downdetector\n\nComments URL: https://news.ycombinator.com/item?id=49324078\nPoints: 45\n# Comments: 38",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T22:50:13.258Z",
+    "published": "Sun, 16 Aug 2026 21:52:59 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T22:52:46.148Z"
+  },
+  {
+    "url": "https://claude.ai/new",
+    "title": "Claude Is Down",
+    "description": "Article URL: https://claude.ai/new\nComments URL: https://news.ycombinator.com/item?id=49324068\nPoints: 27\n# Comments: 37",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T22:50:13.258Z",
+    "published": "Sun, 16 Aug 2026 21:51:25 +0000"
+  },
+  {
+    "url": "https://thezvi.substack.com/p/ai-176-part-2-plan-b",
+    "title": "AI #176 Part 2: Plan B",
+    "description": "Article URL: https://thezvi.substack.com/p/ai-176-part-2-plan-b\nComments URL: https://news.ycombinator.com/item?id=49323941\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T22:50:13.258Z",
+    "published": "Sun, 16 Aug 2026 21:34:40 +0000"
+  },
+  {
+    "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+    "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+    "description": "Article URL: https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll\nComments URL: https://news.ycombinator.com/item?id=49323932\nPoints: 38\n# Comments: 13",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T22:50:13.258Z",
+    "published": "Sun, 16 Aug 2026 21:34:06 +0000"
+  },
+  {
+    "url": "https://vocalcode.app/",
+    "title": "Show HN: VocalCode – push-to-talk dictation for AI coding agents, on-device",
+    "description": "Article URL: https://vocalcode.app/\nComments URL: https://news.ycombinator.com/item?id=49323797\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T22:50:13.258Z",
+    "published": "Sun, 16 Aug 2026 21:20:54 +0000"
+  },
+  {
+    "url": "https://www.atomic14.com/2026/08/16/its-me-hi-im-the-problem",
+    "title": "Don't blame Claude – It's me, I'm the problem, it's me",
+    "description": "Article URL: https://www.atomic14.com/2026/08/16/its-me-hi-im-the-problem\nComments URL: https://news.ycombinator.com/item?id=49323765\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T22:50:13.258Z",
+    "published": "Sun, 16 Aug 2026 21:17:29 +0000"
+  },
+  {
+    "url": "https://github.com/metedata/Remarc",
+    "title": "Show HN: Remarc – provide more contextual and structured feedback to AI agents",
+    "description": "Like any side project, Remarc started with my own problem: there was no good way to give AI coding agents contextual feedback on their own output.There are plenty of tools for collaborating with humans, but surprisingly few for collaborating with AI. Chat was not cutting it for the feedback I wante",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T22:50:13.258Z",
+    "published": "Sun, 16 Aug 2026 21:14:57 +0000"
+  },
+  {
+    "url": "https://conw.ai",
+    "title": "Show HN: Conw.ai – Independent local AI platform and developer API",
+    "description": "Article URL: https://conw.ai\nComments URL: https://news.ycombinator.com/item?id=49323625\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T22:50:13.258Z",
+    "published": "Sun, 16 Aug 2026 21:00:47 +0000"
   }
 ]
