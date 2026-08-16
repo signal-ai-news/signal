@@ -2437,7 +2437,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T17:44:36.398Z",
-    "published": "Wed, 22 Jul 2026 17:28:26 +0000"
+    "published": "Wed, 22 Jul 2026 17:28:26 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T07:49:23.818Z"
   },
   {
     "url": "https://www.aisi.gov.uk/blog/cheating-behaviour-in-frontier-model-evaluations",
@@ -2446,7 +2448,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T17:44:36.398Z",
-    "published": "Wed, 22 Jul 2026 17:26:03 +0000"
+    "published": "Wed, 22 Jul 2026 17:26:03 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T07:49:23.818Z"
   },
   {
     "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
@@ -2455,7 +2459,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T17:44:36.398Z",
-    "published": "Wed, 22 Jul 2026 17:17:54 +0000"
+    "published": "Wed, 22 Jul 2026 17:17:54 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T07:49:23.818Z"
   },
   {
     "url": "https://gamesbeat.com/network-expert-glenn-fiedler-warns-game-programmers-to-fix-game-code-vulnerabilities-that-ai-can-now-find-exclusive/https://gamesbeat.com/network-expert-glenn-fiedler-warns-game-programmers-to-fix-game-code-vulnerabilities-that-ai-can-now-find-exclusive/",
@@ -23729,5 +23735,27 @@
     "published": "Sun, 16 Aug 2026 03:29:55 +0000",
     "processed": true,
     "processedAt": "2026-08-16T06:02:23.888Z"
+  },
+  {
+    "url": "https://the-decoder.com/anthropics-bio-weapons-filter-was-down-for-nearly-a-year-exposing-133-million-requests/",
+    "title": "Anthropic's bio-weapons filter was down for nearly a year, exposing 133 million requests",
+    "description": "In a safety report, Anthropic reveals that its internal filtering system for biological and chemical weapons risks was inactive for nearly a year. During that time, around 50,000 external feedback contractors ran about 133 million unfiltered interactions with the models.\nThe article Anthrop",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-16T07:45:59.802Z",
+    "published": "Sun, 16 Aug 2026 07:20:06 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T07:49:23.819Z"
+  },
+  {
+    "url": "https://the-decoder.com/optima-tackles-ai-benchmarkings-biggest-flaw-by-letting-users-test-models-against-their-own-data/",
+    "title": "Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data",
+    "description": "Artificial Analysis has launched Optima, a platform that lets users build custom AI benchmarks from their own data and workflows. Models can be compared not just on quality but also on cost and time per task. For agent-based applications, those metrics often tell you more than raw token pri",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-16T07:45:59.802Z",
+    "published": "Sun, 16 Aug 2026 05:50:50 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T07:49:23.819Z"
   }
 ]
