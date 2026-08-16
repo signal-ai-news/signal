@@ -23573,5 +23573,96 @@
     "published": "Sat, 15 Aug 2026 23:10:56 +0000",
     "processed": true,
     "processedAt": "2026-08-15T23:48:12.614Z"
+  },
+  {
+    "url": "https://github.com/yebiguo/ProofRun",
+    "title": "ProofRun – a local verification receipt for AI coding agents",
+    "description": "Article URL: https://github.com/yebiguo/ProofRun\nComments URL: https://news.ycombinator.com/item?id=49316605\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T03:27:31.462Z",
+    "published": "Sun, 16 Aug 2026 03:22:15 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T03:31:01.561Z"
+  },
+  {
+    "url": "https://hackaday.com/2026/08/14/shieldfont-bludgeoning-ai-scrapers-that-disrespect-robots-txt/",
+    "title": "ShieldFont: Bludgeoning AI Scrapers That Disrespect Robots.txt",
+    "description": "Article URL: https://hackaday.com/2026/08/14/shieldfont-bludgeoning-ai-scrapers-that-disrespect-robots-txt/\nComments URL: https://news.ycombinator.com/item?id=49316553\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T03:27:31.462Z",
+    "published": "Sun, 16 Aug 2026 03:10:29 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T03:31:01.561Z"
+  },
+  {
+    "url": "https://github.com/betocmn/widen",
+    "title": "Show HN: Widen, a native Postgres GUI using Apple's on-device LLM",
+    "description": "Article URL: https://github.com/betocmn/widen\nComments URL: https://news.ycombinator.com/item?id=49316394\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T03:27:31.462Z",
+    "published": "Sun, 16 Aug 2026 02:35:51 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T03:31:01.561Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49316330",
+    "title": "Has the hallucination problem in AI been solved?",
+    "description": "My understanding that all AI can, and will hallucinate. I get downvoted for saying this, but no one ever says I'm wrong or cites any source. Perhaps it's more nuanced than that? Please, enlighten me.\n\nComments URL: https://news.ycombinator.com/item?id=49316330\nPoints: 1\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T03:27:31.462Z",
+    "published": "Sun, 16 Aug 2026 02:23:52 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T03:31:01.561Z"
+  },
+  {
+    "url": "https://truestar.tech",
+    "title": "TrueStar – AI moderated expert interviews and multi-agent deep research",
+    "description": "Article URL: https://truestar.tech\nComments URL: https://news.ycombinator.com/item?id=49315975\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T03:27:31.462Z",
+    "published": "Sun, 16 Aug 2026 01:23:52 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T03:31:01.561Z"
+  },
+  {
+    "url": "https://www.snap-chart.ai/",
+    "title": "Snap Chart AI",
+    "description": "Article URL: https://www.snap-chart.ai/\nComments URL: https://news.ycombinator.com/item?id=49315810\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T03:27:31.462Z",
+    "published": "Sun, 16 Aug 2026 00:59:15 +0000"
+  },
+  {
+    "url": "https://github.com/alainnothere/privibe/tree/main",
+    "title": "Privibe - LLM Cli Local first+privacy focus+llama.cpp cache branch + Qwen3.x",
+    "description": "Article URL: https://github.com/alainnothere/privibe/tree/main\nComments URL: https://news.ycombinator.com/item?id=49315777\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T03:27:31.462Z",
+    "published": "Sun, 16 Aug 2026 00:53:38 +0000"
+  },
+  {
+    "url": "https://initacademy.oyakoo.store/products/build-it-with-ai",
+    "title": "Just shared my experience building a full marketplace with Claude",
+    "description": "Article URL: https://initacademy.oyakoo.store/products/build-it-with-ai\nComments URL: https://news.ycombinator.com/item?id=49315676\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T03:27:31.462Z",
+    "published": "Sun, 16 Aug 2026 00:31:54 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=szK9LIGvW1o",
+    "title": "The AI Bubble Is on Its Last Legs",
+    "description": "Article URL: https://www.youtube.com/watch?v=szK9LIGvW1o\nComments URL: https://news.ycombinator.com/item?id=49315675\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T03:27:31.462Z",
+    "published": "Sun, 16 Aug 2026 00:31:36 +0000"
   }
 ]
