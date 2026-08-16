@@ -24523,5 +24523,150 @@
     "published": "Sun, 16 Aug 2026 17:03:21 +0000",
     "processed": true,
     "processedAt": "2026-08-16T17:45:39.822Z"
+  },
+  {
+    "url": "https://canonry.ai/blog/claude-appends-year-to-web-searches",
+    "title": "Claude appends the current year for some web search queries",
+    "description": "Article URL: https://canonry.ai/blog/claude-appends-year-to-web-searches\nComments URL: https://news.ycombinator.com/item?id=49322939\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T19:42:35.332Z",
+    "published": "Sun, 16 Aug 2026 19:35:38 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T19:45:25.068Z"
+  },
+  {
+    "url": "https://www.wsj.com/cmo-today/linkedin-wants-users-to-lean-less-on-ai-maybe-a-lot-less-8e03b2aa",
+    "title": "LinkedIn Wants Users to Lean Less on AI. Maybe Less",
+    "description": "Article URL: https://www.wsj.com/cmo-today/linkedin-wants-users-to-lean-less-on-ai-maybe-a-lot-less-8e03b2aa\nComments URL: https://news.ycombinator.com/item?id=49322821\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T19:42:35.332Z",
+    "published": "Sun, 16 Aug 2026 19:19:53 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T19:45:25.068Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=M0--ZH1lOzg",
+    "title": "Mathematics in the Age of AI – Terence Tao",
+    "description": "Article URL: https://www.youtube.com/watch?v=M0--ZH1lOzg\nComments URL: https://news.ycombinator.com/item?id=49322814\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T19:42:35.332Z",
+    "published": "Sun, 16 Aug 2026 19:19:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T19:45:25.068Z"
+  },
+  {
+    "url": "https://www.noahpinion.blog/p/23-low-regret-recommendations-for",
+    "title": "Low-regret recommendations for AI policy",
+    "description": "Article URL: https://www.noahpinion.blog/p/23-low-regret-recommendations-for\nComments URL: https://news.ycombinator.com/item?id=49322702\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T19:42:35.332Z",
+    "published": "Sun, 16 Aug 2026 19:05:26 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T19:45:25.068Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49322689",
+    "title": "Ask HN: What LLM subscription/provider to use with pi harness?",
+    "description": "I used to use Claude code but obviously they gone downhill for the last 2 to 3 months.I switched to Codex and have been happy with it. Curious what other provider who provides good models at decent pricing?\n\nComments URL: https://news.ycombinator.com/item?id=49322689\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T19:42:35.332Z",
+    "published": "Sun, 16 Aug 2026 19:03:50 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T19:45:25.068Z"
+  },
+  {
+    "url": "https://github.com/eri64/dsh-claude-ux",
+    "title": "Simulating Claude-Style Chinese Risk Control and UX in DeepSeek Harness",
+    "description": "Article URL: https://github.com/eri64/dsh-claude-ux\nComments URL: https://news.ycombinator.com/item?id=49322653\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T19:42:35.332Z",
+    "published": "Sun, 16 Aug 2026 18:59:05 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49322520",
+    "title": "Has somebody found a way to reduce AI idiomatics tics?",
+    "description": "So much to read, even for a simple fix or feature. Things like \"gate X behind Y\", \"surface\", \"escape hatch\" and many complexe english wordings that make one mad. I've head a bout an effective proxy py solution but not remember the name of it\n\nComments URL: https://news.ycombinator.com/item?id=49322",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T19:42:35.332Z",
+    "published": "Sun, 16 Aug 2026 18:41:07 +0000"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/08/15/us-to-tell-allies-they-must-pick-sides-in-ai-race-with-china-reuters.html",
+    "title": "U.S. to tell partners they must pick sides in AI race with China",
+    "description": "Article URL: https://www.cnbc.com/2026/08/15/us-to-tell-allies-they-must-pick-sides-in-ai-race-with-china-reuters.html\nComments URL: https://news.ycombinator.com/item?id=49322511\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T19:42:35.332Z",
+    "published": "Sun, 16 Aug 2026 18:39:44 +0000"
+  },
+  {
+    "url": "https://github.com/delphisecurity/xaidr",
+    "title": "Xaidr – In-process runtime security and governance for AI agents",
+    "description": "Article URL: https://github.com/delphisecurity/xaidr\nComments URL: https://news.ycombinator.com/item?id=49322372\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T19:42:35.332Z",
+    "published": "Sun, 16 Aug 2026 18:22:07 +0000"
+  },
+  {
+    "url": "https://thenextweb.com/news/andon-market-luna-ai-store-manager-fires-employee",
+    "title": "The AI store manager fired its first human",
+    "description": "Article URL: https://thenextweb.com/news/andon-market-luna-ai-store-manager-fires-employee\nComments URL: https://news.ycombinator.com/item?id=49322350\nPoints: 6\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T19:42:35.332Z",
+    "published": "Sun, 16 Aug 2026 18:19:47 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49322324",
+    "title": "Ask HN: Is classical AI still relevant because modern AI uses it as tools?",
+    "description": "So basically modern AI using classic AI is like a human using a calculator?\n\nComments URL: https://news.ycombinator.com/item?id=49322324\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T19:42:35.332Z",
+    "published": "Sun, 16 Aug 2026 18:16:22 +0000"
+  },
+  {
+    "url": "https://www.math.columbia.edu/~woit/wordpress/?p=15818",
+    "title": "HEP-TH and AI",
+    "description": "Article URL: https://www.math.columbia.edu/~woit/wordpress/?p=15818\nComments URL: https://news.ycombinator.com/item?id=49322322\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T19:42:35.332Z",
+    "published": "Sun, 16 Aug 2026 18:16:17 +0000"
+  },
+  {
+    "url": "https://www.marble.onl/posts/evaluating_ai_product_quality.html",
+    "title": "Evaluating AI Agents as Products",
+    "description": "Article URL: https://www.marble.onl/posts/evaluating_ai_product_quality.html\nComments URL: https://news.ycombinator.com/item?id=49322281\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T19:42:35.332Z",
+    "published": "Sun, 16 Aug 2026 18:11:27 +0000"
+  },
+  {
+    "url": "https://fortune.com/2026/08/16/ai-bubble-sequence-saas-software-stocks-silver-prices-chipmakers/",
+    "title": "AI is not just one bubble, strategist says – but a 'rolling sequence of bubbles'",
+    "description": "Article URL: https://fortune.com/2026/08/16/ai-bubble-sequence-saas-software-stocks-silver-prices-chipmakers/\nComments URL: https://news.ycombinator.com/item?id=49322233\nPoints: 5\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T19:42:35.332Z",
+    "published": "Sun, 16 Aug 2026 18:05:39 +0000"
+  },
+  {
+    "url": "https://dreasays.substack.com/p/why-all-ai-content-sounds-exactly",
+    "title": "Why all AI content sounds the same (and how to fix it)",
+    "description": "Article URL: https://dreasays.substack.com/p/why-all-ai-content-sounds-exactly\nComments URL: https://news.ycombinator.com/item?id=49322037\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T19:42:35.332Z",
+    "published": "Sun, 16 Aug 2026 17:43:12 +0000"
   }
 ]
