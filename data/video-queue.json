@@ -3749,9 +3749,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-07T05:53:37.591Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-16T19:00:51.170Z"
   },
   {
     "slug": "ai-viruses-from-scratch",
@@ -3771,9 +3772,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-07T09:35:56.107Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-16T19:01:01.973Z"
   },
   {
     "slug": "three-decades-of-ai-predictions",
@@ -8195,6 +8197,160 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-16T13:42:22.583Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-regulation-dario-amodei",
+    "title": "3 Reasons AI Regulation Matters",
+    "summary": "Dario Amodei sparks debate on AI regulation - here's what you need to know",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-regulation-dario-amodei.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-regulation-dario-amodei.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 434,
+    "tags": [
+      "AI",
+      "Regulation",
+      "Dario Amodei",
+      "Hacker News",
+      "Community"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-16T19:00:37.681Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "intelliconops-ai-automation",
+    "title": "3 Breakthroughs in AI Automation",
+    "summary": "Discover how IntelliconOps is changing the game with AI-assisted infrastructure automation",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/intelliconops-ai-automation.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/intelliconops-ai-automation.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 426,
+    "tags": [
+      "IntelliconOps",
+      "AI",
+      "Automation",
+      "Infrastructure",
+      "Innovation"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-16T19:00:37.681Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-watermarks-sloppiness-solution",
+    "title": "3 Ways AI Watermarks Can Stop Sloppiness",
+    "summary": "Can invisible watermarks curb AI errors and what does it mean for the future of AI development?",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-watermarks-sloppiness-solution.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-watermarks-sloppiness-solution.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 405,
+    "tags": [
+      "AI",
+      "Watermarks",
+      "Anthropic",
+      "Error Reduction",
+      "AI Development"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-16T19:00:37.681Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "llm-creative-limitations",
+    "title": "3 Reasons LLMs Fail",
+    "summary": "Top mathematicians reveal the shocking truth about large language models' creative abilities",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/llm-creative-limitations.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/llm-creative-limitations.html",
+    "sourceName": "The Decoder",
+    "wordCount": 455,
+    "tags": [
+      "LLMs",
+      "mathematics",
+      "AI",
+      "creative thinking",
+      "calculators"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-16T19:00:37.681Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "anthropic-ceo-ai-trust-crisis",
+    "title": "3 AI Trust Crises",
+    "summary": "Anthropic CEO Dario Amodei says AI backlash is a crisis of trust - here's what you need to know",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/anthropic-ceo-ai-trust-crisis.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/anthropic-ceo-ai-trust-crisis.html",
+    "sourceName": "TechCrunch AI",
+    "wordCount": 442,
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Trust Crisis",
+      "Dario Amodei",
+      "Tech News"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-16T19:00:37.681Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-missiles-ukraine-russia",
+    "title": "3 Ways AI Missiles Are Changing War",
+    "summary": "Russia's use of Nvidia AI chips in missiles targeting Ukraine raises alarms about the future of warfare",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-missiles-ukraine-russia.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-missiles-ukraine-russia.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 555,
+    "tags": [
+      "AI missiles",
+      "Nvidia",
+      "Russia-Ukraine war",
+      "Artificial Intelligence",
+      "Military Tech"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-16T19:00:37.681Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "rungraph-ai-coding-breakthrough",
+    "title": "3 Proven Ways Rungraph Boosts AI Coding",
+    "summary": "Discover how Rungraph's graph-based approach is transforming AI coding forever",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/rungraph-ai-coding-breakthrough.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/rungraph-ai-coding-breakthrough.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 503,
+    "tags": [
+      "Rungraph",
+      "AI Coding",
+      "Graph-Based Approach",
+      "Coding Agents",
+      "AI Tools"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-16T19:00:37.681Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
