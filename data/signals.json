@@ -2899,7 +2899,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T19:04:55.559Z",
-    "published": "Wed, 22 Jul 2026 18:28:12 +0000"
+    "published": "Wed, 22 Jul 2026 18:28:12 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T23:45:31.847Z"
   },
   {
     "url": "https://www.tomshardware.com/tech-industry/big-tech/ai-tech-companies-have-hidden-debt-worth-around-usd1-65-trillion-report-claims-amount-is-122-percent-of-debt-reflected-on-the-balance-sheets-of-alphabet-amazon-meta-microsoft-and-oracle",
@@ -2908,7 +2910,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T19:04:55.559Z",
-    "published": "Wed, 22 Jul 2026 18:26:38 +0000"
+    "published": "Wed, 22 Jul 2026 18:26:38 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T23:45:31.847Z"
   },
   {
     "url": "https://www.theregister.com/ai-and-ml/2026/07/19/using-ai-makes-people-less-likely-to-admit-they-dont-know-something/5274567",
@@ -24914,5 +24918,38 @@
     "category": "community",
     "discovered": "2026-08-16T22:50:13.258Z",
     "published": "Sun, 16 Aug 2026 21:00:47 +0000"
+  },
+  {
+    "url": "https://www.contextforclaude.com/",
+    "title": "Context for Claude – give eyes and ears to your agents",
+    "description": "Article URL: https://www.contextforclaude.com/\nComments URL: https://news.ycombinator.com/item?id=49324945\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T23:41:45.414Z",
+    "published": "Sun, 16 Aug 2026 23:39:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T23:45:31.848Z"
+  },
+  {
+    "url": "https://aichatspot.online/what-is-ai-slop-and-does-it-really-ruin-youtube/",
+    "title": "AI Slop Is Real",
+    "description": "Article URL: https://aichatspot.online/what-is-ai-slop-and-does-it-really-ruin-youtube/\nComments URL: https://news.ycombinator.com/item?id=49324585\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T23:41:45.414Z",
+    "published": "Sun, 16 Aug 2026 22:52:39 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T23:45:31.848Z"
+  },
+  {
+    "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
+    "title": "Anthropic CEO says the way for AI to win over the public is to cure cancer",
+    "description": "Article URL: https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8\nComments URL: https://news.ycombinator.com/item?id=49324572\nPoints: 9\n# Comments: 11",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T23:41:45.414Z",
+    "published": "Sun, 16 Aug 2026 22:50:38 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T23:45:31.848Z"
   }
 ]
