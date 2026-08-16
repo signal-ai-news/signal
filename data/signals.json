@@ -2426,7 +2426,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T17:44:36.398Z",
-    "published": "Wed, 22 Jul 2026 17:31:05 +0000"
+    "published": "Wed, 22 Jul 2026 17:31:05 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T06:02:23.887Z"
   },
   {
     "url": "https://languagemodelbuilder.com/",
@@ -23683,5 +23685,49 @@
     "published": "Sun, 16 Aug 2026 05:00:00 +0000",
     "processed": true,
     "processedAt": "2026-08-16T05:06:55.860Z"
+  },
+  {
+    "url": "https://github.com/dburnett11155-rgb/Tokencompress",
+    "title": "Tokencompress A sub-2ms Go CLI and MCP sidecar that prunes AI agent tool context",
+    "description": "Article URL: https://github.com/dburnett11155-rgb/Tokencompress\nComments URL: https://news.ycombinator.com/item?id=49317274\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T05:59:17.931Z",
+    "published": "Sun, 16 Aug 2026 05:55:12 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T06:02:23.888Z"
+  },
+  {
+    "url": "https://www.1vs1.xyz/",
+    "title": "I built AIM Maps but you play AI",
+    "description": "Article URL: https://www.1vs1.xyz/\nComments URL: https://news.ycombinator.com/item?id=49317048\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T05:59:17.931Z",
+    "published": "Sun, 16 Aug 2026 05:00:10 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T06:02:23.888Z"
+  },
+  {
+    "url": "https://sahilkolwankar.com/blog/ai-input-not-output/",
+    "title": "Ownership in the Age of AI",
+    "description": "Article URL: https://sahilkolwankar.com/blog/ai-input-not-output/\nComments URL: https://news.ycombinator.com/item?id=49316924\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T05:59:17.931Z",
+    "published": "Sun, 16 Aug 2026 04:32:43 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T06:02:23.888Z"
+  },
+  {
+    "url": "https://saaslyra.com",
+    "title": "Show HN: Grow your SaaS visibility with AI-powered discovery",
+    "description": "Article URL: https://saaslyra.com\nComments URL: https://news.ycombinator.com/item?id=49316639\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T05:59:17.931Z",
+    "published": "Sun, 16 Aug 2026 03:29:55 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T06:02:23.888Z"
   }
 ]
