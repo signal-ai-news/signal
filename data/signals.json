@@ -2261,7 +2261,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-22T14:26:47.679Z",
-    "published": "Wed, 22 Jul 2026 03:47:34 +0000"
+    "published": "Wed, 22 Jul 2026 03:47:34 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T05:06:55.859Z"
   },
   {
     "url": "https://towardsdatascience.com/how-to-build-your-own-llm-runtime-from-scratch/",
@@ -2391,7 +2393,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T17:44:36.398Z",
-    "published": "Wed, 22 Jul 2026 17:34:46 +0000"
+    "published": "Wed, 22 Jul 2026 17:34:46 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T05:06:55.859Z"
   },
   {
     "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
@@ -2400,7 +2404,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T17:44:36.398Z",
-    "published": "Wed, 22 Jul 2026 17:34:12 +0000"
+    "published": "Wed, 22 Jul 2026 17:34:12 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T05:06:55.859Z"
   },
   {
     "url": "https://stele-ai.dev/",
@@ -2409,7 +2415,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T17:44:36.398Z",
-    "published": "Wed, 22 Jul 2026 17:33:31 +0000"
+    "published": "Wed, 22 Jul 2026 17:33:31 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T05:06:55.859Z"
   },
   {
     "url": "https://imbue.com/blog/2026-07-20-imbue-catalyst-nanochat",
@@ -23664,5 +23672,16 @@
     "category": "community",
     "discovered": "2026-08-16T03:27:31.462Z",
     "published": "Sun, 16 Aug 2026 00:31:36 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/one-in-five-us-workers-now-delegates-tasks-to-ai-instead-of-colleagues-survey-finds/",
+    "title": "One in five US workers now delegates tasks to AI instead of colleagues, survey finds",
+    "description": "A representative survey by Epoch AI found that 20 percent of employed Americans hand off at least one task to AI that a human used to do. Generally, they accept AI output with little to no editing.\nThe article One in five US workers now delegates tasks to AI instead of colleagues, survey fi",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-16T05:03:35.814Z",
+    "published": "Sun, 16 Aug 2026 05:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T05:06:55.860Z"
   }
 ]
