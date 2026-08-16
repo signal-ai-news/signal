@@ -2591,7 +2591,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-22T17:44:44.878Z",
-    "published": "Wed, 22 Jul 2026 16:41:49 +0000"
+    "published": "Wed, 22 Jul 2026 16:41:49 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T19:05:24.644Z"
   },
   {
     "url": "https://the-decoder.com/cisco-bets-its-small-open-cybersecurity-models-can-outperform-gpt-5-5-at-vulnerability-detection-for-a-fraction-of-the-cost/",
@@ -2600,7 +2602,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-22T17:44:44.878Z",
-    "published": "Wed, 22 Jul 2026 16:28:08 +0000"
+    "published": "Wed, 22 Jul 2026 16:28:08 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T19:05:24.644Z"
   },
   {
     "url": "https://www.zdnet.com/article/perplexity-personal-computer-agentic-ai-complex-tasks-mac/",
@@ -2609,7 +2613,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-22T17:44:58.803Z",
-    "published": "Wed, 22 Jul 2026 17:12:25 GMT"
+    "published": "Wed, 22 Jul 2026 17:12:25 GMT",
+    "processed": true,
+    "processedAt": "2026-08-16T19:05:24.644Z"
   },
   {
     "url": "https://www.zdnet.com/article/firefox-153-enables-containers-by-default/",
@@ -2618,7 +2624,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-22T17:44:58.803Z",
-    "published": "Wed, 22 Jul 2026 17:11:21 GMT"
+    "published": "Wed, 22 Jul 2026 17:11:21 GMT",
+    "processed": true,
+    "processedAt": "2026-08-16T19:05:24.644Z"
   },
   {
     "url": "https://www.engadget.com/2220934/samsung-just-revealed-more-details-about-its-upcoming-smart-glasses-including-battery-life/",
@@ -2627,7 +2635,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-22T17:44:59.433Z",
-    "published": "Wed, 22 Jul 2026 17:28:46 +0000"
+    "published": "Wed, 22 Jul 2026 17:28:46 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T19:05:24.644Z"
   },
   {
     "url": "https://www.engadget.com/2220821/nirvanna-the-band-the-show-and-movie-stream-on-hulu/",
