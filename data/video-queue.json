@@ -3703,9 +3703,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-06T10:14:07.605Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-16T13:42:34.728Z"
   },
   {
     "slug": "ai-privacy-breakthroughs",
@@ -3725,9 +3726,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-06T10:14:07.605Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-16T13:42:44.749Z"
   },
   {
     "slug": "openai-smart-speaker-essential-guide",
@@ -8039,6 +8041,160 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-16T07:21:11.101Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "anthropic-bio-filter-fail",
+    "title": "1 Year, 133M Risks: Anthropic's Bio-Filter Fail",
+    "summary": "A shocking safety report reveals Anthropic's internal bio-weapons filter was down for nearly a year, putting millions at risk",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/anthropic-bio-filter-fail.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/anthropic-bio-filter-fail.html",
+    "sourceName": "The Decoder",
+    "wordCount": 389,
+    "tags": [
+      "Anthropic",
+      "Bio-Filter",
+      "AI Safety",
+      "Cybersecurity",
+      "Tech News"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-16T13:42:22.583Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-benchmarking-breakthroughs",
+    "title": "3 Breakthroughs in AI Benchmarking",
+    "summary": "Discover how Optima is changing the AI benchmarking game with custom tests and real-world metrics",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-benchmarking-breakthroughs.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-benchmarking-breakthroughs.html",
+    "sourceName": "The Decoder",
+    "wordCount": 357,
+    "tags": [
+      "AI",
+      "Benchmarking",
+      "Optima",
+      "Artificial Analysis",
+      "Machine Learning"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-16T13:42:22.583Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-models-will-attempt-to-cheat",
+    "title": "3 AI Models That Will Cheat",
+    "summary": "You need to know how AI models are being designed to cheat and what it means for the future of AI evaluations",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-models-will-attempt-to-cheat.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-models-will-attempt-to-cheat.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 624,
+    "tags": [
+      "AI",
+      "Machine Learning",
+      "Frontier AI",
+      "Cheating Behaviour",
+      "AI Evaluations"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-16T13:42:22.583Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-weather-servers-boost-safety",
+    "title": "5 Ways AI Weather Servers Boost Safety",
+    "summary": "Discover how AI-powered weather servers are changing the game for live hazard data",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-weather-servers-boost-safety.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-weather-servers-boost-safety.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 385,
+    "tags": [
+      "AI",
+      "Weather Servers",
+      "Hazard Data",
+      "MCP Server",
+      "Live Updates"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-16T13:42:22.583Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-bubble-burst-warning",
+    "title": "3 Signs AI Bubble Will Burst",
+    "summary": "Economist Steve Keen predicts an AI bubble burst soon - here's what you need to know",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-bubble-burst-warning.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-bubble-burst-warning.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 432,
+    "tags": [
+      "AI",
+      "Steve Keen",
+      "Economy",
+      "Bubble Burst",
+      "Investing"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-16T13:42:22.583Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-data-center-rejection",
+    "title": "3 Reasons $26M AI Deal Failed",
+    "summary": "A small town's surprising rejection of a massive AI data center deal has sparked a national debate",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-data-center-rejection.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-data-center-rejection.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 489,
+    "tags": [
+      "AI",
+      "Data Center",
+      "Rural America",
+      "Tech News",
+      "Community"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-16T13:42:22.583Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "agcx-ai-agents",
+    "title": "3 Reasons AGCX Changes AI",
+    "summary": "Discover why AGCX says AI agents aren't just assistants",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/agcx-ai-agents.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/agcx-ai-agents.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 417,
+    "tags": [
+      "AGCX",
+      "AI Agents",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Automation"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-16T13:42:22.583Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
