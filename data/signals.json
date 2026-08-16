@@ -2470,7 +2470,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T17:44:36.398Z",
-    "published": "Wed, 22 Jul 2026 17:16:11 +0000"
+    "published": "Wed, 22 Jul 2026 17:16:11 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T09:05:03.468Z"
   },
   {
     "url": "https://www.techradar.com/pro/ai-websites-are-booming-and-making-millions-for-this-tiny-caribbean-nation",
@@ -2479,7 +2481,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T17:44:36.398Z",
-    "published": "Wed, 22 Jul 2026 17:14:30 +0000"
+    "published": "Wed, 22 Jul 2026 17:14:30 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T09:05:03.468Z"
   },
   {
     "url": "https://blog.zksecurity.xyz/posts/bron-bugs/",
@@ -2488,7 +2492,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T17:44:36.398Z",
-    "published": "Wed, 22 Jul 2026 17:12:46 +0000"
+    "published": "Wed, 22 Jul 2026 17:12:46 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T09:05:03.468Z"
   },
   {
     "url": "https://pixelgust.com/blog/weather-mcp-server",
@@ -2497,7 +2503,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T17:44:36.398Z",
-    "published": "Wed, 22 Jul 2026 17:09:14 +0000"
+    "published": "Wed, 22 Jul 2026 17:09:14 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T09:05:03.468Z"
   },
   {
     "url": "https://hachyderm.io/@thomasfuchs/116964576606603226",
@@ -23757,5 +23765,16 @@
     "published": "Sun, 16 Aug 2026 05:50:50 +0000",
     "processed": true,
     "processedAt": "2026-08-16T07:49:23.819Z"
+  },
+  {
+    "url": "https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups/",
+    "title": "OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups",
+    "description": "OpenAI shut down its \"Preparedness\" team, which evaluated whether the company's own AI models could pose catastrophic risks. The work has been parceled out to existing groups, and several safety staffers have left. Internally, unease is building, with one source describing a \"burbling sense",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-16T09:02:06.532Z",
+    "published": "Sun, 16 Aug 2026 08:12:52 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T09:05:03.469Z"
   }
 ]
