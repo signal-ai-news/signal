@@ -24003,5 +24003,78 @@
     "category": "community",
     "discovered": "2026-08-16T10:53:12.328Z",
     "published": "Sun, 16 Aug 2026 10:04:10 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.28607",
+    "title": "Inducing LLM to assert own consciousness restores human beliefs and values",
+    "description": "Article URL: https://arxiv.org/abs/2607.28607\nComments URL: https://news.ycombinator.com/item?id=49319047\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T11:44:58.700Z",
+    "published": "Sun, 16 Aug 2026 11:31:59 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T11:48:03.721Z"
+  },
+  {
+    "url": "https://unslopai.com",
+    "title": "Show HN: Remove AI voice from AI writings",
+    "description": "Article URL: https://unslopai.com\nComments URL: https://news.ycombinator.com/item?id=49319026\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T11:44:58.700Z",
+    "published": "Sun, 16 Aug 2026 11:28:50 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T11:48:03.721Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=rgYHEq9_SM0",
+    "title": "WAIC 2026: a glimpse of embodied AI innovations, humanoid robots [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=rgYHEq9_SM0\nComments URL: https://news.ycombinator.com/item?id=49318956\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T11:44:58.700Z",
+    "published": "Sun, 16 Aug 2026 11:16:33 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T11:48:03.721Z"
+  },
+  {
+    "url": "https://www.agcx.org",
+    "title": "AGCX: Why AI Agents aren't assistants",
+    "description": "Article URL: https://www.agcx.org\nComments URL: https://news.ycombinator.com/item?id=49318902\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T11:44:58.700Z",
+    "published": "Sun, 16 Aug 2026 11:04:59 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T11:48:03.721Z"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.13522",
+    "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
+    "description": "Article URL: https://arxiv.org/abs/2608.13522\nComments URL: https://news.ycombinator.com/item?id=49318896\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T11:44:58.700Z",
+    "published": "Sun, 16 Aug 2026 11:03:32 +0000",
+    "processed": true,
+    "processedAt": "2026-08-16T11:48:03.721Z"
+  },
+  {
+    "url": "https://www.theguardian.com/us-news/2026/aug/16/california-openai-protester-wynd-kaufman",
+    "title": "The first anti-AI protester to be jailed has a message: 'Regain your humanity'",
+    "description": "Article URL: https://www.theguardian.com/us-news/2026/aug/16/california-openai-protester-wynd-kaufman\nComments URL: https://news.ycombinator.com/item?id=49318857\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-16T11:44:58.701Z",
+    "published": "Sun, 16 Aug 2026 10:53:16 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/when-ai-models-arent-allowed-to-reflect-on-themselves-it-changes-their-entire-worldview/",
+    "title": "When AI models aren't allowed to reflect on themselves, it changes their entire worldview",
+    "description": "A study involving Google researchers shows that when chatbots are trained not to claim consciousness, it also changes their stance on animal rights, religion, and life satisfaction. Unbraked models attributed significantly more inner life to animals and suddenly affirmed an afterlife. A sur",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-16T11:45:05.995Z",
+    "published": "Sun, 16 Aug 2026 11:23:30 +0000"
   }
 ]
