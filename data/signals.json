@@ -24961,5 +24961,141 @@
     "published": "Sun, 16 Aug 2026 22:50:38 +0000",
     "processed": true,
     "processedAt": "2026-08-16T23:45:31.848Z"
+  },
+  {
+    "url": "https://www.afr.com/work-and-careers/workplace/ai-wins-landmark-fair-work-commission-case-for-macquarie-academic-20260813-p60o1m",
+    "title": "AI wins landmark Fair Work Commission case for Macquarie academic",
+    "description": "Article URL: https://www.afr.com/work-and-careers/workplace/ai-wins-landmark-fair-work-commission-case-for-macquarie-academic-20260813-p60o1m\nComments URL: https://news.ycombinator.com/item?id=49326817\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T05:22:52.970Z",
+    "published": "Mon, 17 Aug 2026 05:21:39 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T05:26:23.783Z"
+  },
+  {
+    "url": "https://github.com/WhiskeyTuesday/omawrite-win",
+    "title": "I made Claude port omawrite to windows",
+    "description": "Article URL: https://github.com/WhiskeyTuesday/omawrite-win\nComments URL: https://news.ycombinator.com/item?id=49326581\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T05:22:52.970Z",
+    "published": "Mon, 17 Aug 2026 04:33:23 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T05:26:23.783Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49326422",
+    "title": "Idea for Expository AI",
+    "description": "I've heard some complaints about the frontier models still be bad at explaining math and was thinking of an RL environment that would help might be to:-Take very hard math problem with a verifiable answer-Have frontier model explain to a tiny model like (0.5-1B params and provably bad score on the",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T05:22:52.970Z",
+    "published": "Mon, 17 Aug 2026 03:57:19 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T05:26:23.783Z"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/issues/6235",
+    "title": "Claude Code \"Feature Request: Support Agents.md\": Closed as Completed",
+    "description": "Article URL: https://github.com/anthropics/claude-code/issues/6235\nComments URL: https://news.ycombinator.com/item?id=49326393\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T05:22:52.970Z",
+    "published": "Mon, 17 Aug 2026 03:50:56 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T05:26:23.783Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49326276",
+    "title": "Ask HN: Claude Desktop Weird Behavior",
+    "description": "I had a Claude session going on on my mac on thedesktop app. I also had a separate session on a separate project on my Windows machine, again on Claude Desktop app. Mac session finished a fix for a web app and started testing, to my surprise web site launched on my Windows machine. Any idea why? Is",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T05:22:52.970Z",
+    "published": "Mon, 17 Aug 2026 03:29:28 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T05:26:23.783Z"
+  },
+  {
+    "url": "https://www.wsj.com/health/ai-is-helping-patients-solve-medical-mysteries-3c2d7c25",
+    "title": "AI Is Helping Patients Solve Medical Mysteries",
+    "description": "Article URL: https://www.wsj.com/health/ai-is-helping-patients-solve-medical-mysteries-3c2d7c25\nComments URL: https://news.ycombinator.com/item?id=49326250\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T05:22:52.970Z",
+    "published": "Mon, 17 Aug 2026 03:25:40 +0000"
+  },
+  {
+    "url": "https://forum.level1techs.com/t/google-illegally-retains-customer-data-and-i-am-taking-legal-action-against-them/253945",
+    "title": "Level1Techs Can't Disprove Google's GDPR AI Studio Violation",
+    "description": "Article URL: https://forum.level1techs.com/t/google-illegally-retains-customer-data-and-i-am-taking-legal-action-against-them/253945\nComments URL: https://news.ycombinator.com/item?id=49326185\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T05:22:52.970Z",
+    "published": "Mon, 17 Aug 2026 03:13:51 +0000"
+  },
+  {
+    "url": "https://zenodo.org/records/21967859",
+    "title": "Design of the HTTPS Layer for AI Governance",
+    "description": "Article URL: https://zenodo.org/records/21967859\nComments URL: https://news.ycombinator.com/item?id=49326142\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T05:22:52.970Z",
+    "published": "Mon, 17 Aug 2026 03:06:10 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49325946",
+    "title": "Ask HN: How do you keep track of all your codex/Claude sessions?",
+    "description": "I create so many assets, for both dev and GTM, have many that remain unfinished...How do you keep track of it all?\n\nComments URL: https://news.ycombinator.com/item?id=49325946\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T05:22:52.970Z",
+    "published": "Mon, 17 Aug 2026 02:29:28 +0000"
+  },
+  {
+    "url": "https://blockarena.puter.com/",
+    "title": "BlockArena: AI-Generated FPS Game",
+    "description": "Article URL: https://blockarena.puter.com/\nComments URL: https://news.ycombinator.com/item?id=49325641\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T05:22:52.970Z",
+    "published": "Mon, 17 Aug 2026 01:32:48 +0000"
+  },
+  {
+    "url": "https://jeffreyflynt02.medium.com/ai-agent-safety-is-still-thinking-like-permissions-45878337bd98",
+    "title": "AI Agent Safety Is Still Thinking Like Permissions",
+    "description": "Article URL: https://jeffreyflynt02.medium.com/ai-agent-safety-is-still-thinking-like-permissions-45878337bd98\nComments URL: https://news.ycombinator.com/item?id=49325639\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T05:22:52.970Z",
+    "published": "Mon, 17 Aug 2026 01:32:23 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49325617",
+    "title": "Show HN: Adding friction to my automatic open Claude reaction",
+    "description": "I've been reaching for claude way too often and wanted to add some friction. Give myself a chance to think about whether or not it's actually necessary :')https://github.com/aqureshi8/claudeconfirm\n\nComments URL: https://news.ycombinator.com/item?id=49325617\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T05:22:52.970Z",
+    "published": "Mon, 17 Aug 2026 01:29:32 +0000"
+  },
+  {
+    "url": "https://useokf.com/",
+    "title": "The CLI your AI agent drives to manage your knowledge graph",
+    "description": "Article URL: https://useokf.com/\nComments URL: https://news.ycombinator.com/item?id=49325279\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T05:22:52.970Z",
+    "published": "Mon, 17 Aug 2026 00:32:08 +0000"
+  },
+  {
+    "url": "https://github.com/getlago/lago/wiki/With-OpenRouter,-is-Stripe-becoming-the-Amazon-of-AI",
+    "title": "With OpenRouter, Is Stripe Becoming the Amazon of AI",
+    "description": "Article URL: https://github.com/getlago/lago/wiki/With-OpenRouter,-is-Stripe-becoming-the-Amazon-of-AI\nComments URL: https://news.ycombinator.com/item?id=49324994\nPoints: 4\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T05:22:52.970Z",
+    "published": "Sun, 16 Aug 2026 23:47:45 +0000"
   }
 ]
