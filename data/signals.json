@@ -3185,7 +3185,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-07-23T12:16:40.038Z",
-    "published": "Thu, 23 Jul 2026 09:15:00 +0000"
+    "published": "Thu, 23 Jul 2026 09:15:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T18:04:24.793Z"
   },
   {
     "url": "https://www.zdnet.com/article/best-wifi-router/",
@@ -3194,7 +3196,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-23T12:16:45.848Z",
-    "published": "Thu, 23 Jul 2026 11:06:06 GMT"
+    "published": "Thu, 23 Jul 2026 11:06:06 GMT",
+    "processed": true,
+    "processedAt": "2026-08-17T18:04:24.793Z"
   },
   {
     "url": "https://www.zdnet.com/article/wifi-router-vs-mesh/",
@@ -25896,5 +25900,38 @@
     "published": "Mon, 17 Aug 2026 16:35:30 +0000",
     "processed": true,
     "processedAt": "2026-08-17T17:04:05.403Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/ai-linux-7-2-release-cache-aware-scheduling/",
+    "title": "AI-enriched Linux 7.2 delivers cache-aware scheduling - here's everything new",
+    "description": "The latest stable kernel also brings filesystem and I/O improvements, and substantial new support across AMD, Intel, Apple, Nvidia, USB4, and laptop hardware.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-17T18:02:18.854Z",
+    "published": "Mon, 17 Aug 2026 17:12:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-17T18:04:24.794Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/turn-old-android-into-raspberry-pi-alternative/",
+    "title": "You can turn an old Android into a Raspberry Pi alternative - but know this first",
+    "description": "With AI-driven RAM shortages pushing Raspberry Pi prices sky high, here's how to repurpose your old handset into a portable powerhouse for your projects.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-17T18:02:18.854Z",
+    "published": "Mon, 17 Aug 2026 17:11:41 GMT",
+    "processed": true,
+    "processedAt": "2026-08-17T18:04:24.794Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/google-wants-you-to-use-its-phones-less-and-its-ai-more/",
+    "title": "Google wants you to use its phones less and its AI more - but who's buying it?",
+    "description": "Google is leveraging our poor relationship to technology to sell its new phones - the same relationship it had a hand in creating.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-17T18:02:18.854Z",
+    "published": "Mon, 17 Aug 2026 17:10:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-17T18:04:24.794Z"
   }
 ]
