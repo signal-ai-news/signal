@@ -8510,5 +8510,159 @@
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
+  },
+  {
+    "slug": "ai-honesty-gap",
+    "title": "3 Reasons AI Makes You Less Honest",
+    "summary": "New research reveals how AI tools can make people less likely to admit when they don't know something",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-honesty-gap.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-honesty-gap.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 561,
+    "tags": [
+      "AI",
+      "honesty",
+      "technology",
+      "research",
+      "psychology"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-17T13:56:14.576Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "copilot-vs-raw-api-access",
+    "title": "3 Reasons Copilot Beats Raw API",
+    "summary": "Don't miss the essential breakdown of Copilot's new billing model and how it compares to direct API access",
+    "category": "CODE",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/copilot-vs-raw-api-access.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/copilot-vs-raw-api-access.html",
+    "sourceName": "GitHub Copilot Blog",
+    "wordCount": 517,
+    "tags": [
+      "GitHub Copilot",
+      "API access",
+      "coding workflow",
+      "AI tools",
+      "code"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-17T13:56:14.576Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "china-ai-models-challenge-silicon-valley",
+    "title": "3 AI Models Challenging Silicon Valley",
+    "summary": "China's open-source AI models are giving Silicon Valley a run for its money, and you need to know why",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/china-ai-models-challenge-silicon-valley.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/china-ai-models-challenge-silicon-valley.html",
+    "sourceName": "Wired AI",
+    "wordCount": 399,
+    "tags": [
+      "AI",
+      "China",
+      "Silicon Valley",
+      "Open-Source",
+      "Machine Learning"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-17T13:56:14.576Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-tops-us-campaigns",
+    "title": "3 Reasons AI Tops US Campaigns",
+    "summary": "AI and data centers are now the hottest topics in US campaigns, surpassing Israel, racism, and crypto",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-tops-us-campaigns.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-tops-us-campaigns.html",
+    "sourceName": "The Decoder",
+    "wordCount": 423,
+    "tags": [
+      "AI",
+      "US Campaigns",
+      "Data Centers",
+      "Politics",
+      "Technology"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-17T13:56:14.576Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "stripe-acquires-openrouter-7-billion",
+    "title": "7B AI Deal",
+    "summary": "Stripe's massive $7 billion acquisition of OpenRouter is a breakthrough in AI accessibility",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/stripe-acquires-openrouter-7-billion.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/stripe-acquires-openrouter-7-billion.html",
+    "sourceName": "The Decoder",
+    "wordCount": 418,
+    "tags": [
+      "AI",
+      "Stripe",
+      "OpenRouter",
+      "Acquisition",
+      "Tech News"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-17T13:56:14.576Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "grok-lawsuits-csam-accusations",
+    "title": "3 Suits Against Grok",
+    "summary": "A fourth woman joins the lawsuit against xAI's Grok, alleging it generated CSAM from her childhood photos",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/grok-lawsuits-csam-accusations.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/grok-lawsuits-csam-accusations.html",
+    "sourceName": "Engadget AI",
+    "wordCount": 426,
+    "tags": [
+      "Grok",
+      "xAI",
+      "CSAM",
+      "AI ethics",
+      "lawsuits"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-17T13:56:14.576Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "us-genesis-mission-ai-research",
+    "title": "5Bn Genesis Mission",
+    "summary": "The US is investing $5 billion in AI research - here's what you need to know",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/us-genesis-mission-ai-research.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/us-genesis-mission-ai-research.html",
+    "sourceName": "Engadget AI",
+    "wordCount": 562,
+    "tags": [
+      "US Genesis Mission",
+      "AI research",
+      "science",
+      "technology",
+      "federal agencies"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-17T13:56:14.576Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
   }
 ]
