@@ -25660,5 +25660,186 @@
     "category": "news",
     "discovered": "2026-08-17T14:58:11.418Z",
     "published": "Mon, 17 Aug 2026 14:13:26 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+    "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+    "description": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-17T15:54:10.139Z",
+    "published": "Mon, 17 Aug 2026 15:16:24 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T15:56:47.036Z"
+  },
+  {
+    "url": "https://disassociated.com/ai-scraper-bogus-url-tracking-tags/",
+    "title": "AI scrapers use bogus URL tracking tags to make website visits seem legit",
+    "description": "Article URL: https://disassociated.com/ai-scraper-bogus-url-tracking-tags/\nComments URL: https://news.ycombinator.com/item?id=49333012\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T15:54:19.535Z",
+    "published": "Mon, 17 Aug 2026 15:51:47 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T15:56:47.036Z"
+  },
+  {
+    "url": "https://worldsenoughstudios.com/flash-fight/",
+    "title": "Show HN: AI-Generated Flash Fiction Arena",
+    "description": "Which model will win at writing ~500 word short stories?\n\nComments URL: https://news.ycombinator.com/item?id=49332976\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T15:54:19.535Z",
+    "published": "Mon, 17 Aug 2026 15:49:50 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T15:56:47.036Z"
+  },
+  {
+    "url": "https://benfrain.com/well-done-ai-thats-the-end-of-the-honest-boxes/",
+    "title": "Well done AI, that's the end of the honest boxes",
+    "description": "Article URL: https://benfrain.com/well-done-ai-thats-the-end-of-the-honest-boxes/\nComments URL: https://news.ycombinator.com/item?id=49332897\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T15:54:19.535Z",
+    "published": "Mon, 17 Aug 2026 15:45:35 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T15:56:47.036Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49332751",
+    "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+    "description": "Hi HN! I'm Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options, and tells you why.Demo: https://youtu.be/no2LY2gRh-cTypical production voice agent is an ensemble of th",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T15:54:19.535Z",
+    "published": "Mon, 17 Aug 2026 15:36:18 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T15:56:47.036Z"
+  },
+  {
+    "url": "https://www.techoperators.com/insights/the-endpoint-wars-just-restarted",
+    "title": "The Endpoint Wars Just Restarted (Rise of the AI Agents)",
+    "description": "Article URL: https://www.techoperators.com/insights/the-endpoint-wars-just-restarted\nComments URL: https://news.ycombinator.com/item?id=49332749\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T15:54:19.535Z",
+    "published": "Mon, 17 Aug 2026 15:36:12 +0000"
+  },
+  {
+    "url": "https://chrlschn.dev/blog/2026/08/the-unexpected-ai-stack-csharp-dotnet-part-1/",
+    "title": "The Unexpected AI Stack: C# + .NET (Part 1)",
+    "description": "Article URL: https://chrlschn.dev/blog/2026/08/the-unexpected-ai-stack-csharp-dotnet-part-1/\nComments URL: https://news.ycombinator.com/item?id=49332692\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T15:54:19.535Z",
+    "published": "Mon, 17 Aug 2026 15:31:51 +0000"
+  },
+  {
+    "url": "https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2",
+    "title": "Why Big Tech's AI Spending Is $3T Higher Than It Seems",
+    "description": "Article URL: https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2\nComments URL: https://news.ycombinator.com/item?id=49332588\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T15:54:19.535Z",
+    "published": "Mon, 17 Aug 2026 15:25:40 +0000"
+  },
+  {
+    "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
+    "title": "Ahmad on X: \"Anthropic's War on open source AI\" / X",
+    "description": "Article URL: https://twitter.com/TheAhmadOsman/status/2065307070044234186\nComments URL: https://news.ycombinator.com/item?id=49332564\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T15:54:19.535Z",
+    "published": "Mon, 17 Aug 2026 15:24:34 +0000"
+  },
+  {
+    "url": "https://harlequin.sh/blog/dr-claude",
+    "title": "Dr. Claude: Or, How I Learned to Stop Worrying and Love Whatever It Is This Is",
+    "description": "Article URL: https://harlequin.sh/blog/dr-claude\nComments URL: https://news.ycombinator.com/item?id=49332515\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T15:54:19.535Z",
+    "published": "Mon, 17 Aug 2026 15:20:54 +0000"
+  },
+  {
+    "url": "https://bsky.app/profile/carlbergstrom.com/post/3mtbboq46qc23",
+    "title": "Recently I've received lots of AI emails asking for my feedback",
+    "description": "Article URL: https://bsky.app/profile/carlbergstrom.com/post/3mtbboq46qc23\nComments URL: https://news.ycombinator.com/item?id=49332500\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T15:54:19.535Z",
+    "published": "Mon, 17 Aug 2026 15:19:45 +0000"
+  },
+  {
+    "url": "https://curia.surge.sh/",
+    "title": "Show HN: Curia – Personal Radio and AI Podcasts",
+    "description": "hi everyoneI've made this personalised audio app called Curia, that turns articles & links, into audio shows. You can customize the show format, to fit different moments of the day.Would love for people to try out and share feedback.My long term vision is to make the personal media company, where u",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T15:54:19.535Z",
+    "published": "Mon, 17 Aug 2026 15:19:38 +0000"
+  },
+  {
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/17/agentic-ai-costs-set-to-balloon-fivefold-by-2028/5288363",
+    "title": "Agentic AI costs set to balloon fivefold by 2028",
+    "description": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/17/agentic-ai-costs-set-to-balloon-fivefold-by-2028/5288363\nComments URL: https://news.ycombinator.com/item?id=49332442\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T15:54:19.535Z",
+    "published": "Mon, 17 Aug 2026 15:17:10 +0000"
+  },
+  {
+    "url": "https://blog.dait.ro/post/ai-mansplaining",
+    "title": "The cure for AI mansplaining",
+    "description": "Article URL: https://blog.dait.ro/post/ai-mansplaining\nComments URL: https://news.ycombinator.com/item?id=49332382\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T15:54:19.535Z",
+    "published": "Mon, 17 Aug 2026 15:13:18 +0000"
+  },
+  {
+    "url": "https://moregoodreviews.com/ai",
+    "title": "Show HN: The AI Reputation Manager",
+    "description": "Hey folks, I bootstrapped \"More Good Reviews\" to $170,000 in sales before building this. I just launched an MCP for AI reputation and review management. You can find it in Claude's connector directory: https://claude.ai/directory/more-good-reviewsConnect your Google Business Listing and get reports",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T15:54:19.535Z",
+    "published": "Mon, 17 Aug 2026 15:10:07 +0000"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cddjlmeqjgyo",
+    "title": "Sainsbury's branch pauses AI cameras use after shopper ejected",
+    "description": "Article URL: https://www.bbc.co.uk/news/articles/cddjlmeqjgyo\nComments URL: https://news.ycombinator.com/item?id=49332293\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T15:54:19.535Z",
+    "published": "Mon, 17 Aug 2026 15:08:37 +0000"
+  },
+  {
+    "url": "https://claude.ai/share/99bfee0f-bab9-4593-aabb-377e71f1151d",
+    "title": "The Message Isn't the Medium: In Defense of LLM-Assisted Writing",
+    "description": "Article URL: https://claude.ai/share/99bfee0f-bab9-4593-aabb-377e71f1151d\nComments URL: https://news.ycombinator.com/item?id=49332291\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T15:54:19.535Z",
+    "published": "Mon, 17 Aug 2026 15:08:35 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/three-generations-of-autoscaling-and-why-agentic-traffic-breaks-all-of-them/",
+    "title": "Three Generations of Autoscaling — And Why Agentic Traffic Breaks All of Them",
+    "description": "How autonomous agents broke two decades of capacity planning — and what to build instead\nThe post Three Generations of Autoscaling — And Why Agentic Traffic Breaks All of Them appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-17T15:54:25.137Z",
+    "published": "Mon, 17 Aug 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2238260/uber-aims-for-1-million-daily-drone-deliveries-with-zipline-partnership/",
+    "title": "Uber aims for 1 million daily drone deliveries with Zipline partnership",
+    "description": "The first Zipline drone deliveries for Uber Eats orders will start later this year.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-17T15:54:41.428Z",
+    "published": "Mon, 17 Aug 2026 15:34:27 +0000"
   }
 ]
