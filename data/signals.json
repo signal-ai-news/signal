@@ -3097,7 +3097,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-07-23T06:38:56.821Z",
-    "published": "Wed, 22 Jul 2026 21:00:00 +0000"
+    "published": "Wed, 22 Jul 2026 21:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T08:07:49.031Z"
   },
   {
     "url": "https://www.engadget.com/2221309/us-outlines-its-5-billion-genesis-mission-to-boost-science-with-ai/",
@@ -3106,7 +3108,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-23T06:39:03.674Z",
-    "published": "Wed, 22 Jul 2026 20:54:26 +0000"
+    "published": "Wed, 22 Jul 2026 20:54:26 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T08:07:49.031Z"
   },
   {
     "url": "https://huggingface.co/blog/nunchaku-diffusers",
@@ -25097,5 +25101,38 @@
     "category": "community",
     "discovered": "2026-08-17T05:22:52.970Z",
     "published": "Sun, 16 Aug 2026 23:47:45 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/ai-and-data-centers-have-leapfrogged-israel-racism-and-crypto-as-us-campaign-topics/",
+    "title": "AI and data centers have leapfrogged Israel, racism, and crypto as US campaign topics",
+    "description": "AI shows up in nearly 40 percent of all US races, ranking ahead of Israel, racism, and manufacturing as a campaign topic. Data centers and their impact on electricity costs and local resources drive most of the conversation.\nThe article AI and data centers have leapfrogged Israel, racism, a",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-17T08:04:28.246Z",
+    "published": "Mon, 17 Aug 2026 07:58:28 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T08:07:49.032Z"
+  },
+  {
+    "url": "https://the-decoder.com/stripe-is-reportedly-acquiring-ai-startup-openrouter-for-more-than-7-billion/",
+    "title": "Stripe is reportedly acquiring AI startup OpenRouter for more than $7 billion",
+    "description": "According to Bloomberg, Stripe is acquiring the AI startup OpenRouter for more than $7 billion, up from a latest valuation of $1.3 billion. OpenRouter offers access to over 400 AI models, has eight million users, and its CEO had described the company as \"Stripe for AI.\" Now that's becoming",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-17T08:04:28.246Z",
+    "published": "Mon, 17 Aug 2026 06:49:10 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T08:07:49.032Z"
+  },
+  {
+    "url": "https://www.engadget.com/2237875/another-woman-joins-lawsuit-accusing-grok-of-generating-csam/",
+    "title": "Another woman joins lawsuit accusing Grok of generating CSAM",
+    "description": "A fourth party is pursuing legal action against xAI, alleging that Grok was used to create CSAM based on her childhood photos.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-17T08:04:40.820Z",
+    "published": "Mon, 17 Aug 2026 05:54:41 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T08:07:49.032Z"
   }
 ]
