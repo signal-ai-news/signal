@@ -3251,7 +3251,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-23T12:16:46.558Z",
-    "published": "Thu, 23 Jul 2026 11:44:54 +0000"
+    "published": "Thu, 23 Jul 2026 11:44:54 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T23:52:38.700Z"
   },
   {
     "url": "https://www.engadget.com/2221526/sony-fx5-cinema-camera/",
@@ -3260,7 +3262,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-23T12:16:46.558Z",
-    "published": "Thu, 23 Jul 2026 10:00:23 +0000"
+    "published": "Thu, 23 Jul 2026 10:00:23 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T23:52:38.700Z"
   },
   {
     "url": "https://openai.com/index/health-in-chatgpt",
@@ -26315,5 +26319,38 @@
     "category": "community",
     "discovered": "2026-08-17T22:55:33.350Z",
     "published": "Mon, 17 Aug 2026 21:03:05 +0000"
+  },
+  {
+    "url": "https://lullabyconverter.com",
+    "title": "Show HN: AI-generated music box version of any song (for baby)",
+    "description": "title basically covers it. project #2 from my paternity leave. My partner & I got frustrated with hearing Brahm's Lullaby and Wheels On The Bus repeatedly. I also stand by that babies can enjoy adult music just as easily as they can enjoy \"kids music\". But most adult music is too dense/complex for",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T23:50:10.622Z",
+    "published": "Mon, 17 Aug 2026 23:14:35 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T23:52:38.701Z"
+  },
+  {
+    "url": "https://github.com/couldbeme/holdline",
+    "title": "Show HN: A benchmark for AI agent guardrails that caught my own plugin",
+    "description": "Article URL: https://github.com/couldbeme/holdline\nComments URL: https://news.ycombinator.com/item?id=49338963\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T23:50:10.622Z",
+    "published": "Mon, 17 Aug 2026 23:11:48 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T23:52:38.701Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49338865",
+    "title": "Ask HN: Can you still tell AI-generated text apart in your own language?",
+    "description": "I'm Japanese, and I can still usually spot AI-generated Japanese by its word choice. Some words, like 実務 (practical work) and 帳簿 (a ledger), turn up far more often than they should. Casual ones like 効く (to work well, to be effective) and 刺さる (to pierce > to resonate, to hit home) get used where ano",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-17T23:50:10.622Z",
+    "published": "Mon, 17 Aug 2026 22:59:37 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T23:52:38.701Z"
   }
 ]
