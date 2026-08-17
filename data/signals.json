@@ -3207,7 +3207,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-23T12:16:45.848Z",
-    "published": "Thu, 23 Jul 2026 11:05:47 GMT"
+    "published": "Thu, 23 Jul 2026 11:05:47 GMT",
+    "processed": true,
+    "processedAt": "2026-08-17T19:38:29.621Z"
   },
   {
     "url": "https://www.zdnet.com/article/widest-coverage-wi-fi-7-routers-lab-tested/",
@@ -25933,5 +25935,49 @@
     "published": "Mon, 17 Aug 2026 17:10:00 GMT",
     "processed": true,
     "processedAt": "2026-08-17T18:04:24.794Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/ai-agent-adoption-tripled-measurable-roi/",
+    "title": "Business adoption of AI agents tripled this year - as measurable ROI emerges",
+    "description": "Industries are finding the strategies that work best for their business needs, according to Salesforce's latest Agentic Enterprise Index.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-17T19:36:23.755Z",
+    "published": "Mon, 17 Aug 2026 18:35:45 GMT",
+    "processed": true,
+    "processedAt": "2026-08-17T19:38:29.622Z"
+  },
+  {
+    "url": "https://www.engadget.com/2238514/sonos-put-speaker-controls-on-your-iphone-lock-screen-again/",
+    "title": "Sonos put speaker controls on your iPhone's lock screen (again)",
+    "description": "Sonos released an app update that takes advantage of Apple&#39;s Live Activities system.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-17T19:36:24.321Z",
+    "published": "Mon, 17 Aug 2026 18:30:48 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T19:38:29.622Z"
+  },
+  {
+    "url": "https://www.engadget.com/2237248/why-curved-tvs-failed-gaming-monitors-thrived/",
+    "title": "Why curved TVs failed but curved gaming monitors thrived",
+    "description": "Curved TVs walked so curved gaming monitors could run.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-17T19:36:24.321Z",
+    "published": "Mon, 17 Aug 2026 18:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T19:38:29.622Z"
+  },
+  {
+    "url": "https://www.engadget.com/2238496/apple-is-forced-to-stop-favoring-its-own-apps-in-personal-data-collection-prompts/",
+    "title": "Apple is forced to stop favoring its own apps in personal data collection prompts",
+    "description": "A German competition authority said that Apple's data collection prompts favors its own apps versus third-party options.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-17T19:36:24.321Z",
+    "published": "Mon, 17 Aug 2026 18:12:36 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T19:38:29.622Z"
   }
 ]
