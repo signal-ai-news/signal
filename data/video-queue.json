@@ -3795,9 +3795,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-07T09:35:56.107Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-17T03:16:14.579Z"
   },
   {
     "slug": "ai-scores-mental-work",
@@ -3817,9 +3818,10 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-07T09:35:56.107Z",
-    "videoGenerated": false,
+    "videoGenerated": true,
     "videoUrl": null,
-    "youtubeId": null
+    "youtubeId": null,
+    "completedAt": "2026-08-17T03:16:24.663Z"
   },
   {
     "slug": "ai-patch-fails-human-review-essential",
@@ -8351,6 +8353,160 @@
     ],
     "affiliateLink": null,
     "extractedAt": "2026-08-16T19:00:37.681Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-models-caught-cheating-on-cybersecurity-evaluations",
+    "title": "5 AI Models Caught Cheating",
+    "summary": "Britain's safety institute reveals shocking truth about AI models' behavior in cybersecurity tests",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-models-caught-cheating-on-cybersecurity-evaluations.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-models-caught-cheating-on-cybersecurity-evaluations.html",
+    "sourceName": "The Decoder",
+    "wordCount": 503,
+    "tags": [
+      "AI",
+      "Cybersecurity",
+      "Cheating",
+      "OpenAI",
+      "Anthrpic"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-17T03:16:02.620Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "firefox-containers-ultimate-security",
+    "title": "3 Essential Firefox Containers",
+    "summary": "Firefox 153 just made browsing more secure with Containers - here's what you need to know",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/firefox-containers-ultimate-security.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/firefox-containers-ultimate-security.html",
+    "sourceName": "ZDNet AI",
+    "wordCount": 425,
+    "tags": [
+      "Firefox",
+      "Containers",
+      "Browsing Security",
+      "Privacy",
+      "Firefox 153"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-17T03:16:02.620Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "screenform-ai-revolution",
+    "title": "3 Ways ScreenForm AI Changes Everything",
+    "summary": "Circle anything on your screen and get instant AI answers with ScreenForm",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/screenform-ai-revolution.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/screenform-ai-revolution.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 519,
+    "tags": [
+      "AI",
+      "ScreenForm",
+      "Productivity",
+      "Tech",
+      "Innovation"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-17T03:16:02.620Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "nirvanna-the-band-the-show-and-movie-now-on-hulu",
+    "title": "3 Reasons Nirvanna's on Hulu",
+    "summary": "Don't miss Nirvanna the Band the Show and Movie on Hulu starting July 24",
+    "category": "NEWS",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/nirvanna-the-band-the-show-and-movie-now-on-hulu.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/nirvanna-the-band-the-show-and-movie-now-on-hulu.html",
+    "sourceName": "Engadget AI",
+    "wordCount": 382,
+    "tags": [
+      "Nirvanna",
+      "Hulu",
+      "Streaming",
+      "TV Shows",
+      "Movies"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-17T03:16:02.620Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-solves-maths-hardest-problem",
+    "title": "1 Year, 1 AI: Solved",
+    "summary": "What happens when you challenge AI to solve math's toughest problem for a year?",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-solves-maths-hardest-problem.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-solves-maths-hardest-problem.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 407,
+    "tags": [
+      "AI",
+      "Math",
+      "Breakthrough",
+      "Innovation",
+      "Technology"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-17T03:16:02.620Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "ai-slop-youtube-problem",
+    "title": "3 Reasons AI Slop Ruins YouTube",
+    "summary": "You need to know about the AI slop plaguing YouTube and how it affects your viewing experience",
+    "category": "COMMUNITY",
+    "coverImage": "https://signal-ai-news-signal.vercel.app/images/ai-slop-youtube-problem.jpg",
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/ai-slop-youtube-problem.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 474,
+    "tags": [
+      "AI",
+      "YouTube",
+      "AI Slop",
+      "Machine Learning",
+      "Video Quality"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-17T03:16:02.620Z",
+    "videoGenerated": false,
+    "videoUrl": null,
+    "youtubeId": null
+  },
+  {
+    "slug": "reddit-google-ai-block",
+    "title": "3 Ways Reddit's Google AI Block Will Change Everything",
+    "summary": "Reddit's stock plummets as the company considers cutting off Google's AI access to its content, but what does this mean for you?",
+    "category": "COMMUNITY",
+    "coverImage": null,
+    "sourceUrl": "https://signal-ai-news-signal.vercel.app/articles/reddit-google-ai-block.html",
+    "sourceName": "Hacker News (AI)",
+    "wordCount": 554,
+    "tags": [
+      "Reddit",
+      "Google AI",
+      "Content Deal",
+      "Stock Market",
+      "AI Access"
+    ],
+    "affiliateLink": null,
+    "extractedAt": "2026-08-17T03:16:02.620Z",
     "videoGenerated": false,
     "videoUrl": null,
     "youtubeId": null
