@@ -25841,5 +25841,60 @@
     "category": "news",
     "discovered": "2026-08-17T15:54:41.428Z",
     "published": "Mon, 17 Aug 2026 15:34:27 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "title": "Amazon, once an online bookseller, is destroying rare books to train AI models",
+    "description": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-17T17:01:26.009Z",
+    "published": "Mon, 17 Aug 2026 16:38:44 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T17:04:05.403Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+    "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+    "description": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-17T17:01:26.009Z",
+    "published": "Mon, 17 Aug 2026 16:15:12 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T17:04:05.403Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/webwright-why-ai-web-agents-should-write-code-not-click/",
+    "title": "Webwright: Why AI Web Agents Should Write Code, Not Click",
+    "description": "For years, web agents have worked one click at a time—and often fallen apart on long tasks. Microsoft Research’s Webwright makes a different bet: give the model a terminal and let it write the program instead. On long-horizon tasks, the same GPT-5.4 model jumps from 33.5% to 60.1% success. And inste",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-17T17:01:40.989Z",
+    "published": "Mon, 17 Aug 2026 16:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T17:04:05.403Z"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/",
+    "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+    "description": "Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas.\nThe post How canvases make agentic workflows visible, steerable, and cost-efficient appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-08-17T17:01:48.401Z",
+    "published": "Mon, 17 Aug 2026 16:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T17:04:05.403Z"
+  },
+  {
+    "url": "https://www.engadget.com/2238384/bytedance-agrees-to-reel-in-its-ai-models-to-protect-hollywood-ip/",
+    "title": "ByteDance agrees to reel in its AI models to protect Hollywood IPs",
+    "description": "TikTok's parent company signed a memorandum of understanding with The Motion Picture Association.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-17T17:01:58.598Z",
+    "published": "Mon, 17 Aug 2026 16:35:30 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T17:04:05.403Z"
   }
 ]
