@@ -2921,7 +2921,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T19:04:55.559Z",
-    "published": "Wed, 22 Jul 2026 18:22:24 +0000"
+    "published": "Wed, 22 Jul 2026 18:22:24 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T03:31:50.579Z"
   },
   {
     "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/",
@@ -2930,7 +2932,9 @@
     "source": "GitHub Copilot Blog",
     "category": "code",
     "discovered": "2026-07-22T19:05:08.335Z",
-    "published": "Wed, 22 Jul 2026 19:00:00 +0000"
+    "published": "Wed, 22 Jul 2026 19:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T03:31:50.579Z"
   },
   {
     "url": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
@@ -2939,7 +2943,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-07-22T19:05:16.877Z",
-    "published": "Wed, 22 Jul 2026 19:01:38 +0000"
+    "published": "Wed, 22 Jul 2026 19:01:38 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T03:31:50.579Z"
   },
   {
     "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
@@ -3003,7 +3009,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T19:42:11.023Z",
-    "published": "Wed, 22 Jul 2026 19:14:05 +0000"
+    "published": "Wed, 22 Jul 2026 19:14:05 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T03:31:50.579Z"
   },
   {
     "url": "https://www.mercatus.org/macro-musings/basil-halperin-macroeconomic-policy-age-transformative-ai",
@@ -3012,7 +3020,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-22T19:42:11.023Z",
-    "published": "Wed, 22 Jul 2026 19:05:38 +0000"
+    "published": "Wed, 22 Jul 2026 19:05:38 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T03:31:50.579Z"
   },
   {
     "url": "https://openai.com/index/how-news-organizations-are-using-ai",
