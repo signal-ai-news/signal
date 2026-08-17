@@ -3218,7 +3218,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-23T12:16:45.848Z",
-    "published": "Thu, 23 Jul 2026 11:00:50 GMT"
+    "published": "Thu, 23 Jul 2026 11:00:50 GMT",
+    "processed": true,
+    "processedAt": "2026-08-17T21:57:33.290Z"
   },
   {
     "url": "https://www.zdnet.com/article/google-wants-you-to-upload-your-face-to-recover-your-account-but-should-you/",
@@ -3227,7 +3229,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-23T12:16:45.848Z",
-    "published": "Thu, 23 Jul 2026 10:00:48 GMT"
+    "published": "Thu, 23 Jul 2026 10:00:48 GMT",
+    "processed": true,
+    "processedAt": "2026-08-17T21:57:33.290Z"
   },
   {
     "url": "https://www.engadget.com/2220868/gopro-wireless-mic-system-review/",
@@ -3236,7 +3240,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-23T12:16:46.558Z",
-    "published": "Thu, 23 Jul 2026 12:00:00 +0000"
+    "published": "Thu, 23 Jul 2026 12:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T21:57:33.290Z"
   },
   {
     "url": "https://www.engadget.com/2221547/uber-lays-off-10-percent-customer-service-team-ai/",
@@ -26160,5 +26166,27 @@
     "category": "community",
     "discovered": "2026-08-17T21:00:45.679Z",
     "published": "Mon, 17 Aug 2026 19:21:09 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+    "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+    "description": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-17T21:54:56.970Z",
+    "published": "Mon, 17 Aug 2026 21:27:05 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T21:57:33.291Z"
+  },
+  {
+    "url": "https://www.engadget.com/2237555/flash-drive-size-keep-going-up-why-small-rarely-sold-today/",
+    "title": "Why flash drive capacity keeps increasing (and why small drives are rarely sold today)",
+    "description": "While smaller drives can certainly still be found, there&#39;s a good reason why you don&#39;t often find them on retailers&#39; shelves.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-17T21:55:26.886Z",
+    "published": "Mon, 17 Aug 2026 21:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T21:57:33.291Z"
   }
 ]
