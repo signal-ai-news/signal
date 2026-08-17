@@ -3174,7 +3174,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-23T12:16:26.246Z",
-    "published": "Thu, 23 Jul 2026 11:19:57 +0000"
+    "published": "Thu, 23 Jul 2026 11:19:57 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T10:08:19.872Z"
   },
   {
     "url": "https://www.wired.com/story/the-beloved-jibo-robot-is-being-resurrected-as-an-ai-wearable/",
@@ -25134,5 +25136,49 @@
     "published": "Mon, 17 Aug 2026 05:54:41 +0000",
     "processed": true,
     "processedAt": "2026-08-17T08:07:49.032Z"
+  },
+  {
+    "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+    "title": "Get closer to the game with Gemini and Pixel",
+    "description": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and  Smartphone Technology.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-08-17T10:05:41.887Z",
+    "published": "Mon, 17 Aug 2026 08:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T10:08:19.872Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
+    "title": "How much hydrogen awaits us underground?",
+    "description": "In the 1990s, Barbara Sherwood Lollar descended into the Kidd Creek mine in northern Ontario, which cuts more than three kilometers into the ancient root of North America. There her team of geochemists found water that had been confined underground for more than a billion years. This ancient brine t",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-17T10:05:44.928Z",
+    "published": "Mon, 17 Aug 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T10:08:19.872Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+    "title": "What happens when a kid’s robot best friend dies?",
+    "description": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-17T10:05:44.928Z",
+    "published": "Mon, 17 Aug 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T10:08:19.872Z"
+  },
+  {
+    "url": "https://www.engadget.com/2237916/openai-reportedly-disbanded-its-preparedness-team-as-part-of-streamlining-process/",
+    "title": "OpenAI reportedly disbanded its preparedness team as part of a 'streamlining' process",
+    "description": "As part of a restructuring, OpenAI reportedly disbanded a team that assesses the potential for catastrophic risks with its models.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-17T10:06:14.085Z",
+    "published": "Mon, 17 Aug 2026 08:45:09 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T10:08:19.872Z"
   }
 ]
