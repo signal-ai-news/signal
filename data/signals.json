@@ -25388,5 +25388,87 @@
     "category": "news",
     "discovered": "2026-08-17T11:45:43.357Z",
     "published": "Mon, 17 Aug 2026 11:38:51 GMT"
+  },
+  {
+    "url": "https://openai.com/index/the-defenders-window",
+    "title": "The Defender’s Window",
+    "description": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-17T13:57:04.078Z",
+    "published": "Mon, 17 Aug 2026 05:30:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-17T13:59:53.851Z"
+  },
+  {
+    "url": "https://openai.com/index/openai-joins-ports-pike-project",
+    "title": "OpenAI joins PORTS-Pike project",
+    "description": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-17T13:57:04.078Z",
+    "published": "Mon, 17 Aug 2026 05:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-17T13:59:53.851Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+    "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+    "description": "Wispr’s total funding is now over $361 million.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-17T13:57:07.439Z",
+    "published": "Mon, 17 Aug 2026 13:10:05 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T13:59:53.851Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
+    "title": "The Download: dead robot friends and the “censorship-industrial complex”",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What happens when a kid’s robot best friend dies? When Xander first met Moxie, she taught him how to calm down when he was anxious or mad. Six years l",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-17T13:57:08.597Z",
+    "published": "Mon, 17 Aug 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T13:59:53.851Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-perform-effective-project-management-with-ai/",
+    "title": "How to Perform Effective Project Management with AI",
+    "description": "Become a more productive software engineer with LLMs\nThe post How to Perform Effective Project Management with AI appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-17T13:57:30.281Z",
+    "published": "Mon, 17 Aug 2026 13:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-17T13:59:53.851Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/loop-engineering-for-rag-the-small-loops-inside-each-step-the-big-loops-across-the-pipeline/",
+    "title": "Loop Engineering for RAG: The Small Loops Inside Each Step, the Big Loops Across the Pipeline",
+    "description": "Enterprise Document Intelligence [Vol.1 #13bis] - The four bricks return useful results most of the time. Loop engineering is what the system does the rest of the time: when retrieval misses, when generation fails the schema, when the listing comes back incomplete, when an API call times out. Three",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-17T13:57:30.281Z",
+    "published": "Mon, 17 Aug 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/ai-video-market-has-bounced-back-from-soras-false-start/",
+    "title": "AI video market has bounced back from Sora's false start",
+    "description": "AI production companies like Promise are setting up shop around Hollywood's historic studios, using real-time backgrounds and other AI tools to cut film costs. Netflix already uses AI in 300 of its 1,000 titles, and the startup Higgsfield now carries a $5.4 billion valuation. What was once",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-17T13:57:32.108Z",
+    "published": "Mon, 17 Aug 2026 13:29:01 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2236997/hp-omnibook-x-2026-review/",
+    "title": "HP Omnibook X  (2026) review: Nailing the basics",
+    "description": "The Omnibook X isn&#39;t flashy, but it still excels in almost every way.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-17T13:57:46.959Z",
+    "published": "Mon, 17 Aug 2026 13:00:00 +0000"
   }
 ]
