@@ -26707,5 +26707,123 @@
     "category": "news",
     "discovered": "2026-08-18T09:07:05.360Z",
     "published": "Tue, 18 Aug 2026 07:41:59 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+    "title": "We still don’t know how people are really using AI",
+    "description": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a Computer Science PhD candida",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-18T10:56:04.339Z",
+    "published": "Tue, 18 Aug 2026 10:06:43 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T10:58:42.543Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+    "title": "AI’s recursive self-improvement might not come so quickly after all",
+    "description": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers c",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-18T10:56:04.339Z",
+    "published": "Tue, 18 Aug 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T10:58:42.543Z"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies/",
+    "title": "Operation Blue Skies: Reducing aviation climate impact with AI",
+    "description": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies/\nComments URL: https://news.ycombinator.com/item?id=49343727\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T10:56:10.320Z",
+    "published": "Tue, 18 Aug 2026 10:40:27 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T10:58:42.543Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49343693",
+    "title": "Tell HN: Use AI to music score your books",
+    "description": "Not many people read books but AI is under rated for the ability to theme your experience. If you ask Gemini to create a youtube music playlist for you for a specific book the result is amazing and I wanted to share this with others because it changed my book reading to an actual audio visual exper",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T10:56:10.320Z",
+    "published": "Tue, 18 Aug 2026 10:34:44 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T10:58:42.543Z"
+  },
+  {
+    "url": "https://urnicus.com/blog/the-quiet-cost/",
+    "title": "AI automation: Lock in payroll savings or reinvest capacity into growth",
+    "description": "Article URL: https://urnicus.com/blog/the-quiet-cost/\nComments URL: https://news.ycombinator.com/item?id=49343598\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T10:56:10.320Z",
+    "published": "Tue, 18 Aug 2026 10:18:49 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T10:58:42.543Z"
+  },
+  {
+    "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+    "title": "Google buys crashed airline Spirit's data at auction, because AI",
+    "description": "Article URL: https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962\nComments URL: https://news.ycombinator.com/item?id=49343559\nPoints: 28\n# Comments: 7",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T10:56:10.320Z",
+    "published": "Tue, 18 Aug 2026 10:13:28 +0000"
+  },
+  {
+    "url": "https://suyash-joshi.medium.com/your-macbook-is-now-an-ai-workstation-run-qwen-3-8-locally-d1e103ada11d",
+    "title": "MacBook Is Now an AI Workstation: Run Qwen 3.8 Locally",
+    "description": "Article URL: https://suyash-joshi.medium.com/your-macbook-is-now-an-ai-workstation-run-qwen-3-8-locally-d1e103ada11d\nComments URL: https://news.ycombinator.com/item?id=49343543\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T10:56:10.320Z",
+    "published": "Tue, 18 Aug 2026 10:10:37 +0000"
+  },
+  {
+    "url": "https://www.kraubex.de/product",
+    "title": "Kraubex AI",
+    "description": "Article URL: https://www.kraubex.de/product\nComments URL: https://news.ycombinator.com/item?id=49343296\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T10:56:10.320Z",
+    "published": "Tue, 18 Aug 2026 09:25:45 +0000"
+  },
+  {
+    "url": "https://www.ft.com/content/32a70a3c-7d28-40b4-808e-36edb58c7d01",
+    "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+    "description": "Article URL: https://www.ft.com/content/32a70a3c-7d28-40b4-808e-36edb58c7d01\nComments URL: https://news.ycombinator.com/item?id=49343218\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T10:56:10.320Z",
+    "published": "Tue, 18 Aug 2026 09:09:39 +0000"
+  },
+  {
+    "url": "https://arctype.org/",
+    "title": "Arctype – An AI workspace that builds documents, apps, and handles email",
+    "description": "Article URL: https://arctype.org/\nComments URL: https://news.ycombinator.com/item?id=49343205\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T10:56:10.320Z",
+    "published": "Tue, 18 Aug 2026 09:07:44 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropics-per-token-cost-runs-4-4-times-the-average-on-vercel-and-developers-keep-paying/",
+    "title": "Anthropic's per-token cost runs 4.4 times the average on Vercel, and developers keep paying",
+    "description": "Anthropic dominated Vercel's AI Gateway spending in July, pulling in 65.1 percent of total revenue while accounting for only 30 percent of tokens processed. Its tokens cost 4.4 times as much as those from competing providers on average.\nThe article Anthropic&#039;s per-token cost runs 4.4 t",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-18T10:56:21.637Z",
+    "published": "Tue, 18 Aug 2026 10:45:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/claude-code-gets-a-design-command-that-lets-developers-create-ui-mockups-right-in-the-terminal/",
+    "title": "Claude Code gets a /design command that lets developers create UI mockups right in the terminal",
+    "description": "With the /design command, Anthropic brings a visual design workflow directly into Claude Code. Developers can generate UI mockups as artboards right in the terminal before writing any code. Claude reads the existing codebase and matches the current UI style.\nThe article Claude Code gets a /",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-18T10:56:21.637Z",
+    "published": "Tue, 18 Aug 2026 10:06:16 +0000"
   }
 ]
