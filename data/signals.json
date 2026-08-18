@@ -26825,5 +26825,150 @@
     "category": "news",
     "discovered": "2026-08-18T10:56:21.637Z",
     "published": "Tue, 18 Aug 2026 10:06:16 +0000"
+  },
+  {
+    "url": "https://openai.com/index/partnering-with-codeai",
+    "title": "Partnering with CodeAI to prepare the first AI generation",
+    "description": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-18T11:56:43.833Z",
+    "published": "Tue, 18 Aug 2026 11:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-18T11:59:20.627Z"
+  },
+  {
+    "url": "https://openai.com/index/chatgpt-for-teens",
+    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+    "description": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-18T11:56:43.833Z",
+    "published": "Tue, 18 Aug 2026 11:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-18T11:59:20.627Z"
+  },
+  {
+    "url": "https://github.com/Tonterias/h2aichat",
+    "title": "Show HN: H2AI Chat – multi-AI debate you can self-host with local models (AGPL)",
+    "description": "Article URL: https://github.com/Tonterias/h2aichat\nComments URL: https://news.ycombinator.com/item?id=49344277\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T11:56:53.469Z",
+    "published": "Tue, 18 Aug 2026 11:47:04 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T11:59:20.628Z"
+  },
+  {
+    "url": "https://postnitro.ai/mcp",
+    "title": "An MCP server that turns a Claude conversation into scheduled carousels",
+    "description": "Article URL: https://postnitro.ai/mcp\nComments URL: https://news.ycombinator.com/item?id=49344251\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T11:56:53.469Z",
+    "published": "Tue, 18 Aug 2026 11:44:12 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T11:59:20.628Z"
+  },
+  {
+    "url": "https://dontpastetheai.com/",
+    "title": "Don't Paste the AI, Please",
+    "description": "Article URL: https://dontpastetheai.com/\nComments URL: https://news.ycombinator.com/item?id=49344216\nPoints: 2\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T11:56:53.469Z",
+    "published": "Tue, 18 Aug 2026 11:40:43 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T11:59:20.628Z"
+  },
+  {
+    "url": "https://www.scrum.org/resources/blog/folly-tokenmaxxing-or-reinventing-wheel",
+    "title": "AI Does Not Change Goodhart or the Folly of Tokenmaxxing",
+    "description": "Article URL: https://www.scrum.org/resources/blog/folly-tokenmaxxing-or-reinventing-wheel\nComments URL: https://news.ycombinator.com/item?id=49344197\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T11:56:53.469Z",
+    "published": "Tue, 18 Aug 2026 11:38:48 +0000"
+  },
+  {
+    "url": "https://github.com/CommanderTvis/writing/tree/main/rr-truffle-rewrite",
+    "title": "Rewriting a production compiler's IR with AI agents in five weeks",
+    "description": "Article URL: https://github.com/CommanderTvis/writing/tree/main/rr-truffle-rewrite\nComments URL: https://news.ycombinator.com/item?id=49344173\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T11:56:53.469Z",
+    "published": "Tue, 18 Aug 2026 11:35:21 +0000"
+  },
+  {
+    "url": "https://spectrum.ieee.org/axiom-math-246-theorem-formalization",
+    "title": "AI Used to Verify Toughest Mathematics Proof Yet",
+    "description": "Article URL: https://spectrum.ieee.org/axiom-math-246-theorem-formalization\nComments URL: https://news.ycombinator.com/item?id=49343957\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T11:56:53.469Z",
+    "published": "Tue, 18 Aug 2026 11:10:44 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/as-ai-beats-doctors-regulators-shouldnt-force-a-human-into-the-loop-jama-piece-says/",
+    "title": "As AI beats doctors, regulators shouldn't force a human into the loop, JAMA piece says",
+    "description": "An opinion piece in the medical journal JAMA argues that autonomous AI will soon outperform any doctor-AI team at medical reasoning tasks. The authors warn against writing a doctor's final say into regulation, but concede that almost all the evidence comes from simulations, not real patient",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-18T11:57:01.077Z",
+    "published": "Tue, 18 Aug 2026 11:43:02 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/doj-probes-andreessen-horowitz-over-partners-sitting-on-competing-ai-boards/",
+    "title": "DOJ probes Andreessen Horowitz over partners sitting on competing AI boards",
+    "description": "Andreessen Horowitz is the focus of an antitrust probe by the US Justice Department. The charge is that the firm's partners sit on the boards of competing data firms Databricks and Fivetran at the same time. The venture capital firm's close ties to the Trump administration add a twist, sinc",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-18T11:57:01.077Z",
+    "published": "Tue, 18 Aug 2026 11:35:17 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-launches-a-chatgpt-version-built-for-teens/",
+    "title": "OpenAI launches a ChatGPT version built for teens",
+    "description": "OpenAI is shipping a version of ChatGPT tailored to users aged 13 to 17.\nThe article OpenAI launches a ChatGPT version built for teens appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-18T11:57:01.077Z",
+    "published": "Tue, 18 Aug 2026 11:27:29 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/google-wants-you-to-use-its-phones-less-but-im-skeptical/",
+    "title": "Google wants you to use its phones less - but I'm skeptical",
+    "description": "Google is leveraging our poor relationship to technology to sell its new phones - the same relationship it had a hand in creating.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-18T11:57:14.524Z",
+    "published": "Tue, 18 Aug 2026 11:18:00 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2238945/ai-generated-bills-causing-problems-in-the-capitol/",
+    "title": "AI-generated bills are reportedly causing problems in the Capitol",
+    "description": "According to Politico, the US House Office of Legislative Counsel is swamped with error-riddled AI-generated bills.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-18T11:57:15.113Z",
+    "published": "Tue, 18 Aug 2026 11:33:15 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2238773/chatgpt-stricter-teen-mode-starts-rolling-out-today/",
+    "title": "ChatGPT's stricter teen mode starts rolling out today",
+    "description": "OpenAI will attempt to automatically enroll all young users in the new experience.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-18T11:57:15.113Z",
+    "published": "Tue, 18 Aug 2026 11:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2238465/fairphone-is-finally-releasing-its-first-official-handset-in-the-us/",
+    "title": "Fairphone is finally releasing its first official handset in the US",
+    "description": "You can now get Fairphone&#39;s reparable handset in the US without jumping through hoops.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-18T11:57:15.113Z",
+    "published": "Tue, 18 Aug 2026 11:00:00 +0000"
   }
 ]
