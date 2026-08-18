@@ -26380,5 +26380,159 @@
     "published": "Tue, 18 Aug 2026 00:00:41 GMT",
     "processed": true,
     "processedAt": "2026-08-18T03:14:22.524Z"
+  },
+  {
+    "url": "https://www.goody2.ai/",
+    "title": "Goody-2, the most responsible AI model (2024)",
+    "description": "Article URL: https://www.goody2.ai/\nComments URL: https://news.ycombinator.com/item?id=49341448\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T05:05:33.402Z",
+    "published": "Tue, 18 Aug 2026 04:57:21 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T05:08:00.723Z"
+  },
+  {
+    "url": "https://layog.io/blog/llm-speedrun-arch/",
+    "title": "LLM Speedrun: Architecture",
+    "description": "Article URL: https://layog.io/blog/llm-speedrun-arch/\nComments URL: https://news.ycombinator.com/item?id=49341379\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T05:05:33.402Z",
+    "published": "Tue, 18 Aug 2026 04:46:15 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T05:08:00.723Z"
+  },
+  {
+    "url": "https://medium.com/freedomofthought/what-if-i-told-you-humans-are-moving-faster-than-ai-833441f3fb21",
+    "title": "What If I Told You Humans Are Moving Faster Than AI?",
+    "description": "Article URL: https://medium.com/freedomofthought/what-if-i-told-you-humans-are-moving-faster-than-ai-833441f3fb21\nComments URL: https://news.ycombinator.com/item?id=49341102\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T05:05:33.402Z",
+    "published": "Tue, 18 Aug 2026 04:01:28 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T05:08:00.723Z"
+  },
+  {
+    "url": "https://substack.norabble.com/p/why-it-hasnt-happened-yet",
+    "title": "Why It Hasn't Happened Yet: Capable AI and Malicious Intent",
+    "description": "Article URL: https://substack.norabble.com/p/why-it-hasnt-happened-yet\nComments URL: https://news.ycombinator.com/item?id=49341070\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T05:05:33.402Z",
+    "published": "Tue, 18 Aug 2026 03:54:28 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T05:08:00.723Z"
+  },
+  {
+    "url": "https://www.vinoth.net/llm-wrong",
+    "title": "When it comes to LLM, it's you who's using it wrong",
+    "description": "Article URL: https://www.vinoth.net/llm-wrong\nComments URL: https://news.ycombinator.com/item?id=49340975\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T05:05:33.402Z",
+    "published": "Tue, 18 Aug 2026 03:39:55 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T05:08:00.723Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=qWaR_nc5sKM",
+    "title": "San Diego 150 Years Ago: Rare AI Reconstruction Visuals [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=qWaR_nc5sKM\nComments URL: https://news.ycombinator.com/item?id=49340969\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T05:05:33.402Z",
+    "published": "Tue, 18 Aug 2026 03:38:37 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=itovmsMwus0",
+    "title": "A candy brand discovered TikTok made an AI clone of its founder to run ads [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=itovmsMwus0\nComments URL: https://news.ycombinator.com/item?id=49340602\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T05:05:33.402Z",
+    "published": "Tue, 18 Aug 2026 02:45:56 +0000"
+  },
+  {
+    "url": "https://twitter.com/Quasilocal/status/2089408301427568691",
+    "title": "Three different papers pushed to ArXiv proving same 1986 conjecture; all use AI",
+    "description": "Article URL: https://twitter.com/Quasilocal/status/2089408301427568691\nComments URL: https://news.ycombinator.com/item?id=49340201\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T05:05:33.402Z",
+    "published": "Tue, 18 Aug 2026 01:56:38 +0000"
+  },
+  {
+    "url": "https://medium.com/scalar-engineering/going-ai-native-to-enhance-how-humans-and-agents-access-scalardb-and-scalardl-docs-fb7dbb0d304b",
+    "title": "Going AI-native to enhance how humans/agents access ScalarDB and ScalarDL docs",
+    "description": "Article URL: https://medium.com/scalar-engineering/going-ai-native-to-enhance-how-humans-and-agents-access-scalardb-and-scalardl-docs-fb7dbb0d304b\nComments URL: https://news.ycombinator.com/item?id=49340170\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T05:05:33.402Z",
+    "published": "Tue, 18 Aug 2026 01:51:58 +0000"
+  },
+  {
+    "url": "https://ben.page/cheating",
+    "title": "Every student is cheating with AI",
+    "description": "Article URL: https://ben.page/cheating\nComments URL: https://news.ycombinator.com/item?id=49340134\nPoints: 7\n# Comments: 8",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T05:05:33.402Z",
+    "published": "Tue, 18 Aug 2026 01:45:38 +0000"
+  },
+  {
+    "url": "https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking",
+    "title": "Follow-Up Thoughts on Watermarking Schemes for AI-Generated Text",
+    "description": "Article URL: https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking\nComments URL: https://news.ycombinator.com/item?id=49339918\nPoints: 8\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T05:05:33.402Z",
+    "published": "Tue, 18 Aug 2026 01:16:14 +0000"
+  },
+  {
+    "url": "https://www.cnet.com/tech/services-and-software/anthropics-claude-will-add-watermarks-to-ai-generated-text-and-files/",
+    "title": "Anthropic's Claude Will Add Watermarks to AI-Generated Text and Files",
+    "description": "Article URL: https://www.cnet.com/tech/services-and-software/anthropics-claude-will-add-watermarks-to-ai-generated-text-and-files/\nComments URL: https://news.ycombinator.com/item?id=49339832\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T05:05:33.402Z",
+    "published": "Tue, 18 Aug 2026 01:01:45 +0000"
+  },
+  {
+    "url": "https://getcogni.io/",
+    "title": "Show HN: Cogni: MCP memory for LLMs, with no LLM in the retrieval path",
+    "description": "Article URL: https://getcogni.io/\nComments URL: https://news.ycombinator.com/item?id=49339547\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T05:05:33.402Z",
+    "published": "Tue, 18 Aug 2026 00:21:14 +0000"
+  },
+  {
+    "url": "https://www.promarket.org/2026/05/04/consumers-prefer-ai-music-until-theyre-told-its-ai/",
+    "title": "Consumers Prefer AI Music Until They're Told It's AI",
+    "description": "Article URL: https://www.promarket.org/2026/05/04/consumers-prefer-ai-music-until-theyre-told-its-ai/\nComments URL: https://news.ycombinator.com/item?id=49339494\nPoints: 12\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T05:05:33.402Z",
+    "published": "Tue, 18 Aug 2026 00:15:23 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.14399",
+    "title": "Whose doctor does the AI recommend? An algorithm audit of LLMs in physician",
+    "description": "Article URL: https://arxiv.org/abs/2608.14399\nComments URL: https://news.ycombinator.com/item?id=49339437\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T05:05:33.402Z",
+    "published": "Tue, 18 Aug 2026 00:07:06 +0000"
+  },
+  {
+    "url": "https://un-ai.digitalprophet.online/",
+    "title": "Un-AI Your Internet",
+    "description": "Article URL: https://un-ai.digitalprophet.online/\nComments URL: https://news.ycombinator.com/item?id=49339349\nPoints: 7\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T05:05:33.402Z",
+    "published": "Mon, 17 Aug 2026 23:57:13 +0000"
   }
 ]
