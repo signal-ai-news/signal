@@ -27717,5 +27717,78 @@
     "category": "community",
     "discovered": "2026-08-18T22:56:29.372Z",
     "published": "Tue, 18 Aug 2026 21:50:58 +0000"
+  },
+  {
+    "url": "https://openai.com/index/nvidia/chatgpt-work",
+    "title": "How NVIDIA scales expertise with ChatGPT Work",
+    "description": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-18T23:50:15.737Z",
+    "published": "Tue, 18 Aug 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-18T23:52:51.035Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49354254",
+    "title": "Ask HN: How should I price an AI infrastructure platform?",
+    "description": "I'm building an event-driven infrastructure layer for AI agents. I may have my first customer: a consulting firm wants to build AI automation solutions for its clients using my platform and license it as part of those solutions.For example, they might sell a $20k solution to a client, with my infra",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T23:50:26.119Z",
+    "published": "Tue, 18 Aug 2026 23:19:22 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T23:52:51.035Z"
+  },
+  {
+    "url": "https://www.cnn.com/2026/08/18/tech/china-unitree-ipo-intl-hnk",
+    "title": "Unitree Robotics IPO: \"Embodied AI\" Valuation Bubble?",
+    "description": "Article URL: https://www.cnn.com/2026/08/18/tech/china-unitree-ipo-intl-hnk\nComments URL: https://news.ycombinator.com/item?id=49354240\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T23:50:26.119Z",
+    "published": "Tue, 18 Aug 2026 23:18:29 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T23:52:51.035Z"
+  },
+  {
+    "url": "https://goatsquadstudios.com/blog/how-i-work-with-ai-agents-autonomously",
+    "title": "My AI Agents Ship Code While I Sleep. Nobody Reviews It",
+    "description": "Article URL: https://goatsquadstudios.com/blog/how-i-work-with-ai-agents-autonomously\nComments URL: https://news.ycombinator.com/item?id=49354107\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T23:50:26.119Z",
+    "published": "Tue, 18 Aug 2026 23:06:19 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T23:52:51.035Z"
+  },
+  {
+    "url": "https://maritime.sh",
+    "title": "Show HN: Maritime, a platform for running AI agents for $1 a month",
+    "description": "Hi HN, my name is Maria, and I’m a co-founder of Maritime. We started Maritime at MIT to build infrastructure for companies that need to run thousands of isolated AI agents for their customers.Imagine you set up an agent like OpenClaw, or a personal assistant agent with a custom framework, and want",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T23:50:26.119Z",
+    "published": "Tue, 18 Aug 2026 23:02:32 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T23:52:51.035Z"
+  },
+  {
+    "url": "https://gizmodo.com/its-absolutely-terrifying-ai-is-reportedly-slopping-up-the-bills-in-congress-2000799734",
+    "title": "AI-drafted bills are swamping the House office that writes US laws",
+    "description": "Article URL: https://gizmodo.com/its-absolutely-terrifying-ai-is-reportedly-slopping-up-the-bills-in-congress-2000799734\nComments URL: https://news.ycombinator.com/item?id=49354042\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T23:50:26.119Z",
+    "published": "Tue, 18 Aug 2026 23:01:45 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2239642/ice-agents-can-t-wear-meta-glasses-while-they-work-official-memo-warns/",
+    "title": "ICE agents can't wear Meta glasses while they work, official memo warns",
+    "description": "Smart glasses have become a recurring accessory amid the immigration crackdown.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-18T23:50:45.875Z",
+    "published": "Tue, 18 Aug 2026 22:57:32 +0000"
   }
 ]
