@@ -3416,7 +3416,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-23T17:06:58.700Z",
-    "published": "Thu, 23 Jul 2026 13:31:00 GMT"
+    "published": "Thu, 23 Jul 2026 13:31:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-18T16:01:40.212Z"
   },
   {
     "url": "https://www.zdnet.com/article/anthropics-claude-lineup-cowork-code-ai/",
@@ -27052,5 +27054,49 @@
     "category": "news",
     "discovered": "2026-08-18T14:07:20.062Z",
     "published": "Tue, 18 Aug 2026 13:30:27 GMT"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+    "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+    "description": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-08-18T15:59:05.263Z",
+    "published": "Tue, 18 Aug 2026 13:00:04 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T16:01:40.212Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/building-enterprise-agent-systems-that-people-can-trust-verify-and-improve/",
+    "title": "Building Enterprise Agent Systems that People can Trust, Verify and Improve",
+    "description": "5 principles that determine whether an agent system succeeds in production, explained through one I built for a $100M+ company.\nThe post Building Enterprise Agent Systems that People can Trust, Verify and Improve appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-18T15:59:17.616Z",
+    "published": "Tue, 18 Aug 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T16:01:40.212Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/omarchy-quattro-linux-distro-power-users-ai/",
+    "title": "I tested Omarchy Quattro, one of the first Linux distros to go all in on AI - and I didn't hate it",
+    "description": "Omarchy made me fall in love with Hyprland - can it do the same for AI?",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-18T15:59:33.511Z",
+    "published": "Tue, 18 Aug 2026 15:51:37 GMT",
+    "processed": true,
+    "processedAt": "2026-08-18T16:01:40.212Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/googles-ai-can-see-your-business-data-by-default-in-workspace-unless-you-disable-it/",
+    "title": "Google's AI can see your business data by default in Workspace - unless you disable it",
+    "description": "In Google Workspace, Gemini has access to Gmail, Docs, Calendar, Chat, and more by default. Here's why it matters, and how administrators can disable it today.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-18T15:59:33.511Z",
+    "published": "Tue, 18 Aug 2026 15:11:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-18T16:01:40.212Z"
   }
 ]
