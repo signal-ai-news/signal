@@ -3328,7 +3328,9 @@
     "source": "MIT Tech Review AI",
     "category": "news",
     "discovered": "2026-07-23T17:06:25.446Z",
-    "published": "Thu, 23 Jul 2026 12:10:00 +0000"
+    "published": "Thu, 23 Jul 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T03:14:22.523Z"
   },
   {
     "url": "https://towardsdatascience.com/most-rag-hallucinations-are-extraction-errors-seven-patterns-for-a-typed-generation-contract/",
@@ -3337,7 +3339,9 @@
     "source": "Towards Data Science",
     "category": "ml",
     "discovered": "2026-07-23T17:06:35.677Z",
-    "published": "Thu, 23 Jul 2026 15:00:00 +0000"
+    "published": "Thu, 23 Jul 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T03:14:22.523Z"
   },
   {
     "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes/",
@@ -3346,7 +3350,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-23T17:06:37.417Z",
-    "published": "Thu, 23 Jul 2026 17:01:30 +0000"
+    "published": "Thu, 23 Jul 2026 17:01:30 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T03:14:22.523Z"
   },
   {
     "url": "https://the-decoder.com/poolsides-laguna-s-2-1-is-a-small-open-weight-coding-model-that-punches-well-above-its-size/",
@@ -26352,5 +26358,27 @@
     "published": "Mon, 17 Aug 2026 22:59:37 +0000",
     "processed": true,
     "processedAt": "2026-08-17T23:52:38.701Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+    "title": "Anthropic’s annualized revenue surges to $65B",
+    "description": "The model maker added $18 billion in annualized revenue in two months.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-18T03:11:49.814Z",
+    "published": "Mon, 17 Aug 2026 23:56:26 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T03:14:22.524Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/stop-paying-for-smartphone-storage-you-dont-need/",
+    "title": "Stop paying for smartphone storage you don't need - here's a better approach",
+    "description": "How to stop wasting money on storage: Think in dollars, not gigabytes.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-18T03:12:16.285Z",
+    "published": "Tue, 18 Aug 2026 00:00:41 GMT",
+    "processed": true,
+    "processedAt": "2026-08-18T03:14:22.524Z"
   }
 ]
