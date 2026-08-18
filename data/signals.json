@@ -3361,7 +3361,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-23T17:06:37.417Z",
-    "published": "Thu, 23 Jul 2026 12:24:53 +0000"
+    "published": "Thu, 23 Jul 2026 12:24:53 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T07:28:54.946Z"
   },
   {
     "url": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/",
@@ -3370,7 +3372,9 @@
     "source": "GitHub Copilot Blog",
     "category": "code",
     "discovered": "2026-07-23T17:06:42.225Z",
-    "published": "Thu, 23 Jul 2026 16:00:00 +0000"
+    "published": "Thu, 23 Jul 2026 16:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T07:28:54.946Z"
   },
   {
     "url": "https://www.zdnet.com/article/bastionguard-2-free-security-suite-does-it-all-almost-perfectly/",
@@ -3379,7 +3383,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-23T17:06:58.700Z",
-    "published": "Thu, 23 Jul 2026 16:41:34 GMT"
+    "published": "Thu, 23 Jul 2026 16:41:34 GMT",
+    "processed": true,
+    "processedAt": "2026-08-18T07:28:54.946Z"
   },
   {
     "url": "https://www.zdnet.com/article/ai-image-fraud-new-global-standards/",
@@ -3388,7 +3394,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-23T17:06:58.700Z",
-    "published": "Thu, 23 Jul 2026 14:51:00 GMT"
+    "published": "Thu, 23 Jul 2026 14:51:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-18T07:28:54.946Z"
   },
   {
     "url": "https://www.zdnet.com/article/hugging-face-breach-blamed-on-ai-agent/",
@@ -3397,7 +3405,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-23T17:06:58.700Z",
-    "published": "Thu, 23 Jul 2026 14:29:00 GMT"
+    "published": "Thu, 23 Jul 2026 14:29:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-18T07:28:54.946Z"
   },
   {
     "url": "https://www.zdnet.com/article/openai-hugging-face-attack-agent/",
