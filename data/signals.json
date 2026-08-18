@@ -3548,7 +3548,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-23T20:46:59.456Z",
-    "published": "Thu, 23 Jul 2026 20:31:52 +0000"
+    "published": "Thu, 23 Jul 2026 20:31:52 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T21:53:53.446Z"
   },
   {
     "url": "https://arxiv.org/abs/2607.04697",
@@ -3557,7 +3559,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-23T20:46:59.456Z",
-    "published": "Thu, 23 Jul 2026 20:24:57 +0000"
+    "published": "Thu, 23 Jul 2026 20:24:57 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T21:53:53.446Z"
   },
   {
     "url": "https://mattmccormick.ca/are-agent-code-reviews-for-ai-generated-code-worth-it/",
@@ -27598,5 +27602,38 @@
     "category": "news",
     "discovered": "2026-08-18T20:55:41.632Z",
     "published": "Tue, 18 Aug 2026 20:29:54 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49353148",
+    "title": "Show HN: HashNotch – Premium AI Integrated Dynamic Island for the Mac OS",
+    "description": "Hash made the Dynamic Island every Mac user deserves.See the unseen.What's playing, how fast your internet is, what your battery is doing, how hot the chip is running, what you have spent on AI today — all of it a glance away. No account. No telemetry. Nothing about you ever leaves your Mac.\n\nComme",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T21:51:24.769Z",
+    "published": "Tue, 18 Aug 2026 21:45:48 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T21:53:53.446Z"
+  },
+  {
+    "url": "https://techstrong.ai/articles/google-moves-a2a-under-agentic-ai-foundation/",
+    "title": "Google Moves A2A Under Agentic AI Foundation",
+    "description": "Article URL: https://techstrong.ai/articles/google-moves-a2a-under-agentic-ai-foundation/\nComments URL: https://news.ycombinator.com/item?id=49353146\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T21:51:24.769Z",
+    "published": "Tue, 18 Aug 2026 21:45:41 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T21:53:53.446Z"
+  },
+  {
+    "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+    "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+    "description": "Article URL: https://cdn.kuber.studio/chat/hp-laser-1008a-driver\nComments URL: https://news.ycombinator.com/item?id=49352806\nPoints: 37\n# Comments: 16",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T21:51:24.769Z",
+    "published": "Tue, 18 Aug 2026 21:14:21 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T21:53:53.446Z"
   }
 ]
