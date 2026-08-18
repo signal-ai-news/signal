@@ -27453,5 +27453,150 @@
     "published": "Tue, 18 Aug 2026 19:36:58 +0000",
     "processed": true,
     "processedAt": "2026-08-18T20:03:36.181Z"
+  },
+  {
+    "url": "https://code.claude.com/docs/en/changelog",
+    "title": "Claude Code 2.1.234 continues your session automatically once usage limit resets",
+    "description": "Article URL: https://code.claude.com/docs/en/changelog\nComments URL: https://news.ycombinator.com/item?id=49352511\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T20:55:22.106Z",
+    "published": "Tue, 18 Aug 2026 20:50:37 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T20:57:47.292Z"
+  },
+  {
+    "url": "https://chatoss.ai",
+    "title": "Show HN: ChatOSS – A Codex alternative for Open Source AI built on Ollama",
+    "description": "ChatOSS is built on Ollama. If you use Ollama, ChatOSS local works out of the box.ChatOSS is a GUI desktop app that has multiple agentic coding apps and a kanban board integrated into coding sessions.There's also a simple way to create your own AI powered apps that can run inside of ChatOSS.\n\nComme",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T20:55:22.106Z",
+    "published": "Tue, 18 Aug 2026 20:42:19 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T20:57:47.292Z"
+  },
+  {
+    "url": "https://www.dw.com/en/fact-check-how-do-i-spot-ai-generated-images/a-65252602",
+    "title": "Fact check: How do I spot AI-generated images?",
+    "description": "Article URL: https://www.dw.com/en/fact-check-how-do-i-spot-ai-generated-images/a-65252602\nComments URL: https://news.ycombinator.com/item?id=49352238\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T20:55:22.106Z",
+    "published": "Tue, 18 Aug 2026 20:29:59 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T20:57:47.292Z"
+  },
+  {
+    "url": "https://www.washingtonpost.com/opinions/2026/08/18/ai-detection-tools-are-proliferating-here-why-they-wont-last/",
+    "title": "AI detection tools are proliferating. Here's why they won't last.",
+    "description": "Article URL: https://www.washingtonpost.com/opinions/2026/08/18/ai-detection-tools-are-proliferating-here-why-they-wont-last/\nComments URL: https://news.ycombinator.com/item?id=49352230\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T20:55:22.106Z",
+    "published": "Tue, 18 Aug 2026 20:29:31 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T20:57:47.292Z"
+  },
+  {
+    "url": "https://strandsagents.com/",
+    "title": "Has any one ever used Strands – the AI Agent SDK by AWS",
+    "description": "Article URL: https://strandsagents.com/\nComments URL: https://news.ycombinator.com/item?id=49352099\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T20:55:22.106Z",
+    "published": "Tue, 18 Aug 2026 20:20:40 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T20:57:47.292Z"
+  },
+  {
+    "url": "https://twitter.com/ClaudeDevs/status/2089798442306711646",
+    "title": "Anthropic extending the 50% increase to weekly Claude Code limits till August 31",
+    "description": "Article URL: https://twitter.com/ClaudeDevs/status/2089798442306711646\nComments URL: https://news.ycombinator.com/item?id=49351995\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T20:55:22.106Z",
+    "published": "Tue, 18 Aug 2026 20:14:19 +0000"
+  },
+  {
+    "url": "https://www.reuters.com/world/middle-east/blind-egyptian-entrepreneurs-ai-app-helps-others-see-world-2026-08-18/",
+    "title": "Blind Egyptian entrepreneur's AI app helps others 'see' the world",
+    "description": "Article URL: https://www.reuters.com/world/middle-east/blind-egyptian-entrepreneurs-ai-app-helps-others-see-world-2026-08-18/\nComments URL: https://news.ycombinator.com/item?id=49351844\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T20:55:22.106Z",
+    "published": "Tue, 18 Aug 2026 20:03:28 +0000"
+  },
+  {
+    "url": "https://time.com/article/2026/08/18/openai-slowing-training/",
+    "title": "OpenAI Is Slowing Down Its AI Training",
+    "description": "Article URL: https://time.com/article/2026/08/18/openai-slowing-training/\nComments URL: https://news.ycombinator.com/item?id=49351580\nPoints: 7\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T20:55:22.106Z",
+    "published": "Tue, 18 Aug 2026 19:46:28 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/",
+    "title": "Cargo Thefts Have Turned Violent in Pursuit of AI Hardware",
+    "description": "Article URL: https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/\nComments URL: https://news.ycombinator.com/item?id=49351570\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T20:55:22.106Z",
+    "published": "Tue, 18 Aug 2026 19:45:48 +0000"
+  },
+  {
+    "url": "https://momo5502.com/posts/2026-08-17-mw2-decompilation/",
+    "title": "200B Tokens Later: A Month of Letting AI Agents Decompile MW2",
+    "description": "Article URL: https://momo5502.com/posts/2026-08-17-mw2-decompilation/\nComments URL: https://news.ycombinator.com/item?id=49351299\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T20:55:22.106Z",
+    "published": "Tue, 18 Aug 2026 19:28:09 +0000"
+  },
+  {
+    "url": "https://geojacker.com/llms-txt",
+    "title": "llms.txt: a proposed standard no major AI platform has confirmed it uses",
+    "description": "Article URL: https://geojacker.com/llms-txt\nComments URL: https://news.ycombinator.com/item?id=49351232\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T20:55:22.106Z",
+    "published": "Tue, 18 Aug 2026 19:24:35 +0000"
+  },
+  {
+    "url": "https://www.forbes.com/sites/sandycarter/2026/08/15/palantir-leads-ai-data-deal-with-usa-today-sparking-a-newsroom-revolt/",
+    "title": "Palantir Leads AI Data Deal with USA Today Sparking a Newsroom Revolt",
+    "description": "Article URL: https://www.forbes.com/sites/sandycarter/2026/08/15/palantir-leads-ai-data-deal-with-usa-today-sparking-a-newsroom-revolt/\nComments URL: https://news.ycombinator.com/item?id=49351223\nPoints: 11\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T20:55:22.106Z",
+    "published": "Tue, 18 Aug 2026 19:24:05 +0000"
+  },
+  {
+    "url": "https://aicoding.leaflet.pub/3maob46kbz22v",
+    "title": "Pace Layers and AI Integration",
+    "description": "Article URL: https://aicoding.leaflet.pub/3maob46kbz22v\nComments URL: https://news.ycombinator.com/item?id=49351201\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T20:55:22.106Z",
+    "published": "Tue, 18 Aug 2026 19:22:49 +0000"
+  },
+  {
+    "url": "https://news.crunchbase.com/venture/physical-ai-funding-startups-robotics-aerospace-h1-2026/",
+    "title": "VCs Pour Billions into Physical AI as the Next Wave of AI Investing Takes Shape",
+    "description": "Article URL: https://news.crunchbase.com/venture/physical-ai-funding-startups-robotics-aerospace-h1-2026/\nComments URL: https://news.ycombinator.com/item?id=49351184\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T20:55:22.106Z",
+    "published": "Tue, 18 Aug 2026 19:21:25 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2239548/gta-6-gameplay-leak-august-2026/",
+    "title": "GTA 6 gameplay leaked ahead of its new trailer, and Rockstar is taking down the videos",
+    "description": "Two legit-seeming clips and a world map are out there, if you know where to look.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-18T20:55:41.632Z",
+    "published": "Tue, 18 Aug 2026 20:29:54 +0000"
   }
 ]
