@@ -27098,5 +27098,60 @@
     "published": "Tue, 18 Aug 2026 15:11:00 GMT",
     "processed": true,
     "processedAt": "2026-08-18T16:01:40.212Z"
+  },
+  {
+    "url": "https://openai.com/index/asana",
+    "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+    "description": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-18T17:03:42.704Z",
+    "published": "Tue, 18 Aug 2026 07:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-18T17:06:34.046Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+    "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+    "description": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-18T17:03:46.688Z",
+    "published": "Tue, 18 Aug 2026 16:19:10 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T17:06:34.046Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/from-prototype-to-production-the-architecture-behind-secure-governed-ai-agents/",
+    "title": "From Prototype to Production: The Architecture Behind Secure & Governed AI Agents",
+    "description": "Building the Responsible AI, security, and governance layers required for enterprise-ready agents\nThe post From Prototype to Production: The Architecture Behind Secure &amp; Governed AI Agents appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-18T17:03:59.158Z",
+    "published": "Tue, 18 Aug 2026 16:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T17:06:34.046Z"
+  },
+  {
+    "url": "https://www.engadget.com/2239222/peacock-is-raising-subscription-prices-for-the-fourth-time-in-as-many-years/",
+    "title": "Peacock is raising subscription prices for the fourth time in as many years",
+    "description": "Peacock is raising subscription prices for the fourth time in as many years.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-18T17:04:27.778Z",
+    "published": "Tue, 18 Aug 2026 16:28:05 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T17:06:34.046Z"
+  },
+  {
+    "url": "https://www.engadget.com/2239181/abc-sues-the-fcc-to-stop-an-early-review-of-its-tv-licences/",
+    "title": "ABC sues the FCC to stop an early review of its TV licenses",
+    "description": "ABC accused the Trump Administration of waging &#34;a retaliatory campaign&#34; because it doesn&#39;t like what the network broadcasts.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-18T17:04:27.778Z",
+    "published": "Tue, 18 Aug 2026 16:00:04 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T17:06:34.046Z"
   }
 ]
