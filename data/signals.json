@@ -27635,5 +27635,87 @@
     "published": "Tue, 18 Aug 2026 21:14:21 +0000",
     "processed": true,
     "processedAt": "2026-08-18T21:53:53.446Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+    "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+    "description": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-18T22:56:23.042Z",
+    "published": "Tue, 18 Aug 2026 22:14:25 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T22:58:54.329Z"
+  },
+  {
+    "url": "https://whoownsthecode.com/",
+    "title": "Who owns the code? AI code == no author == no copyright",
+    "description": "Article URL: https://whoownsthecode.com/\nComments URL: https://news.ycombinator.com/item?id=49353603\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T22:56:29.372Z",
+    "published": "Tue, 18 Aug 2026 22:21:30 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T22:58:54.329Z"
+  },
+  {
+    "url": "https://devin.ai/blog/gpt-5-6-sol-promo",
+    "title": "GPT-5.6 Sol: 70% off in Devin",
+    "description": "Article URL: https://devin.ai/blog/gpt-5-6-sol-promo\nComments URL: https://news.ycombinator.com/item?id=49353484\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T22:56:29.372Z",
+    "published": "Tue, 18 Aug 2026 22:12:14 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T22:58:54.329Z"
+  },
+  {
+    "url": "https://beaucronin.com/tail/",
+    "title": "Tail: A 0–5 scale for how much AI wrote this",
+    "description": "Article URL: https://beaucronin.com/tail/\nComments URL: https://news.ycombinator.com/item?id=49353472\nPoints: 2\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T22:56:29.372Z",
+    "published": "Tue, 18 Aug 2026 22:11:35 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T22:58:54.329Z"
+  },
+  {
+    "url": "https://github.com/gmhoward9289-ops/roost",
+    "title": "Show HN: Roost – top for your Claude Code sessions",
+    "description": "Article URL: https://github.com/gmhoward9289-ops/roost\nComments URL: https://news.ycombinator.com/item?id=49353452\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T22:56:29.372Z",
+    "published": "Tue, 18 Aug 2026 22:10:08 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T22:58:54.329Z"
+  },
+  {
+    "url": "https://linear.app/data",
+    "title": "AI usage patterns in software teams",
+    "description": "Article URL: https://linear.app/data\nComments URL: https://news.ycombinator.com/item?id=49353432\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T22:56:29.372Z",
+    "published": "Tue, 18 Aug 2026 22:08:07 +0000"
+  },
+  {
+    "url": "https://blogs.zethian.com/when-deny-doesnt-win.html",
+    "title": "When deny doesn't win: least-privilege permissions for Claude Code",
+    "description": "Article URL: https://blogs.zethian.com/when-deny-doesnt-win.html\nComments URL: https://news.ycombinator.com/item?id=49353249\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T22:56:29.372Z",
+    "published": "Tue, 18 Aug 2026 21:53:28 +0000"
+  },
+  {
+    "url": "https://www.economist.com/international/2026/08/13/silicon-valleys-ai-boom-is-remaking-american-charity",
+    "title": "Silicon Valley's AI boom is remaking American charity",
+    "description": "Article URL: https://www.economist.com/international/2026/08/13/silicon-valleys-ai-boom-is-remaking-american-charity\nComments URL: https://news.ycombinator.com/item?id=49353227\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-18T22:56:29.372Z",
+    "published": "Tue, 18 Aug 2026 21:50:58 +0000"
   }
 ]
