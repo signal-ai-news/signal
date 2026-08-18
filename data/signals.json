@@ -3515,7 +3515,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-23T20:46:59.456Z",
-    "published": "Thu, 23 Jul 2026 20:37:47 +0000"
+    "published": "Thu, 23 Jul 2026 20:37:47 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T20:03:36.180Z"
   },
   {
     "url": "https://ai-karma-tracker.github.io/blog/pxpipe-png-prompts/",
@@ -3524,7 +3526,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-23T20:46:59.456Z",
-    "published": "Thu, 23 Jul 2026 20:37:26 +0000"
+    "published": "Thu, 23 Jul 2026 20:37:26 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T20:03:36.180Z"
   },
   {
     "url": "https://github.com/raine/claude-code-proxy",
@@ -3533,7 +3537,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-23T20:46:59.456Z",
-    "published": "Thu, 23 Jul 2026 20:32:36 +0000"
+    "published": "Thu, 23 Jul 2026 20:32:36 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T20:03:36.180Z"
   },
   {
     "url": "https://ipulseai.substack.com/p/4523-ai-forecasts-opposing-views",
@@ -27425,5 +27431,27 @@
     "category": "news",
     "discovered": "2026-08-18T19:19:17.277Z",
     "published": "Tue, 18 Aug 2026 18:33:22 +0000"
+  },
+  {
+    "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "title": "Strengthening Democratic Oversight in National Security",
+    "description": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-18T20:01:00.608Z",
+    "published": "Tue, 18 Aug 2026 19:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-18T20:03:36.181Z"
+  },
+  {
+    "url": "https://www.engadget.com/2239484/spotifys-running-mode-is-now-available-on-android/",
+    "title": "Spotify's Running Mode is now available on Android",
+    "description": "Spotify&#39;s Running Mode is now available on Android.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-18T20:01:29.983Z",
+    "published": "Tue, 18 Aug 2026 19:36:58 +0000",
+    "processed": true,
+    "processedAt": "2026-08-18T20:03:36.181Z"
   }
 ]
