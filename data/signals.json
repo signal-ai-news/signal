@@ -3647,7 +3647,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-23T20:46:59.456Z",
-    "published": "Thu, 23 Jul 2026 19:55:35 +0000"
+    "published": "Thu, 23 Jul 2026 19:55:35 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T10:57:46.007Z"
   },
   {
     "url": "https://github.com/douglascorrea/herdr-agent-inbox",
@@ -3656,7 +3658,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-23T20:46:59.456Z",
-    "published": "Thu, 23 Jul 2026 19:54:00 +0000"
+    "published": "Thu, 23 Jul 2026 19:54:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T10:57:46.007Z"
   },
   {
     "url": "https://twitter.com/claudeai/status/2080376099268169943",
@@ -3665,7 +3669,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-23T20:46:59.456Z",
-    "published": "Thu, 23 Jul 2026 19:53:57 +0000"
+    "published": "Thu, 23 Jul 2026 19:53:57 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T10:57:46.007Z"
   },
   {
     "url": "https://news.ycombinator.com/item?id=49027099",
@@ -28127,5 +28133,27 @@
     "published": "Wed, 19 Aug 2026 08:01:05 GMT",
     "processed": true,
     "processedAt": "2026-08-19T09:10:44.055Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+    "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+    "description": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-19T10:55:11.639Z",
+    "published": "Wed, 19 Aug 2026 10:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T10:57:46.008Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
+    "title": "Child-monitoring apps might need a reboot",
+    "description": "Pam Wisniewski’s digital adolescence showed her the best and the worst of the internet. At 14, she left an abusive home, where she’d been isolated in a fifth-wheel trailer at the end of a seven-­mile dirt road. She moved in with her older sister and taught herself to type on AOL Instant Messenger. O",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-19T10:55:12.783Z",
+    "published": "Wed, 19 Aug 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T10:57:46.008Z"
   }
 ]
