@@ -28336,5 +28336,258 @@
     "category": "community",
     "discovered": "2026-08-19T11:56:11.787Z",
     "published": "Wed, 19 Aug 2026 08:04:38 +0000"
+  },
+  {
+    "url": "https://openai.com/index/replit",
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "description": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-19T14:07:13.416Z",
+    "published": "Wed, 19 Aug 2026 07:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-19T14:09:54.356Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+    "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+    "description": "It's the data, stupid.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-19T14:07:16.660Z",
+    "published": "Wed, 19 Aug 2026 12:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T14:09:54.356Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
+    "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all The AI industry’s boldest promise right now is that AI will soon improve itself, w",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-19T14:07:17.929Z",
+    "published": "Wed, 19 Aug 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T14:09:54.356Z"
+  },
+  {
+    "url": "https://www.derekthompson.org/p/how-to-survive-the-ai-cyberpocalypse",
+    "title": "How to Survive the AI Cyberpocalypse",
+    "description": "Article URL: https://www.derekthompson.org/p/how-to-survive-the-ai-cyberpocalypse\nComments URL: https://news.ycombinator.com/item?id=49361733\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T14:07:26.842Z",
+    "published": "Wed, 19 Aug 2026 13:59:32 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T14:09:54.356Z"
+  },
+  {
+    "url": "https://www.koreajoongangdaily.com/business/94-of-job-losses-among-young-people-over-past-4-years-were-in-aiexposed-industries-bok-says/12830646",
+    "title": "South Korea youth employment falls sharply in AI-exposed industries, BOK says",
+    "description": "Article URL: https://www.koreajoongangdaily.com/business/94-of-job-losses-among-young-people-over-past-4-years-were-in-aiexposed-industries-bok-says/12830646\nComments URL: https://news.ycombinator.com/item?id=49361692\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T14:07:26.842Z",
+    "published": "Wed, 19 Aug 2026 13:56:32 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T14:09:54.356Z"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c235dmndylzo",
+    "title": "OpenAI slows down training after its AI carried out hack",
+    "description": "Article URL: https://www.bbc.co.uk/news/articles/c235dmndylzo\nComments URL: https://news.ycombinator.com/item?id=49361652\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T14:07:26.842Z",
+    "published": "Wed, 19 Aug 2026 13:54:04 +0000"
+  },
+  {
+    "url": "https://agentbadge.xyz/blog/what-is-agent-readiness",
+    "title": "Show HN: AgentBadge – Agent Readiness Scoring for APIs (SEO for AI Agents)",
+    "description": "Article URL: https://agentbadge.xyz/blog/what-is-agent-readiness\nComments URL: https://news.ycombinator.com/item?id=49361630\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T14:07:26.842Z",
+    "published": "Wed, 19 Aug 2026 13:52:38 +0000"
+  },
+  {
+    "url": "https://www.theguardian.com/technology/2026/aug/17/humiliated-sainsburys-store-pauses-ai-scanning-after-false-shoplifting-accusation",
+    "title": "Sainsbury's store pauses AI scanning after false shoplifting accusation",
+    "description": "Article URL: https://www.theguardian.com/technology/2026/aug/17/humiliated-sainsburys-store-pauses-ai-scanning-after-false-shoplifting-accusation\nComments URL: https://news.ycombinator.com/item?id=49361616\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T14:07:26.842Z",
+    "published": "Wed, 19 Aug 2026 13:51:04 +0000"
+  },
+  {
+    "url": "https://github.com/jasonnam/dotproject",
+    "title": "Show HN: Dotproject – The project state standard for AI agents and humans",
+    "description": "We are already getting too slow to micromanage agents on individual features.Trying to review and steer every tiny task is quickly becoming the main bottleneck. Managing at the milestone and goal level still feels like something humans can realistically keep up with—at least for now...I built the d",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T14:07:26.842Z",
+    "published": "Wed, 19 Aug 2026 13:46:06 +0000"
+  },
+  {
+    "url": "https://www.xalgorix.com/",
+    "title": "Show HN: Xalgorix – open-source AI pentester that proves vulnerabilities",
+    "description": "Article URL: https://www.xalgorix.com/\nComments URL: https://news.ycombinator.com/item?id=49361499\nPoints: 3\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T14:07:26.842Z",
+    "published": "Wed, 19 Aug 2026 13:42:51 +0000"
+  },
+  {
+    "url": "https://www.vibeleaderboard.ai",
+    "title": "Don't fall behind, keep up with latest AI news here",
+    "description": "Article URL: https://www.vibeleaderboard.ai\nComments URL: https://news.ycombinator.com/item?id=49361416\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T14:07:26.842Z",
+    "published": "Wed, 19 Aug 2026 13:35:37 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49361322",
+    "title": "Train your own AI model, even on your laptop",
+    "description": "Hey HN. I have been building TESSRAL for a while. It is a deeptech product which lets you train your own image or voice AI models with a small amount of processing power and a small dataset belonging to you. Or you may use other TESSRAL users' datasets if they let you. The point is we don't need hu",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T14:07:26.842Z",
+    "published": "Wed, 19 Aug 2026 13:25:02 +0000"
+  },
+  {
+    "url": "https://marginalhq.com/",
+    "title": "Show HN: Marginal – See which customers and features drive your AI API costs",
+    "description": "Demo account (shared, please be nice): https://marginalhq.com/login - email jithinlalk25+demo@gmail.com, password marginal-demo-2026. It's a seeded workspace for a fictional company; poke around Overview/Insights/Explorer. Or sign up and send real events.\n\nComments URL: https://news.ycombinator.com",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T14:07:26.842Z",
+    "published": "Wed, 19 Aug 2026 13:23:17 +0000"
+  },
+  {
+    "url": "https://www.washingtonpost.com/technology/2026/08/19/mathematicians-ask-whats-left-humans-when-ai-can-do-math-research/",
+    "title": "This may be the first academic profession to see its work taken over by AI",
+    "description": "Article URL: https://www.washingtonpost.com/technology/2026/08/19/mathematicians-ask-whats-left-humans-when-ai-can-do-math-research/\nComments URL: https://news.ycombinator.com/item?id=49361200\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T14:07:26.842Z",
+    "published": "Wed, 19 Aug 2026 13:13:38 +0000"
+  },
+  {
+    "url": "https://symfony.com/blog/symfonycon-warsaw-2026-why-ai-output-is-the-new-xss",
+    "title": "Why AI Output Is the New XSS",
+    "description": "Article URL: https://symfony.com/blog/symfonycon-warsaw-2026-why-ai-output-is-the-new-xss\nComments URL: https://news.ycombinator.com/item?id=49361149\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T14:07:26.842Z",
+    "published": "Wed, 19 Aug 2026 13:08:49 +0000"
+  },
+  {
+    "url": "https://karavox.org/devlog/agents-as-subcontractors.html",
+    "title": "I treat my AI coding agents as subcontractors",
+    "description": "Article URL: https://karavox.org/devlog/agents-as-subcontractors.html\nComments URL: https://news.ycombinator.com/item?id=49361077\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T14:07:26.842Z",
+    "published": "Wed, 19 Aug 2026 13:02:43 +0000"
+  },
+  {
+    "url": "https://jobeasyapply.com",
+    "title": "Show HN: JobEasyApply – AI job auto-applier for LinkedIn, Greenhouse and Lever",
+    "description": "Article URL: https://jobeasyapply.com\nComments URL: https://news.ycombinator.com/item?id=49360928\nPoints: 5\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T14:07:26.842Z",
+    "published": "Wed, 19 Aug 2026 12:53:07 +0000"
+  },
+  {
+    "url": "https://www.pulsemarkt.com/",
+    "title": "PulseMarkt – An AI-powered marketplace for discovering trending products",
+    "description": "Article URL: https://www.pulsemarkt.com/\nComments URL: https://news.ycombinator.com/item?id=49360877\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T14:07:26.842Z",
+    "published": "Wed, 19 Aug 2026 12:48:50 +0000"
+  },
+  {
+    "url": "https://www.lesswrong.com/posts/24RKHEkwgZ6Hm6ygY/can-an-llm-make-a-feature-length-movie-on-its-own",
+    "title": "Can an LLM make a feature-length movie on its own?",
+    "description": "Article URL: https://www.lesswrong.com/posts/24RKHEkwgZ6Hm6ygY/can-an-llm-make-a-feature-length-movie-on-its-own\nComments URL: https://news.ycombinator.com/item?id=49360802\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T14:07:26.842Z",
+    "published": "Wed, 19 Aug 2026 12:42:42 +0000"
+  },
+  {
+    "url": "https://agencia.fapesp.br/artificial-intelligence-acts-as-an-ideological-chameleon-and-may-deepen-political-polarization-study-finds/59001",
+    "title": "AI acts as ideological chameleon and deepen political polarization, study find",
+    "description": "Article URL: https://agencia.fapesp.br/artificial-intelligence-acts-as-an-ideological-chameleon-and-may-deepen-political-polarization-study-finds/59001\nComments URL: https://news.ycombinator.com/item?id=49360734\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T14:07:26.842Z",
+    "published": "Wed, 19 Aug 2026 12:36:17 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/china-lets-nvidias-h200-chips-trickle-onto-the-mainland-to-help-its-ai-firms-keep-pace-with-the-us/",
+    "title": "China lets Nvidia's H200 chips trickle onto the mainland to help its AI firms keep pace with the US",
+    "description": "China is letting small batches of Nvidia's H200 chips onto the mainland to help domestic AI firms in the race with the US.\nThe article China lets Nvidia&#039;s H200 chips trickle onto the mainland to help its AI firms keep pace with the US appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-19T14:07:34.319Z",
+    "published": "Wed, 19 Aug 2026 13:57:22 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/glm-5-3-tops-the-open-model-rankings-and-undercuts-rivals-on-price-but-its-release-is-delayed/",
+    "title": "GLM-5.3 tops the open-model rankings and undercuts rivals on price, but its release is delayed",
+    "description": "GLM-5.3, the AI model from Chinese startup Z.ai, scores 60 points on the Artificial Analysis Intelligence Index. That ties it with Kimi K3 for the top spot among open models, and it's seven points ahead of the previous GLM-5.2.\nThe article GLM-5.3 tops the open-model rankings and undercuts",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-19T14:07:34.319Z",
+    "published": "Wed, 19 Aug 2026 13:54:16 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/ai-labs-are-failing-to-keep-their-own-systems-in-check/",
+    "title": "AI labs are failing to keep their own systems in check",
+    "description": "No AI company fully applies basic control measures to its own internal AI systems.\nThe article AI labs are failing to keep their own systems in check appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-19T14:07:34.319Z",
+    "published": "Wed, 19 Aug 2026 13:16:18 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-says-any-lab-can-now-let-a-language-model-agent-run-the-whole-protein-design-stack/",
+    "title": "Anthropic says any lab can now let a language model agent run the whole protein design stack",
+    "description": "Anthropic had its Claude models design small proteins on their own that dock onto target structures in the body, a key step in early drug development. The hit rate reached up to 35 percent, far above the industry average of 10 to 15 percent. Claude only steered existing specialized tools, a",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-19T14:07:34.319Z",
+    "published": "Wed, 19 Aug 2026 13:07:56 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-passes-openai-on-revenue-for-the-first-time/",
+    "title": "Anthropic passes OpenAI on revenue for the first time",
+    "description": "Anthropic has passed OpenAI on revenue for the first time in the AI race.\nThe article Anthropic passes OpenAI on revenue for the first time appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-19T14:07:34.319Z",
+    "published": "Wed, 19 Aug 2026 12:45:02 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/bose-quietcomfort-headphones-2-review/",
+    "title": "I tested Bose's new midrange headphones - now the pricey Ultras feel redundant",
+    "description": "Bose's second-gen QuietComfort headphones retain their $359 price tag, but flaunt meaningful upgrades from their predecessor.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-19T14:07:47.869Z",
+    "published": "Wed, 19 Aug 2026 13:30:50 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2239823/nasa-images-show-crater-on-the-moon-caused-by-spacex-falcon-9-crash/",
+    "title": "NASA images show crater on the moon caused by SpaceX Falcon 9 crash",
+    "description": "NASA's Lunar Reconnaissance Orbiter took images of the crater created by a SpaceX rocket crashing into the moon.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-19T14:07:48.502Z",
+    "published": "Wed, 19 Aug 2026 12:10:27 +0000"
   }
 ]
