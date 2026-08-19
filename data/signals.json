@@ -28987,5 +28987,96 @@
     "category": "news",
     "discovered": "2026-08-19T17:02:25.847Z",
     "published": "Wed, 19 Aug 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/our-commitment-to-zero-data-retention",
+    "title": "Offering Zero Data Retention for frontier models",
+    "description": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-19T17:54:46.861Z",
+    "published": "Wed, 19 Aug 2026 19:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-19T17:57:21.809Z"
+  },
+  {
+    "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+    "title": "Meet the startup helping Wall Street put a price on AI compute",
+    "description": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for anyone building AI products. But for all that spending, there still&#160;isn’t&#160;a straightforward w",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-19T17:54:49.894Z",
+    "published": "Wed, 19 Aug 2026 17:26:48 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T17:57:21.809Z"
+  },
+  {
+    "url": "https://acefleet.dev/blog/the-6-stage-ai-infrastructure-journey",
+    "title": "The 6-Stage AI Infra Journey: Navigating the Three FinOps and Hardware Crises",
+    "description": "Article URL: https://acefleet.dev/blog/the-6-stage-ai-infrastructure-journey\nComments URL: https://news.ycombinator.com/item?id=49364590\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T17:54:55.553Z",
+    "published": "Wed, 19 Aug 2026 17:35:35 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T17:57:21.809Z"
+  },
+  {
+    "url": "https://instavm.io/blog/how-claudes-watermark-works",
+    "title": "How Claude's Watermark Works",
+    "description": "Article URL: https://instavm.io/blog/how-claudes-watermark-works\nComments URL: https://news.ycombinator.com/item?id=49364564\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T17:54:55.553Z",
+    "published": "Wed, 19 Aug 2026 17:33:08 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T17:57:21.809Z"
+  },
+  {
+    "url": "https://artificialauthority.ai/p/a-lawyer-for-ai-agents",
+    "title": "A Lawyer for AI Agents",
+    "description": "Article URL: https://artificialauthority.ai/p/a-lawyer-for-ai-agents\nComments URL: https://news.ycombinator.com/item?id=49364311\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T17:54:55.553Z",
+    "published": "Wed, 19 Aug 2026 17:14:25 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T17:57:21.809Z"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/",
+    "title": "GitHub Copilot app for Beginners: Managing your work",
+    "description": "If you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next.\nThe post GitHub Copilot app for Beginners: Managing your work appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-08-19T17:55:07.817Z",
+    "published": "Wed, 19 Aug 2026 17:50:23 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/mainstreamos-linux-distro-arch-hyprland/",
+    "title": "Can MainstreamOS finally make Linux a household name? I tried it to find out",
+    "description": "Finally, there's a Linux distro that makes Arch and Hyprland easy - while adding the polish of MacOS. What's not to love about MainstreamOS?",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-19T17:55:15.253Z",
+    "published": "Wed, 19 Aug 2026 17:20:50 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/comcast-routers-detect-motion/",
+    "title": "Your Comcast router doubles as a motion detector now - and a potential police informant",
+    "description": "Opinion: Comcast's new motion detection technology could benefit your home, but it also raises privacy concerns. The details are in the fine print.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-19T17:55:15.253Z",
+    "published": "Wed, 19 Aug 2026 17:13:57 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2240154/meta-ai-now-has-a-dedicated-desktop-app-for-mac/",
+    "title": "Meta AI now has a dedicated desktop app for Mac",
+    "description": "Meta&#39;s new Mac app is part of the company&#39;s push to make more business-friendly AI tools.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-19T17:55:15.899Z",
+    "published": "Wed, 19 Aug 2026 17:10:45 +0000"
   }
 ]
