@@ -29486,5 +29486,168 @@
     "published": "Wed, 19 Aug 2026 21:07:58 +0000",
     "processed": true,
     "processedAt": "2026-08-19T21:58:34.029Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+    "description": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-19T22:56:22.404Z",
+    "published": "Wed, 19 Aug 2026 22:10:46 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T22:58:55.389Z"
+  },
+  {
+    "url": "https://www.science.org/content/article/i-had-unplug-ai-rediscover-my-love-writing",
+    "title": "I had to unplug from AI to rediscover my love of writing",
+    "description": "Article URL: https://www.science.org/content/article/i-had-unplug-ai-rediscover-my-love-writing\nComments URL: https://news.ycombinator.com/item?id=49368184\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T22:56:28.045Z",
+    "published": "Wed, 19 Aug 2026 22:51:20 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T22:58:55.389Z"
+  },
+  {
+    "url": "https://austinhenley.com/blog/dearresearchers.html",
+    "title": "Dear researchers: Is AI all you've got?",
+    "description": "Article URL: https://austinhenley.com/blog/dearresearchers.html\nComments URL: https://news.ycombinator.com/item?id=49368150\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T22:56:28.046Z",
+    "published": "Wed, 19 Aug 2026 22:47:04 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T22:58:55.389Z"
+  },
+  {
+    "url": "https://oblique.security/blog/hacking-saml/",
+    "title": "Hacking SAML with Claude Code",
+    "description": "Article URL: https://oblique.security/blog/hacking-saml/\nComments URL: https://news.ycombinator.com/item?id=49368038\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T22:56:28.046Z",
+    "published": "Wed, 19 Aug 2026 22:33:47 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T22:58:55.389Z"
+  },
+  {
+    "url": "https://github.com/semantica-agi/semantica",
+    "title": "Semantica, the Open Source Palantir for AI Agents",
+    "description": "Article URL: https://github.com/semantica-agi/semantica\nComments URL: https://news.ycombinator.com/item?id=49367995\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T22:56:28.046Z",
+    "published": "Wed, 19 Aug 2026 22:28:48 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T22:58:55.389Z"
+  },
+  {
+    "url": "https://www.hackster.io/news/pine64-calls-time-on-the-linux-hardware-market-ceases-production-until-the-ai-bubble-bursts-a865c8345041",
+    "title": "PINE64 halts their open-source hardware manufacturing until the AI bubble bursts",
+    "description": "Article URL: https://www.hackster.io/news/pine64-calls-time-on-the-linux-hardware-market-ceases-production-until-the-ai-bubble-bursts-a865c8345041\nComments URL: https://news.ycombinator.com/item?id=49367929\nPoints: 5\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T22:56:28.046Z",
+    "published": "Wed, 19 Aug 2026 22:20:14 +0000"
+  },
+  {
+    "url": "https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/",
+    "title": "Japan to require AI firms to disclose training data",
+    "description": "Article URL: https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/\nComments URL: https://news.ycombinator.com/item?id=49367870\nPoints: 7\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T22:56:28.046Z",
+    "published": "Wed, 19 Aug 2026 22:12:52 +0000"
+  },
+  {
+    "url": "https://zenodo.org/records/21696066",
+    "title": "Claude Opus 4.6: 900/900 zero-byte executions under a frozen protocol",
+    "description": "Article URL: https://zenodo.org/records/21696066\nComments URL: https://news.ycombinator.com/item?id=49367816\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T22:56:28.046Z",
+    "published": "Wed, 19 Aug 2026 22:06:46 +0000"
+  },
+  {
+    "url": "https://github.com/nodejs/node/blob/main/doc/contributing/ai-guidelines.md",
+    "title": "Node.js AI use policy and guidelines",
+    "description": "Article URL: https://github.com/nodejs/node/blob/main/doc/contributing/ai-guidelines.md\nComments URL: https://news.ycombinator.com/item?id=49367779\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T22:56:28.046Z",
+    "published": "Wed, 19 Aug 2026 22:03:24 +0000"
+  },
+  {
+    "url": "https://openai.com/index/replit/",
+    "title": "Replit expands access to software creation with GPT‑5.6 Luna",
+    "description": "Article URL: https://openai.com/index/replit/\nComments URL: https://news.ycombinator.com/item?id=49367650\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T22:56:28.046Z",
+    "published": "Wed, 19 Aug 2026 21:49:38 +0000"
+  },
+  {
+    "url": "https://github.com/flashlan/vibe-kanban-alternative",
+    "title": "Vibe-Kanban-Alternative – Classic AI agent Kanban with mem0 persistent memory",
+    "description": "Article URL: https://github.com/flashlan/vibe-kanban-alternative\nComments URL: https://news.ycombinator.com/item?id=49367532\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T22:56:28.046Z",
+    "published": "Wed, 19 Aug 2026 21:38:25 +0000"
+  },
+  {
+    "url": "https://github.com/only-cli/oc",
+    "title": "Show HN: Turning websites into micro CLIs for Claude Code to save on tokens",
+    "description": "Article URL: https://github.com/only-cli/oc\nComments URL: https://news.ycombinator.com/item?id=49367419\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T22:56:28.046Z",
+    "published": "Wed, 19 Aug 2026 21:26:15 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49367288",
+    "title": "How much would value the domain 'cmdk.ai' and 'commandk.ai'",
+    "description": "Bought this domain long back, thinking between selling or using this for domain for all my open source projects. Just wanted to know what is it valued in the market.\n\nComments URL: https://news.ycombinator.com/item?id=49367288\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T22:56:28.046Z",
+    "published": "Wed, 19 Aug 2026 21:13:49 +0000"
+  },
+  {
+    "url": "https://speedyweedyops.org/did-openai-ai-hack-hugging-face/",
+    "title": "Did OpenAI's AI hack Hugging Face? An evidence audit",
+    "description": "Article URL: https://speedyweedyops.org/did-openai-ai-hack-hugging-face/\nComments URL: https://news.ycombinator.com/item?id=49367230\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T22:56:28.046Z",
+    "published": "Wed, 19 Aug 2026 21:09:14 +0000"
+  },
+  {
+    "url": "https://www.theatlantic.com/technology/2026/08/car-prices-memory-ram-ai/688329/",
+    "title": "The AI Boom Is About to Make Cars More Expensive",
+    "description": "Article URL: https://www.theatlantic.com/technology/2026/08/car-prices-memory-ram-ai/688329/\nComments URL: https://news.ycombinator.com/item?id=49367228\nPoints: 2\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T22:56:28.046Z",
+    "published": "Wed, 19 Aug 2026 21:08:56 +0000"
+  },
+  {
+    "url": "https://greyenlightenment.com/2026/08/18/ai-generated-writing-its-still-bad/",
+    "title": "AI-generated writing: it's still bad",
+    "description": "Article URL: https://greyenlightenment.com/2026/08/18/ai-generated-writing-its-still-bad/\nComments URL: https://news.ycombinator.com/item?id=49367185\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T22:56:28.046Z",
+    "published": "Wed, 19 Aug 2026 21:02:46 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/ai-is-less-likely-to-launch-a-nuclear-strike-when-it-reasons-in-japanese/",
+    "title": "AI is less likely to launch a nuclear strike when it reasons in Japanese",
+    "description": "Article URL: https://www.unite.ai/ai-is-less-likely-to-launch-a-nuclear-strike-when-it-reasons-in-japanese/\nComments URL: https://news.ycombinator.com/item?id=49367180\nPoints: 5\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T22:56:28.046Z",
+    "published": "Wed, 19 Aug 2026 21:02:31 +0000"
   }
 ]
