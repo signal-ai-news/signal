@@ -3680,7 +3680,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-23T20:46:59.456Z",
-    "published": "Thu, 23 Jul 2026 19:49:47 +0000"
+    "published": "Thu, 23 Jul 2026 19:49:47 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T21:58:34.028Z"
   },
   {
     "url": "https://www.dingduff.com/",
@@ -3689,7 +3691,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-23T20:46:59.456Z",
-    "published": "Thu, 23 Jul 2026 19:49:30 +0000"
+    "published": "Thu, 23 Jul 2026 19:49:30 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T21:58:34.028Z"
   },
   {
     "url": "https://meetskipper.ai/",
@@ -3698,7 +3702,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-23T20:46:59.456Z",
-    "published": "Thu, 23 Jul 2026 19:42:21 +0000"
+    "published": "Thu, 23 Jul 2026 19:42:21 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T21:58:34.028Z"
   },
   {
     "url": "https://finterm.ai/blog/big-tech-ai-spending-1-65-trillion.html",
@@ -29458,5 +29464,27 @@
     "category": "news",
     "discovered": "2026-08-19T20:53:21.185Z",
     "published": "Wed, 19 Aug 2026 19:30:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+    "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+    "description": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-19T21:56:00.485Z",
+    "published": "Wed, 19 Aug 2026 21:51:23 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T21:58:34.029Z"
+  },
+  {
+    "url": "https://www.engadget.com/2240419/waymo-ojai-vans-are-now-available-for-all-riders-in-three-cities/",
+    "title": "Waymo Ojai vans are now available for all riders in three cities",
+    "description": "It's a full rollout for the driverless vans in San Francisco, Phoenix and Los Angeles.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-19T21:56:28.271Z",
+    "published": "Wed, 19 Aug 2026 21:07:58 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T21:58:34.029Z"
   }
 ]
