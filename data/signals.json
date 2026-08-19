@@ -27790,5 +27790,150 @@
     "category": "news",
     "discovered": "2026-08-18T23:50:45.875Z",
     "published": "Tue, 18 Aug 2026 22:57:32 +0000"
+  },
+  {
+    "url": "https://aaif.io/blog/a2a-joins-aaif",
+    "title": "Agent2Agent (A2A) joins Agentic AI Foundation (AAIF)'s open agentic stack",
+    "description": "Article URL: https://aaif.io/blog/a2a-joins-aaif\nComments URL: https://news.ycombinator.com/item?id=49356130\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T03:13:48.376Z",
+    "published": "Wed, 19 Aug 2026 03:05:02 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T03:16:14.097Z"
+  },
+  {
+    "url": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+    "title": "How Claude is accelerating protein design and analytical chemistry",
+    "description": "Article URL: https://www.anthropic.com/research/Claude-accelerates-protein-design\nComments URL: https://news.ycombinator.com/item?id=49356105\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T03:13:48.376Z",
+    "published": "Wed, 19 Aug 2026 03:00:42 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T03:16:14.097Z"
+  },
+  {
+    "url": "https://jamanetwork.com/journals/jama/fullarticle/2852952?guestAccessKey=562af865-a038-4425-993f-ff25e5e3a130",
+    "title": "Will Autonomous AI Exceed AI-Aided Physicians as the Best Medical Care?",
+    "description": "Article URL: https://jamanetwork.com/journals/jama/fullarticle/2852952?guestAccessKey=562af865-a038-4425-993f-ff25e5e3a130\nComments URL: https://news.ycombinator.com/item?id=49356100\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T03:13:48.376Z",
+    "published": "Wed, 19 Aug 2026 02:59:52 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T03:16:14.097Z"
+  },
+  {
+    "url": "https://warpdd.com",
+    "title": "Show HN: Warp DD – AI that analyzes technology ecosystems in ~30 seconds",
+    "description": "Article URL: https://warpdd.com\nComments URL: https://news.ycombinator.com/item?id=49355834\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T03:13:48.376Z",
+    "published": "Wed, 19 Aug 2026 02:25:47 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T03:16:14.097Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=xH7U7w9Qzlo",
+    "title": "Sutton and Javed: Why AI Models Stop Learning, and How to Start It Again [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=xH7U7w9Qzlo\nComments URL: https://news.ycombinator.com/item?id=49355702\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T03:13:48.376Z",
+    "published": "Wed, 19 Aug 2026 02:12:16 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T03:16:14.097Z"
+  },
+  {
+    "url": "https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health",
+    "title": "She told no one about her agony except ChatGPT. What her death reveals about AI",
+    "description": "Article URL: https://www.npr.org/2026/08/18/nx-s1-5929575/ai-suicide-risks-mental-health\nComments URL: https://news.ycombinator.com/item?id=49355684\nPoints: 5\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T03:13:48.376Z",
+    "published": "Wed, 19 Aug 2026 02:09:31 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49355600",
+    "title": "What's the best pitch for \"Why not Claude\"?",
+    "description": "Curious how everyone here handles \"Why not Claude\"? I'm sure this is a common question asked and ofc the intricacies of your product is different and better, but truly, what have you seen that works?\n\nComments URL: https://news.ycombinator.com/item?id=49355600\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T03:13:48.376Z",
+    "published": "Wed, 19 Aug 2026 01:57:42 +0000"
+  },
+  {
+    "url": "https://aimoway-lab.github.io/blog/articles/do-all-your-agents-really-need-models-like-claude-5-or-gpt-5-6/",
+    "title": "Do All Your Agents Need Models Like Claude 5 or GPT-5.6?",
+    "description": "Article URL: https://aimoway-lab.github.io/blog/articles/do-all-your-agents-really-need-models-like-claude-5-or-gpt-5-6/\nComments URL: https://news.ycombinator.com/item?id=49355400\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T03:13:48.376Z",
+    "published": "Wed, 19 Aug 2026 01:27:35 +0000"
+  },
+  {
+    "url": "https://github.com/EdwardAF-IT/Personetta",
+    "title": "Personetta – One YAML Persona for Cursor, Copilot, Claude, and Cline",
+    "description": "Article URL: https://github.com/EdwardAF-IT/Personetta\nComments URL: https://news.ycombinator.com/item?id=49355246\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T03:13:48.376Z",
+    "published": "Wed, 19 Aug 2026 01:07:49 +0000"
+  },
+  {
+    "url": "https://secitbench.cribl.io/",
+    "title": "SecIT Bench A frontier benchmark for AI agents in IT and security workflows",
+    "description": "Article URL: https://secitbench.cribl.io/\nComments URL: https://news.ycombinator.com/item?id=49354946\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T03:13:48.376Z",
+    "published": "Wed, 19 Aug 2026 00:28:02 +0000"
+  },
+  {
+    "url": "https://www.adaptyvbio.com/blog/anthropic-1",
+    "title": "Testing Claude-designed proteins in the wet lab",
+    "description": "Article URL: https://www.adaptyvbio.com/blog/anthropic-1\nComments URL: https://news.ycombinator.com/item?id=49354929\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T03:13:48.376Z",
+    "published": "Wed, 19 Aug 2026 00:25:34 +0000"
+  },
+  {
+    "url": "https://apps.apple.com/pl/app/monity-ai/id6761957823",
+    "title": "Show HN: Monity.ai – Get notified when any website changes",
+    "description": "Article URL: https://apps.apple.com/pl/app/monity-ai/id6761957823\nComments URL: https://news.ycombinator.com/item?id=49354833\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T03:13:48.376Z",
+    "published": "Wed, 19 Aug 2026 00:15:24 +0000"
+  },
+  {
+    "url": "https://knowablemagazine.org/content/article/technology/2026/lowering-energy-use-artificial-intelligence-datacenters",
+    "title": "How to tame AI's voracious appetite for energy",
+    "description": "Article URL: https://knowablemagazine.org/content/article/technology/2026/lowering-energy-use-artificial-intelligence-datacenters\nComments URL: https://news.ycombinator.com/item?id=49354820\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T03:13:48.376Z",
+    "published": "Wed, 19 Aug 2026 00:14:34 +0000"
+  },
+  {
+    "url": "https://www.theregister.com/systems/2026/08/19/cerebras-cs-4-rack-systems-juice-chips-for-every-last-drop-of-ai-performance/5289286",
+    "title": "Cerebras CS-4 rack systems juice chips for every last drop of AI performance",
+    "description": "Article URL: https://www.theregister.com/systems/2026/08/19/cerebras-cs-4-rack-systems-juice-chips-for-every-last-drop-of-ai-performance/5289286\nComments URL: https://news.ycombinator.com/item?id=49354816\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T03:13:48.376Z",
+    "published": "Wed, 19 Aug 2026 00:14:25 +0000"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+    "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+    "description": "Article URL: https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack\nComments URL: https://news.ycombinator.com/item?id=49354731\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T03:13:48.376Z",
+    "published": "Wed, 19 Aug 2026 00:07:06 +0000"
   }
 ]
