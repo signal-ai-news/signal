@@ -28589,5 +28589,240 @@
     "category": "news",
     "discovered": "2026-08-19T14:07:48.502Z",
     "published": "Wed, 19 Aug 2026 12:10:27 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+    "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+    "description": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-19T15:59:19.974Z",
+    "published": "Wed, 19 Aug 2026 15:44:53 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T16:01:56.371Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+    "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+    "description": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-19T15:59:19.974Z",
+    "published": "Wed, 19 Aug 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T16:01:56.371Z"
+  },
+  {
+    "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+    "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+    "description": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for",
+    "source": "VentureBeat AI",
+    "category": "news",
+    "discovered": "2026-08-19T15:59:22.089Z",
+    "published": "Wed, 19 Aug 2026 14:18:12 GMT",
+    "processed": true,
+    "processedAt": "2026-08-19T16:01:56.371Z"
+  },
+  {
+    "url": "https://www.h3vid.com",
+    "title": "H3 Video – MiniMax H3 AI Video Generator",
+    "description": "Article URL: https://www.h3vid.com\nComments URL: https://news.ycombinator.com/item?id=49363263\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T15:59:26.339Z",
+    "published": "Wed, 19 Aug 2026 15:56:22 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T16:01:56.371Z"
+  },
+  {
+    "url": "https://github.com/gavingolden/flow/",
+    "title": "Show HN: Flow – Claude Code CLI for feature planning → review/testing → merge",
+    "description": "Flow is my claude code supervisor for designing epics and shipping features really quickly. It was bootstrapped with itself so you can look at recent PRs to see what it produces.Usage:> flow feature create 'implement csv exports' --model opus --effort high• triage → plan → git worktree → code → ver",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T15:59:26.339Z",
+    "published": "Wed, 19 Aug 2026 15:47:38 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T16:01:56.371Z"
+  },
+  {
+    "url": "https://master.dev/blog/introducing-ai-skills-for-real-engineers/",
+    "title": "AI Skills for Real Engineers",
+    "description": "Article URL: https://master.dev/blog/introducing-ai-skills-for-real-engineers/\nComments URL: https://news.ycombinator.com/item?id=49363080\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T15:59:26.339Z",
+    "published": "Wed, 19 Aug 2026 15:42:54 +0000"
+  },
+  {
+    "url": "https://polanyisociety.org/knowing-your-robot-the-fiduciary-program-in-the-age-of-ai/",
+    "title": "Knowing your robot: the fiduciary program in the age of AI",
+    "description": "Article URL: https://polanyisociety.org/knowing-your-robot-the-fiduciary-program-in-the-age-of-ai/\nComments URL: https://news.ycombinator.com/item?id=49363029\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T15:59:26.339Z",
+    "published": "Wed, 19 Aug 2026 15:39:58 +0000"
+  },
+  {
+    "url": "https://github.com/inxm-ai/inxm-local",
+    "title": "Show HN: INXM // local` OSS for using LLM as compiler and not as runtime",
+    "description": "Article URL: https://github.com/inxm-ai/inxm-local\nComments URL: https://news.ycombinator.com/item?id=49362974\nPoints: 3\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T15:59:26.339Z",
+    "published": "Wed, 19 Aug 2026 15:35:29 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=tLv7qRWFMlw",
+    "title": "How Claude's Text Watermarking Works [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=tLv7qRWFMlw\nComments URL: https://news.ycombinator.com/item?id=49362945\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T15:59:26.339Z",
+    "published": "Wed, 19 Aug 2026 15:32:32 +0000"
+  },
+  {
+    "url": "https://plugos.net/plugclaw/",
+    "title": "A pocketable AI agent – Tokens free to use now",
+    "description": "Article URL: https://plugos.net/plugclaw/\nComments URL: https://news.ycombinator.com/item?id=49362909\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T15:59:26.339Z",
+    "published": "Wed, 19 Aug 2026 15:29:54 +0000"
+  },
+  {
+    "url": "https://arc-skill.vercel.app/",
+    "title": "100% RHAE on ARC-AGI-3 public with Claude Code, Opus 5, and one skill",
+    "description": "Article URL: https://arc-skill.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49362895\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T15:59:26.339Z",
+    "published": "Wed, 19 Aug 2026 15:28:39 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49362857",
+    "title": "Claude 529 Errors Again Today",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=49362857\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T15:59:26.339Z",
+    "published": "Wed, 19 Aug 2026 15:25:36 +0000"
+  },
+  {
+    "url": "https://www.quantinuum.com/blog/teaching-ai-with-quantum-data",
+    "title": "Teaching AI with Quantum Data",
+    "description": "Article URL: https://www.quantinuum.com/blog/teaching-ai-with-quantum-data\nComments URL: https://news.ycombinator.com/item?id=49362854\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T15:59:26.339Z",
+    "published": "Wed, 19 Aug 2026 15:25:18 +0000"
+  },
+  {
+    "url": "https://github.com/alxshelepenok/grove",
+    "title": "Show HN: Grove, a formal workflow protocol for long-running AI coding agents",
+    "description": "Article URL: https://github.com/alxshelepenok/grove\nComments URL: https://news.ycombinator.com/item?id=49362786\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T15:59:26.339Z",
+    "published": "Wed, 19 Aug 2026 15:19:53 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.16753",
+    "title": "Mathematics in the Age of AI",
+    "description": "Article URL: https://arxiv.org/abs/2608.16753\nComments URL: https://news.ycombinator.com/item?id=49362728\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T15:59:26.339Z",
+    "published": "Wed, 19 Aug 2026 15:14:25 +0000"
+  },
+  {
+    "url": "https://projan.ai/blog/should-you-use-ai-to-write-user-stories",
+    "title": "Should you use AI to write user stories",
+    "description": "Article URL: https://projan.ai/blog/should-you-use-ai-to-write-user-stories\nComments URL: https://news.ycombinator.com/item?id=49362701\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T15:59:26.339Z",
+    "published": "Wed, 19 Aug 2026 15:12:45 +0000"
+  },
+  {
+    "url": "https://sudoreport.com/",
+    "title": "Show HN: Tech / AI / Product super aggregator – SudoReport",
+    "description": "pulls from hundreds of sources to give you the most relevant info of the day. UI modelled after drudgereport\n\nComments URL: https://news.ycombinator.com/item?id=49362461\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T15:59:26.339Z",
+    "published": "Wed, 19 Aug 2026 14:52:43 +0000"
+  },
+  {
+    "url": "https://icosa.co/zeno",
+    "title": "Zeno: A local AI tool that runs Qwen3.5-35B-A3B on MacBooks",
+    "description": "Article URL: https://icosa.co/zeno\nComments URL: https://news.ycombinator.com/item?id=49362342\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T15:59:26.339Z",
+    "published": "Wed, 19 Aug 2026 14:43:46 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49362305",
+    "title": "Ask HN: What's the endgame of the AI comments buried in every post?",
+    "description": "A lot of submissions nowadays have a few LLM comments (whether directly written by an agent, or human with a LLM I don't know), often downvoted and sitting at the end of the comment section. No-one even bothers to call them out anymore, it's just part of the landscape.\nJust wondering why ? What's t",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T15:59:26.339Z",
+    "published": "Wed, 19 Aug 2026 14:40:45 +0000"
+  },
+  {
+    "url": "https://asteriskmag.substack.com/p/field-notes-from-an-ai-society",
+    "title": "Field Notes from an AI Society",
+    "description": "Article URL: https://asteriskmag.substack.com/p/field-notes-from-an-ai-society\nComments URL: https://news.ycombinator.com/item?id=49362294\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T15:59:26.339Z",
+    "published": "Wed, 19 Aug 2026 14:40:27 +0000"
+  },
+  {
+    "url": "https://github.com/AdanRott/magnificent-jobs-plugin",
+    "title": "Find jobs with Claude Code CLI",
+    "description": "Article URL: https://github.com/AdanRott/magnificent-jobs-plugin\nComments URL: https://news.ycombinator.com/item?id=49362280\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T15:59:26.339Z",
+    "published": "Wed, 19 Aug 2026 14:39:45 +0000"
+  },
+  {
+    "url": "https://nexusrun.dev/",
+    "title": "AI Agents that are Portable",
+    "description": "Article URL: https://nexusrun.dev/\nComments URL: https://news.ycombinator.com/item?id=49362263\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T15:59:26.339Z",
+    "published": "Wed, 19 Aug 2026 14:38:36 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/understanding-anti-ai-public-opinion/",
+    "title": "Understanding Anti-AI Public Opinion",
+    "description": "People can accept tradeoffs when they see value — but if they don’t, what happens?\nThe post Understanding Anti-AI Public Opinion appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-19T15:59:32.381Z",
+    "published": "Wed, 19 Aug 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/repairable-phones-finally-hit-the-us-market/",
+    "title": "I tried the Fairphone 6+ and - hoo boy! - this repairable phone could be the one",
+    "description": "Fairphone is finally selling its latest model in the US. The $649 handset has 12 swappable parts, and a replacement battery is only $40. This is truly the Goldilocks of Android phones.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-19T15:59:49.110Z",
+    "published": "Wed, 19 Aug 2026 15:53:08 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2239785/amazons-alexa-ai-assistant-is-now-free-for-anyone-with-a-fire-tv-device/",
+    "title": "Amazon's Alexa+ AI assistant is now free for anyone with a Fire TV device",
+    "description": "You can now talk to Alexa+ for free if you have a Fire TV device and live in the US.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-19T15:59:49.828Z",
+    "published": "Wed, 19 Aug 2026 15:00:00 +0000"
   }
 ]
