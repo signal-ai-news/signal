@@ -28155,5 +28155,186 @@
     "published": "Wed, 19 Aug 2026 09:00:00 +0000",
     "processed": true,
     "processedAt": "2026-08-19T10:57:46.008Z"
+  },
+  {
+    "url": "https://wram.chat",
+    "title": "Show HN: Real-time argument duello game – AI judge decides who's right",
+    "description": "Article URL: https://wram.chat\nComments URL: https://news.ycombinator.com/item?id=49360270\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T11:56:11.787Z",
+    "published": "Wed, 19 Aug 2026 11:50:17 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T11:58:37.985Z"
+  },
+  {
+    "url": "https://dev.profullstack.com/~anthony/blog/023-post.html",
+    "title": "The AI storage pitch is a load balancing problem",
+    "description": "Article URL: https://dev.profullstack.com/~anthony/blog/023-post.html\nComments URL: https://news.ycombinator.com/item?id=49360198\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T11:56:11.787Z",
+    "published": "Wed, 19 Aug 2026 11:41:31 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T11:58:37.985Z"
+  },
+  {
+    "url": "https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination",
+    "title": "AI automated hiring tools spark discrimination and secrecy lawsuits",
+    "description": "Article URL: https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination\nComments URL: https://news.ycombinator.com/item?id=49360149\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T11:56:11.787Z",
+    "published": "Wed, 19 Aug 2026 11:36:27 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T11:58:37.985Z"
+  },
+  {
+    "url": "https://quaesitor.eu/silent-failures/",
+    "title": "Giving LLM the schema docs made its wrong SQL answers more plausible, not rarer",
+    "description": "Article URL: https://quaesitor.eu/silent-failures/\nComments URL: https://news.ycombinator.com/item?id=49360009\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T11:56:11.787Z",
+    "published": "Wed, 19 Aug 2026 11:21:24 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T11:58:37.985Z"
+  },
+  {
+    "url": "https://daniel.reguero.dev/blogs/ten-common-security-mistakes-ai-generated-apps-make",
+    "title": "Common Mistakes I've Seen That AI-Generated Apps Keep Making",
+    "description": "Article URL: https://daniel.reguero.dev/blogs/ten-common-security-mistakes-ai-generated-apps-make\nComments URL: https://news.ycombinator.com/item?id=49359856\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T11:56:11.787Z",
+    "published": "Wed, 19 Aug 2026 11:03:13 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T11:58:37.985Z"
+  },
+  {
+    "url": "https://www.globaltimes.cn/page/202608/1368315.shtml",
+    "title": "Chinese Banks Start Lending Based on AI Computing-Power Usage",
+    "description": "Article URL: https://www.globaltimes.cn/page/202608/1368315.shtml\nComments URL: https://news.ycombinator.com/item?id=49359750\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T11:56:11.787Z",
+    "published": "Wed, 19 Aug 2026 10:51:26 +0000"
+  },
+  {
+    "url": "https://plugos.net/blog/2026/08/confidential-ai-how-plugclaw-keeps-your-ai-work-private/",
+    "title": "Confidential AI: Let AI Work for You Without Handing over Your Privacy",
+    "description": "Article URL: https://plugos.net/blog/2026/08/confidential-ai-how-plugclaw-keeps-your-ai-work-private/\nComments URL: https://news.ycombinator.com/item?id=49359714\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T11:56:11.787Z",
+    "published": "Wed, 19 Aug 2026 10:47:57 +0000"
+  },
+  {
+    "url": "https://knownbase.dev/",
+    "title": "Show HN: Knownbase, an MCP server for persistent AI agent memory",
+    "description": "Article URL: https://knownbase.dev/\nComments URL: https://news.ycombinator.com/item?id=49359680\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T11:56:11.787Z",
+    "published": "Wed, 19 Aug 2026 10:43:04 +0000"
+  },
+  {
+    "url": "https://www.panaxeo.com/blog/ai-reverse-engineered-my-printer-i-just-pressed-the-buttons",
+    "title": "AI reverse-engineered my printer. I just pressed the buttons",
+    "description": "Article URL: https://www.panaxeo.com/blog/ai-reverse-engineered-my-printer-i-just-pressed-the-buttons\nComments URL: https://news.ycombinator.com/item?id=49359452\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T11:56:11.787Z",
+    "published": "Wed, 19 Aug 2026 10:17:40 +0000"
+  },
+  {
+    "url": "https://artificialanalysis.ai/agents/search-api",
+    "title": "Artificial Analysis: LLM search API providers",
+    "description": "Article URL: https://artificialanalysis.ai/agents/search-api\nComments URL: https://news.ycombinator.com/item?id=49359449\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T11:56:11.787Z",
+    "published": "Wed, 19 Aug 2026 10:17:25 +0000"
+  },
+  {
+    "url": "https://github.com/ais-space/sil",
+    "title": "SIL: A semantic interface layer for web applications and AI agents",
+    "description": "Article URL: https://github.com/ais-space/sil\nComments URL: https://news.ycombinator.com/item?id=49359448\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T11:56:11.787Z",
+    "published": "Wed, 19 Aug 2026 10:17:25 +0000"
+  },
+  {
+    "url": "https://www.wsj.com/tech/inside-big-techs-frantic-race-to-quell-the-growing-backlash-to-ai-2a717339",
+    "title": "Inside Big Tech’s Frantic Race to Quell the Growing Backlash to AI",
+    "description": "Article URL: https://www.wsj.com/tech/inside-big-techs-frantic-race-to-quell-the-growing-backlash-to-ai-2a717339\nComments URL: https://news.ycombinator.com/item?id=49359308\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T11:56:11.787Z",
+    "published": "Wed, 19 Aug 2026 09:59:14 +0000"
+  },
+  {
+    "url": "https://github.com/thecolourfoundation/rune",
+    "title": "Rune – persistent context for AI coding tools",
+    "description": "Article URL: https://github.com/thecolourfoundation/rune\nComments URL: https://news.ycombinator.com/item?id=49359128\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T11:56:11.787Z",
+    "published": "Wed, 19 Aug 2026 09:32:15 +0000"
+  },
+  {
+    "url": "https://sophronresearch.org/pander/",
+    "title": "Pander Score: How much do AI models mirror what users believe?",
+    "description": "Article URL: https://sophronresearch.org/pander/\nComments URL: https://news.ycombinator.com/item?id=49359125\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T11:56:11.787Z",
+    "published": "Wed, 19 Aug 2026 09:32:03 +0000"
+  },
+  {
+    "url": "https://fast-and-flow-production.onrender.com/case-study",
+    "title": "A multi-tenant SaaS built in a 92-hour AI-augmented engineering sprint",
+    "description": "Article URL: https://fast-and-flow-production.onrender.com/case-study\nComments URL: https://news.ycombinator.com/item?id=49359043\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T11:56:11.787Z",
+    "published": "Wed, 19 Aug 2026 09:22:25 +0000"
+  },
+  {
+    "url": "https://pathway.com/research/the-equations-of-reasoning",
+    "title": "The Equations of Reasoning – Pathway AI",
+    "description": "Article URL: https://pathway.com/research/the-equations-of-reasoning\nComments URL: https://news.ycombinator.com/item?id=49358735\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T11:56:11.787Z",
+    "published": "Wed, 19 Aug 2026 08:37:15 +0000"
+  },
+  {
+    "url": "https://xcancel.com/jietang/status/2089941544581403107#m",
+    "title": "Thoughts about Scaling Law (from Z.ai Cofounder)",
+    "description": "Article URL: https://xcancel.com/jietang/status/2089941544581403107#m\nComments URL: https://news.ycombinator.com/item?id=49358643\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T11:56:11.787Z",
+    "published": "Wed, 19 Aug 2026 08:24:19 +0000"
+  },
+  {
+    "url": "https://github.com/Kyeom1997/pr-sage",
+    "title": "Show HN: AI PR reviewer built to stay quiet – 89% of merged PRs got no comments",
+    "description": "Article URL: https://github.com/Kyeom1997/pr-sage\nComments URL: https://news.ycombinator.com/item?id=49358609\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T11:56:11.787Z",
+    "published": "Wed, 19 Aug 2026 08:20:28 +0000"
+  },
+  {
+    "url": "https://www.alanbonnici.com/2026/07/the-ai-revolution-history-repeating_01939218328.html",
+    "title": "The AI Revolution – History Repeating Itself – On Economics",
+    "description": "Article URL: https://www.alanbonnici.com/2026/07/the-ai-revolution-history-repeating_01939218328.html\nComments URL: https://news.ycombinator.com/item?id=49358492\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T11:56:11.787Z",
+    "published": "Wed, 19 Aug 2026 08:04:38 +0000"
   }
 ]
