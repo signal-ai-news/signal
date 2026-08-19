@@ -28824,5 +28824,168 @@
     "category": "news",
     "discovered": "2026-08-19T15:59:49.828Z",
     "published": "Wed, 19 Aug 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://github.com/OnPoint-Dev-Tools/crewcode",
+    "title": "Show HN: CrewCode – Open-source Mission Control for AI coding agents",
+    "description": "I've been experimenting heavily with coding agents and found myself managing agents more than writing code.I build CrewCode to solve that.Its an open source desktop application for running multiple AI coding agents in parallel while isolating their work with Git worktrees.Git worktrees → agent isol",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T17:02:07.004Z",
+    "published": "Wed, 19 Aug 2026 16:56:22 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T17:04:31.287Z"
+  },
+  {
+    "url": "https://intelix.dev",
+    "title": "Show HN: Intelix – AI agent that investigates and resolves production incidents",
+    "description": "Hi HN,I built Intelix, an AI incident-response agent for engineering teams.When a production incident happens, Intelix investigates it instead of simply notifying an engineer.It gathers evidence across PagerDuty, Datadog, GitHub and Kubernetes, identifies and ranks possible root causes, validates w",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T17:02:07.004Z",
+    "published": "Wed, 19 Aug 2026 16:56:04 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T17:04:31.287Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=qC_lCFTOJU0",
+    "title": "Cerebras chips rival Nvidia GPUs for AI [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=qC_lCFTOJU0\nComments URL: https://news.ycombinator.com/item?id=49364019\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T17:02:07.004Z",
+    "published": "Wed, 19 Aug 2026 16:51:23 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T17:04:31.287Z"
+  },
+  {
+    "url": "https://tombedor.dev/how-i-use-ai-to-help-me-write/",
+    "title": "How I Use AI to Help Me Write",
+    "description": "Article URL: https://tombedor.dev/how-i-use-ai-to-help-me-write/\nComments URL: https://news.ycombinator.com/item?id=49364014\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T17:02:07.004Z",
+    "published": "Wed, 19 Aug 2026 16:51:02 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T17:04:31.287Z"
+  },
+  {
+    "url": "https://github.com/Chong169/a-constitution-for-one",
+    "title": "A Constitution for One: 7 months governing a personal AI agent fleet",
+    "description": "Article URL: https://github.com/Chong169/a-constitution-for-one\nComments URL: https://news.ycombinator.com/item?id=49363991\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T17:02:07.004Z",
+    "published": "Wed, 19 Aug 2026 16:49:38 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T17:04:31.287Z"
+  },
+  {
+    "url": "https://anarc.at/blog/2026-08-18-people-vs-ai-overlords/",
+    "title": "People vs. the AI Overlords",
+    "description": "Article URL: https://anarc.at/blog/2026-08-18-people-vs-ai-overlords/\nComments URL: https://news.ycombinator.com/item?id=49363959\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T17:02:07.004Z",
+    "published": "Wed, 19 Aug 2026 16:47:19 +0000"
+  },
+  {
+    "url": "https://watermark-quiz.krishmatta.net/",
+    "title": "Can you tell which AI-generated text is watermarked?",
+    "description": "Article URL: https://watermark-quiz.krishmatta.net/\nComments URL: https://news.ycombinator.com/item?id=49363839\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T17:02:07.004Z",
+    "published": "Wed, 19 Aug 2026 16:37:46 +0000"
+  },
+  {
+    "url": "https://github.com/NAEOS-foundation/naeos",
+    "title": "Show HN: Naeos – an engineering system for AI coding agents",
+    "description": "NAEOS is an open-source engineering system for AI coding agents.It provides architecture, engineering standards, policies, specifications, and validation wworkflow to help agents build software within a consistent engineering context\n\nComments URL: https://news.ycombinator.com/item?id=49363778\nPoin",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T17:02:07.004Z",
+    "published": "Wed, 19 Aug 2026 16:34:02 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=FnAqruxx-QE",
+    "title": "Claude watermark- science behind it",
+    "description": "Article URL: https://www.youtube.com/watch?v=FnAqruxx-QE\nComments URL: https://news.ycombinator.com/item?id=49363590\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T17:02:07.004Z",
+    "published": "Wed, 19 Aug 2026 16:19:03 +0000"
+  },
+  {
+    "url": "https://wired.business/longtermemory",
+    "title": "Show HN: LongTerMemory, an AI EdTech Platform",
+    "description": "Article URL: https://wired.business/longtermemory\nComments URL: https://news.ycombinator.com/item?id=49363440\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T17:02:07.004Z",
+    "published": "Wed, 19 Aug 2026 16:07:51 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/kimi-k3s-1m-token-context-window-vs-rag-cost-latency-and-answer-quality/",
+    "title": "Kimi K3’s 1M Token Context Window vs. RAG: Cost, Latency and Answer Quality",
+    "description": "A controlled comparison of a top-5 RAG pipeline and a full 127,000 token prompt on the same 12 questions, same system prompt and same model. Graded blind on correctness, completeness and grounding.\nThe post Kimi K3’s 1M Token Context Window vs. RAG: Cost, Latency and Answer Quality appeared first on",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-19T17:02:11.912Z",
+    "published": "Wed, 19 Aug 2026 16:30:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
+    "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
+    "description": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-19T17:02:19.431Z",
+    "published": "Wed, 19 Aug 2026 16:44:07 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/pixel-11-pro-xl-review/",
+    "title": "Pixel 11 XL Pro: Google's big flagship is more Pro than ever, but the camera is no big thing",
+    "description": "The Pixel 11 Pro XL has some gorgeous hardware and some neat AI tricks, but the cameras need good lighting to shine.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-19T17:02:25.289Z",
+    "published": "Wed, 19 Aug 2026 16:00:46 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2240125/google-is-trying-to-solve-contrails-with-ai/",
+    "title": "Google is trying to solve contrails with AI",
+    "description": "Operation Blue Skies, which also involves the UK government, will subtly reroute flights to test contrail avoidance.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-19T17:02:25.846Z",
+    "published": "Wed, 19 Aug 2026 16:54:03 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2240088/amazon-is-bringing-drone-deliveries-to-the-chicago-and-atlanta-metro-areas/",
+    "title": "Amazon is bringing drone deliveries to the Chicago and Atlanta metro areas as part of a major expansion",
+    "description": "Amazon says it will serve nearly 500 US towns and cities with Prime Air deliveries by the end of the year.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-19T17:02:25.846Z",
+    "published": "Wed, 19 Aug 2026 16:32:45 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2240069/flock-testing-new-ai-police-tool-tracks-identifies-drivers/",
+    "title": "Flock is testing a new AI tool that tracks and identifies people based on their driving habits",
+    "description": "This goes way, way further than keeping an eye on license plates.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-19T17:02:25.846Z",
+    "published": "Wed, 19 Aug 2026 16:15:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2240038/google-pixel-11-pro-review-gemini-ai-camera-samples/",
+    "title": "Pixel 11 Pro review: Google AI as your enabler",
+    "description": "Just because it doesn't meet the high standard its predecessor set doesn't mean the Pixel 11 Pro isn&#39;t a great phone.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-19T17:02:25.847Z",
+    "published": "Wed, 19 Aug 2026 16:00:00 +0000"
   }
 ]
