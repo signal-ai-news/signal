@@ -29268,5 +29268,195 @@
     "category": "news",
     "discovered": "2026-08-19T19:13:14.665Z",
     "published": "Wed, 19 Aug 2026 19:00:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "title": "Offering Zero Data Retention for frontier models",
+    "description": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-19T20:52:54.101Z",
+    "published": "Wed, 19 Aug 2026 19:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-19T20:55:35.759Z"
+  },
+  {
+    "url": "https://github.com/GuillaumeLessard/qector-claude-plugin",
+    "title": "Qector: Bringing a 15-back end Rust quantum decoder to Claude Desktop",
+    "description": "Article URL: https://github.com/GuillaumeLessard/qector-claude-plugin\nComments URL: https://news.ycombinator.com/item?id=49367059\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T20:53:06.907Z",
+    "published": "Wed, 19 Aug 2026 20:50:13 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T20:55:35.759Z"
+  },
+  {
+    "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
+    "title": "GOP issues stark warning to AI companies",
+    "description": "Article URL: https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election\nComments URL: https://news.ycombinator.com/item?id=49366999\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T20:53:06.907Z",
+    "published": "Wed, 19 Aug 2026 20:45:54 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T20:55:35.759Z"
+  },
+  {
+    "url": "https://graphics.social/@metin/117123760167000114",
+    "title": "How generative AI affects homework productivity and learning",
+    "description": "Article URL: https://graphics.social/@metin/117123760167000114\nComments URL: https://news.ycombinator.com/item?id=49366996\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T20:53:06.907Z",
+    "published": "Wed, 19 Aug 2026 20:45:46 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T20:55:35.759Z"
+  },
+  {
+    "url": "https://yourhuman.ai/",
+    "title": "A Human, for AI",
+    "description": "Article URL: https://yourhuman.ai/\nComments URL: https://news.ycombinator.com/item?id=49366946\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T20:53:06.907Z",
+    "published": "Wed, 19 Aug 2026 20:41:16 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T20:55:35.759Z"
+  },
+  {
+    "url": "https://www.atomic14.com/2026/08/19/now-it-spots-chatgpt-too",
+    "title": "Detecting Claude and ChatGPT using letter counting",
+    "description": "Article URL: https://www.atomic14.com/2026/08/19/now-it-spots-chatgpt-too\nComments URL: https://news.ycombinator.com/item?id=49366933\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T20:53:06.907Z",
+    "published": "Wed, 19 Aug 2026 20:39:58 +0000"
+  },
+  {
+    "url": "https://lukasvonkunhardt.com/obsidian-claude-code-setup/",
+    "title": "Obsidian + Claude Code: The Setup I Use Every Day",
+    "description": "Article URL: https://lukasvonkunhardt.com/obsidian-claude-code-setup/\nComments URL: https://news.ycombinator.com/item?id=49366812\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T20:53:06.907Z",
+    "published": "Wed, 19 Aug 2026 20:30:04 +0000"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618",
+    "title": "The Generative AI Learning Penalty: Evidence from Chinese Secondary Education",
+    "description": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6868618\nComments URL: https://news.ycombinator.com/item?id=49366811\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T20:53:06.907Z",
+    "published": "Wed, 19 Aug 2026 20:30:01 +0000"
+  },
+  {
+    "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+    "title": "Meta is launching a new Mac app dedicated to its AI chatbot",
+    "description": "Article URL: https://www.theverge.com/tech/982270/meta-ai-mac-app\nComments URL: https://news.ycombinator.com/item?id=49366733\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T20:53:06.907Z",
+    "published": "Wed, 19 Aug 2026 20:24:17 +0000"
+  },
+  {
+    "url": "https://www.reddit.com/r/ClaudeWorkflows/comments/1vf70wx/workflow_verify_claude_opus_5s_antiverbosity/",
+    "title": "Claude Opus 5's Anti-Verbosity Policy",
+    "description": "Article URL: https://www.reddit.com/r/ClaudeWorkflows/comments/1vf70wx/workflow_verify_claude_opus_5s_antiverbosity/\nComments URL: https://news.ycombinator.com/item?id=49366714\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T20:53:06.907Z",
+    "published": "Wed, 19 Aug 2026 20:22:59 +0000"
+  },
+  {
+    "url": "https://meet.squidhub.ai/",
+    "title": "Squid – I built an AI meeting participant that knows when not to speak",
+    "description": "Article URL: https://meet.squidhub.ai/\nComments URL: https://news.ycombinator.com/item?id=49366664\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T20:53:06.907Z",
+    "published": "Wed, 19 Aug 2026 20:20:06 +0000"
+  },
+  {
+    "url": "https://www.tokenblast.cc/#eyJzIjoiMjIxMSIsInAiOiJiYWxhbmNlZCIsInYiOiIyLjEuMjM1In0=",
+    "title": "TokenBlast: Tune Claude Code's environment flags",
+    "description": "Article URL: https://www.tokenblast.cc/#eyJzIjoiMjIxMSIsInAiOiJiYWxhbmNlZCIsInYiOiIyLjEuMjM1In0=\nComments URL: https://news.ycombinator.com/item?id=49366658\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T20:53:06.907Z",
+    "published": "Wed, 19 Aug 2026 20:19:47 +0000"
+  },
+  {
+    "url": "https://bookriot.com/what-counts-as-ai-survey-results/",
+    "title": "We Can't Agree on What Counts as \"AI-Written\"",
+    "description": "Article URL: https://bookriot.com/what-counts-as-ai-survey-results/\nComments URL: https://news.ycombinator.com/item?id=49366535\nPoints: 5\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T20:53:06.907Z",
+    "published": "Wed, 19 Aug 2026 20:08:22 +0000"
+  },
+  {
+    "url": "https://github.com/GLechevalier/nff-core",
+    "title": "Show HN: I let an AI agent brick my $2.51 ESP32 on purpose",
+    "description": "Article URL: https://github.com/GLechevalier/nff-core\nComments URL: https://news.ycombinator.com/item?id=49366373\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T20:53:06.907Z",
+    "published": "Wed, 19 Aug 2026 19:55:23 +0000"
+  },
+  {
+    "url": "https://whatever.scalzi.com/2026/08/19/daily-reminder-to-not-listen-to-googles-ai-overview/",
+    "title": "Daily Reminder to Not Listen to Google's AI Overview",
+    "description": "Article URL: https://whatever.scalzi.com/2026/08/19/daily-reminder-to-not-listen-to-googles-ai-overview/\nComments URL: https://news.ycombinator.com/item?id=49366075\nPoints: 11\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T20:53:06.907Z",
+    "published": "Wed, 19 Aug 2026 19:26:46 +0000"
+  },
+  {
+    "url": "https://github.com/uson1x/dsh-plugin-llm-verifier",
+    "title": "Show HN: LLM-as-a-Verifier Plugin for DeepSeek Harness",
+    "description": "Article URL: https://github.com/uson1x/dsh-plugin-llm-verifier\nComments URL: https://news.ycombinator.com/item?id=49366057\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T20:53:06.907Z",
+    "published": "Wed, 19 Aug 2026 19:25:27 +0000"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-08-19/spacex-attempted-to-acquire-ai-coding-startup-cognition",
+    "title": "SpaceX Attempted to Acquire AI Coding Startup Cognition",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-08-19/spacex-attempted-to-acquire-ai-coding-startup-cognition\nComments URL: https://news.ycombinator.com/item?id=49366053\nPoints: 5\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T20:53:06.907Z",
+    "published": "Wed, 19 Aug 2026 19:25:10 +0000"
+  },
+  {
+    "url": "https://jeanbza.github.io/ai/infrastructure/2026/08/08/ai-det-stoch.html",
+    "title": "Reproducible, AI-driven large scale changes",
+    "description": "Article URL: https://jeanbza.github.io/ai/infrastructure/2026/08/08/ai-det-stoch.html\nComments URL: https://news.ycombinator.com/item?id=49366017\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T20:53:06.907Z",
+    "published": "Wed, 19 Aug 2026 19:21:00 +0000"
+  },
+  {
+    "url": "https://notula.org/",
+    "title": "Show HN: Notula – where humans edit the Markdown your AI agents read",
+    "description": "Article URL: https://notula.org/\nComments URL: https://news.ycombinator.com/item?id=49365980\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T20:53:06.907Z",
+    "published": "Wed, 19 Aug 2026 19:18:54 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+    "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
+    "description": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-19T20:53:21.185Z",
+    "published": "Wed, 19 Aug 2026 19:30:00 +0000"
   }
 ]
