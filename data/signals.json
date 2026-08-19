@@ -3625,7 +3625,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-23T20:46:59.456Z",
-    "published": "Thu, 23 Jul 2026 20:02:36 +0000"
+    "published": "Thu, 23 Jul 2026 20:02:36 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T09:10:44.054Z"
   },
   {
     "url": "https://resobscura.substack.com/p/llm-based-educational-games-will",
@@ -3634,7 +3636,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-23T20:46:59.456Z",
-    "published": "Thu, 23 Jul 2026 19:57:17 +0000"
+    "published": "Thu, 23 Jul 2026 19:57:17 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T09:10:44.054Z"
   },
   {
     "url": "https://ai-2027.com/",
@@ -28090,5 +28094,38 @@
     "category": "community",
     "discovered": "2026-08-19T07:27:13.659Z",
     "published": "Wed, 19 Aug 2026 04:21:26 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/flock-safety-os-investigate/",
+    "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+    "description": "Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confirm it goes much further than tracking license plates.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-19T09:08:31.917Z",
+    "published": "Wed, 19 Aug 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T09:10:44.055Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/firefox-smart-window-ai-browser-tools/",
+    "title": "If you use AI, Firefox is the browser to beat right now - here's why",
+    "description": "Mozilla has finally released the beta of Firefox Smart Window. I ran it through its paces and found features that might lure me back to my old favorite browser.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-19T09:08:38.023Z",
+    "published": "Wed, 19 Aug 2026 08:54:17 GMT",
+    "processed": true,
+    "processedAt": "2026-08-19T09:10:44.055Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/top-6-ai-free-linux-distros/",
+    "title": "The 6 AI-free Linux distros I recommend most - and why they're likely to stay that way",
+    "description": "If AI isn't your jam, and you're looking for an operating system that doesn't (and won't) force it on you, look no further than these Linux distributions.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-19T09:08:38.023Z",
+    "published": "Wed, 19 Aug 2026 08:01:05 GMT",
+    "processed": true,
+    "processedAt": "2026-08-19T09:10:44.055Z"
   }
 ]
