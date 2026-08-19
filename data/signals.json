@@ -27945,5 +27945,150 @@
     "category": "community",
     "discovered": "2026-08-19T03:13:48.376Z",
     "published": "Wed, 19 Aug 2026 00:07:06 +0000"
+  },
+  {
+    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "title": "ChatGPT Ads expands across Europe",
+    "description": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-19T07:27:02.826Z",
+    "published": "Tue, 18 Aug 2026 22:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-19T07:29:38.965Z"
+  },
+  {
+    "url": "https://github.com/openai/codex/issues/39397",
+    "title": "CodeX v0.148.0 cannot use GPT-5.6 Sol",
+    "description": "Article URL: https://github.com/openai/codex/issues/39397\nComments URL: https://news.ycombinator.com/item?id=49358030\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T07:27:13.659Z",
+    "published": "Wed, 19 Aug 2026 07:15:26 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T07:29:38.965Z"
+  },
+  {
+    "url": "https://www.usatoday.com/story/life/health-wellness/2026/08/18/elder-fraud-ai-sandwich-generation-caregivers/90852035007/",
+    "title": "AI is accelerating elder fraud. Their kids are reckoning with the fallout",
+    "description": "Article URL: https://www.usatoday.com/story/life/health-wellness/2026/08/18/elder-fraud-ai-sandwich-generation-caregivers/90852035007/\nComments URL: https://news.ycombinator.com/item?id=49357950\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T07:27:13.659Z",
+    "published": "Wed, 19 Aug 2026 07:04:09 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T07:29:38.965Z"
+  },
+  {
+    "url": "https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/",
+    "title": "Young adults in the US are increasingly wary of AI, concerned it will take jobs",
+    "description": "Article URL: https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/\nComments URL: https://news.ycombinator.com/item?id=49357941\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T07:27:13.659Z",
+    "published": "Wed, 19 Aug 2026 07:03:34 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T07:29:38.965Z"
+  },
+  {
+    "url": "https://www.notion.com/blog/building-shared-memory-for-ai-agents-in-notion",
+    "title": "Building Shared Memory for AI Agents in Notion",
+    "description": "Article URL: https://www.notion.com/blog/building-shared-memory-for-ai-agents-in-notion\nComments URL: https://news.ycombinator.com/item?id=49357879\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T07:27:13.659Z",
+    "published": "Wed, 19 Aug 2026 06:55:20 +0000",
+    "processed": true,
+    "processedAt": "2026-08-19T07:29:38.965Z"
+  },
+  {
+    "url": "https://www.platformer.news/karpathy-llm-wiki-journalism-productivity/",
+    "title": "An LLM wiki changed how I work",
+    "description": "Article URL: https://www.platformer.news/karpathy-llm-wiki-journalism-productivity/\nComments URL: https://news.ycombinator.com/item?id=49357654\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T07:27:13.659Z",
+    "published": "Wed, 19 Aug 2026 06:27:57 +0000"
+  },
+  {
+    "url": "https://elizabethtai.com/2026/08/19/life-as-a-techwriter-in-the-ai-age/",
+    "title": "Excited and exhausted: life as a tech writer in the AI age",
+    "description": "Article URL: https://elizabethtai.com/2026/08/19/life-as-a-techwriter-in-the-ai-age/\nComments URL: https://news.ycombinator.com/item?id=49357621\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T07:27:13.659Z",
+    "published": "Wed, 19 Aug 2026 06:24:23 +0000"
+  },
+  {
+    "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+    "title": "Does AI stop children from learning?",
+    "description": "Article URL: https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning\nComments URL: https://news.ycombinator.com/item?id=49357530\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T07:27:13.659Z",
+    "published": "Wed, 19 Aug 2026 06:13:31 +0000"
+  },
+  {
+    "url": "https://block.xyz/inside/designing-ai-with-character-what-we-learned-building-berd",
+    "title": "Designing AI with character: what we learned building Berd",
+    "description": "Article URL: https://block.xyz/inside/designing-ai-with-character-what-we-learned-building-berd\nComments URL: https://news.ycombinator.com/item?id=49357223\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T07:27:13.659Z",
+    "published": "Wed, 19 Aug 2026 05:26:26 +0000"
+  },
+  {
+    "url": "https://slopornot.simplicated.dev",
+    "title": "Get feedback on your AI slop. no accounts",
+    "description": "Article URL: https://slopornot.simplicated.dev\nComments URL: https://news.ycombinator.com/item?id=49357213\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T07:27:13.659Z",
+    "published": "Wed, 19 Aug 2026 05:24:28 +0000"
+  },
+  {
+    "url": "https://github.com/paibyun9/EGA-V9",
+    "title": "Looking for an ArXiv Endorser – AI / Computer Science",
+    "description": "Article URL: https://github.com/paibyun9/EGA-V9\nComments URL: https://news.ycombinator.com/item?id=49357141\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T07:27:13.659Z",
+    "published": "Wed, 19 Aug 2026 05:15:32 +0000"
+  },
+  {
+    "url": "https://alicebraincore.web.app",
+    "title": "BYOKs for an LLM with a Brain",
+    "description": "Article URL: https://alicebraincore.web.app\nComments URL: https://news.ycombinator.com/item?id=49357139\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T07:27:13.659Z",
+    "published": "Wed, 19 Aug 2026 05:15:27 +0000"
+  },
+  {
+    "url": "https://github.com/Fake4d/claude-school",
+    "title": "Show HN: I made a comic series explaining Claude – Chat, Cowork, and Code",
+    "description": "Article URL: https://github.com/Fake4d/claude-school\nComments URL: https://news.ycombinator.com/item?id=49356989\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T07:27:13.659Z",
+    "published": "Wed, 19 Aug 2026 04:51:40 +0000"
+  },
+  {
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-company-hiring-a-literal-pirate-to-salvage-sunken-treasure-found-by-artificial-intelligence-pays-up-to-usd500k-a-year-mining-80-million-pages-of-spanish-colonial-records-to-find-undiscovered-wrecks-and-lost-cargo",
+    "title": "AI mines 500 years of Spanish colonial records to find hidden wrecks, lost cargo",
+    "description": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-company-hiring-a-literal-pirate-to-salvage-sunken-treasure-found-by-artificial-intelligence-pays-up-to-usd500k-a-year-mining-80-million-pages-of-spanish-colonial-records-to-find-undiscovered-wrecks-and-lost-cargo\nCom",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T07:27:13.659Z",
+    "published": "Wed, 19 Aug 2026 04:25:35 +0000"
+  },
+  {
+    "url": "https://github.com/YOalphabet/YOalphabet",
+    "title": "Show HN: 4bit bridge between AI and humans",
+    "description": "Article URL: https://github.com/YOalphabet/YOalphabet\nComments URL: https://news.ycombinator.com/item?id=49356777\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-19T07:27:13.659Z",
+    "published": "Wed, 19 Aug 2026 04:21:26 +0000"
   }
 ]
