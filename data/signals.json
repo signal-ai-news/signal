@@ -3779,7 +3779,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-23T20:47:28.301Z",
-    "published": "Thu, 23 Jul 2026 19:00:00 +0000"
+    "published": "Thu, 23 Jul 2026 19:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T21:59:33.941Z"
   },
   {
     "url": "https://www.theregister.com/ai-and-ml/2026/07/15/australia-demands-ai-companies-must-produce-more-energy-than-they-consume-stop-theft-of-content/5271535",
@@ -3843,7 +3845,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T00:15:15.823Z",
-    "published": "Thu, 23 Jul 2026 22:58:24 +0000"
+    "published": "Thu, 23 Jul 2026 22:58:24 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T21:59:33.941Z"
   },
   {
     "url": "https://lieu.house.gov/media-center/press-releases/reps-lieu-and-moran-introduce-bill-require-kill-switch-ai-systems-can",
@@ -3852,7 +3856,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T00:15:15.823Z",
-    "published": "Thu, 23 Jul 2026 22:12:35 +0000"
+    "published": "Thu, 23 Jul 2026 22:12:35 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T21:59:33.941Z"
   },
   {
     "url": "https://github.com/Amal-David/bookshelf",
@@ -3861,7 +3867,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T00:15:15.823Z",
-    "published": "Thu, 23 Jul 2026 22:06:47 +0000"
+    "published": "Thu, 23 Jul 2026 22:06:47 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T21:59:33.941Z"
   },
   {
     "url": "https://www.coveragecat.com/ai/leaderboard",
@@ -31374,5 +31382,16 @@
     "category": "community",
     "discovered": "2026-08-20T21:34:24.587Z",
     "published": "Thu, 20 Aug 2026 20:45:36 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2241260/apple-music-will-reportedly-label-any-ai-made-tracks-later-this-year/",
+    "title": "Apple Music will reportedly label any AI-made tracks later this year",
+    "description": "The upcoming feature expands its Transparency Tags for marking slop songs.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-20T21:57:29.652Z",
+    "published": "Thu, 20 Aug 2026 21:50:50 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T21:59:33.941Z"
   }
 ]
