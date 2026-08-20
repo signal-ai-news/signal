@@ -31430,5 +31430,123 @@
     "published": "Thu, 20 Aug 2026 22:00:00 +0000",
     "processed": true,
     "processedAt": "2026-08-20T22:37:07.563Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+    "description": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-20T22:58:40.867Z",
+    "published": "Thu, 20 Aug 2026 22:36:37 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T23:01:14.138Z"
+  },
+  {
+    "url": "https://github.com/opencyvis/opencyvis-phone",
+    "title": "OpenCyvis: An open-source AI phone agent that runs your own LLM",
+    "description": "Article URL: https://github.com/opencyvis/opencyvis-phone\nComments URL: https://news.ycombinator.com/item?id=49381419\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T22:58:47.451Z",
+    "published": "Thu, 20 Aug 2026 22:57:56 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T23:01:14.138Z"
+  },
+  {
+    "url": "https://arxiv.org/abs/2602.11865",
+    "title": "Intelligent AI Delegation",
+    "description": "Article URL: https://arxiv.org/abs/2602.11865\nComments URL: https://news.ycombinator.com/item?id=49381380\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T22:58:47.451Z",
+    "published": "Thu, 20 Aug 2026 22:54:06 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T23:01:14.138Z"
+  },
+  {
+    "url": "https://rails-agent.com/",
+    "title": "Is AI spend on OpenAI or Anthropic starting to eat into your runway?",
+    "description": "Article URL: https://rails-agent.com/\nComments URL: https://news.ycombinator.com/item?id=49381098\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T22:58:47.451Z",
+    "published": "Thu, 20 Aug 2026 22:23:16 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T23:01:14.138Z"
+  },
+  {
+    "url": "https://www.backblaze.com/blog/results-from-the-backblaze-generative-ai-media-hackathon/",
+    "title": "Results from the Backblaze Generative AI Media Hackathon",
+    "description": "Article URL: https://www.backblaze.com/blog/results-from-the-backblaze-generative-ai-media-hackathon/\nComments URL: https://news.ycombinator.com/item?id=49381062\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T22:58:47.451Z",
+    "published": "Thu, 20 Aug 2026 22:20:53 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T23:01:14.138Z"
+  },
+  {
+    "url": "https://medium.com/@vektormemory/the-case-for-agent-memory-why-the-future-of-ai-belongs-to-systems-that-can-self-learn-198c4d7bfa6f",
+    "title": "Why the Future of AI Belongs to Systems That Can Self-Learn",
+    "description": "Article URL: https://medium.com/@vektormemory/the-case-for-agent-memory-why-the-future-of-ai-belongs-to-systems-that-can-self-learn-198c4d7bfa6f\nComments URL: https://news.ycombinator.com/item?id=49381023\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T22:58:47.451Z",
+    "published": "Thu, 20 Aug 2026 22:17:42 +0000"
+  },
+  {
+    "url": "https://www.basecompute.co/local",
+    "title": "Show HN: Zero () friction local AI for Mac",
+    "description": "Super excited to launch our new app Local today. What we’ve learned at Base Compute over the last months is that running AI directly on your laptop or workstation gives you maximum privacy and it’s free, but it’s also a massive headache to configure. So we’ve decided what matters is making the expe",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T22:58:47.451Z",
+    "published": "Thu, 20 Aug 2026 22:13:31 +0000"
+  },
+  {
+    "url": "https://xcancel.com/antibot/captcha",
+    "title": "OpenWhip: whip Claude Code (CLI) into working faster",
+    "description": "Article URL: https://xcancel.com/antibot/captcha\nComments URL: https://news.ycombinator.com/item?id=49380855\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T22:58:47.451Z",
+    "published": "Thu, 20 Aug 2026 22:02:53 +0000"
+  },
+  {
+    "url": "http://blog.pamelafox.org/2026/08/browser-automation-with-pydantic-ai.html",
+    "title": "Browser automation agents with Pydantic AI and Playwright",
+    "description": "Article URL: http://blog.pamelafox.org/2026/08/browser-automation-with-pydantic-ai.html\nComments URL: https://news.ycombinator.com/item?id=49380852\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T22:58:47.451Z",
+    "published": "Thu, 20 Aug 2026 22:02:45 +0000"
+  },
+  {
+    "url": "https://zenodo.org/records/21969180",
+    "title": "I published 8 months of frontier-AI research, code, emails, and timestamps",
+    "description": "Article URL: https://zenodo.org/records/21969180\nComments URL: https://news.ycombinator.com/item?id=49380783\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T22:58:47.451Z",
+    "published": "Thu, 20 Aug 2026 21:54:22 +0000"
+  },
+  {
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/protesters-haul-a-guillotine-to-city-council-meeting-about-a-potential-ai-data-center-company-rep-cornered-by-protestors-it-no-longer-felt-safe-to-stay-developer-escorted-out-by-police",
+    "title": "Protesters haul a guillotine to city council meeting about an AI data center",
+    "description": "Article URL: https://www.tomshardware.com/tech-industry/data-centers/protesters-haul-a-guillotine-to-city-council-meeting-about-a-potential-ai-data-center-company-rep-cornered-by-protestors-it-no-longer-felt-safe-to-stay-developer-escorted-out-by-police\nComments URL: https://news.ycombinator.com/it",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T22:58:47.451Z",
+    "published": "Thu, 20 Aug 2026 21:53:37 +0000"
+  },
+  {
+    "url": "https://www.businessinsider.com/ai-brand-deals-chatgpt-claude-influencers-weigh-backlash-over-paychecks-2026-8",
+    "title": "Can influencers post AI ads without alienating their fans?",
+    "description": "Article URL: https://www.businessinsider.com/ai-brand-deals-chatgpt-claude-influencers-weigh-backlash-over-paychecks-2026-8\nComments URL: https://news.ycombinator.com/item?id=49380757\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T22:58:47.451Z",
+    "published": "Thu, 20 Aug 2026 21:51:31 +0000"
   }
 ]
