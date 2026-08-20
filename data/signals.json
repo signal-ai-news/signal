@@ -31156,5 +31156,105 @@
     "category": "news",
     "discovered": "2026-08-20T19:36:52.806Z",
     "published": "Thu, 20 Aug 2026 18:55:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/introducing-ai-futures",
+    "title": "Introducing AI Futures",
+    "description": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-20T20:35:47.754Z",
+    "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-20T20:38:21.014Z"
+  },
+  {
+    "url": "https://www.americanbar.org/groups/business_law/resources/business-law-today/2024-february/bc-tribunal-confirms-companies-remain-liable-information-provided-ai-chatbot/",
+    "title": "BC Tribunal: Companies Liable for Information Provided by AI Chatbot (2024)",
+    "description": "Article URL: https://www.americanbar.org/groups/business_law/resources/business-law-today/2024-february/bc-tribunal-confirms-companies-remain-liable-information-provided-ai-chatbot/\nComments URL: https://news.ycombinator.com/item?id=49379880\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T20:35:56.039Z",
+    "published": "Thu, 20 Aug 2026 20:33:09 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T20:38:21.014Z"
+  },
+  {
+    "url": "https://gertlabs.com/blog/adversarial-customer-service",
+    "title": "Creating Reliable AI for an Adversarial World",
+    "description": "Article URL: https://gertlabs.com/blog/adversarial-customer-service\nComments URL: https://news.ycombinator.com/item?id=49379846\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T20:35:56.039Z",
+    "published": "Thu, 20 Aug 2026 20:30:36 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T20:38:21.014Z"
+  },
+  {
+    "url": "https://meiert.com/blog/ai-and-tdd/",
+    "title": "AI-Driven Development Means Test-Driven Development",
+    "description": "Article URL: https://meiert.com/blog/ai-and-tdd/\nComments URL: https://news.ycombinator.com/item?id=49379618\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T20:35:56.039Z",
+    "published": "Thu, 20 Aug 2026 20:13:47 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T20:38:21.014Z"
+  },
+  {
+    "url": "https://www.inc.com/sam-blum/the-17000-domain-that-could-be-worth-70-million-just-became-an-ai-chatbot-instead-people-are-asking-why/91393038",
+    "title": "Why.com: A $17K domain held for 27 years becomes an AI curiosity engine",
+    "description": "Article URL: https://www.inc.com/sam-blum/the-17000-domain-that-could-be-worth-70-million-just-became-an-ai-chatbot-instead-people-are-asking-why/91393038\nComments URL: https://news.ycombinator.com/item?id=49379600\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T20:35:56.039Z",
+    "published": "Thu, 20 Aug 2026 20:12:07 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T20:38:21.014Z"
+  },
+  {
+    "url": "https://salable.substack.com/p/system-prompts-are-an-archive-of",
+    "title": "System prompts are an archive of how we use AI",
+    "description": "Article URL: https://salable.substack.com/p/system-prompts-are-an-archive-of\nComments URL: https://news.ycombinator.com/item?id=49379572\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T20:35:56.039Z",
+    "published": "Thu, 20 Aug 2026 20:09:47 +0000"
+  },
+  {
+    "url": "https://www.nature.com/articles/d41586-026-02551-z",
+    "title": "Staggering 90% of biomedical papers now show signs of AI help",
+    "description": "Article URL: https://www.nature.com/articles/d41586-026-02551-z\nComments URL: https://news.ycombinator.com/item?id=49379545\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T20:35:56.039Z",
+    "published": "Thu, 20 Aug 2026 20:07:06 +0000"
+  },
+  {
+    "url": "https://github.com/kenm47/oavl",
+    "title": "Use the OSS, Commit Back – OAVL – The Open Source AI Viability License",
+    "description": "Article URL: https://github.com/kenm47/oavl\nComments URL: https://news.ycombinator.com/item?id=49379398\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T20:35:56.039Z",
+    "published": "Thu, 20 Aug 2026 19:56:30 +0000"
+  },
+  {
+    "url": "https://openai.com/index/introducing-ai-futures/",
+    "title": "Introducing AI Futures",
+    "description": "Article URL: https://openai.com/index/introducing-ai-futures/\nComments URL: https://news.ycombinator.com/item?id=49379261\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T20:35:56.039Z",
+    "published": "Thu, 20 Aug 2026 19:46:49 +0000"
+  },
+  {
+    "url": "https://www.emcap.com/ai-native-services",
+    "title": "AI-Native Services: The Definitive Guide",
+    "description": "Article URL: https://www.emcap.com/ai-native-services\nComments URL: https://news.ycombinator.com/item?id=49379174\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T20:35:56.039Z",
+    "published": "Thu, 20 Aug 2026 19:40:55 +0000"
   }
 ]
