@@ -29868,5 +29868,87 @@
     "category": "community",
     "discovered": "2026-08-20T05:07:47.072Z",
     "published": "Thu, 20 Aug 2026 00:07:06 +0000"
+  },
+  {
+    "url": "https://www.dexerto.com/entertainment/florida-police-officer-accused-of-using-ai-flock-cameras-to-track-ex-wife-717-times-3400226/",
+    "title": "Florida police officer accused of using Flock AI cameras",
+    "description": "Article URL: https://www.dexerto.com/entertainment/florida-police-officer-accused-of-using-ai-flock-cameras-to-track-ex-wife-717-times-3400226/\nComments URL: https://news.ycombinator.com/item?id=49371587\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T07:58:28.027Z",
+    "published": "Thu, 20 Aug 2026 07:39:22 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T08:00:55.879Z"
+  },
+  {
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/20/bodies-ai-minds-history-technology-humans",
+    "title": "It used to be our imperfect bodies that made us insecure. With AI, its our minds",
+    "description": "Article URL: https://www.theguardian.com/commentisfree/2026/aug/20/bodies-ai-minds-history-technology-humans\nComments URL: https://news.ycombinator.com/item?id=49371527\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T07:58:28.027Z",
+    "published": "Thu, 20 Aug 2026 07:30:25 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T08:00:55.879Z"
+  },
+  {
+    "url": "https://github.com/CaydenChik/doover",
+    "title": "Show HN: Do-over, undo for AI agent shell commands",
+    "description": "Hello HN,I built this after a coding agent deleted my files while tidying a project. Do-over plugs into Claude Code's hooks and snapshots what a command is about to touch right before it runs.I know what you're thinking. Why don't you just commit more often?This tool doesn't seek to replace git. Wh",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T07:58:28.027Z",
+    "published": "Thu, 20 Aug 2026 06:42:36 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T08:00:55.879Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49371169",
+    "title": "AI is changing how we code. Is this positive?",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=49371169\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T07:58:28.027Z",
+    "published": "Thu, 20 Aug 2026 06:37:14 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T08:00:55.879Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49371163",
+    "title": "Ask HN: When will the AI bubble burst and eradicate all life in the planet?",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=49371163\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T07:58:28.027Z",
+    "published": "Thu, 20 Aug 2026 06:36:56 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T08:00:55.879Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49371156",
+    "title": "AI Is Changing How We Hac",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=49371156\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T07:58:28.027Z",
+    "published": "Thu, 20 Aug 2026 06:36:18 +0000"
+  },
+  {
+    "url": "https://rye.ai/blog/cot-faithfulness-reasoning-traces-not-audit-logs/",
+    "title": "LLM Reasoning Traces Are Not Audit Records",
+    "description": "Article URL: https://rye.ai/blog/cot-faithfulness-reasoning-traces-not-audit-logs/\nComments URL: https://news.ycombinator.com/item?id=49371034\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T07:58:28.027Z",
+    "published": "Thu, 20 Aug 2026 06:20:14 +0000"
+  },
+  {
+    "url": "https://webenclave.com/posts/bringing-a-microsoft-band-2-back-from-the-dead/",
+    "title": "Claude Revived My Microsoft Band 2",
+    "description": "Article URL: https://webenclave.com/posts/bringing-a-microsoft-band-2-back-from-the-dead/\nComments URL: https://news.ycombinator.com/item?id=49370598\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T07:58:28.027Z",
+    "published": "Thu, 20 Aug 2026 05:11:32 +0000"
   }
 ]
