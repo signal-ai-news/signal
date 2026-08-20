@@ -3900,7 +3900,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T00:15:15.823Z",
-    "published": "Thu, 23 Jul 2026 21:53:52 +0000"
+    "published": "Thu, 23 Jul 2026 21:53:52 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T23:34:08.418Z"
   },
   {
     "url": "https://github.com/highflame-ai/ai-factory",
@@ -3909,7 +3911,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T00:15:15.823Z",
-    "published": "Thu, 23 Jul 2026 21:45:05 +0000"
+    "published": "Thu, 23 Jul 2026 21:45:05 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T23:34:08.418Z"
   },
   {
     "url": "https://kalytera.dev/",
@@ -3918,7 +3922,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T00:15:15.823Z",
-    "published": "Thu, 23 Jul 2026 21:37:16 +0000"
+    "published": "Thu, 23 Jul 2026 21:37:16 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T23:34:08.418Z"
   },
   {
     "url": "https://www.nextplatform.com/hpc/2026/07/23/doe-fires-the-5-billion-starter-gun-for-its-ai-targeted-genesis-mission/5277061",
@@ -3927,7 +3933,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T00:15:15.823Z",
-    "published": "Thu, 23 Jul 2026 21:36:10 +0000"
+    "published": "Thu, 23 Jul 2026 21:36:10 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T23:34:08.418Z"
   },
   {
     "url": "https://www.svpg.com/the-ai-productivity-paradox/",
@@ -3936,7 +3944,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T00:15:15.823Z",
-    "published": "Thu, 23 Jul 2026 21:34:22 +0000"
+    "published": "Thu, 23 Jul 2026 21:34:22 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T23:34:08.418Z"
   },
   {
     "url": "https://www.mixfont.com/blog/ai-agents-dont-respect-font-licenses",
