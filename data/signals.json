@@ -30485,5 +30485,231 @@
     "category": "news",
     "discovered": "2026-08-20T14:10:33.147Z",
     "published": "Thu, 20 Aug 2026 12:00:01 GMT"
+  },
+  {
+    "url": "https://openai.com/index/stampli",
+    "title": "How ChatGPT Work helps Stampli move ideas to market",
+    "description": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-20T16:02:18.304Z",
+    "published": "Thu, 20 Aug 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-20T16:04:56.018Z"
+  },
+  {
+    "url": "https://www.isaksky.com/posts/dripsharp-java-to-csharp-source-converter/",
+    "title": "DripSharp: Building a Java-to-C# source converter with AI",
+    "description": "Article URL: https://www.isaksky.com/posts/dripsharp-java-to-csharp-source-converter/\nComments URL: https://news.ycombinator.com/item?id=49376397\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T16:02:27.892Z",
+    "published": "Thu, 20 Aug 2026 15:55:55 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T16:04:56.018Z"
+  },
+  {
+    "url": "https://www.criticalschedule.com",
+    "title": "Project management with schedule aware AI copilot",
+    "description": "Article URL: https://www.criticalschedule.com\nComments URL: https://news.ycombinator.com/item?id=49376346\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T16:02:27.892Z",
+    "published": "Thu, 20 Aug 2026 15:52:28 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T16:04:56.018Z"
+  },
+  {
+    "url": "https://alex-jacobs.com/posts/claudemd/",
+    "title": "I Am Morally Opposed to Updating My Claude.md",
+    "description": "Article URL: https://alex-jacobs.com/posts/claudemd/\nComments URL: https://news.ycombinator.com/item?id=49376287\nPoints: 18\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T16:02:27.892Z",
+    "published": "Thu, 20 Aug 2026 15:47:48 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T16:04:56.018Z"
+  },
+  {
+    "url": "https://www.databricks.com/blog/evaluating-ai-agents-live-grounded-reasoning-cup",
+    "title": "Evaluating AI Agents Live at the Grounded Reasoning Cup",
+    "description": "Article URL: https://www.databricks.com/blog/evaluating-ai-agents-live-grounded-reasoning-cup\nComments URL: https://news.ycombinator.com/item?id=49376261\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T16:02:27.892Z",
+    "published": "Thu, 20 Aug 2026 15:46:09 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T16:04:56.018Z"
+  },
+  {
+    "url": "https://epho.io",
+    "title": "Show HN: Epho – run Claude Code with a curl",
+    "description": "Hey folks, Burak here.Epho is an API that allows running Claude Code, Codex or Opencode in a sandbox in the cloud. It abstracts away sandboxes, and allows running coding agents with a single HTTP request.Epho came out of our own struggles with building our own AI analyst:\n- Sandboxes give you bare",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T16:02:27.892Z",
+    "published": "Thu, 20 Aug 2026 15:45:51 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=P0GXwKlg3pU",
+    "title": "(LLM Cluster) I spent all my money on broken Steam Decks [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=P0GXwKlg3pU\nComments URL: https://news.ycombinator.com/item?id=49376251\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T16:02:27.892Z",
+    "published": "Thu, 20 Aug 2026 15:45:42 +0000"
+  },
+  {
+    "url": "https://hbr.org/2026/08/ai-is-undermining-leaders-judgment-heres-what-to-do-about-it",
+    "title": "AI Is Undermining Leaders' Judgment. Here's What to Do About It",
+    "description": "Article URL: https://hbr.org/2026/08/ai-is-undermining-leaders-judgment-heres-what-to-do-about-it\nComments URL: https://news.ycombinator.com/item?id=49376089\nPoints: 7\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T16:02:27.892Z",
+    "published": "Thu, 20 Aug 2026 15:33:40 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49376007",
+    "title": "Ask HN: Is AI the New Spreadsheet?",
+    "description": "Spreadsheets became and still are prolific for individuals and teams to create simple “apps.”I wonder how much of that is moving over to things like cowork or codex type apps.Personally, and anecdotally, my spreadsheet use has dropped immensely since starting to use these tools.Thoughts?\n\nComments",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T16:02:27.892Z",
+    "published": "Thu, 20 Aug 2026 15:26:44 +0000"
+  },
+  {
+    "url": "https://github.com/zachahn/vomit",
+    "title": "Clean up Claude 5's token vomit with a separate LLM",
+    "description": "Article URL: https://github.com/zachahn/vomit\nComments URL: https://news.ycombinator.com/item?id=49375996\nPoints: 19\n# Comments: 5",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T16:02:27.892Z",
+    "published": "Thu, 20 Aug 2026 15:26:02 +0000"
+  },
+  {
+    "url": "https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai",
+    "title": "UC Berkeley professor admits to using AI to edit op-ed on students' math skills",
+    "description": "Article URL: https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai\nComments URL: https://news.ycombinator.com/item?id=49375942\nPoints: 4\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T16:02:27.892Z",
+    "published": "Thu, 20 Aug 2026 15:22:57 +0000"
+  },
+  {
+    "url": "https://zachahn.com/posts/1787191554",
+    "title": "How to fix Claude 5's token vomit",
+    "description": "Article URL: https://zachahn.com/posts/1787191554\nComments URL: https://news.ycombinator.com/item?id=49375780\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T16:02:27.892Z",
+    "published": "Thu, 20 Aug 2026 15:11:18 +0000"
+  },
+  {
+    "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+    "title": "Anti-AI fonts are useless and harmful",
+    "description": "Article URL: https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/\nComments URL: https://news.ycombinator.com/item?id=49375719\nPoints: 8\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T16:02:27.892Z",
+    "published": "Thu, 20 Aug 2026 15:06:53 +0000"
+  },
+  {
+    "url": "https://github.com/govarthenan/islp-epub",
+    "title": "Show HN: ISLP textbook rebuilt from PDF into ePub, using Claude Code",
+    "description": "Article URL: https://github.com/govarthenan/islp-epub\nComments URL: https://news.ycombinator.com/item?id=49375661\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T16:02:27.892Z",
+    "published": "Thu, 20 Aug 2026 15:03:18 +0000"
+  },
+  {
+    "url": "https://app.verbagpt.com",
+    "title": "Show HN: LLM-enabled large data analysis",
+    "description": "Article URL: https://app.verbagpt.com\nComments URL: https://news.ycombinator.com/item?id=49375513\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T16:02:27.892Z",
+    "published": "Thu, 20 Aug 2026 14:55:29 +0000"
+  },
+  {
+    "url": "https://www.qawolf.com/blog/code-factories-without-quality",
+    "title": "Code Factories Without Quality: The AI Development Blind Spot",
+    "description": "Article URL: https://www.qawolf.com/blog/code-factories-without-quality\nComments URL: https://news.ycombinator.com/item?id=49375253\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T16:02:27.892Z",
+    "published": "Thu, 20 Aug 2026 14:39:10 +0000"
+  },
+  {
+    "url": "https://generray.substack.com/p/is-claude-code-a-bad-harness",
+    "title": "Is Claude Code a bad harness?",
+    "description": "Article URL: https://generray.substack.com/p/is-claude-code-a-bad-harness\nComments URL: https://news.ycombinator.com/item?id=49375195\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T16:02:27.892Z",
+    "published": "Thu, 20 Aug 2026 14:36:28 +0000"
+  },
+  {
+    "url": "https://seedstr.app",
+    "title": "I built AI tool to find the right VCs and it saved me weeks",
+    "description": "Article URL: https://seedstr.app\nComments URL: https://news.ycombinator.com/item?id=49375055\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T16:02:27.892Z",
+    "published": "Thu, 20 Aug 2026 14:27:42 +0000"
+  },
+  {
+    "url": "https://mypassage.ai/",
+    "title": "Passage AI: an AI trip planner that turns into a live guide when you land",
+    "description": "Article URL: https://mypassage.ai/\nComments URL: https://news.ycombinator.com/item?id=49375012\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T16:02:27.892Z",
+    "published": "Thu, 20 Aug 2026 14:25:01 +0000"
+  },
+  {
+    "url": "https://josephthacker.com/hacking/2026/08/20/using-genius-hacking-models-for-important-things.html",
+    "title": "Using Genius AI Models for Important Things: Cheating at NetHack",
+    "description": "Article URL: https://josephthacker.com/hacking/2026/08/20/using-genius-hacking-models-for-important-things.html\nComments URL: https://news.ycombinator.com/item?id=49374980\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T16:02:27.892Z",
+    "published": "Thu, 20 Aug 2026 14:22:17 +0000"
+  },
+  {
+    "url": "https://github.com/seoskillsai/seo-skills-ai",
+    "title": "SEO Skills AI – Universal Open-Source SEO Agent for Claude, Cursor, Windsurf",
+    "description": "Article URL: https://github.com/seoskillsai/seo-skills-ai\nComments URL: https://news.ycombinator.com/item?id=49374824\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T16:02:27.892Z",
+    "published": "Thu, 20 Aug 2026 14:11:51 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/three-kinds-of-rag-corpus-and-what-it-costs-to-build-for-the-wrong-one/",
+    "title": "Three Kinds of RAG Corpus, and What It Costs to Build for the Wrong One",
+    "description": "Enterprise Document Intelligence [Vol.1 #14A] - Three questions tell you which shape a document collection has, and each shape wants a different architecture\nThe post Three Kinds of RAG Corpus, and What It Costs to Build for the Wrong One appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-20T16:02:33.836Z",
+    "published": "Thu, 20 Aug 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/roborock-q7-m5-review/",
+    "title": "Roborock Q7 M5+ review: A capable budget robot vacuum that nails the fundamentals",
+    "description": "The Q7 M5+ is a strong value robot vacuum for households that want reliable mapping and an auto-empty dock without flagship pricing.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-20T16:02:48.906Z",
+    "published": "Thu, 20 Aug 2026 16:00:55 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2240331/crunchyroll-appning-by-forvia-stream-on-car-infotainment-system/",
+    "title": "You can soon stream Crunchyroll on your car's infotainment system",
+    "description": "The Crunchyroll anime streaming service has started appearing on the Appning app store.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-20T16:02:49.535Z",
+    "published": "Thu, 20 Aug 2026 15:30:00 +0000"
   }
 ]
