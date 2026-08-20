@@ -29732,5 +29732,141 @@
     "category": "community",
     "discovered": "2026-08-19T23:51:44.285Z",
     "published": "Wed, 19 Aug 2026 22:58:44 +0000"
+  },
+  {
+    "url": "https://www.politico.com/newsletters/politico-influence/2026/08/19/a-rare-setback-for-cryptos-midterm-machine-01042044",
+    "title": "Crypto's (and AI's) midterm PAC machine",
+    "description": "Article URL: https://www.politico.com/newsletters/politico-influence/2026/08/19/a-rare-setback-for-cryptos-midterm-machine-01042044\nComments URL: https://news.ycombinator.com/item?id=49370228\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T05:07:47.072Z",
+    "published": "Thu, 20 Aug 2026 03:58:56 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T05:10:22.212Z"
+  },
+  {
+    "url": "https://www.rsolitario.com/scaling-rag-building-an-efficient-pipeline-for-500k-chunks-with-gemini-2-5-and-context-caching/",
+    "title": "Scaling RAG building an efficient pipeline for 500k chunks with Gemini",
+    "description": "Article URL: https://www.rsolitario.com/scaling-rag-building-an-efficient-pipeline-for-500k-chunks-with-gemini-2-5-and-context-caching/\nComments URL: https://news.ycombinator.com/item?id=49370221\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T05:07:47.072Z",
+    "published": "Thu, 20 Aug 2026 03:58:22 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T05:10:22.212Z"
+  },
+  {
+    "url": "http://johnli.work/posts/do-we-still-need-database-management-tools-when-ai-can-write-sql/",
+    "title": "Do We Still Need Database Management Tools When AI Can Write SQL?",
+    "description": "Article URL: http://johnli.work/posts/do-we-still-need-database-management-tools-when-ai-can-write-sql/\nComments URL: https://news.ycombinator.com/item?id=49370037\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T05:07:47.072Z",
+    "published": "Thu, 20 Aug 2026 03:24:31 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T05:10:22.212Z"
+  },
+  {
+    "url": "https://www.archron.app/",
+    "title": "Show HN: AI agents can now safely write to your CRMs",
+    "description": "Hi HN!Just wanted to share that I've built Archron - Execution governance for AI in business. It allows agents to safely write to CRMs(starting from Salesforce and hubspot) while maintaining immutable audit logs.Demo:\nhttps://youtu.be/uUTWGwJjpdAWould love to hear your thoughts about this and feedb",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T05:07:47.072Z",
+    "published": "Thu, 20 Aug 2026 03:17:08 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T05:10:22.212Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49369710",
+    "title": "Does anyone find AI code review useful?",
+    "description": "I’m genuinely trying to understand the point of AI code review.Once an LLM generated change gets into a few hundreds or thousands of lines, a human reviewer can barely read the whole thing in any meaningful way. And even if they can, why should they spend their time reviewing thousands of lines gen",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T05:07:47.072Z",
+    "published": "Thu, 20 Aug 2026 02:24:07 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T05:10:22.212Z"
+  },
+  {
+    "url": "https://aiomniu.top/services/resume-screening",
+    "title": "Show HN: AI Resume Screening – Looking for feedback from recruiters",
+    "description": "In addition to the resume creation tool we mentioned in our previous post, we've also developed an AI-powered resume screening tool to complement our overall ecosystem. This tool aims to help recruitment teams efficiently review hundreds of resumes without relying on keyword matching.This tool help",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T05:07:47.072Z",
+    "published": "Thu, 20 Aug 2026 02:17:09 +0000"
+  },
+  {
+    "url": "https://twitter.com/ClaudeDevs/status/2090245922685063634",
+    "title": "Claude Code adds new \"concise\" output style setting",
+    "description": "Article URL: https://twitter.com/ClaudeDevs/status/2090245922685063634\nComments URL: https://news.ycombinator.com/item?id=49369546\nPoints: 6\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T05:07:47.072Z",
+    "published": "Thu, 20 Aug 2026 01:49:57 +0000"
+  },
+  {
+    "url": "https://medium.com/@aadvait.cr/how-misconfigured-admin-system-prompts-can-invert-every-single-llm-safety-layer-1085a1d79b55",
+    "title": "Misconfigured Admin System Prompts Can Invert an LLM's Safety Layer",
+    "description": "Article URL: https://medium.com/@aadvait.cr/how-misconfigured-admin-system-prompts-can-invert-every-single-llm-safety-layer-1085a1d79b55\nComments URL: https://news.ycombinator.com/item?id=49369538\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T05:07:47.072Z",
+    "published": "Thu, 20 Aug 2026 01:48:42 +0000"
+  },
+  {
+    "url": "https://betocmn.com/blog/credentialism-is-coming-for-ai-agents/",
+    "title": "Credentialism is coming for AI agents",
+    "description": "Article URL: https://betocmn.com/blog/credentialism-is-coming-for-ai-agents/\nComments URL: https://news.ycombinator.com/item?id=49369402\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T05:07:47.072Z",
+    "published": "Thu, 20 Aug 2026 01:27:46 +0000"
+  },
+  {
+    "url": "https://www.lennysnewsletter.com/p/how-to-use-ai-in-your-next-job-interview",
+    "title": "How to use AI for your next job interview",
+    "description": "Article URL: https://www.lennysnewsletter.com/p/how-to-use-ai-in-your-next-job-interview\nComments URL: https://news.ycombinator.com/item?id=49369333\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T05:07:47.072Z",
+    "published": "Thu, 20 Aug 2026 01:18:17 +0000"
+  },
+  {
+    "url": "https://spectrum.ieee.org/ai-cpu-comeback",
+    "title": "Agentic AI has made CPUs the new performance bottleneck",
+    "description": "Article URL: https://spectrum.ieee.org/ai-cpu-comeback\nComments URL: https://news.ycombinator.com/item?id=49369311\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T05:07:47.072Z",
+    "published": "Thu, 20 Aug 2026 01:14:05 +0000"
+  },
+  {
+    "url": "https://www.gadgetreview.com/round-hill-music-sues-suno-and-anthropic-for-1-billion-over-ai-training-data",
+    "title": "Round Hill Music Sues Suno and Anthropic for $1B over AI Training Data",
+    "description": "Article URL: https://www.gadgetreview.com/round-hill-music-sues-suno-and-anthropic-for-1-billion-over-ai-training-data\nComments URL: https://news.ycombinator.com/item?id=49369063\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T05:07:47.072Z",
+    "published": "Thu, 20 Aug 2026 00:40:14 +0000"
+  },
+  {
+    "url": "https://reachpad.dev/blog/gemini-3-7-flash",
+    "title": "Make shareable software for free using Gemini 3.7 flash on Reachpad",
+    "description": "Article URL: https://reachpad.dev/blog/gemini-3-7-flash\nComments URL: https://news.ycombinator.com/item?id=49368932\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T05:07:47.072Z",
+    "published": "Thu, 20 Aug 2026 00:21:24 +0000"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
+    "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
+    "description": "Article URL: https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/\nComments URL: https://news.ycombinator.com/item?id=49368840\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T05:07:47.072Z",
+    "published": "Thu, 20 Aug 2026 00:07:06 +0000"
   }
 ]
