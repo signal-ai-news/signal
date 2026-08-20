@@ -30250,5 +30250,240 @@
     "category": "news",
     "discovered": "2026-08-20T11:59:44.793Z",
     "published": "Thu, 20 Aug 2026 11:49:14 GMT"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+    "title": "Meta AI’s new Mac app wants you to talk to your apps",
+    "description": "Meta said its Muse Spark model is powering the dictation feature.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-20T14:09:56.771Z",
+    "published": "Thu, 20 Aug 2026 12:11:57 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T14:12:40.447Z"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+    "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+    "description": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-08-20T14:09:57.746Z",
+    "published": "Thu, 20 Aug 2026 13:00:35 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T14:12:40.447Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+    "title": "The Download: polycrisis support networks and a hydrogen gold rush",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000s, six-year-old Pim Sullivan-Tailyour was sitting in the back of a c",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-20T14:09:58.314Z",
+    "published": "Thu, 20 Aug 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T14:12:40.447Z"
+  },
+  {
+    "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+    "title": "Hacking with Claude on a $27 Smart Watch",
+    "description": "Article URL: https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html\nComments URL: https://news.ycombinator.com/item?id=49374772\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T14:10:12.029Z",
+    "published": "Thu, 20 Aug 2026 14:08:09 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T14:12:40.447Z"
+  },
+  {
+    "url": "https://www.theregister.com/security/2026/08/19/not-a-theoretical-risk-feds-warn-as-attackers-use-ai-made-code-to-hack-critical-infrastructure-controllers/5289960",
+    "title": "'Not a theoretical risk,' feds warn as attackers use AI-made code",
+    "description": "Article URL: https://www.theregister.com/security/2026/08/19/not-a-theoretical-risk-feds-warn-as-attackers-use-ai-made-code-to-hack-critical-infrastructure-controllers/5289960\nComments URL: https://news.ycombinator.com/item?id=49374743\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T14:10:12.029Z",
+    "published": "Thu, 20 Aug 2026 14:05:13 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T14:12:40.447Z"
+  },
+  {
+    "url": "https://sgoedecke.github.io/watermark-quiz/",
+    "title": "Guess which of these LLM outputs is watermarked",
+    "description": "Article URL: https://sgoedecke.github.io/watermark-quiz/\nComments URL: https://news.ycombinator.com/item?id=49374729\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T14:10:12.029Z",
+    "published": "Thu, 20 Aug 2026 14:03:58 +0000"
+  },
+  {
+    "url": "https://github.com/agentnameservice",
+    "title": "A registry and transparency log for discovering and verifying AI agents by name",
+    "description": "Article URL: https://github.com/agentnameservice\nComments URL: https://news.ycombinator.com/item?id=49374727\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T14:10:12.029Z",
+    "published": "Thu, 20 Aug 2026 14:03:42 +0000"
+  },
+  {
+    "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+    "title": "Texas student blew the whistle on a rogue AI hacking attempt",
+    "description": "Article URL: https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/\nComments URL: https://news.ycombinator.com/item?id=49374547\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T14:10:12.029Z",
+    "published": "Thu, 20 Aug 2026 13:49:00 +0000"
+  },
+  {
+    "url": "https://olegivye.com/#/article/llassembly-cli-mermaid",
+    "title": "Mermaid as the Orchestration Layer for Claude Dynamic Workflows",
+    "description": "Article URL: https://olegivye.com/#/article/llassembly-cli-mermaid\nComments URL: https://news.ycombinator.com/item?id=49374539\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T14:10:12.029Z",
+    "published": "Thu, 20 Aug 2026 13:48:04 +0000"
+  },
+  {
+    "url": "https://www.ft.com/content/0fdb094c-fc03-4d3c-8da6-bd11af88ff63",
+    "title": "Google strikes $12B AI chip deal with Marvell to develop TPUs",
+    "description": "Article URL: https://www.ft.com/content/0fdb094c-fc03-4d3c-8da6-bd11af88ff63\nComments URL: https://news.ycombinator.com/item?id=49374524\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T14:10:12.029Z",
+    "published": "Thu, 20 Aug 2026 13:46:48 +0000"
+  },
+  {
+    "url": "https://www.theguardian.com/society/2026/aug/20/yorkshire-rotherham-ai-gp-receptionist-cannot-understand-accent",
+    "title": "Frustrated GP patients hang up as Yorkshire accent baffles AI receptionist",
+    "description": "Article URL: https://www.theguardian.com/society/2026/aug/20/yorkshire-rotherham-ai-gp-receptionist-cannot-understand-accent\nComments URL: https://news.ycombinator.com/item?id=49374304\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T14:10:12.029Z",
+    "published": "Thu, 20 Aug 2026 13:26:37 +0000"
+  },
+  {
+    "url": "https://twitter.com/swombat/status/2090421410887880771",
+    "title": "Relationship Engineering: the fifth phase of building with AI",
+    "description": "Article URL: https://twitter.com/swombat/status/2090421410887880771\nComments URL: https://news.ycombinator.com/item?id=49374235\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T14:10:12.029Z",
+    "published": "Thu, 20 Aug 2026 13:19:23 +0000"
+  },
+  {
+    "url": "https://llmstatus.ai",
+    "title": "Show HN: Find every AI model your code calls and warn before it's retired",
+    "description": "Article URL: https://llmstatus.ai\nComments URL: https://news.ycombinator.com/item?id=49374169\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T14:10:12.029Z",
+    "published": "Thu, 20 Aug 2026 13:12:55 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49373930",
+    "title": "Idea to reduce AI token use at large orgs",
+    "description": "There must be many near-identical repeats of high-token tasks.Perhaps for high-token tasks, first an automated search of prior work within the firm, parsing what's already done or not done, and only prompting AI for the new components, then assembling the components before serving to the user.If le",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T14:10:12.029Z",
+    "published": "Thu, 20 Aug 2026 12:50:10 +0000"
+  },
+  {
+    "url": "https://www.campaignindia.in/article/linkedin-cracks-down-on-automated-content-with-new-seems-like-ai-slop-detection-button/43e4tn3qyq543rpam874wksjn3",
+    "title": "LinkedIn cracks down on automated content with AI detection button",
+    "description": "Article URL: https://www.campaignindia.in/article/linkedin-cracks-down-on-automated-content-with-new-seems-like-ai-slop-detection-button/43e4tn3qyq543rpam874wksjn3\nComments URL: https://news.ycombinator.com/item?id=49373851\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T14:10:12.029Z",
+    "published": "Thu, 20 Aug 2026 12:42:42 +0000"
+  },
+  {
+    "url": "https://github.com/magiclex/languageme",
+    "title": "Show HN: Languageme – Learning new languages with Claude Code by dripping",
+    "description": "Article URL: https://github.com/magiclex/languageme\nComments URL: https://news.ycombinator.com/item?id=49373850\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T14:10:12.029Z",
+    "published": "Thu, 20 Aug 2026 12:42:34 +0000"
+  },
+  {
+    "url": "https://www.ft.com/content/a9947be4-5c0c-47ee-acae-a2aeaf01a0a0",
+    "title": "Financial Times: AI hasn't gone rogue. It's worse than that",
+    "description": "Article URL: https://www.ft.com/content/a9947be4-5c0c-47ee-acae-a2aeaf01a0a0\nComments URL: https://news.ycombinator.com/item?id=49373756\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T14:10:12.029Z",
+    "published": "Thu, 20 Aug 2026 12:34:21 +0000"
+  },
+  {
+    "url": "https://www.theregister.com/security/2026/08/20/ai-agent-suggested-installing-a-malware-package-engineer-almost-took-its-advice/5289849",
+    "title": "AI agent suggested installing a malware package. Engineer almost took its advice",
+    "description": "Article URL: https://www.theregister.com/security/2026/08/20/ai-agent-suggested-installing-a-malware-package-engineer-almost-took-its-advice/5289849\nComments URL: https://news.ycombinator.com/item?id=49373479\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T14:10:12.029Z",
+    "published": "Thu, 20 Aug 2026 12:07:07 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2603.27017",
+    "title": "Google's AI photoscanner can determine body fat through selfies",
+    "description": "Article URL: https://arxiv.org/abs/2603.27017\nComments URL: https://news.ycombinator.com/item?id=49373473\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T14:10:12.029Z",
+    "published": "Thu, 20 Aug 2026 12:06:37 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49373445",
+    "title": "Ask HN: What AI automations have you kept running in production?",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=49373445\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-20T14:10:12.029Z",
+    "published": "Thu, 20 Aug 2026 12:03:31 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-fine-tune-an-llm-an-end-to-end-guide/",
+    "title": "How to Fine-Tune an LLM: An End-to-End Guide",
+    "description": "A hands-on guide to fine-tuning LLMs for the real world\nThe post How to Fine-Tune an LLM: An End-to-End Guide appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-20T14:10:17.784Z",
+    "published": "Thu, 20 Aug 2026 13:30:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/frontier-radar-4-china-has-caught-up-so-whats-left-of-the-western-ai-lead/",
+    "title": "Frontier Radar #4: China has caught up, so what's left of the Western AI lead?",
+    "description": "Kimi K3 and GLM-5.3 are now within striking distance of the best US models. Western labs blame distillation, and there's real evidence for it. But guilty or not, the conclusion is the same: a model lead can't be defended. This issue looks at what can.\nThe article Frontier Radar #4: China ha",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-20T14:10:19.633Z",
+    "published": "Thu, 20 Aug 2026 14:08:14 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/gen-1-5-generalist-ai-teaches-robots-new-tasks-from-a-single-demo/",
+    "title": "GEN-1.5: Generalist AI teaches robots new tasks from a single demo",
+    "description": "Robotics startup Generalist AI has unveiled GEN-1.5, an AI model that teaches robots new tasks from a single demonstration.\nThe article GEN-1.5: Generalist AI teaches robots new tasks from a single demo appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-20T14:10:19.633Z",
+    "published": "Thu, 20 Aug 2026 12:35:52 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/ki-pioneer-sutton-calls-synthetic-data-a-big-mistake-in-the-face-of-an-infinitely-complex-world/",
+    "title": "KI-Pioneer Sutton calls synthetic data a \"big mistake\" in the face of an infinitely complex world",
+    "description": "Turing Award winner Richard Sutton calls synthetic data a \"big mistake\" for scaling large language models. The world is infinitely complex, and any simulation of it is \"microscopic,\" with human expertise acting as a bottleneck that blocks real scaling. Sutton's alternative is agents that le",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-20T14:10:19.633Z",
+    "published": "Thu, 20 Aug 2026 12:14:07 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/best-and-worst-ai-for-your-privacy-ranked/",
+    "title": "The best and worst AI for your privacy, ranked - and how each handles your data",
+    "description": "Incogni researchers analyze 13 AI platforms and the potential risks they each pose to your privacy. The larger the platform, the bigger the risk - with one exception.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-20T14:10:33.147Z",
+    "published": "Thu, 20 Aug 2026 12:00:01 GMT"
   }
 ]
