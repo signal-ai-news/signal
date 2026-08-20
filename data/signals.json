@@ -30711,5 +30711,78 @@
     "category": "news",
     "discovered": "2026-08-20T16:02:49.535Z",
     "published": "Thu, 20 Aug 2026 15:30:00 +0000"
+  },
+  {
+    "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-08-20T17:15:22.267Z",
+    "published": "Thu, 20 Aug 2026 16:52:57 GMT",
+    "processed": true,
+    "processedAt": "2026-08-20T17:18:07.248Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+    "title": "Ramp launches its own AI model router, called Router",
+    "description": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-20T17:15:23.385Z",
+    "published": "Thu, 20 Aug 2026 16:46:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T17:18:07.248Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+    "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+    "description": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-20T17:15:23.385Z",
+    "published": "Thu, 20 Aug 2026 16:07:26 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T17:18:07.248Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+    "title": "Debates over AI consciousness are a trap",
+    "description": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman”",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-20T17:15:24.525Z",
+    "published": "Thu, 20 Aug 2026 15:42:39 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T17:18:07.248Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/the-llm-judge-that-kept-agreeing-with-itself/",
+    "title": "The LLM Judge That Kept Agreeing With Itself",
+    "description": "What a production incident taught me about trusting a model to judge another model's work\nThe post The LLM Judge That Kept Agreeing With Itself appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-20T17:15:46.202Z",
+    "published": "Thu, 20 Aug 2026 16:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T17:18:07.248Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/google-more-control-over-discover-feed-algorithm/",
+    "title": "Google will let you tailor your Discover feed using natural language now",
+    "description": "If you're not happy with the algorithm on your Discover page, you can now tell Google what you want in your own words.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-20T17:16:00.346Z",
+    "published": "Thu, 20 Aug 2026 16:08:45 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2240929/trailer-sega-golden-axe-animated-series/",
+    "title": "A trailer for the Golden Axe animated series is full of self-referencing jokes",
+    "description": "The adaptation of Sega&#39;s classic games hits Paramount+ on September 16.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-20T17:16:00.974Z",
+    "published": "Thu, 20 Aug 2026 16:35:23 +0000"
   }
 ]
