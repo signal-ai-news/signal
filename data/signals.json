@@ -3768,7 +3768,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-23T20:47:28.301Z",
-    "published": "Thu, 23 Jul 2026 19:20:54 +0000"
+    "published": "Thu, 23 Jul 2026 19:20:54 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T18:00:51.036Z"
   },
   {
     "url": "https://www.engadget.com/2221938/claude-voice-mode-just-got-smarter/",
@@ -30784,5 +30786,49 @@
     "category": "news",
     "discovered": "2026-08-20T17:16:00.974Z",
     "published": "Thu, 20 Aug 2026 16:35:23 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+    "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+    "description": "ChatGPT and other AI models are now authoring and editing much of the new web.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-20T17:58:13.306Z",
+    "published": "Thu, 20 Aug 2026 17:18:58 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T18:00:51.037Z"
+  },
+  {
+    "url": "https://the-decoder.com/llms-could-write-like-humans-but-post-training-guardrails-make-their-text-detectable/",
+    "title": "LLMs could write like humans but post-training guardrails make their text detectable",
+    "description": "LLMs don't write in a recognizable style because they can't do better. Post-training and safety guardrails sharply narrow their expressive range, argues Pangram CTO Bradley Emi. Base models without these constraints already write with far more variety.\nThe article LLMs could write like huma",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-20T17:58:27.796Z",
+    "published": "Thu, 20 Aug 2026 17:36:51 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T18:00:51.037Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/apples-smart-home-leaked-product-list/",
+    "title": "Apple's smart home springs a leak - here's everything we expect to see in September",
+    "description": "We're already waiting for the new gen-AI-powered Siri, but a home hub may be on the way as well.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-20T17:58:43.329Z",
+    "published": "Thu, 20 Aug 2026 17:46:57 GMT",
+    "processed": true,
+    "processedAt": "2026-08-20T18:00:51.037Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/why-replacing-staff-with-ai-backfires-and-how-smart-leaders-generate-real-value-instead/",
+    "title": "Why replacing staff with AI backfires - and 5 ways smart leaders generate real value instead",
+    "description": "Three-quarters of organizations have found AI layoffs cost more than they saved, and as many as nine in 10 companies would rethink them given the chance.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-20T17:58:43.329Z",
+    "published": "Thu, 20 Aug 2026 17:34:55 GMT",
+    "processed": true,
+    "processedAt": "2026-08-20T18:00:51.037Z"
   }
 ]
