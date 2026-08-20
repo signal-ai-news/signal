@@ -3878,7 +3878,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T00:15:15.823Z",
-    "published": "Thu, 23 Jul 2026 22:03:26 +0000"
+    "published": "Thu, 23 Jul 2026 22:03:26 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T22:37:07.562Z"
   },
   {
     "url": "https://www.immaculateconstellation.info/why-ai-challenges-us-part-2-ego-pure-awareness-and-the-illusion-of-ascent/",
@@ -3887,7 +3889,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T00:15:15.823Z",
-    "published": "Thu, 23 Jul 2026 21:55:42 +0000"
+    "published": "Thu, 23 Jul 2026 21:55:42 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T22:37:07.562Z"
   },
   {
     "url": "https://arxiv.org/abs/2603.22404",
@@ -31393,5 +31397,38 @@
     "published": "Thu, 20 Aug 2026 21:50:50 +0000",
     "processed": true,
     "processedAt": "2026-08-20T21:59:33.941Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+    "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+    "description": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-20T22:34:34.096Z",
+    "published": "Thu, 20 Aug 2026 22:09:51 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T22:37:07.563Z"
+  },
+  {
+    "url": "https://www.engadget.com/2241272/github-says-commits-have-doubled-in-the-last-four-months/",
+    "title": "GitHub says commits have doubled in the last four months",
+    "description": "The new traffic peak caused &#34;capacity failures&#34; that led to the developer platform&#39;s recent outage.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-20T22:35:01.407Z",
+    "published": "Thu, 20 Aug 2026 22:26:02 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T22:37:07.563Z"
+  },
+  {
+    "url": "https://www.engadget.com/2241185/hyperx-first-open-back-gaming-headset-brings-the-bass/",
+    "title": "HyperX's first open-back gaming headset brings the bass",
+    "description": "The Cloud Alpha Air is reasonably priced at $150 and sports super comfy earpads.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-20T22:35:01.407Z",
+    "published": "Thu, 20 Aug 2026 22:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-20T22:37:07.563Z"
   }
 ]
