@@ -4109,7 +4109,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T09:33:35.391Z",
-    "published": "Fri, 24 Jul 2026 08:18:20 +0000"
+    "published": "Fri, 24 Jul 2026 08:18:20 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T06:03:18.465Z"
   },
   {
     "url": "https://news.ycombinator.com/item?id=49032468",
@@ -4118,7 +4120,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T09:33:35.391Z",
-    "published": "Fri, 24 Jul 2026 07:55:07 +0000"
+    "published": "Fri, 24 Jul 2026 07:55:07 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T06:03:18.465Z"
   },
   {
     "url": "https://finance.yahoo.com/technology/ai/articles/oracle-severed-21-000-employees-114500493.html",
@@ -4127,7 +4131,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T09:33:35.391Z",
-    "published": "Fri, 24 Jul 2026 07:45:25 +0000"
+    "published": "Fri, 24 Jul 2026 07:45:25 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T06:03:18.465Z"
   },
   {
     "url": "https://arxiv.org/abs/2601.04463",
@@ -4136,7 +4142,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T09:33:35.391Z",
-    "published": "Fri, 24 Jul 2026 07:39:30 +0000"
+    "published": "Fri, 24 Jul 2026 07:39:30 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T06:03:18.465Z"
   },
   {
     "url": "https://flowshelf.app/",
@@ -31869,5 +31877,16 @@
     "published": "Fri, 21 Aug 2026 04:21:14 +0000",
     "processed": true,
     "processedAt": "2026-08-21T05:09:21.024Z"
+  },
+  {
+    "url": "https://www.engadget.com/2241354/genesis-gv90-neolun-luxury-suv-heated-floors-coach-doors/",
+    "title": "Genesis' GV90 NeoLun is a luxury electric SUV with heated floors and coach doors",
+    "description": "Genesis&#39; new electric SUV is loaded with innovation, but not in the dash or drivetrain as you might expect.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-21T06:01:12.446Z",
+    "published": "Fri, 21 Aug 2026 05:43:35 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T06:03:18.466Z"
   }
 ]
