@@ -4494,7 +4494,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T15:17:53.279Z",
-    "published": "Fri, 24 Jul 2026 13:56:51 +0000"
+    "published": "Fri, 24 Jul 2026 13:56:51 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T17:38:05.028Z"
   },
   {
     "url": "https://news.ycombinator.com/item?id=49035464",
@@ -4503,7 +4505,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T15:17:53.279Z",
-    "published": "Fri, 24 Jul 2026 13:41:45 +0000"
+    "published": "Fri, 24 Jul 2026 13:41:45 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T17:38:05.028Z"
   },
   {
     "url": "https://towardsdatascience.com/build-and-run-an-intelligent-document-processing-idp-system-in-the-cloud/",
@@ -4512,7 +4516,9 @@
     "source": "Towards Data Science",
     "category": "ml",
     "discovered": "2026-07-24T15:17:58.941Z",
-    "published": "Fri, 24 Jul 2026 15:00:00 +0000"
+    "published": "Fri, 24 Jul 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T17:38:05.028Z"
   },
   {
     "url": "https://towardsdatascience.com/loop-engineering-for-rag-generation-an-llm-cascade-from-a-cheap-local-model-up-to-a-hosted-flagship/",
@@ -4521,7 +4527,9 @@
     "source": "Towards Data Science",
     "category": "ml",
     "discovered": "2026-07-24T15:17:58.941Z",
-    "published": "Fri, 24 Jul 2026 13:30:00 +0000"
+    "published": "Fri, 24 Jul 2026 13:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T17:38:05.028Z"
   },
   {
     "url": "https://towardsdatascience.com/context-windows-forget-what-matters-i-used-a-140-year-old-psychology-paper-to-fix-ai-memory/",
@@ -32476,5 +32484,16 @@
     "published": "Fri, 21 Aug 2026 16:00:06 +0000",
     "processed": true,
     "processedAt": "2026-08-21T16:44:11.132Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/estimating-from-no-data-deriving-a-continuous-score-from-categories-2/",
+    "title": "Estimating from No Data: Deriving a Continuous Score from Categories",
+    "description": "A walkthrough of and the maths behind using low-capacity networks to acquire fine-grained scoring when only categorical labelling is available for training\nThe post Estimating from No Data: Deriving a Continuous Score from Categories appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-21T17:35:32.634Z",
+    "published": "Fri, 21 Aug 2026 17:09:54 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T17:38:05.029Z"
   }
 ]
