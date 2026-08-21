@@ -31568,5 +31568,168 @@
     "category": "community",
     "discovered": "2026-08-20T22:58:47.451Z",
     "published": "Thu, 20 Aug 2026 21:51:31 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+    "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+    "description": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-21T01:45:17.494Z",
+    "published": "Fri, 21 Aug 2026 00:13:44 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T01:48:11.621Z"
+  },
+  {
+    "url": "https://shopify.engineering/gisting",
+    "title": "Gisting: Compressing LLM Agent context to ↑ throughput and ↓ cost",
+    "description": "Article URL: https://shopify.engineering/gisting\nComments URL: https://news.ycombinator.com/item?id=49382646\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T01:45:31.077Z",
+    "published": "Fri, 21 Aug 2026 01:42:09 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T01:48:11.621Z"
+  },
+  {
+    "url": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/",
+    "title": "Berkeley Law prohibits AI use in classes (by default)",
+    "description": "Article URL: https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/\nComments URL: https://news.ycombinator.com/item?id=49382614\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T01:45:31.077Z",
+    "published": "Fri, 21 Aug 2026 01:37:27 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T01:48:11.621Z"
+  },
+  {
+    "url": "https://www.blackbench.ai/",
+    "title": "I benched frontier AI LLM models on politics, ethics, and personality traits",
+    "description": "Article URL: https://www.blackbench.ai/\nComments URL: https://news.ycombinator.com/item?id=49382540\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T01:45:31.077Z",
+    "published": "Fri, 21 Aug 2026 01:26:01 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T01:48:11.621Z"
+  },
+  {
+    "url": "https://github.com/ifoxhz/pigame",
+    "title": "Show HN: Pigame – pi+LLM plays black-box browser games via observe/move tools",
+    "description": "If we compress LLMs into neuromorphic chips to reduce inference latency, would it be relatively easy to achieve low-cost autonomous driving?\n\nComments URL: https://news.ycombinator.com/item?id=49382504\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T01:45:31.077Z",
+    "published": "Fri, 21 Aug 2026 01:20:26 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T01:48:11.621Z"
+  },
+  {
+    "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/",
+    "title": "How Much of the Internet Is Written with AI?",
+    "description": "Article URL: https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/\nComments URL: https://news.ycombinator.com/item?id=49382395\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T01:45:31.077Z",
+    "published": "Fri, 21 Aug 2026 01:02:55 +0000"
+  },
+  {
+    "url": "https://www.cambridge.org/core/elements/ai-and-consciousness/E77C92088DA3C9F89E7FE7C75CBB1896",
+    "title": "AI and Consciousness – A Skeptical Overview",
+    "description": "Article URL: https://www.cambridge.org/core/elements/ai-and-consciousness/E77C92088DA3C9F89E7FE7C75CBB1896\nComments URL: https://news.ycombinator.com/item?id=49382245\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T01:45:31.077Z",
+    "published": "Fri, 21 Aug 2026 00:41:53 +0000"
+  },
+  {
+    "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+    "title": "Copyright does not protect AI-generated content in EU",
+    "description": "Article URL: https://mathstodon.xyz/@maxpool/117128107757895678\nComments URL: https://news.ycombinator.com/item?id=49382041\nPoints: 79\n# Comments: 68",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T01:45:31.077Z",
+    "published": "Fri, 21 Aug 2026 00:15:12 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49382011",
+    "title": "Ask HN: Is building military hardware and healthcare the AI-proof?",
+    "description": "As developing software as a skill becomes like flipping burgers in a fast food company, is building hardware for evergreen industries like military and healthcare the only escape for actual engineers, not prompters?Sure, it would be a lot more expensive to bring a product to market and sell, and mo",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T01:45:31.077Z",
+    "published": "Fri, 21 Aug 2026 00:12:43 +0000"
+  },
+  {
+    "url": "https://cyberscoop.com/mid-tier-ai-models-hacking-threat/",
+    "title": "AI's 'middle class' has gotten dramatically better at hacking",
+    "description": "Article URL: https://cyberscoop.com/mid-tier-ai-models-hacking-threat/\nComments URL: https://news.ycombinator.com/item?id=49381800\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T01:45:31.078Z",
+    "published": "Thu, 20 Aug 2026 23:41:35 +0000"
+  },
+  {
+    "url": "https://www1.ece.neu.edu/~naderi/Claude%20Shannon.html",
+    "title": "Creative Thinking by Claude Shannon",
+    "description": "Article URL: https://www1.ece.neu.edu/~naderi/Claude%20Shannon.html\nComments URL: https://news.ycombinator.com/item?id=49381743\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T01:45:31.078Z",
+    "published": "Thu, 20 Aug 2026 23:35:03 +0000"
+  },
+  {
+    "url": "https://www.fastcompany.com/91585908/the-ai-debate-isnt-about-ai-its-about-control-technology-ai-control",
+    "title": "The AI Debate Is About Control, Not AI",
+    "description": "Article URL: https://www.fastcompany.com/91585908/the-ai-debate-isnt-about-ai-its-about-control-technology-ai-control\nComments URL: https://news.ycombinator.com/item?id=49381723\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T01:45:31.078Z",
+    "published": "Thu, 20 Aug 2026 23:32:36 +0000"
+  },
+  {
+    "url": "https://api.luoluocoder.com/",
+    "title": "Show HN: luoluoAI – OpenAI-compatible and Claude Messages API gateway",
+    "description": "Article URL: https://api.luoluocoder.com/\nComments URL: https://news.ycombinator.com/item?id=49381675\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T01:45:31.078Z",
+    "published": "Thu, 20 Aug 2026 23:27:44 +0000"
+  },
+  {
+    "url": "https://www.netic.ai/replacing-node-agent-graph-with-open-source-llm",
+    "title": "We replaced our 223-node agent graph with a single open-source LLM",
+    "description": "Article URL: https://www.netic.ai/replacing-node-agent-graph-with-open-source-llm\nComments URL: https://news.ycombinator.com/item?id=49381588\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T01:45:31.078Z",
+    "published": "Thu, 20 Aug 2026 23:17:09 +0000"
+  },
+  {
+    "url": "https://worthtotry.com",
+    "title": "Show HN: AI tools with real pricing, submitted in 30 seconds",
+    "description": "Article URL: https://worthtotry.com\nComments URL: https://news.ycombinator.com/item?id=49381560\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T01:45:31.078Z",
+    "published": "Thu, 20 Aug 2026 23:13:26 +0000"
+  },
+  {
+    "url": "https://thezvi.substack.com/p/ai-182-pause-for-reflection",
+    "title": "AI #182: Pause for Reflection",
+    "description": "Article URL: https://thezvi.substack.com/p/ai-182-pause-for-reflection\nComments URL: https://news.ycombinator.com/item?id=49381521\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T01:45:31.078Z",
+    "published": "Thu, 20 Aug 2026 23:10:13 +0000"
+  },
+  {
+    "url": "https://github.com/ivegotahunnitonit/bartholomew",
+    "title": "BTP v2.2 – An open, offline cryptographic trust protocol for AI agents",
+    "description": "Article URL: https://github.com/ivegotahunnitonit/bartholomew\nComments URL: https://news.ycombinator.com/item?id=49381508\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T01:45:31.078Z",
+    "published": "Thu, 20 Aug 2026 23:08:46 +0000"
   }
 ]
