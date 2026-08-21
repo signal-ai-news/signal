@@ -4560,7 +4560,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-24T15:18:00.749Z",
-    "published": "Fri, 24 Jul 2026 12:56:01 +0000"
+    "published": "Fri, 24 Jul 2026 12:56:01 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T19:51:52.384Z"
   },
   {
     "url": "https://the-decoder.com/claudes-voice-mode-now-runs-on-anthropics-most-capable-models-across-all-platforms/",
@@ -4569,7 +4571,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-24T15:18:00.749Z",
-    "published": "Fri, 24 Jul 2026 11:31:49 +0000"
+    "published": "Fri, 24 Jul 2026 11:31:49 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T19:51:52.384Z"
   },
   {
     "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why/",
@@ -32587,5 +32591,38 @@
     "published": "Fri, 21 Aug 2026 19:11:07 +0000",
     "processed": true,
     "processedAt": "2026-08-21T19:32:47.721Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+    "description": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-21T19:49:17.657Z",
+    "published": "Fri, 21 Aug 2026 19:43:39 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T19:51:52.385Z"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-puts-its-most-powerful-model-claude-mythos-5-to-work-for-cyber-defense/",
+    "title": "Anthropic puts its most powerful model Claude Mythos 5 to work for cyber defense",
+    "description": "Anthropic is now running its security scanner Claude Security on Claude Mythos 5. The tool scans codebases for vulnerabilities, provides severity ratings with CWE classifications, and suggests patches. Anthropic is also plugging Mythos 5 into partner security products protecting critical in",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-21T19:49:33.326Z",
+    "published": "Fri, 21 Aug 2026 19:35:37 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T19:51:52.385Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/",
+    "title": "80% of developers find AI coding more addictive than helpful",
+    "description": "A new Coddy Developer Survey found that four in five developers, 80%, say their use of AI has felt more like a dependence than an advantage.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-21T19:49:47.482Z",
+    "published": "Fri, 21 Aug 2026 19:30:22 GMT",
+    "processed": true,
+    "processedAt": "2026-08-21T19:51:52.385Z"
   }
 ]
