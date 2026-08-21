@@ -32495,5 +32495,60 @@
     "published": "Fri, 21 Aug 2026 17:09:54 +0000",
     "processed": true,
     "processedAt": "2026-08-21T17:38:05.029Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/running-codex-as-a-headless-agent/",
+    "title": "Running Codex as a Headless Agent",
+    "description": "Turning Codex from an interactive assistant into a programmable automation component\nThe post Running Codex as a Headless Agent appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-21T18:46:26.504Z",
+    "published": "Fri, 21 Aug 2026 18:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T18:48:59.180Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/walmart-now-accepts-google-pay-apple-pay/",
+    "title": "Walmart will finally accept Apple Pay and Google Pay. Here's what's changing",
+    "description": "Walmart was one of the last big retailers to not accept tap-to-pay. Now what happens to Walmart Pay?",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-21T18:46:53.503Z",
+    "published": "Fri, 21 Aug 2026 18:11:37 GMT",
+    "processed": true,
+    "processedAt": "2026-08-21T18:48:59.180Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/application-marketplaces-aws-ai-agents/",
+    "title": "How AWS Marketplace is using AI agents to meet the rising demand for AI agents",
+    "description": "Increasingly, AI agents are handling the nitty-gritty admin and due diligence tasks, but agent-powered marketplaces won't replace live human sales reps or engineers anytime soon.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-21T18:46:53.503Z",
+    "published": "Fri, 21 Aug 2026 17:48:29 GMT",
+    "processed": true,
+    "processedAt": "2026-08-21T18:48:59.180Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/chatgpts-new-mac-plugin-analyzed-my-imessages-and-i-found-it-surprisingly-useful/",
+    "title": "ChatGPT's new Mac plugin analyzed my iMessages - and I found it surprisingly useful",
+    "description": "ChatGPT can now analyze text messages on your Mac to reveal how you interact with others.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-21T18:46:53.503Z",
+    "published": "Fri, 21 Aug 2026 17:47:47 GMT",
+    "processed": true,
+    "processedAt": "2026-08-21T18:48:59.180Z"
+  },
+  {
+    "url": "https://www.engadget.com/2241785/tokyos-sushi-bus-combines-conveyor-belt-dining-with-open-air-sightseeing/",
+    "title": "Tokyo's Sushi Bus combines conveyor belt dining with open-air sightseeing",
+    "description": "Tokyo&#39;s Sushi Bus combines conveyor belt dining with open-air sightseeing.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-21T18:46:54.138Z",
+    "published": "Fri, 21 Aug 2026 18:09:50 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T18:48:59.180Z"
   }
 ]
