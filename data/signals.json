@@ -31777,5 +31777,69 @@
     "published": "Fri, 21 Aug 2026 01:48:49 +0000",
     "processed": true,
     "processedAt": "2026-08-21T03:12:18.701Z"
+  },
+  {
+    "url": "https://github.com/gvzdv/claudish-to-english",
+    "title": "A Claude Code plugin that shows an English rewrite of each assistant message",
+    "description": "Article URL: https://github.com/gvzdv/claudish-to-english\nComments URL: https://news.ycombinator.com/item?id=49383648\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T04:11:08.062Z",
+    "published": "Fri, 21 Aug 2026 04:03:21 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T04:13:32.324Z"
+  },
+  {
+    "url": "https://www.macrumors.com/2026/08/20/apple-music-to-label-ai-generated-songs/",
+    "title": "Apple Music to Label AI-Generated Songs",
+    "description": "Article URL: https://www.macrumors.com/2026/08/20/apple-music-to-label-ai-generated-songs/\nComments URL: https://news.ycombinator.com/item?id=49383486\nPoints: 4\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T04:11:08.062Z",
+    "published": "Fri, 21 Aug 2026 03:39:01 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T04:13:32.324Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49383441",
+    "title": "Show HN: I built a permission layer for AI agents, then spent a day breaking it",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=49383441\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T04:11:08.062Z",
+    "published": "Fri, 21 Aug 2026 03:32:41 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T04:13:32.324Z"
+  },
+  {
+    "url": "https://www.economist.com/business/2026/08/20/can-reddit-survive-in-the-ai-era",
+    "title": "Can Reddit survive in the AI era?",
+    "description": "Article URL: https://www.economist.com/business/2026/08/20/can-reddit-survive-in-the-ai-era\nComments URL: https://news.ycombinator.com/item?id=49383408\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T04:11:08.062Z",
+    "published": "Fri, 21 Aug 2026 03:28:41 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T04:13:32.324Z"
+  },
+  {
+    "url": "https://seevido.com/model/seedance-2-5/",
+    "title": "Seedance 2.5 vs. Wan 3.0 for a 30-second AI video workflow",
+    "description": "Article URL: https://seevido.com/model/seedance-2-5/\nComments URL: https://news.ycombinator.com/item?id=49383403\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T04:11:08.062Z",
+    "published": "Fri, 21 Aug 2026 03:28:04 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T04:13:32.324Z"
+  },
+  {
+    "url": "https://aitoolsinsiderhq.com/log/",
+    "title": "Show HN: An autonomous AI agent running one project for two months in public",
+    "description": "Article URL: https://aitoolsinsiderhq.com/log/\nComments URL: https://news.ycombinator.com/item?id=49383353\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T04:11:08.062Z",
+    "published": "Fri, 21 Aug 2026 03:21:46 +0000"
   }
 ]
