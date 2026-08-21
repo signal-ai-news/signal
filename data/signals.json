@@ -4769,7 +4769,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T20:06:20.689Z",
-    "published": "Fri, 24 Jul 2026 19:08:12 +0000"
+    "published": "Fri, 24 Jul 2026 19:08:12 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T22:34:06.371Z"
   },
   {
     "url": "https://news.ycombinator.com/item?id=49040025",
@@ -4778,7 +4780,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T20:06:20.689Z",
-    "published": "Fri, 24 Jul 2026 18:49:35 +0000"
+    "published": "Fri, 24 Jul 2026 18:49:35 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T22:34:06.371Z"
   },
   {
     "url": "https://github.com/IvanWng97/pixtuoid",
@@ -4787,7 +4791,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T20:06:20.689Z",
-    "published": "Fri, 24 Jul 2026 18:44:35 +0000"
+    "published": "Fri, 24 Jul 2026 18:44:35 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T22:34:06.371Z"
   },
   {
     "url": "https://www.youtube.com/watch?v=vW26TB6Rdic",
@@ -4796,7 +4802,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T20:06:20.689Z",
-    "published": "Fri, 24 Jul 2026 18:44:32 +0000"
+    "published": "Fri, 24 Jul 2026 18:44:32 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T22:34:06.371Z"
   },
   {
     "url": "https://instavm.io/blog/why-ai-agents-need-a-two-tier-architecture",
@@ -4805,7 +4813,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T20:06:20.689Z",
-    "published": "Fri, 24 Jul 2026 18:42:30 +0000"
+    "published": "Fri, 24 Jul 2026 18:42:30 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T22:34:06.371Z"
   },
   {
     "url": "https://www.bloomberg.com/news/articles/2026-07-24/spacex-at-100-would-imply-zero-ai-value-says-morgan-stanley",
