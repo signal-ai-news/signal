@@ -4329,7 +4329,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T15:17:53.278Z",
-    "published": "Fri, 24 Jul 2026 15:04:18 +0000"
+    "published": "Fri, 24 Jul 2026 15:04:18 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T13:02:50.383Z"
   },
   {
     "url": "https://ai.google/static/documents/GoogleATLASv1.pdf",
@@ -4338,7 +4340,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T15:17:53.278Z",
-    "published": "Fri, 24 Jul 2026 15:00:02 +0000"
+    "published": "Fri, 24 Jul 2026 15:00:02 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T13:02:50.383Z"
   },
   {
     "url": "https://isopenweightaibannedyet.com/",
@@ -32336,5 +32340,38 @@
     "published": "Fri, 21 Aug 2026 11:36:51 GMT",
     "processed": true,
     "processedAt": "2026-08-21T11:59:11.172Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+    "title": "The Download: threats from space mirrors and credit for AI drugs",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many A company that plans to beam sunlight from space to Earth on dema",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-21T13:00:16.120Z",
+    "published": "Fri, 21 Aug 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T13:02:50.384Z"
+  },
+  {
+    "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+    "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+    "description": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+    "source": "DeepMind Blog",
+    "category": "llm",
+    "discovered": "2026-08-21T13:00:23.737Z",
+    "published": "Fri, 21 Aug 2026 11:59:48 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T13:02:50.384Z"
+  },
+  {
+    "url": "https://www.engadget.com/2241179/child-safety-experts-skeptical-of-openai-chatgpt-for-teens/",
+    "title": "Child safety experts are skeptical of OpenAI's ChatGPT for Teens",
+    "description": "They say the company must prove it can be trusted before products like these get a pass.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-21T13:00:44.218Z",
+    "published": "Fri, 21 Aug 2026 13:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T13:02:50.384Z"
   }
 ]
