@@ -4230,7 +4230,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T09:33:35.391Z",
-    "published": "Fri, 24 Jul 2026 06:45:26 +0000"
+    "published": "Fri, 24 Jul 2026 06:45:26 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T10:39:02.130Z"
   },
   {
     "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260719-338181/",
@@ -4239,7 +4241,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T09:33:35.391Z",
-    "published": "Fri, 24 Jul 2026 06:44:13 +0000"
+    "published": "Fri, 24 Jul 2026 06:44:13 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T10:39:02.130Z"
   },
   {
     "url": "https://www.engadget.com/2222303/google-expanding-access-gemini-spark/",
@@ -4248,7 +4252,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-24T09:34:09.370Z",
-    "published": "Fri, 24 Jul 2026 06:00:44 +0000"
+    "published": "Fri, 24 Jul 2026 06:00:44 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T10:39:02.130Z"
   },
   {
     "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
@@ -32135,5 +32141,27 @@
     "category": "news",
     "discovered": "2026-08-21T09:43:50.684Z",
     "published": "Fri, 21 Aug 2026 08:47:02 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-changes-data-retention-policy-after-enterprise-pushback/",
+    "title": "Anthropic changes data retention policy after enterprise pushback",
+    "description": "Anthropic is easing its controversial data storage policy, letting enterprise customers keep their own data going forward.\nThe article Anthropic changes data retention policy after enterprise pushback appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-21T10:36:41.642Z",
+    "published": "Fri, 21 Aug 2026 09:59:51 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T10:39:02.131Z"
+  },
+  {
+    "url": "https://www.engadget.com/2241390/openai-chatgpt-imessage-integration/",
+    "title": "ChatGPT on Mac can now read and respond to Apple iMessages",
+    "description": "OpenAI has rolled out a plugin that allows ChatGPT to control the Apple Messages app.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-21T10:36:56.131Z",
+    "published": "Fri, 21 Aug 2026 10:09:33 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T10:39:02.131Z"
   }
 ]
