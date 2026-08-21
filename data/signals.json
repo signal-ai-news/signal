@@ -31888,5 +31888,69 @@
     "published": "Fri, 21 Aug 2026 05:43:35 +0000",
     "processed": true,
     "processedAt": "2026-08-21T06:03:18.466Z"
+  },
+  {
+    "url": "https://Argentic.network",
+    "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
+    "description": "Article URL: https://Argentic.network\nComments URL: https://news.ycombinator.com/item?id=49384477\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T06:58:12.264Z",
+    "published": "Fri, 21 Aug 2026 06:24:16 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T07:00:38.346Z"
+  },
+  {
+    "url": "https://aliothpress.com/cms-for-ai-agents-webmcp-built-in",
+    "title": "AI CMS with WebMCP tools for agents in admin panel",
+    "description": "Article URL: https://aliothpress.com/cms-for-ai-agents-webmcp-built-in\nComments URL: https://news.ycombinator.com/item?id=49384446\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T06:58:12.264Z",
+    "published": "Fri, 21 Aug 2026 06:20:14 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T07:00:38.347Z"
+  },
+  {
+    "url": "https://blog.comini.in/p/schooling-has-a-meaning-crisis-paradoxically",
+    "title": "Schooling Has a Meaning Crisis. Paradoxically, AI Can Help",
+    "description": "Article URL: https://blog.comini.in/p/schooling-has-a-meaning-crisis-paradoxically\nComments URL: https://news.ycombinator.com/item?id=49384344\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T06:58:12.264Z",
+    "published": "Fri, 21 Aug 2026 06:03:57 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T07:00:38.347Z"
+  },
+  {
+    "url": "https://techupdate24.com/aws-bedrock-agentcore-hijacked-ai-security/",
+    "title": "AWS Bedrock AgentCore enforces user context to prevent hijacked AI agents",
+    "description": "Article URL: https://techupdate24.com/aws-bedrock-agentcore-hijacked-ai-security/\nComments URL: https://news.ycombinator.com/item?id=49384306\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T06:58:12.264Z",
+    "published": "Fri, 21 Aug 2026 05:56:29 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T07:00:38.347Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49384106",
+    "title": "Ask HN: Claude Code in Video Editor",
+    "description": "hey video editors, what editing tasks do you wish were automated?let's say you had Claude Code in your video editor, what would you ask it to help you with on your project?\n\nComments URL: https://news.ycombinator.com/item?id=49384106\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T06:58:12.264Z",
+    "published": "Fri, 21 Aug 2026 05:19:37 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T07:00:38.347Z"
+  },
+  {
+    "url": "https://github.com/DonkeyCut/Donkey",
+    "title": "Show HN: I built an open source video editor that you can control with an LLM",
+    "description": "Hey HN, my name is David. I'm building an open source video editor.I'm a novice at video editing and previously only used iMovie. I recently opened iMovie to edit a video but noticed it didn't have some features I wanted, like text overlays. Apple probably hasn't updated it in ages. How hard could",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T06:58:12.264Z",
+    "published": "Fri, 21 Aug 2026 05:19:27 +0000"
   }
 ]
