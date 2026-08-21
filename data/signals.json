@@ -4538,7 +4538,9 @@
     "source": "Towards Data Science",
     "category": "ml",
     "discovered": "2026-07-24T15:17:58.941Z",
-    "published": "Fri, 24 Jul 2026 12:00:00 +0000"
+    "published": "Fri, 24 Jul 2026 12:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T19:32:47.720Z"
   },
   {
     "url": "https://the-decoder.com/sakana-claims-its-ai-model-router-fugu-ultra-v1-1-now-beats-fable-5-without-even-including-it-in-the-pool/",
@@ -4547,7 +4549,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-24T15:18:00.749Z",
-    "published": "Fri, 24 Jul 2026 14:37:57 +0000"
+    "published": "Fri, 24 Jul 2026 14:37:57 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T19:32:47.720Z"
   },
   {
     "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
@@ -32550,5 +32554,38 @@
     "published": "Fri, 21 Aug 2026 18:09:50 +0000",
     "processed": true,
     "processedAt": "2026-08-21T18:48:59.180Z"
+  },
+  {
+    "url": "https://the-decoder.com/deepseek-releases-experimental-flash-vision-model-that-rivals-opus-4-8-on-agent-benchmarks/",
+    "title": "Deepseek releases experimental Flash vision model that rivals Opus 4.8 on agent benchmarks",
+    "description": "Deepseek has released V4-Flash-Vision-Exp, an experimental multimodal model that adds image understanding to V4-Flash's text capabilities. On the company's own multimodal agent benchmarks, it approaches Opus 4.8 and sometimes beats it.\nThe article Deepseek releases experimental Flash vision",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-21T19:30:29.823Z",
+    "published": "Fri, 21 Aug 2026 19:08:27 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T19:32:47.721Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/sonos-improved-voice-control-intriguing-smart-home-future/",
+    "title": "Sonos' improved Voice Control points to an intriguing smart home future",
+    "description": "Reports suggest that Sonos is preparing to compete in the evolving smart speaker market, readying new hardware and an AI-backed overhaul of its voice assistant.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-21T19:30:41.892Z",
+    "published": "Fri, 21 Aug 2026 19:14:13 GMT",
+    "processed": true,
+    "processedAt": "2026-08-21T19:32:47.721Z"
+  },
+  {
+    "url": "https://www.engadget.com/2241857/linkedin-says-its-ai-slop-button-is-working/",
+    "title": "LinkedIn says its AI slop button is working",
+    "description": "LinkedIn says its AI slop button is working.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-21T19:30:42.496Z",
+    "published": "Fri, 21 Aug 2026 19:11:07 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T19:32:47.721Z"
   }
 ]
