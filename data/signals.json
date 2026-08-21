@@ -4472,7 +4472,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T15:17:53.279Z",
-    "published": "Fri, 24 Jul 2026 14:00:40 +0000"
+    "published": "Fri, 24 Jul 2026 14:00:40 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T16:44:11.131Z"
   },
   {
     "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
@@ -4481,7 +4483,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T15:17:53.279Z",
-    "published": "Fri, 24 Jul 2026 13:58:12 +0000"
+    "published": "Fri, 24 Jul 2026 13:58:12 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T16:44:11.131Z"
   },
   {
     "url": "https://coderscreen.com/blog/does-using-ai-pay-at-yc-startups",
@@ -32439,5 +32443,38 @@
     "published": "Fri, 21 Aug 2026 15:18:29 +0000",
     "processed": true,
     "processedAt": "2026-08-21T15:43:06.616Z"
+  },
+  {
+    "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+    "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+    "description": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investiga",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-21T16:41:23.684Z",
+    "published": "Fri, 21 Aug 2026 14:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T16:44:11.132Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/retrieve-one-row-from-a-table-not-the-whole-table-row-level-chunks-for-rag/",
+    "title": "Retrieve One Row from a Table, Not the Whole Table: Row-Level Chunks for RAG",
+    "description": "Enterprise Document Intelligence [Vol.1 #7sexies] - The unit of retrieval doesn’t have to be a page or a paragraph. When the corpus carries tables, each body row with its column headers is a chunk in its own right, and it’s often the one row the reader asked about\nThe post Retrieve One Row from a Ta",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-21T16:41:39.221Z",
+    "published": "Fri, 21 Aug 2026 16:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T16:44:11.132Z"
+  },
+  {
+    "url": "https://www.engadget.com/2241639/more-details-on-apple-camera-equipped-airpods/",
+    "title": "We have more details on Apple's camera-equipped AirPods and they are pretty dang weird",
+    "description": "Each earbud takes its own image, which is then synchronized for use by Visual Intelligence.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-21T16:42:05.386Z",
+    "published": "Fri, 21 Aug 2026 16:00:06 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T16:44:11.132Z"
   }
 ]
