@@ -4318,7 +4318,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T15:17:53.278Z",
-    "published": "Fri, 24 Jul 2026 15:05:40 +0000"
+    "published": "Fri, 24 Jul 2026 15:05:40 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T11:59:11.171Z"
   },
   {
     "url": "https://github.com/ghdtjrtka/ghost-vessel",
@@ -32290,5 +32292,49 @@
     "category": "news",
     "discovered": "2026-08-21T11:33:00.659Z",
     "published": "Fri, 21 Aug 2026 10:54:41 +0000"
+  },
+  {
+    "url": "https://cymerys.com/w/im-becoming-ai-blind",
+    "title": "I'm Becoming AI-Blind",
+    "description": "Article URL: https://cymerys.com/w/im-becoming-ai-blind\nComments URL: https://news.ycombinator.com/item?id=49386699\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T11:56:21.538Z",
+    "published": "Fri, 21 Aug 2026 11:48:05 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T11:59:11.172Z"
+  },
+  {
+    "url": "https://viewfromthewing.com/delta-will-use-ai-to-cut-jobs-and-set-a-different-ticket-price-for-every-passenger-ceo-says-profits-could-rise-50/",
+    "title": "Delta Use AI to Cut Costs Set Diff Ticket Price–CEO Says Profits Could Rise 50%",
+    "description": "Article URL: https://viewfromthewing.com/delta-will-use-ai-to-cut-jobs-and-set-a-different-ticket-price-for-every-passenger-ceo-says-profits-could-rise-50/\nComments URL: https://news.ycombinator.com/item?id=49386689\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T11:56:21.538Z",
+    "published": "Fri, 21 Aug 2026 11:47:08 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T11:59:11.172Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49386577",
+    "title": "Ask HN: What is the best AI Video studio",
+    "description": "I’m learning how to make AI videos, I know there are many video models. But is there a platform that can provide professional workflow to make ai videos?\n\nComments URL: https://news.ycombinator.com/item?id=49386577\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T11:56:21.538Z",
+    "published": "Fri, 21 Aug 2026 11:35:33 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T11:59:11.172Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/ai-deepfakes-passwords-defense/",
+    "title": "A low-tech solution from the past may be your best defense against AI deepfakes",
+    "description": "AI-enabled identity theft is getting too sophisticated to have predictable tells anymore, so experts recommend answering with a seemingly old-fashioned approach.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-21T11:57:05.714Z",
+    "published": "Fri, 21 Aug 2026 11:36:51 GMT",
+    "processed": true,
+    "processedAt": "2026-08-21T11:59:11.172Z"
   }
 ]
