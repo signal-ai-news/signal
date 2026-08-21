@@ -4395,7 +4395,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T15:17:53.279Z",
-    "published": "Fri, 24 Jul 2026 14:44:51 +0000"
+    "published": "Fri, 24 Jul 2026 14:44:51 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T14:44:23.524Z"
   },
   {
     "url": "https://geoimagetagger.com",
@@ -4404,7 +4406,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T15:17:53.279Z",
-    "published": "Fri, 24 Jul 2026 14:35:59 +0000"
+    "published": "Fri, 24 Jul 2026 14:35:59 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T14:44:23.524Z"
   },
   {
     "url": "https://pluralistic.net/2026/07/24/supplemental-income/",
@@ -4413,7 +4417,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T15:17:53.279Z",
-    "published": "Fri, 24 Jul 2026 14:27:55 +0000"
+    "published": "Fri, 24 Jul 2026 14:27:55 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T14:44:23.524Z"
   },
   {
     "url": "https://romanuk.org/vlm-models/",
@@ -4422,7 +4428,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T15:17:53.279Z",
-    "published": "Fri, 24 Jul 2026 14:19:51 +0000"
+    "published": "Fri, 24 Jul 2026 14:19:51 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T14:44:23.524Z"
   },
   {
     "url": "https://defnull.de/2026/bakers-club/",
@@ -32392,5 +32400,16 @@
     "published": "Fri, 21 Aug 2026 13:30:00 +0000",
     "processed": true,
     "processedAt": "2026-08-21T13:53:10.760Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+    "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+    "description": "There's about to be a big fight to secure access to space.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-21T14:41:41.787Z",
+    "published": "Fri, 21 Aug 2026 14:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T14:44:23.525Z"
   }
 ]
