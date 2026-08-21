@@ -32910,5 +32910,60 @@
     "published": "Fri, 21 Aug 2026 23:25:32 +0000",
     "processed": true,
     "processedAt": "2026-08-21T23:32:12.081Z"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
+    "title": "As demand for Meta AI glasses explodes, it's harder to avoid creepy recordings",
+    "description": "Article URL: https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/\nComments URL: https://news.ycombinator.com/item?id=49395154\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T23:50:41.639Z",
+    "published": "Fri, 21 Aug 2026 23:49:49 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T23:53:05.026Z"
+  },
+  {
+    "url": "https://www.ams.org/journals/notices/202608/noti3386/noti3386.html",
+    "title": "A Call for Action: The \"Leiden Declaration on AI and Math\"",
+    "description": "Article URL: https://www.ams.org/journals/notices/202608/noti3386/noti3386.html\nComments URL: https://news.ycombinator.com/item?id=49394934\nPoints: 6\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T23:50:41.639Z",
+    "published": "Fri, 21 Aug 2026 23:20:57 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T23:53:05.026Z"
+  },
+  {
+    "url": "https://www.netic.ai/blog/replacing-node-agent-graph-with-open-source-llm",
+    "title": "Replacing 223-node agent graph with a single OSS LLM",
+    "description": "Article URL: https://www.netic.ai/blog/replacing-node-agent-graph-with-open-source-llm\nComments URL: https://news.ycombinator.com/item?id=49394842\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T23:50:41.639Z",
+    "published": "Fri, 21 Aug 2026 23:10:52 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T23:53:05.026Z"
+  },
+  {
+    "url": "https://github.com/gtapps/claude-code-hermit/",
+    "title": "Turn Claude Code into a 24/7 Agent",
+    "description": "Article URL: https://github.com/gtapps/claude-code-hermit/\nComments URL: https://news.ycombinator.com/item?id=49394794\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T23:50:41.639Z",
+    "published": "Fri, 21 Aug 2026 23:03:11 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T23:53:05.026Z"
+  },
+  {
+    "url": "https://johnoestmannmusic.com/ai-building-exoskeletons/",
+    "title": "AI Building Exoskeletons – Keeping Creative Inspiration",
+    "description": "Article URL: https://johnoestmannmusic.com/ai-building-exoskeletons/\nComments URL: https://news.ycombinator.com/item?id=49394736\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T23:50:41.639Z",
+    "published": "Fri, 21 Aug 2026 22:57:01 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T23:53:05.026Z"
   }
 ]
