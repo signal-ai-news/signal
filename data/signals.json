@@ -4714,7 +4714,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T20:06:20.689Z",
-    "published": "Fri, 24 Jul 2026 20:03:03 +0000"
+    "published": "Fri, 24 Jul 2026 20:03:03 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T21:54:08.196Z"
   },
   {
     "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
@@ -4723,7 +4725,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T20:06:20.689Z",
-    "published": "Fri, 24 Jul 2026 19:54:10 +0000"
+    "published": "Fri, 24 Jul 2026 19:54:10 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T21:54:08.196Z"
   },
   {
     "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
@@ -4732,7 +4736,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T20:06:20.689Z",
-    "published": "Fri, 24 Jul 2026 19:52:38 +0000"
+    "published": "Fri, 24 Jul 2026 19:52:38 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T21:54:08.196Z"
   },
   {
     "url": "https://www.theguardian.com/commentisfree/2026/jul/24/apology-ai-boss-sam-altman-rogue-openai-startup-pentagon",
@@ -4741,7 +4747,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T20:06:20.689Z",
-    "published": "Fri, 24 Jul 2026 19:49:16 +0000"
+    "published": "Fri, 24 Jul 2026 19:49:16 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T21:54:08.196Z"
   },
   {
     "url": "https://www.peterbe.com/plog/claude-opus-is-10x-faster-than-openai-gpt-5-at-non-streaming-completions",
@@ -4750,7 +4758,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T20:06:20.689Z",
-    "published": "Fri, 24 Jul 2026 19:41:49 +0000"
+    "published": "Fri, 24 Jul 2026 19:41:49 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T21:54:08.196Z"
   },
   {
     "url": "https://octane.beehiiv.com/",
