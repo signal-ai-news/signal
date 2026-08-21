@@ -4208,7 +4208,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T09:33:35.391Z",
-    "published": "Fri, 24 Jul 2026 07:05:03 +0000"
+    "published": "Fri, 24 Jul 2026 07:05:03 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T08:51:52.254Z"
   },
   {
     "url": "https://twitter.com/qiaoqiao2001/status/2080003441821163958",
@@ -4217,7 +4219,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T09:33:35.391Z",
-    "published": "Fri, 24 Jul 2026 06:50:45 +0000"
+    "published": "Fri, 24 Jul 2026 06:50:45 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T08:51:52.254Z"
   },
   {
     "url": "https://blog.zoller.lu/2026/07/dunning-kruger-after-ai-gap-that-no.html",
@@ -31962,5 +31966,38 @@
     "category": "community",
     "discovered": "2026-08-21T06:58:12.264Z",
     "published": "Fri, 21 Aug 2026 05:19:27 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/nvidia-is-acquiring-poolsides-model-factory-and-109-employees-for-6-billion/",
+    "title": "Nvidia is acquiring Poolside's \"Model Factory\" and 109 employees for $6 billion",
+    "description": "Nvidia is paying $6 billion for software that builds AI models from the startup Poolside, and it wants to bring on 109 employees.\nThe article Nvidia is acquiring Poolside&#039;s &quot;Model Factory&quot; and 109 employees for $6 billion appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-21T08:49:28.954Z",
+    "published": "Fri, 21 Aug 2026 08:27:23 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T08:51:52.255Z"
+  },
+  {
+    "url": "https://the-decoder.com/gpt-5-6-sol-drives-openais-revenue-surge-as-it-regains-ground-on-anthropic/",
+    "title": "GPT-5.6 Sol drives OpenAI's revenue surge as it regains ground on Anthropic",
+    "description": "Since GPT-5.6 Sol launched in early July, OpenAI says revenue is up 35 percent this quarter, with enterprise revenue growing more than 50 percent. Ramp data shows OpenAI outpacing Anthropic in business API spending for the first time after Anthropic had overtaken OpenAI in quarterly revenue",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-21T08:49:28.954Z",
+    "published": "Fri, 21 Aug 2026 08:26:05 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T08:51:52.255Z"
+  },
+  {
+    "url": "https://the-decoder.com/openais-gpt-image-2-can-now-generate-images-without-a-background/",
+    "title": "OpenAI's GPT-Image-2 can now generate images without a background",
+    "description": "OpenAI is previewing transparent background support for GPT-Image-2 through its API. The alpha channel gets baked in during image generation, which according to OpenAI beats conventional background removal. A single parameter activates the feature.\nThe article OpenAI&#039;s GPT-Image-2 can",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-21T08:49:28.954Z",
+    "published": "Fri, 21 Aug 2026 07:53:40 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T08:51:52.255Z"
   }
 ]
