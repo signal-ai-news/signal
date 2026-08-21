@@ -4010,7 +4010,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-24T00:15:45.320Z",
-    "published": "Thu, 23 Jul 2026 20:47:15 +0000"
+    "published": "Thu, 23 Jul 2026 20:47:15 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T03:12:18.700Z"
   },
   {
     "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
@@ -31731,5 +31733,49 @@
     "category": "community",
     "discovered": "2026-08-21T01:45:31.078Z",
     "published": "Thu, 20 Aug 2026 23:08:46 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
+    "title": "Google Is Buying All of Spirit Airlines' Data to Feed Its AI Models",
+    "description": "Article URL: https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/\nComments URL: https://news.ycombinator.com/item?id=49383235\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T03:09:48.350Z",
+    "published": "Fri, 21 Aug 2026 03:02:49 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T03:12:18.701Z"
+  },
+  {
+    "url": "https://academy.claude.com/",
+    "title": "Claude Academy",
+    "description": "Article URL: https://academy.claude.com/\nComments URL: https://news.ycombinator.com/item?id=49383043\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T03:09:48.350Z",
+    "published": "Fri, 21 Aug 2026 02:39:11 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T03:12:18.701Z"
+  },
+  {
+    "url": "https://thequietus.com/news/beatport-bans-ai-produced-tracks-from-platform/",
+    "title": "Beatport Bans AI-Produced Tracks from Platform",
+    "description": "Article URL: https://thequietus.com/news/beatport-bans-ai-produced-tracks-from-platform/\nComments URL: https://news.ycombinator.com/item?id=49382972\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T03:09:48.350Z",
+    "published": "Fri, 21 Aug 2026 02:28:46 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T03:12:18.701Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=jBpQiv-ZlVM",
+    "title": "Claude driving an autonomous RC car [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=jBpQiv-ZlVM\nComments URL: https://news.ycombinator.com/item?id=49382698\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T03:09:48.350Z",
+    "published": "Fri, 21 Aug 2026 01:48:49 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T03:12:18.701Z"
   }
 ]
