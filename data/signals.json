@@ -31999,5 +31999,141 @@
     "published": "Fri, 21 Aug 2026 07:53:40 +0000",
     "processed": true,
     "processedAt": "2026-08-21T08:51:52.255Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
+    "title": "Mother tongue",
+    "description": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one, poorly sung), and snuggle (his chin on my second rib). Now was the moment when our son’s eyelids we",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-21T09:43:25.956Z",
+    "published": "Fri, 21 Aug 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T09:45:56.630Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+    "title": "When AI designs a drug, who gets the credit?",
+    "description": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-21T09:43:25.956Z",
+    "published": "Fri, 21 Aug 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T09:45:56.630Z"
+  },
+  {
+    "url": "https://www.squidpay.dev/",
+    "title": "Show HN: Squid Pay – Financial infrastructure for autonomous AI agents",
+    "description": "We’re building Squid Pay, financial infrastructure that lets AI agents interact with money while keeping humans in control.AI agents are becoming increasingly capable of taking real-world actions, but giving an agent access to a wallet creates a new problem: how much financial autonomy should it ac",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T09:43:30.388Z",
+    "published": "Fri, 21 Aug 2026 09:22:17 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T09:45:56.630Z"
+  },
+  {
+    "url": "https://honnibal.dev/blog/ai-bubble",
+    "title": "I don't think AI is a bubble",
+    "description": "Article URL: https://honnibal.dev/blog/ai-bubble\nComments URL: https://news.ycombinator.com/item?id=49385635\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T09:43:30.388Z",
+    "published": "Fri, 21 Aug 2026 09:10:33 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T09:45:56.630Z"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-plans-to-change-data-retention-policy-for-advanced-ai",
+    "title": "Anthropic Plans to Change Data Retention Policy for Advanced AI",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-08-20/anthropic-plans-to-change-data-retention-policy-for-advanced-ai\nComments URL: https://news.ycombinator.com/item?id=49385582\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T09:43:30.388Z",
+    "published": "Fri, 21 Aug 2026 09:03:10 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T09:45:56.630Z"
+  },
+  {
+    "url": "https://thenextweb.com/news/white-house-strategy-open-weight-ai-critical-technology-list",
+    "title": "White House tech strategy leaves open-weight AI off its critical list",
+    "description": "Article URL: https://thenextweb.com/news/white-house-strategy-open-weight-ai-critical-technology-list\nComments URL: https://news.ycombinator.com/item?id=49385484\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T09:43:30.388Z",
+    "published": "Fri, 21 Aug 2026 08:48:46 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.15888",
+    "title": "Bounded Agents: Delegation Security for Multi-Agent AI Systems",
+    "description": "Article URL: https://arxiv.org/abs/2608.15888\nComments URL: https://news.ycombinator.com/item?id=49385366\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T09:43:30.388Z",
+    "published": "Fri, 21 Aug 2026 08:32:17 +0000"
+  },
+  {
+    "url": "https://github.com/red-orbita/bulwark-gateway",
+    "title": "Bulwark Gateway – fail-closed security proxy for LLM agents (self-hosted)",
+    "description": "Article URL: https://github.com/red-orbita/bulwark-gateway\nComments URL: https://news.ycombinator.com/item?id=49385285\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T09:43:30.388Z",
+    "published": "Fri, 21 Aug 2026 08:18:00 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Q7d2KMdVp9E",
+    "title": "Engaging with AI for serious maths research – Norman Wildberger",
+    "description": "Article URL: https://www.youtube.com/watch?v=Q7d2KMdVp9E\nComments URL: https://news.ycombinator.com/item?id=49385279\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T09:43:30.388Z",
+    "published": "Fri, 21 Aug 2026 08:17:26 +0000"
+  },
+  {
+    "url": "https://www.afr.com/work-and-careers/workplace/judges-may-be-the-only-survivors-of-law-s-ai-carnage-futurist-20260819-p60pla",
+    "title": "Only one type of lawyer will survive the AI wipeout",
+    "description": "Article URL: https://www.afr.com/work-and-careers/workplace/judges-may-be-the-only-survivors-of-law-s-ai-carnage-futurist-20260819-p60pla\nComments URL: https://news.ycombinator.com/item?id=49385121\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T09:43:30.388Z",
+    "published": "Fri, 21 Aug 2026 07:55:48 +0000"
+  },
+  {
+    "url": "https://www.crusbro.com/en/product-architecture.html",
+    "title": "The LLM rewrote the email after I approved it",
+    "description": "Article URL: https://www.crusbro.com/en/product-architecture.html\nComments URL: https://news.ycombinator.com/item?id=49384800\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T09:43:30.388Z",
+    "published": "Fri, 21 Aug 2026 07:11:02 +0000"
+  },
+  {
+    "url": "https://benhoyt.com/writings/updating-gifty-with-ai/",
+    "title": "Updating a side project with AI in 275 commits",
+    "description": "Article URL: https://benhoyt.com/writings/updating-gifty-with-ai/\nComments URL: https://news.ycombinator.com/item?id=49384790\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T09:43:30.388Z",
+    "published": "Fri, 21 Aug 2026 07:09:24 +0000"
+  },
+  {
+    "url": "https://sufiyan.cc/plainspeak",
+    "title": "Show HN: Plainspeak, make AI agents write like a human",
+    "description": "Article URL: https://sufiyan.cc/plainspeak\nComments URL: https://news.ycombinator.com/item?id=49384788\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T09:43:30.388Z",
+    "published": "Fri, 21 Aug 2026 07:09:01 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2241379/nevada-allows-uber-tesla-waymo-paid-robotaxis/",
+    "title": "Nevada allows Uber, Tesla and Waymo to start paid robotaxi service",
+    "description": "Nevada's transportation authorities approved the companies' application to charge for robotaxi rides.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-21T09:43:50.684Z",
+    "published": "Fri, 21 Aug 2026 08:47:02 +0000"
   }
 ]
