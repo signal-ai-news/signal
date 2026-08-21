@@ -4626,7 +4626,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-24T15:18:20.565Z",
-    "published": "Fri, 24 Jul 2026 13:53:00 GMT"
+    "published": "Fri, 24 Jul 2026 13:53:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-21T21:33:24.098Z"
   },
   {
     "url": "https://www.zdnet.com/article/ai-data-center-boom-e-waste-problem/",
@@ -4635,7 +4637,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-24T15:18:20.565Z",
-    "published": "Fri, 24 Jul 2026 12:05:31 GMT"
+    "published": "Fri, 24 Jul 2026 12:05:31 GMT",
+    "processed": true,
+    "processedAt": "2026-08-21T21:33:24.098Z"
   },
   {
     "url": "https://www.engadget.com/2222353/meta-launches-facebook-verified/",
@@ -4644,7 +4648,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-24T15:18:21.196Z",
-    "published": "Fri, 24 Jul 2026 11:43:00 +0000"
+    "published": "Fri, 24 Jul 2026 11:43:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T21:33:24.098Z"
   },
   {
     "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
@@ -32815,5 +32821,27 @@
     "published": "Fri, 21 Aug 2026 20:36:23 +0000",
     "processed": true,
     "processedAt": "2026-08-21T20:56:16.619Z"
+  },
+  {
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/amazons-new-7-65gw-texas-ai-data-center-power-plant-could-become-the-largest-source-of-co2-pollution-in-the-us-custom-35-turbine-gas-plant-authorized-to-emit-33-million-tons-of-annual-greenhouse-gases",
+    "title": "Amazon's 7.65GW AI data center power plant could be largest CO₂ emitter in US",
+    "description": "Article URL: https://www.tomshardware.com/tech-industry/data-centers/amazons-new-7-65gw-texas-ai-data-center-power-plant-could-become-the-largest-source-of-co2-pollution-in-the-us-custom-35-turbine-gas-plant-authorized-to-emit-33-million-tons-of-annual-greenhouse-gases\nComments URL: https://news.yc",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T21:30:55.182Z",
+    "published": "Fri, 21 Aug 2026 21:24:43 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T21:33:24.099Z"
+  },
+  {
+    "url": "https://www.engadget.com/2241964/tiktok-will-pay-400-million-to-settle-justice-department-lawsuit-over-child-privacy/",
+    "title": "TikTok will pay $400 million to settle Justice Department lawsuit over child privacy",
+    "description": "The DoJ said the app has made significant strides in privacy protections since the 2024 suit.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-21T21:31:17.614Z",
+    "published": "Fri, 21 Aug 2026 21:13:43 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T21:33:24.099Z"
   }
 ]
