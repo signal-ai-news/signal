@@ -32624,5 +32624,177 @@
     "published": "Fri, 21 Aug 2026 19:30:22 GMT",
     "processed": true,
     "processedAt": "2026-08-21T19:51:52.385Z"
+  },
+  {
+    "url": "https://humansystems.dudzik.co/p/when-agents-make-ci-the-bottleneck",
+    "title": "Agentic AI overwhelmed CI, and test selection cut queueing from hours to minutes",
+    "description": "Article URL: https://humansystems.dudzik.co/p/when-agents-make-ci-the-bottleneck\nComments URL: https://news.ycombinator.com/item?id=49393364\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T20:32:41.642Z",
+    "published": "Fri, 21 Aug 2026 20:24:40 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T20:35:10.097Z"
+  },
+  {
+    "url": "https://frigade.com/blog/we-replaced-grafana-with-a-claude-code-skill",
+    "title": "We replaced our Grafana stack with a single Claude Code skill",
+    "description": "Article URL: https://frigade.com/blog/we-replaced-grafana-with-a-claude-code-skill\nComments URL: https://news.ycombinator.com/item?id=49393346\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T20:32:41.642Z",
+    "published": "Fri, 21 Aug 2026 20:23:43 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T20:35:10.097Z"
+  },
+  {
+    "url": "https://github.com/rez-99/agentcheck",
+    "title": "AgentCheck – regression testing for AI agents, with diff-aware CI reports",
+    "description": "Article URL: https://github.com/rez-99/agentcheck\nComments URL: https://news.ycombinator.com/item?id=49393322\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T20:32:41.642Z",
+    "published": "Fri, 21 Aug 2026 20:21:15 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T20:35:10.097Z"
+  },
+  {
+    "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+    "title": "Quick impressions: A week of using Codex more than Claude",
+    "description": "Article URL: https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/\nComments URL: https://news.ycombinator.com/item?id=49393051\nPoints: 15\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T20:32:41.642Z",
+    "published": "Fri, 21 Aug 2026 19:51:48 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T20:35:10.097Z"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5842084",
+    "title": "The Wage Effects of Generative AI",
+    "description": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5842084\nComments URL: https://news.ycombinator.com/item?id=49393015\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T20:32:41.642Z",
+    "published": "Fri, 21 Aug 2026 19:49:16 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T20:35:10.097Z"
+  },
+  {
+    "url": "https://twitter.com/OpenAI/status/2090885187634905500",
+    "title": "OpenAI: We're dropping API and credit pricing of GPT-5.6 Sol by over 20%",
+    "description": "Article URL: https://twitter.com/OpenAI/status/2090885187634905500\nComments URL: https://news.ycombinator.com/item?id=49392908\nPoints: 7\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T20:32:41.642Z",
+    "published": "Fri, 21 Aug 2026 19:39:04 +0000"
+  },
+  {
+    "url": "https://www.seangoedecke.com/readers-cant-identify-watermarked-ai-text/",
+    "title": "Readers can't identify watermarked AI text",
+    "description": "Article URL: https://www.seangoedecke.com/readers-cant-identify-watermarked-ai-text/\nComments URL: https://news.ycombinator.com/item?id=49392819\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T20:32:41.642Z",
+    "published": "Fri, 21 Aug 2026 19:30:09 +0000"
+  },
+  {
+    "url": "https://groundtruth.getsphere.com/",
+    "title": "YC co is organizing an event in SF on AI in regulated industries",
+    "description": "Article URL: https://groundtruth.getsphere.com/\nComments URL: https://news.ycombinator.com/item?id=49392723\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T20:32:41.642Z",
+    "published": "Fri, 21 Aug 2026 19:22:10 +0000"
+  },
+  {
+    "url": "https://code.claude.com/docs/en/output-styles",
+    "title": "Claude has a \"Concise\" output style",
+    "description": "Article URL: https://code.claude.com/docs/en/output-styles\nComments URL: https://news.ycombinator.com/item?id=49392644\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T20:32:41.642Z",
+    "published": "Fri, 21 Aug 2026 19:15:26 +0000"
+  },
+  {
+    "url": "https://ryelang.org/blog/posts/war-is-not-god-neither-is-ai/",
+    "title": "War is not god, neither is AI",
+    "description": "Article URL: https://ryelang.org/blog/posts/war-is-not-god-neither-is-ai/\nComments URL: https://news.ycombinator.com/item?id=49392610\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T20:32:41.642Z",
+    "published": "Fri, 21 Aug 2026 19:11:48 +0000"
+  },
+  {
+    "url": "https://cyb3rops.medium.com/im-sick-of-reading-ai-written-posts-107767481fbf",
+    "title": "I'm Sick of Reading AI-Written Posts",
+    "description": "Article URL: https://cyb3rops.medium.com/im-sick-of-reading-ai-written-posts-107767481fbf\nComments URL: https://news.ycombinator.com/item?id=49392479\nPoints: 9\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T20:32:41.642Z",
+    "published": "Fri, 21 Aug 2026 19:01:21 +0000"
+  },
+  {
+    "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+    "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+    "description": "Article URL: https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders\nComments URL: https://news.ycombinator.com/item?id=49392331\nPoints: 17\n# Comments: 11",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T20:32:41.642Z",
+    "published": "Fri, 21 Aug 2026 18:48:28 +0000"
+  },
+  {
+    "url": "https://twitter.com/itsolelehmann/status/2090831992200020253",
+    "title": "AI is about to uncover a hidden world of animal communication",
+    "description": "Article URL: https://twitter.com/itsolelehmann/status/2090831992200020253\nComments URL: https://news.ycombinator.com/item?id=49392287\nPoints: 5\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T20:32:41.642Z",
+    "published": "Fri, 21 Aug 2026 18:44:16 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=_590TxMwvWM",
+    "title": "The Better You Are at Programming, the Worse AI Looks",
+    "description": "Article URL: https://www.youtube.com/watch?v=_590TxMwvWM\nComments URL: https://news.ycombinator.com/item?id=49392177\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T20:32:41.642Z",
+    "published": "Fri, 21 Aug 2026 18:34:44 +0000"
+  },
+  {
+    "url": "https://simonroses.com/2026/08/the-death-of-the-job-how-ai-and-robots-will-rewrite-work-in-the-next-10-years/",
+    "title": "The Death of the Job: How AI and Robots Will Rewrite Work in the Next 10 Years",
+    "description": "Article URL: https://simonroses.com/2026/08/the-death-of-the-job-how-ai-and-robots-will-rewrite-work-in-the-next-10-years/\nComments URL: https://news.ycombinator.com/item?id=49392125\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T20:32:41.642Z",
+    "published": "Fri, 21 Aug 2026 18:30:59 +0000"
+  },
+  {
+    "url": "https://www.axios.com/2026/08/21/national-debt-deficit-ai-spending",
+    "title": "America's capital crunch: Soaring debt collides with AI spending spree",
+    "description": "Article URL: https://www.axios.com/2026/08/21/national-debt-deficit-ai-spending\nComments URL: https://news.ycombinator.com/item?id=49392117\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T20:32:41.642Z",
+    "published": "Fri, 21 Aug 2026 18:30:04 +0000"
+  },
+  {
+    "url": "https://poorleton.fit",
+    "title": "Show HN: Poorleton – AI Generated Cycling Workouts",
+    "description": "Hello everyone, I recently got a used Peloton a couple of months ago for $200, but I didn't use it enough to justify $50/month for classes, so I vibe coded https://poorleton.fit/ over the weekend to have AI generated cycling classes.Let me know what you think.\n\nComments URL: https://news.ycombinato",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T20:32:41.642Z",
+    "published": "Fri, 21 Aug 2026 18:19:16 +0000"
+  },
+  {
+    "url": "https://twitter.com/ananayarora/status/2090742255284031537",
+    "title": "Benchmarks of rumored Mythos level model from Zhipu AI",
+    "description": "Article URL: https://twitter.com/ananayarora/status/2090742255284031537\nComments URL: https://news.ycombinator.com/item?id=49391959\nPoints: 5\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-21T20:32:41.642Z",
+    "published": "Fri, 21 Aug 2026 18:17:56 +0000"
   }
 ]
