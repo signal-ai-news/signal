@@ -4439,7 +4439,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T15:17:53.279Z",
-    "published": "Fri, 24 Jul 2026 14:14:01 +0000"
+    "published": "Fri, 24 Jul 2026 14:14:01 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T15:43:06.615Z"
   },
   {
     "url": "https://github.com/APareek89/power-coding",
@@ -4448,7 +4450,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T15:17:53.279Z",
-    "published": "Fri, 24 Jul 2026 14:11:45 +0000"
+    "published": "Fri, 24 Jul 2026 14:11:45 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T15:43:06.615Z"
   },
   {
     "url": "https://www.telegraph.co.uk/news/2026/07/24/ai-industry-out-of-control-publicity-stunts-tech/",
@@ -4457,7 +4461,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T15:17:53.279Z",
-    "published": "Fri, 24 Jul 2026 14:10:49 +0000"
+    "published": "Fri, 24 Jul 2026 14:10:49 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T15:43:06.615Z"
   },
   {
     "url": "https://github.com/OtoDock/oto-dock/",
@@ -32411,5 +32417,27 @@
     "published": "Fri, 21 Aug 2026 14:00:00 +0000",
     "processed": true,
     "processedAt": "2026-08-21T14:44:23.525Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/what-are-the-types-of-dimensions-in-a-star-schema-and-how-to-use-them/",
+    "title": "The Types of Dimensions in a Star Schema, and How to Use Them",
+    "description": "Dimensions are one of the two main object types in dimensional modelling. But what are the different types of dimensions? And how can you use them?\nThe post The Types of Dimensions in a Star Schema, and How to Use Them appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-21T15:40:44.947Z",
+    "published": "Fri, 21 Aug 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T15:43:06.616Z"
+  },
+  {
+    "url": "https://the-decoder.com/us-wants-to-force-partner-countries-to-choose-between-washington-and-beijing-in-the-ai-race/",
+    "title": "US wants to force partner countries to choose between Washington and Beijing in the AI race",
+    "description": "The US is drafting a letter to partner countries telling them to pick a side in the AI standoff between Washington and Beijing, according to Reuters.\nThe article US wants to force partner countries to choose between Washington and Beijing in the AI race appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-21T15:40:46.607Z",
+    "published": "Fri, 21 Aug 2026 15:18:29 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T15:43:06.616Z"
   }
 ]
