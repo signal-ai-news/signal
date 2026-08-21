@@ -4868,7 +4868,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T20:06:20.689Z",
-    "published": "Fri, 24 Jul 2026 17:50:22 +0000"
+    "published": "Fri, 24 Jul 2026 17:50:22 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T23:32:12.080Z"
   },
   {
     "url": "https://modelsagree.com/labs/ai-judges-overreacting",
@@ -4877,7 +4879,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T20:06:20.689Z",
-    "published": "Fri, 24 Jul 2026 17:44:15 +0000"
+    "published": "Fri, 24 Jul 2026 17:44:15 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T23:32:12.080Z"
   },
   {
     "url": "https://rentry.co/organic-code-spec-v1-0-md",
@@ -4886,7 +4890,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T20:06:20.689Z",
-    "published": "Fri, 24 Jul 2026 17:39:20 +0000"
+    "published": "Fri, 24 Jul 2026 17:39:20 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T23:32:12.080Z"
   },
   {
     "url": "http://artificialanalysis.ai/models/claude-opus-5",
@@ -32882,5 +32888,27 @@
     "published": "Fri, 21 Aug 2026 22:37:38 +0000",
     "processed": true,
     "processedAt": "2026-08-21T22:56:32.405Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+    "title": "Anthropic’s Opus 4.6 is a smut-machine",
+    "description": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-21T23:29:39.370Z",
+    "published": "Fri, 21 Aug 2026 23:07:25 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T23:32:12.081Z"
+  },
+  {
+    "url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+    "title": "The Unlikely Place at the Center of China’s AI Boom",
+    "description": "Cheap energy, abundant land, and proximity to Beijing have turned a city in Inner Mongolia into a crucial hub for data centers.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-21T23:29:58.548Z",
+    "published": "Fri, 21 Aug 2026 23:25:32 +0000",
+    "processed": true,
+    "processedAt": "2026-08-21T23:32:12.081Z"
   }
 ]
