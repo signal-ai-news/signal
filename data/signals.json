@@ -5187,7 +5187,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T00:15:01.062Z",
-    "published": "Fri, 24 Jul 2026 22:07:06 +0000"
+    "published": "Fri, 24 Jul 2026 22:07:06 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T07:39:40.853Z"
   },
   {
     "url": "https://typepad.cc/",
@@ -33233,5 +33235,49 @@
     "published": "Sat, 22 Aug 2026 04:33:06 +0000",
     "processed": true,
     "processedAt": "2026-08-22T05:59:05.657Z"
+  },
+  {
+    "url": "https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology",
+    "title": "Would a Hiroshima-scale AI disaster make humanity protect itself? I fear not",
+    "description": "Article URL: https://www.theguardian.com/commentisfree/2026/aug/22/ai-disaster-hiroshima-humankind-silicon-valley-technology\nComments URL: https://news.ycombinator.com/item?id=49397246\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T07:37:14.197Z",
+    "published": "Sat, 22 Aug 2026 06:46:35 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T07:39:40.854Z"
+  },
+  {
+    "url": "https://www.phoronix.com/news/Linus-Torvalds-Debug-AI",
+    "title": "Linus Torvalds Endures a Debug Session from Hell, \"Enormously Helped\" by AI",
+    "description": "Article URL: https://www.phoronix.com/news/Linus-Torvalds-Debug-AI\nComments URL: https://news.ycombinator.com/item?id=49397171\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T07:37:14.197Z",
+    "published": "Sat, 22 Aug 2026 06:34:41 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T07:39:40.854Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49397022",
+    "title": "Ask HN: What is the evidence for a stock market bubble in AI?",
+    "description": "Should the circular cash flows between the top AI companies, Nvidia, Anthropic, Openai, Google and Meta, be banned because of the systemic risks to the global economy?\n\nComments URL: https://news.ycombinator.com/item?id=49397022\nPoints: 4\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T07:37:14.197Z",
+    "published": "Sat, 22 Aug 2026 06:07:48 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T07:39:40.854Z"
+  },
+  {
+    "url": "https://the-decoder.com/psychological-methods-reveal-major-weaknesses-in-ai-security-testing/",
+    "title": "Psychological methods reveal major weaknesses in AI security testing",
+    "description": "Researchers at the UK AI Security Institute used psychometric methods to show that popular safety benchmarks for language models don't measure one consistent trait. Blanket blocking of requests can artificially inflate a safety score even as the model gets less useful day to day. The study",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-22T07:37:21.129Z",
+    "published": "Sat, 22 Aug 2026 07:00:05 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T07:39:40.854Z"
   }
 ]
