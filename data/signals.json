@@ -5825,7 +5825,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T20:14:39.159Z",
-    "published": "Sat, 25 Jul 2026 17:27:05 +0000"
+    "published": "Sat, 25 Jul 2026 17:27:05 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T17:29:01.015Z"
   },
   {
     "url": "https://swiftrocks.com/a-system-prompt-to-get-ai-to-stop-pretending-to-be-human",
@@ -5834,7 +5836,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T20:14:39.159Z",
-    "published": "Sat, 25 Jul 2026 17:01:05 +0000"
+    "published": "Sat, 25 Jul 2026 17:01:05 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T17:29:01.015Z"
   },
   {
     "url": "https://www.engadget.com/2223212/meta-walks-back-rate-limits-for-smart-glasses-conversation-focus/",
@@ -5843,7 +5847,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-25T20:15:00.005Z",
-    "published": "Sat, 25 Jul 2026 17:08:31 +0000"
+    "published": "Sat, 25 Jul 2026 17:08:31 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T17:29:01.015Z"
   },
   {
     "url": "https://www.engadget.com/2219824/airplane-mode-phone-charge-speed-explained/",
@@ -33888,5 +33894,27 @@
     "category": "community",
     "discovered": "2026-08-22T16:53:41.624Z",
     "published": "Sat, 22 Aug 2026 15:58:02 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/building-a-proper-backend-for-my-langgraph-ai-agent/",
+    "title": "Building a Proper Backend for My LangGraph AI Agent",
+    "description": "Turning a demo agent into something that can keep real booking data\nThe post Building a Proper Backend for My LangGraph AI Agent appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-22T17:26:39.045Z",
+    "published": "Sat, 22 Aug 2026 17:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T17:29:01.016Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/how-to-change-your-messages-background-on-iphone/",
+    "title": "You can change your Messages backgrounds on iPhone - so you never text the wrong person again",
+    "description": "Android has had the advantage when it comes to changing your message wallpaper - but there is an easy way to do it in iOS 26, too, as long as you don't mind one thing.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-22T17:26:54.380Z",
+    "published": "Sat, 22 Aug 2026 16:54:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-22T17:29:01.016Z"
   }
 ]
