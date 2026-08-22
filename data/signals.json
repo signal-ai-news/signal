@@ -5451,7 +5451,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T11:53:18.061Z",
-    "published": "Sat, 25 Jul 2026 08:27:56 +0000"
+    "published": "Sat, 25 Jul 2026 08:27:56 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T11:28:58.718Z"
   },
   {
     "url": "https://github.com/samchon/ttsc/tree/master/packages/graph",
@@ -5460,7 +5462,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T11:53:18.061Z",
-    "published": "Sat, 25 Jul 2026 08:13:38 +0000"
+    "published": "Sat, 25 Jul 2026 08:13:38 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T11:28:58.718Z"
   },
   {
     "url": "https://www.debian.org/vote/2026/vote_002",
@@ -5469,7 +5473,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T11:53:18.061Z",
-    "published": "Sat, 25 Jul 2026 08:06:30 +0000"
+    "published": "Sat, 25 Jul 2026 08:06:30 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T11:28:58.718Z"
   },
   {
     "url": "https://the-decoder.com/opus-5-may-have-solved-browser-based-prompt-injection-the-biggest-security-flaw-haunting-ai-agents/",
@@ -5478,7 +5484,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-25T11:53:24.947Z",
-    "published": "Sat, 25 Jul 2026 10:43:36 +0000"
+    "published": "Sat, 25 Jul 2026 10:43:36 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T11:28:58.718Z"
   },
   {
     "url": "https://the-decoder.com/anthropics-claude-opus-5-costs-well-below-fable-5-while-matching-or-beating-it-across-most-benchmarks/",
@@ -5487,7 +5495,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-25T11:53:24.947Z",
-    "published": "Sat, 25 Jul 2026 09:31:00 +0000"
+    "published": "Sat, 25 Jul 2026 09:31:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T11:28:58.718Z"
   },
   {
     "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
