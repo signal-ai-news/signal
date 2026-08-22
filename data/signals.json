@@ -4901,7 +4901,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T20:06:20.689Z",
-    "published": "Fri, 24 Jul 2026 17:32:50 +0000"
+    "published": "Fri, 24 Jul 2026 17:32:50 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T01:41:16.798Z"
   },
   {
     "url": "https://platform.claude.com/docs/en/build-with-claude/fast-mode",
@@ -4910,7 +4912,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-24T20:06:20.689Z",
-    "published": "Fri, 24 Jul 2026 17:25:11 +0000"
+    "published": "Fri, 24 Jul 2026 17:25:11 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T01:41:16.798Z"
   },
   {
     "url": "https://towardsdatascience.com/tabular-llms-an-introduction-to-the-foundation-models-that-predict-your-spreadsheet/",
@@ -4919,7 +4923,9 @@
     "source": "Towards Data Science",
     "category": "ml",
     "discovered": "2026-07-24T20:06:26.890Z",
-    "published": "Fri, 24 Jul 2026 16:30:00 +0000"
+    "published": "Fri, 24 Jul 2026 16:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T01:41:16.798Z"
   },
   {
     "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price/",
@@ -4928,7 +4934,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-24T20:06:28.589Z",
-    "published": "Fri, 24 Jul 2026 18:36:42 +0000"
+    "published": "Fri, 24 Jul 2026 18:36:42 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T01:41:16.798Z"
   },
   {
     "url": "https://the-decoder.com/microsofts-open-weight-ai-push-is-so-obviously-an-azure-play-it-hurts/",
@@ -4937,7 +4945,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-24T20:06:28.589Z",
-    "published": "Fri, 24 Jul 2026 16:06:02 +0000"
+    "published": "Fri, 24 Jul 2026 16:06:02 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T01:41:16.798Z"
   },
   {
     "url": "https://www.wired.com/story/uncanny-valley-podcast/",
