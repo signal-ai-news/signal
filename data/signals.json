@@ -5132,7 +5132,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T00:15:01.062Z",
-    "published": "Fri, 24 Jul 2026 22:42:17 +0000"
+    "published": "Fri, 24 Jul 2026 22:42:17 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T06:53:45.042Z"
   },
   {
     "url": "https://github.com/ravsau/wrap",
@@ -5141,7 +5143,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T00:15:01.062Z",
-    "published": "Fri, 24 Jul 2026 22:31:05 +0000"
+    "published": "Fri, 24 Jul 2026 22:31:05 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T06:53:45.042Z"
   },
   {
     "url": "https://kalytera.dev",
@@ -5150,7 +5154,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T00:15:01.062Z",
-    "published": "Fri, 24 Jul 2026 22:26:07 +0000"
+    "published": "Fri, 24 Jul 2026 22:26:07 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T06:53:45.042Z"
   },
   {
     "url": "https://www.youtube.com/watch?v=bTwnn-5TpmQ",
@@ -5159,7 +5165,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T00:15:01.062Z",
-    "published": "Fri, 24 Jul 2026 22:14:26 +0000"
+    "published": "Fri, 24 Jul 2026 22:14:26 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T06:53:45.042Z"
   },
   {
     "url": "https://www.theatlantic.com/technology/2026/07/ai-companies-hiring-academics/688002/",
@@ -5168,7 +5176,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T00:15:01.062Z",
-    "published": "Fri, 24 Jul 2026 22:13:20 +0000"
+    "published": "Fri, 24 Jul 2026 22:13:20 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T06:53:45.042Z"
   },
   {
     "url": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
