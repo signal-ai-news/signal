@@ -33926,5 +33926,78 @@
     "published": "Sat, 22 Aug 2026 16:54:00 GMT",
     "processed": true,
     "processedAt": "2026-08-22T17:29:01.016Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49402490",
+    "title": "How messy is your AI coding workflow?",
+    "description": "I’m curious how developers are actually working with multiple AI coding agents today.If you're using things like Cursor, Claude Code, Codex, ChatGPT, etc.:How do you maintain context when switching between them?\nHow much time do you spend moving context from one tool to another?\nDo you keep track o",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T18:39:08.587Z",
+    "published": "Sat, 22 Aug 2026 18:38:35 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T18:41:50.928Z"
+  },
+  {
+    "url": "https://www.quota-watch.com",
+    "title": "Quota Watch: Which LLM provider has which discount now?",
+    "description": "Article URL: https://www.quota-watch.com\nComments URL: https://news.ycombinator.com/item?id=49402421\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T18:39:08.587Z",
+    "published": "Sat, 22 Aug 2026 18:31:42 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T18:41:50.928Z"
+  },
+  {
+    "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+    "title": "Why your local LLM feels dumber than it is",
+    "description": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917\nComments URL: https://news.ycombinator.com/item?id=49402232\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T18:39:08.587Z",
+    "published": "Sat, 22 Aug 2026 18:14:16 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T18:41:50.928Z"
+  },
+  {
+    "url": "https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818",
+    "title": "When AI art has no author: Generated images can't trace to training data (study)",
+    "description": "Article URL: https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818\nComments URL: https://news.ycombinator.com/item?id=49402040\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T18:39:08.587Z",
+    "published": "Sat, 22 Aug 2026 17:50:30 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T18:41:50.928Z"
+  },
+  {
+    "url": "https://github.com/debabratasaha-dev/techskills",
+    "title": "Show HN: TechSkills – Open-source skill modules for AI coding agents",
+    "description": "Article URL: https://github.com/debabratasaha-dev/techskills\nComments URL: https://news.ycombinator.com/item?id=49401893\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T18:39:08.587Z",
+    "published": "Sat, 22 Aug 2026 17:37:45 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T18:41:50.928Z"
+  },
+  {
+    "url": "https://twitter.com/argofowl/status/2091150597374537729",
+    "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+    "description": "Article URL: https://twitter.com/argofowl/status/2091150597374537729\nComments URL: https://news.ycombinator.com/item?id=49401549\nPoints: 54\n# Comments: 55",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T18:39:08.587Z",
+    "published": "Sat, 22 Aug 2026 16:58:49 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2242192/uber-hit-with-1-billion-fine-for-automatically-deactivating-drivers-in-europe/",
+    "title": "Uber hit with a nearly $1 billion fine for automatically deactivating drivers in Europe",
+    "description": "A Dutch data regulatory authority said that Uber has to pay 824.9 million euros for violating the GDPR.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-22T18:39:45.310Z",
+    "published": "Sat, 22 Aug 2026 17:52:18 +0000"
   }
 ]
