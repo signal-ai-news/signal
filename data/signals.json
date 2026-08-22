@@ -4956,7 +4956,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-07-24T20:06:35.358Z",
-    "published": "Fri, 24 Jul 2026 17:53:01 +0000"
+    "published": "Fri, 24 Jul 2026 17:53:01 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T04:42:41.270Z"
   },
   {
     "url": "https://www.zdnet.com/article/claude-opus-5-near-fable-performance-at-half-the-price/",
@@ -4965,7 +4967,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-24T20:06:43.422Z",
-    "published": "Fri, 24 Jul 2026 17:00:00 GMT"
+    "published": "Fri, 24 Jul 2026 17:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-22T04:42:41.270Z"
   },
   {
     "url": "https://www.engadget.com/2222797/midjourney-buying-astrology-horoscope-app-co-star/",
@@ -4974,7 +4978,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-24T20:06:44.050Z",
-    "published": "Fri, 24 Jul 2026 19:16:10 +0000"
+    "published": "Fri, 24 Jul 2026 19:16:10 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T04:42:41.270Z"
   },
   {
     "url": "https://www.engadget.com/2222782/prime-video-blade-runner-2099-trailer-release-date/",
@@ -4983,7 +4989,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-24T20:06:44.050Z",
-    "published": "Fri, 24 Jul 2026 18:59:13 +0000"
+    "published": "Fri, 24 Jul 2026 18:59:13 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T04:42:41.270Z"
   },
   {
     "url": "https://www.engadget.com/2222542/anthropic-says-opus-5-can-nearly-match-its-top-performing-model-for-half-the-price/",
@@ -4992,7 +5000,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-24T20:06:44.050Z",
-    "published": "Fri, 24 Jul 2026 17:00:00 +0000"
+    "published": "Fri, 24 Jul 2026 17:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T04:42:41.270Z"
   },
   {
     "url": "https://www.engadget.com/2222631/avatar-seven-havens-trailer-release-date/",
