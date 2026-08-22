@@ -5803,7 +5803,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T20:14:39.159Z",
-    "published": "Sat, 25 Jul 2026 17:53:15 +0000"
+    "published": "Sat, 25 Jul 2026 17:53:15 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T16:34:24.906Z"
   },
   {
     "url": "https://www.dragos.com/blog/ai-assisted-ics-attack-water-utility",
@@ -5812,7 +5814,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T20:14:39.159Z",
-    "published": "Sat, 25 Jul 2026 17:31:29 +0000"
+    "published": "Sat, 25 Jul 2026 17:31:29 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T16:34:24.906Z"
   },
   {
     "url": "https://www.ft.com/content/4730ad91-66aa-477c-9246-6d946afb0c8c",
@@ -33751,5 +33755,38 @@
     "published": "Sat, 22 Aug 2026 15:00:00 +0000",
     "processed": true,
     "processedAt": "2026-08-22T15:30:09.741Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+    "title": "OpenAI says California should strengthen its AI safety bill",
+    "description": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-22T16:31:53.961Z",
+    "published": "Sat, 22 Aug 2026 16:30:34 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T16:34:24.907Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+    "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+    "description": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-22T16:31:53.961Z",
+    "published": "Sat, 22 Aug 2026 16:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T16:34:24.907Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/i-cant-stop-80-of-developers-find-ai-coding-more-addictive-than-helpful/",
+    "title": "'I can't stop': 80% of developers find AI coding more addictive than helpful",
+    "description": "A Coddy Developer Survey revealed that AI coding is leading to a new kind of burnout.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-22T16:32:19.228Z",
+    "published": "Sat, 22 Aug 2026 16:24:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-22T16:34:24.907Z"
   }
 ]
