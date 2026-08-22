@@ -33594,5 +33594,87 @@
     "published": "Sat, 22 Aug 2026 13:00:00 +0000",
     "processed": true,
     "processedAt": "2026-08-22T13:39:15.177Z"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.13573",
+    "title": "A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing",
+    "description": "Article URL: https://arxiv.org/abs/2608.13573\nComments URL: https://news.ycombinator.com/item?id=49399974\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T14:28:16.786Z",
+    "published": "Sat, 22 Aug 2026 14:16:26 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T14:30:44.721Z"
+  },
+  {
+    "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+    "title": "Digging the grave of my job: Hollywood creatives training AI to do their jobs",
+    "description": "Article URL: https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs\nComments URL: https://news.ycombinator.com/item?id=49399941\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T14:28:16.786Z",
+    "published": "Sat, 22 Aug 2026 14:13:05 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T14:30:44.721Z"
+  },
+  {
+    "url": "https://huijer.co/notes/going-out-of-my-way-to-prove-im-not-an-ai-og-images",
+    "title": "Going out of my way to prove I'm not an AI – Ep. #1 – OG images",
+    "description": "Article URL: https://huijer.co/notes/going-out-of-my-way-to-prove-im-not-an-ai-og-images\nComments URL: https://news.ycombinator.com/item?id=49399851\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T14:28:16.786Z",
+    "published": "Sat, 22 Aug 2026 14:03:09 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T14:30:44.721Z"
+  },
+  {
+    "url": "https://github.com/kidus-tiliksew/conveyor",
+    "title": "Show HN: I make my AI agents file paperwork before they're allowed to code",
+    "description": "Article URL: https://github.com/kidus-tiliksew/conveyor\nComments URL: https://news.ycombinator.com/item?id=49399837\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T14:28:16.786Z",
+    "published": "Sat, 22 Aug 2026 14:01:46 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T14:30:44.721Z"
+  },
+  {
+    "url": "https://github.com/pawaca/dsh-edge",
+    "title": "Show HN: Running a full AI coding agent inside Cloudflare Durable Object",
+    "description": "Article URL: https://github.com/pawaca/dsh-edge\nComments URL: https://news.ycombinator.com/item?id=49399811\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T14:28:16.786Z",
+    "published": "Sat, 22 Aug 2026 13:58:50 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T14:30:44.721Z"
+  },
+  {
+    "url": "https://knoku.com",
+    "title": "Show HN: Knoku – cited AI answers from docs, files, and team knowledge",
+    "description": "Article URL: https://knoku.com\nComments URL: https://news.ycombinator.com/item?id=49399334\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T14:28:16.786Z",
+    "published": "Sat, 22 Aug 2026 13:04:13 +0000"
+  },
+  {
+    "url": "https://openrating.io/blog/current-state-of-ai-model-fingerprinting",
+    "title": "How to Fingerprint AI Models When Prompts Lie",
+    "description": "Article URL: https://openrating.io/blog/current-state-of-ai-model-fingerprinting\nComments URL: https://news.ycombinator.com/item?id=49399051\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T14:28:16.786Z",
+    "published": "Sat, 22 Aug 2026 12:26:50 +0000"
+  },
+  {
+    "url": "https://digg.com/tech/fktxxvtg",
+    "title": "Claude Code Adds Concise Output Style Option",
+    "description": "Article URL: https://digg.com/tech/fktxxvtg\nComments URL: https://news.ycombinator.com/item?id=49398966\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T14:28:16.786Z",
+    "published": "Sat, 22 Aug 2026 12:14:39 +0000"
   }
 ]
