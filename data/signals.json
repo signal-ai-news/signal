@@ -33102,5 +33102,60 @@
     "category": "community",
     "discovered": "2026-08-22T03:00:46.815Z",
     "published": "Fri, 21 Aug 2026 23:50:27 +0000"
+  },
+  {
+    "url": "https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/",
+    "title": "Getting Freaky in the Age of AI",
+    "description": "Article URL: https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/\nComments URL: https://news.ycombinator.com/item?id=49396391\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T03:48:31.091Z",
+    "published": "Sat, 22 Aug 2026 03:45:57 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T03:50:55.661Z"
+  },
+  {
+    "url": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+    "title": "Linus: And this was a debug session from hell, enormously helped by an AI",
+    "description": "Article URL: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=818bebeb63dd6bf5f4e07e145f6cdbace520a34c\nComments URL: https://news.ycombinator.com/item?id=49396366\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T03:48:31.091Z",
+    "published": "Sat, 22 Aug 2026 03:39:16 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T03:50:55.661Z"
+  },
+  {
+    "url": "https://deepsql.ai/blog/giving-an-llm-your-database-is-easy-taking-access-away-is-hard",
+    "title": "Giving an LLM your prod database is easy. Taking access away is the hard part",
+    "description": "Article URL: https://deepsql.ai/blog/giving-an-llm-your-database-is-easy-taking-access-away-is-hard\nComments URL: https://news.ycombinator.com/item?id=49396348\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T03:48:31.091Z",
+    "published": "Sat, 22 Aug 2026 03:33:34 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T03:50:55.661Z"
+  },
+  {
+    "url": "https://www.wsj.com/tech/ai/ai-agents-startup-work-culture-fa10494d",
+    "title": "Startup Founders Are Working Harder Than Ever to Keep Up with Their AI Agents",
+    "description": "Article URL: https://www.wsj.com/tech/ai/ai-agents-startup-work-culture-fa10494d\nComments URL: https://news.ycombinator.com/item?id=49396296\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T03:48:31.091Z",
+    "published": "Sat, 22 Aug 2026 03:20:33 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T03:50:55.661Z"
+  },
+  {
+    "url": "https://www.engadget.com/2242070/apple-reportedly-cut-more-than-200-jobs-across-vision-pro-and-siri-software-teams/",
+    "title": "Apple reportedly cut more than 200 jobs across Vision Pro and Siri software teams",
+    "description": "Apple has laid off employees in its Vision Pro and Siri teams as it shifts focus to smart glasses and next-gen AI tech.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-22T03:48:50.419Z",
+    "published": "Sat, 22 Aug 2026 03:14:33 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T03:50:55.661Z"
   }
 ]
