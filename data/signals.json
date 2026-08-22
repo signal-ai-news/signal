@@ -5748,7 +5748,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T20:14:39.159Z",
-    "published": "Sat, 25 Jul 2026 18:07:06 +0000"
+    "published": "Sat, 25 Jul 2026 18:07:06 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T15:51:16.426Z"
   },
   {
     "url": "https://github.com/AjnasNB/qarinah",
@@ -5757,7 +5759,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T20:14:39.159Z",
-    "published": "Sat, 25 Jul 2026 18:05:26 +0000"
+    "published": "Sat, 25 Jul 2026 18:05:26 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T15:51:16.426Z"
   },
   {
     "url": "https://pypi.org/project/pyshackle/",
@@ -5766,7 +5770,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T20:14:39.159Z",
-    "published": "Sat, 25 Jul 2026 18:04:11 +0000"
+    "published": "Sat, 25 Jul 2026 18:04:11 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T15:51:16.426Z"
   },
   {
     "url": "https://news.ycombinator.com/item?id=49049986",
@@ -5775,7 +5781,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T20:14:39.159Z",
-    "published": "Sat, 25 Jul 2026 18:03:26 +0000"
+    "published": "Sat, 25 Jul 2026 18:03:26 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T15:51:16.426Z"
   },
   {
     "url": "https://news.ycombinator.com/item?id=49049960",
@@ -5784,7 +5792,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T20:14:39.159Z",
-    "published": "Sat, 25 Jul 2026 18:00:42 +0000"
+    "published": "Sat, 25 Jul 2026 18:00:42 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T15:51:16.426Z"
   },
   {
     "url": "https://zenodo.org/records/21566453",
