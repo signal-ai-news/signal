@@ -6089,7 +6089,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-26T09:02:13.449Z",
-    "published": "Sun, 26 Jul 2026 07:54:11 +0000"
+    "published": "Sun, 26 Jul 2026 07:54:11 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T20:53:23.797Z"
   },
   {
     "url": "https://gitroast-kappa.vercel.app/",
@@ -6098,7 +6100,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-26T09:02:13.449Z",
-    "published": "Sun, 26 Jul 2026 06:28:24 +0000"
+    "published": "Sun, 26 Jul 2026 06:28:24 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T20:53:23.797Z"
   },
   {
     "url": "https://nymag.com/intelligencer/article/hans-moravec-interview.html",
@@ -6107,7 +6111,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-26T09:02:13.449Z",
-    "published": "Sun, 26 Jul 2026 06:22:05 +0000"
+    "published": "Sun, 26 Jul 2026 06:22:05 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T20:53:23.797Z"
   },
   {
     "url": "https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai",
@@ -34146,5 +34152,27 @@
     "published": "Sat, 22 Aug 2026 20:00:00 +0000",
     "processed": true,
     "processedAt": "2026-08-22T20:32:55.237Z"
+  },
+  {
+    "url": "https://github.com/HarjjotSinghh/locum",
+    "title": "Show HN: Locum – Grok Bot delegates tasks to Claude/Codex CLI on your machine",
+    "description": "Article URL: https://github.com/HarjjotSinghh/locum\nComments URL: https://news.ycombinator.com/item?id=49403691\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T20:51:00.224Z",
+    "published": "Sat, 22 Aug 2026 20:41:34 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T20:53:23.798Z"
+  },
+  {
+    "url": "https://www.engadget.com/2240136/how-to-limit-instragram-from-using-data-for-ai-ads/",
+    "title": "How to limit Instagram from using your data for AI and ads",
+    "description": "You can keep Instagram from using your activity outside the app to influence the ads you get.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-22T20:51:19.922Z",
+    "published": "Sat, 22 Aug 2026 20:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T20:53:23.798Z"
   }
 ]
