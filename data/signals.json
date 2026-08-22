@@ -6254,7 +6254,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-26T09:02:20.791Z",
-    "published": "Sun, 26 Jul 2026 08:35:49 +0000"
+    "published": "Sun, 26 Jul 2026 08:35:49 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T23:50:36.830Z"
   },
   {
     "url": "https://the-decoder.com/us-reportedly-favors-selective-bans-over-blanket-restrictions-on-chinese-open-weight-models-citing-security-concerns/",
@@ -6263,7 +6265,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-26T09:02:20.791Z",
-    "published": "Sun, 26 Jul 2026 07:56:24 +0000"
+    "published": "Sun, 26 Jul 2026 07:56:24 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T23:50:36.830Z"
   },
   {
     "url": "https://the-decoder.com/the-ai-coding-tutor-paradox-grows-as-educators-scramble-to-rethink-how-they-test-real-skills/",
@@ -6272,7 +6276,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-26T09:02:20.791Z",
-    "published": "Sun, 26 Jul 2026 06:59:56 +0000"
+    "published": "Sun, 26 Jul 2026 06:59:56 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T23:50:36.830Z"
   },
   {
     "url": "https://www.zdnet.com/article/galaxy-z-fold-8-ultra-vs-motorola-razr-ultra-comparison/",
@@ -34359,5 +34365,27 @@
     "published": "Sat, 22 Aug 2026 22:35:29 +0000",
     "processed": true,
     "processedAt": "2026-08-22T23:29:36.125Z"
+  },
+  {
+    "url": "https://www.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted",
+    "title": "AI has failed to win people's trust. Its makers? less trusted",
+    "description": "Article URL: https://www.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted\nComments URL: https://news.ycombinator.com/item?id=49404869\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T23:48:13.276Z",
+    "published": "Sat, 22 Aug 2026 23:30:20 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T23:50:36.831Z"
+  },
+  {
+    "url": "https://strawberry9.github.io/the-wrong-memory/cover.html",
+    "title": "AI as a Co-Writer",
+    "description": "Article URL: https://strawberry9.github.io/the-wrong-memory/cover.html\nComments URL: https://news.ycombinator.com/item?id=49404856\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T23:48:13.276Z",
+    "published": "Sat, 22 Aug 2026 23:27:56 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T23:50:36.831Z"
   }
 ]
