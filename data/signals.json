@@ -6122,7 +6122,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-26T09:02:13.449Z",
-    "published": "Sun, 26 Jul 2026 05:59:36 +0000"
+    "published": "Sun, 26 Jul 2026 05:59:36 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T21:30:17.585Z"
   },
   {
     "url": "https://wilburhimself.github.io/blog/64-the-two-sources-of-noise-every-llm-evaluation-system-must-handle/",
@@ -6131,7 +6133,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-26T09:02:13.449Z",
-    "published": "Sun, 26 Jul 2026 05:57:24 +0000"
+    "published": "Sun, 26 Jul 2026 05:57:24 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T21:30:17.585Z"
   },
   {
     "url": "https://hydra.uvansa.com/",
@@ -6140,7 +6144,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-26T09:02:13.449Z",
-    "published": "Sun, 26 Jul 2026 05:38:56 +0000"
+    "published": "Sun, 26 Jul 2026 05:38:56 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T21:30:17.585Z"
   },
   {
     "url": "https://kraghavan.ca/llm-infrastructure/inference/2026/04/14/re-introduction-to-inference.html",
@@ -34174,5 +34180,27 @@
     "published": "Sat, 22 Aug 2026 20:30:00 +0000",
     "processed": true,
     "processedAt": "2026-08-22T20:53:23.798Z"
+  },
+  {
+    "url": "https://theconversation.com/the-importance-of-teaching-students-what-ai-cant-do-286100",
+    "title": "The importance of teaching students what AI can't do",
+    "description": "Article URL: https://theconversation.com/the-importance-of-teaching-students-what-ai-cant-do-286100\nComments URL: https://news.ycombinator.com/item?id=49403885\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T21:27:49.496Z",
+    "published": "Sat, 22 Aug 2026 21:06:27 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T21:30:17.586Z"
+  },
+  {
+    "url": "https://slide-deck.io/",
+    "title": "Slide-deck.io: remixable decks and MCP so Claude returns a live URL (gantt too)",
+    "description": "Article URL: https://slide-deck.io/\nComments URL: https://news.ycombinator.com/item?id=49403814\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T21:27:49.496Z",
+    "published": "Sat, 22 Aug 2026 20:56:03 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T21:30:17.586Z"
   }
 ]
