@@ -6155,7 +6155,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-26T09:02:13.449Z",
-    "published": "Sun, 26 Jul 2026 05:18:42 +0000"
+    "published": "Sun, 26 Jul 2026 05:18:42 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T21:51:15.689Z"
   },
   {
     "url": "https://kraghavan.ca/llm-infrastructure/evaluation/2026/07/25/llm-as-a-judge-field-guide.html",
@@ -6164,7 +6166,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-26T09:02:13.449Z",
-    "published": "Sun, 26 Jul 2026 05:17:30 +0000"
+    "published": "Sun, 26 Jul 2026 05:17:30 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T21:51:15.689Z"
   },
   {
     "url": "https://old.reddit.com/r/ClaudeAI/comments/1v6fiyj/you_can_view_a_lot_of_shared_conversations_via/",
@@ -6173,7 +6177,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-26T09:02:13.449Z",
-    "published": "Sun, 26 Jul 2026 04:38:09 +0000"
+    "published": "Sun, 26 Jul 2026 04:38:09 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T21:51:15.689Z"
   },
   {
     "url": "https://www.schneier.com/blog/archives/2026/07/mit-to-become-hotbed-of-ai-video-surveillance.html",
@@ -6182,7 +6188,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-26T09:02:13.449Z",
-    "published": "Sun, 26 Jul 2026 04:07:54 +0000"
+    "published": "Sun, 26 Jul 2026 04:07:54 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T21:51:15.689Z"
   },
   {
     "url": "https://www.energy.gov/articles/secretary-energy-chris-wright-announces-first-genesis-mission-projects-selected-accelerate",
@@ -34202,5 +34210,16 @@
     "published": "Sat, 22 Aug 2026 20:56:03 +0000",
     "processed": true,
     "processedAt": "2026-08-22T21:30:17.586Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+    "description": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-22T21:48:46.606Z",
+    "published": "Sat, 22 Aug 2026 21:46:56 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T21:51:15.690Z"
   }
 ]
