@@ -5198,7 +5198,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T00:15:01.062Z",
-    "published": "Fri, 24 Jul 2026 21:46:50 +0000"
+    "published": "Fri, 24 Jul 2026 21:46:50 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T08:40:57.997Z"
   },
   {
     "url": "https://www.theregister.com/security/2026/07/23/one-chatgpt-link-could-smuggle-a-rogue-ai-agent-into-your-company/5275116",
@@ -5207,7 +5209,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T00:15:01.062Z",
-    "published": "Fri, 24 Jul 2026 21:43:30 +0000"
+    "published": "Fri, 24 Jul 2026 21:43:30 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T08:40:57.997Z"
   },
   {
     "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
@@ -5216,7 +5220,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T00:15:01.062Z",
-    "published": "Fri, 24 Jul 2026 21:41:06 +0000"
+    "published": "Fri, 24 Jul 2026 21:41:06 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T08:40:57.997Z"
   },
   {
     "url": "https://gamesbeat.com/network-expert-glenn-fiedler-warns-game-programmers-to-fix-game-code-vulnerabilities-that-ai-can-now-find-exclusive/",
@@ -33279,5 +33285,27 @@
     "published": "Sat, 22 Aug 2026 07:00:05 +0000",
     "processed": true,
     "processedAt": "2026-08-22T07:39:40.854Z"
+  },
+  {
+    "url": "https://the-decoder.com/rayneos-new-ai-glasses-skip-the-camera-focus-on-text-overlays/",
+    "title": "RayNeo's new AI glasses skip the camera, focus on text overlays",
+    "description": "RayNeo is launching a new headset without a camera or speakers.\nThe article RayNeo&#039;s new AI glasses skip the camera, focus on text overlays appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-22T08:38:35.783Z",
+    "published": "Sat, 22 Aug 2026 08:00:14 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T08:40:57.998Z"
+  },
+  {
+    "url": "https://the-decoder.com/netflix-tests-language-model-as-alternative-to-hand-built-recommendation-logic/",
+    "title": "Netflix tests language model as alternative to hand-built recommendation logic",
+    "description": "Netflix pitted its years-old recommendation engine against an in-house language model called GenRec and says it got better results. Instead of relying on thousands of hand-crafted features, GenRec converts viewing behavior into plain text. Netflix itself calls it \"an early but promising ste",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-22T08:38:35.783Z",
+    "published": "Sat, 22 Aug 2026 07:30:16 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T08:40:57.998Z"
   }
 ]
