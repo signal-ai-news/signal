@@ -5858,7 +5858,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-25T20:15:00.005Z",
-    "published": "Sat, 25 Jul 2026 16:30:00 +0000"
+    "published": "Sat, 25 Jul 2026 16:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T17:51:57.431Z"
   },
   {
     "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
@@ -5922,7 +5924,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T23:47:28.803Z",
-    "published": "Sat, 25 Jul 2026 21:52:01 +0000"
+    "published": "Sat, 25 Jul 2026 21:52:01 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T17:51:57.431Z"
   },
   {
     "url": "https://www.maxmynter.com/pages/blog/jobhunt",
@@ -5931,7 +5935,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T23:47:28.803Z",
-    "published": "Sat, 25 Jul 2026 21:19:42 +0000"
+    "published": "Sat, 25 Jul 2026 21:19:42 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T17:51:57.431Z"
   },
   {
     "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
@@ -5940,7 +5946,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T23:47:28.803Z",
-    "published": "Sat, 25 Jul 2026 21:18:06 +0000"
+    "published": "Sat, 25 Jul 2026 21:18:06 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T17:51:57.431Z"
   },
   {
     "url": "https://www.cybergym.io/exploitgym/",
@@ -5949,7 +5957,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T23:47:28.803Z",
-    "published": "Sat, 25 Jul 2026 21:17:09 +0000"
+    "published": "Sat, 25 Jul 2026 21:17:09 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T17:51:57.431Z"
   },
   {
     "url": "https://github.com/dperussina/toolgz",
