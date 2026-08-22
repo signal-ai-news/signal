@@ -6078,7 +6078,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-26T09:02:13.449Z",
-    "published": "Sun, 26 Jul 2026 08:02:03 +0000"
+    "published": "Sun, 26 Jul 2026 08:02:03 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T20:32:55.236Z"
   },
   {
     "url": "https://antigma.ai/blog/2026/07/25/short-prompt-small-models",
@@ -34100,5 +34102,49 @@
     "category": "news",
     "discovered": "2026-08-22T19:27:45.449Z",
     "published": "Sat, 22 Aug 2026 19:27:04 +0000"
+  },
+  {
+    "url": "https://pedromadruga.com/blog/domain-driven-ai/",
+    "title": "Domain Driven AI",
+    "description": "Article URL: https://pedromadruga.com/blog/domain-driven-ai/\nComments URL: https://news.ycombinator.com/item?id=49403103\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T20:30:26.237Z",
+    "published": "Sat, 22 Aug 2026 19:42:19 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T20:32:55.237Z"
+  },
+  {
+    "url": "https://github.com/arturlimaaa/terminito",
+    "title": "Claude Code status line for worktree, branch, context and quota",
+    "description": "Article URL: https://github.com/arturlimaaa/terminito\nComments URL: https://news.ycombinator.com/item?id=49403092\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T20:30:26.237Z",
+    "published": "Sat, 22 Aug 2026 19:40:41 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T20:32:55.237Z"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-08-21/zalando-zara-use-ai-virtual-try-ons-to-tackle-clothing-returns",
+    "title": "Retailers Want AI to Solve Online Shopping's Biggest Problem",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-08-21/zalando-zara-use-ai-virtual-try-ons-to-tackle-clothing-returns\nComments URL: https://news.ycombinator.com/item?id=49402978\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T20:30:26.237Z",
+    "published": "Sat, 22 Aug 2026 19:26:57 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T20:32:55.237Z"
+  },
+  {
+    "url": "https://www.engadget.com/2240134/oldest-iphone-model-trade-in-with-apple/",
+    "title": "The oldest iPhone model you can trade-in with Apple is older than you'd think",
+    "description": "Even old Apple devices you haven't touched in years could still get you some credit towards a new phone.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-22T20:30:47.513Z",
+    "published": "Sat, 22 Aug 2026 20:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T20:32:55.237Z"
   }
 ]
