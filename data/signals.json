@@ -5341,7 +5341,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T11:53:18.060Z",
-    "published": "Sat, 25 Jul 2026 10:52:56 +0000"
+    "published": "Sat, 25 Jul 2026 10:52:56 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T09:56:53.807Z"
   },
   {
     "url": "https://ordinarymantrying.com/tools/ai-invest-os.html",
@@ -5350,7 +5352,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T11:53:18.060Z",
-    "published": "Sat, 25 Jul 2026 10:52:22 +0000"
+    "published": "Sat, 25 Jul 2026 10:52:22 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T09:56:53.807Z"
   },
   {
     "url": "https://grigio.org/sandbox-bwrap-nix-a-lightweight-sandbox-for-ai-agents-and-experiments/",
@@ -5359,7 +5363,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T11:53:18.060Z",
-    "published": "Sat, 25 Jul 2026 10:17:13 +0000"
+    "published": "Sat, 25 Jul 2026 10:17:13 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T09:56:53.807Z"
   },
   {
     "url": "https://github.com/firasd/mcpclock",
@@ -5368,7 +5374,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T11:53:18.060Z",
-    "published": "Sat, 25 Jul 2026 10:17:12 +0000"
+    "published": "Sat, 25 Jul 2026 10:17:12 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T09:56:53.807Z"
   },
   {
     "url": "https://github.com/aleenz1102/AgentState",
@@ -5377,7 +5385,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T11:53:18.060Z",
-    "published": "Sat, 25 Jul 2026 09:30:09 +0000"
+    "published": "Sat, 25 Jul 2026 09:30:09 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T09:56:53.807Z"
   },
   {
     "url": "https://www.getdebug.dev/blog/python-ai-app-prefilters",
