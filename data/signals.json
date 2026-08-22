@@ -33336,5 +33336,105 @@
     "published": "Sat, 22 Aug 2026 09:00:20 +0000",
     "processed": true,
     "processedAt": "2026-08-22T09:36:03.099Z"
+  },
+  {
+    "url": "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/",
+    "title": "The Joy of Why (podcast): Are We Thinking Correctly About AI Intelligence?",
+    "description": "Article URL: https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelligence-20260820/\nComments URL: https://news.ycombinator.com/item?id=49398270\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T10:30:23.950Z",
+    "published": "Sat, 22 Aug 2026 10:16:28 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T10:33:02.007Z"
+  },
+  {
+    "url": "https://github.com/CyberStrikeus/CyberStrike",
+    "title": "CyberStrike – open-source AI harness for offensive security (AGPL)",
+    "description": "Article URL: https://github.com/CyberStrikeus/CyberStrike\nComments URL: https://news.ycombinator.com/item?id=49398125\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T10:30:23.950Z",
+    "published": "Sat, 22 Aug 2026 09:44:44 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T10:33:02.007Z"
+  },
+  {
+    "url": "https://www.mathacademy.com/how-our-ai-works",
+    "title": "Math Academy – How Our AI Works",
+    "description": "Article URL: https://www.mathacademy.com/how-our-ai-works\nComments URL: https://news.ycombinator.com/item?id=49398120\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T10:30:23.950Z",
+    "published": "Sat, 22 Aug 2026 09:43:56 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T10:33:02.007Z"
+  },
+  {
+    "url": "https://nostarch.com/embedded-ai",
+    "title": "Embedded AI",
+    "description": "Article URL: https://nostarch.com/embedded-ai\nComments URL: https://news.ycombinator.com/item?id=49397947\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T10:30:23.950Z",
+    "published": "Sat, 22 Aug 2026 09:07:26 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T10:33:02.007Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49397880",
+    "title": "Ask HN: Is there a \"knowledge base\" of expert insights for Claude?",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=49397880\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T10:30:23.950Z",
+    "published": "Sat, 22 Aug 2026 08:52:16 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T10:33:02.007Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49397791",
+    "title": "Is \"AI slop\" now the default response to every new project?",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=49397791\nPoints: 2\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T10:30:23.950Z",
+    "published": "Sat, 22 Aug 2026 08:35:00 +0000"
+  },
+  {
+    "url": "https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/8/older-americans-leaving-workforce-poses-challenges-for-ai-plans-105150367",
+    "title": "Older Americans leaving workforce poses challenges for AI plans",
+    "description": "Article URL: https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/8/older-americans-leaving-workforce-poses-challenges-for-ai-plans-105150367\nComments URL: https://news.ycombinator.com/item?id=49397749\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T10:30:23.950Z",
+    "published": "Sat, 22 Aug 2026 08:24:50 +0000"
+  },
+  {
+    "url": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/",
+    "title": "I turned Unix talk from 1983 into the interface for my AI",
+    "description": "Article URL: https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/\nComments URL: https://news.ycombinator.com/item?id=49397698\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T10:30:23.950Z",
+    "published": "Sat, 22 Aug 2026 08:14:41 +0000"
+  },
+  {
+    "url": "https://valeriavg.dev/agile-ai-development-lifecycle",
+    "title": "Show HN: Agile AI Development Lifecycle",
+    "description": "Schrödinger's AI-DLC Framework\n\nComments URL: https://news.ycombinator.com/item?id=49397671\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T10:30:23.950Z",
+    "published": "Sat, 22 Aug 2026 08:08:59 +0000"
+  },
+  {
+    "url": "https://learnleap.xyz",
+    "title": "Show HN: Learn Leap, an AI tutor that teaches from your own material",
+    "description": "I built Learn Leap because I found myself constantly asking ChatGPT questions while reading research papers. I wanted something that already understood what I was reading. With Learn Leap you can upload your own material and have an AI tutor teach directly from it. The tutor has full context on you",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T10:30:23.950Z",
+    "published": "Sat, 22 Aug 2026 08:07:56 +0000"
   }
 ]
