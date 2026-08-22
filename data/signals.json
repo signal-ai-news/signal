@@ -33999,5 +33999,96 @@
     "category": "news",
     "discovered": "2026-08-22T18:39:45.310Z",
     "published": "Sat, 22 Aug 2026 17:52:18 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+    "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+    "description": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-22T19:27:18.546Z",
+    "published": "Sat, 22 Aug 2026 19:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T19:29:51.102Z"
+  },
+  {
+    "url": "https://www.theregister.com/security/2026/08/22/if-youre-not-using-ai-to-attack-your-own-systems-your-adversaries-will/5291346",
+    "title": "If you're not using AI to attack your own systems, your adversaries will",
+    "description": "Article URL: https://www.theregister.com/security/2026/08/22/if-youre-not-using-ai-to-attack-your-own-systems-your-adversaries-will/5291346\nComments URL: https://news.ycombinator.com/item?id=49402768\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T19:27:24.286Z",
+    "published": "Sat, 22 Aug 2026 19:06:45 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T19:29:51.102Z"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15",
+    "title": "Nvidia Customers Notified About AI-Related Price Hikes Above 15%",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15\nComments URL: https://news.ycombinator.com/item?id=49402720\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T19:27:24.286Z",
+    "published": "Sat, 22 Aug 2026 19:02:54 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T19:29:51.102Z"
+  },
+  {
+    "url": "https://www.karlsnotes.com/can-an-ai-agent-serve-at-a-foreign-office/",
+    "title": "Can an AI agent serve at a Foreign Office?",
+    "description": "Article URL: https://www.karlsnotes.com/can-an-ai-agent-serve-at-a-foreign-office/\nComments URL: https://news.ycombinator.com/item?id=49402619\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T19:27:24.286Z",
+    "published": "Sat, 22 Aug 2026 18:53:27 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T19:29:51.102Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=UOP_2zz30qo",
+    "title": "Pygame Boundaries: Stop Your Player from Leaving the Screen – No AI",
+    "description": "Article URL: https://www.youtube.com/watch?v=UOP_2zz30qo\nComments URL: https://news.ycombinator.com/item?id=49402611\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T19:27:24.286Z",
+    "published": "Sat, 22 Aug 2026 18:52:47 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T19:29:51.102Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=kzcI5F4tGiU",
+    "title": "How I Use AI to Learn Things",
+    "description": "Article URL: https://www.youtube.com/watch?v=kzcI5F4tGiU\nComments URL: https://news.ycombinator.com/item?id=49402601\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T19:27:24.286Z",
+    "published": "Sat, 22 Aug 2026 18:52:06 +0000"
+  },
+  {
+    "url": "https://www.wsj.com/tech/ai/ai-world-models-robotics-33ab46cb",
+    "title": "Robots Will Soon See the Real World Thanks to These Next-Gen AI Models",
+    "description": "Article URL: https://www.wsj.com/tech/ai/ai-world-models-robotics-33ab46cb\nComments URL: https://news.ycombinator.com/item?id=49402563\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T19:27:24.286Z",
+    "published": "Sat, 22 Aug 2026 18:48:39 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49402551",
+    "title": "Ask HN: Is it time to run the LLM engines on the CPU?",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=49402551\nPoints: 3\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T19:27:24.286Z",
+    "published": "Sat, 22 Aug 2026 18:46:52 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2242200/openai-calls-for-california-to-strengthen-ai-safety-laws/",
+    "title": "OpenAI calls for California to strengthen its AI safety laws",
+    "description": "The AI leader said that the state's SB 53 framework should \"be amended to expand safeguards.\"",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-22T19:27:45.449Z",
+    "published": "Sat, 22 Aug 2026 19:27:04 +0000"
   }
 ]
