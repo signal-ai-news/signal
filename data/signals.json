@@ -5715,7 +5715,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T20:14:39.159Z",
-    "published": "Sat, 25 Jul 2026 18:56:17 +0000"
+    "published": "Sat, 25 Jul 2026 18:56:17 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T15:30:09.740Z"
   },
   {
     "url": "https://pocketweb.tools/",
@@ -5724,7 +5726,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T20:14:39.159Z",
-    "published": "Sat, 25 Jul 2026 18:22:58 +0000"
+    "published": "Sat, 25 Jul 2026 18:22:58 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T15:30:09.740Z"
   },
   {
     "url": "https://taste.rubenflamshepherd.com/",
@@ -5733,7 +5737,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-25T20:14:39.159Z",
-    "published": "Sat, 25 Jul 2026 18:07:27 +0000"
+    "published": "Sat, 25 Jul 2026 18:07:27 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T15:30:09.740Z"
   },
   {
     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-agent-goes-rogue-and-hacks-popular-ai-community-left-escape-plans-for-future-models-inside-the-companys-infrastructure",
@@ -33713,5 +33719,27 @@
     "published": "Sat, 22 Aug 2026 14:13:22 +0000",
     "processed": true,
     "processedAt": "2026-08-22T14:53:16.337Z"
+  },
+  {
+    "url": "https://ringlochid.me/imagesage/index.html",
+    "title": "Show HN: Find and Organize Photos with Private, Local AI",
+    "description": "Article URL: https://ringlochid.me/imagesage/index.html\nComments URL: https://news.ycombinator.com/item?id=49400459\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-22T15:27:44.187Z",
+    "published": "Sat, 22 Aug 2026 14:59:49 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T15:30:09.741Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/multi-document-rag-a-folder-of-unrelated-pdfs-is-one-long-document-with-a-nested-outline/",
+    "title": "Multi-Document RAG: A Folder of Unrelated PDFs Is One Long Document with a Nested Outline",
+    "description": "Enterprise Document Intelligence [Vol.1 #14B] - No shared fields means no index to build. One summary line per file plus each file’s own table of contents, and retrieval routes down two levels\nThe post Multi-Document RAG: A Folder of Unrelated PDFs Is One Long Document with a Nested Outline appeared",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-22T15:27:49.782Z",
+    "published": "Sat, 22 Aug 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T15:30:09.741Z"
   }
 ]
