@@ -6199,7 +6199,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-26T09:02:13.449Z",
-    "published": "Sun, 26 Jul 2026 03:26:50 +0000"
+    "published": "Sun, 26 Jul 2026 03:26:50 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T22:53:25.188Z"
   },
   {
     "url": "https://danluu.com/ai-coding/",
@@ -6208,7 +6210,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-26T09:02:13.449Z",
-    "published": "Sun, 26 Jul 2026 03:02:17 +0000"
+    "published": "Sun, 26 Jul 2026 03:02:17 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T22:53:25.188Z"
   },
   {
     "url": "https://github.com/avenna01-ceo/claude-code-survival-kr",
@@ -6217,7 +6221,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-26T09:02:13.449Z",
-    "published": "Sun, 26 Jul 2026 02:30:44 +0000"
+    "published": "Sun, 26 Jul 2026 02:30:44 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T22:53:25.188Z"
   },
   {
     "url": "https://fortune.com/2026/07/24/apple-ai-memory-chip-price-increases/",
@@ -6226,7 +6232,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-26T09:02:13.449Z",
-    "published": "Sun, 26 Jul 2026 01:49:50 +0000"
+    "published": "Sun, 26 Jul 2026 01:49:50 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T22:53:25.188Z"
   },
   {
     "url": "https://fortune.com/2026/07/23/hobart-amazon-data-center-community-benefits/",
@@ -6235,7 +6243,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-26T09:02:13.449Z",
-    "published": "Sun, 26 Jul 2026 01:47:31 +0000"
+    "published": "Sun, 26 Jul 2026 01:47:31 +0000",
+    "processed": true,
+    "processedAt": "2026-08-22T22:53:25.188Z"
   },
   {
     "url": "https://the-decoder.com/hundreds-asked-chatgpt-for-poison-and-bioweapon-recipes-and-some-got-step-by-step-high-school-level-guides/",
