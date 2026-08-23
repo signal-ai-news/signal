@@ -7354,7 +7354,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-28T08:02:59.822Z",
-    "published": "Tue, 28 Jul 2026 06:43:05 +0000"
+    "published": "Tue, 28 Jul 2026 06:43:05 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T15:52:00.542Z"
   },
   {
     "url": "https://news.ycombinator.com/item?id=49080135",
@@ -7363,7 +7365,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-28T08:02:59.822Z",
-    "published": "Tue, 28 Jul 2026 06:29:39 +0000"
+    "published": "Tue, 28 Jul 2026 06:29:39 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T15:52:00.542Z"
   },
   {
     "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5",
@@ -35198,5 +35202,38 @@
     "published": "Sun, 23 Aug 2026 15:00:00 +0000",
     "processed": true,
     "processedAt": "2026-08-23T15:31:08.244Z"
+  },
+  {
+    "url": "https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech",
+    "title": "Flock camera backlash adds fuel to midterm anti-AI frenzy",
+    "description": "Article URL: https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech\nComments URL: https://news.ycombinator.com/item?id=49409392\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T15:49:23.224Z",
+    "published": "Sun, 23 Aug 2026 15:03:17 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T15:52:00.543Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=aAg9iDh9_BQ",
+    "title": "Oneiric, AI-generated, open source [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=aAg9iDh9_BQ\nComments URL: https://news.ycombinator.com/item?id=49409332\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T15:49:23.224Z",
+    "published": "Sun, 23 Aug 2026 14:55:14 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T15:52:00.543Z"
+  },
+  {
+    "url": "https://stevekrause.org/blog/2026/08/woe-is-em-the-sad-lifecycle-of-an-ai-tell/",
+    "title": "Woe Is Em: The Sad Lifecycle of an AI Tell",
+    "description": "Article URL: https://stevekrause.org/blog/2026/08/woe-is-em-the-sad-lifecycle-of-an-ai-tell/\nComments URL: https://news.ycombinator.com/item?id=49409320\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T15:49:23.224Z",
+    "published": "Sun, 23 Aug 2026 14:53:36 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T15:52:00.543Z"
   }
 ]
