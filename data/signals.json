@@ -6287,7 +6287,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-26T09:02:34.573Z",
-    "published": "Sun, 26 Jul 2026 08:00:40 GMT"
+    "published": "Sun, 26 Jul 2026 08:00:40 GMT",
+    "processed": true,
+    "processedAt": "2026-08-23T01:51:00.823Z"
   },
   {
     "url": "https://www.youtube.com/watch?v=MXEInc6Zy7Q",
@@ -6351,7 +6353,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-26T12:44:40.819Z",
-    "published": "Sun, 26 Jul 2026 12:03:09 +0000"
+    "published": "Sun, 26 Jul 2026 12:03:09 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T01:51:00.823Z"
   },
   {
     "url": "https://www.cnbc.com/2026/07/24/bond-market-anxiety-ai-capex-spending.html",
@@ -6360,7 +6364,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-26T12:44:40.819Z",
-    "published": "Sun, 26 Jul 2026 12:02:29 +0000"
+    "published": "Sun, 26 Jul 2026 12:02:29 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T01:51:00.823Z"
   },
   {
     "url": "https://github.com/chenxiachan/thoughtdag",
@@ -6369,7 +6375,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-26T12:44:40.819Z",
-    "published": "Sun, 26 Jul 2026 11:42:22 +0000"
+    "published": "Sun, 26 Jul 2026 11:42:22 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T01:51:00.823Z"
   },
   {
     "url": "https://github.com/QuesmaOrg/awesome-ai-tokenomics",
@@ -6378,7 +6386,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-26T12:44:40.819Z",
-    "published": "Sun, 26 Jul 2026 11:39:19 +0000"
+    "published": "Sun, 26 Jul 2026 11:39:19 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T01:51:00.823Z"
   },
   {
     "url": "https://news.ycombinator.com/item?id=49057009",
