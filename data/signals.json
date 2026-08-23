@@ -7574,7 +7574,9 @@
     "source": "MIT Tech Review AI",
     "category": "news",
     "discovered": "2026-07-28T15:55:59.712Z",
-    "published": "Tue, 28 Jul 2026 12:10:00 +0000"
+    "published": "Tue, 28 Jul 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T17:51:39.065Z"
   },
   {
     "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
@@ -7583,7 +7585,9 @@
     "source": "MIT Tech Review AI",
     "category": "news",
     "discovered": "2026-07-28T15:55:59.712Z",
-    "published": "Tue, 28 Jul 2026 09:18:57 +0000"
+    "published": "Tue, 28 Jul 2026 09:18:57 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T17:51:39.065Z"
   },
   {
     "url": "https://www.tomshardware.com/tech-industry/data-centers/it-sounds-like-someone-set-up-a-vacuum-like-in-your-living-room-michigan-residents-sue-ai-data-center-emitting-noise-24-7-company-fined-for-industrial-noise-ordinance-violations-offers-to-buy-homes-from-residents",
@@ -7592,7 +7596,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-28T15:56:08.472Z",
-    "published": "Tue, 28 Jul 2026 15:53:42 +0000"
+    "published": "Tue, 28 Jul 2026 15:53:42 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T17:51:39.065Z"
   },
   {
     "url": "https://ai-killchain.airwars.org",
@@ -7601,7 +7607,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-28T15:56:08.472Z",
-    "published": "Tue, 28 Jul 2026 15:43:36 +0000"
+    "published": "Tue, 28 Jul 2026 15:43:36 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T17:51:39.065Z"
   },
   {
     "url": "https://www.theguardian.com/world/2026/jul/28/spies-in-sky-worried-ai-enabled-smart-lamp-posts-surveillance",
@@ -35283,5 +35291,16 @@
     "published": "Sun, 23 Aug 2026 17:00:00 +0000",
     "processed": true,
     "processedAt": "2026-08-23T17:29:09.398Z"
+  },
+  {
+    "url": "https://www.engadget.com/2242283/twitch-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content/",
+    "title": "Twitch and Amazon hit with lawsuit for training AI with streamers' content",
+    "description": "The class action suit claims that Amazon never obtained consent from Twitch streamers to be used to train its AI models.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-23T17:49:33.806Z",
+    "published": "Sun, 23 Aug 2026 17:39:26 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T17:51:39.066Z"
   }
 ]
