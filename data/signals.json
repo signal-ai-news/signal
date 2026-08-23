@@ -6452,7 +6452,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-26T12:44:40.819Z",
-    "published": "Sun, 26 Jul 2026 10:32:35 +0000"
+    "published": "Sun, 26 Jul 2026 10:32:35 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T04:13:36.846Z"
   },
   {
     "url": "https://www.theregister.com/devops/2026/07/25/how-ai-drove-shopify-back-to-clean-code/5277901",
@@ -6461,7 +6463,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-26T12:44:40.819Z",
-    "published": "Sun, 26 Jul 2026 10:07:07 +0000"
+    "published": "Sun, 26 Jul 2026 10:07:07 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T04:13:36.846Z"
   },
   {
     "url": "https://stockhead.com.au/resources/when-the-ai-bubble-bursts-silver-is-eric-sprotts-play/",
@@ -6470,7 +6474,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-26T12:44:40.819Z",
-    "published": "Sun, 26 Jul 2026 09:53:17 +0000"
+    "published": "Sun, 26 Jul 2026 09:53:17 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T04:13:36.846Z"
   },
   {
     "url": "https://termic.dev/",
@@ -6479,7 +6485,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-26T12:44:40.819Z",
-    "published": "Sun, 26 Jul 2026 09:36:49 +0000"
+    "published": "Sun, 26 Jul 2026 09:36:49 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T04:13:36.846Z"
   },
   {
     "url": "https://the-decoder.com/anthropics-opus-5-blows-past-fable-5-and-gpt-5-6-sol-on-the-benchmark-designed-to-measure-real-intelligence/",
@@ -6488,7 +6496,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-26T12:44:48.345Z",
-    "published": "Sun, 26 Jul 2026 09:43:02 +0000"
+    "published": "Sun, 26 Jul 2026 09:43:02 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T04:13:36.846Z"
   },
   {
     "url": "https://towardsdatascience.com/how-to-efficiently-prompt-claude-code/",
