@@ -7013,7 +7013,9 @@
     "source": "MIT Tech Review AI",
     "category": "news",
     "discovered": "2026-07-27T18:16:12.047Z",
-    "published": "Mon, 27 Jul 2026 18:00:00 +0000"
+    "published": "Mon, 27 Jul 2026 18:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T10:54:51.187Z"
   },
   {
     "url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
@@ -7022,7 +7024,9 @@
     "source": "MIT Tech Review AI",
     "category": "news",
     "discovered": "2026-07-27T18:16:12.047Z",
-    "published": "Mon, 27 Jul 2026 14:24:42 +0000"
+    "published": "Mon, 27 Jul 2026 14:24:42 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T10:54:51.187Z"
   },
   {
     "url": "https://the-decoder.com/delhi-high-court-hands-openai-a-win-by-rejecting-major-indian-news-agencys-copyright-injunction/",
@@ -7031,7 +7035,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-27T18:16:23.599Z",
-    "published": "Mon, 27 Jul 2026 17:55:24 +0000"
+    "published": "Mon, 27 Jul 2026 17:55:24 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T10:54:51.187Z"
   },
   {
     "url": "https://github.blog/company/the-harness-is-all-you-need-mostly/",
@@ -7040,7 +7046,9 @@
     "source": "GitHub Copilot Blog",
     "category": "code",
     "discovered": "2026-07-27T18:16:29.359Z",
-    "published": "Mon, 27 Jul 2026 18:00:00 +0000"
+    "published": "Mon, 27 Jul 2026 18:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T10:54:51.187Z"
   },
   {
     "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/",
@@ -7049,7 +7057,9 @@
     "source": "GitHub Copilot Blog",
     "category": "code",
     "discovered": "2026-07-27T18:16:29.359Z",
-    "published": "Mon, 27 Jul 2026 16:00:00 +0000"
+    "published": "Mon, 27 Jul 2026 16:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T10:54:51.187Z"
   },
   {
     "url": "https://www.zdnet.com/article/shadowfetch-debian-linux-with-local-ai/",
