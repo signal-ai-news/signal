@@ -6771,7 +6771,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-26T20:18:23.027Z",
-    "published": "Sun, 26 Jul 2026 16:14:46 +0000"
+    "published": "Sun, 26 Jul 2026 16:14:46 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T08:40:32.735Z"
   },
   {
     "url": "https://news.ycombinator.com/item?id=49059537",
@@ -6780,7 +6782,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-26T20:18:23.027Z",
-    "published": "Sun, 26 Jul 2026 16:09:10 +0000"
+    "published": "Sun, 26 Jul 2026 16:09:10 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T08:40:32.735Z"
   },
   {
     "url": "https://www.engadget.com/2223617/nanoleaf-smart-led-monitor-stand-all-in-one-desktop-setup/",
@@ -6789,7 +6793,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-26T20:18:44.166Z",
-    "published": "Sun, 26 Jul 2026 20:15:08 +0000"
+    "published": "Sun, 26 Jul 2026 20:15:08 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T08:40:32.735Z"
   },
   {
     "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
@@ -34637,5 +34643,27 @@
     "category": "community",
     "discovered": "2026-08-23T05:38:15.077Z",
     "published": "Sun, 23 Aug 2026 00:40:48 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/memory-shortage-reportedly-drives-nvidia-ai-server-prices-up-about-15-percent/",
+    "title": "Memory shortage reportedly drives Nvidia AI server prices up about 15 percent",
+    "description": "Nvidia servers with Vera Rubin and Grace Blackwell chips are set to cost about 15 percent more due to an ongoing DRAM shortage from Samsung, SK Hynix, and Micron, Bloomberg reports. The price hikes hit cloud giants like Microsoft, Google, and Meta, which are pouring billions into AI infrast",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-23T08:38:15.031Z",
+    "published": "Sun, 23 Aug 2026 08:15:28 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T08:40:32.736Z"
+  },
+  {
+    "url": "https://the-decoder.com/how-chinas-gray-market-sells-claude-tokens-at-a-fraction-of-the-price/",
+    "title": "How China's gray market sells Claude tokens at a fraction of the price",
+    "description": "Anthropic's strict access controls against China, from geoblocking to selfie verification, are being systematically bypassed through a thriving network of so-called \"transfer stations.\" Chinese developers can buy Claude tokens for as little as ten percent of the list price. Analyst Zilan Qi",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-23T08:38:15.031Z",
+    "published": "Sun, 23 Aug 2026 07:48:33 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T08:40:32.736Z"
   }
 ]
