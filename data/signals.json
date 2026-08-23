@@ -6859,7 +6859,9 @@
     "source": "MIT Tech Review AI",
     "category": "news",
     "discovered": "2026-07-27T12:41:22.269Z",
-    "published": "Mon, 27 Jul 2026 11:40:16 +0000"
+    "published": "Mon, 27 Jul 2026 11:40:16 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T09:36:30.224Z"
   },
   {
     "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
@@ -6868,7 +6870,9 @@
     "source": "MIT Tech Review AI",
     "category": "news",
     "discovered": "2026-07-27T12:41:22.269Z",
-    "published": "Mon, 27 Jul 2026 11:32:58 +0000"
+    "published": "Mon, 27 Jul 2026 11:32:58 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T09:36:30.224Z"
   },
   {
     "url": "https://towardsdatascience.com/how-i-reproduced-bm25-dense-retrieval-and-splade-on-a-16gb-macbook/",
@@ -6877,7 +6881,9 @@
     "source": "Towards Data Science",
     "category": "ml",
     "discovered": "2026-07-27T12:41:39.037Z",
-    "published": "Mon, 27 Jul 2026 12:00:00 +0000"
+    "published": "Mon, 27 Jul 2026 12:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T09:36:30.224Z"
   },
   {
     "url": "https://the-decoder.com/metr-introduces-a-new-metric-to-calculate-exactly-when-ai-agents-become-more-expensive-than-humans/",
@@ -6886,7 +6892,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-27T12:41:40.886Z",
-    "published": "Mon, 27 Jul 2026 12:28:06 +0000"
+    "published": "Mon, 27 Jul 2026 12:28:06 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T09:36:30.224Z"
   },
   {
     "url": "https://the-decoder.com/shared-claude-chats-were-reportedly-showing-up-in-search-engines/",
@@ -34665,5 +34673,16 @@
     "published": "Sun, 23 Aug 2026 07:48:33 +0000",
     "processed": true,
     "processedAt": "2026-08-23T08:40:32.736Z"
+  },
+  {
+    "url": "https://the-decoder.com/ai-could-make-scientists-do-more-work-less-well-not-less-work-better-study-argues/",
+    "title": "AI could make scientists do more work less well, not less work better, study argues",
+    "description": "Even if language models worked perfectly, they could make research worse, not better. A new theoretical study argues that because AI saves time, researchers' remaining hours become more valuable and get funneled into starting new projects instead of improving existing ones. In two out of th",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-23T09:34:08.127Z",
+    "published": "Sun, 23 Aug 2026 09:01:17 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T09:36:30.225Z"
   }
 ]
