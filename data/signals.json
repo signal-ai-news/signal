@@ -8080,7 +8080,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-28T20:38:00.885Z",
-    "published": "Tue, 28 Jul 2026 20:10:30 +0000"
+    "published": "Tue, 28 Jul 2026 20:10:30 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T22:53:43.723Z"
   },
   {
     "url": "https://github.com/getorb/Orb-Backend",
@@ -8089,7 +8091,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-28T20:38:00.885Z",
-    "published": "Tue, 28 Jul 2026 20:08:18 +0000"
+    "published": "Tue, 28 Jul 2026 20:08:18 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T22:53:43.723Z"
   },
   {
     "url": "https://www.theregister.com/security/2026/07/28/ai-found-bugs-arent-proving-any-easier-to-exploit-despite-the-hype/5279637",
@@ -8098,7 +8102,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-28T20:38:00.885Z",
-    "published": "Tue, 28 Jul 2026 20:07:10 +0000"
+    "published": "Tue, 28 Jul 2026 20:07:10 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T22:53:43.723Z"
   },
   {
     "url": "https://www.theregister.com/ai-and-ml/2026/07/28/war-machines-can-run-amok-with-ai-in-control/5279937",
@@ -8107,7 +8113,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-28T20:38:00.885Z",
-    "published": "Tue, 28 Jul 2026 20:05:02 +0000"
+    "published": "Tue, 28 Jul 2026 20:05:02 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T22:53:43.723Z"
   },
   {
     "url": "https://bun.com/docs/runtime/templating/init",
@@ -8116,7 +8124,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-28T20:38:00.885Z",
-    "published": "Tue, 28 Jul 2026 20:02:27 +0000"
+    "published": "Tue, 28 Jul 2026 20:02:27 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T22:53:43.723Z"
   },
   {
     "url": "https://www.theatlantic.com/ideas/2026/07/white-house-ai-regulation/688088/",
