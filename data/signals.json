@@ -7970,7 +7970,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-28T15:56:29.775Z",
-    "published": "Tue, 28 Jul 2026 11:22:27 +0000"
+    "published": "Tue, 28 Jul 2026 11:22:27 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T22:31:22.360Z"
   },
   {
     "url": "https://www.engadget.com/2224882/lyft-and-baidu-start-testing-robotaxis-in-london/",
@@ -7979,7 +7981,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-28T15:56:29.775Z",
-    "published": "Tue, 28 Jul 2026 10:04:49 +0000"
+    "published": "Tue, 28 Jul 2026 10:04:49 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T22:31:22.360Z"
   },
   {
     "url": "https://www.engadget.com/2224867/chatgpt-refusing-to-write-in-famous-authors-styles/",
@@ -7988,7 +7992,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-28T15:56:29.775Z",
-    "published": "Tue, 28 Jul 2026 09:05:25 +0000"
+    "published": "Tue, 28 Jul 2026 09:05:25 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T22:31:22.360Z"
   },
   {
     "url": "https://openai.com/index/scientific-computing-agentic-ai",
@@ -8052,7 +8058,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-28T20:38:00.885Z",
-    "published": "Tue, 28 Jul 2026 20:21:34 +0000"
+    "published": "Tue, 28 Jul 2026 20:21:34 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T22:31:22.360Z"
   },
   {
     "url": "https://runtimewire.com/article/google-cloud-page-describes-gemini-distillation-service-but-its-release-status-i",
@@ -8061,7 +8069,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-28T20:38:00.885Z",
-    "published": "Tue, 28 Jul 2026 20:21:05 +0000"
+    "published": "Tue, 28 Jul 2026 20:21:05 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T22:31:22.360Z"
   },
   {
     "url": "https://forta.com/blog/ai-in-the-classroom-part-2-the-fears-real-and-imagined",
