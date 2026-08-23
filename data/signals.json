@@ -6903,7 +6903,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-27T12:41:40.886Z",
-    "published": "Mon, 27 Jul 2026 07:51:16 +0000"
+    "published": "Mon, 27 Jul 2026 07:51:16 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T09:57:19.797Z"
   },
   {
     "url": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
@@ -6912,7 +6914,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-07-27T12:41:47.328Z",
-    "published": "Mon, 27 Jul 2026 10:00:00 +0000"
+    "published": "Mon, 27 Jul 2026 10:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T09:57:19.797Z"
   },
   {
     "url": "https://www.zdnet.com/article/how-would-ai-data-centers-in-space-even-work-a-former-nasa-robotics-chief-explains/",
@@ -6921,7 +6925,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-27T12:41:53.859Z",
-    "published": "Mon, 27 Jul 2026 12:05:41 GMT"
+    "published": "Mon, 27 Jul 2026 12:05:41 GMT",
+    "processed": true,
+    "processedAt": "2026-08-23T09:57:19.797Z"
   },
   {
     "url": "https://www.engadget.com/2223796/nvidia-launches-open-securte-ai-alliance-initiative-to-improve-cyber-defense/",
@@ -6930,7 +6936,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-27T12:41:54.433Z",
-    "published": "Mon, 27 Jul 2026 10:39:52 +0000"
+    "published": "Mon, 27 Jul 2026 10:39:52 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T09:57:19.797Z"
   },
   {
     "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
@@ -6994,7 +7002,9 @@
     "source": "TechCrunch AI",
     "category": "news",
     "discovered": "2026-07-27T18:16:10.781Z",
-    "published": "Mon, 27 Jul 2026 13:00:00 +0000"
+    "published": "Mon, 27 Jul 2026 13:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T09:57:19.797Z"
   },
   {
     "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
