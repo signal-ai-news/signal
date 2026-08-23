@@ -7915,7 +7915,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-28T15:56:29.223Z",
-    "published": "Tue, 28 Jul 2026 12:44:37 GMT"
+    "published": "Tue, 28 Jul 2026 12:44:37 GMT",
+    "processed": true,
+    "processedAt": "2026-08-23T21:51:04.036Z"
   },
   {
     "url": "https://www.zdnet.com/article/aio-launcher-is-the-coolest-minimal-launcher/",
@@ -7924,7 +7926,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-28T15:56:29.223Z",
-    "published": "Tue, 28 Jul 2026 12:16:20 GMT"
+    "published": "Tue, 28 Jul 2026 12:16:20 GMT",
+    "processed": true,
+    "processedAt": "2026-08-23T21:51:04.036Z"
   },
   {
     "url": "https://www.engadget.com/2220914/swimming-headphones-what-makes-different-from-regular/",
@@ -7933,7 +7937,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-28T15:56:29.775Z",
-    "published": "Tue, 28 Jul 2026 15:30:00 +0000"
+    "published": "Tue, 28 Jul 2026 15:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T21:51:04.036Z"
   },
   {
     "url": "https://www.engadget.com/2222509/echo-dot-max-vs-echo-dot-differences-between-amazon-devices/",
@@ -7942,7 +7948,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-28T15:56:29.775Z",
-    "published": "Tue, 28 Jul 2026 14:30:00 +0000"
+    "published": "Tue, 28 Jul 2026 14:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T21:51:04.036Z"
   },
   {
     "url": "https://www.engadget.com/2224690/motorola-launches-indigenous-collections-app-for-language-and-cultural-preservation/",
@@ -7951,7 +7959,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-28T15:56:29.775Z",
-    "published": "Tue, 28 Jul 2026 13:30:00 +0000"
+    "published": "Tue, 28 Jul 2026 13:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T21:51:04.036Z"
   },
   {
     "url": "https://www.engadget.com/2224899/hugging-face-reportedly-plagued-with-deepfakes/",
