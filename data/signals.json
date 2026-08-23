@@ -7123,7 +7123,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-27T18:16:37.943Z",
-    "published": "Mon, 27 Jul 2026 14:00:40 GMT"
+    "published": "Mon, 27 Jul 2026 14:00:40 GMT",
+    "processed": true,
+    "processedAt": "2026-08-23T13:39:45.931Z"
   },
   {
     "url": "https://www.engadget.com/2224217/youtube-premium-will-soon-include-peacock-at-no-extra-cost/",
@@ -7132,7 +7134,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-27T18:16:38.589Z",
-    "published": "Mon, 27 Jul 2026 17:00:10 +0000"
+    "published": "Mon, 27 Jul 2026 17:00:10 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T13:39:45.931Z"
   },
   {
     "url": "https://www.engadget.com/2219835/iphone-stuck-in-sos-mode-how-to-fix/",
@@ -7141,7 +7145,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-27T18:16:38.589Z",
-    "published": "Mon, 27 Jul 2026 16:30:00 +0000"
+    "published": "Mon, 27 Jul 2026 16:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T13:39:45.931Z"
   },
   {
     "url": "https://www.engadget.com/2223799/all-threads-users-can-now-dm-meta-ai/",
@@ -35005,5 +35011,27 @@
     "published": "Sun, 23 Aug 2026 12:31:59 +0000",
     "processed": true,
     "processedAt": "2026-08-23T12:55:36.535Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/bug-detection-blind-spots-in-ai-coding-harnesses-gstack-and-beyond/",
+    "title": "Bug Detection Blind Spots in AI Coding Harnesses (GStack and Beyond)",
+    "description": "28 debugging experiments reveal that AI struggles less with complexity than with missing information.\nThe post Bug Detection Blind Spots in AI Coding Harnesses (GStack and Beyond) appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-23T13:37:23.978Z",
+    "published": "Sun, 23 Aug 2026 13:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T13:39:45.932Z"
+  },
+  {
+    "url": "https://www.engadget.com/2240144/earbuds-sound-quality-improve-with-affordable-fix/",
+    "title": "This affordable fix may be all you need to improve earbud sound quality",
+    "description": "You might not need to invest in a newer pair of earbuds to improve the sound quality. Here&#39;s how to upgrade your current pair for a better listening experience.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-23T13:37:39.576Z",
+    "published": "Sun, 23 Aug 2026 13:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T13:39:45.932Z"
   }
 ]
