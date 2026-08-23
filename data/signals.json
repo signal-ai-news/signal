@@ -7068,7 +7068,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-27T18:16:37.943Z",
-    "published": "Mon, 27 Jul 2026 16:53:13 GMT"
+    "published": "Mon, 27 Jul 2026 16:53:13 GMT",
+    "processed": true,
+    "processedAt": "2026-08-23T11:51:14.399Z"
   },
   {
     "url": "https://www.zdnet.com/article/is-open-source-the-answer-to-rogue-ai-security-incidents-nvidia-thinks-so/",
@@ -34940,5 +34942,49 @@
     "category": "community",
     "discovered": "2026-08-23T11:26:34.381Z",
     "published": "Sun, 23 Aug 2026 10:30:52 +0000"
+  },
+  {
+    "url": "https://github.com/tooppoo/enozunu",
+    "title": "Show HN: Declarative, reproducible configuration materializer for AI agents",
+    "description": "Article URL: https://github.com/tooppoo/enozunu\nComments URL: https://news.ycombinator.com/item?id=49408038\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T11:48:46.052Z",
+    "published": "Sun, 23 Aug 2026 11:48:23 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T11:51:14.400Z"
+  },
+  {
+    "url": "https://blog.webround.com/en/i-built-an-ai-website-builder-and-killed-it",
+    "title": "What do you think of AI website builders?",
+    "description": "Article URL: https://blog.webround.com/en/i-built-an-ai-website-builder-and-killed-it\nComments URL: https://news.ycombinator.com/item?id=49408013\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T11:48:46.052Z",
+    "published": "Sun, 23 Aug 2026 11:44:01 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T11:51:14.400Z"
+  },
+  {
+    "url": "https://www.cnet.com/tech/services-and-software/claude-watermarks-ai-labels-commentary-2026/",
+    "title": "AI Labels Are Big Tech's Most Basic Responsibility, Even Those Claude Watermarks",
+    "description": "Article URL: https://www.cnet.com/tech/services-and-software/claude-watermarks-ai-labels-commentary-2026/\nComments URL: https://news.ycombinator.com/item?id=49408011\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T11:48:46.052Z",
+    "published": "Sun, 23 Aug 2026 11:42:54 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T11:51:14.400Z"
+  },
+  {
+    "url": "https://twitter.com/AndrewYNg/status/2090840747738374568",
+    "title": "Andrew Ng: \"AI Engineering Skills Map: Building and Deploying AI Applications\"",
+    "description": "Article URL: https://twitter.com/AndrewYNg/status/2090840747738374568\nComments URL: https://news.ycombinator.com/item?id=49407944\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T11:48:46.052Z",
+    "published": "Sun, 23 Aug 2026 11:28:08 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T11:51:14.400Z"
   }
 ]
