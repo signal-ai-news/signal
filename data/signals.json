@@ -7475,7 +7475,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-28T08:02:59.822Z",
-    "published": "Tue, 28 Jul 2026 05:22:03 +0000"
+    "published": "Tue, 28 Jul 2026 05:22:03 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T17:29:09.397Z"
   },
   {
     "url": "https://www.today.com/parents/family/professor-catches-ai-cheating-hidden-word-rcna589421",
@@ -7484,7 +7486,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-28T08:02:59.822Z",
-    "published": "Tue, 28 Jul 2026 05:08:24 +0000"
+    "published": "Tue, 28 Jul 2026 05:08:24 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T17:29:09.397Z"
   },
   {
     "url": "https://orchard-dashboard.pages.dev/landing",
@@ -7493,7 +7497,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-28T08:02:59.822Z",
-    "published": "Tue, 28 Jul 2026 04:54:40 +0000"
+    "published": "Tue, 28 Jul 2026 04:54:40 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T17:29:09.397Z"
   },
   {
     "url": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
@@ -7502,7 +7508,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-07-28T08:03:13.735Z",
-    "published": "Tue, 28 Jul 2026 05:30:00 +0000"
+    "published": "Tue, 28 Jul 2026 05:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T17:29:09.397Z"
   },
   {
     "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
@@ -35264,5 +35272,16 @@
     "published": "Sun, 23 Aug 2026 16:30:00 +0000",
     "processed": true,
     "processedAt": "2026-08-23T16:36:15.280Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/a-first-look-at-survival-analysis-and-the-cox-model/",
+    "title": "Survival Analysis and the Cox Proportional Hazards Model: A Beginner-Friendly Guide",
+    "description": "From Kaplan-Meier curves to hazard ratios with runnable Python Code throughout\nThe post Survival Analysis and the Cox Proportional Hazards Model: A Beginner-Friendly Guide appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-23T17:26:35.030Z",
+    "published": "Sun, 23 Aug 2026 17:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T17:29:09.398Z"
   }
 ]
