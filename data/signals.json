@@ -34876,5 +34876,69 @@
     "category": "news",
     "discovered": "2026-08-23T10:30:29.124Z",
     "published": "Sun, 23 Aug 2026 10:02:00 +0000"
+  },
+  {
+    "url": "https://zenodo.org/records/22067050",
+    "title": "Why Einstein would fail today: The case for an automated AI Science Institute",
+    "description": "Article URL: https://zenodo.org/records/22067050\nComments URL: https://news.ycombinator.com/item?id=49407926\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T11:26:34.381Z",
+    "published": "Sun, 23 Aug 2026 11:24:42 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T11:28:58.830Z"
+  },
+  {
+    "url": "https://www.bulkpublish.com/",
+    "title": "Publish to 15 social media channels using AI agents, free",
+    "description": "Article URL: https://www.bulkpublish.com/\nComments URL: https://news.ycombinator.com/item?id=49407919\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T11:26:34.381Z",
+    "published": "Sun, 23 Aug 2026 11:24:17 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T11:28:58.830Z"
+  },
+  {
+    "url": "https://www.pagerduty.com/eng/evidence-over-anecdotes-running-a-b-tests-on-ai-agent-tooling/",
+    "title": "Evidence over Anecdotes: Running A/B Tests on AI Agent Tooling",
+    "description": "Article URL: https://www.pagerduty.com/eng/evidence-over-anecdotes-running-a-b-tests-on-ai-agent-tooling/\nComments URL: https://news.ycombinator.com/item?id=49407872\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T11:26:34.381Z",
+    "published": "Sun, 23 Aug 2026 11:14:58 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T11:28:58.830Z"
+  },
+  {
+    "url": "https://www.economist.com/interactive/briefing/2026/08/20/the-search-for-consciousness-inside-llms",
+    "title": "The search for consciousness inside AI",
+    "description": "Article URL: https://www.economist.com/interactive/briefing/2026/08/20/the-search-for-consciousness-inside-llms\nComments URL: https://news.ycombinator.com/item?id=49407858\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T11:26:34.381Z",
+    "published": "Sun, 23 Aug 2026 11:07:51 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T11:28:58.830Z"
+  },
+  {
+    "url": "https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html",
+    "title": "'AI refuser' quit her dream job, and hopes others follow",
+    "description": "Article URL: https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html\nComments URL: https://news.ycombinator.com/item?id=49407785\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T11:26:34.381Z",
+    "published": "Sun, 23 Aug 2026 10:54:35 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T11:28:58.830Z"
+  },
+  {
+    "url": "https://huggingface.co/gemmozero",
+    "title": "AI datasets (2.6k entries) – automated collection, updated daily",
+    "description": "Article URL: https://huggingface.co/gemmozero\nComments URL: https://news.ycombinator.com/item?id=49407665\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T11:26:34.381Z",
+    "published": "Sun, 23 Aug 2026 10:30:52 +0000"
   }
 ]
