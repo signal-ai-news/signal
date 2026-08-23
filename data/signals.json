@@ -7376,7 +7376,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-28T08:02:59.822Z",
-    "published": "Tue, 28 Jul 2026 06:29:08 +0000"
+    "published": "Tue, 28 Jul 2026 06:29:08 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T16:36:15.279Z"
   },
   {
     "url": "https://github.com/haror1/answerwatch",
@@ -7385,7 +7387,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-28T08:02:59.822Z",
-    "published": "Tue, 28 Jul 2026 06:23:51 +0000"
+    "published": "Tue, 28 Jul 2026 06:23:51 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T16:36:15.279Z"
   },
   {
     "url": "https://medium.com/@DolphinDB_Inc/real-time-decision-making-how-ai-and-low-latency-computing-are-reshaping-digital-twins-1e54bcd59c07",
@@ -7394,7 +7398,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-28T08:02:59.822Z",
-    "published": "Tue, 28 Jul 2026 06:18:02 +0000"
+    "published": "Tue, 28 Jul 2026 06:18:02 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T16:36:15.279Z"
   },
   {
     "url": "https://github.com/incyashraj/krate",
@@ -7403,7 +7409,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-28T08:02:59.822Z",
-    "published": "Tue, 28 Jul 2026 05:53:57 +0000"
+    "published": "Tue, 28 Jul 2026 05:53:57 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T16:36:15.279Z"
   },
   {
     "url": "https://www.science.org/content/article/how-i-use-ai-my-geology-research-without-losing-science-i-love",
@@ -35235,5 +35243,16 @@
     "published": "Sun, 23 Aug 2026 14:53:36 +0000",
     "processed": true,
     "processedAt": "2026-08-23T15:52:00.543Z"
+  },
+  {
+    "url": "https://www.engadget.com/2240150/is-liquid-cooled-pc-worth-it/",
+    "title": "Is a liquid-cooled PC worth it?",
+    "description": "Air cooling is reliable, while liquid cooling is visually slick. Which one you should use depends on how heavy you game on your system.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-23T16:34:08.647Z",
+    "published": "Sun, 23 Aug 2026 16:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T16:36:15.280Z"
   }
 ]
