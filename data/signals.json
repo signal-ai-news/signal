@@ -7805,7 +7805,9 @@
     "source": "Towards Data Science",
     "category": "ml",
     "discovered": "2026-07-28T15:56:14.388Z",
-    "published": "Tue, 28 Jul 2026 15:00:00 +0000"
+    "published": "Tue, 28 Jul 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T20:54:11.136Z"
   },
   {
     "url": "https://towardsdatascience.com/dont-just-throw-adam-at-it-misunderstanding-adam-will-cost-you/",
@@ -7814,7 +7816,9 @@
     "source": "Towards Data Science",
     "category": "ml",
     "discovered": "2026-07-28T15:56:14.388Z",
-    "published": "Tue, 28 Jul 2026 13:30:00 +0000"
+    "published": "Tue, 28 Jul 2026 13:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T20:54:11.136Z"
   },
   {
     "url": "https://towardsdatascience.com/backpropagation-explained-for-beginners-part-2-there-has-to-be-a-better-way/",
@@ -7823,7 +7827,9 @@
     "source": "Towards Data Science",
     "category": "ml",
     "discovered": "2026-07-28T15:56:14.388Z",
-    "published": "Tue, 28 Jul 2026 12:00:00 +0000"
+    "published": "Tue, 28 Jul 2026 12:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T20:54:11.136Z"
   },
   {
     "url": "https://the-decoder.com/taiwan-detains-nvidia-employee-in-widening-china-chip-smuggling-probe/",
@@ -7832,7 +7838,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-28T15:56:16.556Z",
-    "published": "Tue, 28 Jul 2026 13:15:43 +0000"
+    "published": "Tue, 28 Jul 2026 13:15:43 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T20:54:11.136Z"
   },
   {
     "url": "https://the-decoder.com/nvidia-invests-in-ilya-sutskevers-ai-lab-shifting-ssi-away-from-google-chips/",
@@ -7841,7 +7849,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-28T15:56:16.556Z",
-    "published": "Tue, 28 Jul 2026 13:06:35 +0000"
+    "published": "Tue, 28 Jul 2026 13:06:35 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T20:54:11.136Z"
   },
   {
     "url": "https://the-decoder.com/anthropic-ceo-amodei-doubles-down-on-open-weight-risk-stance-while-insisting-he-never-called-for-a-ban/",
