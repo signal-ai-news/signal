@@ -6606,7 +6606,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-26T20:18:23.027Z",
-    "published": "Sun, 26 Jul 2026 19:28:24 +0000"
+    "published": "Sun, 26 Jul 2026 19:28:24 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T05:06:18.303Z"
   },
   {
     "url": "https://tools.simonwillison.net/llm-cliche-highlighter",
@@ -6615,7 +6617,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-26T20:18:23.027Z",
-    "published": "Sun, 26 Jul 2026 19:19:29 +0000"
+    "published": "Sun, 26 Jul 2026 19:19:29 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T05:06:18.303Z"
   },
   {
     "url": "https://iamwillwang.com/notes/please-ship-apis-not-ai/",
@@ -6624,7 +6628,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-26T20:18:23.027Z",
-    "published": "Sun, 26 Jul 2026 19:15:26 +0000"
+    "published": "Sun, 26 Jul 2026 19:15:26 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T05:06:18.303Z"
   },
   {
     "url": "https://www.pewresearch.org/short-reads/2026/07/23/what-americans-think-about-the-global-ai-race/",
@@ -6633,7 +6639,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-26T20:18:23.027Z",
-    "published": "Sun, 26 Jul 2026 18:47:09 +0000"
+    "published": "Sun, 26 Jul 2026 18:47:09 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T05:06:18.303Z"
   },
   {
     "url": "https://github.com/hertz-ai/HARTOS",
@@ -6642,7 +6650,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-26T20:18:23.027Z",
-    "published": "Sun, 26 Jul 2026 18:40:08 +0000"
+    "published": "Sun, 26 Jul 2026 18:40:08 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T05:06:18.303Z"
   },
   {
     "url": "https://www.modelfuzz.com/",
