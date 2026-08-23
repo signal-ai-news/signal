@@ -7266,7 +7266,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-07-27T22:33:28.991Z",
-    "published": "Mon, 27 Jul 2026 20:08:00 +0000"
+    "published": "Mon, 27 Jul 2026 20:08:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T15:31:08.243Z"
   },
   {
     "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
@@ -7330,7 +7332,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-28T08:02:59.822Z",
-    "published": "Tue, 28 Jul 2026 06:58:01 +0000"
+    "published": "Tue, 28 Jul 2026 06:58:01 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T15:31:08.243Z"
   },
   {
     "url": "https://apnews.com/article/ai-token-openai-anthropic-corporate-31bb80ac1cd7862d05f6397177d826b1",
@@ -7339,7 +7343,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-28T08:02:59.822Z",
-    "published": "Tue, 28 Jul 2026 06:48:53 +0000"
+    "published": "Tue, 28 Jul 2026 06:48:53 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T15:31:08.243Z"
   },
   {
     "url": "https://github.com/burakgon/ai-usage-menubar",
@@ -35170,5 +35176,27 @@
     "category": "community",
     "discovered": "2026-08-23T14:52:16.900Z",
     "published": "Sun, 23 Aug 2026 12:22:24 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+    "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+    "description": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-23T15:28:37.209Z",
+    "published": "Sun, 23 Aug 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T15:31:08.244Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/parse-the-folder-not-just-the-pdfs-the-relational-tables-rag-needs-on-a-case-file/",
+    "title": "Parse the Folder, Not Just the PDFs: The Relational Tables RAG Needs on a Case File",
+    "description": "Enterprise Document Intelligence [Vol.1 #14D] - The index lists what the case type demands before any folder is opened, and the two questions worth building for are not retrieval questions at all\nThe post Parse the Folder, Not Just the PDFs: The Relational Tables RAG Needs on a Case File appeared fi",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-23T15:28:47.902Z",
+    "published": "Sun, 23 Aug 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T15:31:08.244Z"
   }
 ]
