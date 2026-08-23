@@ -7156,7 +7156,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-27T18:16:38.589Z",
-    "published": "Mon, 27 Jul 2026 16:00:00 +0000"
+    "published": "Mon, 27 Jul 2026 16:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T14:32:12.864Z"
   },
   {
     "url": "https://www.engadget.com/2222503/apple-watch-se-3-cheaper-than-lineup-comparison/",
@@ -7165,7 +7167,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-27T18:16:38.589Z",
-    "published": "Mon, 27 Jul 2026 14:30:00 +0000"
+    "published": "Mon, 27 Jul 2026 14:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T14:32:12.864Z"
   },
   {
     "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
@@ -7229,7 +7233,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-27T22:33:22.104Z",
-    "published": "Mon, 27 Jul 2026 19:08:51 +0000"
+    "published": "Mon, 27 Jul 2026 19:08:51 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T14:32:12.864Z"
   },
   {
     "url": "https://the-decoder.com/microsoft-launches-its-own-cybersecurity-model-mai-cyber-1-flash-but-still-depends-on-openai-for-the-toughest-tasks/",
@@ -7238,7 +7244,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-27T22:33:22.104Z",
-    "published": "Mon, 27 Jul 2026 18:50:07 +0000"
+    "published": "Mon, 27 Jul 2026 18:50:07 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T14:32:12.864Z"
   },
   {
     "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
@@ -7247,7 +7255,9 @@
     "source": "GitHub Copilot Blog",
     "category": "code",
     "discovered": "2026-07-27T22:33:27.718Z",
-    "published": "Mon, 27 Jul 2026 18:00:00 +0000"
+    "published": "Mon, 27 Jul 2026 18:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T14:32:12.864Z"
   },
   {
     "url": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
