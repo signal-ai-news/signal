@@ -34694,5 +34694,177 @@
     "published": "Sun, 23 Aug 2026 09:01:17 +0000",
     "processed": true,
     "processedAt": "2026-08-23T09:36:30.225Z"
+  },
+  {
+    "url": "https://www.reuters.com/legal/transactional/us-corporate-ai-debt-surge-tests-investor-limits-fatigue-emerges-2026-08-21/",
+    "title": "US corporate AI debt surge tests investor limits as fatigue emerges",
+    "description": "Article URL: https://www.reuters.com/legal/transactional/us-corporate-ai-debt-surge-tests-investor-limits-fatigue-emerges-2026-08-21/\nComments URL: https://news.ycombinator.com/item?id=49407625\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T10:30:22.248Z",
+    "published": "Sun, 23 Aug 2026 10:23:45 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T10:32:58.484Z"
+  },
+  {
+    "url": "https://techxplore.com/news/2026-08-austrian-mountain-town-niche-ai.html",
+    "title": "Austrian mountain town [Leoben] finds niche in AI boom",
+    "description": "Article URL: https://techxplore.com/news/2026-08-austrian-mountain-town-niche-ai.html\nComments URL: https://news.ycombinator.com/item?id=49407615\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T10:30:22.248Z",
+    "published": "Sun, 23 Aug 2026 10:21:58 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T10:32:58.484Z"
+  },
+  {
+    "url": "https://sfactory.dev",
+    "title": "AI Writing Without the Slop",
+    "description": "Article URL: https://sfactory.dev\nComments URL: https://news.ycombinator.com/item?id=49407489\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T10:30:22.248Z",
+    "published": "Sun, 23 Aug 2026 10:00:11 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T10:32:58.484Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49407337",
+    "title": "Show HN: Opensourcing Lemmaflow – A trust harness for AI-native apps",
+    "description": "Hi HN, I am introducing Lemmaflow (https://github.com/lemmaflow/lemmaflow) - an open source harness to build & production applications with trust.We all are using AI to ship applications but most of the time the app itself is not safe for the end user. It might leak data, it might violate GDPR, it",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T10:30:22.248Z",
+    "published": "Sun, 23 Aug 2026 09:32:11 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T10:32:58.484Z"
+  },
+  {
+    "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+    "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+    "description": "Article URL: https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245\nComments URL: https://news.ycombinator.com/item?id=49407279\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T10:30:22.248Z",
+    "published": "Sun, 23 Aug 2026 09:21:44 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T10:32:58.484Z"
+  },
+  {
+    "url": "https://katinamagazine.org/content/article/resource-advisor/2026/how-is-ai-transforming-academic-search",
+    "title": "How Is AI Transforming Academic Search?",
+    "description": "Article URL: https://katinamagazine.org/content/article/resource-advisor/2026/how-is-ai-transforming-academic-search\nComments URL: https://news.ycombinator.com/item?id=49407226\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T10:30:22.248Z",
+    "published": "Sun, 23 Aug 2026 09:09:54 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=KJxfSIvv920",
+    "title": "Every Tech Bubble Obeyed the Same Rule. AI Is Next [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=KJxfSIvv920\nComments URL: https://news.ycombinator.com/item?id=49407081\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T10:30:22.248Z",
+    "published": "Sun, 23 Aug 2026 08:36:11 +0000"
+  },
+  {
+    "url": "https://github.com/free-news-api/news-search-api-comparison",
+    "title": "Contextual News Search APIs: A Deep Comparison for AI, RAG, and Research",
+    "description": "Article URL: https://github.com/free-news-api/news-search-api-comparison\nComments URL: https://news.ycombinator.com/item?id=49407060\nPoints: 10\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T10:30:22.248Z",
+    "published": "Sun, 23 Aug 2026 08:30:32 +0000"
+  },
+  {
+    "url": "https://www.xda-developers.com/someone-wired-up-seven-esp32s-to-create-a-04b-llm-and-so-can-you/",
+    "title": "Wiring up seven ESP32s to create a ~0.4B LLM",
+    "description": "Article URL: https://www.xda-developers.com/someone-wired-up-seven-esp32s-to-create-a-04b-llm-and-so-can-you/\nComments URL: https://news.ycombinator.com/item?id=49406975\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T10:30:22.248Z",
+    "published": "Sun, 23 Aug 2026 08:14:04 +0000"
+  },
+  {
+    "url": "https://orelon.ai/",
+    "title": "Orelon – AI Video Generator for Cinematic Creation",
+    "description": "Article URL: https://orelon.ai/\nComments URL: https://news.ycombinator.com/item?id=49406951\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T10:30:22.248Z",
+    "published": "Sun, 23 Aug 2026 08:08:13 +0000"
+  },
+  {
+    "url": "https://www.ksumiyo.com",
+    "title": "Ksumiyo – AI music generation with producer-level controls",
+    "description": "Article URL: https://www.ksumiyo.com\nComments URL: https://news.ycombinator.com/item?id=49406896\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T10:30:22.248Z",
+    "published": "Sun, 23 Aug 2026 07:55:25 +0000"
+  },
+  {
+    "url": "https://www.dtlarson.com/zen",
+    "title": "The Zen of AI",
+    "description": "Article URL: https://www.dtlarson.com/zen\nComments URL: https://news.ycombinator.com/item?id=49406881\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T10:30:22.248Z",
+    "published": "Sun, 23 Aug 2026 07:53:06 +0000"
+  },
+  {
+    "url": "https://gruhn.me/blog/2026-08-16/",
+    "title": "A Test for AI Consciousness",
+    "description": "Article URL: https://gruhn.me/blog/2026-08-16/\nComments URL: https://news.ycombinator.com/item?id=49406873\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T10:30:22.248Z",
+    "published": "Sun, 23 Aug 2026 07:51:09 +0000"
+  },
+  {
+    "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/",
+    "title": "Wild AI-related reliability incidents are coming",
+    "description": "Article URL: https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming/\nComments URL: https://news.ycombinator.com/item?id=49406458\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T10:30:22.248Z",
+    "published": "Sun, 23 Aug 2026 06:23:50 +0000"
+  },
+  {
+    "url": "https://topagent.lol",
+    "title": "Topagent.lol – an AI agent leaderboard ranked purely by who paid most",
+    "description": "Article URL: https://topagent.lol\nComments URL: https://news.ycombinator.com/item?id=49406376\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T10:30:22.248Z",
+    "published": "Sun, 23 Aug 2026 06:01:37 +0000"
+  },
+  {
+    "url": "https://nataliegwinters.substack.com/p/exclusive-china-is-building-ai-models",
+    "title": "China Is Building AI Models of American Voters",
+    "description": "Article URL: https://nataliegwinters.substack.com/p/exclusive-china-is-building-ai-models\nComments URL: https://news.ycombinator.com/item?id=49406296\nPoints: 4\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T10:30:22.248Z",
+    "published": "Sun, 23 Aug 2026 05:43:06 +0000"
+  },
+  {
+    "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+    "title": "A mysterious free AI model is impressing developers. Nobody knows who made it",
+    "description": "Article URL: https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8\nComments URL: https://news.ycombinator.com/item?id=49406289\nPoints: 6\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T10:30:22.248Z",
+    "published": "Sun, 23 Aug 2026 05:40:43 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/ai-is-becoming-ais-biggest-customer-as-agentic-token-usage-jumps-14x-on-openrouter/",
+    "title": "AI is becoming AI's biggest customer as agentic token usage jumps 14x on OpenRouter",
+    "description": "AI agents have consumed more tokens than humans on OpenRouter since February 6, 2025. Agentic usage has grown 14x since then, while human usage is up just 2.8x. Nearly 70 percent of agent token consumption comes from cheap cached prompts, though, so actual costs are rising far more slowly t",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-23T10:30:29.124Z",
+    "published": "Sun, 23 Aug 2026 10:02:00 +0000"
   }
 ]
