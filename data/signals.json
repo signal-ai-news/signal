@@ -7860,7 +7860,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-28T15:56:16.556Z",
-    "published": "Tue, 28 Jul 2026 12:06:42 +0000"
+    "published": "Tue, 28 Jul 2026 12:06:42 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T21:29:55.745Z"
   },
   {
     "url": "https://www.wired.com/story/the-big-interview-podcast-a-g-sulzberger-new-york-times/",
@@ -7869,7 +7871,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-07-28T15:56:22.899Z",
-    "published": "Tue, 28 Jul 2026 10:30:00 +0000"
+    "published": "Tue, 28 Jul 2026 10:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T21:29:55.745Z"
   },
   {
     "url": "https://www.wired.com/story/nonprofits-are-getting-ready-for-the-funding-anthropalypse/",
@@ -7878,7 +7882,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-07-28T15:56:22.899Z",
-    "published": "Tue, 28 Jul 2026 10:00:00 +0000"
+    "published": "Tue, 28 Jul 2026 10:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T21:29:55.745Z"
   },
   {
     "url": "https://www.zdnet.com/article/apples-ios-26-6-siri-ai/",
@@ -7887,7 +7893,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-28T15:56:29.223Z",
-    "published": "Tue, 28 Jul 2026 13:59:33 GMT"
+    "published": "Tue, 28 Jul 2026 13:59:33 GMT",
+    "processed": true,
+    "processedAt": "2026-08-23T21:29:55.745Z"
   },
   {
     "url": "https://www.zdnet.com/article/token-maxing-ai-cost-sink-use-agents-without-busting-budget/",
@@ -7896,7 +7904,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-28T15:56:29.223Z",
-    "published": "Tue, 28 Jul 2026 13:44:44 GMT"
+    "published": "Tue, 28 Jul 2026 13:44:44 GMT",
+    "processed": true,
+    "processedAt": "2026-08-23T21:29:55.745Z"
   },
   {
     "url": "https://www.zdnet.com/article/youve-been-using-your-power-bank-wrong-and-airline-rules-make-that-obvious/",
