@@ -7673,7 +7673,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-28T15:56:08.472Z",
-    "published": "Tue, 28 Jul 2026 15:27:19 +0000"
+    "published": "Tue, 28 Jul 2026 15:27:19 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T19:29:15.911Z"
   },
   {
     "url": "https://www.latimes.com/business/story/2026-07-27/spacex-at-100-could-mean-investors-see-zero-value-in-its-ai",
@@ -7682,7 +7684,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-28T15:56:08.472Z",
-    "published": "Tue, 28 Jul 2026 15:25:58 +0000"
+    "published": "Tue, 28 Jul 2026 15:25:58 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T19:29:15.911Z"
   },
   {
     "url": "https://charliebecker.substack.com/p/is-an-ai-company-buying-up-all-the",
@@ -7691,7 +7695,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-28T15:56:08.472Z",
-    "published": "Tue, 28 Jul 2026 15:23:37 +0000"
+    "published": "Tue, 28 Jul 2026 15:23:37 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T19:29:15.911Z"
   },
   {
     "url": "https://chromewebstore.google.com/detail/redev-â-ai-chat-assistant/ojiiafcaodjlfegglkfgokgebgcfdjia",
@@ -35312,5 +35318,27 @@
     "published": "Sun, 23 Aug 2026 17:39:26 +0000",
     "processed": true,
     "processedAt": "2026-08-23T17:51:39.066Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+    "description": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-23T19:26:40.712Z",
+    "published": "Sun, 23 Aug 2026 19:14:08 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T19:29:15.912Z"
+  },
+  {
+    "url": "https://www.engadget.com/2242295/humanoid-robots-have-beaten-usain-bolts-100-meter-dash-record/",
+    "title": "Humanoid robots have beaten Usain Bolt's 100-meter dash record",
+    "description": "And they looked absolutely ridiculous doing it.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-23T19:27:09.460Z",
+    "published": "Sun, 23 Aug 2026 18:40:04 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T19:29:15.912Z"
   }
 ]
