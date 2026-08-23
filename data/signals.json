@@ -7079,7 +7079,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-27T18:16:37.943Z",
-    "published": "Mon, 27 Jul 2026 15:52:15 GMT"
+    "published": "Mon, 27 Jul 2026 15:52:15 GMT",
+    "processed": true,
+    "processedAt": "2026-08-23T12:55:36.534Z"
   },
   {
     "url": "https://www.zdnet.com/article/framework-laptop-13-pro-review/",
@@ -7088,7 +7090,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-27T18:16:37.943Z",
-    "published": "Mon, 27 Jul 2026 15:00:00 GMT"
+    "published": "Mon, 27 Jul 2026 15:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-23T12:55:36.534Z"
   },
   {
     "url": "https://www.zdnet.com/article/claude-ai-shared-chats-indexed-by-google/",
@@ -7097,7 +7101,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-27T18:16:37.943Z",
-    "published": "Mon, 27 Jul 2026 14:58:25 GMT"
+    "published": "Mon, 27 Jul 2026 14:58:25 GMT",
+    "processed": true,
+    "processedAt": "2026-08-23T12:55:36.534Z"
   },
   {
     "url": "https://www.zdnet.com/article/best-laptop-docking-station/",
@@ -7106,7 +7112,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-27T18:16:37.943Z",
-    "published": "Mon, 27 Jul 2026 14:49:24 GMT"
+    "published": "Mon, 27 Jul 2026 14:49:24 GMT",
+    "processed": true,
+    "processedAt": "2026-08-23T12:55:36.534Z"
   },
   {
     "url": "https://www.zdnet.com/article/assume-ai-cybersecurity-attacks-are-the-future-43-percent-of-companies-have-already-experienced-it/",
@@ -34986,5 +34994,16 @@
     "published": "Sun, 23 Aug 2026 11:28:08 +0000",
     "processed": true,
     "processedAt": "2026-08-23T11:51:14.400Z"
+  },
+  {
+    "url": "https://the-decoder.com/an-ai-boss-fired-its-first-employee-but-only-after-humans-reminded-it-of-its-own-rules/",
+    "title": "An AI boss fired its first employee but only after humans reminded it of its own rules",
+    "description": "Andon Labs' AI agent Luna fired a human employee at a San Francisco store for the first time but needed a clear push from the operators to do it. When the scenario was replayed with seven models, more capable AIs recommended termination more consistently, while weaker ones hesitated. When i",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-23T12:53:14.448Z",
+    "published": "Sun, 23 Aug 2026 12:31:59 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T12:55:36.535Z"
   }
 ]
