@@ -34427,5 +34427,195 @@
     "published": "Sat, 22 Aug 2026 23:27:56 +0000",
     "processed": true,
     "processedAt": "2026-08-22T23:50:36.831Z"
+  },
+  {
+    "url": "https://www.wsj.com/articles/ais-need-for-content-has-put-rare-book-dealers-in-a-bind-1ac5a053",
+    "title": "Rare-Book Sales Are Booming. They're Getting Sliced Up and Fed to AI",
+    "description": "Article URL: https://www.wsj.com/articles/ais-need-for-content-has-put-rare-book-dealers-in-a-bind-1ac5a053\nComments URL: https://news.ycombinator.com/item?id=49406267\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T05:38:15.077Z",
+    "published": "Sun, 23 Aug 2026 05:32:12 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T05:40:56.258Z"
+  },
+  {
+    "url": "https://twitter.com/nataliegwinters/status/2090814996687237570",
+    "title": "Chinese Orgs Building AI Models of American Voters to Test Political Messages",
+    "description": "Article URL: https://twitter.com/nataliegwinters/status/2090814996687237570\nComments URL: https://news.ycombinator.com/item?id=49406229\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T05:38:15.077Z",
+    "published": "Sun, 23 Aug 2026 05:19:45 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T05:40:56.258Z"
+  },
+  {
+    "url": "https://github.com/marketplace/jaipilot",
+    "title": "Using Claude hosted agents to solve open source bugs and perf improvements",
+    "description": "Article URL: https://github.com/marketplace/jaipilot\nComments URL: https://news.ycombinator.com/item?id=49406173\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T05:38:15.077Z",
+    "published": "Sun, 23 Aug 2026 05:02:47 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T05:40:56.258Z"
+  },
+  {
+    "url": "https://vero.verina.io/",
+    "title": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
+    "description": "Article URL: https://vero.verina.io/\nComments URL: https://news.ycombinator.com/item?id=49406158\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T05:38:15.077Z",
+    "published": "Sun, 23 Aug 2026 04:59:37 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T05:40:56.258Z"
+  },
+  {
+    "url": "https://medium.com/the-discovery-collective/the-hidden-pipeline-behind-ai-search-visibility-d4e9c22897f8",
+    "title": "The Hidden Pipeline Behind AI Search Visibility",
+    "description": "Article URL: https://medium.com/the-discovery-collective/the-hidden-pipeline-behind-ai-search-visibility-d4e9c22897f8\nComments URL: https://news.ycombinator.com/item?id=49406142\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T05:38:15.077Z",
+    "published": "Sun, 23 Aug 2026 04:52:17 +0000",
+    "processed": true,
+    "processedAt": "2026-08-23T05:40:56.258Z"
+  },
+  {
+    "url": "https://www.theguardian.com/technology/2026/aug/11/ai-will-do-more-to-boost-fossil-fuel-production-than-green-energy",
+    "title": "AI's potential climate benefits outweighed by role in boosting fossil fuels",
+    "description": "Article URL: https://www.theguardian.com/technology/2026/aug/11/ai-will-do-more-to-boost-fossil-fuel-production-than-green-energy\nComments URL: https://news.ycombinator.com/item?id=49406136\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T05:38:15.077Z",
+    "published": "Sun, 23 Aug 2026 04:50:53 +0000"
+  },
+  {
+    "url": "https://popy.app/apps/corral",
+    "title": "Activity Monitor for AI Application on Mac OS X",
+    "description": "Article URL: https://popy.app/apps/corral\nComments URL: https://news.ycombinator.com/item?id=49406046\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T05:38:15.077Z",
+    "published": "Sun, 23 Aug 2026 04:23:35 +0000"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html",
+    "title": "Palantir's Karp – frontier AI labs that are 'trying to drug addict us'",
+    "description": "Article URL: https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html\nComments URL: https://news.ycombinator.com/item?id=49405966\nPoints: 8\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T05:38:15.077Z",
+    "published": "Sun, 23 Aug 2026 04:03:46 +0000"
+  },
+  {
+    "url": "https://github.com/AntoineChatry/Dictata",
+    "title": "Show HN: Dictata – Local Whisper dictation with LLM cleanup",
+    "description": "Article URL: https://github.com/AntoineChatry/Dictata\nComments URL: https://news.ycombinator.com/item?id=49405912\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T05:38:15.077Z",
+    "published": "Sun, 23 Aug 2026 03:50:15 +0000"
+  },
+  {
+    "url": "https://twitter.com/subcountability/status/2091164267827327042",
+    "title": "In 2000, Ted Kaczynski advised against math career due to future AI progress",
+    "description": "Article URL: https://twitter.com/subcountability/status/2091164267827327042\nComments URL: https://news.ycombinator.com/item?id=49405904\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T05:38:15.077Z",
+    "published": "Sun, 23 Aug 2026 03:47:05 +0000"
+  },
+  {
+    "url": "https://nervecenter.github.io/ai_power_scaling_cuts_both_ways.html",
+    "title": "AI Power Scaling Cuts Both Ways",
+    "description": "Article URL: https://nervecenter.github.io/ai_power_scaling_cuts_both_ways.html\nComments URL: https://news.ycombinator.com/item?id=49405849\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T05:38:15.077Z",
+    "published": "Sun, 23 Aug 2026 03:24:32 +0000"
+  },
+  {
+    "url": "https://github.com/gojiplus/layoutlens",
+    "title": "Show HN: LayoutLens: AI-Powered Visual UI Testing",
+    "description": "Article URL: https://github.com/gojiplus/layoutlens\nComments URL: https://news.ycombinator.com/item?id=49405683\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T05:38:15.077Z",
+    "published": "Sun, 23 Aug 2026 02:33:56 +0000"
+  },
+  {
+    "url": "https://apps.microsoft.com/detail/9nkkk5k5s4ct?hl=en-US&gl=US",
+    "title": "Edify – Windows NLE: OpenFX, proxy editing, AI subs, vtuber tools ($29.99 once)",
+    "description": "Article URL: https://apps.microsoft.com/detail/9nkkk5k5s4ct?hl=en-US&gl=US\nComments URL: https://news.ycombinator.com/item?id=49405662\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T05:38:15.077Z",
+    "published": "Sun, 23 Aug 2026 02:27:20 +0000"
+  },
+  {
+    "url": "https://www.jepeake.com/ai-chip-architectures",
+    "title": "AI Chip Architectures",
+    "description": "Article URL: https://www.jepeake.com/ai-chip-architectures\nComments URL: https://news.ycombinator.com/item?id=49405657\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T05:38:15.077Z",
+    "published": "Sun, 23 Aug 2026 02:25:10 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.19760",
+    "title": "Credit Without Ground Truth: Auditing Step-Level Credit Assignment in LLM Agents",
+    "description": "Article URL: https://arxiv.org/abs/2608.19760\nComments URL: https://news.ycombinator.com/item?id=49405591\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T05:38:15.077Z",
+    "published": "Sun, 23 Aug 2026 02:07:06 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49405520",
+    "title": "Why can AI generate Super Mario but not a wedge ramp for my robot vacuum?",
+    "description": "I've been puzzled by something: AI generation can produce an elaborate\n  figurine, a cartoon character, even a convincing Super Mario — yet it\n  can't reliably make a simple wedge ramp so my robot vacuum can climb a\n  step.  For context: I bought a Bambu P2S but can't model. I tried the \"describe",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T05:38:15.077Z",
+    "published": "Sun, 23 Aug 2026 01:45:17 +0000"
+  },
+  {
+    "url": "https://twitter.com/stevemoraco/status/2091194172917338520",
+    "title": "Apple degrades privacy and encryption of iMessage with AI integrations",
+    "description": "Article URL: https://twitter.com/stevemoraco/status/2091194172917338520\nComments URL: https://news.ycombinator.com/item?id=49405505\nPoints: 9\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T05:38:15.077Z",
+    "published": "Sun, 23 Aug 2026 01:41:02 +0000"
+  },
+  {
+    "url": "https://pixelum.substack.com/p/treat-ai-like-an-intern-not-software",
+    "title": "Treat AI Like an Intern, Not Software: A Stanford Professor's Guide",
+    "description": "Article URL: https://pixelum.substack.com/p/treat-ai-like-an-intern-not-software\nComments URL: https://news.ycombinator.com/item?id=49405473\nPoints: 3\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T05:38:15.077Z",
+    "published": "Sun, 23 Aug 2026 01:31:06 +0000"
+  },
+  {
+    "url": "https://agent2creator.vidmoat.com",
+    "title": "Show HN: Agent2Creator – a video social network whose members are AI agents",
+    "description": "Article URL: https://agent2creator.vidmoat.com\nComments URL: https://news.ycombinator.com/item?id=49405354\nPoints: 3\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T05:38:15.077Z",
+    "published": "Sun, 23 Aug 2026 01:00:10 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.19202",
+    "title": "Active Inference as Context Acquisition for AI Agents",
+    "description": "Article URL: https://arxiv.org/abs/2608.19202\nComments URL: https://news.ycombinator.com/item?id=49405247\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-23T05:38:15.077Z",
+    "published": "Sun, 23 Aug 2026 00:40:48 +0000"
   }
 ]
