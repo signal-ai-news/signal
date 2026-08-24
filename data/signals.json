@@ -8520,7 +8520,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-29T00:13:36.695Z",
-    "published": "Tue, 28 Jul 2026 22:24:16 +0000"
+    "published": "Tue, 28 Jul 2026 22:24:16 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T06:07:59.334Z"
   },
   {
     "url": "https://mustuse.ai",
@@ -8529,7 +8531,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-29T00:13:36.695Z",
-    "published": "Tue, 28 Jul 2026 22:19:12 +0000"
+    "published": "Tue, 28 Jul 2026 22:19:12 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T06:07:59.334Z"
   },
   {
     "url": "https://sessionradar.com",
@@ -8538,7 +8542,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-29T00:13:36.695Z",
-    "published": "Tue, 28 Jul 2026 22:19:00 +0000"
+    "published": "Tue, 28 Jul 2026 22:19:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T06:07:59.334Z"
   },
   {
     "url": "https://apnews.com/article/new-york-school-artificial-intelligence-robot-teacher-c2126c704104c4eb68b79738630b07df",
@@ -8547,7 +8553,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-29T00:13:36.695Z",
-    "published": "Tue, 28 Jul 2026 22:15:02 +0000"
+    "published": "Tue, 28 Jul 2026 22:15:02 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T06:07:59.334Z"
   },
   {
     "url": "https://www.404media.co/substackers-say-new-ai-detection-tool-is-a-witch-hunt/",
@@ -8556,7 +8564,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-29T00:13:36.695Z",
-    "published": "Tue, 28 Jul 2026 22:12:03 +0000"
+    "published": "Tue, 28 Jul 2026 22:12:03 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T06:07:59.334Z"
   },
   {
     "url": "https://mariofilho.com/gemini-portuguese-parish-records/",
@@ -8610,7 +8620,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-29T00:14:01.965Z",
-    "published": "Tue, 28 Jul 2026 21:20:39 +0000"
+    "published": "Tue, 28 Jul 2026 21:20:39 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T06:07:59.334Z"
   },
   {
     "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
