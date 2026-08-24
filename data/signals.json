@@ -8245,7 +8245,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-28T20:38:00.885Z",
-    "published": "Tue, 28 Jul 2026 19:05:12 +0000"
+    "published": "Tue, 28 Jul 2026 19:05:12 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T01:48:35.270Z"
   },
   {
     "url": "https://towardsdatascience.com/how-much-does-a-local-llm-actually-cost-to-run-i-measured-every-watt-on-apple-silicon/",
@@ -8254,7 +8256,9 @@
     "source": "Towards Data Science",
     "category": "ml",
     "discovered": "2026-07-28T20:38:06.233Z",
-    "published": "Tue, 28 Jul 2026 16:30:00 +0000"
+    "published": "Tue, 28 Jul 2026 16:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T01:48:35.270Z"
   },
   {
     "url": "https://the-decoder.com/anthropic-says-its-mythos-model-found-vulnerabilities-in-cryptographic-algorithms-that-secure-the-internet/",
@@ -8263,7 +8267,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-28T20:38:07.800Z",
-    "published": "Tue, 28 Jul 2026 19:12:27 +0000"
+    "published": "Tue, 28 Jul 2026 19:12:27 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T01:48:35.270Z"
   },
   {
     "url": "https://the-decoder.com/amazon-reportedly-scales-back-its-nova-ai-models-and-bets-on-a-new-frontier-research-team/",
@@ -8272,7 +8278,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-28T20:38:07.800Z",
-    "published": "Tue, 28 Jul 2026 16:03:39 +0000"
+    "published": "Tue, 28 Jul 2026 16:03:39 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T01:48:35.270Z"
   },
   {
     "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
@@ -8281,7 +8289,9 @@
     "source": "GitHub Copilot Blog",
     "category": "code",
     "discovered": "2026-07-28T20:38:12.577Z",
-    "published": "Tue, 28 Jul 2026 16:00:00 +0000"
+    "published": "Tue, 28 Jul 2026 16:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T01:48:35.270Z"
   },
   {
     "url": "https://www.zdnet.com/article/best-keychain-gadgets-everyday-carry/",
