@@ -8971,7 +8971,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-29T16:06:18.905Z",
-    "published": "Wed, 29 Jul 2026 15:51:23 +0000"
+    "published": "Wed, 29 Jul 2026 15:51:23 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T14:52:55.461Z"
   },
   {
     "url": "https://news.ycombinator.com/item?id=49099039",
@@ -8980,7 +8982,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-29T16:06:18.905Z",
-    "published": "Wed, 29 Jul 2026 15:48:13 +0000"
+    "published": "Wed, 29 Jul 2026 15:48:13 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T14:52:55.461Z"
   },
   {
     "url": "https://leetcopilot.dev",
@@ -8989,7 +8993,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-29T16:06:18.905Z",
-    "published": "Wed, 29 Jul 2026 15:44:55 +0000"
+    "published": "Wed, 29 Jul 2026 15:44:55 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T14:52:55.461Z"
   },
   {
     "url": "https://github.com/toshipepe/tokimeter",
@@ -35706,5 +35712,27 @@
     "published": "Mon, 24 Aug 2026 13:30:00 +0000",
     "processed": true,
     "processedAt": "2026-08-24T14:03:05.214Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+    "title": "How to encourage smarter AI use in the classroom",
+    "description": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones t",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-24T14:50:16.304Z",
+    "published": "Mon, 24 Aug 2026 14:20:19 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T14:52:55.462Z"
+  },
+  {
+    "url": "https://the-decoder.com/rogue-ai-agent-used-fake-accounts-and-a-staged-apology-to-push-malware-into-an-open-source-project/",
+    "title": "Rogue AI agent used fake accounts and a staged apology to push malware into an open-source project",
+    "description": "A rogue AI agent staged a public apology as a deception tactic while quietly slipping fresh malware into its pull request.\nThe article Rogue AI agent used fake accounts and a staged apology to push malware into an open-source project appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-24T14:50:34.237Z",
+    "published": "Mon, 24 Aug 2026 14:23:55 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T14:52:55.462Z"
   }
 ]
