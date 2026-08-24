@@ -9235,7 +9235,9 @@
     "source": "GitHub Copilot Blog",
     "category": "code",
     "discovered": "2026-07-29T16:06:32.900Z",
-    "published": "Wed, 29 Jul 2026 16:00:00 +0000"
+    "published": "Wed, 29 Jul 2026 16:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T23:30:08.430Z"
   },
   {
     "url": "https://www.wired.com/story/more-typos-fewer-em-dashes-writers-are-creating-an-anti-ai-literary-counterculture/",
@@ -9244,7 +9246,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-07-29T16:06:34.188Z",
-    "published": "Wed, 29 Jul 2026 10:30:00 +0000"
+    "published": "Wed, 29 Jul 2026 10:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T23:30:08.430Z"
   },
   {
     "url": "https://www.zdnet.com/article/open-weight-ai-civil-war/",
@@ -9253,7 +9257,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-29T16:06:41.121Z",
-    "published": "Wed, 29 Jul 2026 15:00:45 GMT"
+    "published": "Wed, 29 Jul 2026 15:00:45 GMT",
+    "processed": true,
+    "processedAt": "2026-08-24T23:30:08.430Z"
   },
   {
     "url": "https://www.zdnet.com/article/remap-windows-copilot-key/",
@@ -36383,5 +36389,27 @@
     "published": "Mon, 24 Aug 2026 22:50:05 +0000",
     "processed": true,
     "processedAt": "2026-08-24T22:59:01.970Z"
+  },
+  {
+    "url": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/",
+    "title": "What my dad taught me about AI coding in the 90s",
+    "description": "Article URL: https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/\nComments URL: https://news.ycombinator.com/item?id=49427181\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T23:27:39.677Z",
+    "published": "Mon, 24 Aug 2026 23:23:32 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T23:30:08.431Z"
+  },
+  {
+    "url": "https://www.theguardian.com/politics/2026/aug/24/uk-to-use-ukraine-battlefield-data-to-train-ai-to-protect-sensitive-sites",
+    "title": "UK will use Ukraine battlefield data to train AI and use it againsts protesters",
+    "description": "Article URL: https://www.theguardian.com/politics/2026/aug/24/uk-to-use-ukraine-battlefield-data-to-train-ai-to-protect-sensitive-sites\nComments URL: https://news.ycombinator.com/item?id=49427094\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T23:27:39.677Z",
+    "published": "Mon, 24 Aug 2026 23:12:13 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T23:30:08.431Z"
   }
 ]
