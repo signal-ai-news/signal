@@ -8828,7 +8828,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-29T10:20:23.580Z",
-    "published": "Wed, 29 Jul 2026 07:44:04 +0000"
+    "published": "Wed, 29 Jul 2026 07:44:04 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T12:00:32.459Z"
   },
   {
     "url": "https://github.com/sunblaze-ucb/exploitgym/",
@@ -8837,7 +8839,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-29T10:20:23.580Z",
-    "published": "Wed, 29 Jul 2026 07:40:13 +0000"
+    "published": "Wed, 29 Jul 2026 07:40:13 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T12:00:32.459Z"
   },
   {
     "url": "https://www.wired.com/story/boomers-cant-stop-gifting-their-grandkids-ai-generated-slop-books/",
@@ -8846,7 +8850,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-07-29T10:20:37.272Z",
-    "published": "Wed, 29 Jul 2026 09:30:00 +0000"
+    "published": "Wed, 29 Jul 2026 09:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T12:00:32.459Z"
   },
   {
     "url": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
@@ -8855,7 +8861,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-07-29T10:20:37.272Z",
-    "published": "Wed, 29 Jul 2026 00:15:30 +0000"
+    "published": "Wed, 29 Jul 2026 00:15:30 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T12:00:32.459Z"
   },
   {
     "url": "https://www.engadget.com/2225812/openai-rogue-agent-hacked-hugging-face-breached-other-services/",
@@ -8864,7 +8872,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-29T10:20:44.116Z",
-    "published": "Wed, 29 Jul 2026 08:40:56 +0000"
+    "published": "Wed, 29 Jul 2026 08:40:56 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T12:00:32.459Z"
   },
   {
     "url": "https://www.engadget.com/2225806/valve-steam-machine-reservation-holders-not-being-leapfrogged/",
