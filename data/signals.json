@@ -8773,7 +8773,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-29T10:20:23.580Z",
-    "published": "Wed, 29 Jul 2026 08:58:27 +0000"
+    "published": "Wed, 29 Jul 2026 08:58:27 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T10:45:39.203Z"
   },
   {
     "url": "https://engineering.block.xyz/blog/codecrucible-a-blueprint-for-llm-driven-sast",
@@ -35548,5 +35550,49 @@
     "published": "Mon, 24 Aug 2026 09:30:00 +0000",
     "processed": true,
     "processedAt": "2026-08-24T09:58:12.278Z"
+  },
+  {
+    "url": "https://the-decoder.com/cerebras-unveils-cs-4-with-double-the-performance-on-the-same-chip/",
+    "title": "Cerebras unveils CS-4 with double the performance on the same chip",
+    "description": "Cerebras has introduced its CS-4 AI accelerator, which CEO Andrew Feldman calls the fastest system in the industry.\nThe article Cerebras unveils CS-4 with double the performance on the same chip appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-24T10:43:19.125Z",
+    "published": "Mon, 24 Aug 2026 10:16:06 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T10:45:39.204Z"
+  },
+  {
+    "url": "https://the-decoder.com/ai-chatbots-regularly-link-pregnant-users-to-anti-abortion-websites-without-disclosure/",
+    "title": "AI chatbots regularly link pregnant users to anti-abortion websites without disclosure",
+    "description": "When asked about unplanned pregnancies, AI chatbots regularly link to anti-abortion groups without disclosing their stance. In an AlgorithmWatch investigation of 270 responses from ChatGPT, Gemini, Grok, and Claude, the anti-abortion organization Profemina appeared in 17 percent of answers.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-24T10:43:19.125Z",
+    "published": "Mon, 24 Aug 2026 10:00:51 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T10:45:39.204Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/best-car-gadgets-2026/",
+    "title": "These 10+ car gadgets upgrade your daily commute for cheap",
+    "description": "Make your car feel high-tech without breaking the bank. Shop our favorite Bluetooth adapters, chargers, and more.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-24T10:43:32.291Z",
+    "published": "Mon, 24 Aug 2026 10:00:44 GMT",
+    "processed": true,
+    "processedAt": "2026-08-24T10:45:39.204Z"
+  },
+  {
+    "url": "https://www.engadget.com/2242415/taiwan-reportedly-indicted-nvidia-employees-for-exporting-prohibited-ai-servers-to-china/",
+    "title": "Taiwan reportedly indicted NVIDIA employees for exporting prohibited AI servers to China",
+    "description": "Even though the US has relaxed its restrictions of AI chip exports to China, illegal exports are apparently still taking place.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-24T10:43:32.963Z",
+    "published": "Mon, 24 Aug 2026 10:02:03 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T10:45:39.204Z"
   }
 ]
