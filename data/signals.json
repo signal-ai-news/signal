@@ -9268,7 +9268,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-29T16:06:41.121Z",
-    "published": "Wed, 29 Jul 2026 13:01:00 GMT"
+    "published": "Wed, 29 Jul 2026 13:01:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-24T23:51:54.634Z"
   },
   {
     "url": "https://www.zdnet.com/article/74-of-workers-ask-ai-questions-instead-of-colleagues/",
@@ -9277,7 +9279,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-29T16:06:41.121Z",
-    "published": "Wed, 29 Jul 2026 12:19:00 GMT"
+    "published": "Wed, 29 Jul 2026 12:19:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-24T23:51:54.634Z"
   },
   {
     "url": "https://www.engadget.com/2226069/doordash-drone-delivery-service-faa-approval/",
@@ -9286,7 +9290,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-29T16:06:41.722Z",
-    "published": "Wed, 29 Jul 2026 15:10:00 +0000"
+    "published": "Wed, 29 Jul 2026 15:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T23:51:54.634Z"
   },
   {
     "url": "https://www.engadget.com/2224915/google-lets-mad-users-talk-to-gemini-by-pressing-fn/",
@@ -36411,5 +36417,27 @@
     "published": "Mon, 24 Aug 2026 23:12:13 +0000",
     "processed": true,
     "processedAt": "2026-08-24T23:30:08.431Z"
+  },
+  {
+    "url": "https://docs.google.com/document/d/1Z_RNzARxQZS9TDmQDGr7Da5mqqmbwTbbe8pWvl92tHw/edit?usp=sharing",
+    "title": "I audited 2,475 businesses for AI-search readiness. 88% failed",
+    "description": "Article URL: https://docs.google.com/document/d/1Z_RNzARxQZS9TDmQDGr7Da5mqqmbwTbbe8pWvl92tHw/edit?usp=sharing\nComments URL: https://news.ycombinator.com/item?id=49427340\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T23:49:17.100Z",
+    "published": "Mon, 24 Aug 2026 23:43:09 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T23:51:54.635Z"
+  },
+  {
+    "url": "https://blog.master.dev/introducing-ai-skills-for-real-engineers/",
+    "title": "AI Skills for Real Engineers",
+    "description": "Article URL: https://blog.master.dev/introducing-ai-skills-for-real-engineers/\nComments URL: https://news.ycombinator.com/item?id=49427320\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T23:49:17.100Z",
+    "published": "Mon, 24 Aug 2026 23:39:22 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T23:51:54.635Z"
   }
 ]
