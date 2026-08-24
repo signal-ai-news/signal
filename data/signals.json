@@ -8300,7 +8300,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-28T20:38:19.490Z",
-    "published": "Tue, 28 Jul 2026 19:27:39 GMT"
+    "published": "Tue, 28 Jul 2026 19:27:39 GMT",
+    "processed": true,
+    "processedAt": "2026-08-24T03:12:46.813Z"
   },
   {
     "url": "https://www.zdnet.com/article/how-much-storage-does-your-phone-really-need-in-2026/",
@@ -8309,7 +8311,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-28T20:38:19.490Z",
-    "published": "Tue, 28 Jul 2026 17:20:00 GMT"
+    "published": "Tue, 28 Jul 2026 17:20:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-24T03:12:46.813Z"
   },
   {
     "url": "https://www.zdnet.com/article/ai-model-release-tracker/",
@@ -8318,7 +8322,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-28T20:38:19.490Z",
-    "published": "Tue, 28 Jul 2026 16:59:00 GMT"
+    "published": "Tue, 28 Jul 2026 16:59:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-24T03:12:46.813Z"
   },
   {
     "url": "https://www.zdnet.com/article/remap-copilot-key/",
@@ -8327,7 +8333,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-28T20:38:19.490Z",
-    "published": "Tue, 28 Jul 2026 15:58:00 GMT"
+    "published": "Tue, 28 Jul 2026 15:58:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-24T03:12:46.813Z"
   },
   {
     "url": "https://www.engadget.com/2220918/airpods-60-60-rule/",
@@ -8336,7 +8344,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-28T20:38:20.173Z",
-    "published": "Tue, 28 Jul 2026 17:30:00 +0000"
+    "published": "Tue, 28 Jul 2026 17:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T03:12:46.813Z"
   },
   {
     "url": "https://www.engadget.com/2225156/trump-administration-is-exempting-data-centers-from-pollution-laws-intended-to-prevent-acid-rain/",
