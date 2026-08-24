@@ -9158,7 +9158,9 @@
     "source": "Towards Data Science",
     "category": "ml",
     "discovered": "2026-07-29T16:06:25.523Z",
-    "published": "Wed, 29 Jul 2026 15:00:00 +0000"
+    "published": "Wed, 29 Jul 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T21:38:16.234Z"
   },
   {
     "url": "https://towardsdatascience.com/los-movimientos-part-ii-solving-large-pickup-and-delivery-problems-with-adaptive-large-neighborhood-search/",
@@ -9167,7 +9169,9 @@
     "source": "Towards Data Science",
     "category": "ml",
     "discovered": "2026-07-29T16:06:25.523Z",
-    "published": "Wed, 29 Jul 2026 13:30:00 +0000"
+    "published": "Wed, 29 Jul 2026 13:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T21:38:16.234Z"
   },
   {
     "url": "https://towardsdatascience.com/avoiding-entity-key-drift-in-a-data-lake-step-1-normalization/",
@@ -9176,7 +9180,9 @@
     "source": "Towards Data Science",
     "category": "ml",
     "discovered": "2026-07-29T16:06:25.523Z",
-    "published": "Wed, 29 Jul 2026 12:00:00 +0000"
+    "published": "Wed, 29 Jul 2026 12:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T21:38:16.234Z"
   },
   {
     "url": "https://the-decoder.com/deepmind-dismantles-its-alphafold-team-as-key-authors-leave-for-anthropic/",
@@ -9185,7 +9191,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-29T16:06:27.413Z",
-    "published": "Wed, 29 Jul 2026 13:47:11 +0000"
+    "published": "Wed, 29 Jul 2026 13:47:11 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T21:38:16.234Z"
   },
   {
     "url": "https://the-decoder.com/gpt-transcribe-improves-on-its-predecessor-but-cant-catch-elevenlabs-google-or-mistral-on-error-rates/",
@@ -36182,5 +36190,16 @@
     "category": "community",
     "discovered": "2026-08-24T20:38:01.403Z",
     "published": "Mon, 24 Aug 2026 17:45:16 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2240099/how-to-use-samsung-new-fancam-feature/",
+    "title": "How to use Samsung's new My FanCam feature to make yourself the main character in your videos",
+    "description": "Zooming in on your kid&#39;s performance in the school play is about to get a whole lot easier. It&#39;s going to look better, too.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-24T21:36:10.218Z",
+    "published": "Mon, 24 Aug 2026 20:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T21:38:16.235Z"
   }
 ]
