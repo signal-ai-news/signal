@@ -8696,7 +8696,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-29T10:20:23.580Z",
-    "published": "Wed, 29 Jul 2026 09:53:56 +0000"
+    "published": "Wed, 29 Jul 2026 09:53:56 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T08:58:39.556Z"
   },
   {
     "url": "https://enprompta.com/",
@@ -8705,7 +8707,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-29T10:20:23.580Z",
-    "published": "Wed, 29 Jul 2026 09:31:48 +0000"
+    "published": "Wed, 29 Jul 2026 09:31:48 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T08:58:39.556Z"
   },
   {
     "url": "https://www.techspot.com/news/113264-sam-altman-ai-wont-shorten-workweek-because-humans.html",
@@ -8714,7 +8718,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-29T10:20:23.580Z",
-    "published": "Wed, 29 Jul 2026 09:29:50 +0000"
+    "published": "Wed, 29 Jul 2026 09:29:50 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T08:58:39.556Z"
   },
   {
     "url": "https://vimgolf.ai",
@@ -8723,7 +8729,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-29T10:20:23.580Z",
-    "published": "Wed, 29 Jul 2026 09:26:52 +0000"
+    "published": "Wed, 29 Jul 2026 09:26:52 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T08:58:39.556Z"
   },
   {
     "url": "https://news.ycombinator.com/item?id=49095106",
@@ -35501,5 +35509,16 @@
     "published": "Sun, 23 Aug 2026 20:01:36 +0000",
     "processed": true,
     "processedAt": "2026-08-23T20:33:05.845Z"
+  },
+  {
+    "url": "https://the-decoder.com/nvidia-in-talks-to-invest-in-perplexity-at-30-billion-plus-valuation/",
+    "title": "Nvidia in talks to invest in Perplexity at $30 billion-plus valuation",
+    "description": "Nvidia is negotiating an investment in Perplexity at a valuation above $30 billion, more than 50 percent higher than its last funding round, The Information reports. Perplexity's annualized revenue has tripled to over $750 million. Much of Nvidia's investment money tends to flow back as rev",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-24T08:56:19.291Z",
+    "published": "Mon, 24 Aug 2026 08:44:48 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T08:58:39.556Z"
   }
 ]
