@@ -35863,5 +35863,96 @@
     "published": "Mon, 24 Aug 2026 16:49:00 +0000",
     "processed": true,
     "processedAt": "2026-08-24T17:38:54.583Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+    "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+    "description": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-24T18:50:27.678Z",
+    "published": "Mon, 24 Aug 2026 18:03:55 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T18:53:02.645Z"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.16603",
+    "title": "Public services are increasingly strained by LLM-written appeals for benefits",
+    "description": "Article URL: https://arxiv.org/abs/2608.16603\nComments URL: https://news.ycombinator.com/item?id=49422227\nPoints: 51\n# Comments: 60",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T18:50:33.641Z",
+    "published": "Mon, 24 Aug 2026 16:30:21 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T18:53:02.645Z"
+  },
+  {
+    "url": "https://developers.openai.com/api/docs/pricing",
+    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+    "description": "Article URL: https://developers.openai.com/api/docs/pricing\nComments URL: https://news.ycombinator.com/item?id=49421074\nPoints: 174\n# Comments: 168",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T18:50:33.641Z",
+    "published": "Mon, 24 Aug 2026 15:22:43 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T18:53:02.645Z"
+  },
+  {
+    "url": "https://corkmac.app/our-ai-stance/",
+    "title": "We never use AI. For anything",
+    "description": "Article URL: https://corkmac.app/our-ai-stance/\nComments URL: https://news.ycombinator.com/item?id=49417313\nPoints: 74\n# Comments: 94",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T18:50:33.641Z",
+    "published": "Mon, 24 Aug 2026 09:32:32 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T18:53:02.645Z"
+  },
+  {
+    "url": "https://fabiensanglard.net/agent.md/index.html",
+    "title": "My agent.md to improve LLM-assisted code quality",
+    "description": "Article URL: https://fabiensanglard.net/agent.md/index.html\nComments URL: https://news.ycombinator.com/item?id=49410932\nPoints: 390\n# Comments: 168",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T18:50:33.641Z",
+    "published": "Sun, 23 Aug 2026 17:59:52 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T18:53:02.645Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/put-your-own-logic-inside-the-codex-agentic-loop/",
+    "title": "Put Your Own Logic Inside the Codex Agentic Loop",
+    "description": "Understanding Codex hooks\nThe post Put Your Own Logic Inside the Codex Agentic Loop appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-24T18:50:39.318Z",
+    "published": "Mon, 24 Aug 2026 18:00:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/pew-study-shows-ai-written-text-has-surged-across-the-web-since-late-2022/",
+    "title": "Pew study confirms sharp rise of AI-written text on the web since ChatGPT's launch",
+    "description": "The Pew Research Center analyzed nearly half a million English-language web pages for AI-generated content. More than a third of pages published since ChatGPT's launch show signs of machine-written text, and commercial .com sites are ten times more likely to contain AI content than .edu or",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-24T18:50:41.193Z",
+    "published": "Mon, 24 Aug 2026 18:22:49 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/best-early-labor-day-deals-2026/",
+    "title": "The best early Labor Day deals to shop now: Save on TVs, Apple devices, and more",
+    "description": "Labor Day is just around the corner, and there are already some great deals available at Amazon, Best Buy, Walmart, and more.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-24T18:50:55.177Z",
+    "published": "Mon, 24 Aug 2026 18:41:53 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2242963/cdpr-is-aiming-to-release-the-witcher-4-in-2028/",
+    "title": "CDPR is aiming to release The Witcher 4 in 2028",
+    "description": "CDPR&#39;s co-CEO called The Witcher 4&#34;our biggest, boldest and most ambitious game to date.&#34;",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-24T18:50:55.855Z",
+    "published": "Mon, 24 Aug 2026 18:03:28 +0000"
   }
 ]
