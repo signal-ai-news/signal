@@ -9202,7 +9202,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-29T16:06:27.413Z",
-    "published": "Wed, 29 Jul 2026 12:45:33 +0000"
+    "published": "Wed, 29 Jul 2026 12:45:33 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T22:59:01.969Z"
   },
   {
     "url": "https://the-decoder.com/frontier-ai-developers-urge-international-coordination-to-pace-automated-research-before-capabilities-outstrip-control/",
@@ -9211,7 +9213,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-29T16:06:27.413Z",
-    "published": "Wed, 29 Jul 2026 12:13:16 +0000"
+    "published": "Wed, 29 Jul 2026 12:13:16 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T22:59:01.969Z"
   },
   {
     "url": "https://the-decoder.com/openai-open-sources-codex-security-cli-to-help-developers-find-and-fix-vulnerabilities-from-the-command-line/",
@@ -9220,7 +9224,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-29T16:06:27.413Z",
-    "published": "Wed, 29 Jul 2026 11:50:56 +0000"
+    "published": "Wed, 29 Jul 2026 11:50:56 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T22:59:01.969Z"
   },
   {
     "url": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
@@ -36355,5 +36361,27 @@
     "category": "community",
     "discovered": "2026-08-24T22:33:46.182Z",
     "published": "Mon, 24 Aug 2026 20:43:22 +0000"
+  },
+  {
+    "url": "https://github.com/DiegoSalazar/AiSyncing",
+    "title": "Show HN: AiSyncing – Back up your AI coding assistant memories to GitHub",
+    "description": "Article URL: https://github.com/DiegoSalazar/AiSyncing\nComments URL: https://news.ycombinator.com/item?id=49426934\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T22:56:38.258Z",
+    "published": "Mon, 24 Aug 2026 22:52:08 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T22:59:01.970Z"
+  },
+  {
+    "url": "https://www.nature.com/articles/s44277-026-00065-0",
+    "title": "Characterizing the spiral: potential mechanisms in AI-associated delusions",
+    "description": "Article URL: https://www.nature.com/articles/s44277-026-00065-0\nComments URL: https://news.ycombinator.com/item?id=49426912\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T22:56:38.258Z",
+    "published": "Mon, 24 Aug 2026 22:50:05 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T22:59:01.970Z"
   }
 ]
