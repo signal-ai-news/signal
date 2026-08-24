@@ -8740,7 +8740,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-29T10:20:23.580Z",
-    "published": "Wed, 29 Jul 2026 09:21:52 +0000"
+    "published": "Wed, 29 Jul 2026 09:21:52 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T09:58:12.277Z"
   },
   {
     "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o",
@@ -8749,7 +8751,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-29T10:20:23.580Z",
-    "published": "Wed, 29 Jul 2026 09:03:17 +0000"
+    "published": "Wed, 29 Jul 2026 09:03:17 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T09:58:12.277Z"
   },
   {
     "url": "https://cefboud.com/posts/ai-inference-costs-profit/",
@@ -8758,7 +8762,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-29T10:20:23.580Z",
-    "published": "Wed, 29 Jul 2026 08:59:58 +0000"
+    "published": "Wed, 29 Jul 2026 08:59:58 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T09:58:12.277Z"
   },
   {
     "url": "https://medium.com/@DolphinDB_Inc/from-research-report-to-validated-alpha-let-ai-build-debug-and-evaluate-your-factors-ad222e405b8c",
@@ -35520,5 +35526,27 @@
     "published": "Mon, 24 Aug 2026 08:44:48 +0000",
     "processed": true,
     "processedAt": "2026-08-24T08:58:39.556Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+    "title": "Kids outlearn AI—and we still don’t know why",
+    "description": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child.&#160; Now there are two.&#160; Four short years after the release of ChatGPT,&",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-24T09:55:32.740Z",
+    "published": "Mon, 24 Aug 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T09:58:12.278Z"
+  },
+  {
+    "url": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
+    "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
+    "description": "The deepfake epidemic in schools is affecting more than students. Four teachers tell WIRED about becoming targets of sexualized, AI-generated content—and how difficult it was to find accountability.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-24T09:55:56.672Z",
+    "published": "Mon, 24 Aug 2026 09:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T09:58:12.278Z"
   }
 ]
