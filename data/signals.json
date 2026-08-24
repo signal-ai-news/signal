@@ -36201,5 +36201,159 @@
     "published": "Mon, 24 Aug 2026 20:30:00 +0000",
     "processed": true,
     "processedAt": "2026-08-24T21:38:16.235Z"
+  },
+  {
+    "url": "https://github.com/sturlese/stigmergy",
+    "title": "Show HN: Stigmergy, a Karpathy-style LLM wiki for a team, not one person",
+    "description": "Article URL: https://github.com/sturlese/stigmergy\nComments URL: https://news.ycombinator.com/item?id=49426770\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T22:33:46.181Z",
+    "published": "Mon, 24 Aug 2026 22:32:57 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T22:36:14.657Z"
+  },
+  {
+    "url": "https://github.com/heinevwinston-bot/PageLens",
+    "title": "PageLens–A Chrome extension that uses AI to summarize your tab",
+    "description": "Article URL: https://github.com/heinevwinston-bot/PageLens\nComments URL: https://news.ycombinator.com/item?id=49426703\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T22:33:46.181Z",
+    "published": "Mon, 24 Aug 2026 22:25:16 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T22:36:14.657Z"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.11256",
+    "title": "Why AI Detection Fails for Academic Integrity",
+    "description": "Article URL: https://arxiv.org/abs/2608.11256\nComments URL: https://news.ycombinator.com/item?id=49426671\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T22:33:46.181Z",
+    "published": "Mon, 24 Aug 2026 22:22:48 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T22:36:14.657Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/",
+    "title": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet",
+    "description": "Article URL: https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/\nComments URL: https://news.ycombinator.com/item?id=49426482\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T22:33:46.181Z",
+    "published": "Mon, 24 Aug 2026 22:07:06 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T22:36:14.657Z"
+  },
+  {
+    "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+    "title": "AI text watermarking and quality loss",
+    "description": "Article URL: https://blog.keyvan.net/p/ai-text-watermarking-and-quality\nComments URL: https://news.ycombinator.com/item?id=49426464\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T22:33:46.181Z",
+    "published": "Mon, 24 Aug 2026 22:05:51 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T22:36:14.657Z"
+  },
+  {
+    "url": "https://index.parallel.ai/",
+    "title": "See what your content is worth to AI agents",
+    "description": "Article URL: https://index.parallel.ai/\nComments URL: https://news.ycombinator.com/item?id=49426463\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T22:33:46.181Z",
+    "published": "Mon, 24 Aug 2026 22:05:48 +0000"
+  },
+  {
+    "url": "https://www.wsj.com/tech/ai/spacex-says-spending-spree-is-supercharging-ai-revenues-ea750ff3",
+    "title": "SpaceX Shares Sink on AI Spending Plans",
+    "description": "Article URL: https://www.wsj.com/tech/ai/spacex-says-spending-spree-is-supercharging-ai-revenues-ea750ff3\nComments URL: https://news.ycombinator.com/item?id=49426333\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T22:33:46.181Z",
+    "published": "Mon, 24 Aug 2026 21:52:52 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.21311",
+    "title": "AI-to-AI Code Reviews of GitHub Pull Requests",
+    "description": "Article URL: https://arxiv.org/abs/2608.21311\nComments URL: https://news.ycombinator.com/item?id=49426227\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T22:33:46.181Z",
+    "published": "Mon, 24 Aug 2026 21:41:26 +0000"
+  },
+  {
+    "url": "https://blog.astrost.at/u/replace-using-ai-with-using-computers/",
+    "title": "Replace \"using AI\" with \"using computers\"",
+    "description": "Article URL: https://blog.astrost.at/u/replace-using-ai-with-using-computers/\nComments URL: https://news.ycombinator.com/item?id=49425988\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T22:33:46.181Z",
+    "published": "Mon, 24 Aug 2026 21:20:06 +0000"
+  },
+  {
+    "url": "https://github.com/doofzoff/SIMURG",
+    "title": "A real-time LLM stream guard that catches LLM hallucinations mid generation",
+    "description": "Article URL: https://github.com/doofzoff/SIMURG\nComments URL: https://news.ycombinator.com/item?id=49425784\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T22:33:46.181Z",
+    "published": "Mon, 24 Aug 2026 21:00:25 +0000"
+  },
+  {
+    "url": "https://dordar.zohorecruit.com/jobs/Careers/871895000000585001/Senior-Full-Stack-Platform-Engineer-AI-Assisted-Engineering?source=CareerSite",
+    "title": "Senior Full-Stack Platform Engineer – AI-Assisted Engineering",
+    "description": "Article URL: https://dordar.zohorecruit.com/jobs/Careers/871895000000585001/Senior-Full-Stack-Platform-Engineer-AI-Assisted-Engineering?source=CareerSite\nComments URL: https://news.ycombinator.com/item?id=49425634\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T22:33:46.181Z",
+    "published": "Mon, 24 Aug 2026 20:48:28 +0000"
+  },
+  {
+    "url": "https://github.com/PJHkorea/homeostasis-kernel",
+    "title": "Show HN: Module for LLM Homeostasis (PoC)",
+    "description": "Article URL: https://github.com/PJHkorea/homeostasis-kernel\nComments URL: https://news.ycombinator.com/item?id=49425617\nPoints: 1\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T22:33:46.181Z",
+    "published": "Mon, 24 Aug 2026 20:46:47 +0000"
+  },
+  {
+    "url": "https://dactyl.dev/",
+    "title": "Deno team releases Dactyl, an AI app builder that runs on your ChatGPT plan",
+    "description": "Article URL: https://dactyl.dev/\nComments URL: https://news.ycombinator.com/item?id=49425599\nPoints: 9\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T22:33:46.182Z",
+    "published": "Mon, 24 Aug 2026 20:45:07 +0000"
+  },
+  {
+    "url": "https://mybestlook.app",
+    "title": "Show HN: AI stylist and virtual try-on for hair, makeup, and outfits",
+    "description": "Article URL: https://mybestlook.app\nComments URL: https://news.ycombinator.com/item?id=49425597\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T22:33:46.182Z",
+    "published": "Mon, 24 Aug 2026 20:44:47 +0000"
+  },
+  {
+    "url": "https://github.com/xhluca/session-migrate",
+    "title": "Session-migrate: Migrate coding agent sessions across Claude Code, Codex, Pi",
+    "description": "Article URL: https://github.com/xhluca/session-migrate\nComments URL: https://news.ycombinator.com/item?id=49425594\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T22:33:46.182Z",
+    "published": "Mon, 24 Aug 2026 20:44:24 +0000"
+  },
+  {
+    "url": "https://chinai.substack.com/p/chinai-372-chinas-overhyped-embodied",
+    "title": "China's Overhyped Embodied AI Sector",
+    "description": "Article URL: https://chinai.substack.com/p/chinai-372-chinas-overhyped-embodied\nComments URL: https://news.ycombinator.com/item?id=49425584\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T22:33:46.182Z",
+    "published": "Mon, 24 Aug 2026 20:43:22 +0000"
   }
 ]
