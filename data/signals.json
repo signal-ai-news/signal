@@ -35623,5 +35623,60 @@
     "published": "Mon, 24 Aug 2026 11:00:00 +0000",
     "processed": true,
     "processedAt": "2026-08-24T11:37:49.167Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+    "title": "The Download: kids outlearning AI, and space travel agents",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM can easily churn thr",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-24T13:02:54.772Z",
+    "published": "Mon, 24 Aug 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T13:05:33.744Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/ai-agents-dont-need-more-context-they-need-typed-context/",
+    "title": "AI Agents Don’t Need More Context — They Need Typed Context",
+    "description": "AI agents don’t just have a context problem—they have a context typing problem. When instructions, memory, retrieved evidence, and tool outputs are flattened into one string, their semantic boundaries can disappear. I built a lightweight, zero-dependency Python runtime that keeps those boundaries ex",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-24T13:03:10.457Z",
+    "published": "Mon, 24 Aug 2026 12:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T13:05:33.744Z"
+  },
+  {
+    "url": "https://the-decoder.com/thomson-reuters-bets-40m-on-owning-its-ai-instead-of-renting-from-openai-or-anthropic/",
+    "title": "Thomson Reuters bets $40M on owning its AI instead of renting from OpenAI or Anthropic",
+    "description": "Thomson Reuters is launching \"Thomson,\" its own language model built on Alibaba's Qwen, at a cost of about $40 million over two years. But the benchmarks only show top marks when the model can tap into the company's own content, like Westlaw. CTO Joel Hron makes the point that what matters",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-24T13:03:12.148Z",
+    "published": "Mon, 24 Aug 2026 12:59:43 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T13:05:33.744Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/googlebook-laptop-is-almost-here-can-it-avoid-copilot-pc-problem/",
+    "title": "Google's AI-first Googlebook laptop is almost here - can it avoid the Copilot+ PC problem?",
+    "description": "It won't be another high-end Chromebook like the Pixel, and Google has to hope it'll succeed where Copilot+ PCs have fallen short.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-24T13:03:26.589Z",
+    "published": "Mon, 24 Aug 2026 12:48:57 GMT",
+    "processed": true,
+    "processedAt": "2026-08-24T13:05:33.744Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/how-to-use-chatgpt-work-and-my-top-tips/",
+    "title": "How to use ChatGPT Work - and my top 10 tips for getting started with agentic AI",
+    "description": "Curious about ChatGPT Work? Here's how the agentic AI handles research, files, and multistep projects, plus its risks and limits.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-24T13:03:26.589Z",
+    "published": "Mon, 24 Aug 2026 11:59:05 GMT",
+    "processed": true,
+    "processedAt": "2026-08-24T13:05:33.744Z"
   }
 ]
