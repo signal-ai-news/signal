@@ -35808,5 +35808,60 @@
     "published": "Mon, 24 Aug 2026 16:30:00 +0000",
     "processed": true,
     "processedAt": "2026-08-24T16:48:37.984Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/10-positions-for-enterprise-rag-that-mainstream-tutorials-get-wrong/",
+    "title": "10 Positions for Enterprise RAG That Mainstream Tutorials Get Wrong",
+    "description": "Enterprise Document Intelligence [Vol.1 #M3] - The ten positions the series argues from, and the map of every article that argues them\nThe post 10 Positions for Enterprise RAG That Mainstream Tutorials Get Wrong appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-24T17:36:29.620Z",
+    "published": "Mon, 24 Aug 2026 16:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T17:38:54.583Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/can-an-llm-forget-the-right-things/",
+    "title": "Can an LLM Forget the Right Things?",
+    "description": "Most LLM inference runtimes have no idea a physical deadline exists. This one refuses admission rather than miss a 33ms robot control cycle, evicts KV cache by meaning instead of age, and is written entirely in hand-written CUDA — no cuBLAS, no libtorch.\nThe post Can an LLM Forget the Right Things?",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-24T17:36:29.620Z",
+    "published": "Mon, 24 Aug 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T17:38:54.583Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/649-fairphone-6-goldilocks-of-android-phones/",
+    "title": "The $649 Fairphone 6+ is the Goldilocks of Android phones - and it's available in the US now",
+    "description": "Fairphone is finally selling its latest model in the US. The $649 handset has 11 swappable parts, and a replacement battery is only $40.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-24T17:36:45.976Z",
+    "published": "Mon, 24 Aug 2026 17:19:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-24T17:38:54.583Z"
+  },
+  {
+    "url": "https://www.engadget.com/2240311/how-to-cancel-chatgpt-subscription-why-might-want-to/",
+    "title": "How to cancel your ChatGPT subscription (and why you might want to)",
+    "description": "If you&#39;ve had it with OpenAI, here&#39;s how to cancel your subscription and delete your account.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-24T17:36:46.635Z",
+    "published": "Mon, 24 Aug 2026 17:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T17:38:54.583Z"
+  },
+  {
+    "url": "https://www.engadget.com/2242821/espn-is-raising-prices-on-most-of-its-streaming-subscriptions/",
+    "title": "ESPN is raising prices on most of its streaming subscriptions, even bundles with Disney+",
+    "description": "ESPN&#39;s Unlimited tier will cost $32 per month as of September 17.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-24T17:36:46.635Z",
+    "published": "Mon, 24 Aug 2026 16:49:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T17:38:54.583Z"
   }
 ]
