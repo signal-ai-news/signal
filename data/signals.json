@@ -9015,7 +9015,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-29T16:06:18.905Z",
-    "published": "Wed, 29 Jul 2026 15:42:49 +0000"
+    "published": "Wed, 29 Jul 2026 15:42:49 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T16:48:37.983Z"
   },
   {
     "url": "https://phixo.app/",
@@ -9024,7 +9026,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-29T16:06:18.905Z",
-    "published": "Wed, 29 Jul 2026 15:36:30 +0000"
+    "published": "Wed, 29 Jul 2026 15:36:30 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T16:48:37.983Z"
   },
   {
     "url": "https://github.com/vincentping/claudeFS",
@@ -9033,7 +9037,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-29T16:06:18.905Z",
-    "published": "Wed, 29 Jul 2026 15:36:06 +0000"
+    "published": "Wed, 29 Jul 2026 15:36:06 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T16:48:37.983Z"
   },
   {
     "url": "https://capytoolkit.com/blog/buying-guides/npu-tops-vs-memory-bandwidth-local-llm-ai-pc/",
@@ -35780,5 +35786,27 @@
     "published": "Mon, 24 Aug 2026 15:01:12 GMT",
     "processed": true,
     "processedAt": "2026-08-24T15:48:50.274Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/best-early-labor-day-garmin-watch-deals-2026/",
+    "title": "The best early Labor Day Garmin watch deals: Gear up for marathon training for less",
+    "description": "Training for a fall marathon? Snag one of these Garmin running watches we've tested at a discount.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-24T16:46:32.173Z",
+    "published": "Mon, 24 Aug 2026 15:57:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-24T16:48:37.984Z"
+  },
+  {
+    "url": "https://www.engadget.com/2240318/mini-pc-pros-cons/",
+    "title": "What are the downsides of a mini PC?",
+    "description": "Small space means less cooling, which in turn means less sustained power.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-24T16:46:32.752Z",
+    "published": "Mon, 24 Aug 2026 16:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T16:48:37.984Z"
   }
 ]
