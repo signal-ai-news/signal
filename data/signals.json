@@ -9004,7 +9004,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-29T16:06:18.905Z",
-    "published": "Wed, 29 Jul 2026 15:43:03 +0000"
+    "published": "Wed, 29 Jul 2026 15:43:03 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T15:48:50.273Z"
   },
   {
     "url": "https://github.com/dj9889/sitrep",
@@ -35734,5 +35736,49 @@
     "published": "Mon, 24 Aug 2026 14:23:55 +0000",
     "processed": true,
     "processedAt": "2026-08-24T14:52:55.462Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+    "description": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-24T15:46:14.049Z",
+    "published": "Mon, 24 Aug 2026 15:24:18 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T15:48:50.274Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+    "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+    "description": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-24T15:46:14.049Z",
+    "published": "Mon, 24 Aug 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T15:48:50.274Z"
+  },
+  {
+    "url": "https://the-decoder.com/alibabas-wan3-0-generates-ai-videos-up-to-30-seconds-long-from-text-images-and-documents/",
+    "title": "Alibaba's Wan3.0 generates AI videos up to 30 seconds long from text, images, and documents",
+    "description": "Alibaba's video generation model Wan3.0 creates clips up to 30 seconds long from text, PDFs, and PowerPoint files. A 30-second 1080p clip costs $6. Alibaba's quarterly profit dropped 75 percent year-over-year as the company ramps up AI spending.\nThe article Alibaba&#039;s Wan3.0 generates A",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-24T15:46:29.966Z",
+    "published": "Mon, 24 Aug 2026 15:35:03 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T15:48:50.274Z"
+  },
+  {
+    "url": "https://www.zdnet.com/article/firefox-wins-me-back-on-me-back-5-features/",
+    "title": "I dumped Firefox, but these 5 features finally won me back - here's why",
+    "description": "It's been a bumpy road for Mozilla's browser, but as the dust of doubt settles, Firefox has once again become my default browser on all platforms.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-24T15:46:43.284Z",
+    "published": "Mon, 24 Aug 2026 15:01:12 GMT",
+    "processed": true,
+    "processedAt": "2026-08-24T15:48:50.274Z"
   }
 ]
