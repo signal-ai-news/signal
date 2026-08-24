@@ -35983,5 +35983,204 @@
     "published": "Mon, 24 Aug 2026 19:22:32 GMT",
     "processed": true,
     "processedAt": "2026-08-24T19:37:30.539Z"
+  },
+  {
+    "url": "https://openai.com/index/gpt-5-6-in-kiro",
+    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "description": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-24T20:37:52.837Z",
+    "published": "Mon, 24 Aug 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-24T20:40:39.051Z"
+  },
+  {
+    "url": "https://icepanel.io/blog/2026-08-17-cognitive-surrender-with-ai",
+    "title": "Cognitive Surrender with AI",
+    "description": "Article URL: https://icepanel.io/blog/2026-08-17-cognitive-surrender-with-ai\nComments URL: https://news.ycombinator.com/item?id=49425259\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T20:38:01.403Z",
+    "published": "Mon, 24 Aug 2026 20:12:48 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T20:40:39.051Z"
+  },
+  {
+    "url": "https://thisisrobin.ai/",
+    "title": "Show HN: AI for people that still browse the web",
+    "description": "Article URL: https://thisisrobin.ai/\nComments URL: https://news.ycombinator.com/item?id=49425054\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T20:38:01.403Z",
+    "published": "Mon, 24 Aug 2026 19:57:10 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T20:40:39.051Z"
+  },
+  {
+    "url": "https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom",
+    "title": "The Teaser Period: Why the AI Boom Is Built to Break",
+    "description": "Article URL: https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom\nComments URL: https://news.ycombinator.com/item?id=49424964\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T20:38:01.403Z",
+    "published": "Mon, 24 Aug 2026 19:48:45 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T20:40:39.051Z"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-08-24/porsche-inks-1-5-billion-ai-deal-with-india-s-tata-consultancy",
+    "title": "Porsche Inks $1.5B AI Deal with India's Tata Consultancy",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-08-24/porsche-inks-1-5-billion-ai-deal-with-india-s-tata-consultancy\nComments URL: https://news.ycombinator.com/item?id=49424776\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T20:38:01.403Z",
+    "published": "Mon, 24 Aug 2026 19:33:23 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T20:40:39.051Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49424762",
+    "title": "I can't prove it, but I think AI is causing me brain damage",
+    "description": "Not sure what to do, worked in software engineering for nearly 20 years now. And the last several years of working on this stuff has caused what I can only describe as significant cognitive corrosion. Hoping to transition out of this career or into a new role as soon as I can where I can use this t",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T20:38:01.403Z",
+    "published": "Mon, 24 Aug 2026 19:32:39 +0000"
+  },
+  {
+    "url": "https://github.com/l3a0/claude-plugins",
+    "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
+    "description": "Article URL: https://github.com/l3a0/claude-plugins\nComments URL: https://news.ycombinator.com/item?id=49424758\nPoints: 23\n# Comments: 5",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T20:38:01.403Z",
+    "published": "Mon, 24 Aug 2026 19:32:18 +0000"
+  },
+  {
+    "url": "https://mistral.ai/news/mistral-x-humain/",
+    "title": "Mistral and Humain Announce Colab to Advance AI in Saudi Arabia and Regionally",
+    "description": "Article URL: https://mistral.ai/news/mistral-x-humain/\nComments URL: https://news.ycombinator.com/item?id=49424700\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T20:38:01.403Z",
+    "published": "Mon, 24 Aug 2026 19:27:50 +0000"
+  },
+  {
+    "url": "https://gist.github.com/NenadConnor/b9bb71d56c9e70a9072c55e262885b8b",
+    "title": "I built 270 AI agents in an Obsidian vault – zero API costs, all open source",
+    "description": "Article URL: https://gist.github.com/NenadConnor/b9bb71d56c9e70a9072c55e262885b8b\nComments URL: https://news.ycombinator.com/item?id=49424678\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T20:38:01.403Z",
+    "published": "Mon, 24 Aug 2026 19:25:51 +0000"
+  },
+  {
+    "url": "https://www.autonomous.ai/computer-2",
+    "title": "Autonomous Computer: 2-GPU AI Workstation",
+    "description": "Article URL: https://www.autonomous.ai/computer-2\nComments URL: https://news.ycombinator.com/item?id=49424607\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T20:38:01.403Z",
+    "published": "Mon, 24 Aug 2026 19:19:09 +0000"
+  },
+  {
+    "url": "https://www.insightits.com/products/prismclaim.html",
+    "title": "AI billing tool is fast. Is it accurate enough to pass an audit?",
+    "description": "Article URL: https://www.insightits.com/products/prismclaim.html\nComments URL: https://news.ycombinator.com/item?id=49424499\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T20:38:01.403Z",
+    "published": "Mon, 24 Aug 2026 19:10:58 +0000"
+  },
+  {
+    "url": "https://www.reuters.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg-news-2026-08-22/",
+    "title": "Nvidia customers notified about AI-related price hikes above 15%",
+    "description": "Article URL: https://www.reuters.com/business/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg-news-2026-08-22/\nComments URL: https://news.ycombinator.com/item?id=49424444\nPoints: 8\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T20:38:01.403Z",
+    "published": "Mon, 24 Aug 2026 19:06:30 +0000"
+  },
+  {
+    "url": "https://dmitrybrant.com/2026/08/23/claude-x-retrocomputing-emulating-a-qic-117-tape-drive",
+    "title": "Claude × retrocomputing: emulating a QIC-117 tape drive",
+    "description": "Article URL: https://dmitrybrant.com/2026/08/23/claude-x-retrocomputing-emulating-a-qic-117-tape-drive\nComments URL: https://news.ycombinator.com/item?id=49424322\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T20:38:01.403Z",
+    "published": "Mon, 24 Aug 2026 18:58:19 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49424263",
+    "title": "Ask HN: Is there a stronger moat in marketplaces in the age of SaaS AI Slop?",
+    "description": "Basically, what I’m trying to say is: software is cheap to produce now, but not necessarily easy to customize.It seems like everyone is honing in on distribution and capital as the moat. We have all these vibe-coding platforms and a flood of applications that are 90% there but not quite finished. T",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T20:38:01.403Z",
+    "published": "Mon, 24 Aug 2026 18:53:14 +0000"
+  },
+  {
+    "url": "https://invoiceflowdesign.app",
+    "title": "InvoiceFlow AI – Smarter invoicing for freelancers and businesses",
+    "description": "Article URL: https://invoiceflowdesign.app\nComments URL: https://news.ycombinator.com/item?id=49424212\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T20:38:01.403Z",
+    "published": "Mon, 24 Aug 2026 18:48:50 +0000"
+  },
+  {
+    "url": "https://nvidianews.nvidia.com/news/spacexai-adopts-nvidia-vera-cpu-to-accelerate-agentic-ai-at-massive-scale",
+    "title": "SpaceXAI Adopts Nvidia Vera CPU to Accelerate Agentic AI at Scale",
+    "description": "Article URL: https://nvidianews.nvidia.com/news/spacexai-adopts-nvidia-vera-cpu-to-accelerate-agentic-ai-at-massive-scale\nComments URL: https://news.ycombinator.com/item?id=49424210\nPoints: 6\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T20:38:01.403Z",
+    "published": "Mon, 24 Aug 2026 18:48:46 +0000"
+  },
+  {
+    "url": "https://unprompted.au/schedule",
+    "title": "The unprompted.au (Australian AI and Cyber) schedule is live",
+    "description": "Article URL: https://unprompted.au/schedule\nComments URL: https://news.ycombinator.com/item?id=49424183\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T20:38:01.403Z",
+    "published": "Mon, 24 Aug 2026 18:46:52 +0000"
+  },
+  {
+    "url": "https://www.democratandchronicle.com/story/news/2026/08/24/geneva-ai-data-center-greenidge-kristen-gonzalez/91437888007/",
+    "title": "New York AI data center fight comes to Geneva",
+    "description": "Article URL: https://www.democratandchronicle.com/story/news/2026/08/24/geneva-ai-data-center-greenidge-kristen-gonzalez/91437888007/\nComments URL: https://news.ycombinator.com/item?id=49424098\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T20:38:01.403Z",
+    "published": "Mon, 24 Aug 2026 18:39:26 +0000"
+  },
+  {
+    "url": "https://buttondown.com/carlton/archive/its-ok-do-your-thing/",
+    "title": "It's OK. Do Your Thing. Some (reluctant) thought on our AI moment",
+    "description": "Article URL: https://buttondown.com/carlton/archive/its-ok-do-your-thing/\nComments URL: https://news.ycombinator.com/item?id=49423992\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T20:38:01.403Z",
+    "published": "Mon, 24 Aug 2026 18:30:25 +0000"
+  },
+  {
+    "url": "https://concentrate.ai",
+    "title": "Concentrate AI: an LLM gateway that charges 0%",
+    "description": "Article URL: https://concentrate.ai\nComments URL: https://news.ycombinator.com/item?id=49423420\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T20:38:01.403Z",
+    "published": "Mon, 24 Aug 2026 17:48:32 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49423377",
+    "title": "Ask HN: What AI companies provide human support?",
+    "description": "How can i run a small business that relies of many AI subscriptions, yet I am unable to get a human on the phone line to address an urgent concern.or do they  genuinely believe that AI is the support layer?\n\nComments URL: https://news.ycombinator.com/item?id=49423377\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-24T20:38:01.403Z",
+    "published": "Mon, 24 Aug 2026 17:45:16 +0000"
   }
 ]
