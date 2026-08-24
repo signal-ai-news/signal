@@ -8784,7 +8784,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-29T10:20:23.580Z",
-    "published": "Wed, 29 Jul 2026 08:53:51 +0000"
+    "published": "Wed, 29 Jul 2026 08:53:51 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T11:37:49.166Z"
   },
   {
     "url": "https://videoupscaler.video/",
@@ -8793,7 +8795,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-29T10:20:23.580Z",
-    "published": "Wed, 29 Jul 2026 08:41:57 +0000"
+    "published": "Wed, 29 Jul 2026 08:41:57 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T11:37:49.166Z"
   },
   {
     "url": "https://twitter.com/theonejvo/status/2082319747342045267",
@@ -8802,7 +8806,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-29T10:20:23.580Z",
-    "published": "Wed, 29 Jul 2026 08:29:15 +0000"
+    "published": "Wed, 29 Jul 2026 08:29:15 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T11:37:49.166Z"
   },
   {
     "url": "https://github.com/barvhaim/code-security-skills",
@@ -8811,7 +8817,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-29T10:20:23.580Z",
-    "published": "Wed, 29 Jul 2026 08:16:01 +0000"
+    "published": "Wed, 29 Jul 2026 08:16:01 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T11:37:49.166Z"
   },
   {
     "url": "https://www.bizjournals.com/sanjose/news/2026/07/27/ai-software-sell-outcomes-tools.html",
@@ -35594,5 +35602,16 @@
     "published": "Mon, 24 Aug 2026 10:02:03 +0000",
     "processed": true,
     "processedAt": "2026-08-24T10:45:39.204Z"
+  },
+  {
+    "url": "https://www.engadget.com/2232481/new-shokz-openfit-air-2-earbuds/",
+    "title": "The new Shokz OpenFit Air 2 earbuds are nearly 20 percent lighter than the previous generation",
+    "description": "They feature an open-ear design that reduces pressure and heat buildup.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-24T11:35:43.204Z",
+    "published": "Mon, 24 Aug 2026 11:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T11:37:49.167Z"
   }
 ]
