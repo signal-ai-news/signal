@@ -8355,7 +8355,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-28T20:38:20.173Z",
-    "published": "Tue, 28 Jul 2026 16:04:52 +0000"
+    "published": "Tue, 28 Jul 2026 16:04:52 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T04:25:48.674Z"
   },
   {
     "url": "https://www.engadget.com/2225136/xbox-explains-what-caused-this-weeks-unaceeptable-major-outage/",
@@ -8364,7 +8366,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-28T20:38:20.173Z",
-    "published": "Tue, 28 Jul 2026 15:55:20 +0000"
+    "published": "Tue, 28 Jul 2026 15:55:20 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T04:25:48.674Z"
   },
   {
     "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
@@ -8428,7 +8432,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-29T00:13:36.695Z",
-    "published": "Tue, 28 Jul 2026 23:46:53 +0000"
+    "published": "Tue, 28 Jul 2026 23:46:53 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T04:25:48.674Z"
   },
   {
     "url": "https://www.theguardian.com/technology/2026/jul/28/apple-second-ever-5tn-company-as-investors-flee-ai-stocks",
@@ -8437,7 +8443,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-29T00:13:36.695Z",
-    "published": "Tue, 28 Jul 2026 23:41:59 +0000"
+    "published": "Tue, 28 Jul 2026 23:41:59 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T04:25:48.674Z"
   },
   {
     "url": "https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html",
@@ -8446,7 +8454,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-29T00:13:36.695Z",
-    "published": "Tue, 28 Jul 2026 23:31:45 +0000"
+    "published": "Tue, 28 Jul 2026 23:31:45 +0000",
+    "processed": true,
+    "processedAt": "2026-08-24T04:25:48.674Z"
   },
   {
     "url": "https://www.together.ai/customers/cursor",
