@@ -9829,7 +9829,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-30T16:07:23.837Z",
-    "published": "Thu, 30 Jul 2026 15:42:44 +0000"
+    "published": "Thu, 30 Jul 2026 15:42:44 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T21:58:59.167Z"
   },
   {
     "url": "https://www.malwarebytes.com/blog/ai/2026/07/hidden-microsoft-copilot-ai-worm",
@@ -9838,7 +9840,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-30T16:07:23.837Z",
-    "published": "Thu, 30 Jul 2026 15:35:30 +0000"
+    "published": "Thu, 30 Jul 2026 15:35:30 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T21:58:59.167Z"
   },
   {
     "url": "https://www.axios.com/2026/07/30/scale-ai-google-cloud-coo-francis-desouza",
@@ -9847,7 +9851,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-30T16:07:23.837Z",
-    "published": "Thu, 30 Jul 2026 15:33:24 +0000"
+    "published": "Thu, 30 Jul 2026 15:33:24 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T21:58:59.167Z"
   },
   {
     "url": "https://aidoses.substack.com/p/scaling-laws-the-law-behind-every",
@@ -9856,7 +9862,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-30T16:07:23.837Z",
-    "published": "Thu, 30 Jul 2026 15:32:26 +0000"
+    "published": "Thu, 30 Jul 2026 15:32:26 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T21:58:59.167Z"
   },
   {
     "url": "https://www.npr.org/2026/07/30/nx-s1-5853571/students-set-ai-policy",
@@ -9865,7 +9873,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-30T16:07:23.837Z",
-    "published": "Thu, 30 Jul 2026 15:32:12 +0000"
+    "published": "Thu, 30 Jul 2026 15:32:12 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T21:58:59.167Z"
   },
   {
     "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/",
