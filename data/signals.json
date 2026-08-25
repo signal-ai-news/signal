@@ -9928,7 +9928,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-30T16:07:23.837Z",
-    "published": "Thu, 30 Jul 2026 15:15:01 +0000"
+    "published": "Thu, 30 Jul 2026 15:15:01 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T23:32:49.323Z"
   },
   {
     "url": "https://github.com/wladimiravila/esp32s3-distributed-ai",
@@ -9937,7 +9939,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-30T16:07:23.837Z",
-    "published": "Thu, 30 Jul 2026 15:07:32 +0000"
+    "published": "Thu, 30 Jul 2026 15:07:32 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T23:32:49.323Z"
   },
   {
     "url": "https://github.com/hamzarehmandeveloper/claude-account",
@@ -38642,5 +38646,38 @@
     "published": "Tue, 25 Aug 2026 21:52:20 +0000",
     "processed": true,
     "processedAt": "2026-08-25T23:01:17.526Z"
+  },
+  {
+    "url": "https://twitter.com/curiouswavefn/status/2092380964668534967",
+    "title": "A modest but open theorem in theoretical biology proved by AI",
+    "description": "Article URL: https://twitter.com/curiouswavefn/status/2092380964668534967\nComments URL: https://news.ycombinator.com/item?id=49442122\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T23:30:24.247Z",
+    "published": "Tue, 25 Aug 2026 23:28:20 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T23:32:49.324Z"
+  },
+  {
+    "url": "https://www.digitalocean.com/blog/ai-disruptors",
+    "title": "AI Disruptors: How the Next Generation of Business Is Being Built",
+    "description": "Article URL: https://www.digitalocean.com/blog/ai-disruptors\nComments URL: https://news.ycombinator.com/item?id=49442069\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T23:30:24.247Z",
+    "published": "Tue, 25 Aug 2026 23:22:19 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T23:32:49.324Z"
+  },
+  {
+    "url": "https://hermes-agent.nousresearch.com",
+    "title": "Hermes Agent – Open-Source AI Agent That Grows with You",
+    "description": "Article URL: https://hermes-agent.nousresearch.com\nComments URL: https://news.ycombinator.com/item?id=49441992\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T23:30:24.248Z",
+    "published": "Tue, 25 Aug 2026 23:14:41 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T23:32:49.324Z"
   }
 ]
