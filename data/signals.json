@@ -36631,5 +36631,69 @@
     "category": "community",
     "discovered": "2026-08-25T04:10:24.303Z",
     "published": "Tue, 25 Aug 2026 02:20:58 +0000"
+  },
+  {
+    "url": "https://jasondoyle.ie/whitepapers/when-ai-decides-what-matters/",
+    "title": "Show HN: When AI Decides What Matters",
+    "description": "Article URL: https://jasondoyle.ie/whitepapers/when-ai-decides-what-matters/\nComments URL: https://news.ycombinator.com/item?id=49429255\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T05:07:30.796Z",
+    "published": "Tue, 25 Aug 2026 04:56:55 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T05:09:59.629Z"
+  },
+  {
+    "url": "https://github.com/robert-auger/safer-dependencies",
+    "title": "Safer-dependencies is a security layer for Claude Code that audits dependencies",
+    "description": "Article URL: https://github.com/robert-auger/safer-dependencies\nComments URL: https://news.ycombinator.com/item?id=49429141\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T05:07:30.796Z",
+    "published": "Tue, 25 Aug 2026 04:39:58 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T05:09:59.629Z"
+  },
+  {
+    "url": "https://pragmaticbydefault.com/posts/ai-verification-bottleneck/",
+    "title": "The AI Verification Bottleneck: Why Writing Code Is No Longer the Hard Part",
+    "description": "Article URL: https://pragmaticbydefault.com/posts/ai-verification-bottleneck/\nComments URL: https://news.ycombinator.com/item?id=49429130\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T05:07:30.796Z",
+    "published": "Tue, 25 Aug 2026 04:38:01 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T05:09:59.629Z"
+  },
+  {
+    "url": "https://github.com/Layr-Labs/d-inference/issues/705",
+    "title": "Darkbloom (decentralized AI inference on Macs)-community security audit findings",
+    "description": "Article URL: https://github.com/Layr-Labs/d-inference/issues/705\nComments URL: https://news.ycombinator.com/item?id=49429118\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T05:07:30.796Z",
+    "published": "Tue, 25 Aug 2026 04:35:49 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T05:09:59.629Z"
+  },
+  {
+    "url": "https://www.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/",
+    "title": "Cloudflare OS: Open-Source Corp AI Platform Built on a Capability-Based Model",
+    "description": "Article URL: https://www.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/\nComments URL: https://news.ycombinator.com/item?id=49429032\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T05:07:30.796Z",
+    "published": "Tue, 25 Aug 2026 04:22:30 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T05:09:59.629Z"
+  },
+  {
+    "url": "https://leaddev.com/ai/code-maintainability-plummets-in-the-ai-coding-era",
+    "title": "Code maintainability plummets in the AI coding era",
+    "description": "Article URL: https://leaddev.com/ai/code-maintainability-plummets-in-the-ai-coding-era\nComments URL: https://news.ycombinator.com/item?id=49429028\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T05:07:30.796Z",
+    "published": "Tue, 25 Aug 2026 04:21:41 +0000"
   }
 ]
