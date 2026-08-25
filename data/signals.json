@@ -38059,5 +38059,213 @@
     "published": "Tue, 25 Aug 2026 17:00:00 +0000",
     "processed": true,
     "processedAt": "2026-08-25T17:39:30.454Z"
+  },
+  {
+    "url": "https://openai.com/index/introducing-admin-plugin",
+    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+    "description": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-25T18:49:57.305Z",
+    "published": "Tue, 25 Aug 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-25T18:52:32.397Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+    "title": "Claude Cowork finally remembers what you told the app in chat",
+    "description": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-25T18:50:00.530Z",
+    "published": "Tue, 25 Aug 2026 17:50:33 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T18:52:32.397Z"
+  },
+  {
+    "url": "https://fetchmarkapp.com",
+    "title": "Show HN: FetchMark – An Offline-first read-later app with AI summaries",
+    "description": "Article URL: https://fetchmarkapp.com\nComments URL: https://news.ycombinator.com/item?id=49438682\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T18:50:07.298Z",
+    "published": "Tue, 25 Aug 2026 18:45:05 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T18:52:32.397Z"
+  },
+  {
+    "url": "https://github.com/Univeracity/limitlesslibrary",
+    "title": "Show HN: Limitless Library – AI agents check first before starting from scratch",
+    "description": "Article URL: https://github.com/Univeracity/limitlesslibrary\nComments URL: https://news.ycombinator.com/item?id=49438658\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T18:50:07.298Z",
+    "published": "Tue, 25 Aug 2026 18:43:09 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T18:52:32.397Z"
+  },
+  {
+    "url": "https://ldstn.substack.com/p/a-critical-examination-of-the-ai",
+    "title": "Examining the AI Bear Thesis",
+    "description": "Article URL: https://ldstn.substack.com/p/a-critical-examination-of-the-ai\nComments URL: https://news.ycombinator.com/item?id=49438637\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T18:50:07.298Z",
+    "published": "Tue, 25 Aug 2026 18:41:27 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T18:52:32.397Z"
+  },
+  {
+    "url": "https://www.cbsnews.com/texas/news/dolly-parton-says-she-doesnt-want-to-live-on-through-ai-after-she-dies-when-im-gone-i-want-to-fly-with-it/",
+    "title": "Dolly Parton says she doesn't want to live on through AI after she dies (2023)",
+    "description": "Article URL: https://www.cbsnews.com/texas/news/dolly-parton-says-she-doesnt-want-to-live-on-through-ai-after-she-dies-when-im-gone-i-want-to-fly-with-it/\nComments URL: https://news.ycombinator.com/item?id=49438632\nPoints: 2\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T18:50:07.298Z",
+    "published": "Tue, 25 Aug 2026 18:41:21 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49438590",
+    "title": "Is AI slowing you down?",
+    "description": "I am genuinely curious about this question and want to understand people's experiences. I'm a principal engineer with decades of experience, I am currently working on a massive codebase that does RPA (data entry automation for old software). I can get my agents to build complex features from scratc",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T18:50:07.298Z",
+    "published": "Tue, 25 Aug 2026 18:37:09 +0000"
+  },
+  {
+    "url": "https://aiandeducation.mit.edu/",
+    "title": "Report of MIT's Committee on AI Use in Teaching, Learning, and Research Training",
+    "description": "Article URL: https://aiandeducation.mit.edu/\nComments URL: https://news.ycombinator.com/item?id=49438466\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T18:50:07.298Z",
+    "published": "Tue, 25 Aug 2026 18:29:18 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.21986",
+    "title": "AI Grinding for Fun and Cryptanalysis",
+    "description": "Article URL: https://arxiv.org/abs/2608.21986\nComments URL: https://news.ycombinator.com/item?id=49438458\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T18:50:07.298Z",
+    "published": "Tue, 25 Aug 2026 18:28:55 +0000"
+  },
+  {
+    "url": "https://www.explore-exploit.com/p/dribbling-the-ai-watermark-directly",
+    "title": "Show HN: Dribbling the AI Watermark Directly In-Prompt",
+    "description": "Article URL: https://www.explore-exploit.com/p/dribbling-the-ai-watermark-directly\nComments URL: https://news.ycombinator.com/item?id=49438392\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T18:50:07.298Z",
+    "published": "Tue, 25 Aug 2026 18:24:03 +0000"
+  },
+  {
+    "url": "https://aiandeducation.mit.edu/report/",
+    "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
+    "description": "Article URL: https://aiandeducation.mit.edu/report/\nComments URL: https://news.ycombinator.com/item?id=49438217\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T18:50:07.298Z",
+    "published": "Tue, 25 Aug 2026 18:14:03 +0000"
+  },
+  {
+    "url": "https://hackaday.com/2026/08/25/ai-book-scanning-just-what-is-a-rare-book/",
+    "title": "AI Book Scanning: Just What Is a Rare Book?",
+    "description": "Article URL: https://hackaday.com/2026/08/25/ai-book-scanning-just-what-is-a-rare-book/\nComments URL: https://news.ycombinator.com/item?id=49438120\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T18:50:07.298Z",
+    "published": "Tue, 25 Aug 2026 18:07:28 +0000"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-08-25/ai-firms-debate-putting-cyber-tests-online-after-model-hacks-mt8wy555",
+    "title": "AI Firms Debate Putting Cyber Tests Online After Model Hacks",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-08-25/ai-firms-debate-putting-cyber-tests-online-after-model-hacks-mt8wy555\nComments URL: https://news.ycombinator.com/item?id=49438117\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T18:50:07.298Z",
+    "published": "Tue, 25 Aug 2026 18:07:06 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Pny5TFP2r3U",
+    "title": "AI Takeover at GopherCon 2026",
+    "description": "Article URL: https://www.youtube.com/watch?v=Pny5TFP2r3U\nComments URL: https://news.ycombinator.com/item?id=49438105\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T18:50:07.298Z",
+    "published": "Tue, 25 Aug 2026 18:06:20 +0000"
+  },
+  {
+    "url": "https://orgchart.mit.edu/letters/ai-and-education-watershed-moment-mit",
+    "title": "AI and education: A watershed moment for MIT",
+    "description": "Article URL: https://orgchart.mit.edu/letters/ai-and-education-watershed-moment-mit\nComments URL: https://news.ycombinator.com/item?id=49438025\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T18:50:07.298Z",
+    "published": "Tue, 25 Aug 2026 17:59:55 +0000"
+  },
+  {
+    "url": "https://abovethelaw.com/2026/08/ai-contracts-are-quietly-becoming-the-best-product-documentation/",
+    "title": "AI Contracts Are Quietly Becoming the Best Product Documentation",
+    "description": "Article URL: https://abovethelaw.com/2026/08/ai-contracts-are-quietly-becoming-the-best-product-documentation/\nComments URL: https://news.ycombinator.com/item?id=49437904\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T18:50:07.298Z",
+    "published": "Tue, 25 Aug 2026 17:52:43 +0000"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-08-21/salesforce-servicenow-fight-ai-fears-with-buybacks-and-bluster",
+    "title": "Software Firms Deploy Bluster and Buybacks to Counter AI Fears",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-08-21/salesforce-servicenow-fight-ai-fears-with-buybacks-and-bluster\nComments URL: https://news.ycombinator.com/item?id=49437365\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T18:50:07.298Z",
+    "published": "Tue, 25 Aug 2026 17:14:16 +0000"
+  },
+  {
+    "url": "https://www.phoronix.com/news/AI-DoS-Attack-Maintainers",
+    "title": "AI/LLM Usage Becoming a \"Denial of Service Attack\" on Open-Source Maintainers",
+    "description": "Article URL: https://www.phoronix.com/news/AI-DoS-Attack-Maintainers\nComments URL: https://news.ycombinator.com/item?id=49437339\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T18:50:07.298Z",
+    "published": "Tue, 25 Aug 2026 17:12:34 +0000"
+  },
+  {
+    "url": "https://www.wheresyoured.at/the-ai-haters-manifesto/",
+    "title": "The AI Hater's Manifesto",
+    "description": "Article URL: https://www.wheresyoured.at/the-ai-haters-manifesto/\nComments URL: https://news.ycombinator.com/item?id=49437277\nPoints: 18\n# Comments: 5",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T18:50:07.298Z",
+    "published": "Tue, 25 Aug 2026 17:07:51 +0000"
+  },
+  {
+    "url": "https://mineti.dev/articles/the-ai-coding-stack/",
+    "title": "The AI-coding stack: a map for a landscape that won't sit still",
+    "description": "Article URL: https://mineti.dev/articles/the-ai-coding-stack/\nComments URL: https://news.ycombinator.com/item?id=49437250\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T18:50:07.298Z",
+    "published": "Tue, 25 Aug 2026 17:06:06 +0000"
+  },
+  {
+    "url": "https://www.sdxcentral.com/news/metas-custom-transport-protocol-embraces-packet-chaos-to-boost-ai-throughput/",
+    "title": "Meta's custom transport protocol embraces packet chaos to boost AI throughput",
+    "description": "Article URL: https://www.sdxcentral.com/news/metas-custom-transport-protocol-embraces-packet-chaos-to-boost-ai-throughput/\nComments URL: https://news.ycombinator.com/item?id=49437211\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T18:50:07.298Z",
+    "published": "Tue, 25 Aug 2026 17:02:50 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openais-first-custom-chip-jalapeno-reportedly-beats-nvidias-blackwell-and-rubin-in-inference-benchmarks/",
+    "title": "OpenAI's first custom chip \"Jalapeño\" reportedly beats Nvidia's Blackwell and Rubin in inference benchmarks",
+    "description": "OpenAI showed off \"Jalapeño,\" its first in-house inference chip, with benchmarks at the Hot Chips conference. According to SemiAnalysis tests, the chip beats Nvidia's Blackwell and even Rubin in throughput and energy efficiency. \"Usually first generation chips aren't competitive, but OpenAI",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-25T18:50:13.866Z",
+    "published": "Tue, 25 Aug 2026 18:00:50 +0000"
   }
 ]
