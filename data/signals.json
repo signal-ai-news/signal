@@ -9785,7 +9785,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-30T16:07:23.837Z",
-    "published": "Thu, 30 Jul 2026 15:54:17 +0000"
+    "published": "Thu, 30 Jul 2026 15:54:17 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T20:39:09.476Z"
   },
   {
     "url": "https://zozo123.github.io/wasted-cycles/",
@@ -9794,7 +9796,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-30T16:07:23.837Z",
-    "published": "Thu, 30 Jul 2026 15:47:05 +0000"
+    "published": "Thu, 30 Jul 2026 15:47:05 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T20:39:09.476Z"
   },
   {
     "url": "https://squaresquant.com",
@@ -9803,7 +9807,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-30T16:07:23.837Z",
-    "published": "Thu, 30 Jul 2026 15:45:04 +0000"
+    "published": "Thu, 30 Jul 2026 15:45:04 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T20:39:09.476Z"
   },
   {
     "url": "https://news.ycombinator.com/item?id=49111613",
@@ -9812,7 +9818,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-30T16:07:23.837Z",
-    "published": "Thu, 30 Jul 2026 15:44:33 +0000"
+    "published": "Thu, 30 Jul 2026 15:44:33 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T20:39:09.476Z"
   },
   {
     "url": "https://www.jamdesk.com/blog/designing-docs-for-ai-agents",
@@ -38295,5 +38303,16 @@
     "published": "Tue, 25 Aug 2026 18:54:56 +0000",
     "processed": true,
     "processedAt": "2026-08-25T19:39:55.386Z"
+  },
+  {
+    "url": "https://www.engadget.com/2243934/spacex-use-nvidia-gpu-for-starmind-project/",
+    "title": "SpaceX to use NVIDIA GPUs for its Starmind project — Here's what they'll face in space",
+    "description": "Elon Musk wants to harness solar energy for AI.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-25T20:37:03.097Z",
+    "published": "Tue, 25 Aug 2026 20:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T20:39:09.476Z"
   }
 ]
