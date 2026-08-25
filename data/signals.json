@@ -36778,5 +36778,69 @@
     "category": "community",
     "discovered": "2026-08-25T06:58:52.427Z",
     "published": "Tue, 25 Aug 2026 05:27:04 +0000"
+  },
+  {
+    "url": "https://github.com/berba-q/gpt-watermark",
+    "title": "A minimal implementation of LLM output watermarking",
+    "description": "Article URL: https://github.com/berba-q/gpt-watermark\nComments URL: https://news.ycombinator.com/item?id=49430302\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T07:50:19.237Z",
+    "published": "Tue, 25 Aug 2026 07:38:36 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T07:52:49.776Z"
+  },
+  {
+    "url": "https://zatona.dev/blog/fbi-tsc-traceable-lineage",
+    "title": "What \"Traceable Lineage\" Requires: A Teardown of the FBI TSC AI Sources Sought",
+    "description": "Article URL: https://zatona.dev/blog/fbi-tsc-traceable-lineage\nComments URL: https://news.ycombinator.com/item?id=49430296\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T07:50:19.237Z",
+    "published": "Tue, 25 Aug 2026 07:37:25 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T07:52:49.776Z"
+  },
+  {
+    "url": "https://adamtornhill.substack.com/p/controlling-the-uncertainty-machine",
+    "title": "Do You Still Need to Read AI Code?",
+    "description": "Article URL: https://adamtornhill.substack.com/p/controlling-the-uncertainty-machine\nComments URL: https://news.ycombinator.com/item?id=49430247\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T07:50:19.237Z",
+    "published": "Tue, 25 Aug 2026 07:30:31 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T07:52:49.776Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49430180",
+    "title": "Free-AI-Tools-Hub.com Launch",
+    "description": "We have launch our new Free AI Tools website for common people to deal with their routine tasks and job things. From AI Chat to Ai Email writing and AI Songs lyrics, find 42+ tools on 1 website.\n\nComments URL: https://news.ycombinator.com/item?id=49430180\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T07:50:19.237Z",
+    "published": "Tue, 25 Aug 2026 07:20:46 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T07:52:49.776Z"
+  },
+  {
+    "url": "https://www.indiehackers.com/post/built-a-chrome-extension-to-stop-getting-cut-off-by-claude-70-users-in-4-weeks-zero-marketing-budget-3b49b2ad35",
+    "title": "Built a Chrome extension to stop getting cut off by Claude",
+    "description": "Article URL: https://www.indiehackers.com/post/built-a-chrome-extension-to-stop-getting-cut-off-by-claude-70-users-in-4-weeks-zero-marketing-budget-3b49b2ad35\nComments URL: https://news.ycombinator.com/item?id=49430060\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T07:50:19.237Z",
+    "published": "Tue, 25 Aug 2026 07:03:37 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T07:52:49.776Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49429926",
+    "title": "I found an SSRF in Google's official AI tooling, and how Google reacted",
+    "description": "Earlier this year I found a server-side request forgery bug in Google's MCP Toolbox, the official server Google publishes for connecting language-model agents to databases and HTTP APIs. I reported it. Google fixed it in eight days, credited me by name, and the fix later became CVE-2026-14540 (CVSS",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T07:50:19.237Z",
+    "published": "Tue, 25 Aug 2026 06:46:17 +0000"
   }
 ]
