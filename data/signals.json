@@ -37370,5 +37370,204 @@
     "category": "news",
     "discovered": "2026-08-25T12:59:18.981Z",
     "published": "Tue, 25 Aug 2026 12:16:41 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+    "title": "Accel-backed Keenable is indexing the web for AI agents",
+    "description": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-25T13:55:18.379Z",
+    "published": "Tue, 25 Aug 2026 13:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T13:57:53.585Z"
+  },
+  {
+    "url": "https://aievalsjobs.com/ai-evals-salary-report/",
+    "title": "What 219 AI evals job postings that publish a salary pay",
+    "description": "Article URL: https://aievalsjobs.com/ai-evals-salary-report/\nComments URL: https://news.ycombinator.com/item?id=49434181\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T13:55:26.827Z",
+    "published": "Tue, 25 Aug 2026 13:54:21 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T13:57:53.585Z"
+  },
+  {
+    "url": "https://github.com/NetraRuntime/netra-kernel",
+    "title": "Show HN: Open-source AMDGCN kernels for optimizing LLM inference",
+    "description": "Article URL: https://github.com/NetraRuntime/netra-kernel\nComments URL: https://news.ycombinator.com/item?id=49434176\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T13:55:26.827Z",
+    "published": "Tue, 25 Aug 2026 13:54:01 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T13:57:53.585Z"
+  },
+  {
+    "url": "https://nautil.us/ai-can-see-optical-illusions-1284064",
+    "title": "AI Can See Optical Illusions",
+    "description": "Article URL: https://nautil.us/ai-can-see-optical-illusions-1284064\nComments URL: https://news.ycombinator.com/item?id=49434133\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T13:55:26.827Z",
+    "published": "Tue, 25 Aug 2026 13:51:21 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T13:57:53.585Z"
+  },
+  {
+    "url": "https://github.com/builder0821/BitTime",
+    "title": "BitTime: The only solution that replaces currency to restrain AI",
+    "description": "Article URL: https://github.com/builder0821/BitTime\nComments URL: https://news.ycombinator.com/item?id=49434107\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T13:55:26.827Z",
+    "published": "Tue, 25 Aug 2026 13:50:14 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T13:57:53.585Z"
+  },
+  {
+    "url": "https://www.axios.com/2026/08/25/routing-is-coming-for-the-frontier-ai-labs",
+    "title": "Confidential tokens: Routing is coming for the Frontier AI Labs",
+    "description": "Article URL: https://www.axios.com/2026/08/25/routing-is-coming-for-the-frontier-ai-labs\nComments URL: https://news.ycombinator.com/item?id=49433999\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T13:55:26.827Z",
+    "published": "Tue, 25 Aug 2026 13:45:14 +0000"
+  },
+  {
+    "url": "https://github.com/furkankly/zoetrope",
+    "title": "Show HN: Zoetrope – Watch a Claude Code session as a live flow graph",
+    "description": "Article URL: https://github.com/furkankly/zoetrope\nComments URL: https://news.ycombinator.com/item?id=49433990\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T13:55:26.827Z",
+    "published": "Tue, 25 Aug 2026 13:44:26 +0000"
+  },
+  {
+    "url": "https://github.com/ErosZy/sablejs",
+    "title": "Sablejs 2.0 – An AOT sandbox for AI-generated JavaScript",
+    "description": "Article URL: https://github.com/ErosZy/sablejs\nComments URL: https://news.ycombinator.com/item?id=49433953\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T13:55:26.827Z",
+    "published": "Tue, 25 Aug 2026 13:42:41 +0000"
+  },
+  {
+    "url": "https://www.phoronix.com/news/Linux-7.3-Device-Mapper",
+    "title": "Linux 7.3 Device Mapper Sees Many Fixes, Including Code Cleanups by Claude Opus",
+    "description": "Article URL: https://www.phoronix.com/news/Linux-7.3-Device-Mapper\nComments URL: https://news.ycombinator.com/item?id=49433909\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T13:55:26.827Z",
+    "published": "Tue, 25 Aug 2026 13:40:18 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49433894",
+    "title": "Ask HN: There is current insistence upon learning what LLM's do under the hood",
+    "description": "I recognize the value of it in so far as to not anthropomorphize or mystify agents or be duped by them. But beyond these aspects, for an everyday user of ChatGPT or Gemini or Claude_what have you, is there any way the said awareness ('scientia' of it all) objectively beneficial for better utilizati",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T13:55:26.827Z",
+    "published": "Tue, 25 Aug 2026 13:39:42 +0000"
+  },
+  {
+    "url": "https://splabs.io/red-teamer-intuition-quotient",
+    "title": "Ten ways an AI breaks under pressure. How many you can catch?",
+    "description": "Article URL: https://splabs.io/red-teamer-intuition-quotient\nComments URL: https://news.ycombinator.com/item?id=49433777\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T13:55:26.827Z",
+    "published": "Tue, 25 Aug 2026 13:33:36 +0000"
+  },
+  {
+    "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+    "title": "The state of AI in 2026: On the road to ROI",
+    "description": "Article URL: https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai\nComments URL: https://news.ycombinator.com/item?id=49433759\nPoints: 9\n# Comments: 5",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T13:55:26.827Z",
+    "published": "Tue, 25 Aug 2026 13:32:52 +0000"
+  },
+  {
+    "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+    "title": "AI chatbots are becoming experts at changing people's minds. What's their edge?",
+    "description": "Article URL: https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret\nComments URL: https://news.ycombinator.com/item?id=49433489\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T13:55:26.827Z",
+    "published": "Tue, 25 Aug 2026 13:15:51 +0000"
+  },
+  {
+    "url": "https://read.misalignedmag.com/triangulating-ais-climate-impact-a-look-at-studies-research-and-regulation-52c3ff52e9dc",
+    "title": "Triangulating AI's Climate Impact, a Look at Studies, Research and Regulation",
+    "description": "Article URL: https://read.misalignedmag.com/triangulating-ais-climate-impact-a-look-at-studies-research-and-regulation-52c3ff52e9dc\nComments URL: https://news.ycombinator.com/item?id=49433398\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T13:55:26.827Z",
+    "published": "Tue, 25 Aug 2026 13:09:39 +0000"
+  },
+  {
+    "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+    "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+    "description": "Article URL: https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/\nComments URL: https://news.ycombinator.com/item?id=49433292\nPoints: 220\n# Comments: 148",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T13:55:26.827Z",
+    "published": "Tue, 25 Aug 2026 13:01:22 +0000"
+  },
+  {
+    "url": "https://github.com/open-receipt-protocol/orp/blob/main/README.md",
+    "title": "An open protocol for AI-mediated product discovery",
+    "description": "Article URL: https://github.com/open-receipt-protocol/orp/blob/main/README.md\nComments URL: https://news.ycombinator.com/item?id=49433274\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T13:55:26.827Z",
+    "published": "Tue, 25 Aug 2026 13:00:14 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/hallucinations-watermarks-removers-and-a-squeezed-balloon/",
+    "title": "Hallucinations, Watermarks, Removers, and a Squeezed Balloon",
+    "description": "Watermarks act at the model’s moments of doubt, and so do the safety checks that catch AI mistakes\nThe post Hallucinations, Watermarks, Removers, and a Squeezed Balloon appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-25T13:55:32.233Z",
+    "published": "Tue, 25 Aug 2026 13:30:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/metas-paid-ai-agent-hatch-launches-soon-with-a-new-model-called-watermelon-due-in-october/",
+    "title": "Meta's paid AI agent Hatch launches soon, with a new model called Watermelon due in October",
+    "description": "Meta Platforms will launch its AI agent Hatch in the coming weeks and release a new AI model called Watermelon in October.\nThe article Meta&#039;s paid AI agent Hatch launches soon, with a new model called Watermelon due in October appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-25T13:55:33.790Z",
+    "published": "Tue, 25 Aug 2026 13:43:40 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/portable-computer-perplexity-local-ai-agent/",
+    "title": "Portable Computer is Perplexity's new local AI agent - why it's a game changer",
+    "description": "Running an AI model locally, Perplexity's new Portable Computer can deliver faster performance, tighter security, and lower costs. But it has some strict requirements.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-25T13:55:47.246Z",
+    "published": "Tue, 25 Aug 2026 13:00:00 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2243402/apple-m5-vs-m6-how-much-faster-silicon/",
+    "title": "Apple M6 vs M5: How much faster is Apple's new 'everyday' Silicon?",
+    "description": "Apple finds respectable performance gains on a new 2nm process, but M5 users shouldn&#39;t feel any FOMO.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-25T13:55:47.814Z",
+    "published": "Tue, 25 Aug 2026 13:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2243405/apple-m5-ultra-with-80-core-gpu-ai-models-8k-video/",
+    "title": "Apple's M5 Ultra with an 80-core GPU will power through your AI models and 8K video",
+    "description": "With the launch of the latest Mac mini and Mac Studio computers, Apple introduced new chips with cutting-edge technology.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-25T13:55:47.814Z",
+    "published": "Tue, 25 Aug 2026 13:00:00 +0000"
   }
 ]
