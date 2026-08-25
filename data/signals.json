@@ -36522,5 +36522,114 @@
     "category": "community",
     "discovered": "2026-08-25T01:40:20.543Z",
     "published": "Mon, 24 Aug 2026 23:54:17 +0000"
+  },
+  {
+    "url": "https://huggingface.co/blog/gradio-workflow-guide",
+    "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-08-25T04:10:17.477Z",
+    "published": "Tue, 25 Aug 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-25T04:12:51.659Z"
+  },
+  {
+    "url": "https://www.supermicro.com/en/accelerators/nvidia/super-ai-station",
+    "title": "Supermicro Super AI Station (GB300, 20 Pflops FP4, 748GB Coherent Memory)",
+    "description": "Article URL: https://www.supermicro.com/en/accelerators/nvidia/super-ai-station\nComments URL: https://news.ycombinator.com/item?id=49428966\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T04:10:24.303Z",
+    "published": "Tue, 25 Aug 2026 04:08:43 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T04:12:51.659Z"
+  },
+  {
+    "url": "https://zenodo.org/records/22073633",
+    "title": "AI algorithm for room temperature superconductor, candidate detected",
+    "description": "Article URL: https://zenodo.org/records/22073633\nComments URL: https://news.ycombinator.com/item?id=49428877\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T04:10:24.303Z",
+    "published": "Tue, 25 Aug 2026 03:53:04 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T04:12:51.659Z"
+  },
+  {
+    "url": "https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc",
+    "title": "Nvidia Is Spending $6B to Build a Powerful U.S. Alternative to Chinese AI",
+    "description": "Article URL: https://www.wsj.com/tech/ai/nvidia-is-spending-6-billion-to-build-a-powerful-u-s-alternative-to-chinese-ai-c51c38cc\nComments URL: https://news.ycombinator.com/item?id=49428631\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T04:10:24.303Z",
+    "published": "Tue, 25 Aug 2026 03:05:11 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T04:12:51.659Z"
+  },
+  {
+    "url": "https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-standard-for-high-stakes-ai/",
+    "title": "Thomson Reuters Standard for High Stakes AI",
+    "description": "Article URL: https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-standard-for-high-stakes-ai/\nComments URL: https://news.ycombinator.com/item?id=49428554\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T04:10:24.303Z",
+    "published": "Tue, 25 Aug 2026 02:54:21 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T04:12:51.659Z"
+  },
+  {
+    "url": "https://www.servethehome.com/ibm-z-and-linuxone-dual-isa-processor-and-ai-acceleration-at-hot-chips-2026/",
+    "title": "IBM Z and LinuxONE Dual-ISA Processor and AI Acceleration at Hot Chips 2026",
+    "description": "Article URL: https://www.servethehome.com/ibm-z-and-linuxone-dual-isa-processor-and-ai-acceleration-at-hot-chips-2026/\nComments URL: https://news.ycombinator.com/item?id=49428514\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T04:10:24.303Z",
+    "published": "Tue, 25 Aug 2026 02:45:56 +0000"
+  },
+  {
+    "url": "https://peerpixel.cc/",
+    "title": "Show HN: PeerPixel, community-powered AI image generation",
+    "description": "Article URL: https://peerpixel.cc/\nComments URL: https://news.ycombinator.com/item?id=49428420\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T04:10:24.303Z",
+    "published": "Tue, 25 Aug 2026 02:32:10 +0000"
+  },
+  {
+    "url": "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis",
+    "title": "Is there a pending AI 'debt bomb' crisis? No. This isn't Enron 2.0",
+    "description": "Article URL: https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis\nComments URL: https://news.ycombinator.com/item?id=49428406\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T04:10:24.303Z",
+    "published": "Tue, 25 Aug 2026 02:30:27 +0000"
+  },
+  {
+    "url": "https://github.com/surajsrivastav/gitwhy",
+    "title": "Capture why AI wrote each commit, stored in Git-notes",
+    "description": "Article URL: https://github.com/surajsrivastav/gitwhy\nComments URL: https://news.ycombinator.com/item?id=49428395\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T04:10:24.303Z",
+    "published": "Tue, 25 Aug 2026 02:27:55 +0000"
+  },
+  {
+    "url": "https://www.channelnewsasia.com/singapore/ai-generated-videos-shopee-tiktok-misleading-sellers-6336961",
+    "title": "Sellers on Shopee, TikTok call out auto-generated AI ads that mislead customers",
+    "description": "Article URL: https://www.channelnewsasia.com/singapore/ai-generated-videos-shopee-tiktok-misleading-sellers-6336961\nComments URL: https://news.ycombinator.com/item?id=49428369\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T04:10:24.303Z",
+    "published": "Tue, 25 Aug 2026 02:23:16 +0000"
+  },
+  {
+    "url": "https://zeropop.app/",
+    "title": "ZeroPop: AI trading card grading / pricing / ID for iOS, Android, and Web",
+    "description": "Article URL: https://zeropop.app/\nComments URL: https://news.ycombinator.com/item?id=49428357\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T04:10:24.303Z",
+    "published": "Tue, 25 Aug 2026 02:20:58 +0000"
   }
 ]
