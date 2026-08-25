@@ -36439,5 +36439,78 @@
     "published": "Mon, 24 Aug 2026 23:39:22 +0000",
     "processed": true,
     "processedAt": "2026-08-24T23:51:54.635Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+    "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+    "description": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-25T01:40:12.307Z",
+    "published": "Tue, 25 Aug 2026 00:23:12 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T01:42:49.450Z"
+  },
+  {
+    "url": "https://devnavigator.com/2026/08/25/enterprise-ai-operating-system/",
+    "title": "Enterprise AI Operating System",
+    "description": "Article URL: https://devnavigator.com/2026/08/25/enterprise-ai-operating-system/\nComments URL: https://news.ycombinator.com/item?id=49428026\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T01:40:20.543Z",
+    "published": "Tue, 25 Aug 2026 01:25:44 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T01:42:49.450Z"
+  },
+  {
+    "url": "https://www.aerotime.aero/articles/russian-drone-guided-entirely-by-ai-kills-civilians-in-ukraine",
+    "title": "Russian drone guided by AI kills civilians in Ukraine",
+    "description": "Article URL: https://www.aerotime.aero/articles/russian-drone-guided-entirely-by-ai-kills-civilians-in-ukraine\nComments URL: https://news.ycombinator.com/item?id=49427988\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T01:40:20.543Z",
+    "published": "Tue, 25 Aug 2026 01:18:25 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T01:42:49.450Z"
+  },
+  {
+    "url": "https://guustaaf.substack.com/p/governments-will-decide-what-level-ai-you-have-access-to",
+    "title": "Who will decide that level AI you have access to?",
+    "description": "Article URL: https://guustaaf.substack.com/p/governments-will-decide-what-level-ai-you-have-access-to\nComments URL: https://news.ycombinator.com/item?id=49427703\nPoints: 3\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T01:40:20.543Z",
+    "published": "Tue, 25 Aug 2026 00:34:19 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T01:42:49.450Z"
+  },
+  {
+    "url": "https://github.com/rainmanjam/poka-yoke",
+    "title": "Poka-Yoke: Mistake-Proofing Claude Code Skill for Software",
+    "description": "Article URL: https://github.com/rainmanjam/poka-yoke\nComments URL: https://news.ycombinator.com/item?id=49427559\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T01:40:20.543Z",
+    "published": "Tue, 25 Aug 2026 00:14:15 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T01:42:49.450Z"
+  },
+  {
+    "url": "https://ide.gitmir.com/opensource",
+    "title": "GitMir – an open source IDE that fixes your Claude development",
+    "description": "Article URL: https://ide.gitmir.com/opensource\nComments URL: https://news.ycombinator.com/item?id=49427468\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T01:40:20.543Z",
+    "published": "Tue, 25 Aug 2026 00:01:19 +0000"
+  },
+  {
+    "url": "https://mehmetmhy.com/posts/modern_moat/",
+    "title": "AI Is Dissolving Software Moats. China Did It to Hardware First",
+    "description": "Article URL: https://mehmetmhy.com/posts/modern_moat/\nComments URL: https://news.ycombinator.com/item?id=49427422\nPoints: 1\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T01:40:20.543Z",
+    "published": "Mon, 24 Aug 2026 23:54:17 +0000"
   }
 ]
