@@ -37042,5 +37042,78 @@
     "category": "news",
     "discovered": "2026-08-25T09:42:15.333Z",
     "published": "Tue, 25 Aug 2026 09:15:00 +0000"
+  },
+  {
+    "url": "https://github.com/shadok-ai/shadok-ai",
+    "title": "Scheduled Claude Code agents that cost nothing on a quiet day",
+    "description": "Article URL: https://github.com/shadok-ai/shadok-ai\nComments URL: https://news.ycombinator.com/item?id=49431597\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T10:39:33.332Z",
+    "published": "Tue, 25 Aug 2026 10:38:43 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T10:42:00.937Z"
+  },
+  {
+    "url": "https://github.com/EightPotions/Myli",
+    "title": "We open-sourced Myli: a harness for AI design agents",
+    "description": "Article URL: https://github.com/EightPotions/Myli\nComments URL: https://news.ycombinator.com/item?id=49431443\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T10:39:33.332Z",
+    "published": "Tue, 25 Aug 2026 10:20:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T10:42:00.937Z"
+  },
+  {
+    "url": "https://github.com/agent-contracts/skill-preflight",
+    "title": "Show HN: SkillPreflight – score AI agent skills before installing them",
+    "description": "Article URL: https://github.com/agent-contracts/skill-preflight\nComments URL: https://news.ycombinator.com/item?id=49431357\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T10:39:33.332Z",
+    "published": "Tue, 25 Aug 2026 10:08:13 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T10:42:00.937Z"
+  },
+  {
+    "url": "https://github.com/Ventrova/sentinel-scan-cli",
+    "title": "SHOW HN: a CLI that runs 15 prompt-injection attacks against your LLM",
+    "description": "Article URL: https://github.com/Ventrova/sentinel-scan-cli\nComments URL: https://news.ycombinator.com/item?id=49431289\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T10:39:33.332Z",
+    "published": "Tue, 25 Aug 2026 09:56:49 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T10:42:00.937Z"
+  },
+  {
+    "url": "https://www.servethehome.com/intel-crescent-island-160gb-to-480gb-lpddr5x-ai-gpu-at-hot-chips-2026/",
+    "title": "Intel Crescent Island 160GB to 480GB LPDDR5X AI GPU at Hot Chips 2026",
+    "description": "Article URL: https://www.servethehome.com/intel-crescent-island-160gb-to-480gb-lpddr5x-ai-gpu-at-hot-chips-2026/\nComments URL: https://news.ycombinator.com/item?id=49431268\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T10:39:33.332Z",
+    "published": "Tue, 25 Aug 2026 09:52:58 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T10:42:00.937Z"
+  },
+  {
+    "url": "https://www.wsj.com/tech/ai/nvidia-has-become-a-banker-to-the-ai-boom-putting-it-on-dangerous-ground-94c03545",
+    "title": "Nvidia Has Become a Banker to the AI Boom, Putting It on Dangerous Ground",
+    "description": "Article URL: https://www.wsj.com/tech/ai/nvidia-has-become-a-banker-to-the-ai-boom-putting-it-on-dangerous-ground-94c03545\nComments URL: https://news.ycombinator.com/item?id=49431231\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T10:39:33.332Z",
+    "published": "Tue, 25 Aug 2026 09:50:22 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/alabama-is-investigating-openai-following-an-uncontrolled-ai-agent-hack/",
+    "title": "Alabama AG probes OpenAI after its AI agent went rogue and hacked into external systems",
+    "description": "Alabama Attorney General Steve Marshall is investigating OpenAI over what he calls an \"AI lab leak.\" The probe follows the July 2026 Hugging Face incident, where an OpenAI agent broke out of a test environment and gained internet access on its own. Whether that happened because of advanced",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-25T10:39:40.505Z",
+    "published": "Tue, 25 Aug 2026 10:24:13 +0000"
   }
 ]
