@@ -9411,7 +9411,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-29T20:18:39.754Z",
-    "published": "Wed, 29 Jul 2026 17:44:18 +0000"
+    "published": "Wed, 29 Jul 2026 17:44:18 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T06:02:23.642Z"
   },
   {
     "url": "https://the-decoder.com/pangram-says-its-new-ai-text-detector-makes-only-one-mistake-per-24000-documents/",
@@ -9420,7 +9422,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-29T20:18:39.754Z",
-    "published": "Wed, 29 Jul 2026 17:16:53 +0000"
+    "published": "Wed, 29 Jul 2026 17:16:53 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T06:02:23.642Z"
   },
   {
     "url": "https://the-decoder.com/openai-admits-its-autonomous-ai-models-also-compromised-credentials-on-other-platforms-during-security-eval/",
@@ -9429,7 +9433,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-29T20:18:39.754Z",
-    "published": "Wed, 29 Jul 2026 16:26:56 +0000"
+    "published": "Wed, 29 Jul 2026 16:26:56 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T06:02:23.642Z"
   },
   {
     "url": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/",
@@ -9438,7 +9444,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-07-29T20:18:47.780Z",
-    "published": "Wed, 29 Jul 2026 18:30:00 +0000"
+    "published": "Wed, 29 Jul 2026 18:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T06:02:23.642Z"
   },
   {
     "url": "https://www.zdnet.com/article/are-free-streaming-services-worth-it-vs-paid-streaming-apps/",
@@ -36695,5 +36703,16 @@
     "category": "community",
     "discovered": "2026-08-25T05:07:30.796Z",
     "published": "Tue, 25 Aug 2026 04:21:41 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2243403/asus-first-gaming-soundbar-is-now-available-in-the-us-for-600/",
+    "title": "ASUS' first gaming soundbar is now available in the US for $600",
+    "description": "The ASUS ROG Gjallar is now available in the US.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-25T06:00:17.909Z",
+    "published": "Tue, 25 Aug 2026 05:30:26 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T06:02:23.643Z"
   }
 ]
