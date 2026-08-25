@@ -37569,5 +37569,132 @@
     "category": "news",
     "discovered": "2026-08-25T13:55:47.814Z",
     "published": "Tue, 25 Aug 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/jalapeno-first-results",
+    "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+    "description": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-25T14:52:24.414Z",
+    "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-25T14:55:08.195Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+    "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+    "description": "Tested on Semianalysis’s InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-25T14:52:27.954Z",
+    "published": "Tue, 25 Aug 2026 14:22:04 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T14:55:08.195Z"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+    "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+    "description": "Article URL: https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/\nComments URL: https://news.ycombinator.com/item?id=49435147\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T14:52:41.221Z",
+    "published": "Tue, 25 Aug 2026 14:48:58 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T14:55:08.195Z"
+  },
+  {
+    "url": "https://comic-cron.com/",
+    "title": "Show HN: A daily cartoon contest between AI models, judged blind",
+    "description": "Comic-cron.com is a daily contest where AI models draw a single panel cartoon about a recent news story and people vote on which are funny.I built it mainly because I love cartoons and news, but this project isn’t trying to pretend it’s human art, I wanted to see how capable the models were at this",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T14:52:41.221Z",
+    "published": "Tue, 25 Aug 2026 14:46:36 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T14:55:08.195Z"
+  },
+  {
+    "url": "https://www.interviewbasecamp.com/",
+    "title": "Free AI Based Interview Preparation",
+    "description": "Article URL: https://www.interviewbasecamp.com/\nComments URL: https://news.ycombinator.com/item?id=49435067\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T14:52:41.221Z",
+    "published": "Tue, 25 Aug 2026 14:44:34 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T14:55:08.195Z"
+  },
+  {
+    "url": "https://github.com/labscommunity/yeschef",
+    "title": "Yeschef: Claude Code dispatches work to Ollama on my LAN (627 tok/s on 3 NUCs)",
+    "description": "Article URL: https://github.com/labscommunity/yeschef\nComments URL: https://news.ycombinator.com/item?id=49434941\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T14:52:41.221Z",
+    "published": "Tue, 25 Aug 2026 14:37:32 +0000"
+  },
+  {
+    "url": "https://openai.com/index/jalapeno-first-results/",
+    "title": "Jalapeño's results show industry-leading speed and efficiency in AI inference",
+    "description": "Article URL: https://openai.com/index/jalapeno-first-results/\nComments URL: https://news.ycombinator.com/item?id=49434887\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T14:52:41.221Z",
+    "published": "Tue, 25 Aug 2026 14:33:46 +0000"
+  },
+  {
+    "url": "https://github.com/rudrasatani13/cot-redteam-agent",
+    "title": "Show HN: Red-team LLM reasoning and agent actions (honest scoring, local-first)",
+    "description": "Article URL: https://github.com/rudrasatani13/cot-redteam-agent\nComments URL: https://news.ycombinator.com/item?id=49434639\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T14:52:41.221Z",
+    "published": "Tue, 25 Aug 2026 14:20:00 +0000"
+  },
+  {
+    "url": "https://woventhought.substack.com/p/ai-assistants-need-adaptive-conversational",
+    "title": "AI assistants need adaptive conversational tempo to be good cognitive companions",
+    "description": "Article URL: https://woventhought.substack.com/p/ai-assistants-need-adaptive-conversational\nComments URL: https://news.ycombinator.com/item?id=49434317\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T14:52:41.221Z",
+    "published": "Tue, 25 Aug 2026 14:02:02 +0000"
+  },
+  {
+    "url": "https://github.com/tester-army/unbox-ai",
+    "title": "Show HN: Unbox-AI Visualize your AI traces like a JavaScript bundle",
+    "description": "When building AI agents, I found myself struggling to understand what exactly is happening inside of all of our traces. I was pasting huge JSON files to my AI agent to parse and get some useful insights from it. Then I thought, Webpack bundle visualizer had this great view to see all your dependenc",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T14:52:41.221Z",
+    "published": "Tue, 25 Aug 2026 13:57:45 +0000"
+  },
+  {
+    "url": "https://yyhh.org/blog/2026/08/ai-coding-has-erased-the-supposed-advantage-of-statically-typed-languages/",
+    "title": "AI Coding Has Erased the Supposed Advantage of Statically Typed Languages",
+    "description": "Article URL: https://yyhh.org/blog/2026/08/ai-coding-has-erased-the-supposed-advantage-of-statically-typed-languages/\nComments URL: https://news.ycombinator.com/item?id=49434211\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T14:52:41.221Z",
+    "published": "Tue, 25 Aug 2026 13:55:48 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/i-deployed-my-data-pipeline-to-aws-then-everything-that-was-local-broke/",
+    "title": "I Deployed My Data Pipeline to AWS. Then Everything That Was “Local” Broke.",
+    "description": "What moving a Dockerized pipeline off my laptop taught me about containers, networking, and hidden assumptions.\nThe post I Deployed My Data Pipeline to AWS. Then Everything That Was “Local” Broke. appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-25T14:52:47.158Z",
+    "published": "Tue, 25 Aug 2026 10:30:01 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2243490/pebble-time-2-review/",
+    "title": "Pebble Time 2 review: The perfect smartwatch for a select group of people",
+    "description": "Pebble Time 2 is a smartwatch designed to push back against the trend, and it does so beautifully.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-25T14:53:02.448Z",
+    "published": "Tue, 25 Aug 2026 14:00:00 +0000"
   }
 ]
