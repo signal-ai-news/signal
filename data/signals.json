@@ -38587,5 +38587,60 @@
     "published": "Tue, 25 Aug 2026 22:30:31 +0000",
     "processed": true,
     "processedAt": "2026-08-25T22:36:33.786Z"
+  },
+  {
+    "url": "https://github.com/Wolfe-Jam/slash-tokens",
+    "title": "Show HN: Slash-tokens – know LLM cost before the call leaves your machine",
+    "description": "I kept finding out what a call cost after I had already paid, so I built /Slash -- slash-tokens is a 4.8KB WASM that estimates tokens FAST and can block a wasted trip, or switch to cheaper same-provider model before the request leaves your machine. Try it MIT, no account needed: bunx slash-tokensOr",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T22:58:46.332Z",
+    "published": "Tue, 25 Aug 2026 22:48:31 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T23:01:17.526Z"
+  },
+  {
+    "url": "https://augmentedmind.substack.com/p/ai-home-lab-for-beginners",
+    "title": "AI Home Lab for Beginners: The Deep Dive",
+    "description": "Article URL: https://augmentedmind.substack.com/p/ai-home-lab-for-beginners\nComments URL: https://news.ycombinator.com/item?id=49441626\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T22:58:46.332Z",
+    "published": "Tue, 25 Aug 2026 22:35:46 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T23:01:17.526Z"
+  },
+  {
+    "url": "https://www.loopwerk.io/articles/2026/how-i-use-claude-code/",
+    "title": "How I Use Claude Code",
+    "description": "Article URL: https://www.loopwerk.io/articles/2026/how-i-use-claude-code/\nComments URL: https://news.ycombinator.com/item?id=49441363\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T22:58:46.332Z",
+    "published": "Tue, 25 Aug 2026 22:07:49 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T23:01:17.526Z"
+  },
+  {
+    "url": "https://slack.com/marketplace/A095XNK8GPK-docendorse-ai-agent?nojsmode=1",
+    "title": "New AI Agent to Autonomously Prepare and Send Docs Out for Signature",
+    "description": "Article URL: https://slack.com/marketplace/A095XNK8GPK-docendorse-ai-agent?nojsmode=1\nComments URL: https://news.ycombinator.com/item?id=49441347\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T22:58:46.332Z",
+    "published": "Tue, 25 Aug 2026 22:06:24 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T23:01:17.526Z"
+  },
+  {
+    "url": "https://docs.scorecard.io/intro/claude-tag-tracing",
+    "title": "Tracing Claude Tag, Anthropic's Slack Agent",
+    "description": "Article URL: https://docs.scorecard.io/intro/claude-tag-tracing\nComments URL: https://news.ycombinator.com/item?id=49441197\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T22:58:46.332Z",
+    "published": "Tue, 25 Aug 2026 21:52:20 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T23:01:17.526Z"
   }
 ]
