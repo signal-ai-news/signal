@@ -9950,7 +9950,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-30T16:07:23.837Z",
-    "published": "Thu, 30 Jul 2026 14:58:59 +0000"
+    "published": "Thu, 30 Jul 2026 14:58:59 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T23:53:10.922Z"
   },
   {
     "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
@@ -9959,7 +9961,9 @@
     "source": "DeepMind Blog",
     "category": "llm",
     "discovered": "2026-07-30T16:07:26.518Z",
-    "published": "Thu, 30 Jul 2026 15:00:59 +0000"
+    "published": "Thu, 30 Jul 2026 15:00:59 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T23:53:10.922Z"
   },
   {
     "url": "https://towardsdatascience.com/how-to-organize-all-of-your-coding-agent-tasks/",
@@ -9968,7 +9972,9 @@
     "source": "Towards Data Science",
     "category": "ml",
     "discovered": "2026-07-30T16:07:29.908Z",
-    "published": "Thu, 30 Jul 2026 15:00:00 +0000"
+    "published": "Thu, 30 Jul 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T23:53:10.922Z"
   },
   {
     "url": "https://towardsdatascience.com/how-to-build-a-context-layer-and-a-company-brain/",
@@ -9977,7 +9983,9 @@
     "source": "Towards Data Science",
     "category": "ml",
     "discovered": "2026-07-30T16:07:29.908Z",
-    "published": "Thu, 30 Jul 2026 14:00:00 +0000"
+    "published": "Thu, 30 Jul 2026 14:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T23:53:10.922Z"
   },
   {
     "url": "https://towardsdatascience.com/a-simplified-view-of-the-jacobian-conjecture/",
@@ -38679,5 +38687,16 @@
     "published": "Tue, 25 Aug 2026 23:14:41 +0000",
     "processed": true,
     "processedAt": "2026-08-25T23:32:49.324Z"
+  },
+  {
+    "url": "https://williamtp.substack.com/p/the-ai-health-agent-that-will-know",
+    "title": "The AI Health Agent That Will Know Me for Life",
+    "description": "Article URL: https://williamtp.substack.com/p/the-ai-health-agent-that-will-know\nComments URL: https://news.ycombinator.com/item?id=49442198\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T23:50:40.936Z",
+    "published": "Tue, 25 Aug 2026 23:37:46 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T23:53:10.922Z"
   }
 ]
