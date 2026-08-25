@@ -37895,5 +37895,141 @@
     "category": "news",
     "discovered": "2026-08-25T15:52:19.985Z",
     "published": "Tue, 25 Aug 2026 15:29:00 GMT"
+  },
+  {
+    "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+    "title": "5 ways to upgrade your home decor with Google Search",
+    "description": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-08-25T16:48:44.810Z",
+    "published": "Tue, 25 Aug 2026 16:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T16:51:25.677Z"
+  },
+  {
+    "url": "https://appricio.com/",
+    "title": "An AI travel guide where the ranking is a deterministic engine, not an LLM",
+    "description": "Article URL: https://appricio.com/\nComments URL: https://news.ycombinator.com/item?id=49436701\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T16:48:55.245Z",
+    "published": "Tue, 25 Aug 2026 16:30:22 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T16:51:25.677Z"
+  },
+  {
+    "url": "https://www.tonyerwin.com/2026/08/building-production-agentic-ai-at-ibm.html",
+    "title": "Building Production Agentic AI at IBM: Architecture, Decisions, and Lessons",
+    "description": "Article URL: https://www.tonyerwin.com/2026/08/building-production-agentic-ai-at-ibm.html\nComments URL: https://news.ycombinator.com/item?id=49436548\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T16:48:55.245Z",
+    "published": "Tue, 25 Aug 2026 16:21:02 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T16:51:25.677Z"
+  },
+  {
+    "url": "https://www.arguably.uk/p/the-ai-distraction-machine",
+    "title": "The AI Distraction Machine",
+    "description": "Article URL: https://www.arguably.uk/p/the-ai-distraction-machine\nComments URL: https://news.ycombinator.com/item?id=49436516\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T16:48:55.245Z",
+    "published": "Tue, 25 Aug 2026 16:18:19 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T16:51:25.677Z"
+  },
+  {
+    "url": "https://www.anthropic.com/news/wellbeing-research-grants",
+    "title": "Funding better evaluations of AI's impact on wellbeing",
+    "description": "Article URL: https://www.anthropic.com/news/wellbeing-research-grants\nComments URL: https://news.ycombinator.com/item?id=49436480\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T16:48:55.245Z",
+    "published": "Tue, 25 Aug 2026 16:15:10 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T16:51:25.677Z"
+  },
+  {
+    "url": "https://trace.agentrust-io.com/",
+    "title": "Show HN: A portable evidence record for what an AI agent ran",
+    "description": "It is part of Linux Foundation now. This is the foundation for verifiability we have been working on for some time. Would love to have your thoughts and I'll watch out and reply to ur comments.\n\nComments URL: https://news.ycombinator.com/item?id=49436473\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T16:48:55.245Z",
+    "published": "Tue, 25 Aug 2026 16:14:43 +0000"
+  },
+  {
+    "url": "https://vercel.com/customers/how-ora-benchmarks-every-major-ai-agent-on-vercel",
+    "title": "Ora benchmarks every major AI agent on Vercel – Customers",
+    "description": "Article URL: https://vercel.com/customers/how-ora-benchmarks-every-major-ai-agent-on-vercel\nComments URL: https://news.ycombinator.com/item?id=49436404\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T16:48:55.245Z",
+    "published": "Tue, 25 Aug 2026 16:10:06 +0000"
+  },
+  {
+    "url": "https://sfconservancy.org/llm-gen-ai/llm-backed-generative-ai-recommendations.html",
+    "title": "Recommendations When Using LLM-Backed GenAI Systems for FOSS Contributions",
+    "description": "Article URL: https://sfconservancy.org/llm-gen-ai/llm-backed-generative-ai-recommendations.html\nComments URL: https://news.ycombinator.com/item?id=49436388\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T16:48:55.245Z",
+    "published": "Tue, 25 Aug 2026 16:08:38 +0000"
+  },
+  {
+    "url": "https://twinlylab.com/",
+    "title": "Twinly Lab – AI Twin Marketplace for Creators",
+    "description": "Article URL: https://twinlylab.com/\nComments URL: https://news.ycombinator.com/item?id=49436357\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T16:48:55.245Z",
+    "published": "Tue, 25 Aug 2026 16:06:13 +0000"
+  },
+  {
+    "url": "https://agentgrid.sh/",
+    "title": "Show HN: Save Claude, codex, Grok and OpenCode sessions to an infinite canvas",
+    "description": "Hi HN, I’m Michael, I built AgentGrid with my friend Souren because we were tired of losing our coding sessions and couldn't keep track of what was actually being built across our many projects.Our approach was to use an infinite canvas desktop app for the TUIs we already know and love, mainly clau",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T16:48:55.245Z",
+    "published": "Tue, 25 Aug 2026 15:54:53 +0000"
+  },
+  {
+    "url": "https://www.notus.org/media/stanley-druckenmillers-wsj-op-ed-bessent-ai",
+    "title": "Stanley Druckenmiller's WSJ Op-Ed Criticizing Bessent Was Written with AI",
+    "description": "Article URL: https://www.notus.org/media/stanley-druckenmillers-wsj-op-ed-bessent-ai\nComments URL: https://news.ycombinator.com/item?id=49436195\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T16:48:55.245Z",
+    "published": "Tue, 25 Aug 2026 15:53:15 +0000"
+  },
+  {
+    "url": "https://github.com/Luizhcrs/powerai",
+    "title": "PowerAI – A zero-dependency local terminal AI harness using Ollama",
+    "description": "Article URL: https://github.com/Luizhcrs/powerai\nComments URL: https://news.ycombinator.com/item?id=49436182\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T16:48:55.245Z",
+    "published": "Tue, 25 Aug 2026 15:52:23 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/google-launches-gemini-for-legal-work-to-automate-contracts-and-research/",
+    "title": "Google launches Gemini for legal work to automate contracts and research",
+    "description": "With Gemini Enterprise for Legal, Google launches an AI solution for the legal industry that connects to systems like iManage, DocuSign, and Everlaw through MCP connectors. Partners like Deloitte sell ready-made AI agents for tasks like contract review. Anthropic already offers similar solu",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-25T16:49:02.899Z",
+    "published": "Tue, 25 Aug 2026 16:21:09 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2243812/apple-decides-undermining-its-own-email-privacy-feature-was-a-bad-idea-after-all/",
+    "title": "Apple decides undermining its own email privacy feature was a bad idea after all",
+    "description": "Apple decides undermining its own email privacy feature was a bad idea after all.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-25T16:49:18.424Z",
+    "published": "Tue, 25 Aug 2026 16:36:46 +0000"
   }
 ]
