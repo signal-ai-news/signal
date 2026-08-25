@@ -37144,5 +37144,231 @@
     "published": "Tue, 25 Aug 2026 11:39:24 GMT",
     "processed": true,
     "processedAt": "2026-08-25T12:01:09.628Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+    "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+    "description": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-25T12:59:06.293Z",
+    "published": "Tue, 25 Aug 2026 12:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T13:01:37.652Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/",
+    "title": "The Download: smarter AI in schools, and a robot “carnival” in Shanghai",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How to encourage smarter AI use in the classroom Chatbots took schools by surprise. Suddenly, students carried an app in their phones that could magic",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-25T12:59:07.424Z",
+    "published": "Tue, 25 Aug 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T13:01:37.652Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49433196",
+    "title": "Ask HN: Best LLM Subscription as of Now?",
+    "description": "Trying to get the most bang for my buck with an LLM subscription. Main use coding, but if you got rec for other usecases lmk. Stuff like OpenCode Go and cursor sound most interesting to me due to good usage limits.\n\nComments URL: https://news.ycombinator.com/item?id=49433196\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T12:59:11.816Z",
+    "published": "Tue, 25 Aug 2026 12:53:59 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T13:01:37.652Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=KHzzf0tIwDM",
+    "title": "AI for Peace Workshop – ICLR 2026",
+    "description": "Article URL: https://www.youtube.com/watch?v=KHzzf0tIwDM\nComments URL: https://news.ycombinator.com/item?id=49433186\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T12:59:11.816Z",
+    "published": "Tue, 25 Aug 2026 12:53:32 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T13:01:37.652Z"
+  },
+  {
+    "url": "https://getxtend.com/blog/terminal-state-you-cant-replay.html",
+    "title": "Why Claude Code garbles when you rotate your phone",
+    "description": "Article URL: https://getxtend.com/blog/terminal-state-you-cant-replay.html\nComments URL: https://news.ycombinator.com/item?id=49432994\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T12:59:11.816Z",
+    "published": "Tue, 25 Aug 2026 12:40:47 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T13:01:37.652Z"
+  },
+  {
+    "url": "https://ounapuu.ee/posts/2026/06/08/llm/",
+    "title": "My experience with LLM-assisted tools in software development",
+    "description": "Article URL: https://ounapuu.ee/posts/2026/06/08/llm/\nComments URL: https://news.ycombinator.com/item?id=49432949\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T12:59:11.816Z",
+    "published": "Tue, 25 Aug 2026 12:37:15 +0000"
+  },
+  {
+    "url": "https://dietclaude.com/",
+    "title": "Show HN: Diet Cola themed Chrome Extension to track you Claude usage",
+    "description": "Article URL: https://dietclaude.com/\nComments URL: https://news.ycombinator.com/item?id=49432935\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T12:59:11.816Z",
+    "published": "Tue, 25 Aug 2026 12:36:31 +0000"
+  },
+  {
+    "url": "https://fsfe.org/news/2026/news-20260825-01.de.html",
+    "title": "Copyrightability of LLM-generated code: Can we license \"vibe code\" into FS?",
+    "description": "Article URL: https://fsfe.org/news/2026/news-20260825-01.de.html\nComments URL: https://news.ycombinator.com/item?id=49432913\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T12:59:11.816Z",
+    "published": "Tue, 25 Aug 2026 12:35:31 +0000"
+  },
+  {
+    "url": "https://aiearnings.dev/",
+    "title": "Recent public co filings analyzed: AI not generating profit yet",
+    "description": "Article URL: https://aiearnings.dev/\nComments URL: https://news.ycombinator.com/item?id=49432761\nPoints: 7\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T12:59:11.816Z",
+    "published": "Tue, 25 Aug 2026 12:24:59 +0000"
+  },
+  {
+    "url": "https://sarpex.com/2026/08-verification-is-the-new-implementation",
+    "title": "When AI Writes the Code, Verification Is the New Implementation",
+    "description": "Article URL: https://sarpex.com/2026/08-verification-is-the-new-implementation\nComments URL: https://news.ycombinator.com/item?id=49432639\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T12:59:11.816Z",
+    "published": "Tue, 25 Aug 2026 12:15:16 +0000"
+  },
+  {
+    "url": "https://github.com/broxhq/qpilot",
+    "title": "Run manual QA test cases in a real browser with an AI agent",
+    "description": "Article URL: https://github.com/broxhq/qpilot\nComments URL: https://news.ycombinator.com/item?id=49432514\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T12:59:11.816Z",
+    "published": "Tue, 25 Aug 2026 12:07:07 +0000"
+  },
+  {
+    "url": "https://www.prelo.dev/",
+    "title": "Show HN: Prelo – a WordPress-style admin for AI-built sites",
+    "description": "Article URL: https://www.prelo.dev/\nComments URL: https://news.ycombinator.com/item?id=49432499\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T12:59:11.816Z",
+    "published": "Tue, 25 Aug 2026 12:06:13 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49432443",
+    "title": "Show HN: Neither HTML nor Markdown is enough: a way out of the AI doc dilemma",
+    "description": "A recent post from Anthropic's Claude Code team (\"The Unreasonable Effectiveness of HTML\", https://thariqs.github.io/html-effectiveness/) argued that with today's context windows the bottleneck is human attention — rich HTML for decision surfaces, Markdown for durable records. That split makes sens",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T12:59:11.816Z",
+    "published": "Tue, 25 Aug 2026 12:02:03 +0000"
+  },
+  {
+    "url": "https://github.com/unlose-app/unlose",
+    "title": "Show HN: Unlose – Windows VSS snapshots before your AI agent deletes your files",
+    "description": "Article URL: https://github.com/unlose-app/unlose\nComments URL: https://news.ycombinator.com/item?id=49432434\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T12:59:11.816Z",
+    "published": "Tue, 25 Aug 2026 12:01:04 +0000"
+  },
+  {
+    "url": "https://fsfe.org/news/2026/news-20260825-01.en.html",
+    "title": "Analysis: Can we license LLM generated \"vibe code\" into Free Software?",
+    "description": "Article URL: https://fsfe.org/news/2026/news-20260825-01.en.html\nComments URL: https://news.ycombinator.com/item?id=49432416\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T12:59:11.816Z",
+    "published": "Tue, 25 Aug 2026 11:59:59 +0000"
+  },
+  {
+    "url": "https://blog.getcassis.com/context-engineering-for-analytics-agents/",
+    "title": "We built a structured entity graph for an AI agent. Then we removed most of it",
+    "description": "Article URL: https://blog.getcassis.com/context-engineering-for-analytics-agents/\nComments URL: https://news.ycombinator.com/item?id=49432253\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T12:59:11.816Z",
+    "published": "Tue, 25 Aug 2026 11:42:59 +0000"
+  },
+  {
+    "url": "https://fogsight.ai",
+    "title": "An Interesting AI Educational Animation Generator",
+    "description": "Article URL: https://fogsight.ai\nComments URL: https://news.ycombinator.com/item?id=49432188\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T12:59:11.816Z",
+    "published": "Tue, 25 Aug 2026 11:36:25 +0000"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/08/25/sec-situational-awareness-hedge-fund-subpoenas.html",
+    "title": "SEC reportedly subpoenas Wall St banks over AI hedge fund Situational Awareness",
+    "description": "Article URL: https://www.cnbc.com/2026/08/25/sec-situational-awareness-hedge-fund-subpoenas.html\nComments URL: https://news.ycombinator.com/item?id=49432014\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T12:59:11.816Z",
+    "published": "Tue, 25 Aug 2026 11:20:26 +0000"
+  },
+  {
+    "url": "https://stalw.art/blog/how-we-use-ai/",
+    "title": "We Use AI at Stalwart",
+    "description": "Article URL: https://stalw.art/blog/how-we-use-ai/\nComments URL: https://news.ycombinator.com/item?id=49431989\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T12:59:11.816Z",
+    "published": "Tue, 25 Aug 2026 11:18:51 +0000"
+  },
+  {
+    "url": "https://restofworld.org/2026/us-immigration-rules-ai-talent-china/",
+    "title": "America's immigration policy is driving away future AI leaders",
+    "description": "Article URL: https://restofworld.org/2026/us-immigration-rules-ai-talent-china/\nComments URL: https://news.ycombinator.com/item?id=49431949\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T12:59:11.816Z",
+    "published": "Tue, 25 Aug 2026 11:14:25 +0000"
+  },
+  {
+    "url": "https://karautoresearch.com/",
+    "title": "KAR AI",
+    "description": "Article URL: https://karautoresearch.com/\nComments URL: https://news.ycombinator.com/item?id=49431935\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T12:59:11.816Z",
+    "published": "Tue, 25 Aug 2026 11:13:34 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/one-document-type-a-million-files-structured-extraction-into-the-sql-table-rag-queries/",
+    "title": "One Document Type, a Million Files: Structured Extraction into the SQL Table RAG Queries",
+    "description": "Enterprise Document Intelligence [Vol.1 #14C] - One hour with two people, six to ten fields, and the two signals that separate a real column from one that will break a filter later\nThe post One Document Type, a Million Files: Structured Extraction into the SQL Table RAG Queries appeared first on Tow",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-25T12:59:17.387Z",
+    "published": "Tue, 25 Aug 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/nvidia-says-its-groq-3-lpx-is-four-times-faster-than-cerebras-but-the-math-is-more-complicated/",
+    "title": "Nvidia says its Groq 3 LPX is four times faster than Cerebras, but the math is more complicated",
+    "description": "Nvidia is moving its Groq 3 LPX inference chip into full production and reports 3,400 tokens per second on Gemma 4 31B, four times faster than Cerebras. But the numbers don't tell the whole story. Nvidia needs at least 64 accelerators to get there, while Cerebras needs only one or two, acco",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-25T12:59:18.981Z",
+    "published": "Tue, 25 Aug 2026 12:27:57 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/ukraine-opens-its-massive-labeled-battlefield-dataset-to-british-firms-in-a-landmark-ai-weapons-partnership/",
+    "title": "Ukraine opens its massive labeled battlefield dataset to British firms in a landmark AI weapons partnership",
+    "description": "The UK becomes the first country to get access to Avengers Labs, Ukraine's platform holding roughly five million annotated combat images for training military AI. Three British startups are already working on pilot projects. The deal shows how real war data is systematically becoming the cu",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-25T12:59:18.981Z",
+    "published": "Tue, 25 Aug 2026 12:16:41 +0000"
   }
 ]
