@@ -37696,5 +37696,204 @@
     "category": "news",
     "discovered": "2026-08-25T14:53:02.448Z",
     "published": "Tue, 25 Aug 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "title": "The full stack behind abundant intelligence",
+    "description": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-25T15:51:40.932Z",
+    "published": "Tue, 25 Aug 2026 07:05:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-25T15:54:27.202Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "title": "Granite 4.2 LLMs: How They're Built",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-08-25T15:51:42.799Z",
+    "published": "Tue, 25 Aug 2026 15:14:14 GMT",
+    "processed": true,
+    "processedAt": "2026-08-25T15:54:27.202Z"
+  },
+  {
+    "url": "https://www.reuters.com/business/ai-founders-who-walked-away-bezos-backed-prometheus-model-universe-2026-08-25/",
+    "title": "Founders rejected Bezos-backed Prometheus unveil Transformer-free AI",
+    "description": "Article URL: https://www.reuters.com/business/ai-founders-who-walked-away-bezos-backed-prometheus-model-universe-2026-08-25/\nComments URL: https://news.ycombinator.com/item?id=49436098\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T15:51:49.578Z",
+    "published": "Tue, 25 Aug 2026 15:47:08 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T15:54:27.202Z"
+  },
+  {
+    "url": "https://www.howdy.com/blog/ai-engineering-productivity-metrics",
+    "title": "AI Engineering Productivity Metrics: Is AI Improving Your Team?",
+    "description": "Article URL: https://www.howdy.com/blog/ai-engineering-productivity-metrics\nComments URL: https://news.ycombinator.com/item?id=49436052\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T15:51:49.578Z",
+    "published": "Tue, 25 Aug 2026 15:44:19 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T15:54:27.202Z"
+  },
+  {
+    "url": "https://blog.devgenius.io/how-to-audit-ai-generated-code-with-the-go-standard-library-381d0f03d52e?source=friends_link&sk=ec62bd2bace50df5821234e137a95910",
+    "title": "Show HN: Audit AI Generated Code with Go Std Lib",
+    "description": "Article URL: https://blog.devgenius.io/how-to-audit-ai-generated-code-with-the-go-standard-library-381d0f03d52e?source=friends_link&sk=ec62bd2bace50df5821234e137a95910\nComments URL: https://news.ycombinator.com/item?id=49436038\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T15:51:49.578Z",
+    "published": "Tue, 25 Aug 2026 15:43:24 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T15:54:27.202Z"
+  },
+  {
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "title": "Editorial diagram types for Claude Code",
+    "description": "Article URL: https://github.com/cathrynlavery/diagram-design\nComments URL: https://news.ycombinator.com/item?id=49436034\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T15:51:49.578Z",
+    "published": "Tue, 25 Aug 2026 15:43:13 +0000"
+  },
+  {
+    "url": "https://megaton.ai/v-benchmark",
+    "title": "Launching V<Benchmark> by Megaton to Measure Video AI Performance",
+    "description": "Article URL: https://megaton.ai/v-benchmark\nComments URL: https://news.ycombinator.com/item?id=49435947\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T15:51:49.578Z",
+    "published": "Tue, 25 Aug 2026 15:37:50 +0000"
+  },
+  {
+    "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
+    "title": "Perplexity and Nvidia to launch a local AI agent with zero token costs",
+    "description": "Article URL: https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs\nComments URL: https://news.ycombinator.com/item?id=49435893\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T15:51:49.578Z",
+    "published": "Tue, 25 Aug 2026 15:33:45 +0000"
+  },
+  {
+    "url": "https://twitter.com/tobi/status/2092259436538495186",
+    "title": "Tobi Lutke thinking about banning Claude Code at Shopify",
+    "description": "Article URL: https://twitter.com/tobi/status/2092259436538495186\nComments URL: https://news.ycombinator.com/item?id=49435870\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T15:51:49.578Z",
+    "published": "Tue, 25 Aug 2026 15:31:50 +0000"
+  },
+  {
+    "url": "https://github.com/thebaycloud/bay",
+    "title": "Show HN: Bay – open-source Render for AI-generated Code",
+    "description": "Article URL: https://github.com/thebaycloud/bay\nComments URL: https://news.ycombinator.com/item?id=49435850\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T15:51:49.578Z",
+    "published": "Tue, 25 Aug 2026 15:30:36 +0000"
+  },
+  {
+    "url": "https://apnews.com/article/australia-ai-generated-music-charts-ban-aria-9bfb0c91166ae4405a6df1a3c4891687",
+    "title": "Australia's music industry bans AI songs from charts",
+    "description": "Article URL: https://apnews.com/article/australia-ai-generated-music-charts-ban-aria-9bfb0c91166ae4405a6df1a3c4891687\nComments URL: https://news.ycombinator.com/item?id=49435803\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T15:51:49.578Z",
+    "published": "Tue, 25 Aug 2026 15:28:15 +0000"
+  },
+  {
+    "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+    "title": "How much of HN is AI?",
+    "description": "Article URL: https://blog.coredump.cx/p/how-much-of-hn-is-ai\nComments URL: https://news.ycombinator.com/item?id=49435728\nPoints: 79\n# Comments: 35",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T15:51:49.578Z",
+    "published": "Tue, 25 Aug 2026 15:23:41 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+    "title": "Apple's new desktop computers are designed specifically for local AI development",
+    "description": "Article URL: https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/\nComments URL: https://news.ycombinator.com/item?id=49435701\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T15:51:49.578Z",
+    "published": "Tue, 25 Aug 2026 15:22:14 +0000"
+  },
+  {
+    "url": "https://keenable.ai/",
+    "title": "Show HN: Keenable – A different web search API for AI agents",
+    "description": "Hey HN! We built https://keenable.ai, a different web search API for AI agents.Keenable searches our own 100B+ page index. We are focused on low cost and latency (p95 https://keenableai.github.io/needle): a live benchmark that compares Keenable with other search APIs on fresh agent-like queries.I s",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T15:51:49.578Z",
+    "published": "Tue, 25 Aug 2026 15:12:52 +0000"
+  },
+  {
+    "url": "https://www.tryhunch.ca",
+    "title": "Show HN: Hunch – a macOS AI assistant that uses your Mac in the background",
+    "description": "Article URL: https://www.tryhunch.ca\nComments URL: https://news.ycombinator.com/item?id=49435546\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T15:51:49.578Z",
+    "published": "Tue, 25 Aug 2026 15:12:30 +0000"
+  },
+  {
+    "url": "https://www.sdi-protocol.org",
+    "title": "Show HN: A hash-chained ledger for AI reasoning you can verify yourself",
+    "description": "SDI protocol defines a reasoning computer for AI. The computer runs an LLM one turn at a time, guiding it through a reasoning grammar; the grammar, which is both natural language and algebraic, allows it to be checked at a compile gate. The gate validates safety, a workfloor, and alignment with the",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T15:51:49.578Z",
+    "published": "Tue, 25 Aug 2026 15:09:35 +0000"
+  },
+  {
+    "url": "https://skillwiki.app",
+    "title": "Show HN: Skills Wiki – Connect Skills to AI",
+    "description": "Article URL: https://skillwiki.app\nComments URL: https://news.ycombinator.com/item?id=49435375\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T15:51:49.578Z",
+    "published": "Tue, 25 Aug 2026 15:01:28 +0000"
+  },
+  {
+    "url": "https://outbidlol.ai/",
+    "title": "Show HN: Rank21 – the AI product outbid board where earlier boosts cost less",
+    "description": "Article URL: https://outbidlol.ai/\nComments URL: https://news.ycombinator.com/item?id=49435344\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T15:51:49.578Z",
+    "published": "Tue, 25 Aug 2026 14:59:35 +0000"
+  },
+  {
+    "url": "https://github.com/identities-ai/ratify-agent-relay-harness",
+    "title": "Show HN: Reproduce a cross-company AI agent handoff, including its revocation",
+    "description": "Article URL: https://github.com/identities-ai/ratify-agent-relay-harness\nComments URL: https://news.ycombinator.com/item?id=49435248\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T15:51:49.578Z",
+    "published": "Tue, 25 Aug 2026 14:54:55 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/fydeos-chromeos-clone-revive-aging-pc/",
+    "title": "How I turned my ancient Windows PC into a Chromebook for free - with FydeOS",
+    "description": "FydeOS aims to bring a Google Chromebook-like experience to standard PCs, and it succeeds - with a caveat or two.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-25T15:52:19.985Z",
+    "published": "Tue, 25 Aug 2026 15:37:30 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/mac-mini-mac-studio-new-m6-m5-max-ultra/",
+    "title": "Apple's M5 Ultra is its most powerful chip ever - with 4x faster AI performance than M3 Ultra",
+    "description": "The Mac Studio with the M5 Ultra will feature up to a whopping 512GB of unified memory, and drive up to eight external displays.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-25T15:52:19.985Z",
+    "published": "Tue, 25 Aug 2026 15:29:00 GMT"
   }
 ]
