@@ -36842,5 +36842,96 @@
     "category": "community",
     "discovered": "2026-08-25T07:50:19.237Z",
     "published": "Tue, 25 Aug 2026 06:46:17 +0000"
+  },
+  {
+    "url": "https://github.com/Piebald-AI/claude-code-system-prompts/blob/main/system-prompts/system-prompt-autonomous-operation-guidelines.md",
+    "title": "We're lying to Claude in almost every session",
+    "description": "Article URL: https://github.com/Piebald-AI/claude-code-system-prompts/blob/main/system-prompts/system-prompt-autonomous-operation-guidelines.md\nComments URL: https://news.ycombinator.com/item?id=49430734\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T08:51:08.672Z",
+    "published": "Tue, 25 Aug 2026 08:42:21 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T08:53:35.466Z"
+  },
+  {
+    "url": "https://www.tbench.ai/",
+    "title": "Terminal-bench: benchmarks for AI agents in terminal environments",
+    "description": "Article URL: https://www.tbench.ai/\nComments URL: https://news.ycombinator.com/item?id=49430706\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T08:51:08.672Z",
+    "published": "Tue, 25 Aug 2026 08:38:40 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T08:53:35.466Z"
+  },
+  {
+    "url": "https://github.com/Abloatai/ablo",
+    "title": "Show HN: Ablo, make your AI app multiplayer",
+    "description": "Agent work is safe today mostly because agents work alone. With one agent, one session and one person working on a task. It's essentially single-player.This changes when a platform has multiple people, each working with multiple agents, all acting on shared tasks and shared data, (multiplayer).Ablo",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T08:51:08.672Z",
+    "published": "Tue, 25 Aug 2026 08:38:03 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T08:53:35.466Z"
+  },
+  {
+    "url": "https://calnewport.com/has-ai-gone-rogue/",
+    "title": "Has AI Gone Rogue?",
+    "description": "Article URL: https://calnewport.com/has-ai-gone-rogue/\nComments URL: https://news.ycombinator.com/item?id=49430645\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T08:51:08.672Z",
+    "published": "Tue, 25 Aug 2026 08:29:51 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T08:53:35.466Z"
+  },
+  {
+    "url": "https://github.com/Santosh-Prasad-Verma/ClaudeGate",
+    "title": "ClaudeGate – Use OpenRouter Models (0x Alpha, DeepSeek) in Claude Code CLI",
+    "description": "Article URL: https://github.com/Santosh-Prasad-Verma/ClaudeGate\nComments URL: https://news.ycombinator.com/item?id=49430569\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T08:51:08.672Z",
+    "published": "Tue, 25 Aug 2026 08:16:10 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T08:53:35.466Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49430481",
+    "title": "Ask HN: When did Claude Fable start giving summarized thinking?",
+    "description": "I am on v2.1.245 and I just noticed this morning that I'm getting blocks that look like:(summarized)Grey thinking looking text that tells what was done or what Claude considered or confirmed.I had sessions open last night and I don't remember this. Personally I find this great. Fable would often go",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T08:51:08.672Z",
+    "published": "Tue, 25 Aug 2026 08:03:46 +0000"
+  },
+  {
+    "url": "https://nltimes.nl/2026/08/24/dutch-lawyer-fined-eu2300-using-ai-hallucinated-citation",
+    "title": "Dutch lawyer fined €2,300 for using AI-hallucinated citation",
+    "description": "Article URL: https://nltimes.nl/2026/08/24/dutch-lawyer-fined-eu2300-using-ai-hallucinated-citation\nComments URL: https://news.ycombinator.com/item?id=49430427\nPoints: 2\n# Comments: 5",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T08:51:08.672Z",
+    "published": "Tue, 25 Aug 2026 07:55:38 +0000"
+  },
+  {
+    "url": "https://onlymusic.ai",
+    "title": "Show HN: I built an AI music generator with some harnesses",
+    "description": "I’m a developer, and also a music producer. When I work on commercial music, especially songs for ads, I’ve gotten pretty used to using AI music tools as part of the creative process.But I noticed that some people around me — e.g. my girlfriend — also want to create music as a way to express themse",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-25T08:51:08.672Z",
+    "published": "Tue, 25 Aug 2026 07:55:24 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/taiwanese-cybersecurity-firm-warns-that-ai-tools-have-more-than-doubled-chinese-state-backed-cyberattacks/",
+    "title": "Taiwanese cybersecurity firm warns that AI tools have more than doubled Chinese state-backed cyberattacks",
+    "description": "Chinese state-backed hacking groups have more than doubled their attacks since they started using AI models like DeepSeek to write exploit code and scan networks, according to Taiwanese security firm TeamT5. Hackers also used ChatGPT and Anthropic's Claude Code. A UK study shows the cyber c",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-25T08:51:15.868Z",
+    "published": "Tue, 25 Aug 2026 08:40:14 +0000"
   }
 ]
