@@ -9455,7 +9455,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-29T20:18:55.831Z",
-    "published": "Wed, 29 Jul 2026 19:42:00 GMT"
+    "published": "Wed, 29 Jul 2026 19:42:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-25T11:36:56.863Z"
   },
   {
     "url": "https://www.engadget.com/2226530/waymos-are-starting-to-run-on-the-freeways-again/",
@@ -9464,7 +9466,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-29T20:18:56.538Z",
-    "published": "Wed, 29 Jul 2026 19:45:05 +0000"
+    "published": "Wed, 29 Jul 2026 19:45:05 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T11:36:56.863Z"
   },
   {
     "url": "https://www.engadget.com/2222018/how-to-switch-from-chatgpt-to-claude-without-losing-information/",
@@ -9473,7 +9477,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-29T20:18:56.538Z",
-    "published": "Wed, 29 Jul 2026 18:30:00 +0000"
+    "published": "Wed, 29 Jul 2026 18:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T11:36:56.863Z"
   },
   {
     "url": "https://www.engadget.com/2226234/major-labels-call-for-ai-slop-songs-to-be-banned-from-entering-charts-around-the-world/",
@@ -9482,7 +9488,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-29T20:18:56.538Z",
-    "published": "Wed, 29 Jul 2026 16:55:01 +0000"
+    "published": "Wed, 29 Jul 2026 16:55:01 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T11:36:56.863Z"
   },
   {
     "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
@@ -9546,7 +9554,9 @@
     "source": "TechCrunch AI",
     "category": "news",
     "discovered": "2026-07-29T23:48:37.975Z",
-    "published": "Wed, 29 Jul 2026 21:07:48 +0000"
+    "published": "Wed, 29 Jul 2026 21:07:48 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T11:36:56.863Z"
   },
   {
     "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
