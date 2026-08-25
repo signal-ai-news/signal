@@ -9719,7 +9719,9 @@
     "source": "TechCrunch AI",
     "category": "news",
     "discovered": "2026-07-30T16:07:07.744Z",
-    "published": "Thu, 30 Jul 2026 13:00:00 +0000"
+    "published": "Thu, 30 Jul 2026 13:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T17:39:30.453Z"
   },
   {
     "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
@@ -9728,7 +9730,9 @@
     "source": "MIT Tech Review AI",
     "category": "news",
     "discovered": "2026-07-30T16:07:08.985Z",
-    "published": "Thu, 30 Jul 2026 12:10:00 +0000"
+    "published": "Thu, 30 Jul 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T17:39:30.453Z"
   },
   {
     "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
@@ -9737,7 +9741,9 @@
     "source": "MIT Tech Review AI",
     "category": "news",
     "discovered": "2026-07-30T16:07:08.985Z",
-    "published": "Thu, 30 Jul 2026 10:15:19 +0000"
+    "published": "Thu, 30 Jul 2026 10:15:19 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T17:39:30.453Z"
   },
   {
     "url": "https://uri.ai/blog/ai-teaching-assistant",
@@ -38031,5 +38037,27 @@
     "category": "news",
     "discovered": "2026-08-25T16:49:18.424Z",
     "published": "Tue, 25 Aug 2026 16:36:46 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/anthropic-claude-and-cowork-share-memories-now-unless-you-opt-out/",
+    "title": "Anthropic's Claude and Cowork will share memories about you now - unless you opt out",
+    "description": "Anthropic is merging Claude chat and Cowork memory, raising privacy questions about what AI remembers and if it's worth the tradeoff.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-25T17:37:23.505Z",
+    "published": "Tue, 25 Aug 2026 17:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-25T17:39:30.454Z"
+  },
+  {
+    "url": "https://www.engadget.com/2243753/claude-memory-now-works-across-both-chats-and-cowork-sessions/",
+    "title": "Claude's memory now works across both chats and Cowork sessions",
+    "description": "Anthropic is giving users more control over what memories Claude saves.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-25T17:37:24.146Z",
+    "published": "Tue, 25 Aug 2026 17:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T17:39:30.454Z"
   }
 ]
