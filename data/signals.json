@@ -9301,7 +9301,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-29T16:06:41.722Z",
-    "published": "Wed, 29 Jul 2026 15:00:00 +0000"
+    "published": "Wed, 29 Jul 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T03:08:42.977Z"
   },
   {
     "url": "https://www.engadget.com/2225931/framework-laptop-13-pro-review/",
@@ -9310,7 +9312,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-29T16:06:41.722Z",
-    "published": "Wed, 29 Jul 2026 13:00:00 +0000"
+    "published": "Wed, 29 Jul 2026 13:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T03:08:42.977Z"
   },
   {
     "url": "https://www.engadget.com/2225849/google-shuts-down-alphafold/",
@@ -9319,7 +9323,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-29T16:06:41.722Z",
-    "published": "Wed, 29 Jul 2026 10:40:36 +0000"
+    "published": "Wed, 29 Jul 2026 10:40:36 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T03:08:42.977Z"
   },
   {
     "url": "https://openai.com/index/chatgpt-for-academic-researchers",
@@ -9383,7 +9389,9 @@
     "source": "Towards Data Science",
     "category": "ml",
     "discovered": "2026-07-29T20:18:37.885Z",
-    "published": "Wed, 29 Jul 2026 16:33:57 +0000"
+    "published": "Wed, 29 Jul 2026 16:33:57 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T03:08:42.977Z"
   },
   {
     "url": "https://the-decoder.com/googles-lyria-3-5-music-model-now-lets-users-edit-individual-track-sections-without-starting-over/",
@@ -9392,7 +9400,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-29T20:18:39.754Z",
-    "published": "Wed, 29 Jul 2026 18:37:49 +0000"
+    "published": "Wed, 29 Jul 2026 18:37:49 +0000",
+    "processed": true,
+    "processedAt": "2026-08-25T03:08:42.977Z"
   },
   {
     "url": "https://the-decoder.com/pwc-has-allegedly-published-ai-generated-reports-containing-false-or-fabricated-sources/",
