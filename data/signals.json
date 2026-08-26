@@ -10258,7 +10258,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-30T20:45:36.491Z",
-    "published": "Thu, 30 Jul 2026 20:24:02 +0000"
+    "published": "Thu, 30 Jul 2026 20:24:02 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T14:03:11.810Z"
   },
   {
     "url": "https://firebender.com/",
@@ -10267,7 +10269,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-30T20:45:36.491Z",
-    "published": "Thu, 30 Jul 2026 20:13:05 +0000"
+    "published": "Thu, 30 Jul 2026 20:13:05 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T14:03:11.810Z"
   },
   {
     "url": "https://blog.triplecloud.tech/posts/instrument-llm-agent-opentelemetry",
@@ -39538,5 +39542,38 @@
     "category": "news",
     "discovered": "2026-08-26T13:05:14.384Z",
     "published": "Wed, 26 Aug 2026 11:55:34 GMT"
+  },
+  {
+    "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-08-26T14:00:22.846Z",
+    "published": "Wed, 26 Aug 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-26T14:03:11.811Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+    "title": "Robot brain builders are pushing out of their GPT-2 era",
+    "description": "Robot bodies are waiting for their AI brains to catch up.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-26T14:00:24.434Z",
+    "published": "Wed, 26 Aug 2026 13:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T14:03:11.811Z"
+  },
+  {
+    "url": "https://the-decoder.com/employee-revolt-and-failing-agents-forced-meta-to-scrap-its-ai-layoff-plan/",
+    "title": "Employee revolt and failing agents forced Meta to scrap its AI layoff plan",
+    "description": "Meta wanted to replace far more of its workforce with AI than previously known, according to Reuters, but the plan collapsed under rebellious employees and agents that failed to deliver.\nThe article Employee revolt and failing agents forced Meta to scrap its AI layoff plan appeared first on",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-26T14:00:50.118Z",
+    "published": "Wed, 26 Aug 2026 13:09:04 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T14:03:11.811Z"
   }
 ]
