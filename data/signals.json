@@ -10170,7 +10170,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-30T16:07:44.758Z",
-    "published": "Thu, 30 Jul 2026 12:30:00 +0000"
+    "published": "Thu, 30 Jul 2026 12:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T10:43:26.758Z"
   },
   {
     "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
@@ -39229,5 +39231,49 @@
     "category": "news",
     "discovered": "2026-08-26T09:50:54.468Z",
     "published": "Wed, 26 Aug 2026 09:30:58 GMT"
+  },
+  {
+    "url": "https://openai.com/index/loveholidays",
+    "title": "How loveholidays is making everyone a builder with Codex",
+    "description": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-26T10:40:48.248Z",
+    "published": "Wed, 26 Aug 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-26T10:43:26.759Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-does-a-rag-reranker-really-work-the-honest-answer-most-data-scientists-wont-give-you/",
+    "title": "How Does a RAG Reranker Really Work?",
+    "description": "Enterprise Document Intelligence [Vol.1 #2D] - What data scientists say when asked, what the model actually does under the hood, and why the honest answer changes your architecture decisions in enterprise RAG\nThe post How Does a RAG Reranker Really Work? appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-26T10:41:03.724Z",
+    "published": "Wed, 26 Aug 2026 10:30:01 GMT",
+    "processed": true,
+    "processedAt": "2026-08-26T10:43:26.759Z"
+  },
+  {
+    "url": "https://the-decoder.com/ibm-drops-open-weight-granite-4-2-family-with-built-in-agentic-capabilities-under-apache-2-0/",
+    "title": "IBM drops open-weight Granite 4.2 family with built-in agentic capabilities under Apache 2.0",
+    "description": "IBM is releasing its Granite 4.2 language models in 3B, 8B, and 30B sizes, trained on about 15 trillion tokens with a context window of up to 512,000 tokens. The larger models use \"agentic RL\" training to learn tool use and code execution on their own. All models are available under the Apa",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-26T10:41:05.568Z",
+    "published": "Wed, 26 Aug 2026 10:37:56 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T10:43:26.759Z"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-sees-a-market-opportunity-of-more-than-30-trillion-ahead-of-its-ipo/",
+    "title": "Anthropic sees a market opportunity of more than $30 trillion ahead of its IPO",
+    "description": "Anthropic wants to sell investors on a theoretical market opportunity worth more than $30 trillion ahead of its planned IPO.\nThe article Anthropic sees a market opportunity of more than $30 trillion ahead of its IPO appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-26T10:41:05.568Z",
+    "published": "Wed, 26 Aug 2026 10:02:39 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T10:43:26.759Z"
   }
 ]
