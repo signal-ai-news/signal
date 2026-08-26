@@ -39829,5 +39829,114 @@
     "category": "news",
     "discovered": "2026-08-26T16:23:36.301Z",
     "published": "Wed, 26 Aug 2026 15:00:40 GMT"
+  },
+  {
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "description": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-26T18:19:26.846Z",
+    "published": "Wed, 26 Aug 2026 10:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-26T18:22:07.439Z"
+  },
+  {
+    "url": "https://openai.com/index/learning-never-stops",
+    "title": "Learning never stops: How AI makes learning continuous",
+    "description": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-26T18:19:26.846Z",
+    "published": "Wed, 26 Aug 2026 10:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-26T18:22:07.439Z"
+  },
+  {
+    "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+    "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+    "description": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+    "source": "DeepMind Blog",
+    "category": "llm",
+    "discovered": "2026-08-26T18:19:40.941Z",
+    "published": "Wed, 26 Aug 2026 17:01:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T18:22:07.439Z"
+  },
+  {
+    "url": "https://the-decoder.com/sam-altman-says-openai-will-have-agi-by-the-end-of-2026-if-you-accept-his-definition/",
+    "title": "Sam Altman says OpenAI will have AGI by the end of 2026 if you accept his definition",
+    "description": "OpenAI's leadership believes AGI is within reach, according to a TIME report. The company's upcoming model Astra already works as an automated research intern, according to chief scientist Jakub Pachocki. Altman expects it to be \"the first model where the model actually invents new things i",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-26T18:19:46.351Z",
+    "published": "Wed, 26 Aug 2026 17:30:29 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T18:22:07.439Z"
+  },
+  {
+    "url": "https://www.wired.com/story/i-could-watch-the-robot-games-forever-ai-lab/",
+    "title": "The Humanoids at China’s Robot Games Were Faster Than Usain Bolt—but I’m More Impressed by Their Tweezer Mastery",
+    "description": "Beijing’s endlessly delightful Robot Games featured tons of impressive stunts. But the most mind-blowing tricks challenged the humanoid’s brain, not its brawn.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-26T18:19:53.370Z",
+    "published": "Wed, 26 Aug 2026 18:15:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T18:22:07.439Z"
+  },
+  {
+    "url": "https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/",
+    "title": "Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety",
+    "description": "More than 15 politicians from across the country have signed on to the AI Pact, vowing to regulate data centers and AI. “We’ve got to get this right,” says Senate candidate Dan Osborn of Nebraska.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-26T18:19:53.370Z",
+    "published": "Wed, 26 Aug 2026 17:13:37 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/how-to-sideload-android-apps-on-your-phone-in-2026/",
+    "title": "How to sideload Android apps on your phone in 2026 - and what's behind the changes",
+    "description": "If you're into installing Android apps outside the Google Play Store, you should be aware that the process has changed and now includes a waiting period.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-26T18:20:00.691Z",
+    "published": "Wed, 26 Aug 2026 17:34:00 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/plug-in-solar-plus-batteries-save-money/",
+    "title": "Will plug-in solar plus batteries solve your power problem? I did the math",
+    "description": "It can't be just about harvesting solar power - it's also about storage, and time-shifting cheap, off-peak power to times when it's more expensive.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-26T18:20:00.691Z",
+    "published": "Wed, 26 Aug 2026 16:30:48 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2244816/meta-reportedly-abandoned-an-ai-focused-restructuring-plan/",
+    "title": "Meta reportedly abandoned an AI-focused restructuring plan that would have laid off thousands",
+    "description": "The problem with Meta&#39;s AI restructuring plan is the AI wasn&#39;t good enough.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-26T18:20:01.342Z",
+    "published": "Wed, 26 Aug 2026 17:36:41 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2244799/google-gemini-latest-transcription-model-can-turn-ramblings-into-structured-text/",
+    "title": "Google says its latest Gemini transcription model can turn your ramblings into structured text",
+    "description": "Google says Gemini 3.5 Transcribe will soon let you use speech-to-text in any web field in Chrome.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-26T18:20:01.342Z",
+    "published": "Wed, 26 Aug 2026 17:25:36 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2244719/preorders-for-xbox-anniversary-collection-are-open-and-the-bundle-costs-900-bucks/",
+    "title": "Preorders for Xbox's anniversary collection are open (for some) and the bundle costs $900",
+    "description": "The Xbox 25th anniversary bundle includes a translucent green Series X, a similarly-colored controller and a digital download of Halo: Campaign Evolved.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-26T18:20:01.342Z",
+    "published": "Wed, 26 Aug 2026 16:22:28 +0000"
   }
 ]
