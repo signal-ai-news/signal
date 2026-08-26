@@ -39575,5 +39575,60 @@
     "published": "Wed, 26 Aug 2026 13:09:04 +0000",
     "processed": true,
     "processedAt": "2026-08-26T14:03:11.811Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+    "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+    "description": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-26T14:51:29.270Z",
+    "published": "Wed, 26 Aug 2026 14:37:01 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T14:54:04.392Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+    "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+    "description": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-26T14:51:29.270Z",
+    "published": "Wed, 26 Aug 2026 14:19:29 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T14:54:04.392Z"
+  },
+  {
+    "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+    "title": "Orchestration is the new challenge for CX in the age of AI agents",
+    "description": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says G",
+    "source": "VentureBeat AI",
+    "category": "news",
+    "discovered": "2026-08-26T14:51:31.307Z",
+    "published": "Wed, 26 Aug 2026 14:30:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-26T14:54:04.392Z"
+  },
+  {
+    "url": "https://the-decoder.com/alibaba-releases-qwen3-8-flash-next-targeting-ultimate-cost-efficiency/",
+    "title": "Alibaba releases Qwen3.8-Flash-Next, targeting \"ultimate cost efficiency\"",
+    "description": "Alibaba's Qwen team is previewing the Qwen4 architecture with Qwen3.8-Flash-Next, a mixture-of-experts model that activates just 6 out of 125 billion parameters per token. At one-ninth the training cost, it beats much larger competitors like DeepSeek-V4-Flash and Claude Opus 4.6 on coding a",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-26T14:51:43.292Z",
+    "published": "Wed, 26 Aug 2026 14:40:09 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T14:54:04.392Z"
+  },
+  {
+    "url": "https://www.engadget.com/2244597/ikea-and-xbox-have-fully-unveiled-new-furniture-collection-at-gamescom/",
+    "title": "IKEA and Xbox have fully unveiled their new furniture collection at Gamescom",
+    "description": "Who hasn't dreamt of sitting on a green stool modeled like a thumbstick?",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-26T14:51:57.820Z",
+    "published": "Wed, 26 Aug 2026 14:44:47 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T14:54:04.392Z"
   }
 ]
