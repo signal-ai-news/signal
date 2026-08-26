@@ -38800,5 +38800,78 @@
     "published": "Wed, 26 Aug 2026 03:30:00 +0000",
     "processed": true,
     "processedAt": "2026-08-26T04:14:06.240Z"
+  },
+  {
+    "url": "https://www.gartner.com/en/newsroom/press-releases/2026-07-01-gartner-says-us-dollars-234-billion-in-enterprise-application-software-spend-is-at-risk-from-agentic-artificial-intelligence",
+    "title": "$234B in Enterprise Application Software Spend at Risk from Agentic AI",
+    "description": "Article URL: https://www.gartner.com/en/newsroom/press-releases/2026-07-01-gartner-says-us-dollars-234-billion-in-enterprise-application-software-spend-is-at-risk-from-agentic-artificial-intelligence\nComments URL: https://news.ycombinator.com/item?id=49444199\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T05:07:06.855Z",
+    "published": "Wed, 26 Aug 2026 05:03:50 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T05:09:35.417Z"
+  },
+  {
+    "url": "https://www.wsj.com/tech/ai/situational-awareness-leopold-aschenbrenner-ai-fund-4dbb00a4",
+    "title": "The Connections That Turned a Precocious Teen into the Fallen Nostradamus of AI",
+    "description": "Article URL: https://www.wsj.com/tech/ai/situational-awareness-leopold-aschenbrenner-ai-fund-4dbb00a4\nComments URL: https://news.ycombinator.com/item?id=49444174\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T05:07:06.855Z",
+    "published": "Wed, 26 Aug 2026 05:00:35 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T05:09:35.417Z"
+  },
+  {
+    "url": "https://ollama.com/blog/claude-desktop",
+    "title": "Run Open Models on Claude Desktop",
+    "description": "Article URL: https://ollama.com/blog/claude-desktop\nComments URL: https://news.ycombinator.com/item?id=49444111\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T05:07:06.855Z",
+    "published": "Wed, 26 Aug 2026 04:05:12 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T05:09:35.417Z"
+  },
+  {
+    "url": "https://kraftapp.ai",
+    "title": "Kraftapp AI – Describe it. We build it. Customers find it",
+    "description": "Article URL: https://kraftapp.ai\nComments URL: https://news.ycombinator.com/item?id=49444073\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T05:07:06.855Z",
+    "published": "Wed, 26 Aug 2026 03:59:56 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T05:09:35.417Z"
+  },
+  {
+    "url": "https://github.com/opscart/docker-security-practical-guide",
+    "title": "Show HN: Hands-on Docker security labs, from CIS checks to AI context poisoning",
+    "description": "Article URL: https://github.com/opscart/docker-security-practical-guide\nComments URL: https://news.ycombinator.com/item?id=49444057\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T05:07:06.855Z",
+    "published": "Wed, 26 Aug 2026 03:56:32 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T05:09:35.417Z"
+  },
+  {
+    "url": "https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026",
+    "title": "Students prefer Gemini over ChatGPT and Claude for AI essays in blind tests",
+    "description": "Article URL: https://studyarena.com/blog/chatgpt-vs-claude-vs-gemini-college-essays-2026\nComments URL: https://news.ycombinator.com/item?id=49443871\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T05:07:06.855Z",
+    "published": "Wed, 26 Aug 2026 03:23:50 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49443800",
+    "title": "What platform has the best AI CMO?",
+    "description": "I've seen heycatch and okara, maybe a few others like it... seems like they plug into reddit api and provide ai ugc tools. Does anyone have any success using tools like these? I wouldn't imagine much, but I wanted to get a temperature check. What's working, whats not?\n\nComments URL: https://news.yc",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T05:07:06.855Z",
+    "published": "Wed, 26 Aug 2026 03:13:26 +0000"
   }
 ]
