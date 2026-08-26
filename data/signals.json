@@ -39630,5 +39630,204 @@
     "published": "Wed, 26 Aug 2026 14:44:47 +0000",
     "processed": true,
     "processedAt": "2026-08-26T14:54:04.392Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+    "title": "Radar makes podcasts searchable — and usable by AI agents",
+    "description": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-26T16:23:09.805Z",
+    "published": "Wed, 26 Aug 2026 15:47:28 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T16:25:42.395Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+    "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+    "description": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-26T16:23:09.805Z",
+    "published": "Wed, 26 Aug 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T16:25:42.395Z"
+  },
+  {
+    "url": "https://reactormag.com/the-importance-of-reading-and-teaching-cyberpunk-in-the-age-of-ai/",
+    "title": "The Importance of Reading (and Teaching) Cyberpunk in the Age of AI",
+    "description": "Article URL: https://reactormag.com/the-importance-of-reading-and-teaching-cyberpunk-in-the-age-of-ai/\nComments URL: https://news.ycombinator.com/item?id=49451720\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T16:23:15.400Z",
+    "published": "Wed, 26 Aug 2026 16:22:29 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T16:25:42.395Z"
+  },
+  {
+    "url": "https://github.com/callumreid/cow_code",
+    "title": "CowCode- OpenCode Fork with UI Like ChatGPT/Claude Desktop",
+    "description": "Article URL: https://github.com/callumreid/cow_code\nComments URL: https://news.ycombinator.com/item?id=49451718\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T16:23:15.400Z",
+    "published": "Wed, 26 Aug 2026 16:22:23 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T16:25:42.395Z"
+  },
+  {
+    "url": "https://bumbletap.com/blog/chrome-auto-browse-hard-part",
+    "title": "Chrome Auto Browse: The Hard Part Isn't the AI",
+    "description": "Article URL: https://bumbletap.com/blog/chrome-auto-browse-hard-part\nComments URL: https://news.ycombinator.com/item?id=49451627\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T16:23:15.400Z",
+    "published": "Wed, 26 Aug 2026 16:15:22 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T16:25:42.395Z"
+  },
+  {
+    "url": "https://tech-scraper-suite-2ygx4en4upe5gxtqh7truy.streamlit.app/",
+    "title": "Tech Lead Intelligence – Async Python Scraping Suite YC, ATS Jobs, and AI Models",
+    "description": "Article URL: https://tech-scraper-suite-2ygx4en4upe5gxtqh7truy.streamlit.app/\nComments URL: https://news.ycombinator.com/item?id=49451513\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T16:23:15.400Z",
+    "published": "Wed, 26 Aug 2026 16:07:37 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.14825",
+    "title": "Emergent Misaligned Communication in Long-Horizon Multi-Agent LLM Commerce",
+    "description": "Article URL: https://arxiv.org/abs/2608.14825\nComments URL: https://news.ycombinator.com/item?id=49451451\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T16:23:15.400Z",
+    "published": "Wed, 26 Aug 2026 16:03:51 +0000"
+  },
+  {
+    "url": "https://academy.dair.ai/resources/write-your-first-agent-skill",
+    "title": "Interactive AI Tutorials: Build Agent Skills",
+    "description": "Article URL: https://academy.dair.ai/resources/write-your-first-agent-skill\nComments URL: https://news.ycombinator.com/item?id=49451328\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T16:23:15.400Z",
+    "published": "Wed, 26 Aug 2026 15:56:01 +0000"
+  },
+  {
+    "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+    "title": "The AI-Native SDLC Playbook",
+    "description": "Article URL: https://claude.com/blog/the-ai-native-sdlc-playbook\nComments URL: https://news.ycombinator.com/item?id=49451263\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T16:23:15.400Z",
+    "published": "Wed, 26 Aug 2026 15:52:32 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=uyzqxIoiobU",
+    "title": "Why AI Is About to Get 1000x Cheaper",
+    "description": "Article URL: https://www.youtube.com/watch?v=uyzqxIoiobU\nComments URL: https://news.ycombinator.com/item?id=49451149\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T16:23:15.400Z",
+    "published": "Wed, 26 Aug 2026 15:45:38 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=LFnu0iYwDFc",
+    "title": "Meta's plan to restructure teams with AI imploded [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=LFnu0iYwDFc\nComments URL: https://news.ycombinator.com/item?id=49451116\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T16:23:15.400Z",
+    "published": "Wed, 26 Aug 2026 15:43:41 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=GEkoGCFpY8c",
+    "title": "How to stay positive (in the age of AI)",
+    "description": "Article URL: https://www.youtube.com/watch?v=GEkoGCFpY8c\nComments URL: https://news.ycombinator.com/item?id=49451013\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T16:23:15.400Z",
+    "published": "Wed, 26 Aug 2026 15:37:41 +0000"
+  },
+  {
+    "url": "https://github.com/chuofringer/placeroot",
+    "title": "PlaceRoot – keyless map tools for AI agents (places, geocode, routing)",
+    "description": "Article URL: https://github.com/chuofringer/placeroot\nComments URL: https://news.ycombinator.com/item?id=49450982\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T16:23:15.400Z",
+    "published": "Wed, 26 Aug 2026 15:35:57 +0000"
+  },
+  {
+    "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
+    "title": "It's so hard to finish an idea that is not yours (and suggested by AI)",
+    "description": "Article URL: https://www.ssp.sh/brain/using-obsidian-with-ai/\nComments URL: https://news.ycombinator.com/item?id=49450898\nPoints: 17\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T16:23:15.400Z",
+    "published": "Wed, 26 Aug 2026 15:30:05 +0000"
+  },
+  {
+    "url": "https://withmin.ai/",
+    "title": "Show HN: Min – Personal AI Quant",
+    "description": "Article URL: https://withmin.ai/\nComments URL: https://news.ycombinator.com/item?id=49450781\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T16:23:15.400Z",
+    "published": "Wed, 26 Aug 2026 15:22:46 +0000"
+  },
+  {
+    "url": "https://openai.com/index/building-an-ai-native-finance-function/",
+    "title": "What building an AI-native finance function taught me",
+    "description": "Article URL: https://openai.com/index/building-an-ai-native-finance-function/\nComments URL: https://news.ycombinator.com/item?id=49450760\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T16:23:15.400Z",
+    "published": "Wed, 26 Aug 2026 15:21:48 +0000"
+  },
+  {
+    "url": "https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+    "title": "The turbulent AI era is here. The choices we make now are critical",
+    "description": "Article URL: https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make\nComments URL: https://news.ycombinator.com/item?id=49450672\nPoints: 3\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T16:23:15.400Z",
+    "published": "Wed, 26 Aug 2026 15:17:10 +0000"
+  },
+  {
+    "url": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/",
+    "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
+    "description": "Article URL: https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/\nComments URL: https://news.ycombinator.com/item?id=49450417\nPoints: 37\n# Comments: 30",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T16:23:15.400Z",
+    "published": "Wed, 26 Aug 2026 15:02:15 +0000"
+  },
+  {
+    "url": "https://beetles-ai.streamlit.app/",
+    "title": "Beetles AI",
+    "description": "Article URL: https://beetles-ai.streamlit.app/\nComments URL: https://news.ycombinator.com/item?id=49450286\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T16:23:15.400Z",
+    "published": "Wed, 26 Aug 2026 14:55:50 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/google-pixel-11-review/",
+    "title": "Google Pixel 11 Review: Why the base model is still my favorite, even this year",
+    "description": "In a year of iterative upgrades, Google is introducing smart features that make the base Pixel still the one to buy for most people.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-26T16:23:36.300Z",
+    "published": "Wed, 26 Aug 2026 15:55:00 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/ransomware-july-victim-count-spiked-in-july-but-whats-behind-it/",
+    "title": "July was the worst month for ransomware victim claims in 2026 - or was it?",
+    "description": "We shouldn't ignore agentic AI ransomware threats, but the claims of a new ransomware group might be skewing the numbers.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-26T16:23:36.301Z",
+    "published": "Wed, 26 Aug 2026 15:00:40 GMT"
   }
 ]
