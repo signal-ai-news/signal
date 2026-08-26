@@ -39147,5 +39147,87 @@
     "category": "community",
     "discovered": "2026-08-26T08:52:27.302Z",
     "published": "Wed, 26 Aug 2026 07:56:12 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+    "title": "Raised on AI",
+    "description": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet.&#160; F",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-26T09:50:18.968Z",
+    "published": "Wed, 26 Aug 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T09:53:01.008Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+    "title": "AI models flub these intelligence tests. Can you fare any better?",
+    "description": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IB",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-26T09:50:18.968Z",
+    "published": "Wed, 26 Aug 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T09:53:01.008Z"
+  },
+  {
+    "url": "https://www.theedgesingapore.com/news/artificial-intelligence/chinas-zai-made-ox-alpha-stealth-model-rivals-deepseek",
+    "title": "China's Z.AI made Ox Alpha stealth model that rivals DeepSeek",
+    "description": "Article URL: https://www.theedgesingapore.com/news/artificial-intelligence/chinas-zai-made-ox-alpha-stealth-model-rivals-deepseek\nComments URL: https://news.ycombinator.com/item?id=49446312\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T09:50:23.355Z",
+    "published": "Wed, 26 Aug 2026 09:48:22 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T09:53:01.008Z"
+  },
+  {
+    "url": "https://mrkt30.com/deepseek-v4-flash-overtaking-american-ai-models/",
+    "title": "Is DeepSeek-V4-Flash Overtaking American AI Models?",
+    "description": "Article URL: https://mrkt30.com/deepseek-v4-flash-overtaking-american-ai-models/\nComments URL: https://news.ycombinator.com/item?id=49446301\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T09:50:23.355Z",
+    "published": "Wed, 26 Aug 2026 09:47:03 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T09:53:01.008Z"
+  },
+  {
+    "url": "https://allende.nz/notes/fourteen-months-micromanaging-ai-coding-agents/",
+    "title": "Fourteen months micromanaging AI coding agents",
+    "description": "Article URL: https://allende.nz/notes/fourteen-months-micromanaging-ai-coding-agents/\nComments URL: https://news.ycombinator.com/item?id=49446273\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T09:50:23.355Z",
+    "published": "Wed, 26 Aug 2026 09:42:59 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T09:53:01.008Z"
+  },
+  {
+    "url": "https://github.com/peterretief/emailai/tree/main",
+    "title": "AI-powered email agent that syncs your emails via IMAP",
+    "description": "Article URL: https://github.com/peterretief/emailai/tree/main\nComments URL: https://news.ycombinator.com/item?id=49446159\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T09:50:23.355Z",
+    "published": "Wed, 26 Aug 2026 09:28:40 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-effectively-solve-100-tasks-with-claude-code/",
+    "title": "How to Effectively Solve 100+ Tasks with Claude Code",
+    "description": "Work more effectively with your coding agents\nThe post How to Effectively Solve 100+ Tasks with Claude Code appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-26T09:50:28.926Z",
+    "published": "Wed, 26 Aug 2026 09:00:02 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/how-to-turn-your-monitor-into-a-tv/",
+    "title": "Have an old PC monitor laying around? Turning it into a TV is easier than you think",
+    "description": "Give your old monitor a second chance at life as a dedicated streaming screen or over-the-air TV with just a few simple steps.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-26T09:50:54.468Z",
+    "published": "Wed, 26 Aug 2026 09:30:58 GMT"
   }
 ]
