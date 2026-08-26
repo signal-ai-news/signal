@@ -10071,7 +10071,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-07-30T16:07:37.991Z",
-    "published": "Thu, 30 Jul 2026 10:30:00 +0000"
+    "published": "Thu, 30 Jul 2026 10:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T06:03:53.928Z"
   },
   {
     "url": "https://www.wired.com/story/how-linkedin-is-keeping-its-compute-capacity-flat/",
@@ -10080,7 +10082,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-07-30T16:07:37.991Z",
-    "published": "Thu, 30 Jul 2026 10:15:00 +0000"
+    "published": "Thu, 30 Jul 2026 10:15:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T06:03:53.928Z"
   },
   {
     "url": "https://www.zdnet.com/article/state-of-field-service-and-ai-adoption/",
@@ -10089,7 +10093,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-30T16:07:44.181Z",
-    "published": "Thu, 30 Jul 2026 15:32:27 GMT"
+    "published": "Thu, 30 Jul 2026 15:32:27 GMT",
+    "processed": true,
+    "processedAt": "2026-08-26T06:03:53.928Z"
   },
   {
     "url": "https://www.zdnet.com/article/google-earth-added-nano-banana-and-i-immediately-reimagined-philly-with-zombies-and-evil-clowns/",
@@ -10098,7 +10104,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-30T16:07:44.181Z",
-    "published": "Thu, 30 Jul 2026 12:30:02 GMT"
+    "published": "Thu, 30 Jul 2026 12:30:02 GMT",
+    "processed": true,
+    "processedAt": "2026-08-26T06:03:53.928Z"
   },
   {
     "url": "https://www.zdnet.com/article/bleachbit-free-windows-utility-free-up-disk-space/",
@@ -10107,7 +10115,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-30T16:07:44.181Z",
-    "published": "Thu, 30 Jul 2026 12:25:28 GMT"
+    "published": "Thu, 30 Jul 2026 12:25:28 GMT",
+    "processed": true,
+    "processedAt": "2026-08-26T06:03:53.928Z"
   },
   {
     "url": "https://www.engadget.com/2227094/google-says-it-has-fixed-a-pixel-battery-drain-issue-but-some-users-disagree/",
