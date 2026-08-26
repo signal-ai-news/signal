@@ -10126,7 +10126,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-30T16:07:44.758Z",
-    "published": "Thu, 30 Jul 2026 16:02:59 +0000"
+    "published": "Thu, 30 Jul 2026 16:02:59 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T07:04:26.588Z"
   },
   {
     "url": "https://www.engadget.com/2222920/google-voice-paid-subscriptions-more-than-just-phone-number/",
@@ -10135,7 +10137,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-30T16:07:44.758Z",
-    "published": "Thu, 30 Jul 2026 15:30:00 +0000"
+    "published": "Thu, 30 Jul 2026 15:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T07:04:26.588Z"
   },
   {
     "url": "https://www.engadget.com/2226876/lego-pokmon-smart-play-hands-on/",
@@ -10144,7 +10148,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-30T16:07:44.758Z",
-    "published": "Thu, 30 Jul 2026 13:00:00 +0000"
+    "published": "Thu, 30 Jul 2026 13:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T07:04:26.588Z"
   },
   {
     "url": "https://www.engadget.com/2225859/maingear-introduces-new-lineup-of-hidden-cable-zero-pre-built-pcs/",
@@ -10153,7 +10159,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-30T16:07:44.758Z",
-    "published": "Thu, 30 Jul 2026 12:30:00 +0000"
+    "published": "Thu, 30 Jul 2026 12:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T07:04:26.588Z"
   },
   {
     "url": "https://www.engadget.com/2226451/nano-banana-image-generation-comes-to-google-earth/",
@@ -38883,5 +38891,16 @@
     "category": "community",
     "discovered": "2026-08-26T05:07:06.855Z",
     "published": "Wed, 26 Aug 2026 03:13:26 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/is-agentic-ai-just-automation/",
+    "title": "Is Agentic AI Just Automation?",
+    "description": "Why most agents are just flowcharts in disguise, and what to build instead.\nThe post Is Agentic AI Just Automation? appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-26T07:01:59.614Z",
+    "published": "Wed, 26 Aug 2026 06:00:02 GMT",
+    "processed": true,
+    "processedAt": "2026-08-26T07:04:26.589Z"
   }
 ]
