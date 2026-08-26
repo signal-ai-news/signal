@@ -10027,7 +10027,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-30T16:07:31.917Z",
-    "published": "Thu, 30 Jul 2026 13:11:48 +0000"
+    "published": "Thu, 30 Jul 2026 13:11:48 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T04:14:06.239Z"
   },
   {
     "url": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats/",
@@ -10036,7 +10038,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-30T16:07:31.917Z",
-    "published": "Thu, 30 Jul 2026 12:47:46 +0000"
+    "published": "Thu, 30 Jul 2026 12:47:46 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T04:14:06.239Z"
   },
   {
     "url": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/",
@@ -10045,7 +10049,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-07-30T16:07:37.991Z",
-    "published": "Thu, 30 Jul 2026 16:00:00 +0000"
+    "published": "Thu, 30 Jul 2026 16:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T04:14:06.239Z"
   },
   {
     "url": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
@@ -10054,7 +10060,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-07-30T16:07:37.991Z",
-    "published": "Thu, 30 Jul 2026 15:04:22 +0000"
+    "published": "Thu, 30 Jul 2026 15:04:22 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T04:14:06.239Z"
   },
   {
     "url": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
@@ -38781,5 +38789,16 @@
     "published": "Wed, 26 Aug 2026 00:11:25 +0000",
     "processed": true,
     "processedAt": "2026-08-26T03:14:38.343Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+    "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+    "description": "Ringg has raised $10 million from Peak XV as a part of its Series A extension.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-26T04:11:34.441Z",
+    "published": "Wed, 26 Aug 2026 03:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T04:14:06.240Z"
   }
 ]
