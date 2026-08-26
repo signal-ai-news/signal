@@ -38726,5 +38726,60 @@
     "published": "Wed, 26 Aug 2026 00:06:20 +0000",
     "processed": true,
     "processedAt": "2026-08-26T01:48:27.457Z"
+  },
+  {
+    "url": "https://gist.github.com/mudiam/1ffc898333ac3d5bdc5d7fac96d33360",
+    "title": "Darkbloom (AI inference on idle Macs) – security audit with PRs submitted",
+    "description": "Article URL: https://gist.github.com/mudiam/1ffc898333ac3d5bdc5d7fac96d33360\nComments URL: https://news.ycombinator.com/item?id=49443728\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T03:12:12.382Z",
+    "published": "Wed, 26 Aug 2026 03:03:02 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T03:14:38.343Z"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.20732",
+    "title": "Dependencies in the LLM API Reseller Ecosystem",
+    "description": "Article URL: https://arxiv.org/abs/2608.20732\nComments URL: https://news.ycombinator.com/item?id=49443318\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T03:12:12.382Z",
+    "published": "Wed, 26 Aug 2026 02:07:06 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T03:14:38.343Z"
+  },
+  {
+    "url": "https://www.patreon.com/MacSurf/posts/how-i-automated-167688725",
+    "title": "How I Automated CodeWarrior with Claude, AppleScript, and SSH",
+    "description": "Article URL: https://www.patreon.com/MacSurf/posts/how-i-automated-167688725\nComments URL: https://news.ycombinator.com/item?id=49442805\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T03:12:12.382Z",
+    "published": "Wed, 26 Aug 2026 00:47:44 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T03:14:38.343Z"
+  },
+  {
+    "url": "https://www.servethehome.com/microsofts-maia-200-accelerator-at-hot-chips-2026/",
+    "title": "Microsoft's Maia 200 AI Accelerator at Hot Chips 2026",
+    "description": "Article URL: https://www.servethehome.com/microsofts-maia-200-accelerator-at-hot-chips-2026/\nComments URL: https://news.ycombinator.com/item?id=49442682\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T03:12:12.382Z",
+    "published": "Wed, 26 Aug 2026 00:33:36 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T03:14:38.343Z"
+  },
+  {
+    "url": "https://msukhareva.substack.com/p/ai-realist-radar-gpt56-sol-pricing",
+    "title": "AI Realist Radar:GPT‑5.6 Sol Pricing, Stripe's OpenRouter Deal",
+    "description": "Article URL: https://msukhareva.substack.com/p/ai-realist-radar-gpt56-sol-pricing\nComments URL: https://news.ycombinator.com/item?id=49442514\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-26T03:12:12.382Z",
+    "published": "Wed, 26 Aug 2026 00:11:25 +0000",
+    "processed": true,
+    "processedAt": "2026-08-26T03:14:38.343Z"
   }
 ]
