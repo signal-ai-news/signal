@@ -40282,5 +40282,105 @@
     "category": "news",
     "discovered": "2026-08-27T00:37:51.002Z",
     "published": "Wed, 26 Aug 2026 21:54:58 +0000"
+  },
+  {
+    "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "title": "Expanding OpenAI’s presence in Brazil",
+    "description": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-27T11:05:36.882Z",
+    "published": "Thu, 27 Aug 2026 03:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-27T11:08:27.107Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+    "title": "Nvidia closes in on Hugging Face acquisition",
+    "description": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-27T11:05:41.098Z",
+    "published": "Thu, 27 Aug 2026 06:32:51 +0000",
+    "processed": true,
+    "processedAt": "2026-08-27T11:08:27.107Z"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-locks-in-45-billion-dollar-compute-deal-with-nscale-ahead-of-ipo/",
+    "title": "Anthropic locks in 45-billion-dollar compute deal with Nscale ahead of IPO",
+    "description": "Anthropic has struck a deal worth around 45 billion dollars with British cloud startup Nscale, Bloomberg reports.\nThe article Anthropic locks in 45-billion-dollar compute deal with Nscale ahead of IPO appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-27T11:06:06.145Z",
+    "published": "Thu, 27 Aug 2026 10:49:35 +0000",
+    "processed": true,
+    "processedAt": "2026-08-27T11:08:27.107Z"
+  },
+  {
+    "url": "https://the-decoder.com/googles-gemini-3-5-transcribe-turns-speech-to-text-in-85-languages-while-auto-correcting-your-verbal-stumbles/",
+    "title": "Google's Gemini 3.5 Transcribe turns speech to text in 85 languages while auto-correcting your verbal stumbles",
+    "description": "Google's new Gemini 3.5 Transcribe recognizes over 85 languages, strips filler words, and corrects slips of the tongue in real time. It hits a 4.0 percent word error rate in streaming mode, with 70 percent lower latency than its predecessor, Chirp 3. Through function calling, the model can",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-27T11:06:06.145Z",
+    "published": "Thu, 27 Aug 2026 10:40:08 +0000",
+    "processed": true,
+    "processedAt": "2026-08-27T11:08:27.107Z"
+  },
+  {
+    "url": "https://the-decoder.com/the-chinese-ai-model-glm-5-3-flash-runs-without-nvidia-and-costs-a-fraction-of-what-the-competition-does/",
+    "title": "GLM-5.3-Flash matches top models at a fraction of the cost, and runs without Nvidia",
+    "description": "Z.ai releases GLM-5.3-Flash, an open-source model with 320 billion parameters that lands just three points behind the larger GLM-5.3 on Artificial Analysis's Intelligence Index, at a seventh of the cost. What's notable is that all of the inference traffic ran on Chinese AI chips instead of",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-27T11:06:06.145Z",
+    "published": "Thu, 27 Aug 2026 10:24:49 +0000",
+    "processed": true,
+    "processedAt": "2026-08-27T11:08:27.107Z"
+  },
+  {
+    "url": "https://the-decoder.com/claude-cowork-now-runs-its-own-browser-inside-the-desktop-app/",
+    "title": "Claude Cowork now runs its own browser inside the desktop app",
+    "description": "Anthropic is building its own browser into Claude Cowork, running inside the desktop app.\nThe article Claude Cowork now runs its own browser inside the desktop app appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-27T11:06:06.145Z",
+    "published": "Thu, 27 Aug 2026 09:54:46 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/nvidia-snaps-up-hugging-face-for-12-9-billion-as-closed-ai-labs-pull-away/",
+    "title": "Nvidia snaps up Hugging Face for $12.9 billion as closed AI labs pull away",
+    "description": "Nvidia is buying open-source AI platform Hugging Face for $12.9 billion, about 80 times its $150 million annual revenue. The deal fits Nvidia's push to invest billions in open AI models while closed providers like OpenAI and Anthropic move away from Nvidia hardware.\nThe article Nvidia snaps",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-27T11:06:06.145Z",
+    "published": "Thu, 27 Aug 2026 07:14:38 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/relay-q-voice-to-text-ai-app/",
+    "title": "Stop Touching Your Keyboard. Use This AI-Powered Microphone Instead",
+    "description": "The Relay Q, due next year, is the latest attempt to reposition voice as the most seamless method for human-computer interaction.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-27T11:06:12.867Z",
+    "published": "Thu, 27 Aug 2026 10:30:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/",
+    "title": "The UK Power Grid Has a Phantom Data Center Problem",
+    "description": "The UK’s energy regulator is using a variety of tricks to keep speculative data center projects from plugging into the power grid. The country’s AI ambitions hang in the balance.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-27T11:06:12.867Z",
+    "published": "Thu, 27 Aug 2026 06:00:00 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/best-ipad-air-case/",
+    "title": "The best iPad Air cases of 2026: Expert tested",
+    "description": "The right case can take your iPad Air to the next level. These are our favorite iPad Air cases from brands like Apple, Burga, and Logitech.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-27T11:06:19.264Z",
+    "published": "Thu, 27 Aug 2026 09:00:47 GMT"
   }
 ]
