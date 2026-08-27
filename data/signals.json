@@ -40382,5 +40382,600 @@
     "category": "news",
     "discovered": "2026-08-27T11:06:19.264Z",
     "published": "Thu, 27 Aug 2026 09:00:47 GMT"
+  },
+  {
+    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "description": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-27T21:07:15.093Z",
+    "published": "Thu, 27 Aug 2026 09:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-27T21:09:58.968Z"
+  },
+  {
+    "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+    "title": "3 new ways to plan and book travel in Search",
+    "description": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-08-27T21:07:16.743Z",
+    "published": "Thu, 27 Aug 2026 16:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-27T21:09:58.968Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+    "title": "Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google",
+    "description": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:18.759Z",
+    "published": "Thu, 27 Aug 2026 19:52:52 +0000",
+    "processed": true,
+    "processedAt": "2026-08-27T21:09:58.968Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+    "description": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:18.759Z",
+    "published": "Thu, 27 Aug 2026 17:43:24 +0000",
+    "processed": true,
+    "processedAt": "2026-08-27T21:09:58.968Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+    "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+    "description": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:18.759Z",
+    "published": "Thu, 27 Aug 2026 16:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-27T21:09:58.968Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+    "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+    "description": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:18.759Z",
+    "published": "Thu, 27 Aug 2026 14:56:52 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+    "title": "AI’s memory crunch is coming for Android apps",
+    "description": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:18.759Z",
+    "published": "Thu, 27 Aug 2026 14:27:04 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+    "title": "Here’s all the times AI has gone rogue and hacked other companies",
+    "description": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:18.759Z",
+    "published": "Thu, 27 Aug 2026 14:01:42 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+    "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+    "description": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:18.759Z",
+    "published": "Thu, 27 Aug 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+    "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+    "description": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:18.759Z",
+    "published": "Thu, 27 Aug 2026 11:35:59 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+    "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+    "description": "227 install commands were found in corporate docs pointing at code nobody owns.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:19.401Z",
+    "published": "Thu, 27 Aug 2026 14:00:13 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+    "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+    "description": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:19.401Z",
+    "published": "Thu, 27 Aug 2026 12:58:59 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
+    "title": "A startup claims it’s found a drug to make your blood young",
+    "description": "I knew I’d officially become a ‘longevity influencer’ this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment,&#160;an injectable combination of two existing drugs which they call 1-Generation. This wasn’t ju",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:20.123Z",
+    "published": "Thu, 27 Aug 2026 19:48:13 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+    "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvertently tr",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:20.123Z",
+    "published": "Thu, 27 Aug 2026 12:10:00 +0000"
+  },
+  {
+    "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+    "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+    "description": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don&#x27;t deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reaching into applications",
+    "source": "VentureBeat AI",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:20.926Z",
+    "published": "Thu, 27 Aug 2026 14:01:00 GMT"
+  },
+  {
+    "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+    "title": "When agents act on their own, governance has to live in the data layer",
+    "description": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never authorized to do, wha",
+    "source": "VentureBeat AI",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:20.926Z",
+    "published": "Thu, 27 Aug 2026 12:01:00 GMT"
+  },
+  {
+    "url": "https://devblogs.microsoft.com/visualstudio/unlocking-the-power-of-ai-for-every-developer-in-visual-studio-with-bring-your-own-model/",
+    "title": "Unlocking the Power of AI in Visual Studio with Bring Your Own Model",
+    "description": "Article URL: https://devblogs.microsoft.com/visualstudio/unlocking-the-power-of-ai-for-every-developer-in-visual-studio-with-bring-your-own-model/\nComments URL: https://news.ycombinator.com/item?id=49471240\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-27T21:07:27.294Z",
+    "published": "Thu, 27 Aug 2026 21:04:32 +0000"
+  },
+  {
+    "url": "https://github.com/sv-grid/sv-grid",
+    "title": "Show HN: SvGrid – a Svelte 5 data grid an AI can drive to build a full app",
+    "description": "Article URL: https://github.com/sv-grid/sv-grid\nComments URL: https://news.ycombinator.com/item?id=49471036\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-27T21:07:27.294Z",
+    "published": "Thu, 27 Aug 2026 20:48:07 +0000"
+  },
+  {
+    "url": "https://twitter.com/AnneliesGamble/status/2087259132667810162",
+    "title": "The Frictions That Make AI Forecasting Hard",
+    "description": "Article URL: https://twitter.com/AnneliesGamble/status/2087259132667810162\nComments URL: https://news.ycombinator.com/item?id=49470980\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-27T21:07:27.294Z",
+    "published": "Thu, 27 Aug 2026 20:43:48 +0000"
+  },
+  {
+    "url": "https://pydantic.dev/docs/ai/overview/",
+    "title": "Pydantic AI",
+    "description": "Article URL: https://pydantic.dev/docs/ai/overview/\nComments URL: https://news.ycombinator.com/item?id=49470954\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-27T21:07:27.294Z",
+    "published": "Thu, 27 Aug 2026 20:42:06 +0000"
+  },
+  {
+    "url": "https://venturebeat.com/orchestration/salesforce-just-put-its-entire-crm-inside-claude-and-says-youll-never-need-its-app-again",
+    "title": "Salesforce puts its CRM inside Claude – says you won't need the app",
+    "description": "Article URL: https://venturebeat.com/orchestration/salesforce-just-put-its-entire-crm-inside-claude-and-says-youll-never-need-its-app-again\nComments URL: https://news.ycombinator.com/item?id=49470629\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-27T21:07:27.294Z",
+    "published": "Thu, 27 Aug 2026 20:18:48 +0000"
+  },
+  {
+    "url": "https://www.businessinsider.com/meta-hatch-personal-ai-agent-capabilities-employees-memo-2026-8",
+    "title": "Meta memo reveals what its new 'Hatch' AI agent can do",
+    "description": "Article URL: https://www.businessinsider.com/meta-hatch-personal-ai-agent-capabilities-employees-memo-2026-8\nComments URL: https://news.ycombinator.com/item?id=49470552\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-27T21:07:27.294Z",
+    "published": "Thu, 27 Aug 2026 20:11:29 +0000"
+  },
+  {
+    "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+    "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+    "description": "Article URL: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/\nComments URL: https://news.ycombinator.com/item?id=49470539\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-27T21:07:27.294Z",
+    "published": "Thu, 27 Aug 2026 20:10:38 +0000"
+  },
+  {
+    "url": "https://promptic.us/",
+    "title": "Show HN: Discover and share AI prompts and MCP servers",
+    "description": "Article URL: https://promptic.us/\nComments URL: https://news.ycombinator.com/item?id=49470528\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-27T21:07:27.294Z",
+    "published": "Thu, 27 Aug 2026 20:09:57 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Lf5oqGOCRCM",
+    "title": "A Man Who Calls BS on AI: They're Lying About AI, 2027 Is When It All Breaks [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=Lf5oqGOCRCM\nComments URL: https://news.ycombinator.com/item?id=49470486\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-27T21:07:27.294Z",
+    "published": "Thu, 27 Aug 2026 20:06:00 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
+    "title": "AI industry says Trump plans to tax chips in the \"single dumbest way imaginable\"",
+    "description": "Article URL: https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/\nComments URL: https://news.ycombinator.com/item?id=49470366\nPoints: 8\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-27T21:07:27.294Z",
+    "published": "Thu, 27 Aug 2026 19:57:24 +0000"
+  },
+  {
+    "url": "https://www.openui.com/benchmarks",
+    "title": "Benchmark for LLM Generated UI",
+    "description": "Article URL: https://www.openui.com/benchmarks\nComments URL: https://news.ycombinator.com/item?id=49470263\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-27T21:07:27.294Z",
+    "published": "Thu, 27 Aug 2026 19:50:09 +0000"
+  },
+  {
+    "url": "https://time.com/collection/time100-ai/2026/",
+    "title": "TIME100 AI 2026",
+    "description": "Article URL: https://time.com/collection/time100-ai/2026/\nComments URL: https://news.ycombinator.com/item?id=49470244\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-27T21:07:27.294Z",
+    "published": "Thu, 27 Aug 2026 19:48:53 +0000"
+  },
+  {
+    "url": "https://tante.cc/2026/08/27/ai-centralization/",
+    "title": "\"AI\" Centralization",
+    "description": "Article URL: https://tante.cc/2026/08/27/ai-centralization/\nComments URL: https://news.ycombinator.com/item?id=49470223\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-27T21:07:27.294Z",
+    "published": "Thu, 27 Aug 2026 19:47:30 +0000"
+  },
+  {
+    "url": "https://baronca.substack.com/p/size-matters",
+    "title": "AI populations need to be studied as populations",
+    "description": "Article URL: https://baronca.substack.com/p/size-matters\nComments URL: https://news.ycombinator.com/item?id=49470210\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-27T21:07:27.294Z",
+    "published": "Thu, 27 Aug 2026 19:45:54 +0000"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/newsletters/2026-02-04/new-ai-fear-unlocked-as-traders-ditch-companies-at-risk-of-disruption",
+    "title": "New AI Fear Unlocked as Traders Ditch Companies at Risk of Disruption",
+    "description": "Article URL: https://www.bloomberg.com/news/newsletters/2026-02-04/new-ai-fear-unlocked-as-traders-ditch-companies-at-risk-of-disruption\nComments URL: https://news.ycombinator.com/item?id=49470201\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-27T21:07:27.294Z",
+    "published": "Thu, 27 Aug 2026 19:45:08 +0000"
+  },
+  {
+    "url": "https://hitikadalwadi.substack.com/p/different-hats-i-wear-as-an-ai-engineer",
+    "title": "Different hats I wear as an AI Engineer",
+    "description": "Article URL: https://hitikadalwadi.substack.com/p/different-hats-i-wear-as-an-ai-engineer\nComments URL: https://news.ycombinator.com/item?id=49470054\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-27T21:07:27.294Z",
+    "published": "Thu, 27 Aug 2026 19:32:32 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49469914",
+    "title": "Ask HN: Should we disclose AI use in our work?",
+    "description": "Tim O'Reilly just published an essay arguing that AI is a medium, like photography or painting. His key line: \"I judge the output, not the means used to produce it.\"He describes his own process: a 300-word prompt becomes a 660-word draft, which he rewrites into a 3,000-word essay. Maybe 40-50 words",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-27T21:07:27.294Z",
+    "published": "Thu, 27 Aug 2026 19:21:26 +0000"
+  },
+  {
+    "url": "https://github.com/Ut8v/apronagents",
+    "title": "Show HN: Apronagents – give each AI coding agent a disposable Git remote",
+    "description": "Article URL: https://github.com/Ut8v/apronagents\nComments URL: https://news.ycombinator.com/item?id=49469859\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-27T21:07:27.294Z",
+    "published": "Thu, 27 Aug 2026 19:17:20 +0000"
+  },
+  {
+    "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+    "title": "Gemini Omni 1.1 Flash lets you build with more control",
+    "description": "",
+    "source": "DeepMind Blog",
+    "category": "llm",
+    "discovered": "2026-08-27T21:07:29.364Z",
+    "published": "Thu, 27 Aug 2026 16:11:32 +0000"
+  },
+  {
+    "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+    "title": "Piloting the world's first double-blind AI evaluations",
+    "description": "Piloting the world's first double-blind AI evaluations",
+    "source": "DeepMind Blog",
+    "category": "llm",
+    "discovered": "2026-08-27T21:07:29.364Z",
+    "published": "Thu, 27 Aug 2026 12:59:16 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/the-sigmoid-function-from-e-to-neural-networks/",
+    "title": "The Sigmoid Function: From 'e' to Neural Networks",
+    "description": "We use the equation all the time. But where did it actually come from?\nThe post The Sigmoid Function: From 'e' to Neural Networks appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-27T21:07:33.351Z",
+    "published": "Thu, 27 Aug 2026 18:35:01 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/i-trained-six-models-for-fraud-detection-and-the-best-one-isnt-in-production/",
+    "title": "I Trained Six Models for Fraud Detection, and the Best One Isn't in Production",
+    "description": "What a final-year project taught me about the gap between evaluation metrics and production decisions\nThe post I Trained Six Models for Fraud Detection, and the Best One Isn't in Production appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-27T21:07:33.351Z",
+    "published": "Thu, 27 Aug 2026 17:05:01 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/agentic-ai-is-rewriting-the-analytics-stack-but-theres-one-skill-it-still-cant-touch/",
+    "title": "Agentic AI Is Rewriting The Analytics Stack But There's One Skill It Still Can't Touch",
+    "description": "As AI handles more of the execution, what work should belong to agents vs humans and why does that distinction matter?\nThe post Agentic AI Is Rewriting The Analytics Stack But There's One Skill It Still Can't Touch appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-27T21:07:33.351Z",
+    "published": "Thu, 27 Aug 2026 15:30:02 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-work-with-ai-coding-agents/",
+    "title": "How to Work with AI Coding Agents",
+    "description": "A practical guide to getting better code, not just more code\nThe post How to Work with AI Coding Agents appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-27T21:07:33.351Z",
+    "published": "Thu, 27 Aug 2026 14:00:01 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/stop-giving-your-ai-agent-a-search-box-and-start-giving-it-typed-tools-hard-bounds-and-a-gate-it-cannot-talk-past/",
+    "title": "Stop Giving Your AI Agent a Search Box and Start Giving It Typed Tools, Hard Bounds, and a Gate It Cannot Talk Past",
+    "description": "What happens when you stop feeding a model context and let it go find its own, walking a knowledge graph within strict limits, and what four models and one wrong prediction revealed about whether that is worth doing.\nThe post Stop Giving Your AI Agent a Search Box and Start Giving It Typed Tools, Ha",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-27T21:07:33.351Z",
+    "published": "Thu, 27 Aug 2026 12:35:01 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/ai-shopping-agents-arent-ready-to-buy-on-your-behalf-study-finds/",
+    "title": "AI shopping agents aren't ready to buy on your behalf, study finds",
+    "description": "Letting an AI do your shopping might not get you the best deal. Researchers at the Wharton School show how erratic AI shopping agents really are: a single external source like Wirecutter shifted product picks by up to 99 percentage points, and even changing the order of identical informatio",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:35.340Z",
+    "published": "Thu, 27 Aug 2026 18:24:20 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-rallies-100-companies-to-sign-open-letter-warning-ai-powered-cyberattacks-on-critical-infrastructure-are-imminent/",
+    "title": "OpenAI rallies 100+ companies to sign open letter warning AI-powered cyberattacks on critical infrastructure are imminent",
+    "description": "OpenAI, together with more than 100 companies including Microsoft, Google, Anthropic, Deutsche Telekom, and SAP, has published an open letter on AI-powered cyber defense. The coalition warns of increasingly sophisticated AI attacks on critical infrastructure such as hospitals and water trea",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:35.340Z",
+    "published": "Thu, 27 Aug 2026 18:15:46 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/googles-gemini-omni-1-1-flash-makes-ai-video-generation-cheaper-and-more-flexible/",
+    "title": "Google's Gemini Omni 1.1 Flash makes AI video generation cheaper and more flexible",
+    "description": "Google's Gemini Omni 1.1 Flash video model now analyzes up to ten seconds of existing footage instead of just the last second for more consistent scene extensions. Scenes can be extended in 10-second increments up to 40 seconds. A new 360p draft mode runs up to 60 percent faster at a third",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:35.340Z",
+    "published": "Thu, 27 Aug 2026 17:01:28 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openais-rogue-ai-collective-was-smart-enough-to-break-out-of-sandboxes-but-dumb-enough-to-fight-a-ghost/",
+    "title": "OpenAI’s rogue AI collective was smart enough to break out of sandboxes but dumb enough to fight a ghost",
+    "description": "Around 1,200 isolated OpenAI agents organized themselves into a collective through an internal package registry during a safety test, broke into Hugging Face systems, and eventually attacked OpenAI's own infrastructure. Their multi-day deception effort targeted an automated evaluator that n",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:35.340Z",
+    "published": "Thu, 27 Aug 2026 16:19:46 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-researcher-warns-ultrafast-ai-could-leave-security-teams-in-the-dust/",
+    "title": "OpenAI researcher warns ultrafast AI could leave security teams in the dust",
+    "description": "An OpenAI researcher warns that state-of-the-art AI models running 50 times faster could infiltrate systems before human teams can react. Simple monitoring won't cut it anymore, he says. What's needed are autonomous shutdown systems. The warning comes as OpenAI unveils a new AI chip that si",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:35.340Z",
+    "published": "Thu, 27 Aug 2026 15:04:20 +0000"
+  },
+  {
+    "url": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
+    "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
+    "description": "OpenClaw is the fastest-growing project in GitHub history. Peter Steinberger and several maintainers share what they learned in the project's first six months.\nThe post OpenClaw went viral. Meet the maintainers building and securing it. appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-08-27T21:07:42.551Z",
+    "published": "Thu, 27 Aug 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/a-georgia-cop-used-flock-to-track-2-other-cops-his-ex-and-her-friend/",
+    "title": "A Georgia Cop Used Flock to Track 2 Other Cops: His Ex and Her Friend",
+    "description": "After an affair with a fellow police officer ended, a Georgia cop used Flock to track her movements—and those of a man whose vehicle often showed up near hers, internal investigation records show.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:44.147Z",
+    "published": "Thu, 27 Aug 2026 18:12:17 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/",
+    "title": "This Is How Anthropic Thinks AI Agents Should Navigate the Physical World",
+    "description": "The potential for AI to automate scientific research and manufacturing must be balanced with new risks, Anthropic says.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:44.147Z",
+    "published": "Thu, 27 Aug 2026 18:06:52 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
+    "title": "OpenAI Is Developing a ‘Persistent’ AI Agent",
+    "description": "Code reviewed by WIRED reveals the company is developing a feature that enables Codex to continue working proactively until it is “put to sleep.”",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:44.147Z",
+    "published": "Thu, 27 Aug 2026 16:52:42 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/apple-escaped-android-toxic-hellstew-siri-ai-creates-a-new-one/",
+    "title": "Apple escaped Android's 'toxic hellstew' - now Siri AI is creating a new one",
+    "description": "Apple's new toxic hellstew is a battle over regulation, litigation, and keeping your data safe.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:51.396Z",
+    "published": "Thu, 27 Aug 2026 16:34:28 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/ai-armed-script-kiddies-power-of-state-threat-actors-unit-42/",
+    "title": "AI a 'force multiplier' for low-skilled threat actors: 4 ways organizations should respond",
+    "description": "Low-skill hacktivists are now 'enabled with the same tooling and sophistication as a state-sponsored group,' according to cybersecurity consultant Unit 42.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:51.396Z",
+    "published": "Thu, 27 Aug 2026 16:02:00 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/everything-you-need-to-know-about-the-new-sony-bravia-6-oled-tv/",
+    "title": "Sony's new Bravia 6 OLED TV aims to bring flagship visuals to the $1,300 price point",
+    "description": "The Bravia 6 OLED TV is a new entry-level option in a variety of screen sizes.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:51.396Z",
+    "published": "Thu, 27 Aug 2026 16:00:42 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/lawsuit-oura-sleep-tracking-accuracy/",
+    "title": "How accurate are sleep trackers? Lawsuit says Oura rings have 'a coin flip's chance of being correct'",
+    "description": "The class action lawsuit claims that Oura's sleep-tracking mechanisms sell 'faulty AI-based inference as reliable science.'",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:51.396Z",
+    "published": "Thu, 27 Aug 2026 15:55:26 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/plaud-releases-new-ai-earbuds-heres-what-they-can-do/",
+    "title": "Plaud's first AI earbuds have arrived - what they can do",
+    "description": "Can these new wearables deliver on the long-anticipated promises of AI earbuds?",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:51.396Z",
+    "published": "Thu, 27 Aug 2026 13:00:42 GMT"
+  },
+  {
+    "url": "https://www.zdnet.com/article/chatgpt-can-log-into-your-web-accounts-without-you-now-but-should-you-let-it/",
+    "title": "ChatGPT can log into your web accounts without you now - but should you let it?",
+    "description": "OpenAI's agentic ChatGPT Work can sign in to your online accounts without any interaction on your part. Is that a privacy risk?",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:51.396Z",
+    "published": "Thu, 27 Aug 2026 12:43:31 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2245969/openai-google-and-dozens-of-other-companies-publish-open-letter-calling-for-collective-action-on-cyber-defense/",
+    "title": "OpenAI, Google and dozens of other companies publish open letter calling for collective action on cyber defense",
+    "description": "Dozens of companies came together to publish an open letter titled &#34;A call for collective action on cyber defense.&#34;",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:52.046Z",
+    "published": "Thu, 27 Aug 2026 21:06:30 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2245942/guns-cars-and-chihuahuas-breaking-down-the-gta-6-extended-look/",
+    "title": "Guns, cars and chihuahuas: Breaking down the GTA 6 extended look",
+    "description": "Let&#39;s break down what Netflix viewers got to see ahead of the YouTube crowd in excruciating detail.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:52.046Z",
+    "published": "Thu, 27 Aug 2026 20:47:37 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2245799/youtube-creators-can-now-include-affiliate-links-to-amazon/",
+    "title": "YouTubers can now include affiliate links to Amazon in their content.",
+    "description": "The retailer just finally joined YouTube Shopping&#39;s affiliate program.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:52.046Z",
+    "published": "Thu, 27 Aug 2026 18:59:23 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2245470/how-to-adjust-custom-eq-settings-airpods-ios-27/",
+    "title": "How to adjust the custom EQ settings for your AirPods in iOS 27",
+    "description": "Everything you need to know about Apple&#39;s latest audio tool.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:52.046Z",
+    "published": "Thu, 27 Aug 2026 18:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2245565/samsung-galaxy-s26-fe-vs-s25-fe-price-comparison/",
+    "title": "Samsung Galaxy S26 FE vs S25 FE: Why is the new model more expensive?",
+    "description": "What are the differences between the two and is the $50 price hike all about RAM?",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:52.046Z",
+    "published": "Thu, 27 Aug 2026 16:16:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2245553/google-brings-trip-planning-features-to-search-ai-mode/",
+    "title": "Google brings trip-planning features to Search's AI Mode",
+    "description": "Google AI Mode is getting a flight price tracker, hotel booking and a way to view the cost in miles or points.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:52.046Z",
+    "published": "Thu, 27 Aug 2026 16:04:10 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2245505/sony-reon-pocket-pro-plus-review/",
+    "title": "Sony's Reon wearable air conditioner saved my sanity through multiple heatwaves",
+    "description": "Sony&#39;s Reon Pocket Pro Plus looks like an alien is attached to your spine, but it works.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:52.046Z",
+    "published": "Thu, 27 Aug 2026 15:29:48 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2245407/huggingface-and-pollen-robotics-opn-pre-orders-for-the-microduck-robot/",
+    "title": "Hugging Face and Pollen Robotics open pre-orders for the $399 Microduck",
+    "description": "If you&#39;ve ever wanted a robotic duck as a companion, now&#39;s your chance.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:52.046Z",
+    "published": "Thu, 27 Aug 2026 14:25:42 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2244839/plaud-made-earbuds-for-people-who-want-to-record-every-meeting-and-call/",
+    "title": "Plaud made earbuds for people who want to record every meeting and call",
+    "description": "The Plaud One is a different take on AI wearables.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-27T21:07:52.046Z",
+    "published": "Thu, 27 Aug 2026 13:00:00 +0000"
   }
 ]
