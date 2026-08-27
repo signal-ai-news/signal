@@ -40218,5 +40218,69 @@
     "category": "news",
     "discovered": "2026-08-26T20:59:12.508Z",
     "published": "Wed, 26 Aug 2026 19:50:24 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+    "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+    "description": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-27T00:37:13.438Z",
+    "published": "Thu, 27 Aug 2026 00:24:57 +0000",
+    "processed": true,
+    "processedAt": "2026-08-27T00:39:56.776Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+    "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+    "description": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-27T00:37:13.438Z",
+    "published": "Wed, 26 Aug 2026 21:37:39 +0000",
+    "processed": true,
+    "processedAt": "2026-08-27T00:39:56.776Z"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+    "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+    "description": "Report shows Meta's challenges replacing people with AI agents.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-08-27T00:37:14.011Z",
+    "published": "Wed, 26 Aug 2026 21:25:27 +0000",
+    "processed": true,
+    "processedAt": "2026-08-27T00:39:56.776Z"
+  },
+  {
+    "url": "https://www.engadget.com/2245151/australia-s-recording-association-bans-ai-made-music-from-charts/",
+    "title": "Australia's recording association bans AI-made music from charts",
+    "description": "Songs using gen-AI as a support tool will still be allowed, so long as they&#39;re &#34;substantially human made.&#34;",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-27T00:37:51.002Z",
+    "published": "Wed, 26 Aug 2026 23:00:49 +0000",
+    "processed": true,
+    "processedAt": "2026-08-27T00:39:56.776Z"
+  },
+  {
+    "url": "https://www.engadget.com/2245122/panic-is-refunding-tariff-fees-paid-by-playdate-owners/",
+    "title": "Panic is refunding tariff fees paid by Playdate owners",
+    "description": "The console was subject to added fees under the Trump administration&#39;s original tariff regime.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-27T00:37:51.002Z",
+    "published": "Wed, 26 Aug 2026 21:57:48 +0000",
+    "processed": true,
+    "processedAt": "2026-08-27T00:39:56.776Z"
+  },
+  {
+    "url": "https://www.engadget.com/2245119/openai-details-the-failures-that-led-to-hugging-face-breach-in-official-report/",
+    "title": "OpenAI details the failures that led to Hugging Face breach in official report",
+    "description": "Transparency from the company is good, but real trust in its people would be better.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-27T00:37:51.002Z",
+    "published": "Wed, 26 Aug 2026 21:54:58 +0000"
   }
 ]
