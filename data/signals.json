@@ -40977,5 +40977,267 @@
     "category": "news",
     "discovered": "2026-08-27T21:07:52.046Z",
     "published": "Thu, 27 Aug 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+    "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+    "description": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-28T05:34:37.869Z",
+    "published": "Thu, 27 Aug 2026 23:16:45 +0000",
+    "processed": true,
+    "processedAt": "2026-08-28T05:37:10.648Z"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+    "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+    "description": "Article URL: https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/\nComments URL: https://news.ycombinator.com/item?id=49474719\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-28T05:34:43.480Z",
+    "published": "Fri, 28 Aug 2026 05:32:55 +0000",
+    "processed": true,
+    "processedAt": "2026-08-28T05:37:10.648Z"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.10257",
+    "title": "GenRec: An LLM-Backed Recommendation Ranker at Netflix",
+    "description": "Article URL: https://arxiv.org/abs/2608.10257\nComments URL: https://news.ycombinator.com/item?id=49474529\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-28T05:34:43.480Z",
+    "published": "Fri, 28 Aug 2026 05:00:59 +0000",
+    "processed": true,
+    "processedAt": "2026-08-28T05:37:10.648Z"
+  },
+  {
+    "url": "https://www.theatlantic.com/technology/2026/08/wall-street-journal-ai-op-ed/688433/",
+    "title": "A Turning Point in AI Writing",
+    "description": "Article URL: https://www.theatlantic.com/technology/2026/08/wall-street-journal-ai-op-ed/688433/\nComments URL: https://news.ycombinator.com/item?id=49474327\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-28T05:34:43.480Z",
+    "published": "Fri, 28 Aug 2026 04:20:36 +0000",
+    "processed": true,
+    "processedAt": "2026-08-28T05:37:10.648Z"
+  },
+  {
+    "url": "https://apnews.com/article/data-centers-bipartisan-opposition-trump-democrats-a419be82fb6b32a8fc048ac7ffbd1de3",
+    "title": "In a divided America, left and right unite to oppose AI data centers",
+    "description": "Article URL: https://apnews.com/article/data-centers-bipartisan-opposition-trump-democrats-a419be82fb6b32a8fc048ac7ffbd1de3\nComments URL: https://news.ycombinator.com/item?id=49474299\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-28T05:34:43.480Z",
+    "published": "Fri, 28 Aug 2026 04:16:13 +0000",
+    "processed": true,
+    "processedAt": "2026-08-28T05:37:10.648Z"
+  },
+  {
+    "url": "https://apps.shopify.com/mi-measure-price-calculator",
+    "title": "MI: Measure Price Calculator – AI Pricing for Shopify",
+    "description": "Article URL: https://apps.shopify.com/mi-measure-price-calculator\nComments URL: https://news.ycombinator.com/item?id=49474283\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-28T05:34:43.480Z",
+    "published": "Fri, 28 Aug 2026 04:14:14 +0000"
+  },
+  {
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1vzy4cg/claude_figured_out_what_was_wrong_with_my_4090/",
+    "title": "Claude diagnosed problematic RTX 4090 with faulty vram then wrote a software fix",
+    "description": "Article URL: https://www.reddit.com/r/ClaudeAI/comments/1vzy4cg/claude_figured_out_what_was_wrong_with_my_4090/\nComments URL: https://news.ycombinator.com/item?id=49474169\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-28T05:34:43.480Z",
+    "published": "Fri, 28 Aug 2026 03:54:49 +0000"
+  },
+  {
+    "url": "https://github.com/gojiplus/understudy",
+    "title": "Show HN: Understudy: Scenario Testing for AI Agents",
+    "description": "Article URL: https://github.com/gojiplus/understudy\nComments URL: https://news.ycombinator.com/item?id=49474156\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-28T05:34:43.480Z",
+    "published": "Fri, 28 Aug 2026 03:51:56 +0000"
+  },
+  {
+    "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
+    "title": "Please stop flooding our projects with AI slop to furnish your CV",
+    "description": "Article URL: https://neilalexander.dev/2026/06/30/flooding-contributions\nComments URL: https://news.ycombinator.com/item?id=49474143\nPoints: 59\n# Comments: 20",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-28T05:34:43.480Z",
+    "published": "Fri, 28 Aug 2026 03:49:33 +0000"
+  },
+  {
+    "url": "https://h3max.app/",
+    "title": "Show HN: A focused workspace for creating short AI videos with H3 Max",
+    "description": "Article URL: https://h3max.app/\nComments URL: https://news.ycombinator.com/item?id=49473959\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-28T05:34:43.480Z",
+    "published": "Fri, 28 Aug 2026 03:18:24 +0000"
+  },
+  {
+    "url": "https://www.pnas.org/doi/10.1073/pnas.2531697123",
+    "title": "Group size effects and collective misalignment in LLM multi-agent systems – PNAS",
+    "description": "Article URL: https://www.pnas.org/doi/10.1073/pnas.2531697123\nComments URL: https://news.ycombinator.com/item?id=49473956\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-28T05:34:43.480Z",
+    "published": "Fri, 28 Aug 2026 03:17:02 +0000"
+  },
+  {
+    "url": "https://chessrabbit.co",
+    "title": "Show HN: ChessRabbit – The AI Chess Analysis Platform",
+    "description": "Hi HN!I wanted to share with you a chess analysis tool that I was building for the past week.First of all I want to explain what is the problem that I'm trying to solve: Chess Engines such as stockfish are superior for us humans, but it's not self explanatory. A player can review their game by stoc",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-28T05:34:43.480Z",
+    "published": "Fri, 28 Aug 2026 02:38:33 +0000"
+  },
+  {
+    "url": "https://wayback-api.archive.org/services/amt/",
+    "title": "Ask Me Twice – A longitudinal archive of AI chatbot responses",
+    "description": "Article URL: https://wayback-api.archive.org/services/amt/\nComments URL: https://news.ycombinator.com/item?id=49473662\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-28T05:34:43.480Z",
+    "published": "Fri, 28 Aug 2026 02:26:36 +0000"
+  },
+  {
+    "url": "https://www.semafor.com/article/08/27/2026/alphabet-stock-sheds-700b-as-ai-bills-climb",
+    "title": "Alphabet stock sheds $700B as AI bills climb",
+    "description": "Article URL: https://www.semafor.com/article/08/27/2026/alphabet-stock-sheds-700b-as-ai-bills-climb\nComments URL: https://news.ycombinator.com/item?id=49473629\nPoints: 30\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-28T05:34:43.480Z",
+    "published": "Fri, 28 Aug 2026 02:23:11 +0000"
+  },
+  {
+    "url": "https://waymo.com/blog/2026/08/10ailessons/",
+    "title": "AI Lessons from Driving 200M Autonomous Miles",
+    "description": "Article URL: https://waymo.com/blog/2026/08/10ailessons/\nComments URL: https://news.ycombinator.com/item?id=49473561\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-28T05:34:43.480Z",
+    "published": "Fri, 28 Aug 2026 02:11:11 +0000"
+  },
+  {
+    "url": "https://rekkerd.org/butterlamp-audio-releases-tilichu-wavetable-synthesizer-vst3-au/",
+    "title": "AI-Powered Tilichu VST/AU Synth Released by Butterlamp Audio",
+    "description": "Article URL: https://rekkerd.org/butterlamp-audio-releases-tilichu-wavetable-synthesizer-vst3-au/\nComments URL: https://news.ycombinator.com/item?id=49473481\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-28T05:34:43.480Z",
+    "published": "Fri, 28 Aug 2026 01:57:10 +0000"
+  },
+  {
+    "url": "https://old.reddit.com/r/mildyinteresting/comments/1vzz8y7/my_cycle_has_been_off_this_past_month_and/p69f88q/",
+    "title": "Has Gemini AI has altered the interpretation of Google trends?",
+    "description": "Article URL: https://old.reddit.com/r/mildyinteresting/comments/1vzz8y7/my_cycle_has_been_off_this_past_month_and/p69f88q/\nComments URL: https://news.ycombinator.com/item?id=49473470\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-28T05:34:43.480Z",
+    "published": "Fri, 28 Aug 2026 01:55:01 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=WcckBmkauBQ",
+    "title": "The Dirty AI lie: How the GREATEST bet in human history started to crack [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=WcckBmkauBQ\nComments URL: https://news.ycombinator.com/item?id=49473440\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-28T05:34:43.480Z",
+    "published": "Fri, 28 Aug 2026 01:49:28 +0000"
+  },
+  {
+    "url": "https://leadcode.build/",
+    "title": "Show HN: Leadcode – per-client account isolation for Claude Code, Codex, and gh",
+    "description": "Article URL: https://leadcode.build/\nComments URL: https://news.ycombinator.com/item?id=49473362\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-28T05:34:43.480Z",
+    "published": "Fri, 28 Aug 2026 01:32:02 +0000"
+  },
+  {
+    "url": "https://github.com/paoloanzn/pi-black",
+    "title": "Show HN: Pi-Black – Use Your Claude Max (Or Pro) Subscription with Pi",
+    "description": "Article URL: https://github.com/paoloanzn/pi-black\nComments URL: https://news.ycombinator.com/item?id=49473333\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-28T05:34:43.480Z",
+    "published": "Fri, 28 Aug 2026 01:27:49 +0000"
+  },
+  {
+    "url": "https://github.com/everest-an/Awareness-Market",
+    "title": "Awareness Local: local-first memory for AI coding agents (96% R5 on LongMemEval)",
+    "description": "Article URL: https://github.com/everest-an/Awareness-Market\nComments URL: https://news.ycombinator.com/item?id=49473188\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-28T05:34:43.480Z",
+    "published": "Fri, 28 Aug 2026 01:02:35 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic/",
+    "title": "A Judge Has Blocked the Pentagon’s Attempt to Blacklist Anthropic",
+    "description": "A federal judge has called the Department of Defense’s designation of Anthropic as a national security supply-chain risk “illegal and baseless.”",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-28T05:34:56.474Z",
+    "published": "Fri, 28 Aug 2026 03:04:14 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
+    "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
+    "description": "This week on “Uncanny Valley,” senior writer Will Knight talks his recent visit to China and the future of AI collaboration.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-28T05:34:56.474Z",
+    "published": "Thu, 27 Aug 2026 21:08:34 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/lawsuit-says-oura-sleep-tracking-has-a-coin-flips-chance-of-being-correct/",
+    "title": "Lawsuit says Oura sleep tracking has 'a coin flip's chance of being correct'",
+    "description": "The class action lawsuit claims that Oura's sleep-tracking mechanisms sell 'faulty AI-based inference as reliable science.'",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-28T05:35:04.261Z",
+    "published": "Thu, 27 Aug 2026 21:06:00 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2246131/judge-rules-that-pentagon-anthropic-ban-illegal-and-baseless/",
+    "title": "Judge rules that the Pentagon's Anthropic ban was 'illegal and baseless'",
+    "description": "&#39;The empty invocation of national security is not a blank check to punish and retaliate against government critics.&#39;",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-28T05:35:04.880Z",
+    "published": "Fri, 28 Aug 2026 04:43:23 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2246021/you-wont-be-able-to-hot-wire-every-car-in-gta-6/",
+    "title": "You won't be able to hot-wire every car in GTA 6",
+    "description": "Stealing cars in GTA 6 will require different approaches depending on their make and model.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-28T05:35:04.880Z",
+    "published": "Thu, 27 Aug 2026 22:01:02 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2246005/gta-6-demo-malware-infostealer/",
+    "title": "GTA 6 'demo' delivers malware directly to your PC",
+    "description": "Despite what some scam sites may try to tell you, Rockstar has not made any of GTA 6 available to play in advance.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-28T05:35:04.880Z",
+    "published": "Thu, 27 Aug 2026 21:38:42 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2245979/james-pond-creator-is-not-happy-with-the-series-allegedly-ai-generated-legacy-collection/",
+    "title": "James Pond's creator is not happy with the series' allegedly AI-generated legacy collection",
+    "description": "The developers don&#39;t have &#34;a scrap of respect&#34; for the series, according to Chris Sorrell.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-28T05:35:04.880Z",
+    "published": "Thu, 27 Aug 2026 21:14:32 +0000"
   }
 ]
