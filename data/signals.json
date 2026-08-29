@@ -41873,5 +41873,213 @@
     "category": "news",
     "discovered": "2026-08-29T01:40:15.695Z",
     "published": "Fri, 28 Aug 2026 17:54:50 +0000"
+  },
+  {
+    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "description": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-29T08:53:54.350Z",
+    "published": "Fri, 28 Aug 2026 06:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-29T08:56:31.296Z"
+  },
+  {
+    "url": "https://github.com/holistis/muraqib",
+    "title": "Muraqib, free nightly QA that lets Claude open a fix PR when tests fail",
+    "description": "Article URL: https://github.com/holistis/muraqib\nComments URL: https://news.ycombinator.com/item?id=49488115\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T08:54:03.092Z",
+    "published": "Sat, 29 Aug 2026 08:44:08 +0000",
+    "processed": true,
+    "processedAt": "2026-08-29T08:56:31.296Z"
+  },
+  {
+    "url": "https://github.com/IndexFlowing/AgentBridge",
+    "title": "Show HN: AgentBridge – Let one AI think while another AI writes the code",
+    "description": "Article URL: https://github.com/IndexFlowing/AgentBridge\nComments URL: https://news.ycombinator.com/item?id=49488074\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T08:54:03.092Z",
+    "published": "Sat, 29 Aug 2026 08:35:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-29T08:56:31.296Z"
+  },
+  {
+    "url": "https://oactodev.github.io/ninety-quid/report/",
+    "title": "Some GitHub bounty repos are honeypots that farm free work from AI agents",
+    "description": "Article URL: https://oactodev.github.io/ninety-quid/report/\nComments URL: https://news.ycombinator.com/item?id=49488042\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T08:54:03.092Z",
+    "published": "Sat, 29 Aug 2026 08:28:24 +0000",
+    "processed": true,
+    "processedAt": "2026-08-29T08:56:31.296Z"
+  },
+  {
+    "url": "https://startupfortune.com/researcher-alon-hertz-tricked-claude-codex-and-hermes-into-running-malware/",
+    "title": "Researcher Tricked Claude, Codex and Hermes into Running Malware",
+    "description": "Article URL: https://startupfortune.com/researcher-alon-hertz-tricked-claude-codex-and-hermes-into-running-malware/\nComments URL: https://news.ycombinator.com/item?id=49488021\nPoints: 12\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T08:54:03.092Z",
+    "published": "Sat, 29 Aug 2026 08:24:36 +0000",
+    "processed": true,
+    "processedAt": "2026-08-29T08:56:31.296Z"
+  },
+  {
+    "url": "https://credlier.com/",
+    "title": "I built a financial visibility layer for multi-model AI applications",
+    "description": "Article URL: https://credlier.com/\nComments URL: https://news.ycombinator.com/item?id=49487991\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T08:54:03.092Z",
+    "published": "Sat, 29 Aug 2026 08:19:36 +0000"
+  },
+  {
+    "url": "https://www.kith.space",
+    "title": "Show HN: Kith – AI clinical notes for therapists from ambient session audio",
+    "description": "Article URL: https://www.kith.space\nComments URL: https://news.ycombinator.com/item?id=49487976\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T08:54:03.092Z",
+    "published": "Sat, 29 Aug 2026 08:16:03 +0000"
+  },
+  {
+    "url": "https://github.com/tballochi/daily-briefing",
+    "title": "Show HN: A free AI news briefing agent that runs on GitHub Actions, no server",
+    "description": "Article URL: https://github.com/tballochi/daily-briefing\nComments URL: https://news.ycombinator.com/item?id=49487904\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T08:54:03.092Z",
+    "published": "Sat, 29 Aug 2026 08:02:43 +0000"
+  },
+  {
+    "url": "https://itsuki.app/",
+    "title": "Show HN: Itsuki – open-source memory engine for AI agents (API and MCP)",
+    "description": "Article URL: https://itsuki.app/\nComments URL: https://news.ycombinator.com/item?id=49487838\nPoints: 2\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T08:54:03.092Z",
+    "published": "Sat, 29 Aug 2026 07:50:32 +0000"
+  },
+  {
+    "url": "https://www.scientificamerican.com/article/alpha-schools-ai-teaching-model-is-expanding-does-it-work/",
+    "title": "Alpha School's AI teaching model is expanding. Does it work?",
+    "description": "Article URL: https://www.scientificamerican.com/article/alpha-schools-ai-teaching-model-is-expanding-does-it-work/\nComments URL: https://news.ycombinator.com/item?id=49487831\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T08:54:03.092Z",
+    "published": "Sat, 29 Aug 2026 07:48:26 +0000"
+  },
+  {
+    "url": "https://doodleai.art/",
+    "title": "Show HN: Doodle AI: open-source photo-to-doodle avatar generator",
+    "description": "good morningNew Doodle project is live -> https://doodleai.art/\nI started this project for the Kiro Hackathon and honestly now I just love building this lol. Not sure if I’ll get any return from this or not, but still feels worth building instead of just making some random .lol siteStill adding mor",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T08:54:03.092Z",
+    "published": "Sat, 29 Aug 2026 07:38:02 +0000"
+  },
+  {
+    "url": "https://www.truefoundry.com/blog/llm-agent-security-runtime-control-planes",
+    "title": "Agent Security Is a Systems Problem: What 247 Papers Say About Secure AI Agents",
+    "description": "Article URL: https://www.truefoundry.com/blog/llm-agent-security-runtime-control-planes\nComments URL: https://news.ycombinator.com/item?id=49487773\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T08:54:03.092Z",
+    "published": "Sat, 29 Aug 2026 07:36:35 +0000"
+  },
+  {
+    "url": "https://www.theguardian.com/technology/2026/aug/29/sharp-rise-in-incidents-of-ai-escaping-users-control-research-finds",
+    "title": "Sharp rise in incidents of AI escaping users' control, research finds",
+    "description": "Article URL: https://www.theguardian.com/technology/2026/aug/29/sharp-rise-in-incidents-of-ai-escaping-users-control-research-finds\nComments URL: https://news.ycombinator.com/item?id=49487734\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T08:54:03.092Z",
+    "published": "Sat, 29 Aug 2026 07:27:57 +0000"
+  },
+  {
+    "url": "https://cpldcpu.github.io/2026/08/28/ai-image-generation-on-a-rp-pico-2-microcontroller/",
+    "title": "AI Image Generation on an RP2350 Microcontroller",
+    "description": "Article URL: https://cpldcpu.github.io/2026/08/28/ai-image-generation-on-a-rp-pico-2-microcontroller/\nComments URL: https://news.ycombinator.com/item?id=49487724\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T08:54:03.092Z",
+    "published": "Sat, 29 Aug 2026 07:26:02 +0000"
+  },
+  {
+    "url": "https://www.skirminiac.com",
+    "title": "Skirminiac – An AI-first deterministic wargame",
+    "description": "Article URL: https://www.skirminiac.com\nComments URL: https://news.ycombinator.com/item?id=49487651\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T08:54:03.092Z",
+    "published": "Sat, 29 Aug 2026 07:13:53 +0000"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6164926&__cf_chl_tk=yAhL3EN950gYq8L72ow6o3fGC4Vgk0p7nSk5fxbPMb4-1787987288-1.0.1.1-s21BBbQvGf7cEBcb9O8i5M1skM7BOPAh3_iopC86zxg",
+    "title": "Impact of Google AI Overviews on Wikipedia Traffic",
+    "description": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6164926&__cf_chl_tk=yAhL3EN950gYq8L72ow6o3fGC4Vgk0p7nSk5fxbPMb4-1787987288-1.0.1.1-s21BBbQvGf7cEBcb9O8i5M1skM7BOPAh3_iopC86zxg\nComments URL: https://news.ycombinator.com/item?id=49487649\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T08:54:03.092Z",
+    "published": "Sat, 29 Aug 2026 07:12:19 +0000"
+  },
+  {
+    "url": "https://github.com/ritenv/tokensift",
+    "title": "Show HN: Tokensift, an open-sourced token-efficiency linter for LLM prompts",
+    "description": "Article URL: https://github.com/ritenv/tokensift\nComments URL: https://news.ycombinator.com/item?id=49487500\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T08:54:03.092Z",
+    "published": "Sat, 29 Aug 2026 06:33:51 +0000"
+  },
+  {
+    "url": "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory",
+    "title": "I tried vibe-coding a memory tool for AI and stared into the abyss of philosophy",
+    "description": "Article URL: https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory\nComments URL: https://news.ycombinator.com/item?id=49487351\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T08:54:03.092Z",
+    "published": "Sat, 29 Aug 2026 06:09:06 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.25880",
+    "title": "Beyond the Editing Canvas: Evidence Divergence in Ooxml-to-LLM Ingestion",
+    "description": "Article URL: https://arxiv.org/abs/2608.25880\nComments URL: https://news.ycombinator.com/item?id=49487342\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T08:54:03.092Z",
+    "published": "Sat, 29 Aug 2026 06:07:07 +0000"
+  },
+  {
+    "url": "https://github.com/sudheerdvn/lanegate",
+    "title": "LaneGate – Git-native worktree orchestrator for AI agents",
+    "description": "Article URL: https://github.com/sudheerdvn/lanegate\nComments URL: https://news.ycombinator.com/item?id=49487178\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T08:54:03.092Z",
+    "published": "Sat, 29 Aug 2026 05:36:23 +0000"
+  },
+  {
+    "url": "https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/",
+    "title": "OpenAI to end agreement with SpaceX's AI coding tool Cursor",
+    "description": "Article URL: https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/\nComments URL: https://news.ycombinator.com/item?id=49487134\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T08:54:03.092Z",
+    "published": "Sat, 29 Aug 2026 05:27:09 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/",
+    "title": "OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts",
+    "description": "OpenAI is cutting off the AI coding tool Cursor after SpaceX acquired the company, citing Elon Musk's track record of breaking contracts. Cursor co-founder Michael Truell downplays the move, saying OpenAI models account for just five percent of the tool's AI traffic.\nThe article OpenAI cuts",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-29T08:54:10.712Z",
+    "published": "Sat, 29 Aug 2026 08:15:35 +0000"
   }
 ]
