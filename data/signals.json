@@ -42587,5 +42587,114 @@
     "category": "news",
     "discovered": "2026-08-29T17:51:20.011Z",
     "published": "Sat, 29 Aug 2026 14:58:40 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+    "description": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-29T20:48:30.573Z",
+    "published": "Sat, 29 Aug 2026 18:41:59 +0000",
+    "processed": true,
+    "processedAt": "2026-08-29T20:51:00.644Z"
+  },
+  {
+    "url": "https://github.com/iwasoftcom/ai-docs-standard",
+    "title": "Show HN: Documentation.ai.md – a docs standard for AI agents, not humans",
+    "description": "Article URL: https://github.com/iwasoftcom/ai-docs-standard\nComments URL: https://news.ycombinator.com/item?id=49493041\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T20:48:36.166Z",
+    "published": "Sat, 29 Aug 2026 20:22:29 +0000",
+    "processed": true,
+    "processedAt": "2026-08-29T20:51:00.644Z"
+  },
+  {
+    "url": "https://seiseiai.io/",
+    "title": "Show HN: AI images and videos from text, free, no signup",
+    "description": "Article URL: https://seiseiai.io/\nComments URL: https://news.ycombinator.com/item?id=49493020\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T20:48:36.166Z",
+    "published": "Sat, 29 Aug 2026 20:19:57 +0000",
+    "processed": true,
+    "processedAt": "2026-08-29T20:51:00.644Z"
+  },
+  {
+    "url": "https://slop-speak.pages.dev/",
+    "title": "Slop.speak – translate human speak to AI slop",
+    "description": "Article URL: https://slop-speak.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=49492659\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T20:48:36.166Z",
+    "published": "Sat, 29 Aug 2026 19:36:17 +0000",
+    "processed": true,
+    "processedAt": "2026-08-29T20:51:00.644Z"
+  },
+  {
+    "url": "https://creativecommons.org/ai-and-the-commons/",
+    "title": "AI and the Commons",
+    "description": "Article URL: https://creativecommons.org/ai-and-the-commons/\nComments URL: https://news.ycombinator.com/item?id=49492603\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T20:48:36.166Z",
+    "published": "Sat, 29 Aug 2026 19:30:15 +0000",
+    "processed": true,
+    "processedAt": "2026-08-29T20:51:00.644Z"
+  },
+  {
+    "url": "https://www.cjr.org/analysis/should-the-press-run-toward-ai-tom-rosenstiel-new-book-next-journalism-how-press-must-change-serve-democracy.php",
+    "title": "Should the press \"run toward\" AI?",
+    "description": "Article URL: https://www.cjr.org/analysis/should-the-press-run-toward-ai-tom-rosenstiel-new-book-next-journalism-how-press-must-change-serve-democracy.php\nComments URL: https://news.ycombinator.com/item?id=49492523\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T20:48:36.166Z",
+    "published": "Sat, 29 Aug 2026 19:20:18 +0000"
+  },
+  {
+    "url": "https://rezoom.io/",
+    "title": "All-in-one AI job search platform, resume to offer",
+    "description": "Article URL: https://rezoom.io/\nComments URL: https://news.ycombinator.com/item?id=49492520\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T20:48:36.166Z",
+    "published": "Sat, 29 Aug 2026 19:20:09 +0000"
+  },
+  {
+    "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+    "title": "Warp builds self-improving agents on Claude",
+    "description": "Article URL: https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude\nComments URL: https://news.ycombinator.com/item?id=49492432\nPoints: 39\n# Comments: 35",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T20:48:36.166Z",
+    "published": "Sat, 29 Aug 2026 19:09:33 +0000"
+  },
+  {
+    "url": "https://skunkworks.levels.io/infinite-slop/",
+    "title": "An infinite and interactive AI generated live stream of slop",
+    "description": "Article URL: https://skunkworks.levels.io/infinite-slop/\nComments URL: https://news.ycombinator.com/item?id=49492243\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T20:48:36.166Z",
+    "published": "Sat, 29 Aug 2026 18:47:07 +0000"
+  },
+  {
+    "url": "https://devblogs.microsoft.com/foundry/five-new-claude-capabilities-now-available-in-foundry/",
+    "title": "From single call to agents: five new Claude capabilities available in MS Foundry",
+    "description": "Article URL: https://devblogs.microsoft.com/foundry/five-new-claude-capabilities-now-available-in-foundry/\nComments URL: https://news.ycombinator.com/item?id=49492204\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T20:48:36.166Z",
+    "published": "Sat, 29 Aug 2026 18:42:27 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2246997/sony-warner-sue-anthropic-for-blatant-violation-of-copyright-law/",
+    "title": "Sony and Warner sue Anthropic for 'blatant violation' of copyright law",
+    "description": "The two music publishing groups claim thousands of instances of copyright infringement.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-29T20:48:55.367Z",
+    "published": "Sat, 29 Aug 2026 18:52:22 +0000"
   }
 ]
