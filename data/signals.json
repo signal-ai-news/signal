@@ -41627,5 +41627,251 @@
     "category": "news",
     "discovered": "2026-08-28T17:41:24.136Z",
     "published": "Fri, 28 Aug 2026 06:21:43 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+    "description": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-29T01:39:45.173Z",
+    "published": "Fri, 28 Aug 2026 20:24:11 +0000",
+    "processed": true,
+    "processedAt": "2026-08-29T01:42:22.264Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "description": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-29T01:39:45.173Z",
+    "published": "Fri, 28 Aug 2026 19:30:38 +0000",
+    "processed": true,
+    "processedAt": "2026-08-29T01:42:22.264Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+    "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+    "description": "There's a lot of capital pouring into the business of giving models away.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-29T01:39:45.173Z",
+    "published": "Fri, 28 Aug 2026 18:19:40 +0000",
+    "processed": true,
+    "processedAt": "2026-08-29T01:42:22.264Z"
+  },
+  {
+    "url": "https://github.com/stemdeckapp/stemdeck",
+    "title": "StemDeck, a free, open-source and local AI stem separator",
+    "description": "Article URL: https://github.com/stemdeckapp/stemdeck\nComments URL: https://news.ycombinator.com/item?id=49486081\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T01:39:53.795Z",
+    "published": "Sat, 29 Aug 2026 01:24:13 +0000",
+    "processed": true,
+    "processedAt": "2026-08-29T01:42:22.264Z"
+  },
+  {
+    "url": "https://github.com/Framework-Drift/governed-pass",
+    "title": "One prompt, five days, and an AI agent that refused to certify itself",
+    "description": "Article URL: https://github.com/Framework-Drift/governed-pass\nComments URL: https://news.ycombinator.com/item?id=49486021\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T01:39:53.795Z",
+    "published": "Sat, 29 Aug 2026 01:16:04 +0000",
+    "processed": true,
+    "processedAt": "2026-08-29T01:42:22.264Z"
+  },
+  {
+    "url": "https://jeffgothelf.com/blog/ai-made-the-boring-work-visible-cut-the-work-not-the-people/",
+    "title": "AI made the boring work visible. Cut the work, not the people",
+    "description": "Article URL: https://jeffgothelf.com/blog/ai-made-the-boring-work-visible-cut-the-work-not-the-people/\nComments URL: https://news.ycombinator.com/item?id=49485940\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T01:39:53.795Z",
+    "published": "Sat, 29 Aug 2026 01:01:29 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49485930",
+    "title": "Ask HN: If AI disappeared today, how much would you ask for in salary to work?",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=49485930\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T01:39:53.795Z",
+    "published": "Sat, 29 Aug 2026 01:00:24 +0000"
+  },
+  {
+    "url": "https://lists.debian.org/debian-vote/2026/08/msg00360.html",
+    "title": "Results for LLM Usage in Debian",
+    "description": "Article URL: https://lists.debian.org/debian-vote/2026/08/msg00360.html\nComments URL: https://news.ycombinator.com/item?id=49485928\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T01:39:53.795Z",
+    "published": "Sat, 29 Aug 2026 01:00:18 +0000"
+  },
+  {
+    "url": "https://leiolai.com/",
+    "title": "Show HN: Leiolai, AI that pays users for the compute their devices provide",
+    "description": "Leiolai runs inference across devices people already own instead of data centers. It saves water with inference and pays users for the computation their devices provide.The app is free to use on iPhone and Android, with no card required. Users can contribute compute, earn money, and level up their",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T01:39:53.795Z",
+    "published": "Sat, 29 Aug 2026 00:58:17 +0000"
+  },
+  {
+    "url": "https://sentelabs.ai/proof-not-trust",
+    "title": "Damn it AI, stop lying to me and do what I say",
+    "description": "Article URL: https://sentelabs.ai/proof-not-trust\nComments URL: https://news.ycombinator.com/item?id=49485798\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T01:39:53.795Z",
+    "published": "Sat, 29 Aug 2026 00:39:29 +0000"
+  },
+  {
+    "url": "https://www.reddit.com/r/codex/comments/1w0trw7/i_built_a_headless_browser_for_ai_agents_entirely/",
+    "title": "I built a headless browser for AI agents in Rust. no Chromium, no V8",
+    "description": "Article URL: https://www.reddit.com/r/codex/comments/1w0trw7/i_built_a_headless_browser_for_ai_agents_entirely/\nComments URL: https://news.ycombinator.com/item?id=49485669\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T01:39:53.795Z",
+    "published": "Sat, 29 Aug 2026 00:12:55 +0000"
+  },
+  {
+    "url": "https://status.claude.com/incidents/hkcw95k7r0f4",
+    "title": "Claude Status – Degraded Performance for Claude Opus 5 and Claude Haiku 4.5",
+    "description": "Article URL: https://status.claude.com/incidents/hkcw95k7r0f4\nComments URL: https://news.ycombinator.com/item?id=49485660\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T01:39:53.795Z",
+    "published": "Sat, 29 Aug 2026 00:11:35 +0000"
+  },
+  {
+    "url": "https://github.com/ContegoCode/Quanta-Code-Editor",
+    "title": "Quanta.Ai.Code.Editor",
+    "description": "Article URL: https://github.com/ContegoCode/Quanta-Code-Editor\nComments URL: https://news.ycombinator.com/item?id=49485587\nPoints: 2\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T01:39:53.795Z",
+    "published": "Fri, 28 Aug 2026 23:55:38 +0000"
+  },
+  {
+    "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+    "title": "I accidentally turned LLM memory into program analysis",
+    "description": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/\nComments URL: https://news.ycombinator.com/item?id=49485416\nPoints: 17\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T01:39:53.795Z",
+    "published": "Fri, 28 Aug 2026 23:27:45 +0000"
+  },
+  {
+    "url": "https://github.com/Hyperwise-LLC/freshctx",
+    "title": "FreshCtx – Invalidate AI reasoning when its evidence changes",
+    "description": "Article URL: https://github.com/Hyperwise-LLC/freshctx\nComments URL: https://news.ycombinator.com/item?id=49485021\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T01:39:53.795Z",
+    "published": "Fri, 28 Aug 2026 22:29:39 +0000"
+  },
+  {
+    "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
+    "title": "Identifying fake cosmetics using AI",
+    "description": "Article URL: https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html\nComments URL: https://news.ycombinator.com/item?id=49484925\nPoints: 32\n# Comments: 12",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T01:39:53.795Z",
+    "published": "Fri, 28 Aug 2026 22:18:27 +0000"
+  },
+  {
+    "url": "https://github.com/husker/a2acast",
+    "title": "Show HN: A2acast – Let AI agents on different computers work together",
+    "description": "Article URL: https://github.com/husker/a2acast\nComments URL: https://news.ycombinator.com/item?id=49484874\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T01:39:53.796Z",
+    "published": "Fri, 28 Aug 2026 22:12:35 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "description": "Article URL: https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/\nComments URL: https://news.ycombinator.com/item?id=49484813\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T01:39:53.796Z",
+    "published": "Fri, 28 Aug 2026 22:07:08 +0000",
+    "processed": true,
+    "processedAt": "2026-08-29T01:42:22.264Z"
+  },
+  {
+    "url": "https://www.theatlantic.com/technology/2026/08/irreplaceable-climate-activists-ai-backlash/688404/",
+    "title": "The AI Backlash Gets Professional",
+    "description": "Article URL: https://www.theatlantic.com/technology/2026/08/irreplaceable-climate-activists-ai-backlash/688404/\nComments URL: https://news.ycombinator.com/item?id=49484801\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T01:39:53.796Z",
+    "published": "Fri, 28 Aug 2026 22:06:18 +0000"
+  },
+  {
+    "url": "https://ethora.com/research/state-of-conversational-ai-2026-q3/",
+    "title": "The State of Conversational AI, Q3 2026",
+    "description": "Article URL: https://ethora.com/research/state-of-conversational-ai-2026-q3/\nComments URL: https://news.ycombinator.com/item?id=49484783\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T01:39:53.796Z",
+    "published": "Fri, 28 Aug 2026 22:04:24 +0000"
+  },
+  {
+    "url": "https://charity.wtf/p/ai-demands-more-engineering-discipline",
+    "title": "AI demands more engineering discipline. Not less",
+    "description": "Article URL: https://charity.wtf/p/ai-demands-more-engineering-discipline\nComments URL: https://news.ycombinator.com/item?id=49484743\nPoints: 6\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T01:39:53.796Z",
+    "published": "Fri, 28 Aug 2026 22:00:26 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/human-in-the-loop-without-killing-throughput/",
+    "title": "Human-in-the-Loop Without Killing Throughput",
+    "description": "How we stopped reviewing every agent action and started routing human attention where it actually mattered\nThe post Human-in-the-Loop Without Killing Throughput appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-29T01:40:00.693Z",
+    "published": "Fri, 28 Aug 2026 18:30:01 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/google-deepminds-ai-co-scientist-now-plans-experiments-runs-lab-equipment-and-writes-scientific-papers/",
+    "title": "Google Deepmind's AI Co-Scientist now plans experiments, runs lab equipment, and writes scientific papers",
+    "description": "Google Deepmind has expanded Co-Scientist from a hypothesis generator into a research system that's integrated into the lab. Across three disciplines, from materials synthesis to the autonomous development of a medical AI architecture, the Gemini-based multi-agent system delivered experimen",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-29T01:40:02.596Z",
+    "published": "Fri, 28 Aug 2026 18:46:27 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/stillos-best-onboarding-experience-linux-distro/",
+    "title": "stillOS offers one of the best Linux onboarding experiences I've ever seen",
+    "description": "I've experienced first steps with countless Linux distributions over the years, but this one nails every step of the way for users of all types.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-29T01:40:15.116Z",
+    "published": "Fri, 28 Aug 2026 18:00:49 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2246846/things-you-may-have-missed-gta-6-extended-look/",
+    "title": "20+ things you may have missed in the GTA 6 extended look",
+    "description": "The GTA VI extended-look trailer is full of clues, if you know where to look.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-29T01:40:15.695Z",
+    "published": "Fri, 28 Aug 2026 22:08:08 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2246550/theres-a-new-twitter-in-town-even-though-a-judge-has-yet-to-rule-on-a-trademark-injunction/",
+    "title": "There's a new Twitter in town, even though a judge has yet to rule on a trademark injunction",
+    "description": "&#34;The public square is open again, and definitely not affiliated with X in any way.&#34;",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-29T01:40:15.695Z",
+    "published": "Fri, 28 Aug 2026 17:54:50 +0000"
   }
 ]
