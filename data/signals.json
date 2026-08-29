@@ -42081,5 +42081,285 @@
     "category": "news",
     "discovered": "2026-08-29T08:54:10.712Z",
     "published": "Sat, 29 Aug 2026 08:15:35 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "title": "Nvidia’s AI advantage is moving beyond the GPU",
+    "description": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-29T14:20:45.104Z",
+    "published": "Sat, 29 Aug 2026 13:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-29T14:23:17.758Z"
+  },
+  {
+    "url": "https://www.omgubuntu.co.uk/2026/08/calibre-ebook-ai-covers",
+    "title": "Calibre eBook manager lets you generate AI book covers",
+    "description": "Article URL: https://www.omgubuntu.co.uk/2026/08/calibre-ebook-ai-covers\nComments URL: https://news.ycombinator.com/item?id=49490115\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T14:20:50.798Z",
+    "published": "Sat, 29 Aug 2026 14:19:04 +0000",
+    "processed": true,
+    "processedAt": "2026-08-29T14:23:17.758Z"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligence-leading-sources/",
+    "title": "Gemini Notebook now lets you incorporate insights from books you own",
+    "description": "Article URL: https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligence-leading-sources/\nComments URL: https://news.ycombinator.com/item?id=49490087\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T14:20:50.798Z",
+    "published": "Sat, 29 Aug 2026 14:16:28 +0000",
+    "processed": true,
+    "processedAt": "2026-08-29T14:23:17.758Z"
+  },
+  {
+    "url": "https://uwaterloo.ca/news/media/major-security-weaknesses-found-leading-open-ai-models",
+    "title": "Major security weaknesses found in leading open AI models",
+    "description": "Article URL: https://uwaterloo.ca/news/media/major-security-weaknesses-found-leading-open-ai-models\nComments URL: https://news.ycombinator.com/item?id=49490082\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T14:20:50.798Z",
+    "published": "Sat, 29 Aug 2026 14:15:36 +0000",
+    "processed": true,
+    "processedAt": "2026-08-29T14:23:17.758Z"
+  },
+  {
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/microsoft-backed-ai-data-center-faces-multiple-complaints-from-community-issues-range-from-unpermitted-gas-turbines-to-illegal-construction-and-noise-pollution",
+    "title": "Microsoft-backed AI data center faces backlash over 62 unpermitted gas turbines",
+    "description": "Article URL: https://www.tomshardware.com/tech-industry/data-centers/microsoft-backed-ai-data-center-faces-multiple-complaints-from-community-issues-range-from-unpermitted-gas-turbines-to-illegal-construction-and-noise-pollution\nComments URL: https://news.ycombinator.com/item?id=49490016\nPoints: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T14:20:50.798Z",
+    "published": "Sat, 29 Aug 2026 14:07:07 +0000",
+    "processed": true,
+    "processedAt": "2026-08-29T14:23:17.758Z"
+  },
+  {
+    "url": "https://lwn.net/Articles/1091231/",
+    "title": "Debian votes to allow \"responsible use of generative AI\"",
+    "description": "Article URL: https://lwn.net/Articles/1091231/\nComments URL: https://news.ycombinator.com/item?id=49489982\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T14:20:50.798Z",
+    "published": "Sat, 29 Aug 2026 14:02:10 +0000"
+  },
+  {
+    "url": "https://www.yahoo.com/news/politics/articles/backlash-against-ai-data-centers-115222320.html",
+    "title": "Backlash Against AI Data Centers Is Real, Organic, Widespread",
+    "description": "Article URL: https://www.yahoo.com/news/politics/articles/backlash-against-ai-data-centers-115222320.html\nComments URL: https://news.ycombinator.com/item?id=49489920\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T14:20:50.798Z",
+    "published": "Sat, 29 Aug 2026 13:52:40 +0000"
+  },
+  {
+    "url": "https://quetab.com/games",
+    "title": "Build your web-based game with AI",
+    "description": "Article URL: https://quetab.com/games\nComments URL: https://news.ycombinator.com/item?id=49489823\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T14:20:50.798Z",
+    "published": "Sat, 29 Aug 2026 13:37:01 +0000"
+  },
+  {
+    "url": "https://howborisusesclaudecode.com",
+    "title": "How Boris Uses Claude Code",
+    "description": "Article URL: https://howborisusesclaudecode.com\nComments URL: https://news.ycombinator.com/item?id=49489819\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T14:20:50.798Z",
+    "published": "Sat, 29 Aug 2026 13:36:36 +0000"
+  },
+  {
+    "url": "https://llmcheck.app/ai-ask-buttons/",
+    "title": "Ask AI buttons like social media links for webpages",
+    "description": "Article URL: https://llmcheck.app/ai-ask-buttons/\nComments URL: https://news.ycombinator.com/item?id=49489761\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T14:20:50.798Z",
+    "published": "Sat, 29 Aug 2026 13:29:16 +0000"
+  },
+  {
+    "url": "https://media.ca7.uscourts.gov/cgi-bin/OpinionsWeb/processWebInputExternal.pl?Submit=Display&Path=Y2026/D08-25/C:25-1354:J:Lee:aut:T:fnOp:N:3597567:S:0",
+    "title": "7th Circuit Rules AI-Generated CSAM Is Protected Speach",
+    "description": "Article URL: https://media.ca7.uscourts.gov/cgi-bin/OpinionsWeb/processWebInputExternal.pl?Submit=Display&Path=Y2026/D08-25/C:25-1354:J:Lee:aut:T:fnOp:N:3597567:S:0\nComments URL: https://news.ycombinator.com/item?id=49489663\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T14:20:50.798Z",
+    "published": "Sat, 29 Aug 2026 13:17:41 +0000"
+  },
+  {
+    "url": "https://github.com/ryanssenn/gemma4.c",
+    "title": "Building an LLM runtime in 700 lines of C",
+    "description": "Article URL: https://github.com/ryanssenn/gemma4.c\nComments URL: https://news.ycombinator.com/item?id=49489618\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T14:20:50.798Z",
+    "published": "Sat, 29 Aug 2026 13:10:09 +0000"
+  },
+  {
+    "url": "https://sycdan.wordpress.com/2026/08/29/my-answer-to-ai-burnout-more-ai-but-context-is-king/",
+    "title": "My answer to AI burnout: more AI (but context is king)",
+    "description": "Article URL: https://sycdan.wordpress.com/2026/08/29/my-answer-to-ai-burnout-more-ai-but-context-is-king/\nComments URL: https://news.ycombinator.com/item?id=49489549\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T14:20:50.798Z",
+    "published": "Sat, 29 Aug 2026 12:58:59 +0000"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
+    "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
+    "description": "Article URL: https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html\nComments URL: https://news.ycombinator.com/item?id=49489481\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T14:20:50.798Z",
+    "published": "Sat, 29 Aug 2026 12:45:07 +0000"
+  },
+  {
+    "url": "https://www.damiencharlotin.com/hallucinations/",
+    "title": "AI Hallucination Cases Database",
+    "description": "Article URL: https://www.damiencharlotin.com/hallucinations/\nComments URL: https://news.ycombinator.com/item?id=49489219\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T14:20:50.798Z",
+    "published": "Sat, 29 Aug 2026 12:07:44 +0000"
+  },
+  {
+    "url": "https://github.com/raysonmeng/agent-bridge",
+    "title": "A local bridge for bidirectional collaboration between Claude Code and Codex",
+    "description": "Article URL: https://github.com/raysonmeng/agent-bridge\nComments URL: https://news.ycombinator.com/item?id=49489198\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T14:20:50.798Z",
+    "published": "Sat, 29 Aug 2026 12:05:55 +0000"
+  },
+  {
+    "url": "https://www.theregister.com/research/2026/08/28/researcher-shows-how-claude-code-can-be-tricked-simply-by-asking-it-to-summarize-a-website/5293372",
+    "title": "Claude Code can be tricked simply by asking it to summarize a website",
+    "description": "Article URL: https://www.theregister.com/research/2026/08/28/researcher-shows-how-claude-code-can-be-tricked-simply-by-asking-it-to-summarize-a-website/5293372\nComments URL: https://news.ycombinator.com/item?id=49489082\nPoints: 3\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T14:20:50.798Z",
+    "published": "Sat, 29 Aug 2026 11:46:15 +0000"
+  },
+  {
+    "url": "https://toolchestrator.com/",
+    "title": "Show HN: Toolchestrator – make local, AI-built tools usable by your team",
+    "description": "Article URL: https://toolchestrator.com/\nComments URL: https://news.ycombinator.com/item?id=49489072\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T14:20:50.798Z",
+    "published": "Sat, 29 Aug 2026 11:44:25 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49488963",
+    "title": "Cut Claude Code Bill by Routing to DeepSeek or Grok",
+    "description": "Tried this with Leanroute.dev MCP, it really works. Posted a blog post about this - https://leanroute.dev/blog/cut-claude-code-bills-60-percent-multi-provider-routingTry it out and let me know.\n\nComments URL: https://news.ycombinator.com/item?id=49488963\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T14:20:50.798Z",
+    "published": "Sat, 29 Aug 2026 11:18:02 +0000"
+  },
+  {
+    "url": "https://www.ft.com/content/f100c90b-c138-4125-aaa7-853b77690db9",
+    "title": "Did AI write this? It's getting harder to tell",
+    "description": "Article URL: https://www.ft.com/content/f100c90b-c138-4125-aaa7-853b77690db9\nComments URL: https://news.ycombinator.com/item?id=49488866\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T14:20:50.798Z",
+    "published": "Sat, 29 Aug 2026 11:02:06 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/rag-is-not-the-whole-toolkit-the-nlp-techniques-real-problems-still-need/",
+    "title": "RAG Is Not the Whole Toolkit: The NLP Techniques Real Problems Still Need",
+    "description": "Enterprise Document Intelligence [Vol.1 #B00] - Retrieval answers one kind of question. Classifying a request, matching free text to a reference list, reading a table, cleaning OCR noise: each has a cheaper method that works, and the engineering is knowing which one to reach for\nThe post RAG Is Not",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-29T14:20:56.624Z",
+    "published": "Sat, 29 Aug 2026 13:00:01 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/ai-generated-videos-are-already-displacing-actors-and-livestreamers-across-chinas-entertainment-industry/",
+    "title": "AI-generated videos are already displacing actors and livestreamers across China's entertainment industry",
+    "description": "In China, 95 percent of the 128,000 short dramas released in Q1 2026 were AI-generated. Some actors are being forced to hand over their voice and likeness to AI tools before getting fired, the Financial Times reports. AI-related labor disputes are rising fast.\nThe article AI-generated video",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-29T14:20:58.404Z",
+    "published": "Sat, 29 Aug 2026 13:25:56 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/google-gives-ai-agents-their-own-wiki-so-they-can-learn-from-mistakes-and-successes/",
+    "title": "Google's WikiSkill gives AI agents a persistent memory of past mistakes to sharpen future performance",
+    "description": "Google Research has introduced WikiSkill, a framework that gives AI agents a persistent knowledge base. Instead of discarding what they learned after each run, agents document both failures and successes in a wiki-like structure and use that knowledge to get better over time. Larger models",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-29T14:20:58.404Z",
+    "published": "Sat, 29 Aug 2026 12:51:24 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/laion-drops-massive-open-video-dataset-with-10-million-hours-of-footage-for-ai-research/",
+    "title": "LAION drops massive open video dataset with 10 million hours of footage for AI research",
+    "description": "LAION's Big Video Dataset (BVD) is one of the largest open video datasets for AI research, with 80 million videos, 10 million hours of runtime, and 55 million auto-described clips. Models trained on BVD beat the previous benchmark, InternVid, by up to 2.1 percentage points. Legally, LAION c",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-29T14:20:58.404Z",
+    "published": "Sat, 29 Aug 2026 09:36:48 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-wants-to-do-for-physical-hardware-what-its-model-context-protocol-did-for-software/",
+    "title": "Anthropic wants to do for physical hardware what its Model Context Protocol did for software",
+    "description": "Anthropic's Model Hardware Standard (MHS) gives AI agents a unified interface to physical devices like robotic arms and lab instruments. In early tests, integration time dropped from weeks to hours. But Claude sometimes failed to grasp physical cause and effect, so human oversight remains e",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-29T14:20:58.404Z",
+    "published": "Sat, 29 Aug 2026 09:14:30 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+    "title": "The Cybersecurity Apocalypse Is Coming in ‘Months,’ AI Giants Warn",
+    "description": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you’ll never guess what “MrChildPorn” was arrested for.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-29T14:21:04.701Z",
+    "published": "Sat, 29 Aug 2026 10:30:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
+    "title": "How to Run a Chatbot on Your Own Computer",
+    "description": "Installing a large language model on your personal computer gives you a handy digital assistant that won’t compromise your data privacy.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-29T14:21:04.701Z",
+    "published": "Sat, 29 Aug 2026 10:00:00 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/comulytic-note-pro-ai-voice-recorder-review/",
+    "title": "This pocket AI voice recorder took me back to the good old days of dictation (and shorthand)",
+    "description": "The Comulytic Note Pro AI voice recorder packs a lot of power into a credit card-sized device. But its usefulness is up to you.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-29T14:21:11.509Z",
+    "published": "Sat, 29 Aug 2026 10:30:48 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2242747/how-to-speed-up-macbook/",
+    "title": "Want to speed up your MacBook? Do these things first",
+    "description": "Any Mac will become slower over time, but slowdowns don&#39;t have to mean a new machine. Try these tricks to get your computer running faster again.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-29T14:21:12.112Z",
+    "published": "Sat, 29 Aug 2026 12:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2246956/xbox-project-helix-family-of-devices/",
+    "title": "Xbox Project Helix is a 'family of devices,' CEO reveals",
+    "description": "Asha Sharma said Xbox is developing a 'great family of devices' for Helix.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-29T14:21:12.112Z",
+    "published": "Sat, 29 Aug 2026 12:15:12 +0000"
   }
 ]
