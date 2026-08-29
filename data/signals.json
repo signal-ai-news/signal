@@ -42696,5 +42696,150 @@
     "category": "news",
     "discovered": "2026-08-29T20:48:55.367Z",
     "published": "Sat, 29 Aug 2026 18:52:22 +0000"
+  },
+  {
+    "url": "https://github.com/zeroFhacker/vibeguard",
+    "title": "Show HN: VibeGuard – security linter for AI-generated code",
+    "description": "Security linter for AI-generated code — catches what Copilot, Cursor and ChatGPT get wrong. SQL injection, hardcoded secrets, JWT bypass and 15+ more rules. Grade A–F. Zero config.\n\nComments URL: https://news.ycombinator.com/item?id=49494097\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T23:11:30.114Z",
+    "published": "Sat, 29 Aug 2026 23:04:03 +0000",
+    "processed": true,
+    "processedAt": "2026-08-29T23:13:56.531Z"
+  },
+  {
+    "url": "https://dimension.so/",
+    "title": "The issue with AI video generation",
+    "description": "Article URL: https://dimension.so/\nComments URL: https://news.ycombinator.com/item?id=49494014\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T23:11:30.114Z",
+    "published": "Sat, 29 Aug 2026 22:48:38 +0000",
+    "processed": true,
+    "processedAt": "2026-08-29T23:13:56.531Z"
+  },
+  {
+    "url": "https://tv.mormon.garden",
+    "title": "Show HN: Live AI video streams that write themselves one shot at a time",
+    "description": "Article URL: https://tv.mormon.garden\nComments URL: https://news.ycombinator.com/item?id=49493966\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T23:11:30.114Z",
+    "published": "Sat, 29 Aug 2026 22:43:33 +0000",
+    "processed": true,
+    "processedAt": "2026-08-29T23:13:56.531Z"
+  },
+  {
+    "url": "https://ivanca.github.io/ai/2026/08/29/ai-should-be-illegal-until-we-figure-out-how-to-deal-with-its-consequences/",
+    "title": "AI should be illegal until we figure out how to deal with its consequences",
+    "description": "Article URL: https://ivanca.github.io/ai/2026/08/29/ai-should-be-illegal-until-we-figure-out-how-to-deal-with-its-consequences/\nComments URL: https://news.ycombinator.com/item?id=49493940\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T23:11:30.114Z",
+    "published": "Sat, 29 Aug 2026 22:40:14 +0000",
+    "processed": true,
+    "processedAt": "2026-08-29T23:13:56.531Z"
+  },
+  {
+    "url": "https://sina.bio/posts/what-does-it-mean-for-data-to-be-ai-ready.html",
+    "title": "What does it mean for data to be AI ready?",
+    "description": "Article URL: https://sina.bio/posts/what-does-it-mean-for-data-to-be-ai-ready.html\nComments URL: https://news.ycombinator.com/item?id=49493907\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T23:11:30.114Z",
+    "published": "Sat, 29 Aug 2026 22:35:25 +0000",
+    "processed": true,
+    "processedAt": "2026-08-29T23:13:56.531Z"
+  },
+  {
+    "url": "https://www.brookings.edu/articles/ai-surveillance-in-schools-raises-safety-and-equity-concerns/",
+    "title": "AI surveillance in schools raises safety and equity concerns",
+    "description": "Article URL: https://www.brookings.edu/articles/ai-surveillance-in-schools-raises-safety-and-equity-concerns/\nComments URL: https://news.ycombinator.com/item?id=49493775\nPoints: 2\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T23:11:30.114Z",
+    "published": "Sat, 29 Aug 2026 22:15:32 +0000"
+  },
+  {
+    "url": "https://hbr.org/2026/05/research-why-you-shouldnt-treat-ai-agents-like-employees",
+    "title": "Research: Why You Shouldn't Treat AI Agents Like Employees",
+    "description": "Article URL: https://hbr.org/2026/05/research-why-you-shouldnt-treat-ai-agents-like-employees\nComments URL: https://news.ycombinator.com/item?id=49493750\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T23:11:30.114Z",
+    "published": "Sat, 29 Aug 2026 22:09:47 +0000"
+  },
+  {
+    "url": "https://pypi.org/project/simurg/",
+    "title": "Simurg – free web search for your AI agents that aborts hallucinations",
+    "description": "Article URL: https://pypi.org/project/simurg/\nComments URL: https://news.ycombinator.com/item?id=49493608\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T23:11:30.114Z",
+    "published": "Sat, 29 Aug 2026 21:43:31 +0000"
+  },
+  {
+    "url": "https://epochai.substack.com/p/will-financing-bottleneck-ai-compute",
+    "title": "Will financing bottleneck AI compute? An Anthropic case study",
+    "description": "Article URL: https://epochai.substack.com/p/will-financing-bottleneck-ai-compute\nComments URL: https://news.ycombinator.com/item?id=49493595\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T23:11:30.114Z",
+    "published": "Sat, 29 Aug 2026 21:41:20 +0000"
+  },
+  {
+    "url": "https://www.makralabs.org/about",
+    "title": "Show HN: AI Agents for Osint/Sigint",
+    "description": "The goal was to bring down the cost at the context eng. level. We do it with Layout Memoization.Instead of dumping HTML into the context window, we have built a continual learning browser harness (read only for now).We have built an early prototype for you to try out, where you can:1. Spins up a br",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T23:11:30.114Z",
+    "published": "Sat, 29 Aug 2026 21:39:05 +0000"
+  },
+  {
+    "url": "https://www.a1ho.com/2026/08/zero-trust-for-bloggers-hardening-your_9.html",
+    "title": "Zero-Trust for Bloggers: Hardening Your Site Against AI-Driven Phishing Swarms",
+    "description": "Article URL: https://www.a1ho.com/2026/08/zero-trust-for-bloggers-hardening-your_9.html\nComments URL: https://news.ycombinator.com/item?id=49493560\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T23:11:30.114Z",
+    "published": "Sat, 29 Aug 2026 21:36:52 +0000"
+  },
+  {
+    "url": "https://surya.website/a-blog/learning-to-draw-again-with-ai",
+    "title": "Learning to Draw Again with AI",
+    "description": "Article URL: https://surya.website/a-blog/learning-to-draw-again-with-ai\nComments URL: https://news.ycombinator.com/item?id=49493500\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T23:11:30.114Z",
+    "published": "Sat, 29 Aug 2026 21:29:20 +0000"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
+    "title": "Will it be Anthropic or X AI after Cursor getting no access to OpenAI?",
+    "description": "Article URL: https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html\nComments URL: https://news.ycombinator.com/item?id=49493319\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T23:11:30.114Z",
+    "published": "Sat, 29 Aug 2026 21:03:16 +0000"
+  },
+  {
+    "url": "https://www.testingcatalog.com/first-outputs-from-gpt-6-astra-model-from-openai/",
+    "title": "First outputs from GPT-6 \"Astra\" model from OpenAI",
+    "description": "Article URL: https://www.testingcatalog.com/first-outputs-from-gpt-6-astra-model-from-openai/\nComments URL: https://news.ycombinator.com/item?id=49493237\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-29T23:11:30.114Z",
+    "published": "Sat, 29 Aug 2026 20:52:56 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2246918/video-games-rival-gta-6-budget/",
+    "title": "The wildest video game budgets can't hold a candle to GTA 6",
+    "description": "GTA 6 is thought to be the most expensive entertainment product ever made, eclipsing Hollywood movies and other video games by hundreds of millions of dollars.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-29T23:11:50.826Z",
+    "published": "Sat, 29 Aug 2026 22:30:00 +0000"
   }
 ]
