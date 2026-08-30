@@ -10280,7 +10280,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-30T20:45:36.491Z",
-    "published": "Thu, 30 Jul 2026 20:10:53 +0000"
+    "published": "Thu, 30 Jul 2026 20:10:53 +0000",
+    "processed": true,
+    "processedAt": "2026-08-30T01:36:30.563Z"
   },
   {
     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-accidentally-spent-usd1-8-million-using-claude-for-menial-coding-task-went-860-percent-over-budget-catastrophically-expensive-coding-blunders-discovered-in-internal-amazon-ai-usage-metrics",
@@ -10289,7 +10291,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-30T20:45:36.491Z",
-    "published": "Thu, 30 Jul 2026 20:07:06 +0000"
+    "published": "Thu, 30 Jul 2026 20:07:06 +0000",
+    "processed": true,
+    "processedAt": "2026-08-30T01:36:30.563Z"
   },
   {
     "url": "https://www.by-human.net/",
@@ -10298,7 +10302,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-30T20:45:36.491Z",
-    "published": "Thu, 30 Jul 2026 19:58:56 +0000"
+    "published": "Thu, 30 Jul 2026 19:58:56 +0000",
+    "processed": true,
+    "processedAt": "2026-08-30T01:36:30.563Z"
   },
   {
     "url": "https://chsxf.dev/2026/07/27/18-firefox-setting-up-google-search-without-ai.html",
@@ -10307,7 +10313,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-30T20:45:36.491Z",
-    "published": "Thu, 30 Jul 2026 19:58:01 +0000"
+    "published": "Thu, 30 Jul 2026 19:58:01 +0000",
+    "processed": true,
+    "processedAt": "2026-08-30T01:36:30.563Z"
   },
   {
     "url": "https://www.wsj.com/world/europe/eu-opens-call-for-creation-of-local-ai-gigafactories-c286213d",
@@ -10316,7 +10324,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-30T20:45:36.491Z",
-    "published": "Thu, 30 Jul 2026 19:57:32 +0000"
+    "published": "Thu, 30 Jul 2026 19:57:32 +0000",
+    "processed": true,
+    "processedAt": "2026-08-30T01:36:30.563Z"
   },
   {
     "url": "https://www.theregister.com/ai-and-ml/2026/07/30/open-source-project-fools-ai-scrapers-with-poisoned-font/5281303",
