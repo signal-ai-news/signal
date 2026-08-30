@@ -10390,7 +10390,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-30T20:45:36.491Z",
-    "published": "Thu, 30 Jul 2026 19:12:47 +0000"
+    "published": "Thu, 30 Jul 2026 19:12:47 +0000",
+    "processed": true,
+    "processedAt": "2026-08-30T23:23:28.383Z"
   },
   {
     "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
@@ -10399,7 +10401,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-30T20:45:36.491Z",
-    "published": "Thu, 30 Jul 2026 19:11:05 +0000"
+    "published": "Thu, 30 Jul 2026 19:11:05 +0000",
+    "processed": true,
+    "processedAt": "2026-08-30T23:23:28.383Z"
   },
   {
     "url": "https://www.marginpoints.com/issues/2026-07-30-ai-agent-only-trade-show-ferrari-luce",
@@ -10408,7 +10412,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-30T20:45:36.491Z",
-    "published": "Thu, 30 Jul 2026 19:09:30 +0000"
+    "published": "Thu, 30 Jul 2026 19:09:30 +0000",
+    "processed": true,
+    "processedAt": "2026-08-30T23:23:28.383Z"
   },
   {
     "url": "https://www.vice.com/en/article/thieves-are-now-targeting-ai-data-center-construction-sites-for-copper-and-expensive-equipment/",
@@ -10417,7 +10423,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-30T20:45:36.491Z",
-    "published": "Thu, 30 Jul 2026 19:09:10 +0000"
+    "published": "Thu, 30 Jul 2026 19:09:10 +0000",
+    "processed": true,
+    "processedAt": "2026-08-30T23:23:28.383Z"
   },
   {
     "url": "https://www.youtube.com/watch?v=BzY8EqYEP8o",
@@ -43404,5 +43412,16 @@
     "category": "news",
     "discovered": "2026-08-30T20:53:58.897Z",
     "published": "Sun, 30 Aug 2026 18:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2242786/iphone-unavailable-message-how-to-fix/",
+    "title": "Getting an 'iPhone Unavailable' message? Here's how to fix it",
+    "description": "If you&#39;re having trouble getting into your iPhone, you&#39;ll need your old passcode or Apple Account password.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-30T23:21:22.979Z",
+    "published": "Sun, 30 Aug 2026 22:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-30T23:23:28.385Z"
   }
 ]
