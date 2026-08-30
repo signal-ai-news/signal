@@ -42861,5 +42861,204 @@
     "category": "news",
     "discovered": "2026-08-29T23:11:50.826Z",
     "published": "Sat, 29 Aug 2026 22:30:00 +0000"
+  },
+  {
+    "url": "https://www.wiz.io/blog/ai-infrastructure-honeypot",
+    "title": "90 days of attacks on AI infrastructure",
+    "description": "Article URL: https://www.wiz.io/blog/ai-infrastructure-honeypot\nComments URL: https://news.ycombinator.com/item?id=49498326\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-30T13:12:00.675Z",
+    "published": "Sun, 30 Aug 2026 13:08:58 +0000",
+    "processed": true,
+    "processedAt": "2026-08-30T13:14:30.936Z"
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code/issues/66504",
+    "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+    "description": "Article URL: https://github.com/anthropics/claude-code/issues/66504\nComments URL: https://news.ycombinator.com/item?id=49498201\nPoints: 20\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-30T13:12:00.675Z",
+    "published": "Sun, 30 Aug 2026 12:50:54 +0000",
+    "processed": true,
+    "processedAt": "2026-08-30T13:14:30.936Z"
+  },
+  {
+    "url": "https://claude.com/programs/team-plan-for-scientists",
+    "title": "Claude Team Plan for Scientists",
+    "description": "Article URL: https://claude.com/programs/team-plan-for-scientists\nComments URL: https://news.ycombinator.com/item?id=49498105\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-30T13:12:00.675Z",
+    "published": "Sun, 30 Aug 2026 12:33:38 +0000",
+    "processed": true,
+    "processedAt": "2026-08-30T13:14:30.936Z"
+  },
+  {
+    "url": "https://noaifridays.com/",
+    "title": "No AI Fridays",
+    "description": "Article URL: https://noaifridays.com/\nComments URL: https://news.ycombinator.com/item?id=49498095\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-30T13:12:00.675Z",
+    "published": "Sun, 30 Aug 2026 12:31:05 +0000",
+    "processed": true,
+    "processedAt": "2026-08-30T13:14:30.936Z"
+  },
+  {
+    "url": "https://artificialanalysis.ai/image/leaderboard/editing",
+    "title": "The MAI Image and Reve 2.1 ranks higher than GPT Image 2 now",
+    "description": "Article URL: https://artificialanalysis.ai/image/leaderboard/editing\nComments URL: https://news.ycombinator.com/item?id=49498078\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-30T13:12:00.675Z",
+    "published": "Sun, 30 Aug 2026 12:26:42 +0000",
+    "processed": true,
+    "processedAt": "2026-08-30T13:14:30.936Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49497992",
+    "title": "AgentObs – a hook that blocks Claude Code before you hit your limit",
+    "description": "AgentObs – a hook that blocks Claude Code before you hit your limit https://github.com/klars-ai/agentobs\n\nComments URL: https://news.ycombinator.com/item?id=49497992\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-30T13:12:00.675Z",
+    "published": "Sun, 30 Aug 2026 12:12:37 +0000"
+  },
+  {
+    "url": "https://www.idlen.io/",
+    "title": "Idlen: Ads in the IDE, in AI chats, and a self-serve ads manager",
+    "description": "Article URL: https://www.idlen.io/\nComments URL: https://news.ycombinator.com/item?id=49497926\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-30T13:12:00.675Z",
+    "published": "Sun, 30 Aug 2026 12:02:08 +0000"
+  },
+  {
+    "url": "https://www.debian.org/vote/2026/vote_002#texte",
+    "title": "LLM usage in Debian neither endorsed nor prohibited",
+    "description": "Article URL: https://www.debian.org/vote/2026/vote_002#texte\nComments URL: https://news.ycombinator.com/item?id=49497883\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-30T13:12:00.675Z",
+    "published": "Sun, 30 Aug 2026 11:52:38 +0000"
+  },
+  {
+    "url": "https://1endpoint.dev",
+    "title": "Show HN: 1endpoint – Cheaper access to AI models",
+    "description": "1endpoint is a unified AI inference gateway. We support OpenAI Chat Completions, Responses API and Anthropic Messages, so existing tools and agents can usually point to 1endpoint without changing much of their integration.The other thing we've been focusing heavily on is cost. A lot of the models a",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-30T13:12:00.675Z",
+    "published": "Sun, 30 Aug 2026 11:13:32 +0000"
+  },
+  {
+    "url": "https://www.visiscan.app",
+    "title": "Show HN: Get your free AI search visibility scan",
+    "description": "Article URL: https://www.visiscan.app\nComments URL: https://news.ycombinator.com/item?id=49497538\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-30T13:12:00.675Z",
+    "published": "Sun, 30 Aug 2026 10:50:35 +0000"
+  },
+  {
+    "url": "https://devblogs.microsoft.com/all-things-azure/only-believe-what-you-can-validate/",
+    "title": "Only believe what you can validate: a verification framework for agentic AI",
+    "description": "Article URL: https://devblogs.microsoft.com/all-things-azure/only-believe-what-you-can-validate/\nComments URL: https://news.ycombinator.com/item?id=49497440\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-30T13:12:00.675Z",
+    "published": "Sun, 30 Aug 2026 10:36:16 +0000"
+  },
+  {
+    "url": "https://blog.g9n.com/observations-around-prominent-programmer-sentiment-and-ai",
+    "title": "Observations Around Prominent Programmer Sentiment and AI",
+    "description": "Article URL: https://blog.g9n.com/observations-around-prominent-programmer-sentiment-and-ai\nComments URL: https://news.ycombinator.com/item?id=49497358\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-30T13:12:00.675Z",
+    "published": "Sun, 30 Aug 2026 10:20:20 +0000"
+  },
+  {
+    "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+    "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+    "description": "Article URL: https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766\nComments URL: https://news.ycombinator.com/item?id=49497357\nPoints: 32\n# Comments: 11",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-30T13:12:00.675Z",
+    "published": "Sun, 30 Aug 2026 10:20:11 +0000"
+  },
+  {
+    "url": "https://runplane.ai",
+    "title": "We built this after an AI agent misread a risk signal and moved $1.2M in trades",
+    "description": "Article URL: https://runplane.ai\nComments URL: https://news.ycombinator.com/item?id=49497238\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-30T13:12:00.675Z",
+    "published": "Sun, 30 Aug 2026 09:57:59 +0000"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-08-27/older-workers-are-more-upbeat-about-ai-than-20-somethings",
+    "title": "Workers in their 40s, 50s and 60s are the most positive about AI",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-08-27/older-workers-are-more-upbeat-about-ai-than-20-somethings\nComments URL: https://news.ycombinator.com/item?id=49497225\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-08-30T13:12:00.675Z",
+    "published": "Sun, 30 Aug 2026 09:55:58 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/noisy-text-in-rag-typos-ocr-and-the-gap-classical-spell-check-leaves/",
+    "title": "Noisy Text in RAG: Typos, OCR, and the Gap Classical Spell-Check Leaves",
+    "description": "Enterprise Document Intelligence [Vol.1 #B1] - Three sources of one problem. User typos, fast-typing transcription noise, OCR character errors. Classical spell-check handles one of them. Embeddings carry the rest\nThe post Noisy Text in RAG: Typos, OCR, and the Gap Classical Spell-Check Leaves appear",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-30T13:12:06.663Z",
+    "published": "Sun, 30 Aug 2026 13:00:02 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/ai-agents-have-no-sense-of-time-and-are-not-aware-of-it/",
+    "title": "AI agents have no sense of time and are not aware of it",
+    "description": "AI coding assistants like Claude Code and Codex have no sense of time, according to a new study. Both systematically overestimate how long tasks will take. Codex is off by as much as ten times the actual duration. They also rate their own work about 20 percentage points too high. For long,",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-30T13:12:08.649Z",
+    "published": "Sun, 30 Aug 2026 10:41:36 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/the-skills-that-earn-top-grades-are-the-ones-ai-can-fake-best/",
+    "title": "The skills that earn top grades are the ones AI can fake best",
+    "description": "GPT-4o boosted grades on a marketing assignment by nearly a full point on a five-point scale in an experiment with 1,053 Bocconi University students. Whether they actually learned anything wasn't tested. Other studies suggest that AI-assisted performance without independent thinking does lo",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-30T13:12:08.649Z",
+    "published": "Sun, 30 Aug 2026 10:34:09 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropics-claude-code-limit-change-is-a-raise-on-paper-but-a-cut-in-practice/",
+    "title": "Anthropic's Claude Code limit change is a raise on paper but a cut in practice",
+    "description": "Anthropic is effectively cutting Claude Code's weekly usage limits by 17 percent. A temporary 50 percent boost expires on September 14 and will be replaced by a permanent 25 percent increase. Anthropic promises more control and transparency over usage in return.\nThe article Anthropic&#039;s",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-30T13:12:08.649Z",
+    "published": "Sun, 30 Aug 2026 09:05:19 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/sony-and-warner-sue-anthropic-over-one-of-the-largest-and-most-blatant-ongoing-thefts-of-intellectual-property-in-history/",
+    "title": "Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\"",
+    "description": "Sony Music, Warner Music, and other publishers are suing Anthropic and CEO Dario Amodei personally for allegedly using tens of thousands of copyrighted musical compositions to train Claude without permission. The plaintiffs call it \"one of the largest and most blatant ongoing thefts of inte",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-30T13:12:08.649Z",
+    "published": "Sun, 30 Aug 2026 08:50:20 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2242773/how-much-storage-does-smart-tv-have/",
+    "title": "How much storage does a smart TV typically have?",
+    "description": "Smart TVs store lots of data, and the amount they have to work with is often quite low. There are ways to maximize your storage space, though.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-30T13:12:23.935Z",
+    "published": "Sun, 30 Aug 2026 13:00:00 +0000"
   }
 ]
