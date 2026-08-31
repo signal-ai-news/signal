@@ -43614,5 +43614,159 @@
     "category": "community",
     "discovered": "2026-08-31T07:33:02.537Z",
     "published": "Mon, 31 Aug 2026 02:39:48 +0000"
+  },
+  {
+    "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "title": "A milestone in expanding access to AI",
+    "description": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-08-31T15:20:44.120Z",
+    "published": "Mon, 31 Aug 2026 04:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-08-31T15:23:20.380Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+    "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+    "description": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-08-31T15:20:47.362Z",
+    "published": "Mon, 31 Aug 2026 15:15:25 +0000",
+    "processed": true,
+    "processedAt": "2026-08-31T15:23:20.380Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/faq-as-rag-when-you-get-to-design-the-corpus/",
+    "title": "FAQ as RAG: When You Get to Design the Corpus",
+    "description": "Enterprise Document Intelligence [Vol.1 #B2] - The FAQ inverts every brick of the standard RAG pipeline. Parsing is trivial, retrieval doubles as a cache, and few-shot prompting becomes a retrieval problem too\nThe post FAQ as RAG: When You Get to Design the Corpus appeared first on Towards Data Scie",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-31T15:20:58.617Z",
+    "published": "Mon, 31 Aug 2026 14:00:02 GMT",
+    "processed": true,
+    "processedAt": "2026-08-31T15:23:20.380Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/why-rag-complexity-should-be-earned/",
+    "title": "Why RAG Complexity Should Be Earned",
+    "description": "A framework for building RAG pipelines that introduces complexity in response to observed failure modes, from lexical and hybrid search to reranking and agentic information seeking\nThe post Why RAG Complexity Should Be Earned appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-31T15:20:58.617Z",
+    "published": "Mon, 31 Aug 2026 12:30:01 GMT",
+    "processed": true,
+    "processedAt": "2026-08-31T15:23:20.380Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/agentops-is-not-mlops-what-breaks-in-your-monitoring-stack-when-agents-go-to-production/",
+    "title": "AgentOps Is Not MLOps: What Breaks in Your Monitoring Stack When Agents Go to Production",
+    "description": "The five MLOps monitoring assumptions agents break, and which inherited signals now pass failed runs as healthy.\nThe post AgentOps Is Not MLOps: What Breaks in Your Monitoring Stack When Agents Go to Production appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-08-31T15:20:58.617Z",
+    "published": "Mon, 31 Aug 2026 11:00:01 GMT",
+    "processed": true,
+    "processedAt": "2026-08-31T15:23:20.380Z"
+  },
+  {
+    "url": "https://the-decoder.com/chinas-cxmt-makes-its-first-hbm3e-chips-closing-the-ai-memory-gap/",
+    "title": "China's CXMT makes its first HBM3E chips, closing the AI memory gap",
+    "description": "China's top memory maker ChangXin Memory Technologies (CXMT) is producing HBM3E for the first time in small quantities, a fast memory found in many current AI processors.\nThe article China&#039;s CXMT makes its first HBM3E chips, closing the AI memory gap appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-31T15:21:00.454Z",
+    "published": "Mon, 31 Aug 2026 15:17:31 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/chatgpt-now-faces-stricter-eu-oversight-as-a-very-large-search-engine/",
+    "title": "ChatGPT now faces stricter EU oversight as a very large search engine",
+    "description": "The EU Commission is classifying ChatGPT as a very large search engine under the Digital Services Act for the first time, with at least 45 million monthly EU users. By the end of 2026, OpenAI has to deliver risk assessments, transparency reports, and an ad archive, among other things. Wheth",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-31T15:21:00.454Z",
+    "published": "Mon, 31 Aug 2026 14:31:37 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-starts-charging-some-customers-only-when-its-ai-actually-works/",
+    "title": "OpenAI starts charging some customers only when its AI actually works",
+    "description": "OpenAI is offering some large customers outcome-based pricing, where they pay only once the AI actually finishes a task. Salesforce, Adobe, and several startups are also moving away from fixed subscription fees. The central dispute stays the same. Who gets credit for the success, the softwa",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-31T15:21:00.454Z",
+    "published": "Mon, 31 Aug 2026 14:28:14 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openclaw-2-0-brings-simplified-setup-a-rebuilt-browser-app-and-multiplayer-sessions/",
+    "title": "OpenClaw 2.0 brings simplified setup, a rebuilt browser app, and multiplayer sessions",
+    "description": "The OpenClaw Foundation has released version 2.0 of its open-source AI platform, its largest release to date with over 16,000 pull requests. New features include cloud sessions on rented machines, real-time collaboration, and a browser app rebuilt from scratch. The software now automaticall",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-31T15:21:00.454Z",
+    "published": "Mon, 31 Aug 2026 10:46:04 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-and-rival-ai-labs-are-buying-tens-of-thousands-of-mac-minis-to-train-computer-use-agents/",
+    "title": "OpenAI and rival AI labs are buying tens of thousands of Mac minis to train computer-use agents",
+    "description": "According to The Information, OpenAI has purchased tens of thousands of Mac minis and Mac Studios to train computer agents. Anthropic also relies on Apple hardware. Demand is so high that the most powerful models have been sold out for months. Apple’s Mac revenue rose by nearly 29 percent t",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-08-31T15:21:00.454Z",
+    "published": "Mon, 31 Aug 2026 08:55:12 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+    "title": "You Know Who Really Hates AI? Insurance Claims Adjusters",
+    "description": "Of the Glassdoor reviews from claims adjusters that mentioned AI, a staggering 98 percent were negative. “AI is just a tool,” one person tells WIRED. “It should never be given the keys.”",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-08-31T15:21:07.154Z",
+    "published": "Mon, 31 Aug 2026 10:30:00 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/article/chatgpt-work-small-business-use-cases/",
+    "title": "5 ways I actually use ChatGPT Work in my small business to save time and money",
+    "description": "From scanning Gmail to catching ugly loan terms, ChatGPT Work has become my practical small-business assistant. Here's how agentic AI delivers real productivity gains for me.",
+    "source": "ZDNet AI",
+    "category": "news",
+    "discovered": "2026-08-31T15:21:13.488Z",
+    "published": "Mon, 31 Aug 2026 11:48:00 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2247513/chatgpt-reddit-and-roblox-to-face-the-eus-strictest-platform-rules/",
+    "title": "ChatGPT, Reddit and Roblox to face the EU's strictest platform rules",
+    "description": "ChatGPT, Reddit and Roblox to face the EU&#39;s strictest platform rules.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-31T15:21:14.082Z",
+    "published": "Mon, 31 Aug 2026 14:56:27 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2246325/garmin-cirqa-review/",
+    "title": "Garmin Cirqa review: A fine but utterly inessential smart band",
+    "description": "Garmin&#39;s Cirqa band lacks the software and AI insights to make it a true Whoop rival.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-31T15:21:14.082Z",
+    "published": "Mon, 31 Aug 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2246914/instagram-will-demote-ai-generated-influencers-if-they-dont-clearly-label-their-account/",
+    "title": "Instagram will demote AI-generated influencers if they don't clearly label their account",
+    "description": "The app isn&#39;t cracking down on other kinds of AI slop, though.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-31T15:21:14.082Z",
+    "published": "Mon, 31 Aug 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2240359/how-to-use-call-screening-feature-while-using-android-auto/",
+    "title": "This feature keeps distracting spam calls away while using Android Auto",
+    "description": "If you use Android Auto, you might be interested to know that there&#39;s a feature available on some phones that helps keep phone calls minimal while you drive.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-08-31T15:21:14.082Z",
+    "published": "Mon, 31 Aug 2026 12:30:00 +0000"
   }
 ]
