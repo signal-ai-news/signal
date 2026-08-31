@@ -10434,7 +10434,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-30T20:45:36.491Z",
-    "published": "Thu, 30 Jul 2026 19:02:38 +0000"
+    "published": "Thu, 30 Jul 2026 19:02:38 +0000",
+    "processed": true,
+    "processedAt": "2026-08-31T01:34:26.375Z"
   },
   {
     "url": "https://predx-article.fika.bar/microsoft-s-ai-ambitions-put-openai-and-anthropic-on-notice-01KYRCW9T4AXTRP346SMDSAH4M",
@@ -10443,7 +10445,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-30T20:45:36.491Z",
-    "published": "Thu, 30 Jul 2026 19:01:33 +0000"
+    "published": "Thu, 30 Jul 2026 19:01:33 +0000",
+    "processed": true,
+    "processedAt": "2026-08-31T01:34:26.375Z"
   },
   {
     "url": "https://towardsdatascience.com/the-python-ecosystem-that-changed-ai-development/",
@@ -10452,7 +10456,9 @@
     "source": "Towards Data Science",
     "category": "ml",
     "discovered": "2026-07-30T20:45:41.395Z",
-    "published": "Thu, 30 Jul 2026 16:30:00 +0000"
+    "published": "Thu, 30 Jul 2026 16:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-08-31T01:34:26.375Z"
   },
   {
     "url": "https://the-decoder.com/openai-goes-full-china-pricing-mode-with-an-80-percent-cut-to-its-most-affordable-gpt-5-6-model/",
@@ -10461,7 +10467,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-30T20:45:43.103Z",
-    "published": "Thu, 30 Jul 2026 18:46:24 +0000"
+    "published": "Thu, 30 Jul 2026 18:46:24 +0000",
+    "processed": true,
+    "processedAt": "2026-08-31T01:34:26.375Z"
   },
   {
     "url": "https://the-decoder.com/ex-openai-researcher-bets-100-billion-will-flow-into-training-data-because-scaling-alone-wont-cut-it/",
@@ -10470,7 +10478,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-30T20:45:43.103Z",
-    "published": "Thu, 30 Jul 2026 18:07:17 +0000"
+    "published": "Thu, 30 Jul 2026 18:07:17 +0000",
+    "processed": true,
+    "processedAt": "2026-08-31T01:34:26.375Z"
   },
   {
     "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/",
