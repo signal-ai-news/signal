@@ -10489,7 +10489,9 @@
     "source": "GitHub Copilot Blog",
     "category": "code",
     "discovered": "2026-07-30T20:45:47.976Z",
-    "published": "Thu, 30 Jul 2026 17:30:24 +0000"
+    "published": "Thu, 30 Jul 2026 17:30:24 +0000",
+    "processed": true,
+    "processedAt": "2026-09-01T05:36:05.991Z"
   },
   {
     "url": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
@@ -10498,7 +10500,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-07-30T20:45:49.224Z",
-    "published": "Thu, 30 Jul 2026 20:12:57 +0000"
+    "published": "Thu, 30 Jul 2026 20:12:57 +0000",
+    "processed": true,
+    "processedAt": "2026-09-01T05:36:05.991Z"
   },
   {
     "url": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
@@ -10507,7 +10511,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-07-30T20:45:49.224Z",
-    "published": "Thu, 30 Jul 2026 17:51:10 +0000"
+    "published": "Thu, 30 Jul 2026 17:51:10 +0000",
+    "processed": true,
+    "processedAt": "2026-09-01T05:36:05.991Z"
   },
   {
     "url": "https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/",
@@ -44121,5 +44127,27 @@
     "category": "news",
     "discovered": "2026-09-01T00:32:41.876Z",
     "published": "Mon, 31 Aug 2026 22:34:52 +0000"
+  },
+  {
+    "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "title": "OpenAI supports California’s bill to advance youth AI safety",
+    "description": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-01T05:33:27.019Z",
+    "published": "Mon, 31 Aug 2026 07:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-01T05:36:05.992Z"
+  },
+  {
+    "url": "https://www.engadget.com/2248309/samsung-galaxy-book-6-model-budget-friendly-799-laptop/",
+    "title": "Samsung's new Galaxy Book 6 model is a budget-friendly $799 laptop",
+    "description": "Samsung has released a more accessible and affordable Galaxy Book 6 laptop.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-01T05:33:59.276Z",
+    "published": "Tue, 01 Sep 2026 05:01:49 +0000",
+    "processed": true,
+    "processedAt": "2026-09-01T05:36:05.992Z"
   }
 ]
