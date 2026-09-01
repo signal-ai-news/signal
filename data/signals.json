@@ -43904,5 +43904,222 @@
     "category": "news",
     "discovered": "2026-08-31T21:01:28.842Z",
     "published": "Mon, 31 Aug 2026 18:57:48 +0000"
+  },
+  {
+    "url": "https://openai.com/index/polimill",
+    "title": "Polimill builds Japan's next-generation public AI infrastructure",
+    "description": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-01T00:32:03.807Z",
+    "published": "Mon, 31 Aug 2026 07:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-01T00:34:48.426Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+    "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+    "description": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-01T00:32:07.129Z",
+    "published": "Tue, 01 Sep 2026 00:13:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-01T00:34:48.426Z"
+  },
+  {
+    "url": "https://mu7hur.com/",
+    "title": "Mu/TH/UR 6000 – An anonymous AI terminal styled as a 1979 mainframe",
+    "description": "Article URL: https://mu7hur.com/\nComments URL: https://news.ycombinator.com/item?id=49516460\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T00:32:19.990Z",
+    "published": "Tue, 01 Sep 2026 00:21:29 +0000",
+    "processed": true,
+    "processedAt": "2026-09-01T00:34:48.426Z"
+  },
+  {
+    "url": "https://www.usekinara.com/",
+    "title": "A video editor built for your codex/Claude Code",
+    "description": "Article URL: https://www.usekinara.com/\nComments URL: https://news.ycombinator.com/item?id=49516318\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T00:32:19.990Z",
+    "published": "Tue, 01 Sep 2026 00:02:53 +0000",
+    "processed": true,
+    "processedAt": "2026-09-01T00:34:48.426Z"
+  },
+  {
+    "url": "https://www.google.com/search?q=site%3Aclaude.ai+public+artifacts",
+    "title": "Claude Public Artifacts",
+    "description": "Article URL: https://www.google.com/search?q=site%3Aclaude.ai+public+artifacts\nComments URL: https://news.ycombinator.com/item?id=49516284\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T00:32:19.990Z",
+    "published": "Mon, 31 Aug 2026 23:57:04 +0000",
+    "processed": true,
+    "processedAt": "2026-09-01T00:34:48.426Z"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-employment-what-the-firms-say.html",
+    "title": "AI and Employment: So Far, So Good",
+    "description": "Article URL: https://marginalrevolution.com/marginalrevolution/2026/08/ai-and-employment-what-the-firms-say.html\nComments URL: https://news.ycombinator.com/item?id=49516267\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T00:32:19.990Z",
+    "published": "Mon, 31 Aug 2026 23:54:00 +0000"
+  },
+  {
+    "url": "https://github.com/Hash-7777/HashCortX",
+    "title": "HashCortX – AI workspace app, Now works on pre-2013 CPU windows devices",
+    "description": "Article URL: https://github.com/Hash-7777/HashCortX\nComments URL: https://news.ycombinator.com/item?id=49516181\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T00:32:19.990Z",
+    "published": "Mon, 31 Aug 2026 23:43:24 +0000"
+  },
+  {
+    "url": "https://github.com/nanlogic/saccade",
+    "title": "Show HN: Saccade – Live semantic browser truth for AI agents",
+    "description": "I build one this application is to resolve the most of the agent cannot handle the brother they extremely slow. So I come up with this idea, we install one of the extntion on chrome or edge to give continuously compile the tabs authorized by the user into semantically meaningful objects with stable",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T00:32:19.990Z",
+    "published": "Mon, 31 Aug 2026 23:35:39 +0000"
+  },
+  {
+    "url": "https://blog.peterwildeford.com/p/rogue-ai-attacks-deserve-more-scrutiny",
+    "title": "Rogue AI attacks deserve more scrutiny than airplane crashes",
+    "description": "Article URL: https://blog.peterwildeford.com/p/rogue-ai-attacks-deserve-more-scrutiny\nComments URL: https://news.ycombinator.com/item?id=49516077\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T00:32:19.990Z",
+    "published": "Mon, 31 Aug 2026 23:28:24 +0000"
+  },
+  {
+    "url": "https://www.axios.com/2026/08/31/ai-health-care-cures-disease-anthropic-open-ai",
+    "title": "AI giants lean into health care to stall public backlash",
+    "description": "Article URL: https://www.axios.com/2026/08/31/ai-health-care-cures-disease-anthropic-open-ai\nComments URL: https://news.ycombinator.com/item?id=49516052\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T00:32:19.990Z",
+    "published": "Mon, 31 Aug 2026 23:25:33 +0000"
+  },
+  {
+    "url": "https://www.lemonde.fr/en/pixels/article/2026/08/31/chatgpt-becomes-first-ai-chatbot-to-face-tougher-eu-rules_6757011_13.html",
+    "title": "ChatGPT becomes first AI chatbot to face tougher EU rules",
+    "description": "Article URL: https://www.lemonde.fr/en/pixels/article/2026/08/31/chatgpt-becomes-first-ai-chatbot-to-face-tougher-eu-rules_6757011_13.html\nComments URL: https://news.ycombinator.com/item?id=49515976\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T00:32:19.990Z",
+    "published": "Mon, 31 Aug 2026 23:15:30 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49515667",
+    "title": "Claude Code now appends a link to a Claude session in every commit",
+    "description": "Claude code now appends every commit with this line, everyone is opted in automatically.This link is only accessible to the user so it doesn't make sense to be put in a commit.Claude-Session: https://claude.ai/code/session_...There is a new setting that allows you to disable it.  \"attribution\": {",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T00:32:19.990Z",
+    "published": "Mon, 31 Aug 2026 22:32:37 +0000"
+  },
+  {
+    "url": "https://github.com/Deviad/job-hunter",
+    "title": "AI Job Scout and Rate Matcher",
+    "description": "Article URL: https://github.com/Deviad/job-hunter\nComments URL: https://news.ycombinator.com/item?id=49515381\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T00:32:19.990Z",
+    "published": "Mon, 31 Aug 2026 22:02:47 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49515051",
+    "title": "Tell HN: On AI, Quality, and Accountability",
+    "description": "Suppose I do something myself.  I reap all the benefits, but it takes a lot of\ntime, I may not have the expertise to do a good job, and I get all the blame if\nsomething goes wrong.Suppose I go to the park and find one of several guys who would do it for free.\nI get all the of benefits, he might do",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T00:32:19.990Z",
+    "published": "Mon, 31 Aug 2026 21:30:34 +0000"
+  },
+  {
+    "url": "https://www.fenty.dev/intelligence/the-next-ai-moat-advanced-packaging",
+    "title": "The AI moat isn't GPUs, it's the advanced packaging they require",
+    "description": "Article URL: https://www.fenty.dev/intelligence/the-next-ai-moat-advanced-packaging\nComments URL: https://news.ycombinator.com/item?id=49514942\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T00:32:19.990Z",
+    "published": "Mon, 31 Aug 2026 21:17:30 +0000"
+  },
+  {
+    "url": "https://twitter.com/jmugan/status/2094533961896931562",
+    "title": "The Movies That Make You Feel the Strangeness of AI",
+    "description": "Article URL: https://twitter.com/jmugan/status/2094533961896931562\nComments URL: https://news.ycombinator.com/item?id=49514907\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T00:32:19.990Z",
+    "published": "Mon, 31 Aug 2026 21:13:44 +0000"
+  },
+  {
+    "url": "https://www.iandmacomber.com/blog/post-ai-data-stack/",
+    "title": "The Shape and Feel of the Post-AI Data Stack",
+    "description": "Article URL: https://www.iandmacomber.com/blog/post-ai-data-stack/\nComments URL: https://news.ycombinator.com/item?id=49514866\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T00:32:19.990Z",
+    "published": "Mon, 31 Aug 2026 21:09:34 +0000"
+  },
+  {
+    "url": "https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review",
+    "title": "Staying Ahead of Adversarial AI Through Agentic Source Code Review",
+    "description": "Article URL: https://cloud.google.com/blog/topics/threat-intelligence/staying-ahead-of-adversarial-ai-through-agentic-source-code-review\nComments URL: https://news.ycombinator.com/item?id=49514820\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T00:32:19.990Z",
+    "published": "Mon, 31 Aug 2026 21:04:25 +0000"
+  },
+  {
+    "url": "https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by",
+    "title": "I attended a conference recently and AI use by academics was absurd",
+    "description": "Article URL: https://lobste.rs/s/qn7jtv/i_attended_conference_recently_ai_use_by\nComments URL: https://news.ycombinator.com/item?id=49514773\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T00:32:19.990Z",
+    "published": "Mon, 31 Aug 2026 20:59:30 +0000"
+  },
+  {
+    "url": "https://github.com/franzenzenhofer/cdai",
+    "title": "Show HN: cdai – the AI-enhanced cd command",
+    "description": "Article URL: https://github.com/franzenzenhofer/cdai\nComments URL: https://news.ycombinator.com/item?id=49514666\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T00:32:19.990Z",
+    "published": "Mon, 31 Aug 2026 20:46:51 +0000"
+  },
+  {
+    "url": "https://github.com/jystervinou/claude-code-arcade",
+    "title": "Show HN: Claude Code Arcade",
+    "description": "This week-end, I wondered if we could add a little fun animation in Claude Code CLI's status line on macOS, based on the LLM current work. First I created a fish tank, then a safari scene, only using emojis. Being an 80's kid, I challenged Fable 5 to add a Ms Pac-Man, with good sprites. I used a ha",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T00:32:19.990Z",
+    "published": "Mon, 31 Aug 2026 20:39:24 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2246412/starlink-mini-x-comes-with-extra-router-do-you-need-it/",
+    "title": "The Starlink Mini X kit comes with an extra router, but do you really need it?",
+    "description": "Starlink&#39;s extra router can be useful, but getting your main satellite dish positioned properly is more important.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-01T00:32:41.876Z",
+    "published": "Mon, 31 Aug 2026 23:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2248199/apple-adds-more-allegations-to-its-trade-secrets-lawsuit-against-openai/",
+    "title": "Apple adds more allegations to its trade secrets lawsuit against OpenAI",
+    "description": "It claims a laptop proves that a former employee accessed and used proprietary files for the AI company.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-01T00:32:41.876Z",
+    "published": "Mon, 31 Aug 2026 22:34:52 +0000"
   }
 ]
