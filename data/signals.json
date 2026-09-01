@@ -44159,5 +44159,168 @@
     "published": "Tue, 01 Sep 2026 05:01:49 +0000",
     "processed": true,
     "processedAt": "2026-09-01T05:36:05.992Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/webgpu-kernels",
+    "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-09-01T15:06:42.393Z",
+    "published": "Tue, 01 Sep 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-01T15:09:25.925Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
+    "title": "Making the AI-powered case for legacy modernization",
+    "description": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with t",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-01T15:06:44.712Z",
+    "published": "Tue, 01 Sep 2026 14:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-01T15:09:25.925Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+    "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy and pro",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-01T15:06:44.712Z",
+    "published": "Tue, 01 Sep 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-01T15:09:25.925Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/beyond-point-predictions-a-practical-introduction-to-bayesian-neural-networks/",
+    "title": "Beyond Point Predictions: A Practical Introduction to Bayesian Neural Networks",
+    "description": "More informed decision-making through uncertainty quantification\nThe post Beyond Point Predictions: A Practical Introduction to Bayesian Neural Networks appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-01T15:07:05.533Z",
+    "published": "Tue, 01 Sep 2026 12:30:02 GMT",
+    "processed": true,
+    "processedAt": "2026-09-01T15:09:25.925Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/5-ai-skills-that-will-keep-data-scientists-relevant-in-2027/",
+    "title": "5 AI Skills That Will Keep Data Scientists Relevant in 2027",
+    "description": "What each one solves, and runnable code you can paste into a notebook.\nThe post 5 AI Skills That Will Keep Data Scientists Relevant in 2027 appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-01T15:07:05.533Z",
+    "published": "Tue, 01 Sep 2026 11:00:02 GMT",
+    "processed": true,
+    "processedAt": "2026-09-01T15:09:25.925Z"
+  },
+  {
+    "url": "https://the-decoder.com/googles-election-ai-overviews-are-opaque-rely-on-few-sources-and-sometimes-take-sides/",
+    "title": "Google's election AI Overviews are opaque, rely on few sources, and sometimes take sides",
+    "description": "Using access granted under the EU's Digital Services Act, the German advocacy group AlgorithmWatch ran 4,480 election-related search queries on Google and analyzed the AI Overviews that came back. Google showed the overviews inconsistently and leaned on a small pool of sources, chief among",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-01T15:07:07.162Z",
+    "published": "Tue, 01 Sep 2026 13:03:17 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/runways-solaris-is-an-ai-system-that-generates-software-interfaces-in-real-time/",
+    "title": "Runway's Solaris is an AI system that generates software interfaces in real time",
+    "description": "AI company Runway has unveiled Solaris, the first model in a new category it calls \"Interface World Models.\" Instead of running code, the system generates the user interface frame by frame as you interact with it.\nThe article Runway&#039;s Solaris is an AI system that generates software int",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-01T15:07:07.162Z",
+    "published": "Tue, 01 Sep 2026 12:53:46 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/googles-ai-search-dropped-its-emergency-call-advice-over-nationalities-but-still-flags-people-from-facebook/",
+    "title": "Google's AI search dropped its emergency-call advice over nationalities but still flags people from Facebook",
+    "description": "\"Please get to a safe place or call emergency services\": That's the advice Google's AI search gave users who typed that they were alone with an African, Indian, or Pakistani.\nThe article Google&#039;s AI search dropped its emergency-call advice over nationalities but still flags people from",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-01T15:07:07.162Z",
+    "published": "Tue, 01 Sep 2026 12:44:11 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
+    "title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
+    "description": "Sonos is cramming AI into its software because it’s “very hot these days.” The new features, which include agentic automation, are opt-in.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-01T15:07:13.088Z",
+    "published": "Tue, 01 Sep 2026 14:40:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2248548/perplexitys-hybrid-compute-splits-sensitive-tasks-between-cloud-and-local-ai/",
+    "title": "Perplexity's Hybrid Compute splits sensitive tasks between cloud and local AI",
+    "description": "Perplexity&#39;s Hybrid Compute lets you split tasks between cloud and local models.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-01T15:07:19.831Z",
+    "published": "Tue, 01 Sep 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2248252/sonos-27-brings-a-refreshed-ui-to-the-app-and-lets-ai-agents-control-your-system/",
+    "title": "'Sonos 27' brings a refreshed UI to the app and lets AI agents control your system",
+    "description": "Sonos is embracing AI in its next major software update.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-01T15:07:19.831Z",
+    "published": "Tue, 01 Sep 2026 14:40:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2248155/sonos-unveils-new-beam-ultra-soundbar-with-true-7-1-2-dolby-atmos/",
+    "title": "Sonos unveils new Beam Ultra soundbar with 'true 7.1.2 Dolby Atmos'",
+    "description": "The refreshed model with better surround sound will cost $699.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-01T15:07:19.831Z",
+    "published": "Tue, 01 Sep 2026 14:40:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2248372/atlas-wearable-eeg/",
+    "title": "Atlas' brain-monitoring wearable tells you how much you're in the moment",
+    "description": "Atlas says its new wearable EEG will be able to tell you where your attention is through the day.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-01T15:07:19.831Z",
+    "published": "Tue, 01 Sep 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2246818/roku-is-expanding-its-premium-tv-lineup-with-its-first-oleds/",
+    "title": "Roku is expanding its premium TV lineup with its first OLEDs",
+    "description": "Roku has announced its first OLED TVs, available this fall from Amazon starting at $999.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-01T15:07:19.831Z",
+    "published": "Tue, 01 Sep 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2248277/sonos-product-launch-live-blog-september-2026/",
+    "title": "Sonos Open House: Live updates from the Sonos 27  product launch",
+    "description": "Are you ready for some speakers and some AI?",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-01T15:07:19.831Z",
+    "published": "Tue, 01 Sep 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2244166/what-android-looked-like-2008-vs-today/",
+    "title": "What Android looked like in 2008 vs. today",
+    "description": "Early Androids were the tech equivalent of alternative rock. iPhones were far too mainstream for some of us, and Android felt like home.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-01T15:07:19.831Z",
+    "published": "Tue, 01 Sep 2026 12:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2248384/united-app-join-multiple-standby-lists/",
+    "title": "United will now let you join standby lists for earlier flights through its mobile app",
+    "description": "You can add yourself to standby lists without speaking to agents through United's mobile app.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-01T15:07:19.831Z",
+    "published": "Tue, 01 Sep 2026 12:00:00 +0000"
   }
 ]
