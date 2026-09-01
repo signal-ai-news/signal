@@ -44765,5 +44765,213 @@
     "category": "news",
     "discovered": "2026-09-01T21:41:14.314Z",
     "published": "Tue, 01 Sep 2026 19:10:16 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+    "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+    "description": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-01T23:56:13.035Z",
+    "published": "Tue, 01 Sep 2026 22:08:24 +0000",
+    "processed": true,
+    "processedAt": "2026-09-01T23:58:51.599Z"
+  },
+  {
+    "url": "https://news.wsu.edu/news/2026/08/24/researchers-use-ai-to-democratize-3d-printing-of-crucial-metal-alloy/",
+    "title": "Researchers use AI to 'democratize' 3D printing of crucial metal alloy",
+    "description": "Article URL: https://news.wsu.edu/news/2026/08/24/researchers-use-ai-to-democratize-3d-printing-of-crucial-metal-alloy/\nComments URL: https://news.ycombinator.com/item?id=49529962\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T23:56:23.813Z",
+    "published": "Tue, 01 Sep 2026 23:54:51 +0000",
+    "processed": true,
+    "processedAt": "2026-09-01T23:58:51.599Z"
+  },
+  {
+    "url": "https://scholarlyfutures.substack.com/p/ai-and-the-practical-scientist",
+    "title": "AI and the Practical Scientist",
+    "description": "Article URL: https://scholarlyfutures.substack.com/p/ai-and-the-practical-scientist\nComments URL: https://news.ycombinator.com/item?id=49529956\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T23:56:23.813Z",
+    "published": "Tue, 01 Sep 2026 23:54:12 +0000",
+    "processed": true,
+    "processedAt": "2026-09-01T23:58:51.599Z"
+  },
+  {
+    "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+    "title": "The efficient frontier of LLM inference",
+    "description": "Article URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/\nComments URL: https://news.ycombinator.com/item?id=49529898\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T23:56:23.813Z",
+    "published": "Tue, 01 Sep 2026 23:48:05 +0000",
+    "processed": true,
+    "processedAt": "2026-09-01T23:58:51.599Z"
+  },
+  {
+    "url": "https://www.teasbench.com/",
+    "title": "TEAS: Tracking Evolving AI and Systems – cost, accuracy, performance, energy",
+    "description": "Article URL: https://www.teasbench.com/\nComments URL: https://news.ycombinator.com/item?id=49529885\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T23:56:23.813Z",
+    "published": "Tue, 01 Sep 2026 23:46:38 +0000",
+    "processed": true,
+    "processedAt": "2026-09-01T23:58:51.599Z"
+  },
+  {
+    "url": "https://code2yugen.substack.com/p/what-i-use-ai-for-and-what-i-never",
+    "title": "To bot or not to bot: My personal rules of engagement with AI",
+    "description": "Article URL: https://code2yugen.substack.com/p/what-i-use-ai-for-and-what-i-never\nComments URL: https://news.ycombinator.com/item?id=49529819\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T23:56:23.813Z",
+    "published": "Tue, 01 Sep 2026 23:39:37 +0000"
+  },
+  {
+    "url": "https://www.wsj.com/tech/ai/new-google-ai-model-said-to-narrow-gap-on-coding-ability-264c6052",
+    "title": "New Google AI Model Said to Narrow Gap on Coding Ability (Gemini 3.8 Flash)",
+    "description": "Article URL: https://www.wsj.com/tech/ai/new-google-ai-model-said-to-narrow-gap-on-coding-ability-264c6052\nComments URL: https://news.ycombinator.com/item?id=49529686\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T23:56:23.813Z",
+    "published": "Tue, 01 Sep 2026 23:23:28 +0000"
+  },
+  {
+    "url": "https://9to5mac.com/2026/09/01/perplexity-launches-privacy-minded-hybrid-compute-ai-feature-for-mac/",
+    "title": "Perplexity launches privacy-minded 'hybrid compute' AI feature for Mac",
+    "description": "Article URL: https://9to5mac.com/2026/09/01/perplexity-launches-privacy-minded-hybrid-compute-ai-feature-for-mac/\nComments URL: https://news.ycombinator.com/item?id=49529626\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T23:56:23.813Z",
+    "published": "Tue, 01 Sep 2026 23:18:04 +0000"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/build-with-claude/preserved-thinking",
+    "title": "Claude Preserved thinking – Modifying a conversation now results in an error",
+    "description": "Article URL: https://platform.claude.com/docs/en/build-with-claude/preserved-thinking\nComments URL: https://news.ycombinator.com/item?id=49529348\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T23:56:23.813Z",
+    "published": "Tue, 01 Sep 2026 22:50:02 +0000"
+  },
+  {
+    "url": "https://tuta.com/blog/google-gemini-ai-email",
+    "title": "Don't allow Gemini AI access to your Gmail",
+    "description": "Article URL: https://tuta.com/blog/google-gemini-ai-email\nComments URL: https://news.ycombinator.com/item?id=49529336\nPoints: 8\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T23:56:23.813Z",
+    "published": "Tue, 01 Sep 2026 22:49:08 +0000"
+  },
+  {
+    "url": "https://github.com/mattpocock/skills",
+    "title": "AI Coding Agent Skills for Real Engineers",
+    "description": "Article URL: https://github.com/mattpocock/skills\nComments URL: https://news.ycombinator.com/item?id=49529329\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T23:56:23.813Z",
+    "published": "Tue, 01 Sep 2026 22:48:47 +0000"
+  },
+  {
+    "url": "https://quickchat.ai/post/notion-ai-chatbot-help-center",
+    "title": "How to Build a Notion AI Chatbot for Your Help Center",
+    "description": "Article URL: https://quickchat.ai/post/notion-ai-chatbot-help-center\nComments URL: https://news.ycombinator.com/item?id=49529282\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T23:56:23.813Z",
+    "published": "Tue, 01 Sep 2026 22:44:50 +0000"
+  },
+  {
+    "url": "https://singularitymoments.com/content/inside-slotstream-swift-ssd-expert-streaming-and-breaking-the-llm-memory-wall/",
+    "title": "Slotstream: Swift, SSD Expert Streaming, and Breaking the LLM Memory Wall",
+    "description": "Article URL: https://singularitymoments.com/content/inside-slotstream-swift-ssd-expert-streaming-and-breaking-the-llm-memory-wall/\nComments URL: https://news.ycombinator.com/item?id=49528916\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T23:56:23.813Z",
+    "published": "Tue, 01 Sep 2026 22:08:48 +0000"
+  },
+  {
+    "url": "https://masteranza.github.io/weedout/",
+    "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+    "description": "I'm the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels “Made with AI” from feed, search, related videos, playlists and Shorts. It uses YouTube's label",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T23:56:23.813Z",
+    "published": "Tue, 01 Sep 2026 22:06:57 +0000"
+  },
+  {
+    "url": "https://www.whitecollardream.com/",
+    "title": "AI is making back-office work extinct",
+    "description": "Article URL: https://www.whitecollardream.com/\nComments URL: https://news.ycombinator.com/item?id=49528663\nPoints: 8\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T23:56:23.813Z",
+    "published": "Tue, 01 Sep 2026 21:43:31 +0000"
+  },
+  {
+    "url": "https://www.citystgeorges.ac.uk/news-and-events/news/2026/june/smart-supermarket-trolleys-linked-to-higher-spending-and-longer-shopping-study-finds",
+    "title": "AI trolley users rack up higher basket values and spend longer in store",
+    "description": "Article URL: https://www.citystgeorges.ac.uk/news-and-events/news/2026/june/smart-supermarket-trolleys-linked-to-higher-spending-and-longer-shopping-study-finds\nComments URL: https://news.ycombinator.com/item?id=49528575\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T23:56:23.813Z",
+    "published": "Tue, 01 Sep 2026 21:36:31 +0000"
+  },
+  {
+    "url": "https://bartholomew.info",
+    "title": "In-memory security gate for autonomous AI agent tools",
+    "description": "Article URL: https://bartholomew.info\nComments URL: https://news.ycombinator.com/item?id=49528570\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T23:56:23.813Z",
+    "published": "Tue, 01 Sep 2026 21:36:07 +0000"
+  },
+  {
+    "url": "https://www.rnz.co.nz/news/personal-finance/1215988/one-job-ad-1000-applicants-how-do-you-stand-out-in-a-world-of-ai-job-hunters",
+    "title": "One job ad, 1000 applicants: How do you stand out in a world of AI job hunters?",
+    "description": "Article URL: https://www.rnz.co.nz/news/personal-finance/1215988/one-job-ad-1000-applicants-how-do-you-stand-out-in-a-world-of-ai-job-hunters\nComments URL: https://news.ycombinator.com/item?id=49528569\nPoints: 7\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T23:56:23.813Z",
+    "published": "Tue, 01 Sep 2026 21:35:56 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=dLTNVM1mhiU",
+    "title": "The AI That Won't Say Who Made It (Unmasking Ox Alpha) [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=dLTNVM1mhiU\nComments URL: https://news.ycombinator.com/item?id=49528463\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T23:56:23.813Z",
+    "published": "Tue, 01 Sep 2026 21:26:08 +0000"
+  },
+  {
+    "url": "https://studio.compilr.dev/welcome/",
+    "title": "Show HN: Compilr.dev Studio – A project brain AI agents write to and people read",
+    "description": "I built a platform to help project and product owners record vision, objectives, decisions, risks, assumptions, and requirements as a connected graph with the help of AI.So, how does it work? The platform offers a set of MCP tools so it is compatible with any AI application that lets you define a c",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T23:56:23.813Z",
+    "published": "Tue, 01 Sep 2026 21:15:13 +0000"
+  },
+  {
+    "url": "https://arcprize.org/results/anthropic-claude-fable-5-1",
+    "title": "Claude Fable 5.1 results on ARC-AGI",
+    "description": "Article URL: https://arcprize.org/results/anthropic-claude-fable-5-1\nComments URL: https://news.ycombinator.com/item?id=49528193\nPoints: 5\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T23:56:23.813Z",
+    "published": "Tue, 01 Sep 2026 21:05:25 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2249112/meta-new-ai-transcription-model-can-distinguist-between-multiple-speakers-and-languages-in-real-time/",
+    "title": "Meta's new AI transcription model can distinguish between multiple speakers and languages in real-time",
+    "description": "The latest release from Meta Superintelligence Lab is a powerful transcription model.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-01T23:56:45.962Z",
+    "published": "Tue, 01 Sep 2026 21:56:29 +0000"
   }
 ]
