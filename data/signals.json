@@ -44322,5 +44322,339 @@
     "category": "news",
     "discovered": "2026-09-01T15:07:19.831Z",
     "published": "Tue, 01 Sep 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/ai-native-company-workflows",
+    "title": "How AI-native companies turn workflows into operating capability",
+    "description": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-01T18:45:11.324Z",
+    "published": "Tue, 01 Sep 2026 17:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-01T18:47:52.944Z"
+  },
+  {
+    "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+    "description": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-01T18:45:11.324Z",
+    "published": "Tue, 01 Sep 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-01T18:47:52.944Z"
+  },
+  {
+    "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+    "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+    "description": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-09-01T18:45:12.793Z",
+    "published": "Tue, 01 Sep 2026 16:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-01T18:47:52.944Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+    "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+    "description": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-01T18:45:14.639Z",
+    "published": "Tue, 01 Sep 2026 17:35:37 +0000",
+    "processed": true,
+    "processedAt": "2026-09-01T18:47:52.944Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+    "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+    "description": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-01T18:45:14.639Z",
+    "published": "Tue, 01 Sep 2026 17:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-01T18:47:52.944Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+    "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+    "description": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-01T18:45:14.639Z",
+    "published": "Tue, 01 Sep 2026 16:31:04 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+    "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+    "description": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-01T18:45:14.639Z",
+    "published": "Tue, 01 Sep 2026 15:45:51 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+    "title": "Fambot introduces an ‘AI chief of staff’ for families",
+    "description": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-01T18:45:14.639Z",
+    "published": "Tue, 01 Sep 2026 15:10:58 +0000"
+  },
+  {
+    "url": "https://howiai.directory",
+    "title": "Show HN: Personal AI Use Policies",
+    "description": "Article URL: https://howiai.directory\nComments URL: https://news.ycombinator.com/item?id=49526206\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T18:45:23.298Z",
+    "published": "Tue, 01 Sep 2026 18:44:06 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49526186",
+    "title": "Ask HN: Anyone struggling to do data work with Claude Code or codex?",
+    "description": "so i've been trying to interview data analysts and data scientists on their analytics experience with coding agents. anyone up for a quick chat ?\n\nComments URL: https://news.ycombinator.com/item?id=49526186\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T18:45:23.298Z",
+    "published": "Tue, 01 Sep 2026 18:42:20 +0000"
+  },
+  {
+    "url": "https://github.com/glitcher255/Kaden-Terminal",
+    "title": "Show HN: Kaden Terminal – Bloat / AI Free Terminal for Linux",
+    "description": "Kaden is a Terminal Emulator and fork of warp with clipboard support and configurable keybindings, I made Kaden because every other Linux terminal lacks proper text selection.\nIt's impossible to select user input with a single hotkey on Linux, requiring mouse use and awkward multi-step shortcuts in",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T18:45:23.298Z",
+    "published": "Tue, 01 Sep 2026 18:35:21 +0000"
+  },
+  {
+    "url": "https://danluu.com/zitron/",
+    "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+    "description": "Article URL: https://danluu.com/zitron/\nComments URL: https://news.ycombinator.com/item?id=49526069\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T18:45:23.298Z",
+    "published": "Tue, 01 Sep 2026 18:35:15 +0000"
+  },
+  {
+    "url": "https://www.groundlevel-ai.com/p/john-deere-ai-data-center-boom",
+    "title": "John Deere's unexpected AI-era boom? Moving dirt for data centers",
+    "description": "Article URL: https://www.groundlevel-ai.com/p/john-deere-ai-data-center-boom\nComments URL: https://news.ycombinator.com/item?id=49526013\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T18:45:23.298Z",
+    "published": "Tue, 01 Sep 2026 18:31:59 +0000"
+  },
+  {
+    "url": "https://wadler.blogspot.com/2026/08/there-is-no-ai.html",
+    "title": "There Is No AI",
+    "description": "Article URL: https://wadler.blogspot.com/2026/08/there-is-no-ai.html\nComments URL: https://news.ycombinator.com/item?id=49525791\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T18:45:23.298Z",
+    "published": "Tue, 01 Sep 2026 18:18:54 +0000"
+  },
+  {
+    "url": "https://www.getwife.co/",
+    "title": "Show HN: Wife: AI that lets you pick the best Card for each Purchase",
+    "description": "Hi Hackernews, being an avid maximizer of rewards/gifts/credit cards, I decided to build a product that enables me to select the best card for each purchase/transaction.You can be able to add your current Card to the wallet (we don't store card information), ask an llm\n\nComments URL: https://news.y",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T18:45:23.299Z",
+    "published": "Tue, 01 Sep 2026 18:17:38 +0000"
+  },
+  {
+    "url": "https://paradise.glyphai.co/research/watching/",
+    "title": "When no one is watching, will an AI kill an innocent?",
+    "description": "Article URL: https://paradise.glyphai.co/research/watching/\nComments URL: https://news.ycombinator.com/item?id=49525681\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T18:45:23.299Z",
+    "published": "Tue, 01 Sep 2026 18:13:46 +0000"
+  },
+  {
+    "url": "https://punyamishra.com/2026/08/28/no-one-is-immune-an-update-on-ai-as-a-psychological-technology/",
+    "title": "No one is immune: An Update on AI as a Psychological Technology",
+    "description": "Article URL: https://punyamishra.com/2026/08/28/no-one-is-immune-an-update-on-ai-as-a-psychological-technology/\nComments URL: https://news.ycombinator.com/item?id=49525652\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T18:45:23.299Z",
+    "published": "Tue, 01 Sep 2026 18:12:13 +0000"
+  },
+  {
+    "url": "https://fal.live/",
+    "title": "Fal.live – AI television directed by everyone",
+    "description": "Article URL: https://fal.live/\nComments URL: https://news.ycombinator.com/item?id=49525641\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T18:45:23.299Z",
+    "published": "Tue, 01 Sep 2026 18:11:34 +0000"
+  },
+  {
+    "url": "https://www.manifold.security/blog/ai-coding-agents-git-hijack",
+    "title": "GitSpawn: A Single Flaw Lets Untrusted Repos Run Code in Claude Code, and Others",
+    "description": "Article URL: https://www.manifold.security/blog/ai-coding-agents-git-hijack\nComments URL: https://news.ycombinator.com/item?id=49525561\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T18:45:23.299Z",
+    "published": "Tue, 01 Sep 2026 18:06:19 +0000"
+  },
+  {
+    "url": "https://gist.githubusercontent.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6/raw/21b7ff6761d73af4b3a4f03d8149d570679dad70/LICENSE",
+    "title": "VibeCoded AI-Slop License v1.0",
+    "description": "Article URL: https://gist.githubusercontent.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6/raw/21b7ff6761d73af4b3a4f03d8149d570679dad70/LICENSE\nComments URL: https://news.ycombinator.com/item?id=49525519\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T18:45:23.299Z",
+    "published": "Tue, 01 Sep 2026 18:03:04 +0000"
+  },
+  {
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+    "description": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-1\nComments URL: https://news.ycombinator.com/item?id=49525496\nPoints: 69\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T18:45:23.299Z",
+    "published": "Tue, 01 Sep 2026 18:01:24 +0000"
+  },
+  {
+    "url": "https://massive.com/blog/x402-payments-for-ai-agents",
+    "title": "Adds X402 Payments Access for AI Agents with Coinbase",
+    "description": "Article URL: https://massive.com/blog/x402-payments-for-ai-agents\nComments URL: https://news.ycombinator.com/item?id=49525482\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T18:45:23.299Z",
+    "published": "Tue, 01 Sep 2026 18:00:04 +0000"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/models/fable-5-1/overview",
+    "title": "Claude Fable 5.1",
+    "description": "Article URL: https://platform.claude.com/docs/en/models/fable-5-1/overview\nComments URL: https://news.ycombinator.com/item?id=49525473\nPoints: 9\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T18:45:23.299Z",
+    "published": "Tue, 01 Sep 2026 17:59:35 +0000"
+  },
+  {
+    "url": "https://github.com/chains-project/yul",
+    "title": "Hook to force AI agents to use the latest version of dependencies",
+    "description": "Article URL: https://github.com/chains-project/yul\nComments URL: https://news.ycombinator.com/item?id=49525465\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T18:45:23.299Z",
+    "published": "Tue, 01 Sep 2026 17:59:17 +0000"
+  },
+  {
+    "url": "https://www.theatlantic.com/ideas/archive/2023/07/the-terrible-downside-of-ai-language-translation/674687/",
+    "title": "The Terrible Downside of AI Language Translation",
+    "description": "Article URL: https://www.theatlantic.com/ideas/archive/2023/07/the-terrible-downside-of-ai-language-translation/674687/\nComments URL: https://news.ycombinator.com/item?id=49525464\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T18:45:23.299Z",
+    "published": "Tue, 01 Sep 2026 17:59:15 +0000"
+  },
+  {
+    "url": "https://wasmer.io/posts/wasmer-local-sandboxes-for-ai-agents",
+    "title": "Show HN: Wasmer SDK – Local Sandboxes for AI Agents",
+    "description": "Article URL: https://wasmer.io/posts/wasmer-local-sandboxes-for-ai-agents\nComments URL: https://news.ycombinator.com/item?id=49525451\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T18:45:23.299Z",
+    "published": "Tue, 01 Sep 2026 17:58:49 +0000"
+  },
+  {
+    "url": "https://www.anthropic.com/news/claude-fable-5-1",
+    "title": "Claude Fable 5.1",
+    "description": "Article URL: https://www.anthropic.com/news/claude-fable-5-1\nComments URL: https://news.ycombinator.com/item?id=49525421\nPoints: 6\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-01T18:45:23.299Z",
+    "published": "Tue, 01 Sep 2026 17:57:13 +0000"
+  },
+  {
+    "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "title": "Introducing agentic video understanding with Gemini",
+    "description": "",
+    "source": "DeepMind Blog",
+    "category": "llm",
+    "discovered": "2026-09-01T18:45:25.566Z",
+    "published": "Tue, 01 Sep 2026 17:08:51 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/your-json-is-valid-but-your-data-is-wrong-five-failure-modes-llm-structured-outputs-wont-catch/",
+    "title": "Your JSON Is Valid but Your Data Is Wrong: Five Failure Modes LLM Structured Outputs Won't Catch",
+    "description": "Five failure modes that survive constrained decoding, and why your schema validator will never catch them.\nThe post Your JSON Is Valid but Your Data Is Wrong: Five Failure Modes LLM Structured Outputs Won't Catch appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-01T18:45:28.936Z",
+    "published": "Tue, 01 Sep 2026 15:30:02 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/google-deepminds-new-chief-says-frontier-ai-leadership-is-the-only-thing-that-matters/",
+    "title": "Google Deepmind's new chief says frontier AI leadership is the only thing that matters",
+    "description": "Google Deepmind chief Koray Kavukcuoglu admits Google's current models are \"a little bit below the frontier\" but says he's \"100% certain that we will be at the frontier.\" He didn't share any concrete frontier news to back that up, though.\nThe article Google Deepmind&#039;s new chief says fr",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-01T18:45:31.002Z",
+    "published": "Tue, 01 Sep 2026 16:49:11 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2244171/should-you-remove-carplay-infotainment-screen-film/",
+    "title": "Should you remove the film from your CarPlay infotainment screen? It depends",
+    "description": "Double-check before you accidentally remove a protective layer of your screen.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-01T18:45:46.180Z",
+    "published": "Tue, 01 Sep 2026 18:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2247151/new-android-find-hub-feature-will-help-you-remember-where-you-put-important-things/",
+    "title": "A new Android Find Hub feature will help you remember where you put important things",
+    "description": "Google also announced a new visual assistant for Gemini Live and Keep integration with Messages.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-01T18:45:46.180Z",
+    "published": "Tue, 01 Sep 2026 18:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2246413/what-is-dolby-atmos-for-headphones-worth-it-gamers/",
+    "title": "What is Dolby Atmos for Headphones and is it worth it for gamers?",
+    "description": "A look into whether Dolby Atmos for Headphones - with its free trial on both PC and Xbox - can unlock spatial audio on a normal pair of stereo headphones.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-01T18:45:46.180Z",
+    "published": "Tue, 01 Sep 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2247598/sonys-new-ult-tower-are-party-speakers-that-chain-together-with-auracast/",
+    "title": "Sony's new ULT Tower are party speakers that chain together with Auracast",
+    "description": "Sony&#39;s new ULT Tower are party speakers that chain together with Auracast.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-01T18:45:46.180Z",
+    "published": "Tue, 01 Sep 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2247619/google-brings-its-pics-image-editor-to-ai-pro-and-ultra-subscribers/",
+    "title": "Google brings its Pics image editor to AI Pro and Ultra subscribers",
+    "description": "Google brings its Pics image editor to AI Pro and Ultra subscribers.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-01T18:45:46.180Z",
+    "published": "Tue, 01 Sep 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2248633/gopro-says-its-moving-into-ai-data-centers-as-part-of-a-dollar285-million-merger/",
+    "title": "GoPro says it's moving into AI data centers as part of a $285 million merger",
+    "description": "GoPro says it&#39;s moving into AI data centers as part of a $285 million merger.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-01T18:45:46.180Z",
+    "published": "Tue, 01 Sep 2026 15:42:14 +0000"
   }
 ]
