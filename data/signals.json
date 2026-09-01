@@ -44656,5 +44656,114 @@
     "category": "news",
     "discovered": "2026-09-01T18:45:46.180Z",
     "published": "Tue, 01 Sep 2026 15:42:14 +0000"
+  },
+  {
+    "url": "https://openai.com/index/path-to-astra",
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "description": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-01T21:40:31.740Z",
+    "published": "Tue, 01 Sep 2026 13:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-01T21:43:20.454Z"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+    "title": "The latest AI news we announced in August 2026",
+    "description": "Here are Google’s latest AI updates from August 2026",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-09-01T21:40:33.272Z",
+    "published": "Tue, 01 Sep 2026 20:45:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-01T21:43:20.454Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/allenai/benchmirt",
+    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-09-01T21:40:33.928Z",
+    "published": "Tue, 01 Sep 2026 21:39:07 GMT",
+    "processed": true,
+    "processedAt": "2026-09-01T21:43:20.454Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+    "title": "Open AI’s Astra model is on the way—and very good at breaking into computer systems",
+    "description": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-01T21:40:35.100Z",
+    "published": "Tue, 01 Sep 2026 21:06:24 +0000",
+    "processed": true,
+    "processedAt": "2026-09-01T21:43:20.454Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+    "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+    "description": "The new features coming to Android are aimed at reducing motion sickness, helping blind users navigate their surroundings, and more.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-01T21:40:35.100Z",
+    "published": "Tue, 01 Sep 2026 20:53:05 +0000",
+    "processed": true,
+    "processedAt": "2026-09-01T21:43:20.454Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+    "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+    "description": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-01T21:40:35.100Z",
+    "published": "Tue, 01 Sep 2026 19:39:22 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+    "title": "How AI plotted an interstellar journey to Alpha Centauri",
+    "description": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.&#160; It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-01T21:40:36.384Z",
+    "published": "Tue, 01 Sep 2026 19:10:36 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-opens-claude-ai-text-detection-to-regulators-media-fact-checkers-and-others/",
+    "title": "Anthropic opens Claude AI text detection to regulators, media, fact-checkers, and others",
+    "description": "Anthropic is launching an API that lets regulators, media outlets, and researchers check whether text carries Claude's digital watermark. The EU AI Act now requires invisible watermarks in AI-generated text. Critics warn the technology could hurt text quality and create transparency problem",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-01T21:41:00.129Z",
+    "published": "Tue, 01 Sep 2026 20:40:36 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropics-claude-fable-5-1-promises-better-coding-and-research-at-up-to-45-percent-less/",
+    "title": "Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less",
+    "description": "Anthropic launches Claude Fable 5.1 and Mythos 5.1, its most capable AI models yet. Fable 5.1 doubles its predecessor's score on Terminal-Bench-Science and improves agentic coding by over 30 percent. Costs drop by up to 45 percent for long, autonomous runs with many tool calls.\nThe article",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-01T21:41:00.129Z",
+    "published": "Tue, 01 Sep 2026 20:32:55 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
+    "title": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+    "description": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-01T21:41:06.668Z",
+    "published": "Tue, 01 Sep 2026 20:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2248888/the-new-street-fighter-movie-trailer-looks-fun-in-all-the-right-ways/",
+    "title": "The new Street Fighter movie trailer looks fun in all the right ways",
+    "description": "The Street Fighter movie looks silly and campy and that&#39;s just fine!",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-01T21:41:14.314Z",
+    "published": "Tue, 01 Sep 2026 19:10:16 +0000"
   }
 ]
