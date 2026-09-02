@@ -10577,7 +10577,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-30T20:45:55.454Z",
-    "published": "Thu, 30 Jul 2026 17:02:54 +0000"
+    "published": "Thu, 30 Jul 2026 17:02:54 +0000",
+    "processed": true,
+    "processedAt": "2026-09-02T04:06:42.519Z"
   },
   {
     "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
@@ -10641,7 +10643,9 @@
     "source": "TechCrunch AI",
     "category": "news",
     "discovered": "2026-07-31T08:11:13.139Z",
-    "published": "Thu, 30 Jul 2026 22:41:41 +0000"
+    "published": "Thu, 30 Jul 2026 22:41:41 +0000",
+    "processed": true,
+    "processedAt": "2026-09-02T04:06:42.519Z"
   },
   {
     "url": "https://www.ft.com/content/1a841f08-8e59-49d9-9561-0ed20e9190df",
@@ -10650,7 +10654,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T08:11:18.789Z",
-    "published": "Fri, 31 Jul 2026 08:10:08 +0000"
+    "published": "Fri, 31 Jul 2026 08:10:08 +0000",
+    "processed": true,
+    "processedAt": "2026-09-02T04:06:42.519Z"
   },
   {
     "url": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
@@ -10659,7 +10665,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T08:11:18.789Z",
-    "published": "Fri, 31 Jul 2026 08:07:07 +0000"
+    "published": "Fri, 31 Jul 2026 08:07:07 +0000",
+    "processed": true,
+    "processedAt": "2026-09-02T04:06:42.519Z"
   },
   {
     "url": "https://github.com/Lywald/zfrontpage/",
@@ -44973,5 +44981,16 @@
     "category": "news",
     "discovered": "2026-09-01T23:56:45.962Z",
     "published": "Tue, 01 Sep 2026 21:56:29 +0000"
+  },
+  {
+    "url": "https://openai.com/index/gilbert-tobin",
+    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+    "description": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-02T04:04:10.439Z",
+    "published": "Tue, 01 Sep 2026 01:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-02T04:06:42.520Z"
   }
 ]
