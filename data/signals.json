@@ -10676,7 +10676,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T08:11:18.789Z",
-    "published": "Fri, 31 Jul 2026 07:30:29 +0000"
+    "published": "Fri, 31 Jul 2026 07:30:29 +0000",
+    "processed": true,
+    "processedAt": "2026-09-02T22:34:44.780Z"
   },
   {
     "url": "https://blog.google/security/chrome-stronger-with-every-update/",
@@ -45700,5 +45702,49 @@
     "category": "news",
     "discovered": "2026-09-02T20:03:23.210Z",
     "published": "Wed, 02 Sep 2026 18:50:09 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+    "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+    "description": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-02T22:32:02.927Z",
+    "published": "Wed, 02 Sep 2026 22:24:09 +0000",
+    "processed": true,
+    "processedAt": "2026-09-02T22:34:44.781Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+    "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+    "description": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-02T22:32:02.927Z",
+    "published": "Wed, 02 Sep 2026 20:19:14 +0000",
+    "processed": true,
+    "processedAt": "2026-09-02T22:34:44.781Z"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
+    "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+    "description": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations.\nThe post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing&#8230; oh my! appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-09-02T22:32:30.062Z",
+    "published": "Wed, 02 Sep 2026 21:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-02T22:34:44.781Z"
+  },
+  {
+    "url": "https://www.engadget.com/2249905/un-report-says-global-warming-will-surpass-the-goal-of-1-5-degrees-celsius/",
+    "title": "UN report says global warming will surpass the goal of 1.5 degrees Celsius",
+    "description": "Climate scientists now aim to minimize time spent above the limit from the Paris Agreement.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-02T22:32:38.913Z",
+    "published": "Wed, 02 Sep 2026 20:18:43 +0000",
+    "processed": true,
+    "processedAt": "2026-09-02T22:34:44.781Z"
   }
 ]
