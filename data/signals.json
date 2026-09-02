@@ -45273,5 +45273,195 @@
     "category": "news",
     "discovered": "2026-09-02T13:30:56.686Z",
     "published": "Wed, 02 Sep 2026 09:30:00 +0000"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+    "title": "Proactive cyber defense for governments and enterprises",
+    "description": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-09-02T17:16:08.770Z",
+    "published": "Wed, 02 Sep 2026 15:40:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-02T17:18:47.157Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-09-02T17:16:09.445Z",
+    "published": "Wed, 02 Sep 2026 13:49:14 GMT",
+    "processed": true,
+    "processedAt": "2026-09-02T17:18:47.157Z"
+  },
+  {
+    "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
+    "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
+    "description": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#160;and even insurance claims, leaving platforms and users alike scrambling to fig",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-02T17:16:10.582Z",
+    "published": "Wed, 02 Sep 2026 17:09:57 +0000",
+    "processed": true,
+    "processedAt": "2026-09-02T17:18:47.157Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+    "title": "U.S. government sides with OpenAI on issue of training LLMs on copyrighted material",
+    "description": "\"The United States has a strong interest in continuing to develop a robust and competitive\nartificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-02T17:16:10.582Z",
+    "published": "Wed, 02 Sep 2026 17:09:06 +0000",
+    "processed": true,
+    "processedAt": "2026-09-02T17:18:47.157Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+    "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+    "description": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-02T17:16:10.582Z",
+    "published": "Wed, 02 Sep 2026 16:04:10 +0000",
+    "processed": true,
+    "processedAt": "2026-09-02T17:18:47.157Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+    "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+    "description": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-02T17:16:10.582Z",
+    "published": "Wed, 02 Sep 2026 16:01:48 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+    "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+    "description": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-02T17:16:10.582Z",
+    "published": "Wed, 02 Sep 2026 15:01:23 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+    "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+    "description": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-02T17:16:10.582Z",
+    "published": "Wed, 02 Sep 2026 14:56:34 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+    "title": "Adobe acquires Indian market intelligence startup Rilo",
+    "description": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-02T17:16:10.582Z",
+    "published": "Wed, 02 Sep 2026 14:03:57 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+    "title": "Facilitating AI integration with simplicity at scale",
+    "description": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make dec",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-02T17:16:11.897Z",
+    "published": "Wed, 02 Sep 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "description": "",
+    "source": "DeepMind Blog",
+    "category": "llm",
+    "discovered": "2026-09-02T17:16:19.206Z",
+    "published": "Wed, 02 Sep 2026 16:18:31 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/avoiding-entity-key-drift-in-a-data-lake-step-2-when-fuzzy-matching-stops-working/",
+    "title": "Avoiding Entity Key Drift in a Data Lake: Step 2, When Fuzzy Matching Stops Working",
+    "description": "I built a matcher meant to finish the cleanup that normalization left behind. Testing it against real data showed that no version of it could be made safe. What follows is the architecture that was left once the matcher was set aside.\nThe post Avoiding Entity Key Drift in a Data Lake: Step 2, When F",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-02T17:16:23.431Z",
+    "published": "Wed, 02 Sep 2026 15:30:02 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/a-rag-that-says-not-in-this-document-has-to-show-four-kinds-of-evidence/",
+    "title": "A RAG That Says “Not in This Document” Has to Show Four Kinds of Evidence",
+    "description": "Enterprise Document Intelligence [Vol.1 #B3] - A confident wrong answer is a bug. A bare “no answer” with no justification is almost as bad. Each of the four bricks has one piece of evidence to show\nThe post A RAG That Says “Not in This Document” Has to Show Four Kinds of Evidence appeared first on",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-02T17:16:23.431Z",
+    "published": "Wed, 02 Sep 2026 14:00:02 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/gemini-3-8-flash-is-googles-third-budget-model-in-six-weeks-while-frontier-models-remain-mia/",
+    "title": "Gemini 3.8 Flash is Google's third budget model in six weeks while frontier models remain MIA",
+    "description": "Google's Gemini 3.8 Flash, the third Flash model in six weeks, matches Claude Opus 5 on some agentic coding benchmarks at lower cost. But its \"working harder\" reasoning burns about 30 percent more output tokens per task, making it pricier in practice than its predecessor despite identical t",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-02T17:16:25.341Z",
+    "published": "Wed, 02 Sep 2026 16:59:29 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/us-military-adds-chatgpt-and-grok-to-ai-platform-genai-mil/",
+    "title": "US military adds ChatGPT and Grok to AI platform GenAI.mil",
+    "description": "The Pentagon is expanding its AI platform with two new models, OpenAI's ChatGPT Mil and xAI's Grok for Government.\nThe article US military adds ChatGPT and Grok to AI platform GenAI.mil appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-02T17:16:25.341Z",
+    "published": "Wed, 02 Sep 2026 14:40:51 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/protests-against-ai-data-centers-play-into-chinas-hands-trump-says/",
+    "title": "Protests against AI data centers play into China's hands, Trump says",
+    "description": "President Trump has pushed back hard against growing opposition to AI data centers across the US.\nThe article Protests against AI data centers play into China&#039;s hands, Trump says appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-02T17:16:25.341Z",
+    "published": "Wed, 02 Sep 2026 14:23:51 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-calls-astra-its-most-dangerous-model-yet-watching-what-it-does-is-only-getting-harder/",
+    "title": "OpenAI calls Astra its most dangerous model yet - watching what it does is only getting harder",
+    "description": "OpenAI is officially rating its upcoming Astra model as the first system with \"critical\" cyber capabilities. The company plans to keep it in check by monitoring the chain of thought. Problem is, that monitoring already counts as an unreliable mirror of a model's real decisions, and accordin",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-02T17:16:25.341Z",
+    "published": "Wed, 02 Sep 2026 14:20:28 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
+    "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
+    "description": "Christopher was sick of being ghosted by AI recruiters. So he unleashed ChatGPT on his robot interviewer.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-02T17:16:33.109Z",
+    "published": "Wed, 02 Sep 2026 15:51:46 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2249669/modding-platform-nexus-mods-now-owns-steamdb/",
+    "title": "Modding platform Nexus Mods now owns SteamDB",
+    "description": "Nexus Mods said the community-led SteamDB site will operate as it always has, while becoming stronger and better resourced.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-02T17:16:41.381Z",
+    "published": "Wed, 02 Sep 2026 17:07:41 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2249664/google-wont-be-forced-to-sell-its-ad-exchange-following-antitrust-ruling/",
+    "title": "Google won't be forced to sell its ad exchange following antitrust ruling",
+    "description": "A judge previously determined that Google illegally monopolized a pair of ad tech markets.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-02T17:16:41.381Z",
+    "published": "Wed, 02 Sep 2026 17:04:00 +0000"
   }
 ]
