@@ -45173,5 +45173,105 @@
     "category": "news",
     "discovered": "2026-09-02T08:43:54.271Z",
     "published": "Wed, 02 Sep 2026 08:21:38 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+    "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+    "description": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-02T13:30:16.510Z",
+    "published": "Wed, 02 Sep 2026 12:09:42 +0000",
+    "processed": true,
+    "processedAt": "2026-09-02T13:33:03.003Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+    "title": "The Download: AI puzzles and a path to our nearest star system",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine lear",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-02T13:30:17.736Z",
+    "published": "Wed, 02 Sep 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-02T13:33:03.003Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/graph-neural-networks-gcn-mpnn-and-gat-explained-simply/",
+    "title": "Graph Neural Networks: GCN, MPNN, and GAT, Explained Simply",
+    "description": "A visual guide to how graph neural networks work under the hood\nThe post Graph Neural Networks: GCN, MPNN, and GAT, Explained Simply appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-02T13:30:39.717Z",
+    "published": "Wed, 02 Sep 2026 12:30:02 GMT",
+    "processed": true,
+    "processedAt": "2026-09-02T13:33:03.003Z"
+  },
+  {
+    "url": "https://the-decoder.com/world-labs-unveils-atlas-a-single-ai-model-that-generates-reconstructs-and-simulates-3d-worlds-from-just-a-few-photos/",
+    "title": "World Labs unveils Atlas, a single AI model that generates, reconstructs, and simulates 3D worlds from just a few photos",
+    "description": "World Labs, co-founded by AI researcher Fei-Fei Li, has announced Atlas, a world model that generates, reconstructs, and simulates 3D scenes from just a few images. The company claims it beats specialized models by anchoring all inputs in 3D space rather than processing them as flat sequenc",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-02T13:30:41.641Z",
+    "published": "Wed, 02 Sep 2026 12:28:36 +0000",
+    "processed": true,
+    "processedAt": "2026-09-02T13:33:03.003Z"
+  },
+  {
+    "url": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
+    "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
+    "description": "Meet the AI police who can make or break careers—in publishing and beyond.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-02T13:30:48.443Z",
+    "published": "Wed, 02 Sep 2026 10:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-02T13:33:03.003Z"
+  },
+  {
+    "url": "https://www.engadget.com/2249200/united-airlines-deliver-food-essentials-gate/",
+    "title": "United Airlines will deliver food and other essentials to your gate",
+    "description": "United Airlines is testing a new offering that will let you order food  from its app and have it delivered to your gate.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-02T13:30:56.686Z",
+    "published": "Wed, 02 Sep 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2249298/acer-predator-atlas-7-gaming-handheld/",
+    "title": "Acer's Predator Atlas 7 is the brand's smaller handheld gaming flagship model",
+    "description": "Acer is launching a 7-inch version of the Predator Atlas 8.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-02T13:30:56.686Z",
+    "published": "Wed, 02 Sep 2026 09:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2248941/acers-new-monitors-include-a-24-inch-1-000hz-screen-for-esports-sickos/",
+    "title": "Acer's new monitors include a 24-inch, 1,000Hz screen for esports sickos",
+    "description": "Acer is also introducing a new 34-inch ultrawide and several models with dynamic refresh rates.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-02T13:30:56.686Z",
+    "published": "Wed, 02 Sep 2026 09:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2248822/acer-s-vero-16-laptop-is-built-to-be-easily-repaired/",
+    "title": "Acer's Vero 16 laptop is built to be easily repaired",
+    "description": "The Vero 16 includes removable port covers, a detachable external hinge and a latch on the bottom that doesn&#39;t require tools to open.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-02T13:30:56.686Z",
+    "published": "Wed, 02 Sep 2026 09:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2248794/acer-shows-off-its-ai-desktop-future-with-the-rtx-spark-design/",
+    "title": "Acer shows off its AI desktop future with the RTX Spark design",
+    "description": "It's a showcase of NVIDIA's latest chip tech.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-02T13:30:56.686Z",
+    "published": "Wed, 02 Sep 2026 09:30:00 +0000"
   }
 ]
