@@ -45463,5 +45463,242 @@
     "category": "news",
     "discovered": "2026-09-02T17:16:41.381Z",
     "published": "Wed, 02 Sep 2026 17:04:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+    "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+    "description": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#160;and even insurance claims, leaving platforms and users alike scrambling to fig",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-02T20:02:45.394Z",
+    "published": "Wed, 02 Sep 2026 17:18:13 +0000",
+    "processed": true,
+    "processedAt": "2026-09-02T20:05:30.118Z"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-1",
+    "title": "Prompting Claude Fable 5.1",
+    "description": "Article URL: https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-1\nComments URL: https://news.ycombinator.com/item?id=49541643\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-02T20:02:59.634Z",
+    "published": "Wed, 02 Sep 2026 20:01:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-02T20:05:30.118Z"
+  },
+  {
+    "url": "https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm",
+    "title": "Uber drivers launch European class action over AI algorithm",
+    "description": "Article URL: https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm\nComments URL: https://news.ycombinator.com/item?id=49541544\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-02T20:02:59.634Z",
+    "published": "Wed, 02 Sep 2026 19:54:26 +0000",
+    "processed": true,
+    "processedAt": "2026-09-02T20:05:30.118Z"
+  },
+  {
+    "url": "https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/",
+    "title": "AI Agents and the Refactoring That Never Happens",
+    "description": "Article URL: https://www.rosenfeld.page/articles/programming/2026_09_02_ai_agents_and_the_refactoring_that_never_happens/\nComments URL: https://news.ycombinator.com/item?id=49541496\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-02T20:02:59.634Z",
+    "published": "Wed, 02 Sep 2026 19:51:39 +0000",
+    "processed": true,
+    "processedAt": "2026-09-02T20:05:30.118Z"
+  },
+  {
+    "url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
+    "title": "Russian Mathematicians Taught AI How to Talk to Each Other Without Using Words",
+    "description": "Article URL: https://www.wired.com/story/russian-startup-mostik-ai-models-communication/\nComments URL: https://news.ycombinator.com/item?id=49541463\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-02T20:02:59.634Z",
+    "published": "Wed, 02 Sep 2026 19:49:06 +0000",
+    "processed": true,
+    "processedAt": "2026-09-02T20:05:30.118Z"
+  },
+  {
+    "url": "https://claude.com/blog/claude-for-commerce-agents",
+    "title": "Building Commerce Agents with Claude",
+    "description": "Article URL: https://claude.com/blog/claude-for-commerce-agents\nComments URL: https://news.ycombinator.com/item?id=49541349\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-02T20:02:59.634Z",
+    "published": "Wed, 02 Sep 2026 19:42:03 +0000"
+  },
+  {
+    "url": "https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/",
+    "title": "The Post-AI Internet Doesn't Look Great",
+    "description": "Article URL: https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/\nComments URL: https://news.ycombinator.com/item?id=49541331\nPoints: 17\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-02T20:02:59.634Z",
+    "published": "Wed, 02 Sep 2026 19:41:01 +0000"
+  },
+  {
+    "url": "https://www.stealthos.app/",
+    "title": "Show HN: StealthOS, an iOS privacy sandbox with local AI and Tor",
+    "description": "Article URL: https://www.stealthos.app/\nComments URL: https://news.ycombinator.com/item?id=49541092\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-02T20:02:59.634Z",
+    "published": "Wed, 02 Sep 2026 19:21:02 +0000"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/09/02/g20-innovation-ministerial-live-updates.html",
+    "title": "Altman says countries have to use AI: 'I think it is non-negotiable'",
+    "description": "Article URL: https://www.cnbc.com/2026/09/02/g20-innovation-ministerial-live-updates.html\nComments URL: https://news.ycombinator.com/item?id=49540934\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-02T20:02:59.634Z",
+    "published": "Wed, 02 Sep 2026 19:09:33 +0000"
+  },
+  {
+    "url": "https://careeratlas.dev/writing/ai-displacement-model",
+    "title": "I tried to predict which jobs AI replaces. The useful part is where it's wrong",
+    "description": "Article URL: https://careeratlas.dev/writing/ai-displacement-model\nComments URL: https://news.ycombinator.com/item?id=49540866\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-02T20:02:59.634Z",
+    "published": "Wed, 02 Sep 2026 19:04:50 +0000"
+  },
+  {
+    "url": "https://www.sciencealert.com/interacting-with-ai-might-make-you-act-more-robot-like-researchers-warn",
+    "title": "Researchers Warn AI Could Be Changing Us in an Unexpected Way",
+    "description": "Article URL: https://www.sciencealert.com/interacting-with-ai-might-make-you-act-more-robot-like-researchers-warn\nComments URL: https://news.ycombinator.com/item?id=49540832\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-02T20:02:59.634Z",
+    "published": "Wed, 02 Sep 2026 19:03:09 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2608.28482",
+    "title": "Proper Scoring Rules Shape LLM Forecasting",
+    "description": "Article URL: https://arxiv.org/abs/2608.28482\nComments URL: https://news.ycombinator.com/item?id=49540787\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-02T20:02:59.634Z",
+    "published": "Wed, 02 Sep 2026 18:59:47 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=3__HO-akNC8",
+    "title": "How AI Is Ruining the Electric Grid",
+    "description": "Article URL: https://www.youtube.com/watch?v=3__HO-akNC8\nComments URL: https://news.ycombinator.com/item?id=49540706\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-02T20:02:59.634Z",
+    "published": "Wed, 02 Sep 2026 18:53:47 +0000"
+  },
+  {
+    "url": "https://writethatblog.substack.com/p/rubber-ducking-your-blog-post-with-llms",
+    "title": "Rubber ducking your blog post with an LLM",
+    "description": "Article URL: https://writethatblog.substack.com/p/rubber-ducking-your-blog-post-with-llms\nComments URL: https://news.ycombinator.com/item?id=49540597\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-02T20:02:59.634Z",
+    "published": "Wed, 02 Sep 2026 18:45:10 +0000"
+  },
+  {
+    "url": "https://www.theguardian.com/technology/2026/sep/02/ai-jobs-freelance-cleanup",
+    "title": "Freelancers are getting buried with 'soulless' AI slop cleanup",
+    "description": "Article URL: https://www.theguardian.com/technology/2026/sep/02/ai-jobs-freelance-cleanup\nComments URL: https://news.ycombinator.com/item?id=49540555\nPoints: 7\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-02T20:02:59.634Z",
+    "published": "Wed, 02 Sep 2026 18:42:01 +0000"
+  },
+  {
+    "url": "https://marius.blog/firefox-155-ai-kill-switch-retest/",
+    "title": "Firefox's AI Switch Is Off. Telemetry Isn't",
+    "description": "Article URL: https://marius.blog/firefox-155-ai-kill-switch-retest/\nComments URL: https://news.ycombinator.com/item?id=49540397\nPoints: 26\n# Comments: 14",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-02T20:02:59.634Z",
+    "published": "Wed, 02 Sep 2026 18:30:49 +0000"
+  },
+  {
+    "url": "https://github.com/jameskomo/config-drift-checker.",
+    "title": "Claude config-drift-checker: CI for your Claude.md, skills and hooks",
+    "description": "Article URL: https://github.com/jameskomo/config-drift-checker.\nComments URL: https://news.ycombinator.com/item?id=49540330\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-02T20:02:59.634Z",
+    "published": "Wed, 02 Sep 2026 18:25:38 +0000"
+  },
+  {
+    "url": "https://github.com/asalsali/codeknow",
+    "title": "Show HN: Codeknow – Architecture health scores for any codebase, no LLM needed",
+    "description": "Article URL: https://github.com/asalsali/codeknow\nComments URL: https://news.ycombinator.com/item?id=49540277\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-02T20:02:59.634Z",
+    "published": "Wed, 02 Sep 2026 18:21:21 +0000"
+  },
+  {
+    "url": "https://healeycodes.com/what-makes-llm-tokenization-slow",
+    "title": "What Makes LLM Tokenization Slow?",
+    "description": "Article URL: https://healeycodes.com/what-makes-llm-tokenization-slow\nComments URL: https://news.ycombinator.com/item?id=49540232\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-02T20:02:59.634Z",
+    "published": "Wed, 02 Sep 2026 18:18:17 +0000"
+  },
+  {
+    "url": "https://www.home.saxo/content/articles/commodities/the-companies-powering-ai-are-outperforming-those-building-it-02092026",
+    "title": "The companies powering AI are outperforming those building it",
+    "description": "Article URL: https://www.home.saxo/content/articles/commodities/the-companies-powering-ai-are-outperforming-those-building-it-02092026\nComments URL: https://news.ycombinator.com/item?id=49540192\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-02T20:02:59.634Z",
+    "published": "Wed, 02 Sep 2026 18:14:54 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case/",
+    "title": "US Department of Justice backs fair use for AI training in landmark copyright case",
+    "description": "In the class-action lawsuit involving The New York Times, the US Department of Justice argues that training AI models on copyrighted text qualifies as fair use. The filing directly contradicts a report from the US Copyright Office. Its director was fired by the Trump administration shortly",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-02T20:03:07.256Z",
+    "published": "Wed, 02 Sep 2026 18:24:42 +0000"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+    "title": "How we make AI coding more cost efficient without sacrificing task quality",
+    "description": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task.\nThe post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-09-02T20:03:12.789Z",
+    "published": "Wed, 02 Sep 2026 18:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/",
+    "title": "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+    "description": "The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-02T20:03:14.124Z",
+    "published": "Wed, 02 Sep 2026 18:41:02 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
+    "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words",
+    "description": "A startup called Mostik has a wild new approach to combining the capabilities of AI models.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-02T20:03:14.124Z",
+    "published": "Wed, 02 Sep 2026 18:20:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-02T20:05:30.118Z"
+  },
+  {
+    "url": "https://www.engadget.com/2249790/nyc-generative-ai-ban-in-public-schools-through-eighth-grade/",
+    "title": "NYC bans the use of generative AI tools in public schools for students through eighth grade",
+    "description": "NYC public schools are taking a year without generative AI tools.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-02T20:03:23.210Z",
+    "published": "Wed, 02 Sep 2026 18:50:09 +0000"
   }
 ]
