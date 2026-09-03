@@ -46760,5 +46760,258 @@
     "category": "news",
     "discovered": "2026-09-03T20:52:58.388Z",
     "published": "Thu, 03 Sep 2026 18:10:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "description": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-03T23:10:32.325Z",
+    "published": "Thu, 03 Sep 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-03T23:13:14.964Z"
+  },
+  {
+    "url": "https://spectrum.ieee.org/ai-engineer-skills",
+    "title": "Protecting Engineers' Skills in the AI Era",
+    "description": "Article URL: https://spectrum.ieee.org/ai-engineer-skills\nComments URL: https://news.ycombinator.com/item?id=49558302\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T23:10:46.671Z",
+    "published": "Thu, 03 Sep 2026 23:00:04 +0000",
+    "processed": true,
+    "processedAt": "2026-09-03T23:13:14.964Z"
+  },
+  {
+    "url": "https://www.browserargus.com/blog/two-lanes-for-cold-email",
+    "title": "I found an AI-driven browser that builds workflows from playbooks",
+    "description": "Article URL: https://www.browserargus.com/blog/two-lanes-for-cold-email\nComments URL: https://news.ycombinator.com/item?id=49558255\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T23:10:46.671Z",
+    "published": "Thu, 03 Sep 2026 22:55:39 +0000",
+    "processed": true,
+    "processedAt": "2026-09-03T23:13:14.964Z"
+  },
+  {
+    "url": "https://github.com/bob-codedaptive/fleet-generator",
+    "title": "Show HN: Generate a Claude Code or Codex agent fleet from one HTML file",
+    "description": "Article URL: https://github.com/bob-codedaptive/fleet-generator\nComments URL: https://news.ycombinator.com/item?id=49558161\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T23:10:46.671Z",
+    "published": "Thu, 03 Sep 2026 22:45:49 +0000",
+    "processed": true,
+    "processedAt": "2026-09-03T23:13:14.964Z"
+  },
+  {
+    "url": "https://www.aaravwattal.com/blog/c2c-interconnect/",
+    "title": "Scaling AI: The Communication Wall",
+    "description": "Article URL: https://www.aaravwattal.com/blog/c2c-interconnect/\nComments URL: https://news.ycombinator.com/item?id=49557995\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T23:10:46.671Z",
+    "published": "Thu, 03 Sep 2026 22:27:12 +0000",
+    "processed": true,
+    "processedAt": "2026-09-03T23:13:14.964Z"
+  },
+  {
+    "url": "https://www.glassdoor.com/blog/how-workers-feel-about-ai-2026/",
+    "title": "How workers feel about AI in 2026",
+    "description": "Article URL: https://www.glassdoor.com/blog/how-workers-feel-about-ai-2026/\nComments URL: https://news.ycombinator.com/item?id=49557974\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T23:10:46.671Z",
+    "published": "Thu, 03 Sep 2026 22:25:39 +0000"
+  },
+  {
+    "url": "https://gizmodo.com/google-deepmind-just-rolled-out-its-most-accurate-ai-global-weather-model-2000807015",
+    "title": "Google DeepMind Just Rolled Out Its Most Accurate AI Global Weather Model",
+    "description": "Article URL: https://gizmodo.com/google-deepmind-just-rolled-out-its-most-accurate-ai-global-weather-model-2000807015\nComments URL: https://news.ycombinator.com/item?id=49557878\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T23:10:46.671Z",
+    "published": "Thu, 03 Sep 2026 22:14:48 +0000"
+  },
+  {
+    "url": "https://artificialanalysis.ai/models/gpt-6-astra",
+    "title": "GPT 6 is way behind Anthropic on Artificial Analysis",
+    "description": "Article URL: https://artificialanalysis.ai/models/gpt-6-astra\nComments URL: https://news.ycombinator.com/item?id=49557780\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T23:10:46.671Z",
+    "published": "Thu, 03 Sep 2026 22:05:49 +0000"
+  },
+  {
+    "url": "https://ateliti99.substack.com/p/the-selfish-ai-model",
+    "title": "The Selfish AI Model",
+    "description": "Article URL: https://ateliti99.substack.com/p/the-selfish-ai-model\nComments URL: https://news.ycombinator.com/item?id=49557770\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T23:10:46.671Z",
+    "published": "Thu, 03 Sep 2026 22:04:38 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
+    "title": "Four major AI models suffer rare overlapping downtime",
+    "description": "Article URL: https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/\nComments URL: https://news.ycombinator.com/item?id=49557716\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T23:10:46.671Z",
+    "published": "Thu, 03 Sep 2026 21:59:53 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49557687",
+    "title": "Ask HN: Is there a test for measuring cognitive affects from LLM usage?",
+    "description": "A part of me feels like I may be loosing my ability to think.Is there a test I can periodically do to see how my cognitive abilities are being affected by my AI usage all day?\n\nComments URL: https://news.ycombinator.com/item?id=49557687\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T23:10:46.671Z",
+    "published": "Thu, 03 Sep 2026 21:56:49 +0000"
+  },
+  {
+    "url": "https://github.com/sedds89/StitchLabtools",
+    "title": "I built an AI development environment that runs and builds software on Android",
+    "description": "Article URL: https://github.com/sedds89/StitchLabtools\nComments URL: https://news.ycombinator.com/item?id=49557621\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T23:10:46.671Z",
+    "published": "Thu, 03 Sep 2026 21:51:22 +0000"
+  },
+  {
+    "url": "https://galvered.com/blog/ai4-conference/",
+    "title": "I used AI to connect with 30 people at a conference",
+    "description": "Article URL: https://galvered.com/blog/ai4-conference/\nComments URL: https://news.ycombinator.com/item?id=49557613\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T23:10:46.671Z",
+    "published": "Thu, 03 Sep 2026 21:50:50 +0000"
+  },
+  {
+    "url": "https://claude.ai/public/artifacts/2368658e-60f2-4f51-8883-8d72738ba7ce",
+    "title": "GitHub dipped 7%, while both AI labs were down",
+    "description": "Article URL: https://claude.ai/public/artifacts/2368658e-60f2-4f51-8883-8d72738ba7ce\nComments URL: https://news.ycombinator.com/item?id=49557544\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T23:10:46.671Z",
+    "published": "Thu, 03 Sep 2026 21:45:06 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=kVXp6UNVPTo",
+    "title": "Watermarks Track AI Generated Content [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=kVXp6UNVPTo\nComments URL: https://news.ycombinator.com/item?id=49557525\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T23:10:46.671Z",
+    "published": "Thu, 03 Sep 2026 21:44:17 +0000"
+  },
+  {
+    "url": "https://www.latent.space/p/astra",
+    "title": "GPT-6 Astra: an automated AI Engineer you can hire for <$6 an hour",
+    "description": "Article URL: https://www.latent.space/p/astra\nComments URL: https://news.ycombinator.com/item?id=49557493\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T23:10:46.671Z",
+    "published": "Thu, 03 Sep 2026 21:41:58 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49557409",
+    "title": "Show HN: Building AI agents client-side JavaScript",
+    "description": "Hey HN, most agent systems default to server-side Python inside containers and chain frameworks. I wanted to see how far we could push agent in the browser with vanilla JavaScript https://buttercup.shThe reason this is interesting is because agent loops in the browser keeps infrastructure costs low",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T23:10:46.671Z",
+    "published": "Thu, 03 Sep 2026 21:34:31 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49557317",
+    "title": "AI Automation for Government Contracting",
+    "description": "i need cofounders, dont know how to break into this space at all.\n\nComments URL: https://news.ycombinator.com/item?id=49557317\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T23:10:46.671Z",
+    "published": "Thu, 03 Sep 2026 21:27:45 +0000"
+  },
+  {
+    "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+    "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+    "description": "Article URL: https://armature.tech/blog/which-tools-coding-agents-install\nComments URL: https://news.ycombinator.com/item?id=49557206\nPoints: 50\n# Comments: 15",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T23:10:46.671Z",
+    "published": "Thu, 03 Sep 2026 21:20:34 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49557192",
+    "title": "Ask HN: Could AI Eventually Build God?",
+    "description": "If a less intelligent species, like humans, is able to create a more intelligent species (like AGI), does that mean that at some point a species will be able to build the most intelligent species possible and essentially build God?\n\nComments URL: https://news.ycombinator.com/item?id=49557192\nPoints",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T23:10:46.671Z",
+    "published": "Thu, 03 Sep 2026 21:19:33 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49556909",
+    "title": "Ask HN: Why don't LLM APIs have a first-class test mode?",
+    "description": "Context: At work, we’re getting ready to stress-test a chatbot for scalability.One fairly obvious issue came up: if our load tests exercise the real OpenAI/Claude APIs, a scalability test can quickly turn into a token-spending test.Fair enough. We shouldn’t burn real inference just to test whether",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T23:10:46.671Z",
+    "published": "Thu, 03 Sep 2026 20:59:59 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+    "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages Today",
+    "description": "ChatGPT, Claude, and Grok all suffered outages at nearly the exact same time for reasons that remain murky.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-03T23:11:01.208Z",
+    "published": "Thu, 03 Sep 2026 21:56:21 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/prediction-market-betting-is-getting-people-banned-and-arrested/",
+    "title": "Prediction Market Betting Is Getting People Banned and Arrested",
+    "description": "This week on Uncanny Valley, we dig into the latest prediction market buzz, Flock’s AI-powered police search tool, and how tech bros don’t know how to talk about “rouge” AI agents",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-03T23:11:01.208Z",
+    "published": "Thu, 03 Sep 2026 21:48:24 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2250814/openai-says-gpt-6-astra-is-the-most-intelligent-and-aligned-model-in-the-world/",
+    "title": "OpenAI says GPT-6 Astra is 'the most intelligent and aligned model in the world'",
+    "description": "The new frontier model is particularly competent at agentic, computer-use tasks.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-03T23:11:08.944Z",
+    "published": "Thu, 03 Sep 2026 22:58:12 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2250806/netflix-has-ordered-live-action-adaptation-of-dnd-ravenloft/",
+    "title": "Netflix has ordered a live-action adaptation of D&D's Ravenloft",
+    "description": "Alfonso Cuarón will executive produce the dark fantasy vampire story based on the popular D&D campaign setting.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-03T23:11:08.944Z",
+    "published": "Thu, 03 Sep 2026 22:35:24 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2250749/ugreen-smart-home-ecosystem-built-around-local-ai-hubs/",
+    "title": "Ugreen's new smart home ecosystem is built around local AI hubs",
+    "description": "Ugreen has three new hubs that run your smart home with local AI rather than the cloud. The top model runs on Nvidia&#39;s Jetson Thor platform and costs $20,000.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-03T23:11:08.944Z",
+    "published": "Thu, 03 Sep 2026 22:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2250789/spacexai-apologizes-for-outage-that-affected-grok-and-other-compute-partners/",
+    "title": "SpaceXAI apologizes for outage that affected Grok and other 'compute partners'",
+    "description": "Several AI companies experienced issues at around the same time.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-03T23:11:08.944Z",
+    "published": "Thu, 03 Sep 2026 21:52:34 +0000"
   }
 ]
