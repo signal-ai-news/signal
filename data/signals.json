@@ -46001,5 +46001,159 @@
     "published": "Thu, 03 Sep 2026 07:30:00 +0000",
     "processed": true,
     "processedAt": "2026-09-03T09:37:29.820Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/Hcompany/neomme",
+    "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-09-03T13:50:12.225Z",
+    "published": "Thu, 03 Sep 2026 13:13:48 GMT",
+    "processed": true,
+    "processedAt": "2026-09-03T13:53:03.033Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-09-03T13:50:12.225Z",
+    "published": "Thu, 03 Sep 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-03T13:53:03.033Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/funes",
+    "title": "Give Your Coding Agents a Memory You Own",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-09-03T13:50:12.225Z",
+    "published": "Thu, 03 Sep 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-03T13:53:03.033Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+    "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+    "description": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-03T13:50:13.502Z",
+    "published": "Thu, 03 Sep 2026 12:42:45 +0000",
+    "processed": true,
+    "processedAt": "2026-09-03T13:53:03.033Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
+    "title": "The Download: rethinking child safety and fossil-fueled farming",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning t",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-03T13:50:14.865Z",
+    "published": "Thu, 03 Sep 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-03T13:53:03.033Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+    "title": "Scaling agentic AI pilots across the enterprise",
+    "description": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 500 c",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-03T13:50:14.865Z",
+    "published": "Thu, 03 Sep 2026 09:30:32 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/changing-one-prompt-can-affect-50-others-i-built-a-prompt-dependency-graph-to-find-what-needs-retesting/",
+    "title": "Changing One Prompt Can Affect 50 Others — I Built a Prompt Dependency Graph to Find What Needs Retesting",
+    "description": "I built a prompt dependency graph that separates everything a component can reach from the smaller set that actually needs targeted evaluation.\nThe post Changing One Prompt Can Affect 50 Others — I Built a Prompt Dependency Graph to Find What Needs Retesting appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-03T13:50:38.487Z",
+    "published": "Thu, 03 Sep 2026 12:30:01 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-solve-the-right-problem-in-the-age-of-agentic-ai/",
+    "title": "How to Solve the Right Problem in the Age of Agentic AI",
+    "description": "A practical framework for reducing uncertainty before agents accelerate implementation\nThe post How to Solve the Right Problem in the Age of Agentic AI appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-03T13:50:38.487Z",
+    "published": "Thu, 03 Sep 2026 11:00:01 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/openai-ceo-sam-altman-warns-of-unsustainable-silliness-in-compute-buildout/",
+    "title": "OpenAI CEO Sam Altman warns of \"unsustainable silliness\" in compute buildout",
+    "description": "Sam Altman warns of \"unsustainable silliness\" in the global AI data center buildout. Too many Neocloud providers are announcing massive capacity without the customers to back it up. He also admits that falling computing costs could turn today's billion-dollar projects into bad bets, even fo",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-03T13:50:40.448Z",
+    "published": "Thu, 03 Sep 2026 12:00:56 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/meta-closes-in-on-the-top-with-muse-spark-1-3-and-undercuts-rivals-on-price/",
+    "title": "Meta closes in on the top with Muse Spark 1.3, and undercuts rivals on price",
+    "description": "Meta has released Muse Spark 1.3, its fourth model in the series in five months. According to Artificial Analysis, the model gains the most on agentic benchmarks but still trails Claude Fable 5.1 and other top models. The strongest argument is price. At $0.55 per task, Muse Spark undercuts",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-03T13:50:40.448Z",
+    "published": "Thu, 03 Sep 2026 11:45:41 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
+    "title": "Nvidia RTX Spark ‘Superchip’: The First AI PCs Are Here",
+    "description": "At IFA 2026, Nvidia and its partners showed off the first RTX Spark-powered laptops and mini PCs, designed to run AI models right on your computer.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-03T13:50:47.475Z",
+    "published": "Thu, 03 Sep 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/",
+    "title": "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+    "description": "The long-rumored deal will give the chip giant access to—and help it promote—a huge repository of open-source AI models and data sets.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-03T13:50:47.475Z",
+    "published": "Thu, 03 Sep 2026 12:43:09 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/flock-ai-search-user-interface/",
+    "title": "This Is Flock’s AI Search Tool for Cops",
+    "description": "WIRED rebuilt Flock’s latest search tool from code the company sends to a police officer’s browser. Its AI can keep watch across multiple cameras for anyone fitting a written description.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-03T13:50:47.475Z",
+    "published": "Thu, 03 Sep 2026 10:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2250197/nvidia-buys-hugging-face/",
+    "title": "NVIDIA is buying Hugging Face for $12.93 billion",
+    "description": "NVIDIA has confirmed it is buying AI software repository Hugging Face.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-03T13:50:56.615Z",
+    "published": "Thu, 03 Sep 2026 12:18:21 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2250160/dont-use-google-gemini-to-plan-a-mountain-climb/",
+    "title": "PSA: Don't rely on AI to plan anything that could put your life at risk... like a mountain climb",
+    "description": "Gemini reportedly told a group of climbers that it would only take them eight hours to climb Mt. Shasta. They had to be rescued more than a day later.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-03T13:50:56.615Z",
+    "published": "Thu, 03 Sep 2026 10:20:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2249856/sennheiser-momentum-true-wireless-5-review/",
+    "title": "Sennheiser Momentum True Wireless 5 review: A significant upgrade at the same price",
+    "description": "On the Momentum True Wireless 5, a completely new design increases comfort while excellent sound and extended battery life are the main attractions.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-03T13:50:56.615Z",
+    "published": "Thu, 03 Sep 2026 10:00:00 +0000"
   }
 ]
