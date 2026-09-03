@@ -10720,7 +10720,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T08:11:18.789Z",
-    "published": "Fri, 31 Jul 2026 06:46:54 +0000"
+    "published": "Fri, 31 Jul 2026 06:46:54 +0000",
+    "processed": true,
+    "processedAt": "2026-09-03T09:37:29.819Z"
   },
   {
     "url": "https://www.zenresume.online/",
@@ -45955,5 +45957,49 @@
     "category": "news",
     "discovered": "2026-09-03T04:57:58.241Z",
     "published": "Thu, 03 Sep 2026 01:32:02 +0000"
+  },
+  {
+    "url": "https://huggingface.co/blog/train-to-paint-with-code",
+    "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-09-03T09:34:55.814Z",
+    "published": "Thu, 03 Sep 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-03T09:37:29.820Z"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-ramps-up-claude-infrastructure-with-35-billion-lambda-deal/",
+    "title": "Anthropic ramps up Claude infrastructure with $35 billion Lambda deal",
+    "description": "Anthropic has signed a $35 billion cloud computing deal with Lambda, an Nvidia-backed cloud provider.\nThe article Anthropic ramps up Claude infrastructure with $35 billion Lambda deal appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-03T09:35:10.436Z",
+    "published": "Thu, 03 Sep 2026 08:22:02 +0000",
+    "processed": true,
+    "processedAt": "2026-09-03T09:37:29.820Z"
+  },
+  {
+    "url": "https://www.engadget.com/2248998/anker-brings-its-ai-chip-to-the-soundcore-space-2-pro-headphones/",
+    "title": "Anker brings its AI chip to the Soundcore Space 2 Pro headphones",
+    "description": "Anker has a bunch of new AI-infused headphones, earbuds and hearing aids on the way.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-03T09:35:23.708Z",
+    "published": "Thu, 03 Sep 2026 07:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-03T09:37:29.820Z"
+  },
+  {
+    "url": "https://www.engadget.com/2249482/anker-mindbase-is-a-smart-home-hub-nas-and-security-guard/",
+    "title": "Anker's MindBase is a smart home hub, NAS and security guard",
+    "description": "Anker's MindBase uses AI to run your smart home, and keep it safe.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-03T09:35:23.708Z",
+    "published": "Thu, 03 Sep 2026 07:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-03T09:37:29.820Z"
   }
 ]
