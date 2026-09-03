@@ -46480,5 +46480,285 @@
     "category": "news",
     "discovered": "2026-09-03T17:46:16.198Z",
     "published": "Thu, 03 Sep 2026 14:10:12 +0000"
+  },
+  {
+    "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "description": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-03T20:52:14.367Z",
+    "published": "Thu, 03 Sep 2026 13:15:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-03T20:55:05.010Z"
+  },
+  {
+    "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+    "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+    "description": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-03T20:52:14.367Z",
+    "published": "Thu, 03 Sep 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-03T20:55:05.010Z"
+  },
+  {
+    "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+    "title": "Safety overview: GPT-6 Astra",
+    "description": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-03T20:52:14.367Z",
+    "published": "Thu, 03 Sep 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-03T20:55:05.010Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+    "title": "Abliteration.ai is making a business out of removing AI guardrails",
+    "description": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-03T20:52:17.781Z",
+    "published": "Thu, 03 Sep 2026 18:37:57 +0000",
+    "processed": true,
+    "processedAt": "2026-09-03T20:55:05.010Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+    "title": "Meta is paying to peek at how you use their latest AI model",
+    "description": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-03T20:52:17.781Z",
+    "published": "Thu, 03 Sep 2026 18:19:56 +0000",
+    "processed": true,
+    "processedAt": "2026-09-03T20:55:05.010Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+    "description": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-03T20:52:17.781Z",
+    "published": "Thu, 03 Sep 2026 18:01:45 +0000"
+  },
+  {
+    "url": "https://code.claude.com/docs/en/self-hosted-environments-quickstart",
+    "title": "Claude Code: Self-Hosted Environments",
+    "description": "Article URL: https://code.claude.com/docs/en/self-hosted-environments-quickstart\nComments URL: https://news.ycombinator.com/item?id=49556774\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T20:52:23.953Z",
+    "published": "Thu, 03 Sep 2026 20:51:27 +0000"
+  },
+  {
+    "url": "https://twitter.com/fchollet/status/2095598451115614371",
+    "title": "GPT-6 Astra represents a step-function change in interactive reasoning",
+    "description": "Article URL: https://twitter.com/fchollet/status/2095598451115614371\nComments URL: https://news.ycombinator.com/item?id=49556405\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T20:52:23.953Z",
+    "published": "Thu, 03 Sep 2026 20:26:33 +0000"
+  },
+  {
+    "url": "https://www.science.org/content/article/can-ai-help-solve-peer-review-crisis-here-are-its-promises-and-pitfalls",
+    "title": "Can AI help solve the peer-review crisis? Here are its promises and pitfalls",
+    "description": "Article URL: https://www.science.org/content/article/can-ai-help-solve-peer-review-crisis-here-are-its-promises-and-pitfalls\nComments URL: https://news.ycombinator.com/item?id=49556274\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T20:52:23.953Z",
+    "published": "Thu, 03 Sep 2026 20:19:23 +0000"
+  },
+  {
+    "url": "https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra",
+    "title": "GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index",
+    "description": "Article URL: https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra\nComments URL: https://news.ycombinator.com/item?id=49556147\nPoints: 13\n# Comments: 5",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T20:52:23.953Z",
+    "published": "Thu, 03 Sep 2026 20:11:25 +0000"
+  },
+  {
+    "url": "https://thefiscalai.streamlit.app",
+    "title": "AI Financial Advisor – FiscalAI· Streamlit",
+    "description": "Article URL: https://thefiscalai.streamlit.app\nComments URL: https://news.ycombinator.com/item?id=49556038\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T20:52:23.953Z",
+    "published": "Thu, 03 Sep 2026 20:04:08 +0000"
+  },
+  {
+    "url": "https://github.com/nextblock-cms/nextblock",
+    "title": "Show HN: We built client-side AST SEO audits for a Next.js CMS to avoid LLM lag",
+    "description": "Article URL: https://github.com/nextblock-cms/nextblock\nComments URL: https://news.ycombinator.com/item?id=49555956\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T20:52:23.953Z",
+    "published": "Thu, 03 Sep 2026 19:59:19 +0000"
+  },
+  {
+    "url": "https://www.honeycomb.io/blog/ai-norms-values-part-2-ai-honeycomb-engineering",
+    "title": "AI Norms and Values, Part 2 of 3: AI for Honeycomb Engineering",
+    "description": "Article URL: https://www.honeycomb.io/blog/ai-norms-values-part-2-ai-honeycomb-engineering\nComments URL: https://news.ycombinator.com/item?id=49555895\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T20:52:23.953Z",
+    "published": "Thu, 03 Sep 2026 19:55:35 +0000"
+  },
+  {
+    "url": "https://twitter.com/arcprize/status/2095597602545025138",
+    "title": "GPT-6 Astra Achieves SOTA on ARC-AGI",
+    "description": "Article URL: https://twitter.com/arcprize/status/2095597602545025138\nComments URL: https://news.ycombinator.com/item?id=49555843\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T20:52:23.953Z",
+    "published": "Thu, 03 Sep 2026 19:53:01 +0000"
+  },
+  {
+    "url": "https://developers.openai.com/api/docs/guides/latest-model",
+    "title": "Using GPT-6 Astra – OpenAI Docs",
+    "description": "Article URL: https://developers.openai.com/api/docs/guides/latest-model\nComments URL: https://news.ycombinator.com/item?id=49555732\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T20:52:23.953Z",
+    "published": "Thu, 03 Sep 2026 19:47:57 +0000"
+  },
+  {
+    "url": "https://three-llm.ben3d.ca",
+    "title": "Three-LLM: Three.js-based WebGPU LLM inference engine",
+    "description": "Article URL: https://three-llm.ben3d.ca\nComments URL: https://news.ycombinator.com/item?id=49555712\nPoints: 6\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T20:52:23.953Z",
+    "published": "Thu, 03 Sep 2026 19:46:54 +0000"
+  },
+  {
+    "url": "https://arcprize.org/blog/astra",
+    "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+    "description": "Article URL: https://arcprize.org/blog/astra\nComments URL: https://news.ycombinator.com/item?id=49555691\nPoints: 55\n# Comments: 22",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T20:52:23.953Z",
+    "published": "Thu, 03 Sep 2026 19:45:00 +0000"
+  },
+  {
+    "url": "https://every.to/vibe-check/gpt-6-astra-vibe-check",
+    "title": "GPT 6 Astra Vibe Check",
+    "description": "Article URL: https://every.to/vibe-check/gpt-6-astra-vibe-check\nComments URL: https://news.ycombinator.com/item?id=49555678\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T20:52:23.953Z",
+    "published": "Thu, 03 Sep 2026 19:43:58 +0000"
+  },
+  {
+    "url": "https://github.com/sergebulaev/linkedin-skills",
+    "title": "Show HN: I processed 100k+ LinkedIn posts into open-source Claude Code skills",
+    "description": "Article URL: https://github.com/sergebulaev/linkedin-skills\nComments URL: https://news.ycombinator.com/item?id=49555534\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T20:52:23.953Z",
+    "published": "Thu, 03 Sep 2026 19:35:53 +0000"
+  },
+  {
+    "url": "https://deploymentsafety.openai.com/gpt-6-astra/gpt-6-astra.pdf",
+    "title": "GPT-6 Astra System Card [pdf]",
+    "description": "Article URL: https://deploymentsafety.openai.com/gpt-6-astra/gpt-6-astra.pdf\nComments URL: https://news.ycombinator.com/item?id=49555457\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T20:52:23.953Z",
+    "published": "Thu, 03 Sep 2026 19:32:32 +0000"
+  },
+  {
+    "url": "https://artificialanalysis.ai/articles/gemini-3-8-flash",
+    "title": "Google has released Gemini 3.8 Flash, its fourth Flash model in under four month",
+    "description": "Article URL: https://artificialanalysis.ai/articles/gemini-3-8-flash\nComments URL: https://news.ycombinator.com/item?id=49555452\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T20:52:23.953Z",
+    "published": "Thu, 03 Sep 2026 19:32:17 +0000"
+  },
+  {
+    "url": "https://deploymentsafety.openai.com/gpt-6-astra",
+    "title": "GPT-6 Astra System Card",
+    "description": "Article URL: https://deploymentsafety.openai.com/gpt-6-astra\nComments URL: https://news.ycombinator.com/item?id=49555440\nPoints: 20\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T20:52:23.953Z",
+    "published": "Thu, 03 Sep 2026 19:30:38 +0000"
+  },
+  {
+    "url": "https://www.euronews.com/next/2026/09/03/before-new-york-city-norway-had-already-banned-ai-in-schools",
+    "title": "Before New York City, Norway Had Banned AI in Schools",
+    "description": "Article URL: https://www.euronews.com/next/2026/09/03/before-new-york-city-norway-had-already-banned-ai-in-schools\nComments URL: https://news.ycombinator.com/item?id=49555437\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T20:52:23.953Z",
+    "published": "Thu, 03 Sep 2026 19:30:31 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49555417",
+    "title": "Ask HN: Why is nobody funding Wikipedia with AI based chat with articles",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=49555417\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T20:52:23.953Z",
+    "published": "Thu, 03 Sep 2026 19:29:28 +0000"
+  },
+  {
+    "url": "https://www.ft.com/content/5240a6ac-b2e8-4897-a0a4-cbc7fc283bc9",
+    "title": "Wall Street banks push Big Law to cut fees because of AI",
+    "description": "Article URL: https://www.ft.com/content/5240a6ac-b2e8-4897-a0a4-cbc7fc283bc9\nComments URL: https://news.ycombinator.com/item?id=49555275\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T20:52:23.953Z",
+    "published": "Thu, 03 Sep 2026 19:20:07 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era/",
+    "title": "GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\"",
+    "description": "OpenAI has released GPT-6 Astra, its most capable model yet. President Greg Brockman says it marks the start of the \"AGI era.\" Astra tops benchmarks in math, coding, and cybersecurity and is the first model OpenAI rates as \"critical\" under its safety framework. During testing, it independen",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-03T20:52:32.146Z",
+    "published": "Thu, 03 Sep 2026 19:25:40 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/pangrams-biggest-flaw-is-users-turning-its-scores-into-public-shaming/",
+    "title": "Pangram's biggest flaw is users turning its scores into public shaming",
+    "description": "Pangram hired an \"attack dog\" to shame alleged AI users on social media. But the campaign blurs two things that aren't the same: Pangram only somewhat reliably measures whether AI was used, while the shaming implies the person didn't think or work on their own. A high AI score hits a text b",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-03T20:52:32.146Z",
+    "published": "Thu, 03 Sep 2026 18:07:26 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
+    "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
+    "description": "OpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-03T20:52:39.337Z",
+    "published": "Thu, 03 Sep 2026 18:06:24 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2250687/googles-new-ai-weather-model-uses-live-satellite-data-for-higher-resolution-forecasts/",
+    "title": "Google's new AI weather model uses live satellite data for higher-resolution forecasts",
+    "description": "WeatherNext 3 is also supposed to be much better at predicting precipitation.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-03T20:52:58.388Z",
+    "published": "Thu, 03 Sep 2026 19:56:03 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2250555/apple-sued-for-2-billion-over-app-tracking-transparency-rules/",
+    "title": "Apple has been sued for $2.7 billion over App Tracking Transparency rules",
+    "description": "A lawsuit claims the policy was stricter on third-party developers than Apple itself.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-03T20:52:58.388Z",
+    "published": "Thu, 03 Sep 2026 18:10:00 +0000"
   }
 ]
