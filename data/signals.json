@@ -10687,7 +10687,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T08:11:18.789Z",
-    "published": "Fri, 31 Jul 2026 07:29:22 +0000"
+    "published": "Fri, 31 Jul 2026 07:29:22 +0000",
+    "processed": true,
+    "processedAt": "2026-09-03T00:36:40.398Z"
   },
   {
     "url": "https://getslaide.com/",
@@ -10696,7 +10698,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T08:11:18.789Z",
-    "published": "Fri, 31 Jul 2026 07:21:17 +0000"
+    "published": "Fri, 31 Jul 2026 07:21:17 +0000",
+    "processed": true,
+    "processedAt": "2026-09-03T00:36:40.398Z"
   },
   {
     "url": "https://blackflare.dev/",
@@ -10705,7 +10709,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T08:11:18.789Z",
-    "published": "Fri, 31 Jul 2026 07:05:26 +0000"
+    "published": "Fri, 31 Jul 2026 07:05:26 +0000",
+    "processed": true,
+    "processedAt": "2026-09-03T00:36:40.398Z"
   },
   {
     "url": "https://blog.mozilla.ai/can-open-source-guardrails-really-protect-ai-agents/",
@@ -45746,5 +45752,27 @@
     "published": "Wed, 02 Sep 2026 20:18:43 +0000",
     "processed": true,
     "processedAt": "2026-09-02T22:34:44.781Z"
+  },
+  {
+    "url": "https://openai.com/index/atv-big-air-tour",
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "description": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-03T00:33:57.769Z",
+    "published": "Wed, 02 Sep 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-03T00:36:40.399Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+    "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+    "description": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-03T00:34:01.300Z",
+    "published": "Wed, 02 Sep 2026 22:44:56 +0000",
+    "processed": true,
+    "processedAt": "2026-09-03T00:36:40.399Z"
   }
 ]
