@@ -45774,5 +45774,186 @@
     "published": "Wed, 02 Sep 2026 22:44:56 +0000",
     "processed": true,
     "processedAt": "2026-09-03T00:36:40.399Z"
+  },
+  {
+    "url": "https://bartholomew.info/",
+    "title": "What happens when your AI agent edits its own tests to pass?",
+    "description": "Article URL: https://bartholomew.info/\nComments URL: https://news.ycombinator.com/item?id=49545935\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T04:57:43.776Z",
+    "published": "Thu, 03 Sep 2026 04:29:52 +0000",
+    "processed": true,
+    "processedAt": "2026-09-03T05:00:11.364Z"
+  },
+  {
+    "url": "https://secondthoughts.ai/p/ai-can-help-plan-a-bioweapon-building",
+    "title": "AI Can Help Plan a Bioweapon",
+    "description": "Article URL: https://secondthoughts.ai/p/ai-can-help-plan-a-bioweapon-building\nComments URL: https://news.ycombinator.com/item?id=49545920\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T04:57:43.776Z",
+    "published": "Thu, 03 Sep 2026 04:26:29 +0000",
+    "processed": true,
+    "processedAt": "2026-09-03T05:00:11.364Z"
+  },
+  {
+    "url": "https://twitter.com/louszbd/status/2093047548550525165",
+    "title": "How viable is LLM-assisted 3D modeling in Blender?",
+    "description": "Article URL: https://twitter.com/louszbd/status/2093047548550525165\nComments URL: https://news.ycombinator.com/item?id=49545862\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T04:57:43.776Z",
+    "published": "Thu, 03 Sep 2026 04:19:38 +0000",
+    "processed": true,
+    "processedAt": "2026-09-03T05:00:11.364Z"
+  },
+  {
+    "url": "https://gizmodo.com/new-york-city-bans-ai-from-elementary-schools-2000806172",
+    "title": "New York City Bans AI from Elementary Schools",
+    "description": "Article URL: https://gizmodo.com/new-york-city-bans-ai-from-elementary-schools-2000806172\nComments URL: https://news.ycombinator.com/item?id=49545857\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T04:57:43.776Z",
+    "published": "Thu, 03 Sep 2026 04:19:05 +0000",
+    "processed": true,
+    "processedAt": "2026-09-03T05:00:11.364Z"
+  },
+  {
+    "url": "https://github.com/meghal86/promptsonar",
+    "title": "PromptSonar – Execution path analyzer for AI agents and MCP servers",
+    "description": "Article URL: https://github.com/meghal86/promptsonar\nComments URL: https://news.ycombinator.com/item?id=49545780\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T04:57:43.776Z",
+    "published": "Thu, 03 Sep 2026 03:59:19 +0000",
+    "processed": true,
+    "processedAt": "2026-09-03T05:00:11.364Z"
+  },
+  {
+    "url": "https://opsera.ai/blog/frontier-ai-software-readiness-benchmark/",
+    "title": "We analyzed the code published by 29 frontier AI labs. Here's the data",
+    "description": "Article URL: https://opsera.ai/blog/frontier-ai-software-readiness-benchmark/\nComments URL: https://news.ycombinator.com/item?id=49545682\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T04:57:43.776Z",
+    "published": "Thu, 03 Sep 2026 03:42:28 +0000"
+  },
+  {
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/9925/text",
+    "title": "Frontier Act – Federal oversight of the development of frontier AI",
+    "description": "Article URL: https://www.congress.gov/bill/119th-congress/house-bill/9925/text\nComments URL: https://news.ycombinator.com/item?id=49545592\nPoints: 5\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T04:57:43.776Z",
+    "published": "Thu, 03 Sep 2026 03:24:42 +0000"
+  },
+  {
+    "url": "https://thenewstack.io/tide-raziel-emergent-authority/",
+    "title": "AI security that assumes the attacker has root",
+    "description": "Article URL: https://thenewstack.io/tide-raziel-emergent-authority/\nComments URL: https://news.ycombinator.com/item?id=49545513\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T04:57:43.776Z",
+    "published": "Thu, 03 Sep 2026 03:07:02 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49545476",
+    "title": "Ask HN: Should you open-source your Claude Code project docs with the repo?",
+    "description": "I want to open source a repo, but the repo has a lot of docs that were generated in the process over months - specs, milestones, project planning, etc.I am ok open sourcing it, but it seems a bit unnecessary - what is the standard practice for this?\n\nComments URL: https://news.ycombinator.com/item?",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T04:57:43.776Z",
+    "published": "Thu, 03 Sep 2026 02:59:25 +0000"
+  },
+  {
+    "url": "https://digitalmedusa.org/protocols-for-people-ai-the-internet-and-the-ietf/",
+    "title": "Protocols for People: AI, the Internet and the IETF",
+    "description": "Article URL: https://digitalmedusa.org/protocols-for-people-ai-the-internet-and-the-ietf/\nComments URL: https://news.ycombinator.com/item?id=49545281\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T04:57:43.776Z",
+    "published": "Thu, 03 Sep 2026 02:34:12 +0000"
+  },
+  {
+    "url": "https://github.com/awslabs/aidlc-workflows/tree/main",
+    "title": "AI-DLC – one core, many harnesses",
+    "description": "Article URL: https://github.com/awslabs/aidlc-workflows/tree/main\nComments URL: https://news.ycombinator.com/item?id=49545120\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T04:57:43.776Z",
+    "published": "Thu, 03 Sep 2026 02:04:59 +0000"
+  },
+  {
+    "url": "https://secretspec.dev/blog/claude-code-stores-oauth-tokens-in-plaintext/",
+    "title": "Claude Code Stores OAuth Tokens in Plaintext",
+    "description": "Article URL: https://secretspec.dev/blog/claude-code-stores-oauth-tokens-in-plaintext/\nComments URL: https://news.ycombinator.com/item?id=49545023\nPoints: 5\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T04:57:43.776Z",
+    "published": "Thu, 03 Sep 2026 01:47:44 +0000"
+  },
+  {
+    "url": "https://memhub.simplex.lat",
+    "title": "MemHub – Persistent shared memory for AI coding agents",
+    "description": "Article URL: https://memhub.simplex.lat\nComments URL: https://news.ycombinator.com/item?id=49544996\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T04:57:43.776Z",
+    "published": "Thu, 03 Sep 2026 01:43:31 +0000"
+  },
+  {
+    "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+    "title": "Go grandmaster Shin defeats AI KataGo in historic human victory",
+    "description": "Article URL: https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007\nComments URL: https://news.ycombinator.com/item?id=49544762\nPoints: 24\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T04:57:43.776Z",
+    "published": "Thu, 03 Sep 2026 01:11:22 +0000"
+  },
+  {
+    "url": "https://redactle.net/llm-leaderboard",
+    "title": "Show HN: Redactle LLM Leaderboard",
+    "description": "I got nerd sniped and ran a bunch of evaluations to see how well models could play Redactle. It turns out Gemini flash is in a league of it's own in both performance and cost. It's able to one-shot every eval in a just a few seconds.\n\nComments URL: https://news.ycombinator.com/item?id=49544338\nPoin",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T04:57:43.776Z",
+    "published": "Thu, 03 Sep 2026 00:11:55 +0000"
+  },
+  {
+    "url": "https://arena.ai/leaderboard/code/webdev",
+    "title": "Qwen3.8-Max-0902 takes second slot on Code Arena beating Claude Opus 5 max",
+    "description": "Article URL: https://arena.ai/leaderboard/code/webdev\nComments URL: https://news.ycombinator.com/item?id=49544285\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T04:57:43.776Z",
+    "published": "Thu, 03 Sep 2026 00:04:54 +0000"
+  },
+  {
+    "url": "https://knowablemagazine.org/content/article/society/2026/surveillance-at-work-is-increasing",
+    "title": "Workplace surveillance is on the rise, spurred by AI",
+    "description": "Article URL: https://knowablemagazine.org/content/article/society/2026/surveillance-at-work-is-increasing\nComments URL: https://news.ycombinator.com/item?id=49544093\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T04:57:43.776Z",
+    "published": "Wed, 02 Sep 2026 23:39:26 +0000"
+  },
+  {
+    "url": "https://paulkedrosky.com/why-software-developers-are-hiunrepresentative-of-broader-ai-use/",
+    "title": "Why Software Developers Are Highly Unrepresentative of Broader AI Use",
+    "description": "Article URL: https://paulkedrosky.com/why-software-developers-are-hiunrepresentative-of-broader-ai-use/\nComments URL: https://news.ycombinator.com/item?id=49544022\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-03T04:57:43.776Z",
+    "published": "Wed, 02 Sep 2026 23:28:56 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/",
+    "title": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+    "description": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-03T04:57:58.241Z",
+    "published": "Thu, 03 Sep 2026 01:32:02 +0000"
   }
 ]
