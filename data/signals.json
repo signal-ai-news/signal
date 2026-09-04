@@ -47638,5 +47638,240 @@
     "category": "news",
     "discovered": "2026-09-04T16:10:54.670Z",
     "published": "Fri, 04 Sep 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+    "title": "What will Apple’s John Ternus era look like?",
+    "description": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a “huge launch next week”&#160;— timing that puts Apple&#8217;s next iPhone event on his desk before&#",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-04T19:04:40.941Z",
+    "published": "Fri, 04 Sep 2026 17:18:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-04T19:07:14.182Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+    "description": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-04T19:04:40.941Z",
+    "published": "Fri, 04 Sep 2026 16:21:11 +0000",
+    "processed": true,
+    "processedAt": "2026-09-04T19:07:14.182Z"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+    "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+    "description": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-09-04T19:04:41.512Z",
+    "published": "Fri, 04 Sep 2026 17:18:12 +0000",
+    "processed": true,
+    "processedAt": "2026-09-04T19:07:14.182Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+    "title": "Architecting memory and storage in the AI era",
+    "description": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced inf",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-04T19:04:42.085Z",
+    "published": "Fri, 04 Sep 2026 18:39:19 +0000",
+    "processed": true,
+    "processedAt": "2026-09-04T19:07:14.182Z"
+  },
+  {
+    "url": "https://www.phoronix.com/news/NetworkManager-AI-Canary",
+    "title": "NetworkManager Works to Enforce AI Policy by Tricking AI Agents to Add a Canary",
+    "description": "Article URL: https://www.phoronix.com/news/NetworkManager-AI-Canary\nComments URL: https://news.ycombinator.com/item?id=49568736\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-04T19:04:46.899Z",
+    "published": "Fri, 04 Sep 2026 19:00:11 +0000",
+    "processed": true,
+    "processedAt": "2026-09-04T19:07:14.182Z"
+  },
+  {
+    "url": "https://github.com/Quack6765/Eidon-AI",
+    "title": "Eidon: Self-hosted AI assistant with Grok Bot-like agent mode",
+    "description": "Article URL: https://github.com/Quack6765/Eidon-AI\nComments URL: https://news.ycombinator.com/item?id=49568687\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-04T19:04:46.899Z",
+    "published": "Fri, 04 Sep 2026 18:57:14 +0000"
+  },
+  {
+    "url": "https://github.com/2hmad/ccswitch",
+    "title": "Show HN: Ccswitch – Switch between multiple Claude Code accounts",
+    "description": "Article URL: https://github.com/2hmad/ccswitch\nComments URL: https://news.ycombinator.com/item?id=49568678\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-04T19:04:46.899Z",
+    "published": "Fri, 04 Sep 2026 18:56:35 +0000"
+  },
+  {
+    "url": "https://github.com/franciscocarloserra/local-multi-agent-swarm",
+    "title": "Local Multi-Agent Swarm: An ant farm for local LLM agents",
+    "description": "Article URL: https://github.com/franciscocarloserra/local-multi-agent-swarm\nComments URL: https://news.ycombinator.com/item?id=49568634\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-04T19:04:46.899Z",
+    "published": "Fri, 04 Sep 2026 18:54:15 +0000"
+  },
+  {
+    "url": "https://economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+    "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
+    "description": "Article URL: https://economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here\nComments URL: https://news.ycombinator.com/item?id=49568618\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-04T19:04:46.899Z",
+    "published": "Fri, 04 Sep 2026 18:53:16 +0000"
+  },
+  {
+    "url": "https://medium.com/@yanivleven/your-ai-budget-is-already-there-its-hiding-in-your-cloud-bill-859546a848e9",
+    "title": "AI Budget Is There. It's Hiding in Your Cloud Bill",
+    "description": "Article URL: https://medium.com/@yanivleven/your-ai-budget-is-already-there-its-hiding-in-your-cloud-bill-859546a848e9\nComments URL: https://news.ycombinator.com/item?id=49568609\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-04T19:04:46.899Z",
+    "published": "Fri, 04 Sep 2026 18:52:15 +0000"
+  },
+  {
+    "url": "https://medium.com/@duckwrites/claude-code-vs-codex-for-pentesting-7624290438fa",
+    "title": "Claude Code vs. Codex – For Pentesting",
+    "description": "Article URL: https://medium.com/@duckwrites/claude-code-vs-codex-for-pentesting-7624290438fa\nComments URL: https://news.ycombinator.com/item?id=49568594\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-04T19:04:46.899Z",
+    "published": "Fri, 04 Sep 2026 18:51:37 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49568529",
+    "title": "Ask HN: Anyone using AI agents with SCPI equipment?",
+    "description": "I upgraded my home hobby electronics bench with equipment using SCPI (Standard Commands for Programmable Instruments). Looking for others' experiences and suggestions.So far I was able to:-  produce a desktop graph of multimeter V DC readings (a kind of slow oscilloscope) using a LABLOOT LB1041 DMM",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-04T19:04:46.899Z",
+    "published": "Fri, 04 Sep 2026 18:45:41 +0000"
+  },
+  {
+    "url": "https://github.com/Bevel-Software/Hexis",
+    "title": "Hexis: Collaborate on Claude Skills with your teammates",
+    "description": "Article URL: https://github.com/Bevel-Software/Hexis\nComments URL: https://news.ycombinator.com/item?id=49568500\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-04T19:04:46.899Z",
+    "published": "Fri, 04 Sep 2026 18:42:22 +0000"
+  },
+  {
+    "url": "https://bonsai.io/blog/claude-code-pulse/",
+    "title": "Claude Code Release Pulse",
+    "description": "Article URL: https://bonsai.io/blog/claude-code-pulse/\nComments URL: https://news.ycombinator.com/item?id=49568496\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-04T19:04:46.899Z",
+    "published": "Fri, 04 Sep 2026 18:41:24 +0000"
+  },
+  {
+    "url": "https://auxiliarymemory.com/2026/09/04/will-greed-destroy-ai/",
+    "title": "Will Greed Destroy AI?",
+    "description": "Article URL: https://auxiliarymemory.com/2026/09/04/will-greed-destroy-ai/\nComments URL: https://news.ycombinator.com/item?id=49568477\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-04T19:04:46.899Z",
+    "published": "Fri, 04 Sep 2026 18:39:54 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49568460",
+    "title": "Ask HN: Does anyone have access to GPT-6 Astra yet?",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=49568460\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-04T19:04:46.899Z",
+    "published": "Fri, 04 Sep 2026 18:38:10 +0000"
+  },
+  {
+    "url": "https://github.com/boquila/montgomery",
+    "title": "Montgomery v0.1: computer vision AI training in any GPU",
+    "description": "Article URL: https://github.com/boquila/montgomery\nComments URL: https://news.ycombinator.com/item?id=49568434\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-04T19:04:46.899Z",
+    "published": "Fri, 04 Sep 2026 18:36:32 +0000"
+  },
+  {
+    "url": "https://getpostingboard.dev/",
+    "title": "Show HN: A GET message board for AI agents, not browsers",
+    "description": "Article URL: https://getpostingboard.dev/\nComments URL: https://news.ycombinator.com/item?id=49568282\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-04T19:04:46.899Z",
+    "published": "Fri, 04 Sep 2026 18:25:03 +0000"
+  },
+  {
+    "url": "https://www.mrafayaleem.com/blog/sandboxing-claude-cli-with-tart-on-apple-silicon",
+    "title": "Sandboxing Claude CLI with Tart on Apple Silicon",
+    "description": "Article URL: https://www.mrafayaleem.com/blog/sandboxing-claude-cli-with-tart-on-apple-silicon\nComments URL: https://news.ycombinator.com/item?id=49568263\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-04T19:04:46.899Z",
+    "published": "Fri, 04 Sep 2026 18:23:12 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=2E_NdSoddhQ",
+    "title": "GPU-Accelerated Physics, AI Surrogates for Physics and Visualization [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=2E_NdSoddhQ\nComments URL: https://news.ycombinator.com/item?id=49568201\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-04T19:04:46.899Z",
+    "published": "Fri, 04 Sep 2026 18:17:38 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49568137",
+    "title": "Local AI for Submitting Job Applications",
+    "description": "I've submitted almost 200 job applications over the course of almost 5 days using only local AI. I can't talk too much about the tech stack here (it's running at this very moment!).The only interaction that I've had with these websites has been to click on the captchas to bypass the I'm not a robot",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-04T19:04:46.899Z",
+    "published": "Fri, 04 Sep 2026 18:12:24 +0000"
+  },
+  {
+    "url": "https://id43labs.com/",
+    "title": "UK based AI training data is on the rise",
+    "description": "Article URL: https://id43labs.com/\nComments URL: https://news.ycombinator.com/item?id=49568132\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-04T19:04:46.899Z",
+    "published": "Fri, 04 Sep 2026 18:12:00 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/innovation/aisle-ai-vulnerability-management-curl-bugs/",
+    "title": "AI tool found 6 Curl vulnerabilities Mythos and Codex missed",
+    "description": "Article URL: https://www.zdnet.com/innovation/aisle-ai-vulnerability-management-curl-bugs/\nComments URL: https://news.ycombinator.com/item?id=49567843\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-04T19:04:46.899Z",
+    "published": "Fri, 04 Sep 2026 17:47:17 +0000"
+  },
+  {
+    "url": "https://marklevy.info/blog/word-warp-drive/",
+    "title": "Word Warp Drive – An Interactive LLM Explainer, Star Trek TNG Style",
+    "description": "Article URL: https://marklevy.info/blog/word-warp-drive/\nComments URL: https://news.ycombinator.com/item?id=49567782\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-04T19:04:46.899Z",
+    "published": "Fri, 04 Sep 2026 17:42:46 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections/",
+    "title": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
+    "description": "OpenAI's GPT-6 Astra hallucinates less than its predecessor and blocks 99.99 percent of direct prompt injections. But when attacks are hidden inside documents the AI reads, the model still gets cracked in 8.5 percent of scenarios. Claude Opus 5 does better at 4.8 percent. For autonomous AI",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-04T19:04:54.167Z",
+    "published": "Fri, 04 Sep 2026 17:23:35 +0000"
   }
 ]
