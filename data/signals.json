@@ -10731,7 +10731,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T08:11:18.789Z",
-    "published": "Fri, 31 Jul 2026 06:25:20 +0000"
+    "published": "Fri, 31 Jul 2026 06:25:20 +0000",
+    "processed": true,
+    "processedAt": "2026-09-04T06:33:11.667Z"
   },
   {
     "url": "https://multi-agent-systems-failure-taxonomy.github.io/AdaMAST/blogs/adamast_paper/",
@@ -10740,7 +10742,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T08:11:18.789Z",
-    "published": "Fri, 31 Jul 2026 06:22:31 +0000"
+    "published": "Fri, 31 Jul 2026 06:22:31 +0000",
+    "processed": true,
+    "processedAt": "2026-09-04T06:33:11.667Z"
   },
   {
     "url": "https://pub.towardsai.net/saps-big-push-for-tabular-ai-what-it-means-for-enterprises-7dc3af2a1d8c?sk=73d9e33939f8f38b3d7ea49f87bb2e6a",
@@ -10749,7 +10753,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T08:11:18.789Z",
-    "published": "Fri, 31 Jul 2026 06:02:04 +0000"
+    "published": "Fri, 31 Jul 2026 06:02:04 +0000",
+    "processed": true,
+    "processedAt": "2026-09-04T06:33:11.667Z"
   },
   {
     "url": "https://pressgazette.co.uk/publishers/digital-journalism/first-tremors-of-ai-earthquake-showing-in-digital-revenue-hit/",
@@ -10758,7 +10764,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T08:11:18.789Z",
-    "published": "Fri, 31 Jul 2026 05:29:47 +0000"
+    "published": "Fri, 31 Jul 2026 05:29:47 +0000",
+    "processed": true,
+    "processedAt": "2026-09-04T06:33:11.667Z"
   },
   {
     "url": "https://www.latimes.com/business/story/2026-07-29/nvidias-750-billion-ai-bet-deepens-fears-of-circular-tech-bubble",
@@ -47131,5 +47139,16 @@
     "category": "community",
     "discovered": "2026-09-04T01:20:07.656Z",
     "published": "Thu, 03 Sep 2026 23:14:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+    "title": "The sameness problem behind those unappetizing AI-generated menus",
+    "description": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-04T06:30:37.075Z",
+    "published": "Fri, 04 Sep 2026 04:21:03 +0000",
+    "processed": true,
+    "processedAt": "2026-09-04T06:33:11.668Z"
   }
 ]
