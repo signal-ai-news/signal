@@ -10775,7 +10775,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T08:11:18.789Z",
-    "published": "Fri, 31 Jul 2026 05:19:46 +0000"
+    "published": "Fri, 31 Jul 2026 05:19:46 +0000",
+    "processed": true,
+    "processedAt": "2026-09-04T23:15:28.532Z"
   },
   {
     "url": "https://marbleos.com/demo",
@@ -10784,7 +10786,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T08:11:18.789Z",
-    "published": "Fri, 31 Jul 2026 05:17:29 +0000"
+    "published": "Fri, 31 Jul 2026 05:17:29 +0000",
+    "processed": true,
+    "processedAt": "2026-09-04T23:15:28.532Z"
   },
   {
     "url": "https://www.404media.co/linkedin-introduces-a-seems-like-ai-slop-button/",
@@ -10793,7 +10797,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T08:11:18.789Z",
-    "published": "Fri, 31 Jul 2026 05:15:03 +0000"
+    "published": "Fri, 31 Jul 2026 05:15:03 +0000",
+    "processed": true,
+    "processedAt": "2026-09-04T23:15:28.532Z"
   },
   {
     "url": "https://twitter.com/i/status/2082566186785480708",
@@ -10802,7 +10808,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T08:11:18.789Z",
-    "published": "Fri, 31 Jul 2026 04:59:28 +0000"
+    "published": "Fri, 31 Jul 2026 04:59:28 +0000",
+    "processed": true,
+    "processedAt": "2026-09-04T23:15:28.532Z"
   },
   {
     "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po",
@@ -48054,5 +48062,16 @@
     "category": "community",
     "discovered": "2026-09-04T21:23:24.001Z",
     "published": "Fri, 04 Sep 2026 19:07:43 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+    "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+    "description": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-09-04T23:12:57.595Z",
+    "published": "Fri, 04 Sep 2026 22:17:36 +0000",
+    "processed": true,
+    "processedAt": "2026-09-04T23:15:28.533Z"
   }
 ]
