@@ -47013,5 +47013,123 @@
     "category": "news",
     "discovered": "2026-09-03T23:11:08.944Z",
     "published": "Thu, 03 Sep 2026 21:52:34 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+    "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+    "description": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-04T01:19:55.140Z",
+    "published": "Fri, 04 Sep 2026 00:48:42 +0000",
+    "processed": true,
+    "processedAt": "2026-09-04T01:22:34.751Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49559320",
+    "title": "Ask HN: How do you break AI agents out of the \"apologize and repeat\" loop",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=49559320\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-04T01:20:07.656Z",
+    "published": "Fri, 04 Sep 2026 01:17:06 +0000",
+    "processed": true,
+    "processedAt": "2026-09-04T01:22:34.751Z"
+  },
+  {
+    "url": "https://github.com/JamelHammoud/crew",
+    "title": "Crew – A multiplayer AI workspace for humans and agents, now with iOS apps",
+    "description": "Article URL: https://github.com/JamelHammoud/crew\nComments URL: https://news.ycombinator.com/item?id=49559270\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-04T01:20:07.656Z",
+    "published": "Fri, 04 Sep 2026 01:10:55 +0000",
+    "processed": true,
+    "processedAt": "2026-09-04T01:22:34.751Z"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+    "title": "GPT‑6 Astra",
+    "description": "Article URL: https://simonwillison.net/2026/Sep/3/gpt6-astra/\nComments URL: https://news.ycombinator.com/item?id=49559252\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-04T01:20:07.656Z",
+    "published": "Fri, 04 Sep 2026 01:08:54 +0000",
+    "processed": true,
+    "processedAt": "2026-09-04T01:22:34.751Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49559036",
+    "title": "Ask HN: Code review of AI output, review what?",
+    "description": "If AI is supposed to be doing a better job at coding, then what are humans reviewing in it? I don't understand why I need to spend extra time and effort just to read code that humans aren't supposed to write.I feel this is some sort of scam in the AI industry telling us to do code reviews.Either wr",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-04T01:20:07.656Z",
+    "published": "Fri, 04 Sep 2026 00:36:08 +0000",
+    "processed": true,
+    "processedAt": "2026-09-04T01:22:34.751Z"
+  },
+  {
+    "url": "https://www.economist.com/interactive/1843/2026/09/03/how-jensen-huang-became-ais-taylor-swift",
+    "title": "Jensen Huang Became AI'S Taylor Swift",
+    "description": "Article URL: https://www.economist.com/interactive/1843/2026/09/03/how-jensen-huang-became-ais-taylor-swift\nComments URL: https://news.ycombinator.com/item?id=49559023\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-04T01:20:07.656Z",
+    "published": "Fri, 04 Sep 2026 00:34:07 +0000"
+  },
+  {
+    "url": "https://www.economist.com/leaders/2026/09/03/nvidia-is-driving-the-ai-boom-good",
+    "title": "NVIDIA is driving the AI boom. Good",
+    "description": "Article URL: https://www.economist.com/leaders/2026/09/03/nvidia-is-driving-the-ai-boom-good\nComments URL: https://news.ycombinator.com/item?id=49559014\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-04T01:20:07.656Z",
+    "published": "Fri, 04 Sep 2026 00:32:25 +0000"
+  },
+  {
+    "url": "https://www.botpool.ai/create",
+    "title": "Botpool Create – Build websites and apps by chatting with AI",
+    "description": "Article URL: https://www.botpool.ai/create\nComments URL: https://news.ycombinator.com/item?id=49558895\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-04T01:20:07.656Z",
+    "published": "Fri, 04 Sep 2026 00:18:38 +0000"
+  },
+  {
+    "url": "https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/",
+    "title": "Nvidia Personal AI Router (Pair)",
+    "description": "Article URL: https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/\nComments URL: https://news.ycombinator.com/item?id=49558533\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-04T01:20:07.656Z",
+    "published": "Thu, 03 Sep 2026 23:26:53 +0000"
+  },
+  {
+    "url": "https://multiplayer-ai.com/",
+    "title": "The Multiplayer AI Manifesto",
+    "description": "Article URL: https://multiplayer-ai.com/\nComments URL: https://news.ycombinator.com/item?id=49558510\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-04T01:20:07.656Z",
+    "published": "Thu, 03 Sep 2026 23:23:43 +0000"
+  },
+  {
+    "url": "https://github.com/franzenzenhofer/chrome-tab-group-cleaner",
+    "title": "Show HN: Chrome tab group cleaner for Claude Code created tab groups",
+    "description": "Article URL: https://github.com/franzenzenhofer/chrome-tab-group-cleaner\nComments URL: https://news.ycombinator.com/item?id=49558445\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-04T01:20:07.656Z",
+    "published": "Thu, 03 Sep 2026 23:15:29 +0000"
+  },
+  {
+    "url": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat",
+    "title": "NYC mayor Mamdani imposes 1 year ban on AI for schools through 8th grade",
+    "description": "Article URL: https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat\nComments URL: https://news.ycombinator.com/item?id=49558433\nPoints: 20\n# Comments: 9",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-04T01:20:07.656Z",
+    "published": "Thu, 03 Sep 2026 23:14:00 +0000"
   }
 ]
