@@ -48647,5 +48647,159 @@
     "published": "Sat, 05 Sep 2026 19:35:24 +0000",
     "processed": true,
     "processedAt": "2026-09-05T21:06:50.928Z"
+  },
+  {
+    "url": "https://gist.github.com/64-megabyte/bc218bd074fa56c26b7dce828adf21a2",
+    "title": "You're paying for Claude's thinking and you're not getting it",
+    "description": "Article URL: https://gist.github.com/64-megabyte/bc218bd074fa56c26b7dce828adf21a2\nComments URL: https://news.ycombinator.com/item?id=49581389\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-05T22:49:53.484Z",
+    "published": "Sat, 05 Sep 2026 22:36:32 +0000",
+    "processed": true,
+    "processedAt": "2026-09-05T22:52:22.702Z"
+  },
+  {
+    "url": "https://thoughtbot.com/blog/is-ai-ruining-my-brain",
+    "title": "Is AI ruining my brain?",
+    "description": "Article URL: https://thoughtbot.com/blog/is-ai-ruining-my-brain\nComments URL: https://news.ycombinator.com/item?id=49581294\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-05T22:49:53.484Z",
+    "published": "Sat, 05 Sep 2026 22:25:04 +0000",
+    "processed": true,
+    "processedAt": "2026-09-05T22:52:22.702Z"
+  },
+  {
+    "url": "https://blog.bilus.dev/posts/good-ai-slop/",
+    "title": "Good AI Slop",
+    "description": "Article URL: https://blog.bilus.dev/posts/good-ai-slop/\nComments URL: https://news.ycombinator.com/item?id=49581258\nPoints: 1\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-05T22:49:53.484Z",
+    "published": "Sat, 05 Sep 2026 22:18:21 +0000",
+    "processed": true,
+    "processedAt": "2026-09-05T22:52:22.702Z"
+  },
+  {
+    "url": "https://arxiv.org/abs/2604.03136",
+    "title": "StoryScope: Investigating Idiosyncrasies in AI Fiction",
+    "description": "Article URL: https://arxiv.org/abs/2604.03136\nComments URL: https://news.ycombinator.com/item?id=49581254\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-05T22:49:53.484Z",
+    "published": "Sat, 05 Sep 2026 22:18:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-05T22:52:22.702Z"
+  },
+  {
+    "url": "https://github.com/okf-memory/okf-agent-memory",
+    "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+    "description": "Article URL: https://github.com/okf-memory/okf-agent-memory\nComments URL: https://news.ycombinator.com/item?id=49581240\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-05T22:49:53.484Z",
+    "published": "Sat, 05 Sep 2026 22:15:52 +0000",
+    "processed": true,
+    "processedAt": "2026-09-05T22:52:22.702Z"
+  },
+  {
+    "url": "https://fewshotacademy.com/blog/gpt-6-astra-the-harness-is-the-product",
+    "title": "GPT-6 Astra: the harness is the product",
+    "description": "Article URL: https://fewshotacademy.com/blog/gpt-6-astra-the-harness-is-the-product\nComments URL: https://news.ycombinator.com/item?id=49581133\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-05T22:49:53.484Z",
+    "published": "Sat, 05 Sep 2026 22:01:29 +0000"
+  },
+  {
+    "url": "https://nightrun.io/",
+    "title": "An LLM runtime that boots from USB",
+    "description": "Article URL: https://nightrun.io/\nComments URL: https://news.ycombinator.com/item?id=49581115\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-05T22:49:53.484Z",
+    "published": "Sat, 05 Sep 2026 21:59:24 +0000"
+  },
+  {
+    "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
+    "title": "America's Two Largest School Districts Impose AI Moratoriums",
+    "description": "Article URL: https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/\nComments URL: https://news.ycombinator.com/item?id=49580980\nPoints: 19\n# Comments: 5",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-05T22:49:53.484Z",
+    "published": "Sat, 05 Sep 2026 21:43:22 +0000"
+  },
+  {
+    "url": "https://newatlas.com/ai-humanoids/exclusive-google-ai/",
+    "title": "Google AI turns on its maker in a brutally candid interview",
+    "description": "Article URL: https://newatlas.com/ai-humanoids/exclusive-google-ai/\nComments URL: https://news.ycombinator.com/item?id=49580945\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-05T22:49:53.484Z",
+    "published": "Sat, 05 Sep 2026 21:38:22 +0000"
+  },
+  {
+    "url": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
+    "title": "How AI is breaking the British state",
+    "description": "Article URL: https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state\nComments URL: https://news.ycombinator.com/item?id=49580687\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-05T22:49:53.484Z",
+    "published": "Sat, 05 Sep 2026 21:05:35 +0000"
+  },
+  {
+    "url": "https://xlogic.sh/",
+    "title": "Show HN: I replaced my portfolio with an AI that knows me",
+    "description": "I wanted to do something \"new\". I'm not 100% sure if this is really new since I don't really check out other people their portfolio's. It's been on my \"to do\" for a long time to redo my portfolio page. Now with AI coming and stuff, I thought I might as well do it like this.The original content of m",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-05T22:49:53.484Z",
+    "published": "Sat, 05 Sep 2026 21:05:21 +0000"
+  },
+  {
+    "url": "https://www.phntmcore.com/",
+    "title": "Show HN: Phntm-ONE: I built a local AI desk assistant",
+    "description": "I've spent the past several months building something I call PHNTM-One. And I am really curious what HN thinks of the idea and the product I've built. The basic concept is an AI appliance that lives on your desk, is your personal assistant and is totally local running on your own hardware with the",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-05T22:49:53.484Z",
+    "published": "Sat, 05 Sep 2026 21:03:22 +0000"
+  },
+  {
+    "url": "https://www.theatlantic.com/technology/2026/09/stop-calling-ai-companies-labs/688528/",
+    "title": "There's No Such Thing as an AI 'Lab'",
+    "description": "Article URL: https://www.theatlantic.com/technology/2026/09/stop-calling-ai-companies-labs/688528/\nComments URL: https://news.ycombinator.com/item?id=49580034\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-05T22:49:53.484Z",
+    "published": "Sat, 05 Sep 2026 19:47:42 +0000"
+  },
+  {
+    "url": "https://github.com/alpbahadur/interns-review-plugin",
+    "title": "Show HN: Claude Skill – Interns must review (your agent's design choices)",
+    "description": "Dont ever decide on design choices yourself! Always spawn 3 fable agents, ask them to critically adversarily review your work. Write all problem context to a file, and tell them to read that. Get their replies and TREAT THEIR REPLIES AS IF THEY ARE INEXPERIENCED SILLY INTERNS. DO NOT OVERENGINEER,",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-05T22:49:53.484Z",
+    "published": "Sat, 05 Sep 2026 19:27:47 +0000"
+  },
+  {
+    "url": "https://www.transformernews.ai/p/openai-gpt-6-astra-might-be-too-powerful-to-understand-or-control",
+    "title": "GPT-6 Astra might be too powerful to understand or control",
+    "description": "Article URL: https://www.transformernews.ai/p/openai-gpt-6-astra-might-be-too-powerful-to-understand-or-control\nComments URL: https://news.ycombinator.com/item?id=49579617\nPoints: 2\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-05T22:49:53.484Z",
+    "published": "Sat, 05 Sep 2026 19:03:46 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2251725/openai-responds-after-report-exposed-another-incident-in-which-its-ai-agents-went-rogue/",
+    "title": "OpenAI responds after report exposed another incident in which its AI agents went rogue",
+    "description": "Reuters reported earlier this week that the agents hijacked a German wiki forum in an incident OpenAI did not disclose.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-05T22:50:16.017Z",
+    "published": "Sat, 05 Sep 2026 21:17:18 +0000"
   }
 ]
