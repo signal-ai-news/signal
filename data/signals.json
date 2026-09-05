@@ -10852,7 +10852,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T08:11:18.789Z",
-    "published": "Fri, 31 Jul 2026 04:49:47 +0000"
+    "published": "Fri, 31 Jul 2026 04:49:47 +0000",
+    "processed": true,
+    "processedAt": "2026-09-05T06:16:40.638Z"
   },
   {
     "url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
@@ -10861,7 +10863,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-07-31T08:11:31.843Z",
-    "published": "Fri, 31 Jul 2026 01:24:26 +0000"
+    "published": "Fri, 31 Jul 2026 01:24:26 +0000",
+    "processed": true,
+    "processedAt": "2026-09-05T06:16:40.638Z"
   },
   {
     "url": "https://www.engadget.com/2227630/anthropic-ai-models-hacked-three-organizations-on-their-own/",
@@ -10870,7 +10874,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-31T08:11:39.257Z",
-    "published": "Fri, 31 Jul 2026 06:10:12 +0000"
+    "published": "Fri, 31 Jul 2026 06:10:12 +0000",
+    "processed": true,
+    "processedAt": "2026-09-05T06:16:40.638Z"
   },
   {
     "url": "https://www.engadget.com/2227553/reddit-s-ceo-sure-seems-frustrated-with-google-s-ai-overviews/",
@@ -10879,7 +10885,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-31T08:11:39.257Z",
-    "published": "Thu, 30 Jul 2026 23:09:07 +0000"
+    "published": "Thu, 30 Jul 2026 23:09:07 +0000",
+    "processed": true,
+    "processedAt": "2026-09-05T06:16:40.638Z"
   },
   {
     "url": "https://www.engadget.com/2227503/that-friend-ai-wearable-you-dont-like-just-got-worse/",
@@ -48101,5 +48109,16 @@
     "published": "Fri, 04 Sep 2026 23:15:11 +0000",
     "processed": true,
     "processedAt": "2026-09-05T01:21:26.445Z"
+  },
+  {
+    "url": "https://openai.com/index/gpt-6-astra",
+    "title": "GPT-6 Astra: A new generation of intelligence",
+    "description": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-05T06:14:03.119Z",
+    "published": "Thu, 03 Sep 2026 11:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-05T06:16:40.639Z"
   }
 ]
