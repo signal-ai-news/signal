@@ -10973,7 +10973,9 @@
     "source": "MIT Tech Review AI",
     "category": "news",
     "discovered": "2026-07-31T16:08:49.079Z",
-    "published": "Fri, 31 Jul 2026 12:16:00 +0000"
+    "published": "Fri, 31 Jul 2026 12:16:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-05T16:45:19.591Z"
   },
   {
     "url": "https://towardsdatascience.com/when-the-code-becomes-the-ceo-why-your-next-manager-might-be-a-decentralized-agentic-loop/",
@@ -48383,5 +48385,49 @@
     "category": "news",
     "discovered": "2026-09-05T13:49:29.502Z",
     "published": "Sat, 05 Sep 2026 11:30:00 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/why-transformers-need-positional-encoding-for-time-series-a-visual-guide/",
+    "title": "Why Transformers Need Positional Encoding For Time Series: A Visual Guide",
+    "description": "From scalar observations to self-attention, and how positional information restores sequence order\nThe post Why Transformers Need Positional Encoding For Time Series: A Visual Guide appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-05T16:42:59.484Z",
+    "published": "Sat, 05 Sep 2026 15:00:01 GMT",
+    "processed": true,
+    "processedAt": "2026-09-05T16:45:19.592Z"
+  },
+  {
+    "url": "https://www.engadget.com/2251699/new-twitter-rebrands-to-tweet-app-after-court-double-edged-ruling/",
+    "title": "New Twitter rebrands to Tweet.app after court's double-edged ruling",
+    "description": "A federal court decided that \"Twitter\" was off-limits, but tweet and the bird logo were fair game.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-05T16:43:13.749Z",
+    "published": "Sat, 05 Sep 2026 16:13:27 +0000",
+    "processed": true,
+    "processedAt": "2026-09-05T16:45:19.592Z"
+  },
+  {
+    "url": "https://www.engadget.com/2245485/roku-tv-channel-ai-slop-free-fairground/",
+    "title": "Your Roku TV offers AI slop for free (if you're into that sort of thing)",
+    "description": "Roku&#39;s new free programming gives AI creators a platform for their productions. Whether the public will embrace it remains to be seen,",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-05T16:43:13.749Z",
+    "published": "Sat, 05 Sep 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-05T16:45:19.592Z"
+  },
+  {
+    "url": "https://www.engadget.com/2251693/razer-clio-x-head-cushion-with-a-wireless-speaker/",
+    "title": "Razer launches a cheaper version of Clio, its head cushion wireless speaker",
+    "description": "Razer Clio X is a headrest with a wireless speaker for your computer chair.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-05T16:43:13.749Z",
+    "published": "Sat, 05 Sep 2026 14:21:35 +0000",
+    "processed": true,
+    "processedAt": "2026-09-05T16:45:19.592Z"
   }
 ]
