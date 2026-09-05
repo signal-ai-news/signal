@@ -48429,5 +48429,204 @@
     "published": "Sat, 05 Sep 2026 14:21:35 +0000",
     "processed": true,
     "processedAt": "2026-09-05T16:45:19.592Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+    "description": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-05T18:56:19.614Z",
+    "published": "Sat, 05 Sep 2026 18:05:27 +0000",
+    "processed": true,
+    "processedAt": "2026-09-05T18:59:01.656Z"
+  },
+  {
+    "url": "https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings",
+    "title": "Are warnings of uncontrollable AI coming true?",
+    "description": "Article URL: https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings\nComments URL: https://news.ycombinator.com/item?id=49579542\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-05T18:56:32.971Z",
+    "published": "Sat, 05 Sep 2026 18:55:55 +0000",
+    "processed": true,
+    "processedAt": "2026-09-05T18:59:01.656Z"
+  },
+  {
+    "url": "https://www.kingfy.app",
+    "title": "KingFy – an AI super app orchestrating 1,200 specialized agents",
+    "description": "Article URL: https://www.kingfy.app\nComments URL: https://news.ycombinator.com/item?id=49579516\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-05T18:56:32.971Z",
+    "published": "Sat, 05 Sep 2026 18:53:17 +0000",
+    "processed": true,
+    "processedAt": "2026-09-05T18:59:01.656Z"
+  },
+  {
+    "url": "https://neow.in/cmUxYnB3",
+    "title": "Norway could become the first country to ban AI smart glasses",
+    "description": "Article URL: https://neow.in/cmUxYnB3\nComments URL: https://news.ycombinator.com/item?id=49579342\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-05T18:56:32.971Z",
+    "published": "Sat, 05 Sep 2026 18:35:03 +0000",
+    "processed": true,
+    "processedAt": "2026-09-05T18:59:01.656Z"
+  },
+  {
+    "url": "https://achievements.ai/",
+    "title": "A sourced timeline of 249 documented AI milestones",
+    "description": "Article URL: https://achievements.ai/\nComments URL: https://news.ycombinator.com/item?id=49579333\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-05T18:56:32.971Z",
+    "published": "Sat, 05 Sep 2026 18:33:59 +0000",
+    "processed": true,
+    "processedAt": "2026-09-05T18:59:01.656Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49579140",
+    "title": "Ask HN: Airbnbs with AI Photos",
+    "description": "Wouldn’t this constitute false advertising? It’s becoming too common.If you’re a PM at Airbnb: there are so many SaaS companies to detect AI images. Please.\n\nComments URL: https://news.ycombinator.com/item?id=49579140\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-05T18:56:32.971Z",
+    "published": "Sat, 05 Sep 2026 18:11:38 +0000"
+  },
+  {
+    "url": "https://www.omgubuntu.co.uk/2026/06/flathub-bans-ai-coded-apps",
+    "title": "Flathub bans AI-coded apps – with some exceptions",
+    "description": "Article URL: https://www.omgubuntu.co.uk/2026/06/flathub-bans-ai-coded-apps\nComments URL: https://news.ycombinator.com/item?id=49579007\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-05T18:56:32.971Z",
+    "published": "Sat, 05 Sep 2026 17:58:41 +0000"
+  },
+  {
+    "url": "https://twitter.com/arena/status/2096290434700247250",
+    "title": "GPT-6 Astra is now #1 on Code Arena",
+    "description": "Article URL: https://twitter.com/arena/status/2096290434700247250\nComments URL: https://news.ycombinator.com/item?id=49578994\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-05T18:56:32.971Z",
+    "published": "Sat, 05 Sep 2026 17:57:32 +0000"
+  },
+  {
+    "url": "https://codeset.ai/fried/swe",
+    "title": "A meme-shaped test of your post-AI SWE skills",
+    "description": "Article URL: https://codeset.ai/fried/swe\nComments URL: https://news.ycombinator.com/item?id=49578987\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-05T18:56:32.971Z",
+    "published": "Sat, 05 Sep 2026 17:56:47 +0000"
+  },
+  {
+    "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+    "title": "Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training",
+    "description": "Article URL: https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0\nComments URL: https://news.ycombinator.com/item?id=49578727\nPoints: 34\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-05T18:56:32.971Z",
+    "published": "Sat, 05 Sep 2026 17:32:20 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=PCqkJ0HuHTM",
+    "title": "Music courses are dead (tanks AI) [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=PCqkJ0HuHTM\nComments URL: https://news.ycombinator.com/item?id=49578684\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-05T18:56:32.971Z",
+    "published": "Sat, 05 Sep 2026 17:28:23 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=drQGeK8wfNY",
+    "title": "Engineer and Nam A2 and AI = Perfect and Free Valen Halen Plug-In [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=drQGeK8wfNY\nComments URL: https://news.ycombinator.com/item?id=49578313\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-05T18:56:32.971Z",
+    "published": "Sat, 05 Sep 2026 16:48:21 +0000"
+  },
+  {
+    "url": "https://www.washingtonpost.com/technology/2026/04/18/ai-doom-influencers-safety/",
+    "title": "Inside a growing movement warning AI could turn on humanity",
+    "description": "Article URL: https://www.washingtonpost.com/technology/2026/04/18/ai-doom-influencers-safety/\nComments URL: https://news.ycombinator.com/item?id=49578170\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-05T18:56:32.971Z",
+    "published": "Sat, 05 Sep 2026 16:34:06 +0000"
+  },
+  {
+    "url": "https://twitter.com/ravikiran_dev7/status/2095869859666268606",
+    "title": "Gemini 4 Leak. Google is back",
+    "description": "Article URL: https://twitter.com/ravikiran_dev7/status/2095869859666268606\nComments URL: https://news.ycombinator.com/item?id=49577945\nPoints: 3\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-05T18:56:32.971Z",
+    "published": "Sat, 05 Sep 2026 16:11:16 +0000"
+  },
+  {
+    "url": "https://github.com/sowainat/praesidias-pabe01",
+    "title": "Praesidias – pre-execution authorization for AI agents",
+    "description": "Article URL: https://github.com/sowainat/praesidias-pabe01\nComments URL: https://news.ycombinator.com/item?id=49577893\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-05T18:56:32.971Z",
+    "published": "Sat, 05 Sep 2026 16:07:29 +0000"
+  },
+  {
+    "url": "https://www.bloomberg.com/features/2026-kai-fu-lee-weekend-interview/",
+    "title": "Kai-Fu Lee: China Will Win the AI Race for Reach",
+    "description": "Article URL: https://www.bloomberg.com/features/2026-kai-fu-lee-weekend-interview/\nComments URL: https://news.ycombinator.com/item?id=49577807\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-05T18:56:32.971Z",
+    "published": "Sat, 05 Sep 2026 15:59:37 +0000"
+  },
+  {
+    "url": "https://www.washingtonpost.com/politics/2026/09/05/chatgpt-bans-campaigns-using-ai-make-ads-theyre-doing-it-anyway/",
+    "title": "ChatGPT bans campaigns from using AI to make ads. They're doing it anyway.",
+    "description": "Article URL: https://www.washingtonpost.com/politics/2026/09/05/chatgpt-bans-campaigns-using-ai-make-ads-theyre-doing-it-anyway/\nComments URL: https://news.ycombinator.com/item?id=49577771\nPoints: 5\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-05T18:56:32.971Z",
+    "published": "Sat, 05 Sep 2026 15:56:03 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49577665",
+    "title": "Ask HN: Is AI a Powerdrill?",
+    "description": "Powerdrills put in the hand of a country bumpkin in the early 20th century were pretty amazing, but they wound up being just an extension of intention.A person puts their finger on the trigger. But he needs some project to apply this to (something he's building) and a screw or drill (the solution h",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-05T18:56:32.971Z",
+    "published": "Sat, 05 Sep 2026 15:45:48 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/artificial-analysis-overhauls-its-intelligence-index-after-gpt-6-astra-scoring-drew-skepticism/",
+    "title": "Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism",
+    "description": "Artificial Analysis has released version 4.2 of its Intelligence Index, likely in response to criticism that its benchmarks failed to capture GPT-6 Astra's actual progress. Astra now scores four points above its predecessor but still trails Anthropic's Claude Fable 5.1.\nThe article Artifici",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-05T18:56:40.596Z",
+    "published": "Sat, 05 Sep 2026 18:21:02 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2247939/how-to-remap-keys-windows/",
+    "title": "You're probably wasting these keys on your keyboard — here's how to remap them",
+    "description": "There are almost certainly keys on your keyboard that you never touch. Assign new functions to give them a job.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-05T18:56:54.867Z",
+    "published": "Sat, 05 Sep 2026 18:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2251707/seattle-times-newsday-sue-openai-microsoft-for-copyright-infringement/",
+    "title": "Two more news organizations sue OpenAI and Microsoft for copyright infringement",
+    "description": "The Seattle Times and Newsday accused the two AI giants of using their content without permission.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-05T18:56:54.867Z",
+    "published": "Sat, 05 Sep 2026 17:46:29 +0000"
   }
 ]
