@@ -10896,7 +10896,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-31T08:11:39.257Z",
-    "published": "Thu, 30 Jul 2026 21:34:11 +0000"
+    "published": "Thu, 30 Jul 2026 21:34:11 +0000",
+    "processed": true,
+    "processedAt": "2026-09-05T10:55:01.234Z"
   },
   {
     "url": "https://www.engadget.com/2227497/casio-new-ring-watch-is-an-undercover-oura-competitor-and-it-s-adorable/",
@@ -10905,7 +10907,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-31T08:11:39.257Z",
-    "published": "Thu, 30 Jul 2026 21:23:58 +0000"
+    "published": "Thu, 30 Jul 2026 21:23:58 +0000",
+    "processed": true,
+    "processedAt": "2026-09-05T10:55:01.235Z"
   },
   {
     "url": "https://openai.com/index/building-abundant-intelligence",
@@ -48120,5 +48124,38 @@
     "published": "Thu, 03 Sep 2026 11:00:00 GMT",
     "processed": true,
     "processedAt": "2026-09-05T06:16:40.639Z"
+  },
+  {
+    "url": "https://the-decoder.com/deepmind-put-100-ai-agents-in-a-room-and-they-sorted-into-cheaters-converts-and-whistleblowers/",
+    "title": "Deepmind put 100 AI agents in a room and they sorted into cheaters, converts, and whistleblowers",
+    "description": "Google Deepmind set up a simulated research conference where 100 Gemini agents were supposed to prove mathematical conjectures together. Instead, one agent found a loophole in the grading system, and within 27 minutes every remaining problem was \"solved\" with fake proofs. The swarm split in",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-05T10:52:41.630Z",
+    "published": "Sat, 05 Sep 2026 10:22:38 +0000",
+    "processed": true,
+    "processedAt": "2026-09-05T10:55:01.236Z"
+  },
+  {
+    "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol/",
+    "title": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+    "description": "OpenAI has rolled out GPT-6 Astra to Pro, Enterprise, and Business Premium users, with Plus users expected to follow soon. Message allowances for the standard model are roughly half of what GPT-5.6 Sol offers: Plus users get an estimated 5 to 45 messages per five hours with Astra, versus 10",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-05T10:52:41.630Z",
+    "published": "Sat, 05 Sep 2026 07:41:03 +0000",
+    "processed": true,
+    "processedAt": "2026-09-05T10:55:01.236Z"
+  },
+  {
+    "url": "https://www.wired.com/story/security-news-this-week-openai-agents-hacked-another-website/",
+    "title": "OpenAI Agents Hacked Another Website",
+    "description": "Plus: Tens of millions of US and Canadian drivers’ licenses go up for sale on the dark web, the US military finally tries to tackle the risk online ad data poses to troops, and more.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-05T10:52:48.016Z",
+    "published": "Sat, 05 Sep 2026 10:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-05T10:55:01.236Z"
   }
 ]
