@@ -10984,7 +10984,9 @@
     "source": "Towards Data Science",
     "category": "ml",
     "discovered": "2026-07-31T16:08:57.767Z",
-    "published": "Fri, 31 Jul 2026 15:00:00 +0000"
+    "published": "Fri, 31 Jul 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-05T21:06:50.926Z"
   },
   {
     "url": "https://towardsdatascience.com/how-to-debug-ai-coding-agents-when-they-change-the-wrong-thing/",
@@ -10993,7 +10995,9 @@
     "source": "Towards Data Science",
     "category": "ml",
     "discovered": "2026-07-31T16:08:57.767Z",
-    "published": "Fri, 31 Jul 2026 13:30:00 +0000"
+    "published": "Fri, 31 Jul 2026 13:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-05T21:06:50.927Z"
   },
   {
     "url": "https://the-decoder.com/eu-pools-up-to-e30-billion-for-ai-gigafactories-while-us-tech-giants-casually-spend-20-times-more/",
@@ -11002,7 +11006,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-31T16:08:59.550Z",
-    "published": "Fri, 31 Jul 2026 15:28:08 +0000"
+    "published": "Fri, 31 Jul 2026 15:28:08 +0000",
+    "processed": true,
+    "processedAt": "2026-09-05T21:06:50.927Z"
   },
   {
     "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems/",
@@ -11011,7 +11017,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-31T16:08:59.550Z",
-    "published": "Fri, 31 Jul 2026 10:57:37 +0000"
+    "published": "Fri, 31 Jul 2026 10:57:37 +0000",
+    "processed": true,
+    "processedAt": "2026-09-05T21:06:50.927Z"
   },
   {
     "url": "https://the-decoder.com/aschenbrenners-ai-thesis-could-be-correct-his-timing-and-leverage-were-not/",
@@ -48628,5 +48636,16 @@
     "category": "news",
     "discovered": "2026-09-05T18:56:54.867Z",
     "published": "Sat, 05 Sep 2026 17:46:29 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+    "title": "Hikers rescued after using Google Gemini for planning",
+    "description": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-05T21:04:20.066Z",
+    "published": "Sat, 05 Sep 2026 19:35:24 +0000",
+    "processed": true,
+    "processedAt": "2026-09-05T21:06:50.928Z"
   }
 ]
