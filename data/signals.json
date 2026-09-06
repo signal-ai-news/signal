@@ -11226,7 +11226,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T20:44:25.658Z",
-    "published": "Fri, 31 Jul 2026 20:27:16 +0000"
+    "published": "Fri, 31 Jul 2026 20:27:16 +0000",
+    "processed": true,
+    "processedAt": "2026-09-06T21:13:23.956Z"
   },
   {
     "url": "https://getbrainstorm.online/",
@@ -11235,7 +11237,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T20:44:25.658Z",
-    "published": "Fri, 31 Jul 2026 20:26:56 +0000"
+    "published": "Fri, 31 Jul 2026 20:26:56 +0000",
+    "processed": true,
+    "processedAt": "2026-09-06T21:13:23.956Z"
   },
   {
     "url": "https://github.com/teal-sea/why-your-ai-startup-dies-at-customer-six",
@@ -11244,7 +11248,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T20:44:25.658Z",
-    "published": "Fri, 31 Jul 2026 20:04:19 +0000"
+    "published": "Fri, 31 Jul 2026 20:04:19 +0000",
+    "processed": true,
+    "processedAt": "2026-09-06T21:13:23.956Z"
   },
   {
     "url": "https://www.bbc.com/news/articles/c9349yx2ydvo",
@@ -49203,5 +49209,27 @@
     "published": "Sun, 06 Sep 2026 16:30:00 +0000",
     "processed": true,
     "processedAt": "2026-09-06T19:02:07.505Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+    "title": "Authors push back as publishers and agents seek share of Anthropic settlement",
+    "description": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-06T21:10:49.831Z",
+    "published": "Sun, 06 Sep 2026 20:47:37 +0000",
+    "processed": true,
+    "processedAt": "2026-09-06T21:13:23.957Z"
+  },
+  {
+    "url": "https://www.engadget.com/2251859/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern/",
+    "title": "OpenAI says it reached its goal of creating an automated research intern",
+    "description": "The company hopes to have an even better \"automated AI researcher\" by March 2028.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-06T21:11:17.719Z",
+    "published": "Sun, 06 Sep 2026 19:26:52 +0000",
+    "processed": true,
+    "processedAt": "2026-09-06T21:13:23.957Z"
   }
 ]
