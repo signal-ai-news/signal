@@ -11215,7 +11215,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T20:44:25.658Z",
-    "published": "Fri, 31 Jul 2026 20:28:57 +0000"
+    "published": "Fri, 31 Jul 2026 20:28:57 +0000",
+    "processed": true,
+    "processedAt": "2026-09-06T19:02:07.504Z"
   },
   {
     "url": "https://nirmalutwani.substack.com/p/the-ai-winter-started-with-a-math",
@@ -49157,5 +49159,49 @@
     "published": "Sun, 06 Sep 2026 14:00:00 +0000",
     "processed": true,
     "processedAt": "2026-09-06T16:58:59.753Z"
+  },
+  {
+    "url": "https://openai.com/index/an-alien-mind",
+    "title": "An Alien Mind",
+    "description": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-06T18:59:31.325Z",
+    "published": "Sun, 06 Sep 2026 09:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-06T19:02:07.505Z"
+  },
+  {
+    "url": "https://www.engadget.com/2247892/what-is-vibe-coding-explained/",
+    "title": "What is vibe coding and why does it get so much hate?",
+    "description": "Vibe coding has gotten a bad reputation as lazy, AI-driven coding, but that&#39;s not where it came from.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-06T19:00:00.835Z",
+    "published": "Sun, 06 Sep 2026 18:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-06T19:02:07.505Z"
+  },
+  {
+    "url": "https://www.engadget.com/2247843/how-to-set-up-chatgpt-parental-controls/",
+    "title": "How to set up ChatGPT's parental controls to protect your teen",
+    "description": "The idea of your child using ChatGPT can be daunting, but OpenAI&#39;s new teen-focused tools provide granular controls over what they can and can&#39;t access.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-06T19:00:00.835Z",
+    "published": "Sun, 06 Sep 2026 17:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-06T19:02:07.505Z"
+  },
+  {
+    "url": "https://www.engadget.com/2247577/how-to-find-iphone-when-off/",
+    "title": "How to find your iPhone even when it's off",
+    "description": "If you lose your iPhone, it&#39;s findable even after someone turns it off or the battery drains, as long as you don&#39;t delay.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-06T19:00:00.835Z",
+    "published": "Sun, 06 Sep 2026 16:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-06T19:02:07.505Z"
   }
 ]
