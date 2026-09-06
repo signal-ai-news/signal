@@ -11182,7 +11182,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T20:44:25.658Z",
-    "published": "Fri, 31 Jul 2026 20:38:32 +0000"
+    "published": "Fri, 31 Jul 2026 20:38:32 +0000",
+    "processed": true,
+    "processedAt": "2026-09-06T14:06:49.289Z"
   },
   {
     "url": "https://www.dexerto.com/youtube/hank-green-faces-major-backlash-after-admitting-he-used-chatgpt-to-research-youtube-script-3393521/",
@@ -11191,7 +11193,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T20:44:25.658Z",
-    "published": "Fri, 31 Jul 2026 20:36:41 +0000"
+    "published": "Fri, 31 Jul 2026 20:36:41 +0000",
+    "processed": true,
+    "processedAt": "2026-09-06T14:06:49.289Z"
   },
   {
     "url": "https://twitter.com/first_tree_ai/status/2082968809414254812",
@@ -49074,5 +49078,38 @@
     "category": "news",
     "discovered": "2026-09-06T10:43:28.126Z",
     "published": "Sun, 06 Sep 2026 10:30:00 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/text-watermarking-in-python-catch-whoever-copies-your-writing/",
+    "title": "Text Watermarking in Python: Catch Whoever Copies Your Writing",
+    "description": "AI companies quietly watermark billions of words a day. Here’s how to apply the same three families of techniques to your own writing—and what real experiments reveal about which watermarks survive copy-paste, editing, and paraphrasing.\nThe post Text Watermarking in Python: Catch Whoever Copies Your",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-06T14:04:28.976Z",
+    "published": "Sun, 06 Sep 2026 14:00:01 GMT",
+    "processed": true,
+    "processedAt": "2026-09-06T14:06:49.290Z"
+  },
+  {
+    "url": "https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists/",
+    "title": "Chatbots built an \"echo chamber of one\" and now psychiatry has to decide if \"AI psychosis\" exists",
+    "description": "Researchers at King's College London and other institutions are examining whether \"AI-associated psychosis\" should become a clinical diagnosis. By OpenAI's own self-reported numbers, about 560,000 users show signs of psychosis or mania each week. Sycophantic chatbots can create an \"echo cha",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-06T14:04:30.596Z",
+    "published": "Sun, 06 Sep 2026 11:57:12 +0000",
+    "processed": true,
+    "processedAt": "2026-09-06T14:06:49.290Z"
+  },
+  {
+    "url": "https://www.engadget.com/2247891/claude-help-manage-emails-risks-involved/",
+    "title": "Claude can help manage your email inbox, but there are some risks involved",
+    "description": "AI has been known to mess up some pretty basic things, but Claude wants to help you with your emails.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-06T14:04:43.006Z",
+    "published": "Sun, 06 Sep 2026 12:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-06T14:06:49.290Z"
   }
 ]
