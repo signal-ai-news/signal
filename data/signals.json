@@ -11259,7 +11259,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T20:44:25.658Z",
-    "published": "Fri, 31 Jul 2026 20:04:03 +0000"
+    "published": "Fri, 31 Jul 2026 20:04:03 +0000",
+    "processed": true,
+    "processedAt": "2026-09-06T23:05:48.476Z"
   },
   {
     "url": "https://www.echohive.ai/ai-economy-hidden-productivity",
@@ -11268,7 +11270,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T20:44:25.658Z",
-    "published": "Fri, 31 Jul 2026 20:01:09 +0000"
+    "published": "Fri, 31 Jul 2026 20:01:09 +0000",
+    "processed": true,
+    "processedAt": "2026-09-06T23:05:48.476Z"
   },
   {
     "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
@@ -11277,7 +11281,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T20:44:25.658Z",
-    "published": "Fri, 31 Jul 2026 19:55:41 +0000"
+    "published": "Fri, 31 Jul 2026 19:55:41 +0000",
+    "processed": true,
+    "processedAt": "2026-09-06T23:05:48.476Z"
   },
   {
     "url": "https://www.youtube.com/watch?v=P0IjXbKQfNc",
@@ -11286,7 +11292,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T20:44:25.658Z",
-    "published": "Fri, 31 Jul 2026 19:54:33 +0000"
+    "published": "Fri, 31 Jul 2026 19:54:33 +0000",
+    "processed": true,
+    "processedAt": "2026-09-06T23:05:48.476Z"
   },
   {
     "url": "https://www.sqlite.ai/pricing",
@@ -49231,5 +49239,16 @@
     "published": "Sun, 06 Sep 2026 19:26:52 +0000",
     "processed": true,
     "processedAt": "2026-09-06T21:13:23.957Z"
+  },
+  {
+    "url": "https://www.engadget.com/2248744/slate-truck-not-available-outside-united-states/",
+    "title": "The Slate Truck is great, but this one problem may stop a lot of folks from buying it",
+    "description": "Slate&#39;s build-a-truck model aims to keep costs low by only including features you&#39;ll use. But it won&#39;t be popular outside the U.S.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-06T23:03:42.100Z",
+    "published": "Sun, 06 Sep 2026 22:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-06T23:05:48.477Z"
   }
 ]
