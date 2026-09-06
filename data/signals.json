@@ -11028,7 +11028,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-31T16:08:59.550Z",
-    "published": "Fri, 31 Jul 2026 10:49:05 +0000"
+    "published": "Fri, 31 Jul 2026 10:49:05 +0000",
+    "processed": true,
+    "processedAt": "2026-09-06T00:49:00.943Z"
   },
   {
     "url": "https://www.wired.com/story/ai-slop-melodramas-are-taking-over-x-and-their-creators-are-cashing-in/",
@@ -11037,7 +11039,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-07-31T16:09:05.420Z",
-    "published": "Fri, 31 Jul 2026 15:00:09 +0000"
+    "published": "Fri, 31 Jul 2026 15:00:09 +0000",
+    "processed": true,
+    "processedAt": "2026-09-06T00:49:00.943Z"
   },
   {
     "url": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/",
@@ -11046,7 +11050,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-07-31T16:09:05.420Z",
-    "published": "Fri, 31 Jul 2026 14:47:26 +0000"
+    "published": "Fri, 31 Jul 2026 14:47:26 +0000",
+    "processed": true,
+    "processedAt": "2026-09-06T00:49:00.943Z"
   },
   {
     "url": "https://www.engadget.com/2227908/australia-social-media-ban-for-kids-under-16-impact-so-far/",
@@ -11055,7 +11061,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-31T16:09:11.581Z",
-    "published": "Fri, 31 Jul 2026 15:37:56 +0000"
+    "published": "Fri, 31 Jul 2026 15:37:56 +0000",
+    "processed": true,
+    "processedAt": "2026-09-06T00:49:00.943Z"
   },
   {
     "url": "https://www.engadget.com/2227325/how-to-fight-a-data-center/",
@@ -48801,5 +48809,16 @@
     "category": "news",
     "discovered": "2026-09-05T22:50:16.017Z",
     "published": "Sat, 05 Sep 2026 21:17:18 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "description": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-06T00:46:28.000Z",
+    "published": "Sat, 05 Sep 2026 22:49:55 +0000",
+    "processed": true,
+    "processedAt": "2026-09-06T00:49:00.944Z"
   }
 ]
