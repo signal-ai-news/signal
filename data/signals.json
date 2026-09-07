@@ -11380,7 +11380,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T20:44:25.658Z",
-    "published": "Fri, 31 Jul 2026 19:31:43 +0000"
+    "published": "Fri, 31 Jul 2026 19:31:43 +0000",
+    "processed": true,
+    "processedAt": "2026-09-07T21:26:29.397Z"
   },
   {
     "url": "https://towardsdatascience.com/the-3x-token-bill-we-didnt-see-coming/",
@@ -49758,5 +49760,49 @@
     "category": "news",
     "discovered": "2026-09-07T17:52:41.568Z",
     "published": "Mon, 07 Sep 2026 13:30:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "title": "Opaque recurrence, and other AI terms that you should probably know",
+    "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-07T21:23:56.522Z",
+    "published": "Mon, 07 Sep 2026 19:24:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-07T21:26:29.398Z"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk/",
+    "title": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
+    "description": "Anthropic signed compute contracts worth up to $517 billion in eleven months but still trails OpenAI's $750 billion plan through 2030. In early 2026, CEO Dario Amodei warned against investing too fast. Now Anthropic is racing to catch up, while Sam Altman warns about \"unsustainable sillines",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-07T21:24:09.875Z",
+    "published": "Mon, 07 Sep 2026 18:12:41 +0000",
+    "processed": true,
+    "processedAt": "2026-09-07T21:26:29.398Z"
+  },
+  {
+    "url": "https://www.engadget.com/2252305/how-to-watch-the-legend-of-zelda-40th-anniversary-nintendo-direct/",
+    "title": "How to watch The Legend of Zelda 40th Anniversary Nintendo Direct",
+    "description": "We&#39;re expecting details about the &#39;Ocarina of Time&#39; and other Zelda projects during Nintendo&#39;s 30-minute stream.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-07T21:24:23.540Z",
+    "published": "Mon, 07 Sep 2026 21:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-07T21:26:29.398Z"
+  },
+  {
+    "url": "https://www.engadget.com/2252249/the-a2-e-tron-is-audis-most-efficient-ev-yet/",
+    "title": "The A2 e-tron is Audi's most efficient EV to date",
+    "description": "While it probably won&#39;t be available in the US, the Audi A2 e-tron looks like an appealing affordable EV with plenty of range.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-07T21:24:23.540Z",
+    "published": "Mon, 07 Sep 2026 18:28:50 +0000",
+    "processed": true,
+    "processedAt": "2026-09-07T21:26:29.398Z"
   }
 ]
