@@ -49469,5 +49469,294 @@
     "published": "Mon, 07 Sep 2026 10:30:00 +0000",
     "processed": true,
     "processedAt": "2026-09-07T12:14:30.482Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+    "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a va",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-07T17:52:09.610Z",
+    "published": "Mon, 07 Sep 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-07T17:54:46.912Z"
+  },
+  {
+    "url": "https://buildyard.ai/",
+    "title": "Show HN: The Portfolio for Real AI Work",
+    "description": "Article URL: https://buildyard.ai/\nComments URL: https://news.ycombinator.com/item?id=49600896\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T17:52:21.304Z",
+    "published": "Mon, 07 Sep 2026 17:43:52 +0000",
+    "processed": true,
+    "processedAt": "2026-09-07T17:54:46.912Z"
+  },
+  {
+    "url": "https://brothelnevada.com/2026/09/05/ai-replace-sex-workers/",
+    "title": "Can AI Replace a Nevada Brothel Sex Worker?",
+    "description": "Article URL: https://brothelnevada.com/2026/09/05/ai-replace-sex-workers/\nComments URL: https://news.ycombinator.com/item?id=49600438\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T17:52:21.304Z",
+    "published": "Mon, 07 Sep 2026 16:59:18 +0000",
+    "processed": true,
+    "processedAt": "2026-09-07T17:54:46.912Z"
+  },
+  {
+    "url": "https://www.politico.com/news/2026/09/06/kennedy-ai-developers-high-iq-stupid-people-01066756",
+    "title": "Sen. Kennedy rails against AI developers as 'high IQ stupid people'",
+    "description": "Article URL: https://www.politico.com/news/2026/09/06/kennedy-ai-developers-high-iq-stupid-people-01066756\nComments URL: https://news.ycombinator.com/item?id=49600305\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T17:52:21.304Z",
+    "published": "Mon, 07 Sep 2026 16:47:08 +0000",
+    "processed": true,
+    "processedAt": "2026-09-07T17:54:46.912Z"
+  },
+  {
+    "url": "https://twitter.com/Noahsarc1000/status/2096989380774903883",
+    "title": "Apple's \"Think Different\" inspired ad made by AI",
+    "description": "Article URL: https://twitter.com/Noahsarc1000/status/2096989380774903883\nComments URL: https://news.ycombinator.com/item?id=49600141\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T17:52:21.304Z",
+    "published": "Mon, 07 Sep 2026 16:32:20 +0000",
+    "processed": true,
+    "processedAt": "2026-09-07T17:54:46.912Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49600138",
+    "title": "Ask HN: What LLM are you using?",
+    "description": "Is there a list of best llm by use case?\n\nComments URL: https://news.ycombinator.com/item?id=49600138\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T17:52:21.304Z",
+    "published": "Mon, 07 Sep 2026 16:32:07 +0000"
+  },
+  {
+    "url": "https://github.com/moneytool/agentmeld/blob/main/docs/where-ai-coding-tools-keep-their-config.md",
+    "title": "Where every AI coding tool keeps its config",
+    "description": "Article URL: https://github.com/moneytool/agentmeld/blob/main/docs/where-ai-coding-tools-keep-their-config.md\nComments URL: https://news.ycombinator.com/item?id=49600009\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T17:52:21.304Z",
+    "published": "Mon, 07 Sep 2026 16:19:09 +0000"
+  },
+  {
+    "url": "https://github.com/Moiz-I/council-of-claude",
+    "title": "Show HN: LLM Council: survival-of-the-fittest multi-modal deliberation",
+    "description": "Inspired by how bee swarms find the best nest - scouts argue for their picks, strongest conviction wins. Same here: models independently respond, then anonymously review each other (no playing favorites), vouch/challenge/build on ideas, and a chairman synthesizes the survivor.The cross-pollination",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T17:52:21.304Z",
+    "published": "Mon, 07 Sep 2026 16:15:58 +0000"
+  },
+  {
+    "url": "https://github.com/oooscoos/Benzi",
+    "title": "Show HN: Benzi – Code Intelligence Infrastructure for Frontier AI Models",
+    "description": "Roughly speaking, the way current AI coding agents/harnesses work is by either: a) Pulling in appropriate text snippets of code across multiple files and handing them to the agent, or b) Parsing code to make high dimensional embeddings to approximate a symptom map, and hand that to the agent.\nBoth",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T17:52:21.304Z",
+    "published": "Mon, 07 Sep 2026 16:05:58 +0000"
+  },
+  {
+    "url": "https://thenextweb.com/news/un-rights-chief-ai-red-lines-existential-risk",
+    "title": "UN rights chief calls for international red lines on AI",
+    "description": "Article URL: https://thenextweb.com/news/un-rights-chief-ai-red-lines-existential-risk\nComments URL: https://news.ycombinator.com/item?id=49599779\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T17:52:21.304Z",
+    "published": "Mon, 07 Sep 2026 15:57:30 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49599559",
+    "title": "Show HN: Send flowers from your AI agent and make your mum happy",
+    "description": "Hi,I have created an MCP for AI agents to send flowers for your mum’s birthday, for a great customer who just renewed his contract or what ever you can think of!I created this after working on a family AI assistant (hermo.ai) which desperately needed to trigger something tangible - like a flower de",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T17:52:21.304Z",
+    "published": "Mon, 07 Sep 2026 15:34:40 +0000"
+  },
+  {
+    "url": "https://twitter.com/scottastevenson/status/2096972908828426747",
+    "title": "SuperAstra: Edit Super Nintendo games live with GPT-6",
+    "description": "Article URL: https://twitter.com/scottastevenson/status/2096972908828426747\nComments URL: https://news.ycombinator.com/item?id=49599431\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T17:52:21.304Z",
+    "published": "Mon, 07 Sep 2026 15:21:37 +0000"
+  },
+  {
+    "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+    "title": "The Waymo effect: how AI is quietly making research less collaborative",
+    "description": "Article URL: https://www.researchagenda.news/articles/the-waymo-effect.html\nComments URL: https://news.ycombinator.com/item?id=49599267\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T17:52:21.304Z",
+    "published": "Mon, 07 Sep 2026 15:07:44 +0000"
+  },
+  {
+    "url": "https://www.theguardian.com/uk-news/2026/sep/07/designers-should-not-fear-being-replaced-by-ai-industry-leaders-say",
+    "title": "Designers should not fear being replaced by AI, industry leaders say",
+    "description": "Article URL: https://www.theguardian.com/uk-news/2026/sep/07/designers-should-not-fear-being-replaced-by-ai-industry-leaders-say\nComments URL: https://news.ycombinator.com/item?id=49599196\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T17:52:21.304Z",
+    "published": "Mon, 07 Sep 2026 15:02:05 +0000"
+  },
+  {
+    "url": "https://www.latimes.com/california/story/2026-09-03/hikers-following-google-gemini-ai-route-become-stranded-on-mt-shasta",
+    "title": "Hikers stranded on Mount Shasta after following a plan by Gemini AI",
+    "description": "Article URL: https://www.latimes.com/california/story/2026-09-03/hikers-following-google-gemini-ai-route-become-stranded-on-mt-shasta\nComments URL: https://news.ycombinator.com/item?id=49599132\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T17:52:21.304Z",
+    "published": "Mon, 07 Sep 2026 14:56:09 +0000"
+  },
+  {
+    "url": "https://sitecmd.com/blog/senior-software-engineers-perspective-on-building-with-ai",
+    "title": "A Senior Software Engineers Perspective on Building with AI",
+    "description": "Article URL: https://sitecmd.com/blog/senior-software-engineers-perspective-on-building-with-ai\nComments URL: https://news.ycombinator.com/item?id=49599084\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T17:52:21.304Z",
+    "published": "Mon, 07 Sep 2026 14:52:14 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49599053",
+    "title": "Ask HN: Any AI Market Metrics?",
+    "description": "Looking at CNN Business there is an Economic calendar that each day will show various items like: Housing starts / Imports / Exports / Oil Wells / CPI etc.Are there any metrics on AI?  As in number of data centers or number of data centers started, capacity of all AI data centers, etc.Secondary, of",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T17:52:21.304Z",
+    "published": "Mon, 07 Sep 2026 14:49:19 +0000"
+  },
+  {
+    "url": "https://www.michaelbromley.co.uk/blog/the-problem-with-your-ai-tests/",
+    "title": "The Problem with Your AI Tests",
+    "description": "Article URL: https://www.michaelbromley.co.uk/blog/the-problem-with-your-ai-tests/\nComments URL: https://news.ycombinator.com/item?id=49599049\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T17:52:21.304Z",
+    "published": "Mon, 07 Sep 2026 14:49:05 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+    "title": "The complex corporate web behind a $3.2 billion AI data center",
+    "description": "Article URL: https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/\nComments URL: https://news.ycombinator.com/item?id=49599018\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T17:52:21.304Z",
+    "published": "Mon, 07 Sep 2026 14:45:59 +0000"
+  },
+  {
+    "url": "https://www.biblegateway.com/passage/?search=Joshua%25208%253A1&version=NIV",
+    "title": "Joshua 8:1 NIV – AI destroyed",
+    "description": "Article URL: https://www.biblegateway.com/passage/?search=Joshua%25208%253A1&version=NIV\nComments URL: https://news.ycombinator.com/item?id=49598971\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T17:52:21.305Z",
+    "published": "Mon, 07 Sep 2026 14:40:23 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/gpt-6-astra-beat-portal-start-to-finish-without-human-help-in-under-24-hours/",
+    "title": "GPT-6 Astra beat Portal start to finish without human help in under 24 hours",
+    "description": "GPT-6 Astra beat the puzzle game Portal entirely on its own in about 24 hours, with zero human help after the initial goal was set. Developer cozyblaze published the code and docs on GitHub. His takeaway: Astra is \"the worst model we'll ever get.\"\nThe article GPT-6 Astra beat Portal start t",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-07T17:52:28.738Z",
+    "published": "Mon, 07 Sep 2026 17:39:32 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/chatgpt-claws-back-web-traffic-share-to-55-5-percent-as-geminis-brief-comeback-fades/",
+    "title": "ChatGPT claws back web traffic share to 55.5 percent as Gemini's brief comeback fades",
+    "description": "ChatGPT has pushed its share of AI chatbot website traffic back up to 55.5 percent, according to Similarweb. Year-over-year, though, its lead shrank sharply from 73.3 percent as Gemini doubled its share and Claude grew nearly fivefold. Mobile apps and desktop clients aren't included.\nThe ar",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-07T17:52:28.738Z",
+    "published": "Mon, 07 Sep 2026 16:54:12 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/ai-designed-drug-appears-to-turn-back-the-bodys-biological-clock-in-early-trial/",
+    "title": "AI-designed drug appears to turn back the body's biological clock in early trial",
+    "description": "A study in Nature Biotechnology suggests that rentosertib, a drug designed with AI by Insilico Medicine, may reverse markers of biological aging. Six independent aging clocks predicted that treated patients were biologically up to six years younger than the placebo group. The trial covered",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-07T17:52:28.738Z",
+    "published": "Mon, 07 Sep 2026 16:34:20 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/how-ai-wiped-out-an-entire-industry-in-nairobi/",
+    "title": "How AI wiped out an entire industry in Nairobi",
+    "description": "In Kenya, ChatGPT wiped out an entire business model: writing academic papers for foreign students.\nThe article How AI wiped out an entire industry in Nairobi appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-07T17:52:28.738Z",
+    "published": "Mon, 07 Sep 2026 13:18:57 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/at-ubs-ai-skills-are-now-a-condition-for-landing-a-job/",
+    "title": "At UBS, AI skills are now a condition for landing a job",
+    "description": "Swiss banking giant UBS is making AI skills a required qualification from 2027 for graduates and interns in Global Banking and Markets, with applicants having to show in interviews how they use AI to improve outcomes and efficiency. Santander is already looking for advanced AI users too, wh",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-07T17:52:28.738Z",
+    "published": "Mon, 07 Sep 2026 13:13:38 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-reports-ai-research-interns-and-warns-about-its-own-pace-at-the-same-time/",
+    "title": "OpenAI reports AI \"research interns\" and warns about its own pace at the same time",
+    "description": "OpenAI reports that AI agents in its own research already handle 3.1 workdays for every human workday, and it says it has reached its goal of an \"automated research intern.\" But chief scientist Pachocki warns that no lab has a good enough grip on alignment and monitoring to keep scaling at",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-07T17:52:28.738Z",
+    "published": "Mon, 07 Sep 2026 13:05:22 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/new-york-city-bans-ai-tools-from-public-schools-through-eighth-grade/",
+    "title": "New York City bans AI tools from public schools through eighth grade",
+    "description": "New York City bans AI use in public schools through the end of middle school.\nThe article New York City bans AI tools from public schools through eighth grade appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-07T17:52:28.738Z",
+    "published": "Mon, 07 Sep 2026 13:00:03 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/qwen-drive-1-0-tells-you-why-it-brakes-just-dont-expect-the-explanation-to-match-the-maneuver/",
+    "title": "Qwen-Drive 1.0 tells you why it brakes, just don't expect the explanation to match the maneuver",
+    "description": "Alibaba's research arm has released Qwen-Drive 1.0, an AI model that handles environmental perception, traffic Q&#038;A, and route planning in one system. The researchers show that text-image models don't automatically understand three-dimensional space. Spatial awareness has to be trained",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-07T17:52:28.738Z",
+    "published": "Mon, 07 Sep 2026 12:15:54 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2249079/when-is-it-no-longer-worth-repairing-your-phone-and-buying-a-new-one-instead/",
+    "title": "When is it no longer worth repairing your phone and buying a new one instead",
+    "description": "When is it no longer worth repairing your phone and buying a new one instead.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-07T17:52:41.568Z",
+    "published": "Mon, 07 Sep 2026 17:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2252220/retroid-teases-upcoming-dual-screen-gaming-handheld/",
+    "title": "Retroid just teased its take on a dual-screen handheld for Nintendo DS fans",
+    "description": "While there aren&#39;t a ton of concrete details yet, the arrival of yet another dual-screen handheld is a great sign for fans of Nintendo old-school portables.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-07T17:52:41.568Z",
+    "published": "Mon, 07 Sep 2026 17:15:36 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2249020/how-to-use-spacexai-grok-build/",
+    "title": "How to use SpaceXAI's Grok Build",
+    "description": "You&#39;ll want a paid plan if you plan to do much with Grok.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-07T17:52:41.568Z",
+    "published": "Mon, 07 Sep 2026 13:30:00 +0000"
   }
 ]
