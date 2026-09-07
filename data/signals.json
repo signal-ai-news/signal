@@ -11303,7 +11303,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T20:44:25.658Z",
-    "published": "Fri, 31 Jul 2026 19:52:07 +0000"
+    "published": "Fri, 31 Jul 2026 19:52:07 +0000",
+    "processed": true,
+    "processedAt": "2026-09-07T05:56:35.747Z"
   },
   {
     "url": "https://www.dylanfisher.com/claude-midi-twister/",
@@ -11312,7 +11314,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T20:44:25.658Z",
-    "published": "Fri, 31 Jul 2026 19:51:28 +0000"
+    "published": "Fri, 31 Jul 2026 19:51:28 +0000",
+    "processed": true,
+    "processedAt": "2026-09-07T05:56:35.747Z"
   },
   {
     "url": "https://news.ycombinator.com/item?id=49127681",
@@ -11321,7 +11325,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T20:44:25.658Z",
-    "published": "Fri, 31 Jul 2026 19:38:52 +0000"
+    "published": "Fri, 31 Jul 2026 19:38:52 +0000",
+    "processed": true,
+    "processedAt": "2026-09-07T05:56:35.747Z"
   },
   {
     "url": "https://atmbench.github.io/leaderboard.html",
@@ -11330,7 +11336,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T20:44:25.658Z",
-    "published": "Fri, 31 Jul 2026 19:36:25 +0000"
+    "published": "Fri, 31 Jul 2026 19:36:25 +0000",
+    "processed": true,
+    "processedAt": "2026-09-07T05:56:35.747Z"
   },
   {
     "url": "https://spectrum.ieee.org/ai-energy-weightless-neural-networks",
@@ -11339,7 +11347,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T20:44:25.658Z",
-    "published": "Fri, 31 Jul 2026 19:35:24 +0000"
+    "published": "Fri, 31 Jul 2026 19:35:24 +0000",
+    "processed": true,
+    "processedAt": "2026-09-07T05:56:35.747Z"
   },
   {
     "url": "https://shield.ai/shield-ai-and-ge-aerospace-light-off-x-bat-engine-completing-thrust-vectoring-nozzle-integration-and-clearing-path-to-vertical-flight/",
