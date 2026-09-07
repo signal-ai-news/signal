@@ -49804,5 +49804,204 @@
     "published": "Mon, 07 Sep 2026 18:28:50 +0000",
     "processed": true,
     "processedAt": "2026-09-07T21:26:29.398Z"
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/",
+    "title": "ASCII smuggling crosses over from AI prompt injection to phishing evasion",
+    "description": "Article URL: https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/\nComments URL: https://news.ycombinator.com/item?id=49604092\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T23:42:21.114Z",
+    "published": "Mon, 07 Sep 2026 23:27:53 +0000",
+    "processed": true,
+    "processedAt": "2026-09-07T23:44:47.863Z"
+  },
+  {
+    "url": "https://usero.io/blog/meta-ai-crawler-crashing-my-db",
+    "title": "Meta's AI Crawler Crashing My DB, and What I Did About It",
+    "description": "Article URL: https://usero.io/blog/meta-ai-crawler-crashing-my-db\nComments URL: https://news.ycombinator.com/item?id=49604043\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T23:42:21.114Z",
+    "published": "Mon, 07 Sep 2026 23:20:45 +0000",
+    "processed": true,
+    "processedAt": "2026-09-07T23:44:47.863Z"
+  },
+  {
+    "url": "https://foundash-ai.github.io/",
+    "title": "Cloudflare hid my site from AI. I sell AI visibility",
+    "description": "Article URL: https://foundash-ai.github.io/\nComments URL: https://news.ycombinator.com/item?id=49603903\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T23:42:21.114Z",
+    "published": "Mon, 07 Sep 2026 22:58:04 +0000",
+    "processed": true,
+    "processedAt": "2026-09-07T23:44:47.863Z"
+  },
+  {
+    "url": "https://github.com/heetdalsania/quire",
+    "title": "Quire – humans and AI agents editing local Markdown together",
+    "description": "Article URL: https://github.com/heetdalsania/quire\nComments URL: https://news.ycombinator.com/item?id=49603593\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T23:42:21.114Z",
+    "published": "Mon, 07 Sep 2026 22:17:21 +0000",
+    "processed": true,
+    "processedAt": "2026-09-07T23:44:47.863Z"
+  },
+  {
+    "url": "https://github.com/Raknaos/lightpanda-session-bridge",
+    "title": "Lightpanda Session Bridge – Hand real logins to headless AI agents",
+    "description": "Article URL: https://github.com/Raknaos/lightpanda-session-bridge\nComments URL: https://news.ycombinator.com/item?id=49603588\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T23:42:21.114Z",
+    "published": "Mon, 07 Sep 2026 22:17:06 +0000",
+    "processed": true,
+    "processedAt": "2026-09-07T23:44:47.863Z"
+  },
+  {
+    "url": "https://lance.black",
+    "title": "Claude Code fable 5.1 is seriously flawed",
+    "description": "Article URL: https://lance.black\nComments URL: https://news.ycombinator.com/item?id=49603520\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T23:42:21.114Z",
+    "published": "Mon, 07 Sep 2026 22:10:12 +0000"
+  },
+  {
+    "url": "https://actually-real-ai.com/",
+    "title": "Actually Real AI",
+    "description": "Article URL: https://actually-real-ai.com/\nComments URL: https://news.ycombinator.com/item?id=49603155\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T23:42:21.114Z",
+    "published": "Mon, 07 Sep 2026 21:26:02 +0000"
+  },
+  {
+    "url": "https://www.doodleiq.com/",
+    "title": "DoodleIQ – Rent your idle local-LLM machine to others by the second",
+    "description": "Article URL: https://www.doodleiq.com/\nComments URL: https://news.ycombinator.com/item?id=49603149\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T23:42:21.114Z",
+    "published": "Mon, 07 Sep 2026 21:25:19 +0000"
+  },
+  {
+    "url": "https://actonai.org/",
+    "title": "Please, take 2 min to tell your representative to regulate AI (US)",
+    "description": "Article URL: https://actonai.org/\nComments URL: https://news.ycombinator.com/item?id=49603054\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T23:42:21.114Z",
+    "published": "Mon, 07 Sep 2026 21:13:59 +0000"
+  },
+  {
+    "url": "https://tiiny.ai/",
+    "title": "The smallest edge AI device for local LLMs",
+    "description": "Article URL: https://tiiny.ai/\nComments URL: https://news.ycombinator.com/item?id=49603011\nPoints: 18\n# Comments: 16",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T23:42:21.114Z",
+    "published": "Mon, 07 Sep 2026 21:09:12 +0000"
+  },
+  {
+    "url": "https://www.ersnet.org/news-and-features/news/in-a-third-of-cases-ai-chatbots-wrongly-reassure-sleep-apnoea-patients-their-symptoms-arent-serious/",
+    "title": "AI chatbots wrongly reassure sleep apnoea patients their symptoms aren't serious",
+    "description": "Article URL: https://www.ersnet.org/news-and-features/news/in-a-third-of-cases-ai-chatbots-wrongly-reassure-sleep-apnoea-patients-their-symptoms-arent-serious/\nComments URL: https://news.ycombinator.com/item?id=49602598\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T23:42:21.114Z",
+    "published": "Mon, 07 Sep 2026 20:22:54 +0000"
+  },
+  {
+    "url": "https://github.com/Nehanth/swarmllm",
+    "title": "Peer-to-peer LLM inference in browser tabs, Qwen 3.8 27B",
+    "description": "Article URL: https://github.com/Nehanth/swarmllm\nComments URL: https://news.ycombinator.com/item?id=49602451\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T23:42:21.114Z",
+    "published": "Mon, 07 Sep 2026 20:08:22 +0000"
+  },
+  {
+    "url": "https://danielfm.me/posts/code-reviews-in-the-age-of-ai/",
+    "title": "Code Reviews in the Age of AI",
+    "description": "Article URL: https://danielfm.me/posts/code-reviews-in-the-age-of-ai/\nComments URL: https://news.ycombinator.com/item?id=49602295\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T23:42:21.114Z",
+    "published": "Mon, 07 Sep 2026 19:54:19 +0000"
+  },
+  {
+    "url": "https://github.com/yayster/yayster.el",
+    "title": "El Yayster – a resident LLM that inhabits Emacs",
+    "description": "Article URL: https://github.com/yayster/yayster.el\nComments URL: https://news.ycombinator.com/item?id=49602258\nPoints: 6\n# Comments: 5",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T23:42:21.114Z",
+    "published": "Mon, 07 Sep 2026 19:50:21 +0000"
+  },
+  {
+    "url": "https://www.revise.net",
+    "title": "Revise AI, an AI editor for fiction writers",
+    "description": "Article URL: https://www.revise.net\nComments URL: https://news.ycombinator.com/item?id=49602170\nPoints: 2\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T23:42:21.114Z",
+    "published": "Mon, 07 Sep 2026 19:44:07 +0000"
+  },
+  {
+    "url": "https://forgemesh.io/blog/first-x402-physical-order-bought-with-curl",
+    "title": "An AI agent bought a physical t-shirt over HTTP 402 with USDC, no human involved",
+    "description": "Article URL: https://forgemesh.io/blog/first-x402-physical-order-bought-with-curl\nComments URL: https://news.ycombinator.com/item?id=49602166\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T23:42:21.114Z",
+    "published": "Mon, 07 Sep 2026 19:43:34 +0000"
+  },
+  {
+    "url": "https://barbarito.me/notes-workflow/",
+    "title": "Turning Quick Notes into Long-Term AI Memory",
+    "description": "Article URL: https://barbarito.me/notes-workflow/\nComments URL: https://news.ycombinator.com/item?id=49602002\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T23:42:21.114Z",
+    "published": "Mon, 07 Sep 2026 19:27:31 +0000"
+  },
+  {
+    "url": "https://allan.reyes.sh/posts/ai-cold-showers/",
+    "title": "AI Cold Showers",
+    "description": "Article URL: https://allan.reyes.sh/posts/ai-cold-showers/\nComments URL: https://news.ycombinator.com/item?id=49601810\nPoints: 66\n# Comments: 11",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T23:42:21.115Z",
+    "published": "Mon, 07 Sep 2026 19:05:39 +0000"
+  },
+  {
+    "url": "https://smarterarticles.co.uk/botsitting-the-unpaid-labour-behind-every-ai-productivity-claim",
+    "title": "Botsitting: The Unpaid Labour Behind Every AI Productivity Claim",
+    "description": "Article URL: https://smarterarticles.co.uk/botsitting-the-unpaid-labour-behind-every-ai-productivity-claim\nComments URL: https://news.ycombinator.com/item?id=49601734\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-07T23:42:21.115Z",
+    "published": "Mon, 07 Sep 2026 18:59:34 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2249559/carplay-android-auto-carplay-gm-breakup-one-exception-2027-cadillac-lyriq/",
+    "title": "GM's breakup with CarPlay and Android Auto has one exception",
+    "description": "GM&#39;s lineup is dropping Apple CarPlay and Android Auto in favor of its own infotainment systems. But one model is keeping the phone-mirroring capabilities.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-07T23:42:42.281Z",
+    "published": "Mon, 07 Sep 2026 23:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2249521/how-to-legally-download-youtube-videos/",
+    "title": "How To Legally Download YouTube Videos",
+    "description": "There are many reasons why you&#39;d want to download a YouTube video, but doing so comes with a bevy of questions about the legality of the available methods.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-07T23:42:42.281Z",
+    "published": "Mon, 07 Sep 2026 22:30:00 +0000"
   }
 ]
