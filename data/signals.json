@@ -11358,7 +11358,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T20:44:25.658Z",
-    "published": "Fri, 31 Jul 2026 19:32:32 +0000"
+    "published": "Fri, 31 Jul 2026 19:32:32 +0000",
+    "processed": true,
+    "processedAt": "2026-09-07T12:14:30.481Z"
   },
   {
     "url": "https://www.bloomberg.com/news/articles/2026-07-31/big-tech-holds-2-trillion-of-spending-commitments-for-ai-boom",
@@ -11367,7 +11369,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-07-31T20:44:25.658Z",
-    "published": "Fri, 31 Jul 2026 19:32:04 +0000"
+    "published": "Fri, 31 Jul 2026 19:32:04 +0000",
+    "processed": true,
+    "processedAt": "2026-09-07T12:14:30.481Z"
   },
   {
     "url": "https://www.gilesthomas.com/2026/07/ai-use",
@@ -49432,5 +49436,38 @@
     "category": "news",
     "discovered": "2026-09-07T00:53:24.983Z",
     "published": "Sun, 06 Sep 2026 23:00:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+    "title": "Supporting independent journalism in Ukraine",
+    "description": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-07T12:11:52.294Z",
+    "published": "Mon, 07 Sep 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-07T12:14:30.482Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/why-most-multi-agent-systems-fail-even-when-evaluation-passes/",
+    "title": "Why Most Multi-Agent Systems Fail Even When Evaluation Passes",
+    "description": "How to catch a payload that looks correct but isn't, using a watchdog pattern with working Python.\nThe post Why Most Multi-Agent Systems Fail Even When Evaluation Passes appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-07T12:12:07.135Z",
+    "published": "Mon, 07 Sep 2026 12:00:01 GMT",
+    "processed": true,
+    "processedAt": "2026-09-07T12:14:30.482Z"
+  },
+  {
+    "url": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
+    "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
+    "description": "Forget email surveys or long calls spent on hold. Voicebox lets people send customer feedback by recording a voice note on their phone.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-07T12:12:15.690Z",
+    "published": "Mon, 07 Sep 2026 10:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-07T12:14:30.482Z"
   }
 ]
