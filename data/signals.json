@@ -50412,5 +50412,150 @@
     "category": "news",
     "discovered": "2026-09-08T17:23:35.652Z",
     "published": "Tue, 08 Sep 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/codex-quantum-computing-experiments",
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "description": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-08T20:09:50.776Z",
+    "published": "Tue, 08 Sep 2026 17:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-08T20:12:42.273Z"
+  },
+  {
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+    "title": "Introducing ChatGPT Images 2.5",
+    "description": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-08T20:09:50.776Z",
+    "published": "Tue, 08 Sep 2026 11:30:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-08T20:12:42.273Z"
+  },
+  {
+    "url": "https://openai.com/index/navier-stokes-solution",
+    "title": "On the Navier–Stokes Millennium Prize Problem",
+    "description": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-08T20:09:50.776Z",
+    "published": "Tue, 08 Sep 2026 10:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-08T20:12:42.273Z"
+  },
+  {
+    "url": "https://openai.com/index/1password",
+    "title": "1Password increases engineering productivity 21% with Codex",
+    "description": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-08T20:09:50.776Z",
+    "published": "Tue, 08 Sep 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-08T20:12:42.273Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+    "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+    "description": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-08T20:09:54.146Z",
+    "published": "Tue, 08 Sep 2026 19:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-08T20:12:42.273Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+    "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+    "description": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-08T20:09:54.146Z",
+    "published": "Tue, 08 Sep 2026 17:32:15 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-maximize-gpt-6-astra/",
+    "title": "How to Maximize GPT-6 Astra",
+    "description": "My first impressions of OpenAI's new frontier model\nThe post How to Maximize GPT-6 Astra appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-08T20:10:17.334Z",
+    "published": "Tue, 08 Sep 2026 18:00:35 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/the-model-validation-playbook-for-genai-lessons-from-banking/",
+    "title": "The Model Validation Playbook for GenAI: Lessons from Banking",
+    "description": "How model validation standards are changing for LLM-based systems: what breaks, what carries over, and how to test output quality\nThe post The Model Validation Playbook for GenAI: Lessons from Banking appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-08T20:10:17.334Z",
+    "published": "Tue, 08 Sep 2026 17:34:37 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/a-beginners-guide-to-world-models/",
+    "title": "A Beginner’s Guide to World Models",
+    "description": "Learn how to simulate reality with Python\nThe post A Beginner’s Guide to World Models appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-08T20:10:17.334Z",
+    "published": "Tue, 08 Sep 2026 17:27:42 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/openai-researcher-allegedly-pressured-mathematician-to-drop-anthropic-co-author-from-math-breakthrough-paper/",
+    "title": "OpenAI researcher allegedly pressured mathematician to drop Anthropic co-author from math breakthrough paper",
+    "description": "Mathematician Tristan Buckmaster says an OpenAI researcher pressured him after information about his AI-assisted progress on the Navier-Stokes equations allegedly reached the company. The researcher tried to remove his co-author because he works at Anthropic and threatened Buckmaster when h",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-08T20:10:19.024Z",
+    "published": "Tue, 08 Sep 2026 19:23:04 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2253133/meta-reveals-its-ai-agent-that-can-shop-send-emails-and-plan-trips-on-your-behalf/",
+    "title": "Meta reveals its AI agent that can shop, send emails and plan trips on your behalf",
+    "description": "Muse, Meta&#39;s newly revealed AI agent, can perform tasks autonomously, if you trust it to do that.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-08T20:10:35.651Z",
+    "published": "Tue, 08 Sep 2026 19:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2253085/nvidias-dlss-5-adds-subtle-details-to-nba-2k27-but-demands-a-lot-more-power/",
+    "title": "NVIDIA's DLSS 5 adds subtle details to NBA 2K27, but demands a lot more power",
+    "description": "DLSS 5&#39;s juice may not be worth the squeeze for launch title NBA 2K27.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-08T20:10:35.651Z",
+    "published": "Tue, 08 Sep 2026 18:31:54 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2252075/drive-price-rise-driven-by-ai-even-hdd-affected/",
+    "title": "The rise in drive prices is being driven by AI and even HDDs can't hide",
+    "description": "SSDs are preferable for many reasons, but with storage prices skyrocketing, there are some scenarios where opting for an HDD makes more sense.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-08T20:10:35.651Z",
+    "published": "Tue, 08 Sep 2026 18:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2253048/the-first-trailer-for-the-sam-altman-biopic-is-damn-creepy/",
+    "title": "The first trailer for the Sam Altman biopic is damn creepy",
+    "description": "Sam Altman biopic Artificial will be in movie theaters on Christmas Day. Here&#39;s the first trailer.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-08T20:10:35.651Z",
+    "published": "Tue, 08 Sep 2026 18:08:04 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2251592/threads-is-overhauling-its-in-app-analytics-with-more-details-except-for-link-clicks/",
+    "title": "Threads is overhauling its in-app analytics with more details, except for link clicks",
+    "description": "The insights section of the Threads app now surfaces AI summaries and contextual info about post performance.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-08T20:10:35.651Z",
+    "published": "Tue, 08 Sep 2026 17:00:00 +0000"
   }
 ]
