@@ -11391,7 +11391,9 @@
     "source": "Towards Data Science",
     "category": "ml",
     "discovered": "2026-07-31T20:44:31.369Z",
-    "published": "Fri, 31 Jul 2026 16:30:00 +0000"
+    "published": "Fri, 31 Jul 2026 16:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-08T04:12:59.732Z"
   },
   {
     "url": "https://the-decoder.com/google-deepmind-unveils-gemini-robotics-2-to-power-robots-of-all-shapes-from-tabletop-arms-to-humanoids/",
@@ -11400,7 +11402,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-31T20:44:33.149Z",
-    "published": "Fri, 31 Jul 2026 18:25:08 +0000"
+    "published": "Fri, 31 Jul 2026 18:25:08 +0000",
+    "processed": true,
+    "processedAt": "2026-09-08T04:12:59.732Z"
   },
   {
     "url": "https://the-decoder.com/thinking-machines-bets-on-efficiency-over-size-with-its-second-model-inkling-small/",
@@ -11409,7 +11413,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-31T20:44:33.149Z",
-    "published": "Fri, 31 Jul 2026 17:41:50 +0000"
+    "published": "Fri, 31 Jul 2026 17:41:50 +0000",
+    "processed": true,
+    "processedAt": "2026-09-08T04:12:59.732Z"
   },
   {
     "url": "https://the-decoder.com/new-deepseek-flash-model-matches-openais-gpt-5-6-luna-at-roughly-60-percent-lower-cost/",
@@ -11418,7 +11424,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-07-31T20:44:33.149Z",
-    "published": "Fri, 31 Jul 2026 16:39:25 +0000"
+    "published": "Fri, 31 Jul 2026 16:39:25 +0000",
+    "processed": true,
+    "processedAt": "2026-09-08T04:12:59.732Z"
   },
   {
     "url": "https://www.wired.com/story/chinese-ai-researchers-are-finding-their-voice-on-x/",
@@ -50003,5 +50011,16 @@
     "category": "news",
     "discovered": "2026-09-07T23:42:42.281Z",
     "published": "Mon, 07 Sep 2026 22:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2249648/chromebook-pros-and-cons-as-main-pc/",
+    "title": "Pros and cons of using a Chromebook as your everyday PC",
+    "description": "Chromebooks are great devices, but they might not be able to do everything a Windows or Mac device can. Consider carefully before using one daily.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-08T04:10:54.059Z",
+    "published": "Tue, 08 Sep 2026 00:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-08T04:12:59.734Z"
   }
 ]
