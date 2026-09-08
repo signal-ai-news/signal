@@ -50041,5 +50041,240 @@
     "published": "Tue, 08 Sep 2026 07:45:41 +0000",
     "processed": true,
     "processedAt": "2026-09-08T09:02:49.345Z"
+  },
+  {
+    "url": "https://openai.com/index/the-work-now-within-reach",
+    "title": "The Work Now Within Reach",
+    "description": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-08T13:27:26.320Z",
+    "published": "Tue, 08 Sep 2026 13:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-08T13:30:05.071Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
+    "title": "The Download: our 35 Innovators Under 35 this year",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators Under 35",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-08T13:27:31.027Z",
+    "published": "Tue, 08 Sep 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-08T13:30:05.072Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
+    "title": "This founder is teaching chips how to recycle (their energy)",
+    "description": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recycle energy usually t",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-08T13:27:31.027Z",
+    "published": "Tue, 08 Sep 2026 10:36:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-08T13:30:05.072Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+    "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+    "description": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up&",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-08T13:27:31.027Z",
+    "published": "Tue, 08 Sep 2026 10:34:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-08T13:30:05.072Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49610069",
+    "title": "Real Business Plan Generator with AI Tool for Free",
+    "description": "The tool I created offers 100% customized Business Plan evaluation and development, considering certain resources, ideas, niche, etc. Take a look and try once to get your ideas with confidence.\n\nComments URL: https://news.ycombinator.com/item?id=49610069\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-08T13:27:36.803Z",
+    "published": "Tue, 08 Sep 2026 13:27:23 +0000",
+    "processed": true,
+    "processedAt": "2026-09-08T13:30:05.072Z"
+  },
+  {
+    "url": "https://github.com/grith-ai/grith",
+    "title": "Show HN: Grith – syscall-level supervision for AI agents",
+    "description": "Article URL: https://github.com/grith-ai/grith\nComments URL: https://news.ycombinator.com/item?id=49610006\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-08T13:27:36.803Z",
+    "published": "Tue, 08 Sep 2026 13:22:25 +0000"
+  },
+  {
+    "url": "https://deadneurons.substack.com/p/the-ai-capex-bubble-and-the-parallels",
+    "title": "The AI Capex Bubble and the Parallels to 5G",
+    "description": "Article URL: https://deadneurons.substack.com/p/the-ai-capex-bubble-and-the-parallels\nComments URL: https://news.ycombinator.com/item?id=49609957\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-08T13:27:36.803Z",
+    "published": "Tue, 08 Sep 2026 13:19:03 +0000"
+  },
+  {
+    "url": "https://lackofimagination.org/2026/09/letting-ai-debug-production/",
+    "title": "Letting AI Debug Production",
+    "description": "Article URL: https://lackofimagination.org/2026/09/letting-ai-debug-production/\nComments URL: https://news.ycombinator.com/item?id=49609874\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-08T13:27:36.803Z",
+    "published": "Tue, 08 Sep 2026 13:09:30 +0000"
+  },
+  {
+    "url": "https://medium.com/@MirArshadTalpur/causal-lineage-session-replay-and-the-missing-layer-in-enterprise-ai-c1ba194f4f09",
+    "title": "Causal Lineage, Session Replay, and the Missing Layer in Enterprise AI",
+    "description": "Article URL: https://medium.com/@MirArshadTalpur/causal-lineage-session-replay-and-the-missing-layer-in-enterprise-ai-c1ba194f4f09\nComments URL: https://news.ycombinator.com/item?id=49609861\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-08T13:27:36.803Z",
+    "published": "Tue, 08 Sep 2026 13:08:17 +0000"
+  },
+  {
+    "url": "https://www.machinesociety.ai/p/why-ai-generated-slopaganda-works",
+    "title": "Why AI-generated slopaganda works",
+    "description": "Article URL: https://www.machinesociety.ai/p/why-ai-generated-slopaganda-works\nComments URL: https://news.ycombinator.com/item?id=49609824\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-08T13:27:36.803Z",
+    "published": "Tue, 08 Sep 2026 13:04:34 +0000"
+  },
+  {
+    "url": "https://thecatenary.app",
+    "title": "Catenary – A spatial canvas IDE for AI coding agents",
+    "description": "Article URL: https://thecatenary.app\nComments URL: https://news.ycombinator.com/item?id=49609815\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-08T13:27:36.803Z",
+    "published": "Tue, 08 Sep 2026 13:03:50 +0000"
+  },
+  {
+    "url": "https://github.com/entitybtw/aurora",
+    "title": "Aurora: AI gateway fork for multi-IP setups, 55x faster than LiteLLM",
+    "description": "Article URL: https://github.com/entitybtw/aurora\nComments URL: https://news.ycombinator.com/item?id=49609812\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-08T13:27:36.803Z",
+    "published": "Tue, 08 Sep 2026 13:03:44 +0000"
+  },
+  {
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/08/mistral-bags-3b-to-build-europes-sovereign-ai-champion/5294941",
+    "title": "Mistral bags €3B to build Europe's sovereign AI champion",
+    "description": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/08/mistral-bags-3b-to-build-europes-sovereign-ai-champion/5294941\nComments URL: https://news.ycombinator.com/item?id=49609741\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-08T13:27:36.803Z",
+    "published": "Tue, 08 Sep 2026 12:58:11 +0000"
+  },
+  {
+    "url": "https://gremlord.com/",
+    "title": "Show HN: Gremlord – Run Claude Code on any model, with a budget",
+    "description": "Article URL: https://gremlord.com/\nComments URL: https://news.ycombinator.com/item?id=49609627\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-08T13:27:36.803Z",
+    "published": "Tue, 08 Sep 2026 12:47:40 +0000"
+  },
+  {
+    "url": "https://maggieappleton.com/ai-dark-forest",
+    "title": "The Dark Forest and Generative AI",
+    "description": "Article URL: https://maggieappleton.com/ai-dark-forest\nComments URL: https://news.ycombinator.com/item?id=49609608\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-08T13:27:36.803Z",
+    "published": "Tue, 08 Sep 2026 12:46:18 +0000"
+  },
+  {
+    "url": "https://inspyry.com",
+    "title": "Show HN: Inspyry – AI Based SVG Generator Platform",
+    "description": "Also has an agent skill https://github.com/drjzlyan/inspyry-vector-generator-skill that can be used to connect your coding agents to the platform for generating svg images for your development\n\nComments URL: https://news.ycombinator.com/item?id=49609593\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-08T13:27:36.803Z",
+    "published": "Tue, 08 Sep 2026 12:45:22 +0000"
+  },
+  {
+    "url": "https://github.com/jamison/ilc/blob/main/HUMANS.md",
+    "title": "Show HN: AI means the end of software as we know it",
+    "description": "As agents scale in intelligence per token per watt, software architecture is starting to shift: away from CRUD databases and directional tree structures, toward multidimensional hypergraphs where knowledge, governance, and code are all the same kind of node. No single human can hold that structure",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-08T13:27:36.803Z",
+    "published": "Tue, 08 Sep 2026 12:42:02 +0000"
+  },
+  {
+    "url": "https://github.com/RexHuang/novus",
+    "title": "Novus – A self-improving AI agent that lives on an Android phone",
+    "description": "Article URL: https://github.com/RexHuang/novus\nComments URL: https://news.ycombinator.com/item?id=49609555\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-08T13:27:36.803Z",
+    "published": "Tue, 08 Sep 2026 12:41:15 +0000"
+  },
+  {
+    "url": "https://news.err.ee/1610132113/ai-agents-will-not-get-estonian-id-codes-and-responsibility-will-stay-with-humans",
+    "title": "AI agents will not get Estonian ID codes, responsibility will stay with humans",
+    "description": "Article URL: https://news.err.ee/1610132113/ai-agents-will-not-get-estonian-id-codes-and-responsibility-will-stay-with-humans\nComments URL: https://news.ycombinator.com/item?id=49609548\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-08T13:27:36.803Z",
+    "published": "Tue, 08 Sep 2026 12:39:56 +0000"
+  },
+  {
+    "url": "https://claudisms.ai/",
+    "title": "Claudisms – a living banlist of AI-writing tells",
+    "description": "Article URL: https://claudisms.ai/\nComments URL: https://news.ycombinator.com/item?id=49609383\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-08T13:27:36.803Z",
+    "published": "Tue, 08 Sep 2026 12:25:08 +0000"
+  },
+  {
+    "url": "https://mathoverflow.net/questions/515026/ai-and-training-phd-students",
+    "title": "AI and Training PhD Students",
+    "description": "Article URL: https://mathoverflow.net/questions/515026/ai-and-training-phd-students\nComments URL: https://news.ycombinator.com/item?id=49609379\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-08T13:27:36.803Z",
+    "published": "Tue, 08 Sep 2026 12:24:53 +0000"
+  },
+  {
+    "url": "https://solutionexplorer.dev/journal/structure-over-vigilance",
+    "title": "Structure over vigilance: Rules for what reviewing the AI misses",
+    "description": "Article URL: https://solutionexplorer.dev/journal/structure-over-vigilance\nComments URL: https://news.ycombinator.com/item?id=49609349\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-08T13:27:36.803Z",
+    "published": "Tue, 08 Sep 2026 12:22:26 +0000"
+  },
+  {
+    "url": "https://github.com/seoes/proval",
+    "title": "Show HN: Self-Hosted Code Review Agent for Local LLM",
+    "description": "Article URL: https://github.com/seoes/proval\nComments URL: https://news.ycombinator.com/item?id=49609154\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-08T13:27:36.803Z",
+    "published": "Tue, 08 Sep 2026 12:02:26 +0000"
+  },
+  {
+    "url": "https://github.com/patforna/writing",
+    "title": "Getting Out of the Loop: 8 Months Solo-Building with AI",
+    "description": "Article URL: https://github.com/patforna/writing\nComments URL: https://news.ycombinator.com/item?id=49609121\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-08T13:27:36.803Z",
+    "published": "Tue, 08 Sep 2026 11:59:01 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2252521/us-regulator-approves-1-9-billion-loan-to-spin-up-iowas-dead-nuclear-reactor-for-google/",
+    "title": "US regulator approves $1.9 billion loan to spin up Iowa's dead nuclear reactor for Google",
+    "description": "Google is a step closer to getting access to nuclear power for its AI data centers.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-08T13:27:59.238Z",
+    "published": "Tue, 08 Sep 2026 12:58:06 +0000"
   }
 ]
