@@ -51010,5 +51010,240 @@
     "category": "community",
     "discovered": "2026-09-09T06:33:20.127Z",
     "published": "Wed, 09 Sep 2026 02:44:59 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
+    "title": "Batteries just broke another record in the US",
+    "description": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily electricity needs of about 700,000 homes. The surge is putting the country on a trajectory to see 71",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-09T11:46:44.969Z",
+    "published": "Wed, 09 Sep 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-09T11:49:17.376Z"
+  },
+  {
+    "url": "https://www.visualcapitalist.com/mapped-ai-adoption-by-country-in-2026/",
+    "title": "Mapped: AI Adoption by Country in 2026",
+    "description": "Article URL: https://www.visualcapitalist.com/mapped-ai-adoption-by-country-in-2026/\nComments URL: https://news.ycombinator.com/item?id=49624801\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T11:46:49.476Z",
+    "published": "Wed, 09 Sep 2026 11:38:45 +0000",
+    "processed": true,
+    "processedAt": "2026-09-09T11:49:17.376Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49624779",
+    "title": "Is Google planning for Gemini 4 rather than 3.5 pro?",
+    "description": "As other tech giants are releasing their newer models, Google is yet to make a big announcement but they are constantly launching new models as the flash series currently on 3.8. Many articles say that they have skipped 3.5-pro and planning to release Gemini-4 in october which will surpass GPT-6 As",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T11:46:49.476Z",
+    "published": "Wed, 09 Sep 2026 11:37:03 +0000",
+    "processed": true,
+    "processedAt": "2026-09-09T11:49:17.376Z"
+  },
+  {
+    "url": "https://picwish.com/",
+    "title": "PicWish – AI photo editing for product images and everyday use",
+    "description": "Article URL: https://picwish.com/\nComments URL: https://news.ycombinator.com/item?id=49624713\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T11:46:49.476Z",
+    "published": "Wed, 09 Sep 2026 11:30:43 +0000",
+    "processed": true,
+    "processedAt": "2026-09-09T11:49:17.376Z"
+  },
+  {
+    "url": "https://github.com/Resistance-Labs-Tech/fossgamewithai",
+    "title": "An experiment to make a highly fun FOSS game with the community using AI",
+    "description": "Article URL: https://github.com/Resistance-Labs-Tech/fossgamewithai\nComments URL: https://news.ycombinator.com/item?id=49624684\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T11:46:49.476Z",
+    "published": "Wed, 09 Sep 2026 11:27:47 +0000",
+    "processed": true,
+    "processedAt": "2026-09-09T11:49:17.376Z"
+  },
+  {
+    "url": "https://pauseai.uk",
+    "title": "We are the civic movement dedicated to averting the risks of superhuman AI",
+    "description": "Article URL: https://pauseai.uk\nComments URL: https://news.ycombinator.com/item?id=49624678\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T11:46:49.476Z",
+    "published": "Wed, 09 Sep 2026 11:27:13 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49624601",
+    "title": "Built an infinite canvas with GPT-6, complete with a universe scale demo",
+    "description": "Here is the demo link: https://loomspace.smlme.com/s/AFzBGXZTCEV6ESbqYrstte\n\nComments URL: https://news.ycombinator.com/item?id=49624601\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T11:46:49.476Z",
+    "published": "Wed, 09 Sep 2026 11:19:20 +0000"
+  },
+  {
+    "url": "https://evilmartians.com/chronicles/ten-anti-ai-slop-moves-for-frontend-projects-going-faster-than-humans-can-review",
+    "title": "Anti-AI slop moves for front end projects going faster than humans can review",
+    "description": "Article URL: https://evilmartians.com/chronicles/ten-anti-ai-slop-moves-for-frontend-projects-going-faster-than-humans-can-review\nComments URL: https://news.ycombinator.com/item?id=49624578\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T11:46:49.476Z",
+    "published": "Wed, 09 Sep 2026 11:15:44 +0000"
+  },
+  {
+    "url": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
+    "title": "AI Has Solved One of Math's $1M Millennium Prize Problems",
+    "description": "Article URL: https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/\nComments URL: https://news.ycombinator.com/item?id=49624469\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T11:46:49.476Z",
+    "published": "Wed, 09 Sep 2026 11:02:56 +0000"
+  },
+  {
+    "url": "https://github.com/ludwig-ai/ludwig",
+    "title": "Low-code framework for building custom AI",
+    "description": "Article URL: https://github.com/ludwig-ai/ludwig\nComments URL: https://news.ycombinator.com/item?id=49624414\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T11:46:49.476Z",
+    "published": "Wed, 09 Sep 2026 10:56:27 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49624341",
+    "title": "How to Increase Your Website's Visibility in Google's AI-Powered Search Results",
+    "description": "The website content was updated with the latest information and adopted a format that provides the answer in the very first sentence; however, the number of times the content was mentioned or cited still did not increase.\n\nComments URL: https://news.ycombinator.com/item?id=49624341\nPoints: 1\n# Comm",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T11:46:49.476Z",
+    "published": "Wed, 09 Sep 2026 10:49:14 +0000"
+  },
+  {
+    "url": "https://eris-system.dev/blog/tool-routing",
+    "title": "Tool routing for a local LLM agent: grep to embeddings to GBNF grammar",
+    "description": "Article URL: https://eris-system.dev/blog/tool-routing\nComments URL: https://news.ycombinator.com/item?id=49624340\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T11:46:49.476Z",
+    "published": "Wed, 09 Sep 2026 10:49:12 +0000"
+  },
+  {
+    "url": "https://www.reuters.com/business/media-telecom/google-invest-15-billion-ai-infrastructure-finland-2026-09-09/",
+    "title": "Google to invest $15B in AI datacenters and buy nuclear power in Finland",
+    "description": "Article URL: https://www.reuters.com/business/media-telecom/google-invest-15-billion-ai-infrastructure-finland-2026-09-09/\nComments URL: https://news.ycombinator.com/item?id=49624331\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T11:46:49.476Z",
+    "published": "Wed, 09 Sep 2026 10:47:53 +0000"
+  },
+  {
+    "url": "https://buymeacoffee.com/absolutesed/rethinking-erp-transformation-ai-era",
+    "title": "Rethinking ERP Transformation in the AI Era",
+    "description": "Article URL: https://buymeacoffee.com/absolutesed/rethinking-erp-transformation-ai-era\nComments URL: https://news.ycombinator.com/item?id=49624272\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T11:46:49.476Z",
+    "published": "Wed, 09 Sep 2026 10:39:50 +0000"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o",
+    "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+    "description": "Article URL: https://www.bbc.co.uk/news/articles/ckgwy1k42w4o\nComments URL: https://news.ycombinator.com/item?id=49624255\nPoints: 26\n# Comments: 46",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T11:46:49.476Z",
+    "published": "Wed, 09 Sep 2026 10:37:16 +0000"
+  },
+  {
+    "url": "https://remove-ai-watermark.com/",
+    "title": "Show HN: Check/strip AI watermarks (C2PA) and hidden Unicode from files",
+    "description": "Article URL: https://remove-ai-watermark.com/\nComments URL: https://news.ycombinator.com/item?id=49624208\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T11:46:49.476Z",
+    "published": "Wed, 09 Sep 2026 10:31:02 +0000"
+  },
+  {
+    "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+    "title": "How An AI math breakthrough ignited a controversy",
+    "description": "Article URL: https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy\nComments URL: https://news.ycombinator.com/item?id=49624163\nPoints: 79\n# Comments: 59",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T11:46:49.476Z",
+    "published": "Wed, 09 Sep 2026 10:25:41 +0000"
+  },
+  {
+    "url": "https://github.com/docbrain-ai/docbrain",
+    "title": "Show HN: How do you know your LLM giving accurate info?",
+    "description": "I spend a good amount of time chasing the LLM for evidence that its answer is actually accurate. To be honest, I can usually get there, but it works great for fresh work and gets messy on months-old work. And it's not just me; a lot of people have raised the same thing.So for the last 6 months I've",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T11:46:49.476Z",
+    "published": "Wed, 09 Sep 2026 10:22:22 +0000"
+  },
+  {
+    "url": "https://epoch.ai/data/ai-data-centers/map",
+    "title": "AI Data Center Map",
+    "description": "Article URL: https://epoch.ai/data/ai-data-centers/map\nComments URL: https://news.ycombinator.com/item?id=49624108\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T11:46:49.476Z",
+    "published": "Wed, 09 Sep 2026 10:18:56 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/hugging-faces-new-ml-intern-lets-anyone-run-machine-learning-experiments-through-a-simple-chat/",
+    "title": "Hugging Face's new ML Intern lets anyone run machine learning experiments through a simple chat",
+    "description": "Hugging Face launched \"ML Intern,\" an AI assistant built into its chatbot that lets users run machine learning experiments without any ML expertise.\nThe article Hugging Face&#039;s new ML Intern lets anyone run machine learning experiments through a simple chat appeared first on The Decoder",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-09T11:46:57.053Z",
+    "published": "Wed, 09 Sep 2026 10:38:41 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openais-millennium-proof-dispute-raises-the-question-of-whether-researchers-can-trust-ai-labs/",
+    "title": "OpenAI's millennium proof dispute raises the question of whether researchers can trust AI labs",
+    "description": "The fight over an AI-generated proof of a millennium problem is heating up. Mathematician Tristan Buckmaster accuses OpenAI of academic fraud, CEO Sam Altman rejects the allegations. Terence Tao warns that cases like this could \"reverse centuries of tradition in open science.\"\nThe article O",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-09T11:46:57.053Z",
+    "published": "Wed, 09 Sep 2026 10:27:37 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2253604/us-authorities-accuse-chinese-ai-companies-of-industrial-scale-campaigns-to-copy-american-models/",
+    "title": "US authorities accuse Chinese AI companies of industrial-scale campaigns to copy American models",
+    "description": "The NSA, CISA and the FBI have accused DeepSeek, Moonshot and other Chinese AI companies of \"distilling\" American frontier AI models.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-09T11:47:10.779Z",
+    "published": "Wed, 09 Sep 2026 11:12:22 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2253591/the-first-and-latest-star-wars-films-are-coming-to-imax-70mm-in-2027/",
+    "title": "The first and latest Star Wars films are coming to IMAX 70mm in 2027",
+    "description": "The IMAX 70mm screening of &#39;Star Wars&#39; will be a Holy Grail quest for fans of the original 1977 version.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-09T11:47:10.779Z",
+    "published": "Wed, 09 Sep 2026 10:36:47 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2251539/suno-trained-its-v6-ai-music-models-with-help-from-warner-and-bmg/",
+    "title": "Suno trained its v6 AI music models with help from Warner and BMG",
+    "description": "Suno&#39;s new AI music models are the formal start of the company&#39;s partnership with some big labels.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-09T11:47:10.779Z",
+    "published": "Wed, 09 Sep 2026 09:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2252525/how-to-watch-apple-event-september-9-2026/",
+    "title": "How to watch Apple unveil the new iPhones on September 9",
+    "description": "New Apple CEO John Ternus will be revealing new iPhone and Apple Watch models this week.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-09T11:47:10.779Z",
+    "published": "Wed, 09 Sep 2026 01:00:00 +0000"
   }
 ]
