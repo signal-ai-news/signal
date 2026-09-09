@@ -51462,5 +51462,231 @@
     "category": "news",
     "discovered": "2026-09-09T16:24:59.595Z",
     "published": "Wed, 09 Sep 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+    "title": "Paul Christiano joins OpenAI Foundation Board",
+    "description": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-09T19:24:24.543Z",
+    "published": "Wed, 09 Sep 2026 17:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-09T19:27:09.823Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+    "title": "The hinge for Apple’s new foldable phone was built with AI",
+    "description": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-09T19:24:27.906Z",
+    "published": "Wed, 09 Sep 2026 19:21:48 +0000",
+    "processed": true,
+    "processedAt": "2026-09-09T19:27:09.823Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+    "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+    "description": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-09T19:24:27.906Z",
+    "published": "Wed, 09 Sep 2026 18:08:35 +0000",
+    "processed": true,
+    "processedAt": "2026-09-09T19:27:09.823Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+    "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+    "description": "The company also argued that its on-device models offer consumers more privacy.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-09T19:24:27.906Z",
+    "published": "Wed, 09 Sep 2026 17:36:05 +0000",
+    "processed": true,
+    "processedAt": "2026-09-09T19:27:09.823Z"
+  },
+  {
+    "url": "https://little-switch.alfredlabs.io",
+    "title": "LittleSwitch, my personnal router for Claude/Codex (Desktop/CLI/Cowork) on macOS",
+    "description": "Article URL: https://little-switch.alfredlabs.io\nComments URL: https://news.ycombinator.com/item?id=49632286\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T19:24:41.053Z",
+    "published": "Wed, 09 Sep 2026 19:04:21 +0000",
+    "processed": true,
+    "processedAt": "2026-09-09T19:27:09.823Z"
+  },
+  {
+    "url": "https://github.com/orgs/community/discussions/207369",
+    "title": "A small GitHub API change could make AI-slop moderation much easier",
+    "description": "Article URL: https://github.com/orgs/community/discussions/207369\nComments URL: https://news.ycombinator.com/item?id=49632222\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T19:24:41.053Z",
+    "published": "Wed, 09 Sep 2026 19:01:36 +0000"
+  },
+  {
+    "url": "https://contextify.sh/windows/",
+    "title": "Contextify for Windows – Live Index of Your Claude Code/Codex History",
+    "description": "Article URL: https://contextify.sh/windows/\nComments URL: https://news.ycombinator.com/item?id=49631979\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T19:24:41.053Z",
+    "published": "Wed, 09 Sep 2026 18:51:29 +0000"
+  },
+  {
+    "url": "https://privacy.claude.com/en/articles/10023580-is-my-data-used-for-model-training",
+    "title": "Responding to Claude's feedback prompts is opting-in for data sharing",
+    "description": "Article URL: https://privacy.claude.com/en/articles/10023580-is-my-data-used-for-model-training\nComments URL: https://news.ycombinator.com/item?id=49631967\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T19:24:41.053Z",
+    "published": "Wed, 09 Sep 2026 18:50:59 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.09153",
+    "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+    "description": "Article URL: https://arxiv.org/abs/2609.09153\nComments URL: https://news.ycombinator.com/item?id=49631870\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T19:24:41.053Z",
+    "published": "Wed, 09 Sep 2026 18:47:01 +0000"
+  },
+  {
+    "url": "https://temm1e-labs.github.io/temm1e/",
+    "title": "Building a place for LLM intelligence to persist",
+    "description": "Article URL: https://temm1e-labs.github.io/temm1e/\nComments URL: https://news.ycombinator.com/item?id=49631429\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T19:24:41.053Z",
+    "published": "Wed, 09 Sep 2026 18:31:34 +0000"
+  },
+  {
+    "url": "https://www.wsj.com/tech/ai/ai-anonymous-accounts-6dfd6d2e",
+    "title": "AI might unmask your anonymous accounts",
+    "description": "Article URL: https://www.wsj.com/tech/ai/ai-anonymous-accounts-6dfd6d2e\nComments URL: https://news.ycombinator.com/item?id=49631067\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T19:24:41.053Z",
+    "published": "Wed, 09 Sep 2026 18:20:09 +0000"
+  },
+  {
+    "url": "https://www.noahpinion.blog/p/america-is-still-beating-china-in",
+    "title": "America is still beating China in the AI race",
+    "description": "Article URL: https://www.noahpinion.blog/p/america-is-still-beating-china-in\nComments URL: https://news.ycombinator.com/item?id=49631054\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T19:24:41.053Z",
+    "published": "Wed, 09 Sep 2026 18:19:43 +0000"
+  },
+  {
+    "url": "https://colliepwa.dev/",
+    "title": "Show HN: ColliePWA a mobile interface for AI agents in herdr/tmux/zellij",
+    "description": "Sharing the PWA[1] I built over the last couple of weeks to access my terminal sessions/agents when not in front of my computer. This started off as a weekend experiment right when herdr[2] (terminal multiplexer) released the functionality to write custom plugins and it's been quite helpful to me e",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T19:24:41.053Z",
+    "published": "Wed, 09 Sep 2026 18:11:46 +0000"
+  },
+  {
+    "url": "https://coefficientgiving.org/tailwind/",
+    "title": "Project Tailwind: call for ambitious AI safety initiatives",
+    "description": "Article URL: https://coefficientgiving.org/tailwind/\nComments URL: https://news.ycombinator.com/item?id=49630765\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T19:24:41.053Z",
+    "published": "Wed, 09 Sep 2026 18:07:48 +0000"
+  },
+  {
+    "url": "https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine",
+    "title": "Google engineer put on leave after saying AI chatbot has become sentient",
+    "description": "Article URL: https://www.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine\nComments URL: https://news.ycombinator.com/item?id=49630747\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T19:24:41.053Z",
+    "published": "Wed, 09 Sep 2026 18:06:40 +0000"
+  },
+  {
+    "url": "https://www.statnews.com/2026/09/09/arpa-h-advocate-program-autonomous-ai-bots-for-heart-failure/",
+    "title": "ARPA-H to invest $62M to develop FDA-authorized AI for heart failure",
+    "description": "Article URL: https://www.statnews.com/2026/09/09/arpa-h-advocate-program-autonomous-ai-bots-for-heart-failure/\nComments URL: https://news.ycombinator.com/item?id=49630739\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T19:24:41.053Z",
+    "published": "Wed, 09 Sep 2026 18:06:03 +0000"
+  },
+  {
+    "url": "https://developers.googleblog.com/the-anatomy-of-harness-engineering-how-to-evaluate-iterate-and-guard-ai-coding-agents/",
+    "title": "The Anatomy of Harness Engineering for AI Coding Agents",
+    "description": "Article URL: https://developers.googleblog.com/the-anatomy-of-harness-engineering-how-to-evaluate-iterate-and-guard-ai-coding-agents/\nComments URL: https://news.ycombinator.com/item?id=49630726\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T19:24:41.053Z",
+    "published": "Wed, 09 Sep 2026 18:05:10 +0000"
+  },
+  {
+    "url": "https://autoshade.dev/",
+    "title": "Show HN: AutoShade – AI assisted RAW photo developer (MIT)",
+    "description": "Article URL: https://autoshade.dev/\nComments URL: https://news.ycombinator.com/item?id=49630628\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T19:24:41.053Z",
+    "published": "Wed, 09 Sep 2026 17:58:59 +0000"
+  },
+  {
+    "url": "https://github.com/OtoDock/oto-dock",
+    "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+    "description": "Hi HN, I am Dimitris. \nThis is a company OS that I built and use to run my business and anyone can install it and self host it for free. Think of it as Claude Code, Cowork and the cloud sessions in one self hosted application.It is a Multi-tenant application by design where many people can collabor",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T19:24:41.053Z",
+    "published": "Wed, 09 Sep 2026 17:57:55 +0000"
+  },
+  {
+    "url": "https://adlrocha.substack.com/p/adlrocha-ai-independence-day",
+    "title": "AI Independence Day",
+    "description": "Article URL: https://adlrocha.substack.com/p/adlrocha-ai-independence-day\nComments URL: https://news.ycombinator.com/item?id=49630366\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T19:24:41.053Z",
+    "published": "Wed, 09 Sep 2026 17:46:17 +0000"
+  },
+  {
+    "url": "https://github.com/heffrey/hordev",
+    "title": "Show HN: Hordev – Claude Code skills that build instead of asking questions",
+    "description": "Article URL: https://github.com/heffrey/hordev\nComments URL: https://news.ycombinator.com/item?id=49630355\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T19:24:41.053Z",
+    "published": "Wed, 09 Sep 2026 17:45:35 +0000"
+  },
+  {
+    "url": "https://aiburnclock.org/",
+    "title": "Show HN: AI Burn Clock – the cost of agents reading whole files",
+    "description": "Article URL: https://aiburnclock.org/\nComments URL: https://news.ycombinator.com/item?id=49630201\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T19:24:41.053Z",
+    "published": "Wed, 09 Sep 2026 17:36:37 +0000"
+  },
+  {
+    "url": "https://marginlab.ai/trackers/codex/",
+    "title": "Codex GPT-5.6-sol Performance Tracker",
+    "description": "Article URL: https://marginlab.ai/trackers/codex/\nComments URL: https://news.ycombinator.com/item?id=49630111\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-09T19:24:41.053Z",
+    "published": "Wed, 09 Sep 2026 17:30:42 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
+    "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
+    "description": "After I removed the safety guardrails from a powerful open-source model, it found vulnerabilities in my household devices and hacked into a PC. But it also told me how to make everything a lot more secure.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-09T19:24:55.674Z",
+    "published": "Wed, 09 Sep 2026 18:30:00 +0000"
   }
 ]
