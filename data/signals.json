@@ -51245,5 +51245,222 @@
     "category": "news",
     "discovered": "2026-09-09T11:47:10.779Z",
     "published": "Wed, 09 Sep 2026 01:00:00 +0000"
+  },
+  {
+    "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+    "title": "Get ready for the game with new football features in Search",
+    "description": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-09-09T16:24:17.420Z",
+    "published": "Wed, 09 Sep 2026 16:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-09T16:27:06.746Z"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+    "title": "Recreating a 70-year love story frame by frame",
+    "description": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-09-09T16:24:17.420Z",
+    "published": "Wed, 09 Sep 2026 16:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-09T16:27:06.746Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-09-09T16:24:18.073Z",
+    "published": "Wed, 09 Sep 2026 15:36:24 GMT",
+    "processed": true,
+    "processedAt": "2026-09-09T16:27:06.746Z"
+  },
+  {
+    "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+    "title": "Superintelligence is coming. Should we let it?",
+    "description": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&#8217;s&#160;Hugging Face breach&#160;are&#160;demonstrating&#160;the potential dangers of deploying AI systems that are more capable than&#160;humans",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-09T16:24:19.146Z",
+    "published": "Wed, 09 Sep 2026 16:05:35 +0000",
+    "processed": true,
+    "processedAt": "2026-09-09T16:27:06.746Z"
+  },
+  {
+    "url": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
+    "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’",
+    "description": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&#8217;s&#160;Hugging Face breach&#160;are&#160;demonstrating&#160;the potential dangers of deploying AI systems that are more capable than&#160;humans",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-09T16:24:19.146Z",
+    "published": "Wed, 09 Sep 2026 15:50:13 +0000",
+    "processed": true,
+    "processedAt": "2026-09-09T16:27:06.746Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+    "title": "Viral AI assistant Instinct now has its own email address",
+    "description": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-09T16:24:19.146Z",
+    "published": "Wed, 09 Sep 2026 15:13:12 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+    "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+    "description": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-09T16:24:19.146Z",
+    "published": "Wed, 09 Sep 2026 15:02:47 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+    "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+    "description": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and after-school snacks,\" Shipt says.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-09T16:24:19.146Z",
+    "published": "Wed, 09 Sep 2026 14:51:45 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+    "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+    "description": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-09T16:24:19.146Z",
+    "published": "Wed, 09 Sep 2026 14:18:34 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+    "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+    "description": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-09T16:24:19.146Z",
+    "published": "Wed, 09 Sep 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+    "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+    "description": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-09T16:24:19.146Z",
+    "published": "Wed, 09 Sep 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
+    "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+    "description": "If you want to manufacture in space—and bring the products back again—there&#8217;s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups launching spacecraft that spend time in orbit before they return to Earth. But the vehicle that goes to",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-09T16:24:19.146Z",
+    "published": "Wed, 09 Sep 2026 12:30:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+    "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+    "description": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-09T16:24:19.146Z",
+    "published": "Wed, 09 Sep 2026 12:05:34 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
+    "title": "The Download: OpenAI’s turning point for math and a battery record",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What OpenAI’s latest controversy tells us about the future of math OpenAI says its agents have solved one of the most important open problems in mathe",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-09T16:24:20.226Z",
+    "published": "Wed, 09 Sep 2026 12:10:00 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/the-symmetry-that-breaks-neural-network-averaging/",
+    "title": "The Symmetry That Breaks Neural Network Averaging",
+    "description": "Understanding permutation symmetry in deep learning, and what it means for weight averaging and model merging\nThe post The Symmetry That Breaks Neural Network Averaging appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-09T16:24:42.296Z",
+    "published": "Wed, 09 Sep 2026 14:00:02 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/suno-launches-v6-music-models-built-with-warner-bmg-and-believe/",
+    "title": "Suno launches v6 music models built with Warner, BMG, and Believe",
+    "description": "Suno has unveiled a new AI music model generation, v6, in three versions, built together with Warner Music Group, BMG, and Believe. All older models are being shut down. Songs can now be partially changed through text commands or generated multimodally from text, audio, and images. The comp",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-09T16:24:43.978Z",
+    "published": "Wed, 09 Sep 2026 14:06:57 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-scientist-puts-the-odds-of-ai-destroying-humanity-above-ten-percent-this-decade/",
+    "title": "Anthropic scientist puts the odds of AI destroying humanity above ten percent this decade",
+    "description": "Jacob Coxon, a former pretraining researcher at OpenAI and Anthropic, has quit and accuses both companies of knowingly risking human extinction. Anthropic colleague Evan Hubinger puts the odds of a misaligned superintelligent AI wiping out humanity within the next decade at more than ten pe",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-09T16:24:43.978Z",
+    "published": "Wed, 09 Sep 2026 12:48:41 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/aws-is-using-qualcomm-for-ai-inference-while-qualcomm-uses-aws-bedrock-to-design-the-chips/",
+    "title": "AWS is using Qualcomm for AI inference while Qualcomm uses AWS Bedrock to design the chips",
+    "description": "Qualcomm is designing custom chips for AWS across multiple product generations, with a focus on AI inference.\nThe article AWS is using Qualcomm for AI inference while Qualcomm uses AWS Bedrock to design the chips appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-09T16:24:43.978Z",
+    "published": "Wed, 09 Sep 2026 12:27:42 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/chatgpt-images-2-5-faster-more-precise-but-not-the-same-for-everyone/",
+    "title": "ChatGPT Images 2.5: Faster, more precise, but not the same for everyone",
+    "description": "OpenAI is releasing two new image models with ChatGPT Images 2.5. Flare handles faster generation, Sunburst delivers more precise edits. It's still unclear which model ChatGPT users get and when. Our test offers the first hints on who actually benefits from the improvements.\nThe article Cha",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-09T16:24:43.978Z",
+    "published": "Wed, 09 Sep 2026 12:17:58 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
+    "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
+    "description": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-09T16:24:51.196Z",
+    "published": "Wed, 09 Sep 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2253767/anthropic-users-are-taking-the-company-to-court-over-max-subscription-terms/",
+    "title": "Anthropic users are taking the company to court over Max subscription terms",
+    "description": "A new class-action lawsuit accuses Anthropic of misleading advertising about Claude usage with its top-tier plan.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-09T16:24:59.595Z",
+    "published": "Wed, 09 Sep 2026 14:48:29 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2253622/instacart-ai-assistant-called-clementine/",
+    "title": "Instacart now has its own AI assistant called Clementine",
+    "description": "Instacart launches its own AI assistant that can make it easier to decide what to buy.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-09T16:24:59.595Z",
+    "published": "Wed, 09 Sep 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2251259/ways-use-gemini-for-travel-trip-planning/",
+    "title": "How to take full advantage of Gemini when planning your next trip",
+    "description": "You don&#39;t have to juggle all the little details of your next trip alone. Gemini, with it&#39;s Google parentage, can help you line it all up.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-09T16:24:59.595Z",
+    "published": "Wed, 09 Sep 2026 12:00:00 +0000"
   }
 ]
