@@ -11479,7 +11479,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-31T20:44:45.920Z",
-    "published": "Fri, 31 Jul 2026 16:42:21 GMT"
+    "published": "Fri, 31 Jul 2026 16:42:21 GMT",
+    "processed": true,
+    "processedAt": "2026-09-09T01:11:01.552Z"
   },
   {
     "url": "https://www.zdnet.com/article/motorola-moto-g-play-2024-deal/",
@@ -11488,7 +11490,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-07-31T20:44:45.920Z",
-    "published": "Fri, 31 Jul 2026 16:28:00 GMT"
+    "published": "Fri, 31 Jul 2026 16:28:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-09T01:11:01.552Z"
   },
   {
     "url": "https://www.engadget.com/2228152/snapchat-is-cracking-down-on-ai-slop-in-spotlight/",
@@ -11497,7 +11501,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-31T20:44:46.595Z",
-    "published": "Fri, 31 Jul 2026 19:11:08 +0000"
+    "published": "Fri, 31 Jul 2026 19:11:08 +0000",
+    "processed": true,
+    "processedAt": "2026-09-09T01:11:01.552Z"
   },
   {
     "url": "https://www.engadget.com/2228142/google-rolls-back-the-needless-ai-generation-tools-it-added-to-google-earth/",
@@ -50783,5 +50789,27 @@
     "category": "news",
     "discovered": "2026-09-08T22:56:09.649Z",
     "published": "Tue, 08 Sep 2026 22:00:00 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+    "title": "Why this month's Microsoft patch release is a doozy",
+    "description": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-09-09T01:08:27.870Z",
+    "published": "Tue, 08 Sep 2026 21:11:46 +0000",
+    "processed": true,
+    "processedAt": "2026-09-09T01:11:01.553Z"
+  },
+  {
+    "url": "https://www.engadget.com/2252811/major-changes-coming-apple-homekit-ios-27/",
+    "title": "What are the major changes coming to Apple HomeKit in iOS 27?",
+    "description": "iOS 27 isn&#39;t leaving out HomeKit and the Home app in its list of AI revamps and improvements.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-09T01:08:55.584Z",
+    "published": "Wed, 09 Sep 2026 00:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-09T01:11:01.553Z"
   }
 ]
