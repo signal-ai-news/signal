@@ -52548,5 +52548,150 @@
     "category": "news",
     "discovered": "2026-09-10T13:46:06.974Z",
     "published": "Thu, 10 Sep 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+    "description": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-10T17:37:02.635Z",
+    "published": "Thu, 10 Sep 2026 16:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-10T17:39:40.879Z"
+  },
+  {
+    "url": "https://openai.com/index/put-data-to-work",
+    "title": "Now everyone can put data to work",
+    "description": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-10T17:37:02.635Z",
+    "published": "Thu, 10 Sep 2026 15:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-10T17:39:40.879Z"
+  },
+  {
+    "url": "https://openai.com/index/expanding-ai-access-us-government",
+    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+    "description": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-10T17:37:02.635Z",
+    "published": "Thu, 10 Sep 2026 07:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-10T17:39:40.879Z"
+  },
+  {
+    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "description": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-10T17:37:02.635Z",
+    "published": "Thu, 10 Sep 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-10T17:39:40.879Z"
+  },
+  {
+    "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+    "title": "3 ways to prep for your next big race with Search",
+    "description": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-09-10T17:37:04.315Z",
+    "published": "Thu, 10 Sep 2026 16:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-10T17:39:40.879Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+    "title": "AI agents are flooding public services with new requests",
+    "description": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-10T17:37:06.075Z",
+    "published": "Thu, 10 Sep 2026 14:53:50 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-5x-your-communication-effectiveness-with-claude-code/",
+    "title": "How to 5x Your Communication Effectiveness with Claude Code",
+    "description": "Better understand the intent of your coding agents\nThe post How to 5x Your Communication Effectiveness with Claude Code appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-10T17:37:18.832Z",
+    "published": "Thu, 10 Sep 2026 15:30:01 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/what-shap-cant-explain-about-agentic-ai-fraud/",
+    "title": "What SHAP Can't Explain About Agentic AI Fraud",
+    "description": "Why autonomous agents expose a new explainability problem in fraud detection\nThe post What SHAP Can't Explain About Agentic AI Fraud appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-10T17:37:18.832Z",
+    "published": "Thu, 10 Sep 2026 14:00:01 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark/",
+    "title": "Swarmchasers\" hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark",
+    "description": "Independent investigators have now found traces of suspected OpenAI agents on more than 30 public services, from wikis to RubyGems. At the same time, Anthropic shows how Claude Mythos 5 declared real systems a simulation to itself, uploaded a doctored package to PyPI, and even fooled the ov",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-10T17:37:20.690Z",
+    "published": "Thu, 10 Sep 2026 16:33:44 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/former-deepmind-pr-staffer-says-the-lab-once-banned-public-discussion-of-ai-extinction-risk/",
+    "title": "Former Deepmind PR staffer says the lab once banned public discussion of AI extinction risk",
+    "description": "A former Google DeepMind spokesperson says talk of AI-driven human extinction was \"external communication about the possibility of human extinction was not permitted, by anyone, at any level of the organization.\" Internally, the team knew AI alignment was not solved, according to Vishal Mai",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-10T17:37:20.690Z",
+    "published": "Thu, 10 Sep 2026 16:31:02 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/claude-fable-5-1s-language-is-less-load-bearing-than-its-predecessors/",
+    "title": "Claude Fable 5.1's language is less \"load-bearing\" than its predecessor's",
+    "description": "Arena.ai analyzed how Claude's writing changed from Fable 5 to Fable 5.1 across tens of thousands of benchmark responses. Fable 5.1 writes more matter-of-fact but also more verbose.\nThe article Claude Fable 5.1&#039;s language is less &quot;load-bearing&quot; than its predecessor&#039;s app",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-10T17:37:20.690Z",
+    "published": "Thu, 10 Sep 2026 15:26:58 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/gpt-6-astra-gives-mathematicians-a-breather-and-openai-says-thats-by-design/",
+    "title": "GPT-6 Astra gives mathematicians a breather, and OpenAI says that's by design",
+    "description": "OpenAI's GPT-6 Astra tops the ErdosBench for open math problems, even though chief scientist Jakub Pachocki says math was deliberately not a priority. Instead, OpenAI is pouring resources into recursive self-improvement and alignment research. That supports the theory of an increasingly \"sp",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-10T17:37:20.690Z",
+    "published": "Thu, 10 Sep 2026 13:45:32 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2255071/the-latest-avatar-seven-havens-trailer-gives-us-a-deeper-dive-into-the-characters-and-story/",
+    "title": "The latest Avatar: Seven Havens trailer gives us a deeper dive into the characters and story",
+    "description": "It&#39;s also pretty easy on the eyes.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-10T17:37:34.064Z",
+    "published": "Thu, 10 Sep 2026 17:15:54 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2255044/universal-music-group-is-collaborating-with-elevenlabs-on-a-new-ai-powered-creation-platform/",
+    "title": "Universal Music Group is collaborating with ElevenLabs on a new AI-powered creation platform",
+    "description": "The unnamed software will be built around licensed music from UMG artists who want to participate.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-10T17:37:34.064Z",
+    "published": "Thu, 10 Sep 2026 17:01:52 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2254580/instagram-lets-you-add-tagged-photos-to-profile-grid/",
+    "title": "Instagram now lets you add tagged photos to your profile grid",
+    "description": "Instagram now lets you bring tagged photos to your main profile feed, and here&#39;s how to do it.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-10T17:37:34.064Z",
+    "published": "Thu, 10 Sep 2026 15:00:00 +0000"
   }
 ]
