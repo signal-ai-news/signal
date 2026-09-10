@@ -52793,5 +52793,242 @@
     "category": "news",
     "discovered": "2026-09-10T20:44:11.102Z",
     "published": "Thu, 10 Sep 2026 18:25:12 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+    "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+    "description": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-10T23:02:51.714Z",
+    "published": "Thu, 10 Sep 2026 21:51:59 +0000",
+    "processed": true,
+    "processedAt": "2026-09-10T23:05:29.199Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+    "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+    "description": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-10T23:02:51.714Z",
+    "published": "Thu, 10 Sep 2026 20:59:51 +0000",
+    "processed": true,
+    "processedAt": "2026-09-10T23:05:29.199Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+    "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+    "description": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-10T23:02:51.714Z",
+    "published": "Thu, 10 Sep 2026 20:57:30 +0000",
+    "processed": true,
+    "processedAt": "2026-09-10T23:05:29.199Z"
+  },
+  {
+    "url": "https://twitter.com/sighjith/status/2098147463114932696",
+    "title": "Show HN: Papiers.ai, a new workspace for reading and research",
+    "description": "Hey HN, I built http://papiers.ai, a new workspace for everything you read.As AI gets better at writing, there will be far more worth reading, even in technical domains like scientific research.Our time and attention won’t grow at the same rate, so software should help us make sense of more informa",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-10T23:02:59.284Z",
+    "published": "Thu, 10 Sep 2026 22:42:17 +0000",
+    "processed": true,
+    "processedAt": "2026-09-10T23:05:29.199Z"
+  },
+  {
+    "url": "https://nypost.com/2026/08/14/business/anthropic-ceos-wife-once-asked-jeffrey-epstein-to-fund-porn-venture-now-she-helps-steer-the-claude-ai-empire/",
+    "title": "Anthropic CEOs wife once asked Epstein to fund porn venture – now steers Claude",
+    "description": "Article URL: https://nypost.com/2026/08/14/business/anthropic-ceos-wife-once-asked-jeffrey-epstein-to-fund-porn-venture-now-she-helps-steer-the-claude-ai-empire/\nComments URL: https://news.ycombinator.com/item?id=49651084\nPoints: 9\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-10T23:02:59.284Z",
+    "published": "Thu, 10 Sep 2026 22:38:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-10T23:05:29.199Z"
+  },
+  {
+    "url": "https://medium.com/@Koukyosyumei/top-20-ai-agent-pen-testing-tools-for-2026-the-ultimate-guide-40eb18d59138",
+    "title": "Top 20 AI Agent Pen-Testing Tools for 2026: The Ultimate Guide",
+    "description": "Article URL: https://medium.com/@Koukyosyumei/top-20-ai-agent-pen-testing-tools-for-2026-the-ultimate-guide-40eb18d59138\nComments URL: https://news.ycombinator.com/item?id=49650982\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-10T23:02:59.284Z",
+    "published": "Thu, 10 Sep 2026 22:27:10 +0000"
+  },
+  {
+    "url": "https://www.theguardian.com/technology/2026/sep/09/anthropic-researchers-ai-human-extinction",
+    "title": "Anthropic researchers say AI could cause human extinction by 2030",
+    "description": "Article URL: https://www.theguardian.com/technology/2026/sep/09/anthropic-researchers-ai-human-extinction\nComments URL: https://news.ycombinator.com/item?id=49650937\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-10T23:02:59.284Z",
+    "published": "Thu, 10 Sep 2026 22:22:30 +0000"
+  },
+  {
+    "url": "https://www.quickgamescheduler.com/",
+    "title": "QuickGameScheduler – Free Equity-balanced round-robin scheduler with AI edits",
+    "description": "Article URL: https://www.quickgamescheduler.com/\nComments URL: https://news.ycombinator.com/item?id=49650720\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-10T23:02:59.284Z",
+    "published": "Thu, 10 Sep 2026 22:02:24 +0000"
+  },
+  {
+    "url": "https://graphql.org/blog/2025-07-03-graphql-supercharging-ai/",
+    "title": "GraphQL: Supercharging AI",
+    "description": "Article URL: https://graphql.org/blog/2025-07-03-graphql-supercharging-ai/\nComments URL: https://news.ycombinator.com/item?id=49650690\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-10T23:02:59.284Z",
+    "published": "Thu, 10 Sep 2026 21:59:43 +0000"
+  },
+  {
+    "url": "https://www.polskieradio.pl/395/7991/artykul/3729785,robots-stage-protest-demanding-stricter-ai-rules-in-poland",
+    "title": "Robots stage 'protest' demanding stricter AI rules in Poland",
+    "description": "Article URL: https://www.polskieradio.pl/395/7991/artykul/3729785,robots-stage-protest-demanding-stricter-ai-rules-in-poland\nComments URL: https://news.ycombinator.com/item?id=49650597\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-10T23:02:59.284Z",
+    "published": "Thu, 10 Sep 2026 21:49:25 +0000"
+  },
+  {
+    "url": "https://codingsahayi.github.io/",
+    "title": "Coding Sahayi – Local-first autonomous AI coding IDE (WinUI 3 and Ollama)",
+    "description": "Article URL: https://codingsahayi.github.io/\nComments URL: https://news.ycombinator.com/item?id=49650580\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-10T23:02:59.284Z",
+    "published": "Thu, 10 Sep 2026 21:47:37 +0000"
+  },
+  {
+    "url": "https://cfo.ai",
+    "title": "Cfo.ai",
+    "description": "Article URL: https://cfo.ai\nComments URL: https://news.ycombinator.com/item?id=49650547\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-10T23:02:59.284Z",
+    "published": "Thu, 10 Sep 2026 21:44:53 +0000"
+  },
+  {
+    "url": "https://keenen.xyz/are-we-being-gaslit-by-ai/",
+    "title": "Am I Being Gaslit by AI?",
+    "description": "Article URL: https://keenen.xyz/are-we-being-gaslit-by-ai/\nComments URL: https://news.ycombinator.com/item?id=49650475\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-10T23:02:59.284Z",
+    "published": "Thu, 10 Sep 2026 21:35:37 +0000"
+  },
+  {
+    "url": "https://gist.github.com/h4rm0n1c/0bfec331a67b9070b1de2db51a25d474",
+    "title": "AI Hack for Freedom or: How Democrats stopped worrying and started to love AI",
+    "description": "Article URL: https://gist.github.com/h4rm0n1c/0bfec331a67b9070b1de2db51a25d474\nComments URL: https://news.ycombinator.com/item?id=49650342\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-10T23:02:59.284Z",
+    "published": "Thu, 10 Sep 2026 21:24:12 +0000"
+  },
+  {
+    "url": "https://www.cnn.com/2026/09/10/us/video/former-anthropic-researcher-warns-ai-could-kill-us-all-anderson-cooper-open-ai-gemini-jacob-coxon-hnk-digvid-vrtc-dirty",
+    "title": "Former Anthropic researcher warns AI could 'kill us all' [video]",
+    "description": "Article URL: https://www.cnn.com/2026/09/10/us/video/former-anthropic-researcher-warns-ai-could-kill-us-all-anderson-cooper-open-ai-gemini-jacob-coxon-hnk-digvid-vrtc-dirty\nComments URL: https://news.ycombinator.com/item?id=49650335\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-10T23:02:59.284Z",
+    "published": "Thu, 10 Sep 2026 21:23:28 +0000"
+  },
+  {
+    "url": "https://www.johndcook.com/blog/2026/09/09/ai-multiplier/",
+    "title": "AI Is an Intelligence Multiplier",
+    "description": "Article URL: https://www.johndcook.com/blog/2026/09/09/ai-multiplier/\nComments URL: https://news.ycombinator.com/item?id=49650319\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-10T23:02:59.284Z",
+    "published": "Thu, 10 Sep 2026 21:22:30 +0000"
+  },
+  {
+    "url": "https://www.portotheme.com/smart-learning-for-web-developers-how-ai-is-changing-the-way-we-master-new-frameworks-and-docs/",
+    "title": "Smart Learning for Developers: How AI Is Changing the Way We Master New Things",
+    "description": "Article URL: https://www.portotheme.com/smart-learning-for-web-developers-how-ai-is-changing-the-way-we-master-new-frameworks-and-docs/\nComments URL: https://news.ycombinator.com/item?id=49650257\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-10T23:02:59.284Z",
+    "published": "Thu, 10 Sep 2026 21:15:49 +0000"
+  },
+  {
+    "url": "https://stitchwink.com",
+    "title": "Show HN: Stitchwink – Cross-stitch pattern making with AI",
+    "description": "My wife has been cross stitching since she was a child and I wanted to make a tool where she could generate her own custom patterns: https://stitchwink.com/You can try chatgpt or other AI tools but the problem is that they don't create real patterns. They look good at first glance but it's not actu",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-10T23:02:59.284Z",
+    "published": "Thu, 10 Sep 2026 21:15:34 +0000"
+  },
+  {
+    "url": "https://nochan.net/b/Internet-Crap/20260910-Asked-Claude-For-A-Checklist/",
+    "title": "The AI Takeover Checklist: A Devil's Advocate Audit",
+    "description": "Article URL: https://nochan.net/b/Internet-Crap/20260910-Asked-Claude-For-A-Checklist/\nComments URL: https://news.ycombinator.com/item?id=49650204\nPoints: 2\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-10T23:02:59.284Z",
+    "published": "Thu, 10 Sep 2026 21:09:41 +0000"
+  },
+  {
+    "url": "https://thesolo.ai/blog/listmycar-case-study",
+    "title": "From Idea to Operating Business: How Solo Runs Listmycar.ai",
+    "description": "Article URL: https://thesolo.ai/blog/listmycar-case-study\nComments URL: https://news.ycombinator.com/item?id=49650151\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-10T23:02:59.284Z",
+    "published": "Thu, 10 Sep 2026 21:03:54 +0000"
+  },
+  {
+    "url": "https://www.governance.fyi/p/how-japan-can-turn-ai-demand-into",
+    "title": "Japan can turn AI demand into industrial strength",
+    "description": "Article URL: https://www.governance.fyi/p/how-japan-can-turn-ai-demand-into\nComments URL: https://news.ycombinator.com/item?id=49650147\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-10T23:02:59.284Z",
+    "published": "Thu, 10 Sep 2026 21:03:14 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+    "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+    "description": "Article URL: https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/\nComments URL: https://news.ycombinator.com/item?id=49650135\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-10T23:02:59.284Z",
+    "published": "Thu, 10 Sep 2026 21:02:18 +0000",
+    "processed": true,
+    "processedAt": "2026-09-10T23:05:29.199Z"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
+    "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+    "description": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app.\nThe post GitHub Copilot app for Beginners: Using the diff, terminal, and browser appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-09-10T23:03:14.263Z",
+    "published": "Thu, 10 Sep 2026 21:31:19 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2255569/ca-governor-signs-landmark-laws-on-youth-use-of-social-media-and-ai-chatbots/",
+    "title": "CA governor signs 'landmark' laws on youth use of social media and AI chatbots",
+    "description": "They're aimed at protecting minors, but the rules are not universally supported.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-10T23:03:23.024Z",
+    "published": "Thu, 10 Sep 2026 22:45:45 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2255473/anthropic-caught-scientists-using-claude-to-further-biological-weapon-research/",
+    "title": "Anthropic caught scientists using Claude to further biological weapon research",
+    "description": "Anthropic produced an extensive collection of case studies covering the ways its current AI models have been misused.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-10T23:03:23.024Z",
+    "published": "Thu, 10 Sep 2026 21:04:54 +0000"
   }
 ]
