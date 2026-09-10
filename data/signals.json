@@ -51941,5 +51941,69 @@
     "category": "news",
     "discovered": "2026-09-09T21:53:41.484Z",
     "published": "Wed, 09 Sep 2026 17:35:18 +0000"
+  },
+  {
+    "url": "https://openai.com/index/ai-policy-window",
+    "title": "The AI policy window is open. We need to act.",
+    "description": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-10T00:00:06.744Z",
+    "published": "Wed, 09 Sep 2026 13:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-10T00:02:54.424Z"
+  },
+  {
+    "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+    "title": "GPT-6 Astra: The next generation in intelligence for work",
+    "description": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-10T00:00:06.744Z",
+    "published": "Wed, 09 Sep 2026 11:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-10T00:02:54.424Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+    "title": "OpenAI adds a prominent AI doomer to its board of directors",
+    "description": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-10T00:00:10.860Z",
+    "published": "Wed, 09 Sep 2026 22:25:22 +0000",
+    "processed": true,
+    "processedAt": "2026-09-10T00:02:54.424Z"
+  },
+  {
+    "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+    "title": "4 groups caught using the same Chrome and Windows exploit kit",
+    "description": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-09-10T00:00:11.461Z",
+    "published": "Wed, 09 Sep 2026 20:55:02 +0000",
+    "processed": true,
+    "processedAt": "2026-09-10T00:02:54.424Z"
+  },
+  {
+    "url": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
+    "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
+    "description": "Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left to make their systems safe.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-10T00:00:41.654Z",
+    "published": "Wed, 09 Sep 2026 22:11:55 +0000",
+    "processed": true,
+    "processedAt": "2026-09-10T00:02:54.424Z"
+  },
+  {
+    "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
+    "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
+    "description": "The exact circumstances surrounding the changes aren&#39;t clear, but Meta execs have accidentally tagged the band instead of their AI agent.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-10T00:00:48.689Z",
+    "published": "Wed, 09 Sep 2026 22:52:49 +0000"
   }
 ]
