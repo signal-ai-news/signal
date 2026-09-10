@@ -52385,5 +52385,168 @@
     "category": "community",
     "discovered": "2026-09-10T09:05:34.731Z",
     "published": "Thu, 10 Sep 2026 04:46:03 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
+    "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinatin",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-10T13:45:40.730Z",
+    "published": "Thu, 10 Sep 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-10T13:48:12.965Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+    "title": "Powering AI is an architecture problem",
+    "description": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#8217;t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-10T13:45:40.730Z",
+    "published": "Thu, 10 Sep 2026 11:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-10T13:48:12.965Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
+    "title": "This road map could help us decide whether to deploy solar geoengineering",
+    "description": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Review can reveal. Scientists have now spent half a century exploring the possibil",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-10T13:45:40.730Z",
+    "published": "Thu, 10 Sep 2026 11:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-10T13:48:12.965Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
+    "title": "Can the US battery market untangle from China?",
+    "description": "The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help store energy from intermittent renewables like wind and solar. Crucially, this is all happening with",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-10T13:45:40.730Z",
+    "published": "Thu, 10 Sep 2026 10:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-10T13:48:12.965Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
+    "title": "Healthcare AI’s next test is integration",
+    "description": "The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly capable of processing long clinical records, interpreting complex terminology, comparing documentation against ev",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-10T13:45:40.730Z",
+    "published": "Thu, 10 Sep 2026 08:58:01 +0000",
+    "processed": true,
+    "processedAt": "2026-09-10T13:48:12.965Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/optimizing-llm-inference-costs-in-multi-agent-systems-with-adaptive-model-routing/",
+    "title": "Optimizing LLM Inference Costs in Multi-Agent Systems with Adaptive Model Routing",
+    "description": "Moving from static model assignment to intelligent, task-level LLM selection.\nThe post Optimizing LLM Inference Costs in Multi-Agent Systems with Adaptive Model Routing appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-10T13:45:52.209Z",
+    "published": "Thu, 10 Sep 2026 12:30:01 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/who-questions-what-works-when-should-we-retest-our-assumptions/",
+    "title": "Who Questions What Works: When Should We Retest Our Assumptions?",
+    "description": "A model is only as reliable as the assumptions behind it\nThe post Who Questions What Works: When Should We Retest Our Assumptions? appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-10T13:45:52.209Z",
+    "published": "Thu, 10 Sep 2026 11:00:01 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents/",
+    "title": "New Deepseek model V4.1-Flash cuts memory needs for AI agents",
+    "description": "Deepseek releases V4.1-Flash, a multimodal model with 552 billion parameters that cuts KV cache memory to a quarter of its predecessor. On the DeepSWE coding benchmark, it narrowly beats Opus 5 and GPT-5.6 Sol, even though only 16 billion parameters are active per token. The model ships und",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-10T13:45:54.050Z",
+    "published": "Thu, 10 Sep 2026 12:40:51 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/muse-can-shop-write-emails-and-negotiate-prices-for-users-all-through-whatsapp/",
+    "title": "Muse can shop, write emails, and negotiate prices for users, all through WhatsApp",
+    "description": "Meta unveils Muse, an AI agent that books travel, handles purchases, and sends emails through WhatsApp, complete with a payment feature that runs through Stripe's Link. That puts Meta ahead of OpenAI, which stopped its direct checkout feature in ChatGPT. A separate security agent called Sen",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-10T13:45:54.050Z",
+    "published": "Thu, 10 Sep 2026 12:27:18 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/nvidia-and-palantir-team-up-to-run-supply-chains-with-ai-starting-with-nvidias-own-million-part-operation/",
+    "title": "Nvidia and Palantir team up to run supply chains with AI, starting with Nvidia's own million-part operation",
+    "description": "Nvidia and Palantir want to run supply chains with AI.\nThe article Nvidia and Palantir team up to run supply chains with AI, starting with Nvidia&#039;s own million-part operation appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-10T13:45:54.050Z",
+    "published": "Thu, 10 Sep 2026 12:23:16 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/ai-safety-panic-goes-mainstream-after-anthropic-researchers-warnings-land-on-cnn-and-fox-news/",
+    "title": "AI safety panic goes mainstream after Anthropic researcher's warnings land on CNN and Fox News",
+    "description": "Jacob Coxon, a departing Anthropic researcher, warned on CNN that self-improving AI poses an existential threat to humanity. Safety researchers at Anthropic and OpenAI share his views, and US politicians and Joe Rogan have picked up the topic. But cultural and financial interests are also a",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-10T13:45:54.050Z",
+    "published": "Thu, 10 Sep 2026 10:31:20 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/top-ai-spenders-cut-per-employee-costs-by-nearly-10-percent-in-august/",
+    "title": "Top AI spenders cut per-employee costs by nearly 10 percent in August",
+    "description": "The Ramp AI Index for September 2026 shows AI spending per employee among the top 1 percent of US companies fell nearly 10 percent in August. The price per million tokens has dropped 41 percent since March 2026, and companies are actively shifting usage away from expensive frontier models t",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-10T13:45:54.050Z",
+    "published": "Thu, 10 Sep 2026 09:34:21 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
+    "title": "Everything New You Can Do With Siri AI",
+    "description": "When iOS 27 arrives, it will bring with it a fully revamped assistant for your iPhone.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-10T13:46:00.408Z",
+    "published": "Thu, 10 Sep 2026 10:30:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
+    "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online",
+    "description": "InquiryIQ, a previously unreported prototype, tested a model from xAI, maker of Grok, to surface associates, social accounts, and other information about people identified through Clearview.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-10T13:46:00.408Z",
+    "published": "Thu, 10 Sep 2026 10:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2254427/you-can-now-plan-irl-events-on-snapchat/",
+    "title": "You can now plan IRL events on Snapchat",
+    "description": "Snapchat Plans lets you organize IRL gatherings, though it&#39;s missing one seemingly obvious detail.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-10T13:46:06.974Z",
+    "published": "Thu, 10 Sep 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2254569/nasa-ibm-ai-model-moon/",
+    "title": "NASA and IBM made an AI model for exploring the Moon",
+    "description": "NASA and IBM&#39;s latest collaboration is an AI model of the moon made for the Artemis era.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-10T13:46:06.974Z",
+    "published": "Thu, 10 Sep 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2252843/ios-27-iphone-airpods-gymkit-compatibility-explained/",
+    "title": "iOS 27 brings GymKit to iPhone and AirPods, but what does it actually do?",
+    "description": "GymKit is a great idea that has never been fully realized. Now, it doesn&#39;t require an Apple Watch to take advantage of.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-10T13:46:06.974Z",
+    "published": "Thu, 10 Sep 2026 12:00:00 +0000"
   }
 ]
