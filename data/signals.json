@@ -52693,5 +52693,105 @@
     "category": "news",
     "discovered": "2026-09-10T17:37:34.064Z",
     "published": "Thu, 10 Sep 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+    "title": "Introducing ChatGPT for Financial Services",
+    "description": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-10T20:43:43.387Z",
+    "published": "Thu, 10 Sep 2026 07:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-10T20:46:17.029Z"
+  },
+  {
+    "url": "https://openai.com/index/introducing-the-agents-api",
+    "title": "Introducing the Agents API",
+    "description": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-10T20:43:43.387Z",
+    "published": "Thu, 10 Sep 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-10T20:46:17.029Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+    "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+    "description": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-10T20:43:46.534Z",
+    "published": "Thu, 10 Sep 2026 19:50:04 +0000",
+    "processed": true,
+    "processedAt": "2026-09-10T20:46:17.029Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+    "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+    "description": "Come inside the mind of a bot trying to convince the internet it's human.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-10T20:43:46.534Z",
+    "published": "Thu, 10 Sep 2026 17:54:44 +0000",
+    "processed": true,
+    "processedAt": "2026-09-10T20:46:17.029Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+    "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+    "description": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-10T20:43:46.534Z",
+    "published": "Thu, 10 Sep 2026 17:45:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-10T20:46:17.029Z"
+  },
+  {
+    "url": "https://the-decoder.com/openais-gpt-live-1-api-lets-developers-build-apps-that-talk-and-listen-at-the-same-time/",
+    "title": "OpenAI's GPT-Live-1 API lets developers build apps that talk and listen at the same time",
+    "description": "OpenAI releases GPT-Live-1 as a developer API. The full-duplex speech model scores 80.1 percent in interactivity tests, up from 45.4 percent for its predecessor. At $0.05 per minute, it's not cheap.\nThe article OpenAI&#039;s GPT-Live-1 API lets developers build apps that talk and listen at",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-10T20:43:58.577Z",
+    "published": "Thu, 10 Sep 2026 17:47:35 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
+    "title": "Is AI Actually Going to Kill Us All?",
+    "description": "This week on “Uncanny Valley,” we dig into a former Anthropic researcher’s AI doomsday warning, the latest upgrades from Apple’s event, and the census report that claimed Trump won the 2020 election.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-10T20:44:05.067Z",
+    "published": "Thu, 10 Sep 2026 20:30:37 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2255399/dont-buy-the-regular-airpods-5/",
+    "title": "Don't buy the 'regular' AirPods 5",
+    "description": "The first time you need to adjust volume, you'll wish you'd spent that extra $20.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-10T20:44:11.102Z",
+    "published": "Thu, 10 Sep 2026 20:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2255197/a-native-gemini-app-is-finally-available-for-windows-pcs/",
+    "title": "A native Gemini app is finally available for Windows PCs",
+    "description": "There&#39;s a keyboard shortcut to open it up, just like the Mac version.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-10T20:44:11.102Z",
+    "published": "Thu, 10 Sep 2026 18:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2255188/how-to-watch-the-flame-fatales-2026-speedrunning-marathon/",
+    "title": "How to watch the Flame Fatales 2026 speedrunning marathon",
+    "description": "The fundraiser for Malala Fund runs September 13-19.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-10T20:44:11.102Z",
+    "published": "Thu, 10 Sep 2026 18:25:12 +0000"
   }
 ]
