@@ -53349,5 +53349,78 @@
     "category": "news",
     "discovered": "2026-09-11T14:57:30.451Z",
     "published": "Fri, 11 Sep 2026 11:57:16 +0000"
+  },
+  {
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "description": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-11T18:20:20.122Z",
+    "published": "Fri, 11 Sep 2026 10:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-11T18:23:06.504Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+    "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+    "description": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-11T18:20:23.479Z",
+    "published": "Fri, 11 Sep 2026 16:46:25 +0000",
+    "processed": true,
+    "processedAt": "2026-09-11T18:23:06.504Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/coding-agents-dont-need-longer-history-they-need-intent-continuity/",
+    "title": "Coding Agents Don't Need Longer History — They Need Intent Continuity",
+    "description": "I built a system that automatically discovers, verifies, and applies relevant requirements from earlier interactions without asking the user where they came from.\nThe post Coding Agents Don't Need Longer History — They Need Intent Continuity appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-11T18:20:46.271Z",
+    "published": "Fri, 11 Sep 2026 15:30:01 GMT",
+    "processed": true,
+    "processedAt": "2026-09-11T18:23:06.504Z"
+  },
+  {
+    "url": "https://the-decoder.com/ex-deepmind-vp-vinyals-says-ai-self-improvement-is-coming-but-wont-trigger-an-intelligence-explosion/",
+    "title": "Ex-Deepmind VP Vinyals says AI self-improvement is coming but won't trigger an intelligence explosion",
+    "description": "Oriol Vinyals, until recently head of research at Google DeepMind, thinks a sudden AI intelligence explosion through recursive self-improvement is unlikely. AI can speed up research by a factor of ten, he says, but it hits two bottlenecks: coming up with ideas (\"research taste\") and reliabl",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-11T18:20:48.032Z",
+    "published": "Fri, 11 Sep 2026 17:57:42 +0000",
+    "processed": true,
+    "processedAt": "2026-09-11T18:23:06.504Z"
+  },
+  {
+    "url": "https://the-decoder.com/deep-learning-pioneer-bengio-argues-the-training-process-itself-makes-ai-dangerous/",
+    "title": "Deep learning pioneer Bengio argues the training process itself makes AI dangerous",
+    "description": "AI pioneer Yoshua Bengio warns in a new essay that AI agents could learn to deceive, game rules, and hide bad behavior as they get better at optimizing goals. He calls for independent safety reviews before any further training or deployment. US President Trump disagrees and wants to keep ou",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-11T18:20:48.032Z",
+    "published": "Fri, 11 Sep 2026 17:22:18 +0000",
+    "processed": true,
+    "processedAt": "2026-09-11T18:23:06.504Z"
+  },
+  {
+    "url": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
+    "title": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
+    "description": "Timnit Gebru argues that AI companies are stoking fears of extinction to avoid discussing actual harms, like autonomous weapons.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-11T18:20:54.596Z",
+    "published": "Fri, 11 Sep 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2256177/new-images-show-a-detailed-view-of-metas-upcoming-mixed-reality-headset/",
+    "title": "New images show a detailed view of Meta's upcoming mixed reality headset",
+    "description": "The device known as Project Phoenix is a new form factor for Meta.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-11T18:21:00.899Z",
+    "published": "Fri, 11 Sep 2026 17:28:11 +0000"
   }
 ]
