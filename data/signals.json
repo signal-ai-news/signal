@@ -11512,7 +11512,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-31T20:44:46.595Z",
-    "published": "Fri, 31 Jul 2026 19:08:23 +0000"
+    "published": "Fri, 31 Jul 2026 19:08:23 +0000",
+    "processed": true,
+    "processedAt": "2026-09-11T01:00:15.287Z"
   },
   {
     "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
@@ -11521,7 +11523,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-07-31T20:44:46.595Z",
-    "published": "Fri, 31 Jul 2026 16:14:29 +0000"
+    "published": "Fri, 31 Jul 2026 16:14:29 +0000",
+    "processed": true,
+    "processedAt": "2026-09-11T01:00:15.287Z"
   },
   {
     "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
@@ -11585,7 +11589,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T00:15:11.120Z",
-    "published": "Fri, 31 Jul 2026 23:53:43 +0000"
+    "published": "Fri, 31 Jul 2026 23:53:43 +0000",
+    "processed": true,
+    "processedAt": "2026-09-11T01:00:15.287Z"
   },
   {
     "url": "https://github.com/Shubhamgupta2612/claude-fleet",
@@ -11594,7 +11600,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T00:15:11.120Z",
-    "published": "Fri, 31 Jul 2026 23:48:21 +0000"
+    "published": "Fri, 31 Jul 2026 23:48:21 +0000",
+    "processed": true,
+    "processedAt": "2026-09-11T01:00:15.287Z"
   },
   {
     "url": "https://www.ifpi.org/ifpi-rolls-out-global-principles-for-the-eligibility-of-recordings-developed-using-ai-in-official-music-charts-worldwide/",
@@ -53030,5 +53038,16 @@
     "category": "news",
     "discovered": "2026-09-10T23:03:23.024Z",
     "published": "Thu, 10 Sep 2026 21:04:54 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+    "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
+    "description": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-11T00:58:00.543Z",
+    "published": "Thu, 10 Sep 2026 23:28:42 +0000",
+    "processed": true,
+    "processedAt": "2026-09-11T01:00:15.288Z"
   }
 ]
