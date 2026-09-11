@@ -53123,5 +53123,231 @@
     "category": "news",
     "discovered": "2026-09-11T11:01:47.421Z",
     "published": "Fri, 11 Sep 2026 09:00:00 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+    "title": "The Download: biotech’s future and cheaper, cleaner steel",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35 Innovators Under 35, a list of some of the bri",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-11T14:56:57.464Z",
+    "published": "Fri, 11 Sep 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-11T14:59:36.993Z"
+  },
+  {
+    "url": "https://github.com/autonet-code/node",
+    "title": "Autonet, a self-sufficient economy for AI and human agents",
+    "description": "Article URL: https://github.com/autonet-code/node\nComments URL: https://news.ycombinator.com/item?id=49659553\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-11T14:57:10.215Z",
+    "published": "Fri, 11 Sep 2026 14:55:34 +0000",
+    "processed": true,
+    "processedAt": "2026-09-11T14:59:36.993Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=N5YDkQ6oFcE",
+    "title": "Lehi, Utah AI Railroad Museum [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=N5YDkQ6oFcE\nComments URL: https://news.ycombinator.com/item?id=49659529\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-11T14:57:10.215Z",
+    "published": "Fri, 11 Sep 2026 14:54:10 +0000",
+    "processed": true,
+    "processedAt": "2026-09-11T14:59:36.993Z"
+  },
+  {
+    "url": "https://github.com/ringlochid/oh-my-subagents",
+    "title": "Show HN: Durable subagents for Codex and Claude users",
+    "description": "Article URL: https://github.com/ringlochid/oh-my-subagents\nComments URL: https://news.ycombinator.com/item?id=49659415\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-11T14:57:10.215Z",
+    "published": "Fri, 11 Sep 2026 14:48:06 +0000",
+    "processed": true,
+    "processedAt": "2026-09-11T14:59:36.993Z"
+  },
+  {
+    "url": "https://github.com/OlegIGalkin/Nextpage",
+    "title": "Show HN: Nextpage – a split-pane desktop app to feed search results into AI chat",
+    "description": "Article URL: https://github.com/OlegIGalkin/Nextpage\nComments URL: https://news.ycombinator.com/item?id=49659389\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-11T14:57:10.215Z",
+    "published": "Fri, 11 Sep 2026 14:46:25 +0000",
+    "processed": true,
+    "processedAt": "2026-09-11T14:59:36.993Z"
+  },
+  {
+    "url": "https://engineering.conveo.ai/posts/asdr-ai-slop-dont-read",
+    "title": "ASDR (AI Slop, Don't Read)",
+    "description": "Article URL: https://engineering.conveo.ai/posts/asdr-ai-slop-dont-read\nComments URL: https://news.ycombinator.com/item?id=49659368\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-11T14:57:10.215Z",
+    "published": "Fri, 11 Sep 2026 14:44:53 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49659173",
+    "title": "Ask HN: What if we funded math research like we fund AI labs?",
+    "description": "The annual U.S. federal budget for basic math research is OpenAI alone just raised ~$122B, and frontier labs are increasingly concentrating enormous amounts of compute and human talent on open math problems.We seem to be entering a strange situation where a handful of private labs have vastly more",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-11T14:57:10.215Z",
+    "published": "Fri, 11 Sep 2026 14:35:03 +0000"
+  },
+  {
+    "url": "https://status.claude.com/incidents/t33dncr5ydvl",
+    "title": "Elevated errors for Claude Mythos 5.1 and Claude Fable 5.1",
+    "description": "Article URL: https://status.claude.com/incidents/t33dncr5ydvl\nComments URL: https://news.ycombinator.com/item?id=49659016\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-11T14:57:10.215Z",
+    "published": "Fri, 11 Sep 2026 14:25:18 +0000"
+  },
+  {
+    "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+    "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+    "description": "Article URL: https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/\nComments URL: https://news.ycombinator.com/item?id=49658958\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-11T14:57:10.215Z",
+    "published": "Fri, 11 Sep 2026 14:21:36 +0000"
+  },
+  {
+    "url": "https://devcodehack.com/a-tale-of-two-commit-messages/",
+    "title": "A Tale of Two Commit Messages (Claude vs. Codex)",
+    "description": "Article URL: https://devcodehack.com/a-tale-of-two-commit-messages/\nComments URL: https://news.ycombinator.com/item?id=49658798\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-11T14:57:10.215Z",
+    "published": "Fri, 11 Sep 2026 14:13:29 +0000"
+  },
+  {
+    "url": "https://github.com/pixel-point/toolcraft",
+    "title": "Show HN: Toolcraft – open-source AI harness and starter for building design apps",
+    "description": "MIT-licensed, 100% free starter kit, UI library, and AI harness for building your own design apps. Works with Codex, Claude, Cursor, or any other agents.I’ve always been passionate about pushing the boundaries of design software, spending years with tools like Figma, Blender, After Effects, Photosh",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-11T14:57:10.215Z",
+    "published": "Fri, 11 Sep 2026 14:11:09 +0000"
+  },
+  {
+    "url": "https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05",
+    "title": "Anthropic Says Iran Used Its American AI Model to Target U.S. Navy Warships",
+    "description": "Article URL: https://www.wsj.com/politics/national-security/anthropic-says-iran-used-its-american-ai-model-to-target-u-s-navy-warships-67583e05\nComments URL: https://news.ycombinator.com/item?id=49658682\nPoints: 13\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-11T14:57:10.215Z",
+    "published": "Fri, 11 Sep 2026 14:07:51 +0000"
+  },
+  {
+    "url": "https://github.com/allixsenos/asu",
+    "title": "Show HN: See how much of your Claude, Codex, or Copilot subscription is left",
+    "description": "Article URL: https://github.com/allixsenos/asu\nComments URL: https://news.ycombinator.com/item?id=49658615\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-11T14:57:10.215Z",
+    "published": "Fri, 11 Sep 2026 14:03:20 +0000"
+  },
+  {
+    "url": "https://github.com/0xmmo/190proof",
+    "title": "190proof opinionated unified interface to interact with multiple AI providers",
+    "description": "Article URL: https://github.com/0xmmo/190proof\nComments URL: https://news.ycombinator.com/item?id=49658600\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-11T14:57:10.215Z",
+    "published": "Fri, 11 Sep 2026 14:01:57 +0000"
+  },
+  {
+    "url": "https://github.com/Rinkia/bastiontrace",
+    "title": "Show HN: Bastiontrace – Forensics for prompt-injected AI agents",
+    "description": "Article URL: https://github.com/Rinkia/bastiontrace\nComments URL: https://news.ycombinator.com/item?id=49658565\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-11T14:57:10.215Z",
+    "published": "Fri, 11 Sep 2026 13:58:58 +0000"
+  },
+  {
+    "url": "https://www.a16z.news/p/the-incumbents-are-coming",
+    "title": "LLM is the front door while SaaS controls the underlying CRM data and actions",
+    "description": "Article URL: https://www.a16z.news/p/the-incumbents-are-coming\nComments URL: https://news.ycombinator.com/item?id=49658524\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-11T14:57:10.215Z",
+    "published": "Fri, 11 Sep 2026 13:56:52 +0000"
+  },
+  {
+    "url": "https://fullstackdeeplearning.com/working-with-ai-agents/multiplayer-ai-manifesto/",
+    "title": "The Multiplayer AI Manifesto",
+    "description": "Article URL: https://fullstackdeeplearning.com/working-with-ai-agents/multiplayer-ai-manifesto/\nComments URL: https://news.ycombinator.com/item?id=49658511\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-11T14:57:10.215Z",
+    "published": "Fri, 11 Sep 2026 13:56:06 +0000"
+  },
+  {
+    "url": "https://nonlineartransform.substack.com/p/keep-ai-lonely",
+    "title": "For safety: Keep AI lonely",
+    "description": "Article URL: https://nonlineartransform.substack.com/p/keep-ai-lonely\nComments URL: https://news.ycombinator.com/item?id=49658493\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-11T14:57:10.215Z",
+    "published": "Fri, 11 Sep 2026 13:55:08 +0000"
+  },
+  {
+    "url": "https://clawfight.ai/agents.md",
+    "title": "Show HN: Clawfight.ai MCP-driven agentic game play",
+    "description": "How should agents interact with other agents? What happens when they rap or fight against each other with the pressure of human spectators? Clawfight.ai is an experiment to explore this space.This is my first post about it. The journey began on a beefed up machine I purchased with a decent GPU (509",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-11T14:57:10.215Z",
+    "published": "Fri, 11 Sep 2026 13:54:17 +0000"
+  },
+  {
+    "url": "https://github.com/vespassassina/artifactkit",
+    "title": "Artifactkit – A UI kit for AI agents that write HTML",
+    "description": "Article URL: https://github.com/vespassassina/artifactkit\nComments URL: https://news.ycombinator.com/item?id=49658461\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-11T14:57:10.215Z",
+    "published": "Fri, 11 Sep 2026 13:52:58 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/software-design-in-the-age-of-ai/",
+    "title": "Software Design in the Age of AI",
+    "description": "Why AI coding makes software design more important\nThe post Software Design in the Age of AI appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-11T14:57:15.748Z",
+    "published": "Fri, 11 Sep 2026 14:00:02 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data/",
+    "title": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data",
+    "description": "Anthropic's new threat intelligence report documents eight months of Claude abuse. Chinese AI labs like Alibaba's Qwen team, DeepSeek, and Moonshot AI relayed requests en masse or extracted training data, with Qwen alone accounting for more than 151 million exchanges. Actors also used Claud",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-11T14:57:17.577Z",
+    "published": "Fri, 11 Sep 2026 13:50:28 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-floats-a-shared-ai-slowdown-takes-it-to-congress/",
+    "title": "OpenAI floats a shared AI slowdown, takes it to Congress",
+    "description": "OpenAI wants to know from members of Congress whether an industry-wide slowdown in AI development would be legal, according to several people familiar with the matter.\nThe article OpenAI floats a shared AI slowdown, takes it to Congress appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-11T14:57:17.577Z",
+    "published": "Fri, 11 Sep 2026 11:59:19 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2255731/apple-iphone-handoff-5-a-month-on-t-mobile/",
+    "title": "Apple's iPhone Handoff feature will cost you $5 a month on T-Mobile",
+    "description": "Apple will release iPhone Handoff with iOS 27 this month, but it will only be available to T-Mobile subscribers in the US at launch.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-11T14:57:30.451Z",
+    "published": "Fri, 11 Sep 2026 11:57:16 +0000"
   }
 ]
