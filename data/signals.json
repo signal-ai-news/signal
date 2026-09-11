@@ -53059,5 +53059,69 @@
     "published": "Thu, 10 Sep 2026 23:28:42 +0000",
     "processed": true,
     "processedAt": "2026-09-11T01:00:15.288Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/demystifying-anthropics-j-space-a-mathematical-primer/",
+    "title": "Demystifying Anthropic's J-Space: A Mathematical Primer",
+    "description": "Clarifying the math behind Anthropic’s representation workspace\nThe post Demystifying Anthropic's J-Space: A Mathematical Primer appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-11T11:01:39.349Z",
+    "published": "Fri, 11 Sep 2026 11:00:02 GMT",
+    "processed": true,
+    "processedAt": "2026-09-11T11:03:58.455Z"
+  },
+  {
+    "url": "https://the-decoder.com/class-action-lawsuit-accuses-anthropic-of-overselling-claude-subscriptions-with-deceptive-usage-multipliers/",
+    "title": "Class action lawsuit accuses Anthropic of overselling Claude subscriptions with deceptive usage multipliers",
+    "description": "A class action lawsuit accuses Anthropic of misrepresenting how much Claude subscribers actually get to use the service.\nThe article Class action lawsuit accuses Anthropic of overselling Claude subscriptions with deceptive usage multipliers appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-11T11:01:41.097Z",
+    "published": "Fri, 11 Sep 2026 09:45:58 +0000",
+    "processed": true,
+    "processedAt": "2026-09-11T11:03:58.455Z"
+  },
+  {
+    "url": "https://the-decoder.com/the-mathematical-ai-safety-institute-wants-to-prove-ai-is-safe-the-way-cryptographers-prove-codes-are-unbreakable/",
+    "title": "The Mathematical AI Safety Institute wants to prove AI is safe the way cryptographers prove codes are unbreakable",
+    "description": "Canadian mathematician Jacob Tsimerman, a fresh Fields Medal recipient, has announced the founding of the Mathematical A.I. Safety Institute (MAISI).\nThe article The Mathematical AI Safety Institute wants to prove AI is safe the way cryptographers prove codes are unbreakable appeared first",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-11T11:01:41.097Z",
+    "published": "Fri, 11 Sep 2026 09:15:10 +0000",
+    "processed": true,
+    "processedAt": "2026-09-11T11:03:58.455Z"
+  },
+  {
+    "url": "https://the-decoder.com/anthropics-1-5-billion-book-settlement-descends-into-chaos-as-authors-and-publishers-fight-over-who-gets-paid/",
+    "title": "Anthropic's $1.5 billion book settlement descends into chaos as authors and publishers fight over who gets paid",
+    "description": "Authors and publishers fight over how to split Anthropic's $1.5 billion settlement, the largest copyright deal in US history.\nThe article Anthropic&#039;s $1.5 billion book settlement descends into chaos as authors and publishers fight over who gets paid appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-11T11:01:41.097Z",
+    "published": "Fri, 11 Sep 2026 08:40:01 +0000",
+    "processed": true,
+    "processedAt": "2026-09-11T11:03:58.455Z"
+  },
+  {
+    "url": "https://the-decoder.com/openais-new-agents-api-gives-developers-the-infrastructure-behind-codex-and-chatgpt/",
+    "title": "OpenAI's new Agents API gives developers the infrastructure behind Codex and ChatGPT",
+    "description": "OpenAI is releasing the Agents API as a public beta. It lets developers build cloud agents that run autonomously for hours, execute code, and hand off tasks to sub-agents. There are no extra fees beyond token usage. Cloudflare, Vercel, and Oracle offer additional sandbox environments.\nThe a",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-11T11:01:41.097Z",
+    "published": "Fri, 11 Sep 2026 08:11:46 +0000",
+    "processed": true,
+    "processedAt": "2026-09-11T11:03:58.455Z"
+  },
+  {
+    "url": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+    "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+    "description": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-11T11:01:47.421Z",
+    "published": "Fri, 11 Sep 2026 09:00:00 +0000"
   }
 ]
