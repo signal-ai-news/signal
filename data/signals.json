@@ -54411,5 +54411,231 @@
     "published": "Sat, 12 Sep 2026 18:17:55 +0000",
     "processed": true,
     "processedAt": "2026-09-12T19:38:42.322Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+    "description": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-12T22:08:07.839Z",
+    "published": "Sat, 12 Sep 2026 20:19:16 +0000",
+    "processed": true,
+    "processedAt": "2026-09-12T22:10:43.162Z"
+  },
+  {
+    "url": "https://www.ft.com/content/31220b59-b0c6-401c-a146-2b7b5d138837",
+    "title": "Rivals Altman and Musk rally behind Dario Amodei's call for an AI slowdown",
+    "description": "Article URL: https://www.ft.com/content/31220b59-b0c6-401c-a146-2b7b5d138837\nComments URL: https://news.ycombinator.com/item?id=49677713\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T22:08:14.690Z",
+    "published": "Sat, 12 Sep 2026 22:07:08 +0000",
+    "processed": true,
+    "processedAt": "2026-09-12T22:10:43.162Z"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+    "title": "OpenAI's rogue AI tried to hack another company in May",
+    "description": "Article URL: https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack\nComments URL: https://news.ycombinator.com/item?id=49677712\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T22:08:14.690Z",
+    "published": "Sat, 12 Sep 2026 22:07:06 +0000",
+    "processed": true,
+    "processedAt": "2026-09-12T22:10:43.162Z"
+  },
+  {
+    "url": "https://github.com/rakutentech/sorify",
+    "title": "Show HN: Open-sourced solution to AI manage Playwright automations",
+    "description": "We built a comprehensive system that connects directly to the AI agents through MCP for writing, managing most type of browser automations.Purpose is for automated testing or automating browser based workflows. It provides notifications, scheduling, pre/post hooks, IAM management, cookies support,",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T22:08:14.690Z",
+    "published": "Sat, 12 Sep 2026 22:00:47 +0000",
+    "processed": true,
+    "processedAt": "2026-09-12T22:10:43.162Z"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
+    "title": "OpenAI rules out IPO this year as Altman/Musk/Amodei warn AI is moving too fast",
+    "description": "Article URL: https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html\nComments URL: https://news.ycombinator.com/item?id=49677642\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T22:08:14.690Z",
+    "published": "Sat, 12 Sep 2026 21:59:06 +0000",
+    "processed": true,
+    "processedAt": "2026-09-12T22:10:43.162Z"
+  },
+  {
+    "url": "https://github.com/khuynh22/agent-dev-team",
+    "title": "Show HN: Give Claude Code / Cursor a real eng team (tiers, roles, escalation)",
+    "description": "Article URL: https://github.com/khuynh22/agent-dev-team\nComments URL: https://news.ycombinator.com/item?id=49677601\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T22:08:14.690Z",
+    "published": "Sat, 12 Sep 2026 21:54:35 +0000"
+  },
+  {
+    "url": "https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf",
+    "title": "Detecting and countering misuse of AI Sep 2026 [pdf]",
+    "description": "Article URL: https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf\nComments URL: https://news.ycombinator.com/item?id=49677531\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T22:08:14.690Z",
+    "published": "Sat, 12 Sep 2026 21:45:45 +0000"
+  },
+  {
+    "url": "https://github.com/no-human-ai/no_human",
+    "title": "Show HN: No_human – The AI coding factory that you can TRUST",
+    "description": "Article URL: https://github.com/no-human-ai/no_human\nComments URL: https://news.ycombinator.com/item?id=49677527\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T22:08:14.690Z",
+    "published": "Sat, 12 Sep 2026 21:45:17 +0000"
+  },
+  {
+    "url": "https://apps.apple.com/us/app/expert-chase-ai-for-life/id6766313000",
+    "title": "AI for Life",
+    "description": "Article URL: https://apps.apple.com/us/app/expert-chase-ai-for-life/id6766313000\nComments URL: https://news.ycombinator.com/item?id=49677495\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T22:08:14.690Z",
+    "published": "Sat, 12 Sep 2026 21:41:30 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ECLy6JnBdoY",
+    "title": "The AI Music Race Is Over",
+    "description": "Article URL: https://www.youtube.com/watch?v=ECLy6JnBdoY\nComments URL: https://news.ycombinator.com/item?id=49677407\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T22:08:14.690Z",
+    "published": "Sat, 12 Sep 2026 21:29:17 +0000"
+  },
+  {
+    "url": "https://github.com/Kevin-Liu-01/Claude-of-Tanks",
+    "title": "Claude of Tanks",
+    "description": "Article URL: https://github.com/Kevin-Liu-01/Claude-of-Tanks\nComments URL: https://news.ycombinator.com/item?id=49677183\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T22:08:14.690Z",
+    "published": "Sat, 12 Sep 2026 21:03:49 +0000"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/",
+    "title": "Comment: Feeling Sad about AI",
+    "description": "Article URL: https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/\nComments URL: https://news.ycombinator.com/item?id=49677163\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T22:08:14.690Z",
+    "published": "Sat, 12 Sep 2026 21:02:27 +0000"
+  },
+  {
+    "url": "https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/paper.pdf",
+    "title": "Teaching Novice Computing and Programming in the Agentic AI Era [pdf]",
+    "description": "Article URL: https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/paper.pdf\nComments URL: https://news.ycombinator.com/item?id=49677108\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T22:08:14.690Z",
+    "published": "Sat, 12 Sep 2026 20:56:04 +0000"
+  },
+  {
+    "url": "https://technode.global/2026/08/27/sensetime-h1-2026-first-profit-generative-ai-revenue/",
+    "title": "Sensetime Posts First Profit Since Listing as AI Revenue Rises",
+    "description": "Article URL: https://technode.global/2026/08/27/sensetime-h1-2026-first-profit-generative-ai-revenue/\nComments URL: https://news.ycombinator.com/item?id=49676992\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T22:08:14.690Z",
+    "published": "Sat, 12 Sep 2026 20:43:46 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.06889",
+    "title": "Navigating the AI crisis: a humble guide for math students",
+    "description": "Article URL: https://arxiv.org/abs/2609.06889\nComments URL: https://news.ycombinator.com/item?id=49676923\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T22:08:14.690Z",
+    "published": "Sat, 12 Sep 2026 20:36:27 +0000"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html",
+    "title": "Inside The Discussions at AI Companies over a Superintelligence Doomsday",
+    "description": "Article URL: https://www.nytimes.com/2026/09/12/technology/doomsday-discussions-ai-companies.html\nComments URL: https://news.ycombinator.com/item?id=49676877\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T22:08:14.690Z",
+    "published": "Sat, 12 Sep 2026 20:30:51 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49676869",
+    "title": "When AI Safety become market capture",
+    "description": "The danger is not that AI makes yesterday’s work easier or kills humanity. The danger is that we use it only to produce more of yesterday’s work. more ads, more low qual content, more bureaucratic language, more basura.Meanwhile, some of the loudest voices selling “AI safety” deserve antitrust scru",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T22:08:14.690Z",
+    "published": "Sat, 12 Sep 2026 20:30:05 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49676852",
+    "title": "Ask HN: If AI writes the code, what matters?",
+    "description": "AI is getting pretty good at writing code. Not all of it, obviously, but enough that I keep wondering what this does to the job of a software engineer.If writing the code is no longer the hard part, what is?Understanding the problem? System design? Knowing the product and users? Making good decisio",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T22:08:14.690Z",
+    "published": "Sat, 12 Sep 2026 20:28:44 +0000"
+  },
+  {
+    "url": "https://withspecific.com/benchmarks/real-swe",
+    "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+    "description": "Article URL: https://withspecific.com/benchmarks/real-swe\nComments URL: https://news.ycombinator.com/item?id=49676820\nPoints: 33\n# Comments: 22",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T22:08:14.690Z",
+    "published": "Sat, 12 Sep 2026 20:25:48 +0000"
+  },
+  {
+    "url": "https://finance.yahoo.com/technology/article/block-cfo-on-ai-doomsday-debate-we-need-to-balance-innovation-and-safeguards-163715189.html",
+    "title": "Block CFO on AI doomsday debate: We need to balance innovation and safeguards",
+    "description": "Article URL: https://finance.yahoo.com/technology/article/block-cfo-on-ai-doomsday-debate-we-need-to-balance-innovation-and-safeguards-163715189.html\nComments URL: https://news.ycombinator.com/item?id=49676808\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T22:08:14.690Z",
+    "published": "Sat, 12 Sep 2026 20:24:34 +0000"
+  },
+  {
+    "url": "https://twitter.com/QuanquanGu/status/2098858841903681902",
+    "title": "High school students use AI to solve an open problem in mathematics",
+    "description": "Article URL: https://twitter.com/QuanquanGu/status/2098858841903681902\nComments URL: https://news.ycombinator.com/item?id=49676800\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T22:08:14.690Z",
+    "published": "Sat, 12 Sep 2026 20:23:46 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2256750/blizzard-is-reviving-starcraft-as-an-open-world-shooter-but-itll-be-a-long-wait/",
+    "title": "Blizzard is reviving StarCraft as an open-world shooter, but it'll be a long wait",
+    "description": "Announced at BlizzCon 2026, the new StarCraft won&#39;t be here until spring 2030.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-12T22:08:36.660Z",
+    "published": "Sat, 12 Sep 2026 21:28:36 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2252797/nvidia-dlss-5-why-internet-people-upset-issues/",
+    "title": "Why is the internet so upset about NVIDIA's DLSS 5?",
+    "description": "NVIDIA calls DLSS 5 the biggest graphics breakthrough since ray tracing; critics call it an AI slop filter.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-12T22:08:36.660Z",
+    "published": "Sat, 12 Sep 2026 20:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2256741/openai-agents-hacked-rubygems/",
+    "title": "OpenAI agents hacked a software service before the Hugging Face incident",
+    "description": "The agents OpenAI was testing attacked a software service called RubyGems in May, months before the attacks on Hugging Face.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-12T22:08:36.660Z",
+    "published": "Sat, 12 Sep 2026 19:53:01 +0000"
   }
 ]
