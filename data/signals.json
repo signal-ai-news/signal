@@ -11710,7 +11710,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T00:15:11.120Z",
-    "published": "Fri, 31 Jul 2026 22:40:00 +0000"
+    "published": "Fri, 31 Jul 2026 22:40:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-12T01:29:21.319Z"
   },
   {
     "url": "https://www.ag.state.mn.us/Office/Communications/2026/07/31_xAI.asp",
@@ -11719,7 +11721,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T00:15:11.120Z",
-    "published": "Fri, 31 Jul 2026 22:37:53 +0000"
+    "published": "Fri, 31 Jul 2026 22:37:53 +0000",
+    "processed": true,
+    "processedAt": "2026-09-12T01:29:21.319Z"
   },
   {
     "url": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
@@ -11728,7 +11732,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T00:15:11.120Z",
-    "published": "Fri, 31 Jul 2026 22:31:41 +0000"
+    "published": "Fri, 31 Jul 2026 22:31:41 +0000",
+    "processed": true,
+    "processedAt": "2026-09-12T01:29:21.319Z"
   },
   {
     "url": "https://lapcatsoftware.com/articles/2026/7/15.html",
@@ -53685,5 +53691,27 @@
     "published": "Fri, 11 Sep 2026 22:58:17 +0000",
     "processed": true,
     "processedAt": "2026-09-11T23:32:36.615Z"
+  },
+  {
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "description": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-12T01:26:22.926Z",
+    "published": "Mon, 14 Sep 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-12T01:29:21.320Z"
+  },
+  {
+    "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+    "description": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-12T01:26:22.926Z",
+    "published": "Fri, 11 Sep 2026 16:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-12T01:29:21.320Z"
   }
 ]
