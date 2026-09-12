@@ -11853,7 +11853,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T08:57:18.578Z",
-    "published": "Sat, 01 Aug 2026 06:51:25 +0000"
+    "published": "Sat, 01 Aug 2026 06:51:25 +0000",
+    "processed": true,
+    "processedAt": "2026-09-12T19:38:42.320Z"
   },
   {
     "url": "https://www.thomsonreuters.com/en-us/posts/innovation/thomson-reuters-built-its-own-ai-model-that-now-ranks-among-the-worlds-best/",
@@ -11862,7 +11864,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T08:57:18.578Z",
-    "published": "Sat, 01 Aug 2026 05:37:16 +0000"
+    "published": "Sat, 01 Aug 2026 05:37:16 +0000",
+    "processed": true,
+    "processedAt": "2026-09-12T19:38:42.320Z"
   },
   {
     "url": "https://www.derekthompson.org/p/the-four-horsemen-of-the-ai-bubble",
@@ -11871,7 +11875,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T08:57:18.578Z",
-    "published": "Sat, 01 Aug 2026 05:30:26 +0000"
+    "published": "Sat, 01 Aug 2026 05:30:26 +0000",
+    "processed": true,
+    "processedAt": "2026-09-12T19:38:42.320Z"
   },
   {
     "url": "https://www.youtube.com/watch?v=ckoi0RTEgcY",
@@ -54383,5 +54389,27 @@
     "category": "news",
     "discovered": "2026-09-12T17:24:18.872Z",
     "published": "Sat, 12 Sep 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2252801/how-to-add-drivers-license-apple-wallet/",
+    "title": "How to add your driver's license to Apple Wallet and where you can use it",
+    "description": "Your Apple Wallet can hold more than cards; those in certain states can also store a digital copy of their driver&#39;s license.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-12T19:36:36.467Z",
+    "published": "Sat, 12 Sep 2026 18:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-12T19:38:42.322Z"
+  },
+  {
+    "url": "https://www.engadget.com/2256728/lg-denies-accusations-of-smart-tvs-continuously-recording-its-users/",
+    "title": "LG denies accusations of smart TVs continuously recording its users",
+    "description": "The company said that user privacy is a \"fundamental principle\" of its products.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-12T19:36:36.467Z",
+    "published": "Sat, 12 Sep 2026 18:17:55 +0000",
+    "processed": true,
+    "processedAt": "2026-09-12T19:38:42.322Z"
   }
 ]
