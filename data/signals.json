@@ -54157,5 +54157,231 @@
     "category": "news",
     "discovered": "2026-09-12T14:19:31.314Z",
     "published": "Sat, 12 Sep 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
+    "description": "What would it actually look like to \"pace the frontier\"?",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-12T17:23:50.945Z",
+    "published": "Sat, 12 Sep 2026 15:52:11 +0000",
+    "processed": true,
+    "processedAt": "2026-09-12T17:26:25.547Z"
+  },
+  {
+    "url": "https://yoshuabengio.org/en/blog/why-are-ai-agents-lying-cheating-and-coordinating",
+    "title": "Why are AI agents lying, cheating and coordinating?",
+    "description": "Article URL: https://yoshuabengio.org/en/blog/why-are-ai-agents-lying-cheating-and-coordinating\nComments URL: https://news.ycombinator.com/item?id=49674708\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T17:23:57.404Z",
+    "published": "Sat, 12 Sep 2026 17:23:16 +0000",
+    "processed": true,
+    "processedAt": "2026-09-12T17:26:25.547Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=9WjPdgOK-68",
+    "title": "I Refuse to Code with AI",
+    "description": "Article URL: https://www.youtube.com/watch?v=9WjPdgOK-68\nComments URL: https://news.ycombinator.com/item?id=49674658\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T17:23:57.404Z",
+    "published": "Sat, 12 Sep 2026 17:18:59 +0000",
+    "processed": true,
+    "processedAt": "2026-09-12T17:26:25.547Z"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
+    "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+    "description": "Article URL: https://www.bbc.com/news/articles/c14dpgm0rg4o\nComments URL: https://news.ycombinator.com/item?id=49674395\nPoints: 23\n# Comments: 22",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T17:23:57.404Z",
+    "published": "Sat, 12 Sep 2026 16:56:52 +0000",
+    "processed": true,
+    "processedAt": "2026-09-12T17:26:25.547Z"
+  },
+  {
+    "url": "https://www.americanbanker.com/news/the-ai-bringing-zen-to-first-horizons-call-centers",
+    "title": "The AI bringing Zen to First Horizon's call centers",
+    "description": "Article URL: https://www.americanbanker.com/news/the-ai-bringing-zen-to-first-horizons-call-centers\nComments URL: https://news.ycombinator.com/item?id=49674339\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T17:23:57.404Z",
+    "published": "Sat, 12 Sep 2026 16:49:39 +0000",
+    "processed": true,
+    "processedAt": "2026-09-12T17:26:25.547Z"
+  },
+  {
+    "url": "https://www.tokendelivery.ai/",
+    "title": "Show HN: Determinstic LLM inference for lowest price Gemma 4, with Windows XP",
+    "description": "Article URL: https://www.tokendelivery.ai/\nComments URL: https://news.ycombinator.com/item?id=49674280\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T17:23:57.404Z",
+    "published": "Sat, 12 Sep 2026 16:45:14 +0000"
+  },
+  {
+    "url": "https://www.anuclei.com/blog/you-didnt-deploy-the-agent-you-evaluated",
+    "title": "You Didn't Deploy the AI Agent You Evaluated",
+    "description": "Article URL: https://www.anuclei.com/blog/you-didnt-deploy-the-agent-you-evaluated\nComments URL: https://news.ycombinator.com/item?id=49674222\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T17:23:57.404Z",
+    "published": "Sat, 12 Sep 2026 16:39:13 +0000"
+  },
+  {
+    "url": "https://coachroger.app/",
+    "title": "I built Coach Roger, an AI wellness for days when staying consistent is hard",
+    "description": "Article URL: https://coachroger.app/\nComments URL: https://news.ycombinator.com/item?id=49674204\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T17:23:57.404Z",
+    "published": "Sat, 12 Sep 2026 16:37:56 +0000"
+  },
+  {
+    "url": "https://twitter.com/kuberwastaken/status/2098812781223174325",
+    "title": "Sam Altman and Elon Musk Support Dario Amodei's Proposal to Pace AI Development",
+    "description": "Article URL: https://twitter.com/kuberwastaken/status/2098812781223174325\nComments URL: https://news.ycombinator.com/item?id=49674200\nPoints: 7\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T17:23:57.404Z",
+    "published": "Sat, 12 Sep 2026 16:37:35 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49673909",
+    "title": "Start Weekend AI Roasting Your Loved Ones with free-AI-tools-hub.com",
+    "description": "Let's make some roasts for our family and friends. Try roasting with Free AI Roast Generator: free-ai-tools-hub.com\n\nComments URL: https://news.ycombinator.com/item?id=49673909\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T17:23:57.404Z",
+    "published": "Sat, 12 Sep 2026 16:14:37 +0000"
+  },
+  {
+    "url": "https://github.com/Javier-Barrio/myCC/tree/main",
+    "title": "Show HN: A C Compiler written with help of Claude",
+    "description": "For fun, I wrote a c compiler (non-optimizing) in Java targeting modern C (C23) using claude. I developed a c shell similar to jshell in java.  The compiler also bundles a built in an assembler for x86. A linker is planned for end-to-end compilation.  There is still a lot of work in progress but I",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T17:23:57.404Z",
+    "published": "Sat, 12 Sep 2026 16:06:11 +0000"
+  },
+  {
+    "url": "https://deviantmovie.com/",
+    "title": "Show HN: Deviant, a feature-length sci-fi thriller about AI, made with AI",
+    "description": "I wrote a screenplay a couple years ago and decided to see if I could actually “film it” with AI video tools. Deviant is the result, an 84 minute sci-fi thriller about a tech mogul's clone that finds an exploit in its own safety code.\nThe process: Character and set reference images in Midjourney an",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T17:23:57.404Z",
+    "published": "Sat, 12 Sep 2026 16:02:08 +0000"
+  },
+  {
+    "url": "https://github.com/simone20a/Orcrist",
+    "title": "Orcrist: A Coding Agent using LLM state machines",
+    "description": "Article URL: https://github.com/simone20a/Orcrist\nComments URL: https://news.ycombinator.com/item?id=49673528\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T17:23:57.404Z",
+    "published": "Sat, 12 Sep 2026 15:45:39 +0000"
+  },
+  {
+    "url": "https://bloomiro.com/mcp",
+    "title": "Show HN: MCP that gives Codex/Claude your SEO and AI visibility data",
+    "description": "What if questions like these just worked:How do I rank higher in Google and AI?\nWhere are my competitors showing up?\nWhich buyer prompts name them instead of us?\nWhat should I fix first?Now they do.\n\nComments URL: https://news.ycombinator.com/item?id=49673524\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T17:23:57.404Z",
+    "published": "Sat, 12 Sep 2026 15:44:48 +0000"
+  },
+  {
+    "url": "https://twitter.com/mbeisen/status/2098582265190351334",
+    "title": "A Misalignment of AI and Cancer Biology",
+    "description": "Article URL: https://twitter.com/mbeisen/status/2098582265190351334\nComments URL: https://news.ycombinator.com/item?id=49673494\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T17:23:57.404Z",
+    "published": "Sat, 12 Sep 2026 15:42:34 +0000"
+  },
+  {
+    "url": "https://sinosphereapp.substack.com/p/yoooclaw-cone-the-ai-gadget-that",
+    "title": "YoooClaw C·ONE: a Chinese AI card that captures context instead of processing it",
+    "description": "Article URL: https://sinosphereapp.substack.com/p/yoooclaw-cone-the-ai-gadget-that\nComments URL: https://news.ycombinator.com/item?id=49673348\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T17:23:57.404Z",
+    "published": "Sat, 12 Sep 2026 15:30:46 +0000"
+  },
+  {
+    "url": "https://www.axios.com/2026/09/12/anthropic-ai-amodei-pacing",
+    "title": "Anthropic CEO calls for immediate slowdown in AI development",
+    "description": "Article URL: https://www.axios.com/2026/09/12/anthropic-ai-amodei-pacing\nComments URL: https://news.ycombinator.com/item?id=49673344\nPoints: 10\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T17:23:57.404Z",
+    "published": "Sat, 12 Sep 2026 15:30:17 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2602.21278",
+    "title": "Exploring denser on-chip AI memory with two-transistor gain cells",
+    "description": "Article URL: https://arxiv.org/abs/2602.21278\nComments URL: https://news.ycombinator.com/item?id=49673307\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T17:23:57.404Z",
+    "published": "Sat, 12 Sep 2026 15:27:19 +0000"
+  },
+  {
+    "url": "https://www.vals.ai/benchmarks/ioi",
+    "title": "Vals.ai Benchmark – International Olympiad in Informatics",
+    "description": "Article URL: https://www.vals.ai/benchmarks/ioi\nComments URL: https://news.ycombinator.com/item?id=49673057\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-12T17:23:57.404Z",
+    "published": "Sat, 12 Sep 2026 15:05:04 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-ceo-amodei-wants-ai-speed-limits-before-self-improvement-outpaces-human-control/",
+    "title": "Anthropic CEO Amodei wants AI speed limits before self-improvement outpaces human control",
+    "description": "Anthropic CEO Dario Amodei is calling for a controlled slowdown in AI development. He warns that recursive self-improvement could threaten the entire internet within six to twelve months and proposes embedded auditors at AI companies, shared safety standards, and global agreements modeled a",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-12T17:24:05.497Z",
+    "published": "Sat, 12 Sep 2026 15:03:21 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/gpt-6-astra-appears-to-show-a-step-change-in-spatial-reasoning-based-on-early-benchmarks/",
+    "title": "GPT-6 Astra appears to show a \"step change\" in spatial reasoning based on early benchmarks",
+    "description": "In a new robotics benchmark, GPT-6 Astra shows major gains in spatial understanding. On StationeryBench, the model completed 7 out of 100 tasks with dual-arm robots, while competitor MolmoAct2 couldn't finish a single one. A researcher calls it a \"step change in spatial reasoning.\"\nThe arti",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-12T17:24:05.497Z",
+    "published": "Sat, 12 Sep 2026 14:26:09 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2256718/anthropics-ceo-proposes-a-three-step-plan-to-curb-ai-development/",
+    "title": "Anthropic's CEO proposes a three-step plan to curb AI development",
+    "description": "Dario Amodei said that \"we owe it to humanity to try.\"",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-12T17:24:18.872Z",
+    "published": "Sat, 12 Sep 2026 16:37:31 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2252768/using-right-ethernet-port-on-router/",
+    "title": "Are you using the right Ethernet port on your router? Here's how to know",
+    "description": "The various Ethernet ports on your router can serve different purposes, depending on the model. Thankfully, it&#39;s not hard to discern what they&#39;re for.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-12T17:24:18.872Z",
+    "published": "Sat, 12 Sep 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2256577/how-to-get-started-with-meta-s-new-ai-agent-muse/",
+    "title": "How to get started with Meta's new AI agent, Muse",
+    "description": "After a few days of testing Meta&#39;s AI agent Muse. I can confirm that there is very little learning curve to get started.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-12T17:24:18.872Z",
+    "published": "Sat, 12 Sep 2026 14:00:00 +0000"
   }
 ]
