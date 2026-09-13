@@ -12084,7 +12084,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T12:17:39.400Z",
-    "published": "Sat, 01 Aug 2026 10:25:12 +0000"
+    "published": "Sat, 01 Aug 2026 10:25:12 +0000",
+    "processed": true,
+    "processedAt": "2026-09-13T23:06:09.888Z"
   },
   {
     "url": "https://www.wsj.com/tech/ai/how-openai-lost-its-ai-crownand-the-fight-to-win-it-back-7d069695",
@@ -12093,7 +12095,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T12:17:39.400Z",
-    "published": "Sat, 01 Aug 2026 10:15:00 +0000"
+    "published": "Sat, 01 Aug 2026 10:15:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-13T23:06:09.888Z"
   },
   {
     "url": "https://www.theguardian.com/technology/2026/jul/31/ai-labels-to-be-compulsory-on-authentic-looking-content-under-eu-rules",
@@ -55030,5 +55034,38 @@
     "published": "Sun, 13 Sep 2026 18:02:36 +0000",
     "processed": true,
     "processedAt": "2026-09-13T20:44:24.517Z"
+  },
+  {
+    "url": "https://www.engadget.com/2252859/how-to-use-gpt-6-astra-rollout-schedule/",
+    "title": "How to use GPT-6 Astra when it rolls out to you",
+    "description": "OpenAI&#39;s new model, GPT-6 Astra, has begun rolling out to users. Here&#39;s how you can get it and pitfalls to avoid.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-13T23:04:03.675Z",
+    "published": "Sun, 13 Sep 2026 23:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-13T23:06:09.889Z"
+  },
+  {
+    "url": "https://www.engadget.com/2252858/how-to-fix-imessage-not-delivered-on-iphone/",
+    "title": "How to fix iMessage \"Not Delivered\" error on iPhones",
+    "description": "iMessage is simple, and even RCS and SMS are usually reliable. But when your iPhone won&#39;t sent a message, you can coax it into working again.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-13T23:04:03.675Z",
+    "published": "Sun, 13 Sep 2026 22:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-13T23:06:09.889Z"
+  },
+  {
+    "url": "https://www.engadget.com/2256984/sam-altman-says-openai-wont-file-for-ipo-this-year/",
+    "title": "Sam Altman says OpenAI won't file for IPO this year",
+    "description": "OpenAI&#39;s CEO called it an \"ill-advised moment to go public\" in an interview with Fortune.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-13T23:04:03.675Z",
+    "published": "Sun, 13 Sep 2026 20:50:26 +0000",
+    "processed": true,
+    "processedAt": "2026-09-13T23:06:09.889Z"
   }
 ]
