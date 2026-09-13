@@ -11941,7 +11941,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T08:57:18.578Z",
-    "published": "Sat, 01 Aug 2026 02:53:10 +0000"
+    "published": "Sat, 01 Aug 2026 02:53:10 +0000",
+    "processed": true,
+    "processedAt": "2026-09-13T05:18:54.007Z"
   },
   {
     "url": "https://microsoft.github.io/flint-chart/",
@@ -11950,7 +11952,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T08:57:18.578Z",
-    "published": "Sat, 01 Aug 2026 02:45:09 +0000"
+    "published": "Sat, 01 Aug 2026 02:45:09 +0000",
+    "processed": true,
+    "processedAt": "2026-09-13T05:18:54.007Z"
   },
   {
     "url": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
@@ -11959,7 +11963,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T08:57:18.578Z",
-    "published": "Sat, 01 Aug 2026 02:39:33 +0000"
+    "published": "Sat, 01 Aug 2026 02:39:33 +0000",
+    "processed": true,
+    "processedAt": "2026-09-13T05:18:54.007Z"
   },
   {
     "url": "https://www.bbc.com/news/articles/c77g6dm5pr8o",
@@ -11968,7 +11974,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T08:57:18.578Z",
-    "published": "Sat, 01 Aug 2026 02:16:24 +0000"
+    "published": "Sat, 01 Aug 2026 02:16:24 +0000",
+    "processed": true,
+    "processedAt": "2026-09-13T05:18:54.007Z"
   },
   {
     "url": "https://the-decoder.com/openai-is-reportedly-building-astra-a-model-family-designed-to-work-on-problems-for-hours-or-days/",
@@ -11977,7 +11985,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-08-01T08:57:25.764Z",
-    "published": "Sat, 01 Aug 2026 08:24:49 +0000"
+    "published": "Sat, 01 Aug 2026 08:24:49 +0000",
+    "processed": true,
+    "processedAt": "2026-09-13T05:18:54.007Z"
   },
   {
     "url": "https://phylo.bio/blog/biomni-tuso",
