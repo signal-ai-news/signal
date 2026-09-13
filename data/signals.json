@@ -12073,7 +12073,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T12:17:39.400Z",
-    "published": "Sat, 01 Aug 2026 10:26:09 +0000"
+    "published": "Sat, 01 Aug 2026 10:26:09 +0000",
+    "processed": true,
+    "processedAt": "2026-09-13T20:44:24.516Z"
   },
   {
     "url": "https://berthub.eu/articles/posts/ai-for-decision-makers/",
@@ -54984,5 +54986,49 @@
     "published": "Sun, 13 Sep 2026 16:00:00 +0000",
     "processed": true,
     "processedAt": "2026-09-13T18:05:29.695Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+    "title": "What’s behind the AI industry’s latest warnings of doom?",
+    "description": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-13T20:41:50.144Z",
+    "published": "Sun, 13 Sep 2026 19:40:15 +0000",
+    "processed": true,
+    "processedAt": "2026-09-13T20:44:24.517Z"
+  },
+  {
+    "url": "https://www.engadget.com/2256966/teslas-second-gen-roadster-is-finally-getting-a-debut-nearly-a-decade-later/",
+    "title": "Tesla's second-gen Roadster is finally getting a debut nearly a decade later",
+    "description": "The reveal is scheduled for October 10, so long as it's not delayed again.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-13T20:42:17.943Z",
+    "published": "Sun, 13 Sep 2026 19:10:31 +0000",
+    "processed": true,
+    "processedAt": "2026-09-13T20:44:24.517Z"
+  },
+  {
+    "url": "https://www.engadget.com/2252855/applecare-plus-vs-applecare-one-differences/",
+    "title": "What's the difference between AppleCare+ and AppleCare One?",
+    "description": "Should you get AppleCare+ or AppleCare One? We explain the difference in this post.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-13T20:42:17.943Z",
+    "published": "Sun, 13 Sep 2026 18:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-13T20:44:24.517Z"
+  },
+  {
+    "url": "https://www.engadget.com/2256955/apples-rumored-gaming-controller-for-iphone-could-feature-beats-branding/",
+    "title": "Apple's rumored gaming controller for iPhone could feature Beats branding",
+    "description": "Bloomberg's Mark Gurman said there are two gaming controllers in the works.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-13T20:42:17.943Z",
+    "published": "Sun, 13 Sep 2026 18:02:36 +0000",
+    "processed": true,
+    "processedAt": "2026-09-13T20:44:24.517Z"
   }
 ]
