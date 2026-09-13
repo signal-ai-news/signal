@@ -54929,5 +54929,60 @@
     "category": "news",
     "discovered": "2026-09-13T14:38:15.966Z",
     "published": "Sun, 13 Sep 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+    "description": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-13T18:02:48.531Z",
+    "published": "Sun, 13 Sep 2026 16:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-13T18:05:29.695Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/your-model-isnt-done-until-someone-else-can-call-it/",
+    "title": "Your Model Isn't Done Until Someone Else Can Call It",
+    "description": "Building a FastAPI endpoint for churn prediction, and everything that broke between &quot;it runs&quot; and &quot;it's live\nThe post Your Model Isn't Done Until Someone Else Can Call It appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-13T18:03:10.552Z",
+    "published": "Sun, 13 Sep 2026 15:00:01 GMT",
+    "processed": true,
+    "processedAt": "2026-09-13T18:05:29.695Z"
+  },
+  {
+    "url": "https://www.engadget.com/2252851/wifi-router-usb-port-explained/",
+    "title": "Stop wasting your Wi-Fi router's USB port — try this instead",
+    "description": "If you have a USB port on the back of your router and don&#39;t know what to do with it, try some of these straightforward options.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-13T18:03:24.711Z",
+    "published": "Sun, 13 Sep 2026 18:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-13T18:05:29.695Z"
+  },
+  {
+    "url": "https://www.engadget.com/2252850/why-car-manufacturers-ditching-carplay-explained/",
+    "title": "Car manufacturers are ditching CarPlay in 2026: Here's why",
+    "description": "CarPlay lets you bypass your car&#39;s lousy infotainment system, but some manufacturers have decided they don&#39;t want you doing that anymore.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-13T18:03:24.711Z",
+    "published": "Sun, 13 Sep 2026 17:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-13T18:05:29.695Z"
+  },
+  {
+    "url": "https://www.engadget.com/2252840/psx-ps2-console-history-rarely-sold-outside-japan/",
+    "title": "What was the PSX? The souped-up PS2 rarely sold outside of Japan",
+    "description": "The PSX isn&#39;t just an alternative name for the first PlayStation. It was also a failed Sony console that never got a release outside Japan.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-13T18:03:24.711Z",
+    "published": "Sun, 13 Sep 2026 16:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-13T18:05:29.695Z"
   }
 ]
