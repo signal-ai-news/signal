@@ -12051,7 +12051,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T12:17:39.400Z",
-    "published": "Sat, 01 Aug 2026 11:00:21 +0000"
+    "published": "Sat, 01 Aug 2026 11:00:21 +0000",
+    "processed": true,
+    "processedAt": "2026-09-13T10:35:28.612Z"
   },
   {
     "url": "https://future.lulzx.space/blog/cheap-scoreboard.html",
@@ -12060,7 +12062,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T12:17:39.400Z",
-    "published": "Sat, 01 Aug 2026 10:43:18 +0000"
+    "published": "Sat, 01 Aug 2026 10:43:18 +0000",
+    "processed": true,
+    "processedAt": "2026-09-13T10:35:28.612Z"
   },
   {
     "url": "https://polymyth.quest",
@@ -54657,5 +54661,38 @@
     "category": "news",
     "discovered": "2026-09-12T22:08:36.660Z",
     "published": "Sat, 12 Sep 2026 19:53:01 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/two-year-university-study-finds-banning-ai-from-classrooms-leaves-students-worse-off/",
+    "title": "Two-year university study finds banning AI from classrooms leaves students worse off",
+    "description": "A law professor spent two years testing how an AI ban, unguided AI use, and structured training affect student performance. The group without AI finished last both years. \"I was wrong,\" the researcher writes, who had assumed that AI without guidance would do more harm than good.\nThe article",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-13T10:33:09.651Z",
+    "published": "Sun, 13 Sep 2026 09:27:01 +0000",
+    "processed": true,
+    "processedAt": "2026-09-13T10:35:28.613Z"
+  },
+  {
+    "url": "https://the-decoder.com/altman-musk-and-hassabis-back-amodeis-call-to-add-independent-oversight/",
+    "title": "Altman, Musk, and Hassabis back Amodei's call to add independent oversight",
+    "description": "Sam Altman, Elon Musk, and Demis Hassabis back Dario Amodei's call to slow down AI development, at least in part. Altman says OpenAI is pushing its IPO to 2027 over safety concerns.\nThe article Altman, Musk, and Hassabis back Amodei&#039;s call to add independent oversight appeared first on",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-13T10:33:09.651Z",
+    "published": "Sun, 13 Sep 2026 08:53:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-13T10:35:28.613Z"
+  },
+  {
+    "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+    "title": "AI Agents Are Thirsty for Power",
+    "description": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-13T10:33:15.793Z",
+    "published": "Sun, 13 Sep 2026 10:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-13T10:35:28.613Z"
   }
 ]
