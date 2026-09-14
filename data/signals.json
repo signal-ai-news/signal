@@ -12106,7 +12106,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T12:17:39.400Z",
-    "published": "Sat, 01 Aug 2026 09:49:14 +0000"
+    "published": "Sat, 01 Aug 2026 09:49:14 +0000",
+    "processed": true,
+    "processedAt": "2026-09-14T06:02:49.128Z"
   },
   {
     "url": "https://www.youtube.com/watch?v=xjhywQlzJYo",
@@ -12115,7 +12117,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T12:17:39.400Z",
-    "published": "Sat, 01 Aug 2026 09:43:37 +0000"
+    "published": "Sat, 01 Aug 2026 09:43:37 +0000",
+    "processed": true,
+    "processedAt": "2026-09-14T06:02:49.128Z"
   },
   {
     "url": "https://github.com/temple-compute/pantheon/tree/main/workflows/ai/w02-tiny-llm",
@@ -12124,7 +12128,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T12:17:39.400Z",
-    "published": "Sat, 01 Aug 2026 09:27:21 +0000"
+    "published": "Sat, 01 Aug 2026 09:27:21 +0000",
+    "processed": true,
+    "processedAt": "2026-09-14T06:02:49.128Z"
   },
   {
     "url": "https://tokenignite.live",
@@ -12133,7 +12139,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T12:17:39.400Z",
-    "published": "Sat, 01 Aug 2026 09:24:32 +0000"
+    "published": "Sat, 01 Aug 2026 09:24:32 +0000",
+    "processed": true,
+    "processedAt": "2026-09-14T06:02:49.128Z"
   },
   {
     "url": "https://www.barchart.com/story/news/3584357/reddit-stock-collapses-23-as-ai-eats-away-at-user-growth",
@@ -12142,7 +12150,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T12:17:39.400Z",
-    "published": "Sat, 01 Aug 2026 09:13:07 +0000"
+    "published": "Sat, 01 Aug 2026 09:13:07 +0000",
+    "processed": true,
+    "processedAt": "2026-09-14T06:02:49.128Z"
   },
   {
     "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense/",
