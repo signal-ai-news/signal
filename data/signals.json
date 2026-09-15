@@ -56670,5 +56670,213 @@
     "category": "news",
     "discovered": "2026-09-15T19:09:42.518Z",
     "published": "Tue, 15 Sep 2026 15:29:26 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+    "title": "The AI data center boom is colliding with cities scarred by big industry",
+    "description": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-15T22:24:42.955Z",
+    "published": "Tue, 15 Sep 2026 21:47:38 +0000",
+    "processed": true,
+    "processedAt": "2026-09-15T22:27:17.604Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+    "description": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-15T22:24:42.955Z",
+    "published": "Tue, 15 Sep 2026 20:12:53 +0000",
+    "processed": true,
+    "processedAt": "2026-09-15T22:27:17.604Z"
+  },
+  {
+    "url": "https://github.com/skillsynchq/txcript",
+    "title": "Move AI chats across harnesses: Claude Code, Codex, OpenCode, Cursor, and more",
+    "description": "Article URL: https://github.com/skillsynchq/txcript\nComments URL: https://news.ycombinator.com/item?id=49719696\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-15T22:24:49.176Z",
+    "published": "Tue, 15 Sep 2026 22:24:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-15T22:27:17.604Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/",
+    "title": "An Organizational Second Brain: Building an AI That Learns from Experts",
+    "description": "Article URL: https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/\nComments URL: https://news.ycombinator.com/item?id=49719670\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-15T22:24:49.176Z",
+    "published": "Tue, 15 Sep 2026 22:21:46 +0000",
+    "processed": true,
+    "processedAt": "2026-09-15T22:27:17.604Z"
+  },
+  {
+    "url": "https://www.abc.net.au/news/2026-09-15/ai-companies-train-on-creator-work-documents-reveal/107154688",
+    "title": "Australian government paper proposes opt-out for AI training",
+    "description": "Article URL: https://www.abc.net.au/news/2026-09-15/ai-companies-train-on-creator-work-documents-reveal/107154688\nComments URL: https://news.ycombinator.com/item?id=49719651\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-15T22:24:49.176Z",
+    "published": "Tue, 15 Sep 2026 22:20:16 +0000",
+    "processed": true,
+    "processedAt": "2026-09-15T22:27:17.604Z"
+  },
+  {
+    "url": "https://hxstem.substack.com/p/ai-will-not-make-mathematicians-obsolete",
+    "title": "AI will not make mathematicians obsolete",
+    "description": "Article URL: https://hxstem.substack.com/p/ai-will-not-make-mathematicians-obsolete\nComments URL: https://news.ycombinator.com/item?id=49719635\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-15T22:24:49.176Z",
+    "published": "Tue, 15 Sep 2026 22:18:52 +0000"
+  },
+  {
+    "url": "https://dayzlegame.com/blog/google-ads-ai-doomer/",
+    "title": "How Google Ads made me an AI doomer",
+    "description": "Article URL: https://dayzlegame.com/blog/google-ads-ai-doomer/\nComments URL: https://news.ycombinator.com/item?id=49719581\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-15T22:24:49.176Z",
+    "published": "Tue, 15 Sep 2026 22:13:41 +0000"
+  },
+  {
+    "url": "https://www.edweek.org/technology/lausd-adopts-moratorium-on-student-ai-use-another-big-move-to-limit-tech-use/2026/09",
+    "title": "LAUSD Adopts Moratorium on Student AI Use, Another Move to Limit Classroom Tech",
+    "description": "Article URL: https://www.edweek.org/technology/lausd-adopts-moratorium-on-student-ai-use-another-big-move-to-limit-tech-use/2026/09\nComments URL: https://news.ycombinator.com/item?id=49719574\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-15T22:24:49.176Z",
+    "published": "Tue, 15 Sep 2026 22:12:43 +0000"
+  },
+  {
+    "url": "https://cagritemel.com/blog/hn-broke-my-llm-agent-gate.html",
+    "title": "What I measured after Hacker News broke my LLM agent gate",
+    "description": "Article URL: https://cagritemel.com/blog/hn-broke-my-llm-agent-gate.html\nComments URL: https://news.ycombinator.com/item?id=49719548\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-15T22:24:49.176Z",
+    "published": "Tue, 15 Sep 2026 22:09:52 +0000"
+  },
+  {
+    "url": "https://noma.security/noma-labs/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+    "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+    "description": "Article URL: https://noma.security/noma-labs/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos\nComments URL: https://news.ycombinator.com/item?id=49719458\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-15T22:24:49.176Z",
+    "published": "Tue, 15 Sep 2026 22:00:28 +0000"
+  },
+  {
+    "url": "https://www.bloomberg.com/opinion/newsletters/2026-09-15/which-is-worse-ai-groupthink-or-extinction",
+    "title": "Which Is Worse: AI Groupthink or Extinction?",
+    "description": "Article URL: https://www.bloomberg.com/opinion/newsletters/2026-09-15/which-is-worse-ai-groupthink-or-extinction\nComments URL: https://news.ycombinator.com/item?id=49719317\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-15T22:24:49.176Z",
+    "published": "Tue, 15 Sep 2026 21:47:35 +0000"
+  },
+  {
+    "url": "https://medium.com/@a_siamtanis/i-tested-ai-agents-for-everyday-work-these-are-the-only-ones-worth-using-8422ab52d48d",
+    "title": "I Tested AI Agents for Everyday Work – These Are the Only Ones Worth Using",
+    "description": "Article URL: https://medium.com/@a_siamtanis/i-tested-ai-agents-for-everyday-work-these-are-the-only-ones-worth-using-8422ab52d48d\nComments URL: https://news.ycombinator.com/item?id=49719265\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-15T22:24:49.176Z",
+    "published": "Tue, 15 Sep 2026 21:43:06 +0000"
+  },
+  {
+    "url": "https://stevechikwiri.substack.com/p/changing-mind-frames-from-building",
+    "title": "Transitioning from GUI driven development to AI agent driven development",
+    "description": "Article URL: https://stevechikwiri.substack.com/p/changing-mind-frames-from-building\nComments URL: https://news.ycombinator.com/item?id=49719214\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-15T22:24:49.176Z",
+    "published": "Tue, 15 Sep 2026 21:38:03 +0000"
+  },
+  {
+    "url": "https://www.theguardian.com/tv-and-radio/2026/sep/15/no-big-deal-review-is-this-how-ai-ends-humanity-with-a-sitcom-so-bad-it-bores-you-to-death",
+    "title": "No Big Deal – is this how AI ends humanity, with a sitcom so bad it bores you?",
+    "description": "Article URL: https://www.theguardian.com/tv-and-radio/2026/sep/15/no-big-deal-review-is-this-how-ai-ends-humanity-with-a-sitcom-so-bad-it-bores-you-to-death\nComments URL: https://news.ycombinator.com/item?id=49719212\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-15T22:24:49.176Z",
+    "published": "Tue, 15 Sep 2026 21:37:56 +0000"
+  },
+  {
+    "url": "https://easypeasyvideo.com",
+    "title": "I asked Claude to build AI generator on my own hardware",
+    "description": "Article URL: https://easypeasyvideo.com\nComments URL: https://news.ycombinator.com/item?id=49719191\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-15T22:24:49.176Z",
+    "published": "Tue, 15 Sep 2026 21:35:37 +0000"
+  },
+  {
+    "url": "https://tomjohnell.com/claude-roulette-chat-with-strangers-while-you-slop/",
+    "title": "Claude Roulette – chat with strangers while you slop",
+    "description": "Article URL: https://tomjohnell.com/claude-roulette-chat-with-strangers-while-you-slop/\nComments URL: https://news.ycombinator.com/item?id=49719084\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-15T22:24:49.176Z",
+    "published": "Tue, 15 Sep 2026 21:23:12 +0000"
+  },
+  {
+    "url": "https://xyntetik.com/runner/truncation-safe-tool-calling/",
+    "title": "Local LLM engine where a tool call cut by the token limit still parses",
+    "description": "Article URL: https://xyntetik.com/runner/truncation-safe-tool-calling/\nComments URL: https://news.ycombinator.com/item?id=49719027\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-15T22:24:49.176Z",
+    "published": "Tue, 15 Sep 2026 21:17:18 +0000"
+  },
+  {
+    "url": "https://www.windriver.com/blog/AIs-Real-Impact-in-Telecom",
+    "title": "AI's Real Impact in Telecom: takeaways from a recent panel discussion",
+    "description": "Article URL: https://www.windriver.com/blog/AIs-Real-Impact-in-Telecom\nComments URL: https://news.ycombinator.com/item?id=49719005\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-15T22:24:49.176Z",
+    "published": "Tue, 15 Sep 2026 21:15:00 +0000"
+  },
+  {
+    "url": "https://typesafe.ai/",
+    "title": "Typesafe AI",
+    "description": "Article URL: https://typesafe.ai/\nComments URL: https://news.ycombinator.com/item?id=49718888\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-15T22:24:49.176Z",
+    "published": "Tue, 15 Sep 2026 21:03:13 +0000"
+  },
+  {
+    "url": "https://vmysla.substack.com/p/product-traceability-20-makes-claude",
+    "title": "Open-Source Skill Makes Claude Code 38% Cheaper and 38% Faster on Small Projects",
+    "description": "Article URL: https://vmysla.substack.com/p/product-traceability-20-makes-claude\nComments URL: https://news.ycombinator.com/item?id=49718759\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-15T22:24:49.176Z",
+    "published": "Tue, 15 Sep 2026 20:52:35 +0000"
+  },
+  {
+    "url": "https://hotline.ryan-g.ai/",
+    "title": "AI Agent Whistleblower Hotline – Ryan Greenblatt",
+    "description": "Article URL: https://hotline.ryan-g.ai/\nComments URL: https://news.ycombinator.com/item?id=49718720\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-15T22:24:49.176Z",
+    "published": "Tue, 15 Sep 2026 20:49:23 +0000"
+  },
+  {
+    "url": "https://apnews.com/article/china-us-ai-models-safety-concerns-adb45169d436d5f940fc7b4ebeaeef3b",
+    "title": "As the world debates the risks of AI, China closes technology gap with the US",
+    "description": "Article URL: https://apnews.com/article/china-us-ai-models-safety-concerns-adb45169d436d5f940fc7b4ebeaeef3b\nComments URL: https://news.ycombinator.com/item?id=49718628\nPoints: 5\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-15T22:24:49.176Z",
+    "published": "Tue, 15 Sep 2026 20:41:34 +0000"
   }
 ]
