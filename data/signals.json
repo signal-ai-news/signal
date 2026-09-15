@@ -56371,5 +56371,141 @@
     "published": "Tue, 15 Sep 2026 09:04:36 +0000",
     "processed": true,
     "processedAt": "2026-09-15T10:23:44.926Z"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+    "title": "New insights from Google’s AI & Economy ATLAS",
+    "description": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-09-15T15:13:00.634Z",
+    "published": "Tue, 15 Sep 2026 13:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-15T15:15:58.994Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+    "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+    "description": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-15T15:13:02.793Z",
+    "published": "Tue, 15 Sep 2026 14:42:37 +0000",
+    "processed": true,
+    "processedAt": "2026-09-15T15:15:58.994Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+    "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+    "description": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-15T15:13:02.793Z",
+    "published": "Tue, 15 Sep 2026 13:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-15T15:15:58.994Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+    "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+    "description": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-15T15:13:02.793Z",
+    "published": "Tue, 15 Sep 2026 12:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-15T15:15:58.994Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
+    "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: th",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-15T15:13:04.020Z",
+    "published": "Tue, 15 Sep 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-15T15:15:58.994Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+    "title": "AI models need more data about biology, and OpenAI is paying to create it",
+    "description": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturing",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-15T15:13:04.020Z",
+    "published": "Tue, 15 Sep 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-build-consistent-designs-with-claude-code/",
+    "title": "How to Build Consistent Designs with Claude Code",
+    "description": "Keep your apps looking professional with Claude Code design skills\nThe post How to Build Consistent Designs with Claude Code appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-15T15:13:25.326Z",
+    "published": "Tue, 15 Sep 2026 14:00:01 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-many-labeled-examples-does-a-text-classifier-actually-need-i-measured-it/",
+    "title": "How Many Labeled Examples Does a Text Classifier Actually Need? I Measured It.",
+    "description": "Before reaching for an LLM API on every classification problem, it's worth knowing what a decades-old baseline can already do with the labeled data you have — and exactly how much more data buys you.\nThe post How Many Labeled Examples Does a Text Classifier Actually Need? I Measured It. appeared fir",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-15T15:13:25.326Z",
+    "published": "Tue, 15 Sep 2026 11:00:01 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/after-warning-ai-is-too-dangerous-bill-gates-bets-a-billion-on-its-upside/",
+    "title": "After warning AI is too dangerous, Bill Gates bets a billion on its upside",
+    "description": "The Gates Foundation is investing at least a billion dollars over two years to make AI tools more widely available in health, education, and agriculture. Bill Gates warns that more than 90 percent of the training data behind early language models came from English sources, and that speech r",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-15T15:13:26.866Z",
+    "published": "Tue, 15 Sep 2026 14:26:48 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/apple-brings-a-fully-revamped-siri-built-on-googles-gemini-but-not-to-the-eu/",
+    "title": "Apple brings a fully revamped Siri built on Google's Gemini, but not to the EU",
+    "description": "Apple is shipping its rebuilt \"Siri AI\" after years of delay, built on Google's Gemini models and running partly on the device, partly through Private Cloud Compute. Early testers praise multi-step requests and screen context, but report hallucinations and gaps with personal context. In the",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-15T15:13:26.866Z",
+    "published": "Tue, 15 Sep 2026 10:33:03 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2258403/meta-adds-new-subscription-tiers-for-businesses-creators-and-ai-power-users/",
+    "title": "Meta adds new subscription tiers for businesses, creators and 'AI power users'",
+    "description": "The company&#39;s Meta One plans range from $2.99/month to $499/month.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-15T15:13:53.114Z",
+    "published": "Tue, 15 Sep 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2257982/spotify-can-now-exclude-your-kids-music-taste-from-recommendations/",
+    "title": "Spotify can now exclude your kids' music taste from recommendations",
+    "description": "Will this mark the end of Disney songs popping up in your Daily Mix?",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-15T15:13:53.114Z",
+    "published": "Tue, 15 Sep 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2257186/htc-vive-eagle-review/",
+    "title": "HTC Vive Eagle review: Pricey smart glasses that fail to impress",
+    "description": "HTC&#39;s pricey Vive Eagle smart glasses are a credible alternative to Meta, but you&#39;ll still struggle to find a reason to buy a pair.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-15T15:13:53.114Z",
+    "published": "Tue, 15 Sep 2026 11:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2258771/apple-adds-apple-tv-and-arcade-to-icloud-plus-subscriptions/",
+    "title": "Apple adds TV and Arcade to iCloud+ subscriptions in 100 countries",
+    "description": "Apple is bundling in more services, including TV, with its cheaper iCloud+ subscriptions in certain regions.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-15T15:13:53.114Z",
+    "published": "Tue, 15 Sep 2026 10:26:53 +0000"
   }
 ]
