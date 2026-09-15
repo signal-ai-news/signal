@@ -12205,7 +12205,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-08-01T12:17:53.487Z",
-    "published": "Sat, 01 Aug 2026 09:30:00 +0000"
+    "published": "Sat, 01 Aug 2026 09:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-15T10:23:44.925Z"
   },
   {
     "url": "https://www.zdnet.com/article/ai-in-formula-one-competitive-advantage-is-all-about-the-human-in-the-loop/",
@@ -12214,7 +12216,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-08-01T12:18:00.359Z",
-    "published": "Sat, 01 Aug 2026 10:01:02 GMT"
+    "published": "Sat, 01 Aug 2026 10:01:02 GMT",
+    "processed": true,
+    "processedAt": "2026-09-15T10:23:44.925Z"
   },
   {
     "url": "https://www.bloomberg.com/news/articles/2026-07-30/how-chatgpt-and-ai-are-dividing-friends-and-families",
@@ -12278,7 +12282,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T15:48:20.299Z",
-    "published": "Sat, 01 Aug 2026 13:56:31 +0000"
+    "published": "Sat, 01 Aug 2026 13:56:31 +0000",
+    "processed": true,
+    "processedAt": "2026-09-15T10:23:44.925Z"
   },
   {
     "url": "https://github.com/schmitech/orbit",
@@ -56343,5 +56349,27 @@
     "category": "community",
     "discovered": "2026-09-15T05:11:53.012Z",
     "published": "Tue, 15 Sep 2026 00:40:14 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+    "title": "What must happen for AI’s trillion-dollar gamble to pay off",
+    "description": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in ques",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-15T10:21:16.375Z",
+    "published": "Tue, 15 Sep 2026 10:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-15T10:23:44.926Z"
+  },
+  {
+    "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety/",
+    "title": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+    "description": "OpenAI, Anthropic, and Google want to slow down frontier AI development, citing safety concerns. But critics from across the industry and politics are pushing back. Cohere CEO Aidan Gomez calls the initiative a \"cartel by another name\" designed to shut out competitors, and the White House a",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-15T10:21:26.873Z",
+    "published": "Tue, 15 Sep 2026 09:04:36 +0000",
+    "processed": true,
+    "processedAt": "2026-09-15T10:23:44.926Z"
   }
 ]
