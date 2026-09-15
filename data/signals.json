@@ -12161,7 +12161,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-08-01T12:17:46.735Z",
-    "published": "Sat, 01 Aug 2026 10:40:50 +0000"
+    "published": "Sat, 01 Aug 2026 10:40:50 +0000",
+    "processed": true,
+    "processedAt": "2026-09-15T00:28:55.100Z"
   },
   {
     "url": "https://the-decoder.com/openai-announces-its-next-major-model-astra-by-dropping-ten-previously-unsolved-math-solutions/",
@@ -12170,7 +12172,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-08-01T12:17:46.735Z",
-    "published": "Sat, 01 Aug 2026 09:29:49 +0000"
+    "published": "Sat, 01 Aug 2026 09:29:49 +0000",
+    "processed": true,
+    "processedAt": "2026-09-15T00:28:55.100Z"
   },
   {
     "url": "https://the-decoder.com/google-handed-users-the-easiest-possible-tool-for-fake-satellite-imagery-then-pulled-it-after-two-days/",
@@ -12179,7 +12183,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-08-01T12:17:46.735Z",
-    "published": "Sat, 01 Aug 2026 09:00:04 +0000"
+    "published": "Sat, 01 Aug 2026 09:00:04 +0000",
+    "processed": true,
+    "processedAt": "2026-09-15T00:28:55.100Z"
   },
   {
     "url": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
@@ -12188,7 +12194,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-08-01T12:17:53.487Z",
-    "published": "Sat, 01 Aug 2026 10:30:00 +0000"
+    "published": "Sat, 01 Aug 2026 10:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-15T00:28:55.100Z"
   },
   {
     "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
@@ -56152,5 +56160,16 @@
     "category": "news",
     "discovered": "2026-09-14T21:59:00.725Z",
     "published": "Mon, 14 Sep 2026 18:28:54 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2255053/samsung-galaxy-s24-is-it-still-worth-buying/",
+    "title": "Is the Samsung Galaxy S24 still worth buying?",
+    "description": "A refurbished S24 can still be a good deal, but its price needs to be low enough to justify buying a two-year-old phone instead of a newer model.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-15T00:26:49.355Z",
+    "published": "Mon, 14 Sep 2026 23:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-15T00:28:55.102Z"
   }
 ]
