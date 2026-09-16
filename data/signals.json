@@ -12348,7 +12348,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T15:48:20.299Z",
-    "published": "Sat, 01 Aug 2026 13:06:10 +0000"
+    "published": "Sat, 01 Aug 2026 13:06:10 +0000",
+    "processed": true,
+    "processedAt": "2026-09-16T11:20:26.577Z"
   },
   {
     "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
@@ -12357,7 +12359,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T15:48:20.299Z",
-    "published": "Sat, 01 Aug 2026 13:02:44 +0000"
+    "published": "Sat, 01 Aug 2026 13:02:44 +0000",
+    "processed": true,
+    "processedAt": "2026-09-16T11:20:26.577Z"
   },
   {
     "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
@@ -12366,7 +12370,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T15:48:20.299Z",
-    "published": "Sat, 01 Aug 2026 12:56:54 +0000"
+    "published": "Sat, 01 Aug 2026 12:56:54 +0000",
+    "processed": true,
+    "processedAt": "2026-09-16T11:20:26.577Z"
   },
   {
     "url": "https://zeltser.com/ai-security-market-field-guide",
@@ -57051,5 +57057,27 @@
     "category": "community",
     "discovered": "2026-09-16T00:43:34.012Z",
     "published": "Tue, 15 Sep 2026 22:25:57 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/nearly-one-in-five-ai-researchers-already-expected-an-extinction-scenario-from-ai-back-in-2024/",
+    "title": "Nearly one in five AI researchers already expected an extinction scenario from AI back in 2024",
+    "description": "Anthropic researcher Jacob Coxon sparked an intense debate about existential AI risks with a single tweet. OpenAI researcher Daniel Selsam warns of a \"ticking time bomb,\" and a former Deepmind researcher says AI could kill us all. In a survey of more than 1,500 leading AI researchers, the a",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-16T11:18:08.507Z",
+    "published": "Wed, 16 Sep 2026 10:20:02 +0000",
+    "processed": true,
+    "processedAt": "2026-09-16T11:20:26.578Z"
+  },
+  {
+    "url": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
+    "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
+    "description": "The US and China agree that advanced AI poses serious risks. But Beijing is deeply skeptical of a deal that prioritizes keeping US companies ahead.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-16T11:18:14.541Z",
+    "published": "Wed, 16 Sep 2026 09:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-16T11:20:26.578Z"
   }
 ]
