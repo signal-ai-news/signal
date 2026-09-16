@@ -57079,5 +57079,123 @@
     "published": "Wed, 16 Sep 2026 09:30:00 +0000",
     "processed": true,
     "processedAt": "2026-09-16T11:20:26.578Z"
+  },
+  {
+    "url": "https://openai.com/index/reimagining-advertising-with-ai",
+    "title": "Reimagining advertising with AI",
+    "description": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-16T15:30:43.400Z",
+    "published": "Wed, 16 Sep 2026 13:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-16T15:33:34.796Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+    "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+    "description": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-16T15:30:46.786Z",
+    "published": "Wed, 16 Sep 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-16T15:33:34.796Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+    "title": "Former Infosys chief’s AI startup nabs another $53M",
+    "description": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-16T15:30:46.786Z",
+    "published": "Wed, 16 Sep 2026 13:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-16T15:33:34.796Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
+    "title": "Meet a mouse whose brain cortex is made up of human cells",
+    "description": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.&#160; The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mix the brain tis",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-16T15:30:48.070Z",
+    "published": "Wed, 16 Sep 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-16T15:33:34.796Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+    "title": "Building the materials foundation for AI",
+    "description": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, ele",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-16T15:30:48.070Z",
+    "published": "Wed, 16 Sep 2026 12:47:34 +0000",
+    "processed": true,
+    "processedAt": "2026-09-16T15:33:34.796Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+    "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess AI’s impa",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-16T15:30:48.070Z",
+    "published": "Wed, 16 Sep 2026 12:10:00 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/silent-broadcasting-can-ruin-your-model/",
+    "title": "Silent Broadcasting Can Ruin Your Model",
+    "description": "PyTorch and TensorFlow tensor broadcasting: how silent shape errors cause difficult-to-debug machine learning bugs\nThe post Silent Broadcasting Can Ruin Your Model appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-16T15:31:10.596Z",
+    "published": "Wed, 16 Sep 2026 14:00:01 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/the-kv-cache-tax-why-inference-servers-run-out-of-memory-before-compute/",
+    "title": "The KV Cache Tax: Why Inference Servers Run Out of Memory Before Compute",
+    "description": "A VRAM budget formula for LLM serving, and three optimization strategies mapped to the traffic patterns that trigger the OOM.\nThe post The KV Cache Tax: Why Inference Servers Run Out of Memory Before Compute appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-16T15:31:10.596Z",
+    "published": "Wed, 16 Sep 2026 12:30:02 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/former-openai-researcher-builds-an-ai-model-that-judges-options-instead-of-writing-text/",
+    "title": "Former OpenAI researcher builds an AI model that judges options instead of writing text",
+    "description": "TypeSafe AI, founded by former OpenAI researcher Diogo Almeida, is releasing a model that deliberately generates no text. Instead of chat responses, \"Jev\" delivers pure classifications for software, with response times starting at 70 milliseconds and extremely low token prices. The approach",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-16T15:31:12.556Z",
+    "published": "Wed, 16 Sep 2026 15:19:19 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/mozillas-new-smart-window-assistant-runs-on-mistrals-models/",
+    "title": "Mozilla's new Smart Window assistant runs on Mistral's models",
+    "description": "Mistral and Mozilla are teaming up to offer AI-powered browsing that puts privacy first.\nThe article Mozilla&#039;s new Smart Window assistant runs on Mistral&#039;s models appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-16T15:31:12.556Z",
+    "published": "Wed, 16 Sep 2026 15:01:38 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/political-opposites-unite-in-washington-to-rein-in-ai/",
+    "title": "Political opposites unite in Washington to rein in AI",
+    "description": "From Bernie Sanders to Steve Bannon, political opposites in Washington are jointly demanding hard brakes on artificial intelligence. Sanders wants a construction freeze on data centers, while OpenAI is backing the FRONTIER Act and its mandatory outside safety audits for the first time. Desp",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-16T15:31:12.556Z",
+    "published": "Wed, 16 Sep 2026 14:59:58 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2260114/snap-specs-launch-live-blog-evan-spiegel-keynote/",
+    "title": "Snap Specs launch 2026: Live updates from CEO Evan Spiegel's keynote",
+    "description": "More details on the company&#39;s chunky smart glasses are expected today.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-16T15:31:27.193Z",
+    "published": "Wed, 16 Sep 2026 15:00:00 +0000"
   }
 ]
