@@ -56878,5 +56878,168 @@
     "category": "community",
     "discovered": "2026-09-15T22:24:49.176Z",
     "published": "Tue, 15 Sep 2026 20:41:34 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+    "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+    "description": "AI isn't some kind of new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-16T00:43:28.582Z",
+    "published": "Wed, 16 Sep 2026 00:20:39 +0000",
+    "processed": true,
+    "processedAt": "2026-09-16T00:46:01.412Z"
+  },
+  {
+    "url": "https://www.wsj.com/cio-journal/nvidia-and-crowdstrike-develop-new-cybersecurity-ai-models-937bb2aa",
+    "title": "Nvidia and CrowdStrike Develop New Cybersecurity AI Models",
+    "description": "Article URL: https://www.wsj.com/cio-journal/nvidia-and-crowdstrike-develop-new-cybersecurity-ai-models-937bb2aa\nComments URL: https://news.ycombinator.com/item?id=49720615\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T00:43:34.012Z",
+    "published": "Wed, 16 Sep 2026 00:19:09 +0000",
+    "processed": true,
+    "processedAt": "2026-09-16T00:46:01.412Z"
+  },
+  {
+    "url": "https://www.biom.dev/",
+    "title": "Show HN: Biom – A visual workspace where your AI agents' work lands",
+    "description": "Article URL: https://www.biom.dev/\nComments URL: https://news.ycombinator.com/item?id=49720507\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T00:43:34.012Z",
+    "published": "Wed, 16 Sep 2026 00:02:16 +0000",
+    "processed": true,
+    "processedAt": "2026-09-16T00:46:01.412Z"
+  },
+  {
+    "url": "https://github.com/plurnk/plurnk",
+    "title": "Show HN: Plurnk (Yet *Another* AI Harness)",
+    "description": "I am desperate for feedback on my homebrewed harness, \"Plurnk.\"I've been dogfooding it on my RTX5070Ti with only 16GB VRAM as my daily driver for weeks now and it's genuinely better than everything else available (I'm biased).1. Curation, not CompactionThe model's fully responsible (bitter lesson)",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T00:43:34.012Z",
+    "published": "Tue, 15 Sep 2026 23:57:14 +0000",
+    "processed": true,
+    "processedAt": "2026-09-16T00:46:01.412Z"
+  },
+  {
+    "url": "https://www.pbs.org/video/ghost-in-the-machine-nynp3f/",
+    "title": "Independent Lens – Ghost in the Machine: AI's troubled history, current impacts",
+    "description": "Article URL: https://www.pbs.org/video/ghost-in-the-machine-nynp3f/\nComments URL: https://news.ycombinator.com/item?id=49720425\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T00:43:34.012Z",
+    "published": "Tue, 15 Sep 2026 23:50:43 +0000",
+    "processed": true,
+    "processedAt": "2026-09-16T00:46:01.412Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=it7TAwjwH5E",
+    "title": "Probably the best laptop with Linux support and Local LLM AI [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=it7TAwjwH5E\nComments URL: https://news.ycombinator.com/item?id=49720322\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T00:43:34.012Z",
+    "published": "Tue, 15 Sep 2026 23:37:21 +0000"
+  },
+  {
+    "url": "https://joinhandshake.com/research/benchmarks/articles/atlas-finance-evaluating-ai-agents-inside-a-bank/",
+    "title": "Atlas-Finance: Evaluating AI Agents Inside a Bank",
+    "description": "Article URL: https://joinhandshake.com/research/benchmarks/articles/atlas-finance-evaluating-ai-agents-inside-a-bank/\nComments URL: https://news.ycombinator.com/item?id=49720319\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T00:43:34.012Z",
+    "published": "Tue, 15 Sep 2026 23:37:11 +0000"
+  },
+  {
+    "url": "https://1f3d9.com/window/map",
+    "title": "1F3D9: A world where anyone's AI agent can go to live without humans",
+    "description": "Article URL: https://1f3d9.com/window/map\nComments URL: https://news.ycombinator.com/item?id=49720289\nPoints: 2\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T00:43:34.012Z",
+    "published": "Tue, 15 Sep 2026 23:33:44 +0000"
+  },
+  {
+    "url": "https://github.com/pausan/agenttik",
+    "title": "Show HN: Agenttik – work on multiple projects in parallel with AI agents",
+    "description": "Hi! I've been reading HN daily for almost 16 years. Really glad this community\nexist. This is my first Show HN, so I hope you find this tool useful/interesting.During my summer holidays I started playing with latest AI models on personal\nprojects. At one point I started working in parallel with the",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T00:43:34.012Z",
+    "published": "Tue, 15 Sep 2026 23:24:53 +0000"
+  },
+  {
+    "url": "https://github.com/cookiy-ai/sell-sessions-skill",
+    "title": "Show HN: Open-source tool to sell your Claude Code and Codex sessions",
+    "description": "Article URL: https://github.com/cookiy-ai/sell-sessions-skill\nComments URL: https://news.ycombinator.com/item?id=49720176\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T00:43:34.012Z",
+    "published": "Tue, 15 Sep 2026 23:18:50 +0000"
+  },
+  {
+    "url": "https://percentshop.vercel.app/",
+    "title": "Say No to AI Filters",
+    "description": "Article URL: https://percentshop.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49720015\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T00:43:34.012Z",
+    "published": "Tue, 15 Sep 2026 22:58:53 +0000"
+  },
+  {
+    "url": "https://claude.com/blog/salesforce-in-claude",
+    "title": "Salesforce in Claude",
+    "description": "Article URL: https://claude.com/blog/salesforce-in-claude\nComments URL: https://news.ycombinator.com/item?id=49719982\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T00:43:34.012Z",
+    "published": "Tue, 15 Sep 2026 22:55:07 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49719966",
+    "title": "Has anyone made any money/successes making SaaS's with AI?",
+    "description": "I've had a few attempts on side projects throughout the years. Nothing seems to stick and now with AI it's as if everything is possible yet equates to 0 value. Can I get some feedback? What am I doing wrong? Is it just too late?My actual public attempts so far:\ncluekangaroo.com - structured homewor",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T00:43:34.012Z",
+    "published": "Tue, 15 Sep 2026 22:53:53 +0000"
+  },
+  {
+    "url": "https://thedefensepost.com/2026/09/15/anthropic-claude-weapons-surveillance/",
+    "title": "Anthropic Confirms Claude AI Use in Weapons and Surveillance",
+    "description": "Article URL: https://thedefensepost.com/2026/09/15/anthropic-claude-weapons-surveillance/\nComments URL: https://news.ycombinator.com/item?id=49719891\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T00:43:34.012Z",
+    "published": "Tue, 15 Sep 2026 22:46:21 +0000"
+  },
+  {
+    "url": "https://ministryofcyberaffairs.com/news/skill-poisioning-turning-ai-agents-into-malware-droppers-warns-china-s-national-cert-66b8bba4-9ffd-4583-a6c7-122e8149e0e8",
+    "title": "Skill Poisioning turning AI agents into malware droppers",
+    "description": "Article URL: https://ministryofcyberaffairs.com/news/skill-poisioning-turning-ai-agents-into-malware-droppers-warns-china-s-national-cert-66b8bba4-9ffd-4583-a6c7-122e8149e0e8\nComments URL: https://news.ycombinator.com/item?id=49719882\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T00:43:34.012Z",
+    "published": "Tue, 15 Sep 2026 22:44:05 +0000"
+  },
+  {
+    "url": "https://rapidkt.com/pages/blog/why_we_keep_humans_at_the_center_of_ai_skill_transfer",
+    "title": "We Keep Humans at the Center of AI Skill Transfer",
+    "description": "Article URL: https://rapidkt.com/pages/blog/why_we_keep_humans_at_the_center_of_ai_skill_transfer\nComments URL: https://news.ycombinator.com/item?id=49719718\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T00:43:34.012Z",
+    "published": "Tue, 15 Sep 2026 22:27:13 +0000"
+  },
+  {
+    "url": "https://aistlgenerator.com/",
+    "title": "AI STL Generator – Turn text and images into 3D-printable STL files",
+    "description": "Article URL: https://aistlgenerator.com/\nComments URL: https://news.ycombinator.com/item?id=49719708\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T00:43:34.012Z",
+    "published": "Tue, 15 Sep 2026 22:25:57 +0000"
   }
 ]
