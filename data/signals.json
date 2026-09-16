@@ -57197,5 +57197,114 @@
     "category": "news",
     "discovered": "2026-09-16T15:31:27.193Z",
     "published": "Wed, 16 Sep 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "title": "Helping older adults use AI in everyday life",
+    "description": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-16T19:02:01.043Z",
+    "published": "Wed, 16 Sep 2026 16:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-16T19:04:38.858Z"
+  },
+  {
+    "url": "https://openai.com/index/unlocking-new-ways-of-working",
+    "title": "How workers are unlocking new ways of working",
+    "description": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-16T19:02:01.043Z",
+    "published": "Wed, 16 Sep 2026 09:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-16T19:04:38.858Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+    "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+    "description": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-16T19:02:04.419Z",
+    "published": "Wed, 16 Sep 2026 18:25:25 +0000",
+    "processed": true,
+    "processedAt": "2026-09-16T19:04:38.858Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+    "title": "Your AI agents can now control your Google Home devices",
+    "description": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-16T19:02:04.419Z",
+    "published": "Wed, 16 Sep 2026 17:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-16T19:04:38.858Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+    "title": "Anthropic merges Claude chat and Cowork in one interface",
+    "description": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-16T19:02:04.419Z",
+    "published": "Wed, 16 Sep 2026 16:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-16T19:04:38.858Z"
+  },
+  {
+    "url": "https://the-decoder.com/apple-is-reportedly-building-an-enterprise-ai-server-with-its-own-m8-ultra-chips/",
+    "title": "Apple is reportedly building an enterprise AI server with its own M8 Ultra chips",
+    "description": "According to The Information, Apple is working on an enterprise server with two or four M8 Ultra chips for the AI inference market, with a possible launch no earlier than 2029. Apple is considering Nvidia's NVLink Fusion technology to connect the chips. The project could get a boost from Op",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-16T19:02:17.867Z",
+    "published": "Wed, 16 Sep 2026 18:16:27 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-merges-claude-chat-cowork-and-more-into-a-single-product/",
+    "title": "Anthropic merges Claude Chat, Cowork, and more into a single product",
+    "description": "Anthropic is merging Claude Chat and Cowork into a single product. Instead of users picking between interfaces, Claude now decides on its own whether a task needs a quick answer or a bigger workflow. The update also adds Claude Docs and Claude Slides for creating documents and presentations",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-16T19:02:17.867Z",
+    "published": "Wed, 16 Sep 2026 16:31:41 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/i-trained-a-fly-on-wired-story-ideas/",
+    "title": "I Trained a Fly’s Brain to Generate WIRED Story Ideas",
+    "description": "I used an open-source map of a fruit fly’s brain to vibe code a website called PitchFly. Its headline suggestions were delightfully bananas.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-16T19:02:24.686Z",
+    "published": "Wed, 16 Sep 2026 19:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2260455/the-boox-note-air6c-e-ink-tablet-flips-pages-nearly-40-percent-faster/",
+    "title": "The Boox Note Air6C E Ink tablet flips pages nearly 40 percent faster",
+    "description": "The 10.3-inch color ereader runs Android 16 and can access the Google Play Store.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-16T19:02:32.177Z",
+    "published": "Wed, 16 Sep 2026 17:36:21 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2260280/google-home-is-going-agentic-via-integration-with-the-mcp-standard/",
+    "title": "Google Home is going agentic via integration with the MCP standard",
+    "description": "Premium Advanced users will get an early access build &#34;in the coming weeks.&#34;",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-16T19:02:32.177Z",
+    "published": "Wed, 16 Sep 2026 17:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2259938/anthropics-claude-can-now-create-editable-documents-for-you-cowork-chat-together/",
+    "title": "Anthropic's Claude can now create editable documents for you",
+    "description": "Anthropic is adding the ability to create docs, slideshow and access Cowork capabilities inside chat. It will roll out to Pro and Max subscribers first.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-16T19:02:32.177Z",
+    "published": "Wed, 16 Sep 2026 16:30:00 +0000"
   }
 ]
