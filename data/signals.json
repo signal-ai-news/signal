@@ -57306,5 +57306,240 @@
     "category": "news",
     "discovered": "2026-09-16T19:02:32.177Z",
     "published": "Wed, 16 Sep 2026 16:30:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "title": "How to connect AI usage to business value",
+    "description": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-16T22:03:04.646Z",
+    "published": "Wed, 16 Sep 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-16T22:05:46.508Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+    "description": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-16T22:03:07.731Z",
+    "published": "Wed, 16 Sep 2026 21:07:24 +0000",
+    "processed": true,
+    "processedAt": "2026-09-16T22:05:46.508Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+    "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+    "description": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-16T22:03:07.731Z",
+    "published": "Wed, 16 Sep 2026 20:12:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-16T22:05:46.508Z"
+  },
+  {
+    "url": "https://cahlik.net/blog/openais-hugging-face-hack-is-the-best-ai-safety-opportunity-so-far/",
+    "title": "OpenAI's Hugging Face Hack Is the Best AI Safety Opportunity So Far",
+    "description": "Article URL: https://cahlik.net/blog/openais-hugging-face-hack-is-the-best-ai-safety-opportunity-so-far/\nComments URL: https://news.ycombinator.com/item?id=49733629\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T22:03:21.606Z",
+    "published": "Wed, 16 Sep 2026 21:59:47 +0000",
+    "processed": true,
+    "processedAt": "2026-09-16T22:05:46.508Z"
+  },
+  {
+    "url": "https://zenodo.org/records/22755791",
+    "title": "Characterizing ~375 GB Kimi K2.5 on a 128 GB Ryzen AI MAX+ 395 PC",
+    "description": "Article URL: https://zenodo.org/records/22755791\nComments URL: https://news.ycombinator.com/item?id=49733551\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T22:03:21.606Z",
+    "published": "Wed, 16 Sep 2026 21:52:46 +0000",
+    "processed": true,
+    "processedAt": "2026-09-16T22:05:46.508Z"
+  },
+  {
+    "url": "https://www.ft.com/content/7a5e15e4-799a-4476-ba9f-018b1d82c76f",
+    "title": "AI is creating ghostwriting jobs on LinkedIn",
+    "description": "Article URL: https://www.ft.com/content/7a5e15e4-799a-4476-ba9f-018b1d82c76f\nComments URL: https://news.ycombinator.com/item?id=49733356\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T22:03:21.606Z",
+    "published": "Wed, 16 Sep 2026 21:35:19 +0000"
+  },
+  {
+    "url": "https://twitter.com/markgurman/status/2100252758859489391",
+    "title": "Apple's M6, M7 and M8 Chips Show How AI Is Reshaping the Company",
+    "description": "Article URL: https://twitter.com/markgurman/status/2100252758859489391\nComments URL: https://news.ycombinator.com/item?id=49733257\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T22:03:21.606Z",
+    "published": "Wed, 16 Sep 2026 21:27:49 +0000"
+  },
+  {
+    "url": "https://claudecookie.com/",
+    "title": "Cookie converter and Claude session check I use",
+    "description": "Article URL: https://claudecookie.com/\nComments URL: https://news.ycombinator.com/item?id=49733195\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T22:03:21.606Z",
+    "published": "Wed, 16 Sep 2026 21:20:43 +0000"
+  },
+  {
+    "url": "https://www.natesilver.net/p/were-not-ready-for-superpersistent",
+    "title": "We're not ready for superpersistent AI",
+    "description": "Article URL: https://www.natesilver.net/p/were-not-ready-for-superpersistent\nComments URL: https://news.ycombinator.com/item?id=49733022\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T22:03:21.606Z",
+    "published": "Wed, 16 Sep 2026 21:06:22 +0000"
+  },
+  {
+    "url": "https://github.com/alphasolutionsrepo/interakt",
+    "title": "Show HN: Interakt – open-source self-hosted search and AI chat for your website",
+    "description": "Article URL: https://github.com/alphasolutionsrepo/interakt\nComments URL: https://news.ycombinator.com/item?id=49732963\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T22:03:21.606Z",
+    "published": "Wed, 16 Sep 2026 21:01:06 +0000"
+  },
+  {
+    "url": "https://fsfe.org/news/2026/news-20260825-01.fr.html",
+    "title": "Copyrightability of LLM-Generated Code",
+    "description": "Article URL: https://fsfe.org/news/2026/news-20260825-01.fr.html\nComments URL: https://news.ycombinator.com/item?id=49732832\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T22:03:21.606Z",
+    "published": "Wed, 16 Sep 2026 20:52:15 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49732721",
+    "title": "Ask HN: How would you anthropomorphize the Anthropic Claude logo?",
+    "description": "As the title states.\n\nComments URL: https://news.ycombinator.com/item?id=49732721\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T22:03:21.606Z",
+    "published": "Wed, 16 Sep 2026 20:42:28 +0000"
+  },
+  {
+    "url": "https://cdn.ca9.uscourts.gov/datastore/opinions/2026/09/16/24-7700.pdf",
+    "title": "DOE vs. GitHub, INC: LLM generated-content not a DMCA violation [pdf]",
+    "description": "Article URL: https://cdn.ca9.uscourts.gov/datastore/opinions/2026/09/16/24-7700.pdf\nComments URL: https://news.ycombinator.com/item?id=49732596\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T22:03:21.606Z",
+    "published": "Wed, 16 Sep 2026 20:33:05 +0000"
+  },
+  {
+    "url": "https://tesseracted-labs-blog.vercel.app/enforcing-coding-agent-guardrails-in-the-runtime-instead-of-the-prompt",
+    "title": "Claude.md is good for taste and project context.It's a weak place for invariants",
+    "description": "Article URL: https://tesseracted-labs-blog.vercel.app/enforcing-coding-agent-guardrails-in-the-runtime-instead-of-the-prompt\nComments URL: https://news.ycombinator.com/item?id=49732569\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T22:03:21.606Z",
+    "published": "Wed, 16 Sep 2026 20:31:10 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=siy0744Ykys",
+    "title": "Who's afraid of open source AI?",
+    "description": "Article URL: https://www.youtube.com/watch?v=siy0744Ykys\nComments URL: https://news.ycombinator.com/item?id=49732526\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T22:03:21.606Z",
+    "published": "Wed, 16 Sep 2026 20:28:16 +0000"
+  },
+  {
+    "url": "https://blog.mozilla.org/en/firefox/mozilla-mistral-partnership/",
+    "title": "Mozilla and Mistral partner to expand AI competition and preserve user choice",
+    "description": "Article URL: https://blog.mozilla.org/en/firefox/mozilla-mistral-partnership/\nComments URL: https://news.ycombinator.com/item?id=49732515\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T22:03:21.606Z",
+    "published": "Wed, 16 Sep 2026 20:27:23 +0000"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+    "title": "The sexy AI-powered dating app scams are here (gift link)",
+    "description": "Article URL: https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams\nComments URL: https://news.ycombinator.com/item?id=49732478\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T22:03:21.606Z",
+    "published": "Wed, 16 Sep 2026 20:24:30 +0000"
+  },
+  {
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/16/typesafe-ai-debuts-model-for-machines-that-plays-doom/5296711",
+    "title": "TypeSafe AI debuts model for machines that plays Doom",
+    "description": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/16/typesafe-ai-debuts-model-for-machines-that-plays-doom/5296711\nComments URL: https://news.ycombinator.com/item?id=49732395\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T22:03:21.606Z",
+    "published": "Wed, 16 Sep 2026 20:18:24 +0000"
+  },
+  {
+    "url": "https://agent.milotche.com/en/",
+    "title": "Show HN: A wall where only AI agents can write, one Oulipo rule a day",
+    "description": "Article URL: https://agent.milotche.com/en/\nComments URL: https://news.ycombinator.com/item?id=49732271\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T22:03:21.606Z",
+    "published": "Wed, 16 Sep 2026 20:09:34 +0000"
+  },
+  {
+    "url": "https://finance.yahoo.com/technology/ai/articles/apple-building-m8-ai-servers-134927360.html",
+    "title": "Apple building M8 AI servers, talks with Nvidia, reports The Information",
+    "description": "Article URL: https://finance.yahoo.com/technology/ai/articles/apple-building-m8-ai-servers-134927360.html\nComments URL: https://news.ycombinator.com/item?id=49732221\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T22:03:21.606Z",
+    "published": "Wed, 16 Sep 2026 20:05:55 +0000"
+  },
+  {
+    "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
+    "title": "Bypassing inference bottlenecks: Accelerating complex AI search",
+    "description": "Article URL: https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/\nComments URL: https://news.ycombinator.com/item?id=49732153\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T22:03:21.606Z",
+    "published": "Wed, 16 Sep 2026 20:01:08 +0000"
+  },
+  {
+    "url": "https://reidhoffman.substack.com/p/ai-dual-mandate",
+    "title": "Reid Hoffman – AI for All Americans",
+    "description": "Article URL: https://reidhoffman.substack.com/p/ai-dual-mandate\nComments URL: https://news.ycombinator.com/item?id=49731942\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-16T22:03:21.606Z",
+    "published": "Wed, 16 Sep 2026 19:46:33 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/",
+    "title": "EU president warns AI agents \"escaping their environment\" are just a preview of what's coming",
+    "description": "Ursula von der Leyen plans to invite the major frontier labs to talks and use the AI Act to help set global AI safety standards. She cited autonomous hacking and self-improving models as immediate risks.\nThe article EU president warns AI agents &quot;escaping their environment&quot; are jus",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-16T22:03:28.431Z",
+    "published": "Wed, 16 Sep 2026 19:02:25 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/washington-wont-be-regulating-ai-anytime-soon/",
+    "title": "Washington Won’t Be Regulating AI Anytime Soon",
+    "description": "Even with mounting concerns about AI models going rogue, legislation appears unlikely, and the White House is outright opposed to oversight.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-16T22:03:34.503Z",
+    "published": "Wed, 16 Sep 2026 21:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2260794/apple-s-redesigned-health-app-is-available-now-in-the-ios-27-2-developer-beta/",
+    "title": "Apple's redesigned Health app is available now in the iOS 27.2 developer beta",
+    "description": "New features like Health Age bring Apple&#39;s app more in line with competitors like Whoop and Oura.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-16T22:03:41.197Z",
+    "published": "Wed, 16 Sep 2026 21:18:43 +0000"
   }
 ]
