@@ -12381,7 +12381,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T15:48:20.299Z",
-    "published": "Sat, 01 Aug 2026 12:39:39 +0000"
+    "published": "Sat, 01 Aug 2026 12:39:39 +0000",
+    "processed": true,
+    "processedAt": "2026-09-17T10:22:39.252Z"
   },
   {
     "url": "https://howmachinesthink.substack.com/p/july-2026-in-ai-what-actually-mattered",
@@ -12390,7 +12392,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T15:48:20.299Z",
-    "published": "Sat, 01 Aug 2026 12:38:04 +0000"
+    "published": "Sat, 01 Aug 2026 12:38:04 +0000",
+    "processed": true,
+    "processedAt": "2026-09-17T10:22:39.252Z"
   },
   {
     "url": "https://github.com/MiskaKan/thinair",
@@ -57885,5 +57889,38 @@
     "category": "code",
     "discovered": "2026-09-17T05:12:49.880Z",
     "published": "Thu, 17 Sep 2026 00:26:43 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+    "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+    "description": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-17T10:20:03.194Z",
+    "published": "Thu, 17 Sep 2026 05:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-17T10:22:39.253Z"
+  },
+  {
+    "url": "https://the-decoder.com/openais-gpt-6-astra-decrypts-a-nazi-radio-message-in-ten-hours-that-went-unsolved-for-83-years/",
+    "title": "OpenAI's GPT-6 Astra decrypts a Nazi radio message in ten hours that went unsolved for 83 years",
+    "description": "A Bloomberg developer claims to have cracked an 83-year-old Enigma message from the Wehrmacht using OpenAI's GPT-6 Astra. The 82-character radio message from 1941 contains a soldier asking about his march route. The solution still needs independent review.\nThe article OpenAI&#039;s GPT-6 As",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-17T10:20:18.745Z",
+    "published": "Thu, 17 Sep 2026 09:45:55 +0000",
+    "processed": true,
+    "processedAt": "2026-09-17T10:22:39.253Z"
+  },
+  {
+    "url": "https://www.engadget.com/2260894/oversight-board-says-metas-rules-ai-deepfakes-fundamentally-inadequate/",
+    "title": "Oversight Board says Meta's rules for AI deepfakes are 'consistently and fundamentally inadequate'",
+    "description": "The Oversight Board is asking Meta to prioritize AI content when it&#39;s reported.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-17T10:20:33.108Z",
+    "published": "Thu, 17 Sep 2026 10:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-17T10:22:39.253Z"
   }
 ]
