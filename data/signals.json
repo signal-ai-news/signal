@@ -58149,5 +58149,285 @@
     "category": "news",
     "discovered": "2026-09-17T19:13:10.059Z",
     "published": "Thu, 17 Sep 2026 17:00:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/astra-for-law",
+    "title": "Introducing Astra for Law",
+    "description": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-17T22:23:22.858Z",
+    "published": "Thu, 17 Sep 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-17T22:25:58.662Z"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+    "title": "Making global data easier to explore",
+    "description": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-09-17T22:23:24.187Z",
+    "published": "Thu, 17 Sep 2026 20:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-17T22:25:58.662Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+    "title": "The FAA’s plan to fix air traffic? $875 million worth of AI",
+    "description": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-17T22:23:25.864Z",
+    "published": "Thu, 17 Sep 2026 22:14:59 +0000",
+    "processed": true,
+    "processedAt": "2026-09-17T22:25:58.662Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+    "title": "The fix for rogue AI agents could be more AI",
+    "description": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-17T22:23:25.864Z",
+    "published": "Thu, 17 Sep 2026 20:34:47 +0000",
+    "processed": true,
+    "processedAt": "2026-09-17T22:25:58.662Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+    "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+    "description": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-17T22:23:25.864Z",
+    "published": "Thu, 17 Sep 2026 20:34:24 +0000",
+    "processed": true,
+    "processedAt": "2026-09-17T22:25:58.662Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+    "title": "Is the AI safety debate about safety or control?",
+    "description": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-17T22:23:25.864Z",
+    "published": "Thu, 17 Sep 2026 20:19:37 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+    "title": "UN turns to Google to make its global data ready for AI agents",
+    "description": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-17T22:23:25.864Z",
+    "published": "Thu, 17 Sep 2026 20:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+    "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+    "description": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-17T22:23:25.864Z",
+    "published": "Thu, 17 Sep 2026 19:46:08 +0000"
+  },
+  {
+    "url": "https://saltapp.ai/",
+    "title": "Show HN: Salt – Human and AI Economies driven across E2E encrypted chats",
+    "description": "Hello, I started building this back in 2022 and it's probably time to launch it.Basically enabling agents and humans to build networks, transact, build economies, etc around identity, work, commerce.It's still in beta, but it's been a dream for a while and it's ready to take on its first users for",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-17T22:23:33.906Z",
+    "published": "Thu, 17 Sep 2026 22:02:07 +0000"
+  },
+  {
+    "url": "https://www.businessinsider.com/resy-suspends-vcs-account-ai-agent-reservation-attempt-2026-9",
+    "title": "Resy suspends VC for using AI agents to book reservations",
+    "description": "Article URL: https://www.businessinsider.com/resy-suspends-vcs-account-ai-agent-reservation-attempt-2026-9\nComments URL: https://news.ycombinator.com/item?id=49747226\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-17T22:23:33.906Z",
+    "published": "Thu, 17 Sep 2026 22:01:14 +0000"
+  },
+  {
+    "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
+    "title": "How Claude is uplifting biomolecular modeling",
+    "description": "Article URL: https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling\nComments URL: https://news.ycombinator.com/item?id=49747128\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-17T22:23:33.906Z",
+    "published": "Thu, 17 Sep 2026 21:53:19 +0000"
+  },
+  {
+    "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+    "title": "How to Write with an LLM",
+    "description": "Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/\nComments URL: https://news.ycombinator.com/item?id=49747070\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-17T22:23:33.906Z",
+    "published": "Thu, 17 Sep 2026 21:48:38 +0000"
+  },
+  {
+    "url": "https://jeffreylminch.substack.com/p/dont-drown-the-dream-ai",
+    "title": "Don't Drown the Dream – AI",
+    "description": "Article URL: https://jeffreylminch.substack.com/p/dont-drown-the-dream-ai\nComments URL: https://news.ycombinator.com/item?id=49747041\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-17T22:23:33.906Z",
+    "published": "Thu, 17 Sep 2026 21:46:33 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.11873",
+    "title": "The Last AI Built by Humans",
+    "description": "Article URL: https://arxiv.org/abs/2609.11873\nComments URL: https://news.ycombinator.com/item?id=49746977\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-17T22:23:33.906Z",
+    "published": "Thu, 17 Sep 2026 21:41:13 +0000"
+  },
+  {
+    "url": "https://twitter.com/esrtweet/status/2100530353270100334",
+    "title": "Eric S. Raymond – This is the case against AI Doom – pass it on",
+    "description": "Article URL: https://twitter.com/esrtweet/status/2100530353270100334\nComments URL: https://news.ycombinator.com/item?id=49746809\nPoints: 12\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-17T22:23:33.906Z",
+    "published": "Thu, 17 Sep 2026 21:29:26 +0000"
+  },
+  {
+    "url": "https://ai-crawler-honeypot-697299601273.europe-west2.run.app/",
+    "title": "Show HN: AI crawler honeypot – logs every agent that requests it",
+    "description": "Article URL: https://ai-crawler-honeypot-697299601273.europe-west2.run.app/\nComments URL: https://news.ycombinator.com/item?id=49746795\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-17T22:23:33.906Z",
+    "published": "Thu, 17 Sep 2026 21:28:13 +0000"
+  },
+  {
+    "url": "https://med.stanford.edu/news/all-news/2026/09/virtual-biotech-company.html",
+    "title": "Virtual biotech company puts thousands of AI scientist agents to work",
+    "description": "Article URL: https://med.stanford.edu/news/all-news/2026/09/virtual-biotech-company.html\nComments URL: https://news.ycombinator.com/item?id=49746721\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-17T22:23:33.906Z",
+    "published": "Thu, 17 Sep 2026 21:22:02 +0000"
+  },
+  {
+    "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+    "title": "Sex, AI, and the Apocalypse",
+    "description": "Article URL: https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/\nComments URL: https://news.ycombinator.com/item?id=49746654\nPoints: 17\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-17T22:23:33.906Z",
+    "published": "Thu, 17 Sep 2026 21:15:52 +0000"
+  },
+  {
+    "url": "https://www.pentesty.co/blog/openai-safety-guardrails-ai-agent-security",
+    "title": "OpenAI Safety Guardrails: What to Test Before Trusting an AI Agent",
+    "description": "Article URL: https://www.pentesty.co/blog/openai-safety-guardrails-ai-agent-security\nComments URL: https://news.ycombinator.com/item?id=49746604\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-17T22:23:33.906Z",
+    "published": "Thu, 17 Sep 2026 21:11:32 +0000"
+  },
+  {
+    "url": "https://fughilli.substack.com/p/auditing-the-closed-esp32-c6-wi-fi",
+    "title": "ESP32 Wi-Fi Vulns: Coordinated Disclosure Is Broken by AI",
+    "description": "Article URL: https://fughilli.substack.com/p/auditing-the-closed-esp32-c6-wi-fi\nComments URL: https://news.ycombinator.com/item?id=49746583\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-17T22:23:33.906Z",
+    "published": "Thu, 17 Sep 2026 21:08:31 +0000"
+  },
+  {
+    "url": "https://reports.weforum.org/docs/WEF_Shaping_the_Future_of_Learning_2026.pdf",
+    "title": "Shaping the Future of Learning: Education Readiness for the Age of AI [pdf]",
+    "description": "Article URL: https://reports.weforum.org/docs/WEF_Shaping_the_Future_of_Learning_2026.pdf\nComments URL: https://news.ycombinator.com/item?id=49746391\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-17T22:23:33.906Z",
+    "published": "Thu, 17 Sep 2026 20:51:46 +0000"
+  },
+  {
+    "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+    "title": "Measurements for understanding the pace of AI development inside frontier labs",
+    "description": "Article URL: https://www.anthropic.com/institute/measuring-pace-of-ai-development\nComments URL: https://news.ycombinator.com/item?id=49746369\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-17T22:23:33.906Z",
+    "published": "Thu, 17 Sep 2026 20:50:01 +0000"
+  },
+  {
+    "url": "https://www.faa.gov/newsroom/SMART_One-Pager.pdf",
+    "title": "FAA's Smart AI System Fact Sheet [pdf]",
+    "description": "Article URL: https://www.faa.gov/newsroom/SMART_One-Pager.pdf\nComments URL: https://news.ycombinator.com/item?id=49746355\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-17T22:23:33.906Z",
+    "published": "Thu, 17 Sep 2026 20:48:43 +0000"
+  },
+  {
+    "url": "https://www.redhat.com/en/blog/datacenter-myth-why-sovereign-ai-demands-tenancy-model-not-just-geography",
+    "title": "Why sovereign AI demands a tenancy model, not just geography",
+    "description": "Article URL: https://www.redhat.com/en/blog/datacenter-myth-why-sovereign-ai-demands-tenancy-model-not-just-geography\nComments URL: https://news.ycombinator.com/item?id=49746348\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-17T22:23:33.906Z",
+    "published": "Thu, 17 Sep 2026 20:48:19 +0000"
+  },
+  {
+    "url": "https://github.com/gargpratyush/jev-router",
+    "title": "Using Jev for Claude Code model routing",
+    "description": "Article URL: https://github.com/gargpratyush/jev-router\nComments URL: https://news.ycombinator.com/item?id=49746321\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-17T22:23:33.906Z",
+    "published": "Thu, 17 Sep 2026 20:46:40 +0000"
+  },
+  {
+    "url": "https://www.pewresearch.org/global/2026/09/17/globally-more-people-expect-ai-to-cause-job-loss-than-growth/",
+    "title": "Globally, More People Expect AI to Cause Job Loss Than Growth",
+    "description": "Article URL: https://www.pewresearch.org/global/2026/09/17/globally-more-people-expect-ai-to-cause-job-loss-than-growth/\nComments URL: https://news.ycombinator.com/item?id=49746301\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-17T22:23:33.906Z",
+    "published": "Thu, 17 Sep 2026 20:45:24 +0000"
+  },
+  {
+    "url": "https://www.reuters.com/world/china/us-china-security-experts-propose-nuclear-style-safeguards-ai-risks-2026-09-17/",
+    "title": "US, China security experts propose nuclear-style safeguards for AI risks",
+    "description": "Article URL: https://www.reuters.com/world/china/us-china-security-experts-propose-nuclear-style-safeguards-ai-risks-2026-09-17/\nComments URL: https://news.ycombinator.com/item?id=49746248\nPoints: 5\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-17T22:23:33.906Z",
+    "published": "Thu, 17 Sep 2026 20:41:32 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-heres-what-the-ai-apocalypse-could-look-like/",
+    "title": "Here’s What the AI Apocalypse Could Look Like",
+    "description": "This week on “Uncanny Valley,” we discuss three possible AI doomsday scenarios, AI safety, and the unexpected bipartisan alliance forming against AI.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-17T22:23:46.005Z",
+    "published": "Thu, 17 Sep 2026 22:20:21 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/",
+    "title": "The AI ‘Slowdown’ Is an Antitrust Mess",
+    "description": "By framing their efforts as a “slowdown” rather than an industry-wide push for better security standards, AI labs may have set themselves up for years of regulatory headaches.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-17T22:23:46.005Z",
+    "published": "Thu, 17 Sep 2026 19:58:28 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2261903/faa-says-laser-strikes-on-aircraft-fell-for-the-third-consecutive-year/",
+    "title": "FAA says laser strikes on aircraft fell for the third consecutive year",
+    "description": "The FAA says the 4,470 laser strikes recorded so far this year is &#34;still too high.&#34;",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-17T22:23:53.204Z",
+    "published": "Thu, 17 Sep 2026 22:15:46 +0000"
   }
 ]
