@@ -57541,5 +57541,141 @@
     "category": "news",
     "discovered": "2026-09-16T22:03:41.197Z",
     "published": "Wed, 16 Sep 2026 21:18:43 +0000"
+  },
+  {
+    "url": "https://openai.com/index/model-misalignment-reporting-framework",
+    "title": "Our framework for reporting model misalignment",
+    "description": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-17T00:20:00.211Z",
+    "published": "Wed, 16 Sep 2026 17:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-17T00:22:46.010Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49734816",
+    "title": "Ask HN: How long before we will have a major AI driven cyberincident?",
+    "description": "It occurs to me that we are playing with fire. These systems are rapidly approaching levels that are hard or even impossible to defend against and I'm wondering how long it will take - assuming we are not already there - before we will have a major AI driven cyberattack against infrastructure. Eith",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-17T00:20:17.863Z",
+    "published": "Thu, 17 Sep 2026 00:13:22 +0000",
+    "processed": true,
+    "processedAt": "2026-09-17T00:22:46.010Z"
+  },
+  {
+    "url": "https://triangllabs.ai/otis",
+    "title": "Otis – a minimal AI agent that runs local models out of the box",
+    "description": "Article URL: https://triangllabs.ai/otis\nComments URL: https://news.ycombinator.com/item?id=49734780\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-17T00:20:17.863Z",
+    "published": "Thu, 17 Sep 2026 00:07:57 +0000",
+    "processed": true,
+    "processedAt": "2026-09-17T00:22:46.010Z"
+  },
+  {
+    "url": "https://suganthan.com/blog/x402-pay-per-crawl/",
+    "title": "My website charged AI agents a penny per page. I watched Claude pay it",
+    "description": "Article URL: https://suganthan.com/blog/x402-pay-per-crawl/\nComments URL: https://news.ycombinator.com/item?id=49734392\nPoints: 7\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-17T00:20:17.863Z",
+    "published": "Wed, 16 Sep 2026 23:22:56 +0000",
+    "processed": true,
+    "processedAt": "2026-09-17T00:22:46.010Z"
+  },
+  {
+    "url": "https://huggingface.co/spaces/drinkmoonshine/parallel-constrained-decoding",
+    "title": "Typesafe.ai Jev Open Source Alternative Qwen-2.5-1B-RLCD",
+    "description": "Article URL: https://huggingface.co/spaces/drinkmoonshine/parallel-constrained-decoding\nComments URL: https://news.ycombinator.com/item?id=49734345\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-17T00:20:17.863Z",
+    "published": "Wed, 16 Sep 2026 23:17:02 +0000",
+    "processed": true,
+    "processedAt": "2026-09-17T00:22:46.010Z"
+  },
+  {
+    "url": "https://www.ft.com/content/033b21e7-b5d5-4511-ae01-53edaa4e051e",
+    "title": "AI Debt vs. Treasuries",
+    "description": "Article URL: https://www.ft.com/content/033b21e7-b5d5-4511-ae01-53edaa4e051e\nComments URL: https://news.ycombinator.com/item?id=49734325\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-17T00:20:17.863Z",
+    "published": "Wed, 16 Sep 2026 23:15:08 +0000"
+  },
+  {
+    "url": "https://www.pactora.uk/",
+    "title": "Pactora – AI contract review built by a lawyer, not engineers",
+    "description": "Article URL: https://www.pactora.uk/\nComments URL: https://news.ycombinator.com/item?id=49734294\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-17T00:20:17.863Z",
+    "published": "Wed, 16 Sep 2026 23:10:46 +0000"
+  },
+  {
+    "url": "https://openspec.dev/",
+    "title": "OpenSpec – A lightweight and configurable AI spec framework",
+    "description": "Article URL: https://openspec.dev/\nComments URL: https://news.ycombinator.com/item?id=49734264\nPoints: 38\n# Comments: 7",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-17T00:20:17.863Z",
+    "published": "Wed, 16 Sep 2026 23:06:39 +0000"
+  },
+  {
+    "url": "https://www.amicitedby.ai/",
+    "title": "Am I Cited by AI? See which AI assistants are reading your papers",
+    "description": "Article URL: https://www.amicitedby.ai/\nComments URL: https://news.ycombinator.com/item?id=49734048\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-17T00:20:17.863Z",
+    "published": "Wed, 16 Sep 2026 22:41:12 +0000"
+  },
+  {
+    "url": "https://www.euronews.com/health/2026/09/16/danish-pharma-giant-novo-to-use-anthropics-claude-to-advance-ai-drug-discovery",
+    "title": "Danish pharma giant Novo to use Anthropic's Claude to advance AI drug discovery",
+    "description": "Article URL: https://www.euronews.com/health/2026/09/16/danish-pharma-giant-novo-to-use-anthropics-claude-to-advance-ai-drug-discovery\nComments URL: https://news.ycombinator.com/item?id=49733794\nPoints: 5\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-17T00:20:17.863Z",
+    "published": "Wed, 16 Sep 2026 22:16:15 +0000"
+  },
+  {
+    "url": "https://mikenikles.com/blog/learn-claude-code",
+    "title": "Show HN: Learn Claude Code – Interactive Mindmap",
+    "description": "Article URL: https://mikenikles.com/blog/learn-claude-code\nComments URL: https://news.ycombinator.com/item?id=49733761\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-17T00:20:17.863Z",
+    "published": "Wed, 16 Sep 2026 22:13:46 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+    "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+    "description": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-17T00:20:32.734Z",
+    "published": "Wed, 16 Sep 2026 22:07:24 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2260736/snap-introduces-a-standalone-ai-assistant-specs-intelligence/",
+    "title": "Snap introduces a standalone AI assistant, Specs Intelligence",
+    "description": "The new assistant works with the company&#39;s new AR glasses, but will also have its own mobile and desktop apps.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-17T00:20:40.253Z",
+    "published": "Wed, 16 Sep 2026 23:40:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2259628/japan-ambulance-humanoid-robot-on-site-repairs/",
+    "title": "Japanese company develops a humanoid robot 'ambulance' for on-the-spot repairs",
+    "description": "It turns out that breaking down at work isn't a uniquely human experience.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-17T00:20:40.253Z",
+    "published": "Wed, 16 Sep 2026 23:00:00 +0000"
   }
 ]
