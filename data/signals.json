@@ -58429,5 +58429,195 @@
     "category": "news",
     "discovered": "2026-09-17T22:23:53.204Z",
     "published": "Thu, 17 Sep 2026 22:15:46 +0000"
+  },
+  {
+    "url": "https://openai.com/index/cooley-gopublic",
+    "title": "How Cooley is accelerating IPO work with ChatGPT",
+    "description": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-18T00:42:47.471Z",
+    "published": "Thu, 17 Sep 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-18T00:45:19.548Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+    "title": "Crusoe raises $3.9B to build massive data centers and small modular “AI factories”",
+    "description": "The round values the data center giant at $30.9 billion.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-18T00:42:50.511Z",
+    "published": "Thu, 17 Sep 2026 23:25:52 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T00:45:19.548Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+    "title": "Google DeepMind launches institute to widen the AGI debate",
+    "description": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-18T00:42:50.511Z",
+    "published": "Thu, 17 Sep 2026 23:21:17 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T00:45:19.548Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+    "title": "PrismML hopes its tiny LLM will change how we all use AI",
+    "description": "If AI lab PrismML isn't on your radar yet, it should be.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-18T00:42:50.511Z",
+    "published": "Thu, 17 Sep 2026 22:34:09 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T00:45:19.548Z"
+  },
+  {
+    "url": "https://play.lakera.ai/agent-breaker",
+    "title": "Lakera – Test your AI hacking skills",
+    "description": "Article URL: https://play.lakera.ai/agent-breaker\nComments URL: https://news.ycombinator.com/item?id=49748775\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T00:42:55.556Z",
+    "published": "Fri, 18 Sep 2026 00:38:21 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T00:45:19.548Z"
+  },
+  {
+    "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/anthropic-says-claude-now-leads-quarter-work-building-its-next-ai-models",
+    "title": "Anthropic says Claude now leads a quarter of work building its next AI models",
+    "description": "Article URL: https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/anthropic-says-claude-now-leads-quarter-work-building-its-next-ai-models\nComments URL: https://news.ycombinator.com/item?id=49748648\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T00:42:55.556Z",
+    "published": "Fri, 18 Sep 2026 00:22:35 +0000"
+  },
+  {
+    "url": "https://github.com/r-ms/mini-jev",
+    "title": "Mini-Jev – typesafe's Jev implemented on top of an LLM locally",
+    "description": "Article URL: https://github.com/r-ms/mini-jev\nComments URL: https://news.ycombinator.com/item?id=49748643\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T00:42:55.556Z",
+    "published": "Fri, 18 Sep 2026 00:21:58 +0000"
+  },
+  {
+    "url": "https://www.axios.com/2026/09/17/ai-cyber-doomsday-hacking-threats",
+    "title": "Forget doomsday: The AI hacking crisis is here",
+    "description": "Article URL: https://www.axios.com/2026/09/17/ai-cyber-doomsday-hacking-threats\nComments URL: https://news.ycombinator.com/item?id=49748482\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T00:42:55.556Z",
+    "published": "Fri, 18 Sep 2026 00:00:47 +0000"
+  },
+  {
+    "url": "https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health",
+    "title": "Can an AI chatbot save lives by answering texts about pregnancy?",
+    "description": "Article URL: https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health\nComments URL: https://news.ycombinator.com/item?id=49748262\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T00:42:55.556Z",
+    "published": "Thu, 17 Sep 2026 23:36:50 +0000"
+  },
+  {
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6843118",
+    "title": "Productivity Effects Across Generations of AI Coding Tools",
+    "description": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6843118\nComments URL: https://news.ycombinator.com/item?id=49748230\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T00:42:55.556Z",
+    "published": "Thu, 17 Sep 2026 23:34:26 +0000"
+  },
+  {
+    "url": "https://www.nature.com/articles/s41586-026-11044-y",
+    "title": "Reimagining research papers as interactive and reliable AI agents",
+    "description": "Article URL: https://www.nature.com/articles/s41586-026-11044-y\nComments URL: https://news.ycombinator.com/item?id=49748023\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T00:42:55.556Z",
+    "published": "Thu, 17 Sep 2026 23:14:11 +0000"
+  },
+  {
+    "url": "https://www.theguardian.com/commentisfree/2026/sep/15/ai-safety-requirements",
+    "title": "AI safety requires more than just slowing our pace – Stuart Russell",
+    "description": "Article URL: https://www.theguardian.com/commentisfree/2026/sep/15/ai-safety-requirements\nComments URL: https://news.ycombinator.com/item?id=49747817\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T00:42:55.556Z",
+    "published": "Thu, 17 Sep 2026 22:54:44 +0000"
+  },
+  {
+    "url": "https://www.theguardian.com/technology/2026/sep/16/ai-tech-regulation-government-action-yoshua-bengio",
+    "title": "'Godfather of AI' says tech regulation is nearing Covid-style pivot moment",
+    "description": "Article URL: https://www.theguardian.com/technology/2026/sep/16/ai-tech-regulation-government-action-yoshua-bengio\nComments URL: https://news.ycombinator.com/item?id=49747716\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T00:42:55.556Z",
+    "published": "Thu, 17 Sep 2026 22:45:25 +0000"
+  },
+  {
+    "url": "https://technode.com/2026/09/17/huawei-unveils-ascend-960-superpod-with-npo-technology-to-power-next-generation-ai-infrastructure/",
+    "title": "Huawei Ascend 960 SuperPoD uses NPO technology to power next-generation AI infra",
+    "description": "Article URL: https://technode.com/2026/09/17/huawei-unveils-ascend-960-superpod-with-npo-technology-to-power-next-generation-ai-infrastructure/\nComments URL: https://news.ycombinator.com/item?id=49747675\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T00:42:55.556Z",
+    "published": "Thu, 17 Sep 2026 22:41:10 +0000"
+  },
+  {
+    "url": "https://www.orlandosentinel.com/2026/09/17/new-docs-in-a-i-copyright-suit-reveal-startling-admission-by-microsoft-exec-over-astonishing-theft/",
+    "title": "Docs in AI copyright suit reveal startling admission by Microsoft exec",
+    "description": "Article URL: https://www.orlandosentinel.com/2026/09/17/new-docs-in-a-i-copyright-suit-reveal-startling-admission-by-microsoft-exec-over-astonishing-theft/\nComments URL: https://news.ycombinator.com/item?id=49747643\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T00:42:55.556Z",
+    "published": "Thu, 17 Sep 2026 22:37:44 +0000"
+  },
+  {
+    "url": "https://github.com/savageAZfck/respawn",
+    "title": "Show HN: Respawn – an undo button for AI agents (Rust, local-first, no cloud)",
+    "description": "Article URL: https://github.com/savageAZfck/respawn\nComments URL: https://news.ycombinator.com/item?id=49747632\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T00:42:55.556Z",
+    "published": "Thu, 17 Sep 2026 22:36:40 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
+    "title": "Small AI models let drones autonomously identify and attack battlefield targets",
+    "description": "Article URL: https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/\nComments URL: https://news.ycombinator.com/item?id=49747600\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T00:42:55.556Z",
+    "published": "Thu, 17 Sep 2026 22:33:44 +0000"
+  },
+  {
+    "url": "https://thefinancialengineer.substack.com/p/typesafes-jev-is-about-to-change",
+    "title": "Jev is about to change the AI economy",
+    "description": "Article URL: https://thefinancialengineer.substack.com/p/typesafes-jev-is-about-to-change\nComments URL: https://news.ycombinator.com/item?id=49747584\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T00:42:55.556Z",
+    "published": "Thu, 17 Sep 2026 22:32:05 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2261924/google-cc-is-an-ai-agent-for-families-and-groups/",
+    "title": "Google's revamped CC is an AI agent for families and groups",
+    "description": "CC gives an AI agent its own Google account in your family or group and sends all members a daily briefing.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-18T00:43:14.429Z",
+    "published": "Thu, 17 Sep 2026 22:55:08 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2261909/anthropic-says-claude-leads-26-percent-of-its-ai-research-and-development/",
+    "title": "Anthropic says Claude 'leads' 26 percent of its AI R&D work",
+    "description": "The company shared the stat alongside three measurements that help communicate the pace of AI development.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-18T00:43:14.429Z",
+    "published": "Thu, 17 Sep 2026 22:30:01 +0000"
   }
 ]
