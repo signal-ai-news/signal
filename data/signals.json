@@ -59163,5 +59163,69 @@
     "category": "news",
     "discovered": "2026-09-18T18:16:29.268Z",
     "published": "Fri, 18 Sep 2026 15:15:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+    "title": "World model companies are keeping a lot of secrets",
+    "description": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-18T21:10:09.995Z",
+    "published": "Fri, 18 Sep 2026 20:18:14 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T21:12:56.101Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+    "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+    "description": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-18T21:10:09.995Z",
+    "published": "Fri, 18 Sep 2026 18:49:30 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T21:12:56.101Z"
+  },
+  {
+    "url": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
+    "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
+    "description": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-18T21:10:41.792Z",
+    "published": "Fri, 18 Sep 2026 19:21:09 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T21:12:56.101Z"
+  },
+  {
+    "url": "https://www.engadget.com/2262978/sony-music-and-umg-say-sunos-new-models-still-violates-their-copyright/",
+    "title": "Sony Music and UMG say Suno's new models still violates their copyright",
+    "description": "In a new lawsuit, the labels argue Suno found a roundabout way to train its v6 models on unlicensed music.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-18T21:10:48.802Z",
+    "published": "Fri, 18 Sep 2026 21:06:27 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T21:12:56.101Z"
+  },
+  {
+    "url": "https://www.engadget.com/2262932/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more/",
+    "title": "What to expect at Meta Connect 2026: New AI glasses, a mixed reality headset and more",
+    "description": "There&#39;s a lot for Mark Zuckerberg to cover at this year&#39;s keynote.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-18T21:10:48.802Z",
+    "published": "Fri, 18 Sep 2026 20:35:11 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T21:12:56.101Z"
+  },
+  {
+    "url": "https://www.engadget.com/2262703/disney-hires-ex-ceo-of-ai-company-it-accused-of-copyright-infringement/",
+    "title": "Disney hires ex-CEO of AI company it accused of copyright infringement",
+    "description": "What&#39;s a little IP theft between friends?",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-18T21:10:48.802Z",
+    "published": "Fri, 18 Sep 2026 18:36:47 +0000"
   }
 ]
