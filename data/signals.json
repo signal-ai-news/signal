@@ -12403,7 +12403,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T15:48:20.299Z",
-    "published": "Sat, 01 Aug 2026 12:31:52 +0000"
+    "published": "Sat, 01 Aug 2026 12:31:52 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T05:46:53.183Z"
   },
   {
     "url": "https://github.com/pochenai/nano-llm-posttraining",
@@ -12412,7 +12414,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T15:48:20.299Z",
-    "published": "Sat, 01 Aug 2026 12:30:32 +0000"
+    "published": "Sat, 01 Aug 2026 12:30:32 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T05:46:53.183Z"
   },
   {
     "url": "https://towardsdatascience.com/coding-agents-dont-need-bigger-context-windows-they-need-a-context-compiler/",
@@ -12421,7 +12425,9 @@
     "source": "Towards Data Science",
     "category": "ml",
     "discovered": "2026-08-01T15:48:25.748Z",
-    "published": "Sat, 01 Aug 2026 15:00:00 +0000"
+    "published": "Sat, 01 Aug 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T05:46:53.183Z"
   },
   {
     "url": "https://towardsdatascience.com/put-the-agent-inside-the-workflow/",
@@ -12430,7 +12436,9 @@
     "source": "Towards Data Science",
     "category": "ml",
     "discovered": "2026-08-01T15:48:25.748Z",
-    "published": "Sat, 01 Aug 2026 13:00:00 +0000"
+    "published": "Sat, 01 Aug 2026 13:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T05:46:53.183Z"
   },
   {
     "url": "https://the-decoder.com/ai-coding-agents-can-modernize-research-software-but-cant-judge-if-the-science-is-right/",
@@ -58619,5 +58627,16 @@
     "category": "news",
     "discovered": "2026-09-18T00:43:14.429Z",
     "published": "Thu, 17 Sep 2026 22:30:01 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+    "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+    "description": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-09-18T05:44:24.885Z",
+    "published": "Thu, 17 Sep 2026 18:33:13 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T05:46:53.185Z"
   }
 ]
