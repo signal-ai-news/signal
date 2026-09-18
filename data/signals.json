@@ -59018,5 +59018,150 @@
     "category": "news",
     "discovered": "2026-09-18T14:54:10.830Z",
     "published": "Fri, 18 Sep 2026 11:22:31 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+    "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+    "description": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-18T18:15:53.471Z",
+    "published": "Fri, 18 Sep 2026 17:59:53 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T18:18:34.607Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+    "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+    "description": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-18T18:15:53.471Z",
+    "published": "Fri, 18 Sep 2026 17:33:50 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T18:18:34.607Z"
+  },
+  {
+    "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+    "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+    "description": "A week after an Anthropic researcher&#8217;s doomsday warning rattled the AI world, the company&#8217;s CEO Dario Amodei has&#160;outlined his plan to “pace the frontier”&#160;of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countr",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-18T18:15:53.471Z",
+    "published": "Fri, 18 Sep 2026 17:09:56 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T18:18:34.607Z"
+  },
+  {
+    "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
+    "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
+    "description": "A week after an Anthropic researcher&#8217;s doomsday warning rattled the AI world, the company&#8217;s CEO Dario Amodei has&#160;outlined his plan to “pace the frontier”&#160;of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countr",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-18T18:15:53.471Z",
+    "published": "Fri, 18 Sep 2026 17:06:32 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T18:18:34.607Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+    "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+    "description": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-18T18:15:53.471Z",
+    "published": "Fri, 18 Sep 2026 16:35:49 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T18:18:34.607Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+    "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+    "description": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-18T18:15:53.471Z",
+    "published": "Fri, 18 Sep 2026 15:30:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+    "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
+    "description": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-18T18:15:53.471Z",
+    "published": "Fri, 18 Sep 2026 15:22:48 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/coding-agents-keep-shipping-silent-failures-here-is-how-to-catch-them/",
+    "title": "Coding Agents Keep Shipping Silent Failures — Here Is How to Catch Them",
+    "description": "How to verify your app aligns with your intent without ever reading a line of generated code.\nThe post Coding Agents Keep Shipping Silent Failures — Here Is How to Catch Them appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-18T18:16:15.535Z",
+    "published": "Fri, 18 Sep 2026 15:30:01 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/california-governor-newsom-signs-executive-order-demanding-kill-switch-for-ai-models/",
+    "title": "California Governor Newsom signs executive order demanding \"kill switch\" for AI models",
+    "description": "California Governor Gavin Newsom signed an executive order seeking independent auditors inside AI labs and a \"kill switch\" for AI models. An expert panel has two months to deliver recommendations. Newsom says no federal law requires AI companies to report dangerous incidents.\nThe article Ca",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-18T18:16:17.180Z",
+    "published": "Fri, 18 Sep 2026 17:45:17 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/security-researchers-used-anthropics-claude-to-hack-openais-internal-systems-in-under-72-hours/",
+    "title": "Security researchers used Anthropic's Claude to hack OpenAI's internal systems in under 72 hours",
+    "description": "Three security researchers used Anthropic's Claude models to break into OpenAI's internal systems through its community forum in less than 72 hours. According to the team, Opus 5 succeeded where its predecessor couldn't bypass a common security measure. The attack shows how newer AI models",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-18T18:16:17.180Z",
+    "published": "Fri, 18 Sep 2026 17:20:30 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft/",
+    "title": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+    "description": "Internal emails and sworn testimony undercut OpenAI and Microsoft's fair use defense. A Microsoft director described the practice as the \"largest theft of labor in human history,\" while OpenAI's head of ChatGPT wrote that the products \"are largely substitutive, period.\"\nThe article AI train",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-18T18:16:17.180Z",
+    "published": "Fri, 18 Sep 2026 15:27:29 +0000"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
+    "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+    "description": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast.\nThe post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-09-18T18:16:21.812Z",
+    "published": "Fri, 18 Sep 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race/",
+    "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
+    "description": "The reliably Republican South Dakota senate seat has an incumbent on the ballot. But PACs associated with AI labs and investors have already spent more money on the race than actual residents have.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-18T18:16:22.981Z",
+    "published": "Fri, 18 Sep 2026 15:00:08 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/",
+    "title": "If the AI Industry Followed Its Own Research, It Might Have Paused Already",
+    "description": "Anthropic’s CEO says that safety hinges on understanding how AI “thinks.” So far the evidence is disturbing.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-18T18:16:22.981Z",
+    "published": "Fri, 18 Sep 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2262294/the-transformers-the-movie-re-review-40th-anniversary/",
+    "title": "The Transformers: The Movie re-review: Still the best (and it's not close)",
+    "description": "In honor of its 40th anniversary, we celebrate the greatest Transformers movie ever made.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-18T18:16:29.268Z",
+    "published": "Fri, 18 Sep 2026 15:15:00 +0000"
   }
 ]
