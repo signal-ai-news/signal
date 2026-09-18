@@ -59227,5 +59227,60 @@
     "category": "news",
     "discovered": "2026-09-18T21:10:48.802Z",
     "published": "Fri, 18 Sep 2026 18:36:47 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+    "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+    "description": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-18T23:31:57.558Z",
+    "published": "Fri, 18 Sep 2026 23:25:01 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T23:34:30.343Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+    "title": "Anthropic is operating a lab that conducts biology experiments",
+    "description": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-18T23:31:57.558Z",
+    "published": "Fri, 18 Sep 2026 23:13:31 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T23:34:30.343Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+    "title": "AI hallucination nearly triggers US military operation",
+    "description": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-18T23:31:57.558Z",
+    "published": "Fri, 18 Sep 2026 23:12:32 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T23:34:30.343Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+    "title": "Anthropic’s first embedded evaluator is … Accenture?",
+    "description": "Accenture is about to take on its most high-risk consulting engagement ever.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-18T23:31:57.558Z",
+    "published": "Fri, 18 Sep 2026 21:44:33 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T23:34:30.343Z"
+  },
+  {
+    "url": "https://www.engadget.com/2263043/ai-almost-led-the-us-military-to-attack-china-report-says/",
+    "title": "AI almost led the US military to start a war with China, report says",
+    "description": "CNN&#39;s sources claim the US nearly attacked a Chinese ship it believed was carrying nuclear weapon components.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-18T23:32:25.024Z",
+    "published": "Fri, 18 Sep 2026 22:44:45 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T23:34:30.343Z"
   }
 ]
