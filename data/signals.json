@@ -58638,5 +58638,69 @@
     "published": "Thu, 17 Sep 2026 18:33:13 +0000",
     "processed": true,
     "processedAt": "2026-09-18T05:46:53.185Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+    "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+    "description": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam Altman responded on X: “I agree with Dario tha",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-18T11:00:14.094Z",
+    "published": "Fri, 18 Sep 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T11:02:55.174Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/multi-agent-coding-isnt-enough-agents-need-a-commitment-layer/",
+    "title": "Multi-Agent Coding Isn’t Enough — Agents Need a Commitment Layer",
+    "description": "Multi-agent coding systems don't necessarily fail because agents can't communicate. They can fail because important commitments made in conversation have nowhere to live afterward.\nThe post Multi-Agent Coding Isn’t Enough — Agents Need a Commitment Layer appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-18T11:00:35.304Z",
+    "published": "Fri, 18 Sep 2026 11:00:01 GMT",
+    "processed": true,
+    "processedAt": "2026-09-18T11:02:55.174Z"
+  },
+  {
+    "url": "https://the-decoder.com/us-and-china-experts-push-for-shared-rules-banning-ai-control-over-nuclear-weapons/",
+    "title": "US and China experts push for shared rules banning AI control over nuclear weapons",
+    "description": "Experts from the US and China want to prevent AI systems from making autonomous decisions about deploying nuclear weapons.\nThe article US and China experts push for shared rules banning AI control over nuclear weapons appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-18T11:00:36.981Z",
+    "published": "Fri, 18 Sep 2026 09:37:03 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T11:02:55.174Z"
+  },
+  {
+    "url": "https://www.wired.com/story/inside-the-surprising-leftist-split-over-ai-doom/",
+    "title": "The Leftist Split Over AI Doom",
+    "description": "The left wants AI regulation. They just can't agree on what it should look like or how concerned they should be.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-18T11:00:43.093Z",
+    "published": "Fri, 18 Sep 2026 10:15:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T11:02:55.174Z"
+  },
+  {
+    "url": "https://www.wired.com/story/napster-is-back-and-it-wants-to-digitally-clone-teachers/",
+    "title": "Napster Is Back, and It Wants to Digitally Clone Teachers",
+    "description": "Once the music industry’s biggest headache, Napster’s next act is bringing AI to the classroom.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-18T11:00:43.093Z",
+    "published": "Fri, 18 Sep 2026 09:15:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T11:02:55.174Z"
+  },
+  {
+    "url": "https://www.wired.com/story/why-ai-bioweapons-wont-wipe-out-humanity/",
+    "title": "Why AI Isn’t Likely to Wipe Out Humanity With Bioweapons",
+    "description": "Of all the threats presented by uncontrollable artificial intelligence, scientists say death by plague ranks low.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-18T11:00:43.093Z",
+    "published": "Fri, 18 Sep 2026 09:00:00 +0000"
   }
 ]
