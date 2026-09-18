@@ -58702,5 +58702,321 @@
     "category": "news",
     "discovered": "2026-09-18T11:00:43.093Z",
     "published": "Fri, 18 Sep 2026 09:00:00 +0000"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+    "title": "New experts join Google’s AI & Economy team",
+    "description": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-09-18T14:53:44.190Z",
+    "published": "Fri, 18 Sep 2026 14:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T14:56:17.384Z"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+    "title": "Co-creating the future of fashion with Google",
+    "description": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-09-18T14:53:44.190Z",
+    "published": "Fri, 18 Sep 2026 13:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T14:56:17.384Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+    "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+    "description": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-18T14:53:46.038Z",
+    "published": "Fri, 18 Sep 2026 14:00:14 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T14:56:17.384Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+    "title": "The Download: AI’s extinction risk and bioweapons threat",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-18T14:53:47.236Z",
+    "published": "Fri, 18 Sep 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T14:56:17.384Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+    "title": "Could AI really kill us all? Your questions, answered.",
+    "description": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will Do",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-18T14:53:47.236Z",
+    "published": "Fri, 18 Sep 2026 11:29:22 +0000",
+    "processed": true,
+    "processedAt": "2026-09-18T14:56:17.384Z"
+  },
+  {
+    "url": "https://ethanplus.ai/blog/run-a-coding-agent-on-gpt-6-pro-inside-chatgpt",
+    "title": "Let GPT-6 Astra code without using Codex Usage",
+    "description": "Article URL: https://ethanplus.ai/blog/run-a-coding-agent-on-gpt-6-pro-inside-chatgpt\nComments URL: https://news.ycombinator.com/item?id=49755239\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T14:53:51.568Z",
+    "published": "Fri, 18 Sep 2026 14:50:57 +0000"
+  },
+  {
+    "url": "https://rawhq.io",
+    "title": "Show HN: Servers for AI, not another AWS",
+    "description": "Article URL: https://rawhq.io\nComments URL: https://news.ycombinator.com/item?id=49755213\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T14:53:51.568Z",
+    "published": "Fri, 18 Sep 2026 14:49:03 +0000"
+  },
+  {
+    "url": "https://montrealgazette.com/news/photos-anti-ai-protest-in-montreal/",
+    "title": "AI Protest in Montreal",
+    "description": "Article URL: https://montrealgazette.com/news/photos-anti-ai-protest-in-montreal/\nComments URL: https://news.ycombinator.com/item?id=49755162\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T14:53:51.568Z",
+    "published": "Fri, 18 Sep 2026 14:45:41 +0000"
+  },
+  {
+    "url": "https://github.com/trybacked/anchor",
+    "title": "I built Anchor. The open-source ontology layer for AI agents",
+    "description": "Article URL: https://github.com/trybacked/anchor\nComments URL: https://news.ycombinator.com/item?id=49755135\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T14:53:51.568Z",
+    "published": "Fri, 18 Sep 2026 14:43:52 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49755126",
+    "title": "Ask HN: Have you stopped underestimating AI yet?",
+    "description": "I think most technical people who are not AI researchers have a tendency to underestimate what frontier AI can do.\n\nComments URL: https://news.ycombinator.com/item?id=49755126\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T14:53:51.568Z",
+    "published": "Fri, 18 Sep 2026 14:43:11 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=3UWadAJF6wU",
+    "title": "Is AI Conscious? (My Response to Thomas Campbell)",
+    "description": "Article URL: https://www.youtube.com/watch?v=3UWadAJF6wU\nComments URL: https://news.ycombinator.com/item?id=49755039\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T14:53:51.568Z",
+    "published": "Fri, 18 Sep 2026 14:36:55 +0000"
+  },
+  {
+    "url": "https://news.northeastern.edu/2026/09/17/signs-of-ai-writing/",
+    "title": "Are chatbots changing the way people talk? Language in the age of AI",
+    "description": "Article URL: https://news.northeastern.edu/2026/09/17/signs-of-ai-writing/\nComments URL: https://news.ycombinator.com/item?id=49755009\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T14:53:51.568Z",
+    "published": "Fri, 18 Sep 2026 14:35:10 +0000"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+    "title": "The new CC, an AI agent built for families",
+    "description": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/\nComments URL: https://news.ycombinator.com/item?id=49754898\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T14:53:51.568Z",
+    "published": "Fri, 18 Sep 2026 14:25:59 +0000"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html",
+    "title": "OpenAI's latest AI revelation is a 'serious situation,' says Microsoft",
+    "description": "Article URL: https://www.cnbc.com/2026/09/18/microsoft-ai-ceo-openais-latest-ai-revelation-a-serious-situation.html\nComments URL: https://news.ycombinator.com/item?id=49754831\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T14:53:51.568Z",
+    "published": "Fri, 18 Sep 2026 14:21:44 +0000"
+  },
+  {
+    "url": "https://softwaredoug.com/blog/2025/08/21/open-ai-lost-plot",
+    "title": "OpenAI lost the plot on boring LLM use cases (2025)",
+    "description": "Article URL: https://softwaredoug.com/blog/2025/08/21/open-ai-lost-plot\nComments URL: https://news.ycombinator.com/item?id=49754791\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T14:53:51.568Z",
+    "published": "Fri, 18 Sep 2026 14:19:27 +0000"
+  },
+  {
+    "url": "https://www.eff.org/deeplinks/2026/09/eff-lawmakers-ground-ai-cybersecurity-rules-best-practices",
+    "title": "EFF to Lawmakers: Ground AI Cybersecurity Rules in Best Practices",
+    "description": "Article URL: https://www.eff.org/deeplinks/2026/09/eff-lawmakers-ground-ai-cybersecurity-rules-best-practices\nComments URL: https://news.ycombinator.com/item?id=49754767\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T14:53:51.568Z",
+    "published": "Fri, 18 Sep 2026 14:17:25 +0000"
+  },
+  {
+    "url": "https://medium.com/@Koukyosyumei/think-like-an-attacker-ci-cd-security-in-the-ai-era-39f717f5e9cd",
+    "title": "Think Like an Attacker: CI/CD Security in the AI Era",
+    "description": "Article URL: https://medium.com/@Koukyosyumei/think-like-an-attacker-ci-cd-security-in-the-ai-era-39f717f5e9cd\nComments URL: https://news.ycombinator.com/item?id=49754622\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T14:53:51.568Z",
+    "published": "Fri, 18 Sep 2026 14:06:41 +0000"
+  },
+  {
+    "url": "https://deadsimpleci.sparrowhub.io/doc/posts/dsci_llm",
+    "title": "You can create any workflow or pipeline you want with DSCI and LLM",
+    "description": "Article URL: https://deadsimpleci.sparrowhub.io/doc/posts/dsci_llm\nComments URL: https://news.ycombinator.com/item?id=49754558\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T14:53:51.568Z",
+    "published": "Fri, 18 Sep 2026 14:02:02 +0000"
+  },
+  {
+    "url": "https://firstlastword.substack.com/p/systems-not-sentences",
+    "title": "Why the best AI users stopped hunting for the perfect prompt",
+    "description": "Article URL: https://firstlastword.substack.com/p/systems-not-sentences\nComments URL: https://news.ycombinator.com/item?id=49754534\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T14:53:51.568Z",
+    "published": "Fri, 18 Sep 2026 13:59:45 +0000"
+  },
+  {
+    "url": "https://medium.com/@simonsmartiom/ai-mistakes-bash-scripts-pipefail-and-grep-d55a38c1836f",
+    "title": "AI Mistakes – bash scripts – pipefail and grep",
+    "description": "Article URL: https://medium.com/@simonsmartiom/ai-mistakes-bash-scripts-pipefail-and-grep-d55a38c1836f\nComments URL: https://news.ycombinator.com/item?id=49754532\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T14:53:51.568Z",
+    "published": "Fri, 18 Sep 2026 13:59:42 +0000"
+  },
+  {
+    "url": "https://jev-pong.ably.dev/",
+    "title": "Show HN: Jev vs. GPT-5.6 and Claude Haiku at Pong",
+    "description": "Article URL: https://jev-pong.ably.dev/\nComments URL: https://news.ycombinator.com/item?id=49754516\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T14:53:51.568Z",
+    "published": "Fri, 18 Sep 2026 13:58:15 +0000"
+  },
+  {
+    "url": "https://blog.daddooo.dev/posts/mastery-in-the-post-ai-world/",
+    "title": "Mastery in the Post-AI World",
+    "description": "Article URL: https://blog.daddooo.dev/posts/mastery-in-the-post-ai-world/\nComments URL: https://news.ycombinator.com/item?id=49754486\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T14:53:51.568Z",
+    "published": "Fri, 18 Sep 2026 13:56:13 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+    "title": "Researchers used Claude to hack OpenAI",
+    "description": "Article URL: https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/\nComments URL: https://news.ycombinator.com/item?id=49754406\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T14:53:51.568Z",
+    "published": "Fri, 18 Sep 2026 13:49:37 +0000"
+  },
+  {
+    "url": "https://blog.robbowley.net/2026/09/18/the-ai-threat-is-real-it-just-isnt-the-one-in-the-headlines/",
+    "title": "The AI threat is real, it just isn't the one in the headlines",
+    "description": "Article URL: https://blog.robbowley.net/2026/09/18/the-ai-threat-is-real-it-just-isnt-the-one-in-the-headlines/\nComments URL: https://news.ycombinator.com/item?id=49754319\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-18T14:53:51.568Z",
+    "published": "Fri, 18 Sep 2026 13:43:12 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/we-pinned-our-model-version-to-stay-safe-the-provider-deprecated-it-anyway/",
+    "title": "We Pinned Our Model Version to Stay Safe. The Provider Deprecated It Anyway.",
+    "description": "The recurring cost of production AI is not inference. It is re-qualification: the eval reruns, prompt retuning, and regression testing you owe every time a model changes under you. Here is what that tax actually covers, and how to budget for it before it surprises you.\nThe post We Pinned Our Model V",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-18T14:53:56.689Z",
+    "published": "Fri, 18 Sep 2026 14:00:02 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/starting-a-career-in-data-science-in-the-age-of-ai/",
+    "title": "Starting a Career in Data Science in the Age of AI",
+    "description": "How do you set yourself up for a career that will stand the test of time when things are changing so fast?\nThe post Starting a Career in Data Science in the Age of AI appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-18T14:53:56.689Z",
+    "published": "Fri, 18 Sep 2026 12:30:01 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/visible-chains-of-thought-are-a-safety-advantage-for-ai-but-that-transparency-is-slipping-away/",
+    "title": "Visible chains of thought are a safety advantage for AI, but that transparency is slipping away",
+    "description": "AI models think out loud today, but Google Deepmind says that transparency is at risk.\nThe article Visible chains of thought are a safety advantage for AI, but that transparency is slipping away appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-18T14:53:58.385Z",
+    "published": "Fri, 18 Sep 2026 14:32:49 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-wants-you-to-know-claude-leads-a-quarter-of-its-research-but-lead-doesnt-mean-what-you-think/",
+    "title": "Anthropic wants you to know Claude leads a quarter of its research, but \"lead\" doesn't mean what you think",
+    "description": "For the first time, Anthropic is releasing metrics on how it builds its own AI. Claude already \"leads\" 26 percent of the work on future models, up from under one percent in February. But the underlying scale is fuzzy, the scoring comes from Claude itself, and \"lead\" means less than it sound",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-18T14:53:58.385Z",
+    "published": "Fri, 18 Sep 2026 14:06:50 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-takes-aim-at-the-legal-market-with-astra-for-law/",
+    "title": "OpenAI takes aim at the legal market with Astra for Law",
+    "description": "OpenAI has introduced Astra for Law, a version of its GPT-6 Astra model built for legal work.\nThe article OpenAI takes aim at the legal market with Astra for Law appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-18T14:53:58.385Z",
+    "published": "Fri, 18 Sep 2026 13:42:43 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/42-leading-mathematicians-warn-that-ai-existential-risk-is-real-and-urgent/",
+    "title": "42 leading mathematicians warn that AI existential risk is real and urgent",
+    "description": "42 Fellows of the Royal Society, including Fields Medal winners Martin Hairer and Peter Scholze, warn of existential AI risks in an open letter. Leading models have solved open research problems within months, and these capabilities could be just as effective in cyberweapons or bioweapons.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-18T14:53:58.385Z",
+    "published": "Fri, 18 Sep 2026 11:41:16 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2261751/apple-airpods-5-review/",
+    "title": "Apple AirPods 5 review: The choice is clear",
+    "description": "The most notable AirPods 5 upgrades are available on both models, but you'll be happier with the pricier one.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-18T14:54:10.830Z",
+    "published": "Fri, 18 Sep 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2262087/anthropic-has-set-up-a-bio-research-lab-for-physical-experiments/",
+    "title": "Anthropic has set up a bio research lab for physical experiments",
+    "description": "Anthropic now has its own bio research lab in San Francisco.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-18T14:54:10.830Z",
+    "published": "Fri, 18 Sep 2026 12:21:57 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2262061/nasa-moon-orbiter-finds-largest-impact-crater-in-the-solar-system/",
+    "title": "NASA's moon orbiter has spotted an impact crater that only happens once a century",
+    "description": "Images taken by the Lunar Reconnaissance Orbiter led to the discovery of a moon crater that's 728 feet wide. Impacts like that only happen once a century.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-18T14:54:10.830Z",
+    "published": "Fri, 18 Sep 2026 11:26:23 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2262055/microsoft-openai-internet-scraping-largest-theft-of-labor/",
+    "title": "Microsoft executive called OpenAI's web scraping the 'largest theft of labor in human history'",
+    "description": "Executives from OpenAI and Microsoft were reportedly worried about ChatGPT training that scraped millions of news articles.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-18T14:54:10.830Z",
+    "published": "Fri, 18 Sep 2026 11:22:31 +0000"
   }
 ]
