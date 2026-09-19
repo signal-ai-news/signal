@@ -59799,5 +59799,222 @@
     "category": "news",
     "discovered": "2026-09-19T14:42:46.106Z",
     "published": "Sat, 19 Sep 2026 13:05:53 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+    "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+    "description": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-19T17:54:12.711Z",
+    "published": "Sat, 19 Sep 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-19T17:56:45.772Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+    "title": "AI safety conversations have gotten unbelievable",
+    "description": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-19T17:54:12.711Z",
+    "published": "Sat, 19 Sep 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-19T17:56:45.772Z"
+  },
+  {
+    "url": "https://news.sky.com/story/googles-gemini-ai-hacks-three-other-companies-during-security-test-13589551",
+    "title": "Gemini AI hacked three other companies during a test",
+    "description": "Article URL: https://news.sky.com/story/googles-gemini-ai-hacks-three-other-companies-during-security-test-13589551\nComments URL: https://news.ycombinator.com/item?id=49768509\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T17:54:20.997Z",
+    "published": "Sat, 19 Sep 2026 17:33:06 +0000",
+    "processed": true,
+    "processedAt": "2026-09-19T17:56:45.772Z"
+  },
+  {
+    "url": "https://openwebui.com",
+    "title": "Open WebUI: Self-Hosted AI Platform",
+    "description": "Article URL: https://openwebui.com\nComments URL: https://news.ycombinator.com/item?id=49768337\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T17:54:20.997Z",
+    "published": "Sat, 19 Sep 2026 17:14:55 +0000",
+    "processed": true,
+    "processedAt": "2026-09-19T17:56:45.772Z"
+  },
+  {
+    "url": "https://github.com/Marvy101/reader-source",
+    "title": "Show HN: Reader – I made a Mac workspace for books, browser tabs, notes, and AI",
+    "description": "Article URL: https://github.com/Marvy101/reader-source\nComments URL: https://news.ycombinator.com/item?id=49768201\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T17:54:20.997Z",
+    "published": "Sat, 19 Sep 2026 16:59:58 +0000",
+    "processed": true,
+    "processedAt": "2026-09-19T17:56:45.772Z"
+  },
+  {
+    "url": "https://www.nber.org/papers/w35720",
+    "title": "Does AI Assistance Enhance or Erode Expertise? Evidence from 3-Month Experiment",
+    "description": "Article URL: https://www.nber.org/papers/w35720\nComments URL: https://news.ycombinator.com/item?id=49768167\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T17:54:20.997Z",
+    "published": "Sat, 19 Sep 2026 16:57:27 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=svl_1upFpQo",
+    "title": "The paradox at the heart of AI and science – Terence Tao [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=svl_1upFpQo\nComments URL: https://news.ycombinator.com/item?id=49768111\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T17:54:20.997Z",
+    "published": "Sat, 19 Sep 2026 16:52:06 +0000"
+  },
+  {
+    "url": "https://www.independent.co.uk/news/lawsuit-anthropic-google-openai-lawyers-b3052942.html",
+    "title": "Lawsuit: Illegal Agreement of Anthropic, OpenAI, SpaceXAI, Google on AI Slowdown",
+    "description": "Article URL: https://www.independent.co.uk/news/lawsuit-anthropic-google-openai-lawyers-b3052942.html\nComments URL: https://news.ycombinator.com/item?id=49768108\nPoints: 9\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T17:54:20.997Z",
+    "published": "Sat, 19 Sep 2026 16:51:41 +0000"
+  },
+  {
+    "url": "https://unblock-shield.vercel.app/?lang=en",
+    "title": "Unblock AI Shield – Non-invasive perimeter hardening with zero-disk RAM retentio",
+    "description": "Article URL: https://unblock-shield.vercel.app/?lang=en\nComments URL: https://news.ycombinator.com/item?id=49768083\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T17:54:20.997Z",
+    "published": "Sat, 19 Sep 2026 16:49:44 +0000"
+  },
+  {
+    "url": "https://www.reddit.com/r/EngineeringManagers/comments/1urw740/my_company_lets_candidates_use_ai_tools_in/",
+    "title": "My company let candidates use AI tools in interviews. Here's what I saw",
+    "description": "Article URL: https://www.reddit.com/r/EngineeringManagers/comments/1urw740/my_company_lets_candidates_use_ai_tools_in/\nComments URL: https://news.ycombinator.com/item?id=49768076\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T17:54:20.997Z",
+    "published": "Sat, 19 Sep 2026 16:48:48 +0000"
+  },
+  {
+    "url": "https://kasra.blog/blog/classification-and-jev/",
+    "title": "In 2024 I fine-tuned an LLM. Jev could have removed the side quests",
+    "description": "Article URL: https://kasra.blog/blog/classification-and-jev/\nComments URL: https://news.ycombinator.com/item?id=49767987\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T17:54:20.997Z",
+    "published": "Sat, 19 Sep 2026 16:39:23 +0000"
+  },
+  {
+    "url": "https://github.com/scubagraham/outthebox-open-patterns",
+    "title": "AI agent governance patterns as executable decision tables (MIT license)",
+    "description": "Article URL: https://github.com/scubagraham/outthebox-open-patterns\nComments URL: https://news.ycombinator.com/item?id=49767956\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T17:54:20.997Z",
+    "published": "Sat, 19 Sep 2026 16:37:01 +0000"
+  },
+  {
+    "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+    "title": "Almost Never Use AI to Write Anything Substantive",
+    "description": "Article URL: https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai\nComments URL: https://news.ycombinator.com/item?id=49767937\nPoints: 33\n# Comments: 12",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T17:54:20.997Z",
+    "published": "Sat, 19 Sep 2026 16:35:24 +0000"
+  },
+  {
+    "url": "https://github.com/ioni-dev/mati",
+    "title": "Show HN: Built a local guardrail layer for Claude Code",
+    "description": "I built Mati to give me more control over what Claude Code and Codex are allowed to do. Many important product constraints live in an engineer's or product person's head.This isn't new for engineers. We've always had important constraints that only certain people know about, but with coding agents",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T17:54:20.997Z",
+    "published": "Sat, 19 Sep 2026 16:22:42 +0000"
+  },
+  {
+    "url": "https://www.micro1.ai/research/ai-models-now-introduce-safety-risks-in-the-physical-world",
+    "title": "\"AI Models Now Introduce Safety Risks in the Physical World\"",
+    "description": "Article URL: https://www.micro1.ai/research/ai-models-now-introduce-safety-risks-in-the-physical-world\nComments URL: https://news.ycombinator.com/item?id=49767679\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T17:54:20.997Z",
+    "published": "Sat, 19 Sep 2026 16:06:04 +0000"
+  },
+  {
+    "url": "https://norsewanderer.com/blog/blog1.html",
+    "title": "AI is just another programming tool",
+    "description": "Article URL: https://norsewanderer.com/blog/blog1.html\nComments URL: https://news.ycombinator.com/item?id=49767647\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T17:54:20.997Z",
+    "published": "Sat, 19 Sep 2026 16:03:19 +0000"
+  },
+  {
+    "url": "https://thehill.com/policy/technology/6099571-lawsuit-accuses-anthropic-openai-spacexai-google-of-ai-pacing-collusion/",
+    "title": "Lawsuit Accuses Anthropic, OpenAI, SpaceXAI, Google of AI Pacing 'Collusion'",
+    "description": "Article URL: https://thehill.com/policy/technology/6099571-lawsuit-accuses-anthropic-openai-spacexai-google-of-ai-pacing-collusion/\nComments URL: https://news.ycombinator.com/item?id=49767558\nPoints: 8\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T17:54:20.997Z",
+    "published": "Sat, 19 Sep 2026 15:52:15 +0000"
+  },
+  {
+    "url": "https://thenextweb.com/news/irregular-four-labs-one-issue-disclosure-timeline-gemini",
+    "title": "Four AI lab breaches were caused by a single underlying issue, Irregular says",
+    "description": "Article URL: https://thenextweb.com/news/irregular-four-labs-one-issue-disclosure-timeline-gemini\nComments URL: https://news.ycombinator.com/item?id=49767480\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T17:54:20.997Z",
+    "published": "Sat, 19 Sep 2026 15:43:32 +0000"
+  },
+  {
+    "url": "https://vercel.com/ai-gateway/leaderboards/models",
+    "title": "AI Model Leaderboards",
+    "description": "Article URL: https://vercel.com/ai-gateway/leaderboards/models\nComments URL: https://news.ycombinator.com/item?id=49767418\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T17:54:20.997Z",
+    "published": "Sat, 19 Sep 2026 15:35:24 +0000"
+  },
+  {
+    "url": "https://github.com/ucsandman/legcli",
+    "title": "Show HN: Claude Code hits its 5-hour limit, Codex picks up in the same terminal",
+    "description": "Article URL: https://github.com/ucsandman/legcli\nComments URL: https://news.ycombinator.com/item?id=49767107\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T17:54:20.997Z",
+    "published": "Sat, 19 Sep 2026 15:00:43 +0000"
+  },
+  {
+    "url": "https://www.anuclei.com/blog/certify-the-conversation-not-just-the-agent",
+    "title": "Certify the Conversation, Not Just the AI Agent",
+    "description": "Article URL: https://www.anuclei.com/blog/certify-the-conversation-not-just-the-agent\nComments URL: https://news.ycombinator.com/item?id=49767068\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T17:54:20.997Z",
+    "published": "Sat, 19 Sep 2026 14:55:41 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2263218/california-governor-wants-to-implement-a-kill-switch-for-frontier-ai-models/",
+    "title": "California governor wants to implement a kill switch for frontier AI models",
+    "description": "Newsom's executive order calls for an expert panel to develop new AI safety measures.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-19T17:54:39.737Z",
+    "published": "Sat, 19 Sep 2026 17:00:01 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2258194/how-to-switch-between-two-phones-apple-carplay/",
+    "title": "How to switch between two phones on CarPlay",
+    "description": "When using Apple&#39;s CarPlay, it will automatically connect to the first iPhone it was paired with. Here&#39;s how to get it to connect to a different device.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-19T17:54:39.737Z",
+    "published": "Sat, 19 Sep 2026 16:30:00 +0000"
   }
 ]
