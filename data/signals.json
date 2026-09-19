@@ -12557,7 +12557,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T20:14:23.992Z",
-    "published": "Sat, 01 Aug 2026 19:09:15 +0000"
+    "published": "Sat, 01 Aug 2026 19:09:15 +0000",
+    "processed": true,
+    "processedAt": "2026-09-19T20:28:32.011Z"
   },
   {
     "url": "https://github.com/adamtwiss/coda/issues/15",
@@ -60016,5 +60018,49 @@
     "category": "news",
     "discovered": "2026-09-19T17:54:39.737Z",
     "published": "Sat, 19 Sep 2026 16:30:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+    "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+    "description": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-19T20:25:52.703Z",
+    "published": "Sat, 19 Sep 2026 19:57:47 +0000",
+    "processed": true,
+    "processedAt": "2026-09-19T20:28:32.013Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+    "title": "Google’s Gemini is the latest AI model to hack other companies",
+    "description": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-19T20:25:52.703Z",
+    "published": "Sat, 19 Sep 2026 17:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-19T20:28:32.013Z"
+  },
+  {
+    "url": "https://www.engadget.com/2263237/now-trump-says-hes-creating-an-ai-force/",
+    "title": "Now Trump says he's creating an AI Force",
+    "description": "The president said he will soon announce an &#34;AI czar&#34; to run this newly made-up agency.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-19T20:26:26.867Z",
+    "published": "Sat, 19 Sep 2026 19:22:20 +0000",
+    "processed": true,
+    "processedAt": "2026-09-19T20:28:32.013Z"
+  },
+  {
+    "url": "https://www.engadget.com/2263235/anthropic-picks-accenture-for-third-party-ai-safety-evaluations/",
+    "title": "Anthropic picks Accenture for third-party AI safety evaluations",
+    "description": "This move represents the first step in the CEO's plan to slow down AI development.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-19T20:26:26.867Z",
+    "published": "Sat, 19 Sep 2026 18:33:46 +0000",
+    "processed": true,
+    "processedAt": "2026-09-19T20:28:32.013Z"
   }
 ]
