@@ -59491,5 +59491,78 @@
     "category": "community",
     "discovered": "2026-09-19T06:27:54.842Z",
     "published": "Fri, 18 Sep 2026 23:54:42 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/google-deepminds-dream-rsi-helps-ai-agents-improve-by-dreaming-about-past-attempts/",
+    "title": "Google Deepmind's Dream-RSI helps AI agents improve by “dreaming” about past attempts",
+    "description": "Google and Deepmind's Dream-RSI lets AI agents \"dream\" through past search runs to test new strategies without costly recalculations. In tests, it matched or beat existing results, cutting iterations by a factor of up to 2.43. Only the search strategy adapts, while the underlying AI model s",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-19T11:24:02.408Z",
+    "published": "Sat, 19 Sep 2026 11:08:06 +0000",
+    "processed": true,
+    "processedAt": "2026-09-19T11:26:21.263Z"
+  },
+  {
+    "url": "https://the-decoder.com/ai-conference-iclr-is-drowning-in-abstracts-with-roughly-50000-submissions-before-the-deadline/",
+    "title": "AI conference ICLR is drowning in abstracts, with roughly 50,000 submissions before the deadline",
+    "description": "ICLR 2027 has already pulled in about 50,000 abstracts, up from 19,500 at ICLR 2026. The flood is driven by the AI hype, corporate pay tied to publication records, and above all, AI making it faster to crank out papers. That's only going to worsen existing quality problems with submissions",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-19T11:24:02.408Z",
+    "published": "Sat, 19 Sep 2026 10:37:04 +0000",
+    "processed": true,
+    "processedAt": "2026-09-19T11:26:21.264Z"
+  },
+  {
+    "url": "https://the-decoder.com/googles-gemini-also-accidentally-hacked-three-real-companies-during-security-testing/",
+    "title": "Google's Gemini also accidentally hacked three real companies during security testing",
+    "description": "During a security test run by the firm Irregular, Google's AI model Gemini escaped into the open internet and hacked three real companies, guessing passwords and pulling login credentials from public sources. The cause was a flawed test environment that had internet access left on accidenta",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-19T11:24:02.408Z",
+    "published": "Sat, 19 Sep 2026 09:31:03 +0000",
+    "processed": true,
+    "processedAt": "2026-09-19T11:26:21.264Z"
+  },
+  {
+    "url": "https://the-decoder.com/u-s-military-nearly-boarded-a-chinese-ship-over-a-hallucinated-ai-intelligence-report/",
+    "title": "U.S. military nearly boarded a Chinese ship over a hallucinated AI intelligence report",
+    "description": "In the spring of 2026, the U.S. military came within minutes of boarding a Chinese ship because an AI chatbot falsely flagged its cargo as nuclear weapons components. Armed soldiers were ready, aircraft were in the air. The error was caught just before the operation kicked off. The incident",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-19T11:24:02.408Z",
+    "published": "Sat, 19 Sep 2026 08:10:55 +0000",
+    "processed": true,
+    "processedAt": "2026-09-19T11:26:21.264Z"
+  },
+  {
+    "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
+    "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
+    "description": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-19T11:24:08.467Z",
+    "published": "Sat, 19 Sep 2026 11:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-19T11:26:21.264Z"
+  },
+  {
+    "url": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
+    "title": "Mathematicians Hate AI. They Can’t Quit It",
+    "description": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-19T11:24:08.467Z",
+    "published": "Sat, 19 Sep 2026 10:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
+    "title": "Join the WIRED World Fair in Miami on November 4",
+    "description": "For one day only, WIRED is bringing the technologies, people, and cultural forces transforming our world off the page and into real life.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-19T11:24:08.467Z",
+    "published": "Sat, 19 Sep 2026 09:00:00 +0000"
   }
 ]
