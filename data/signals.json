@@ -12447,7 +12447,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-08-01T15:48:27.654Z",
-    "published": "Sat, 01 Aug 2026 14:26:28 +0000"
+    "published": "Sat, 01 Aug 2026 14:26:28 +0000",
+    "processed": true,
+    "processedAt": "2026-09-19T01:32:51.258Z"
   },
   {
     "url": "https://the-decoder.com/a-security-researcher-built-a-self-spreading-worm-that-hides-inside-word-docs-and-hijacks-microsoft-copilot/",
@@ -12456,7 +12458,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-08-01T15:48:27.654Z",
-    "published": "Sat, 01 Aug 2026 13:51:57 +0000"
+    "published": "Sat, 01 Aug 2026 13:51:57 +0000",
+    "processed": true,
+    "processedAt": "2026-09-19T01:32:51.258Z"
   },
   {
     "url": "https://the-decoder.com/bytedances-seedance-2-5-generates-30-second-video-clips-with-built-in-audio/",
@@ -12465,7 +12469,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-08-01T15:48:27.654Z",
-    "published": "Sat, 01 Aug 2026 13:33:41 +0000"
+    "published": "Sat, 01 Aug 2026 13:33:41 +0000",
+    "processed": true,
+    "processedAt": "2026-09-19T01:32:51.258Z"
   },
   {
     "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
@@ -12529,7 +12535,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T20:14:23.992Z",
-    "published": "Sat, 01 Aug 2026 19:32:28 +0000"
+    "published": "Sat, 01 Aug 2026 19:32:28 +0000",
+    "processed": true,
+    "processedAt": "2026-09-19T01:32:51.258Z"
   },
   {
     "url": "https://aidatacenterimpact.com/",
@@ -12538,7 +12546,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T20:14:23.992Z",
-    "published": "Sat, 01 Aug 2026 19:18:52 +0000"
+    "published": "Sat, 01 Aug 2026 19:18:52 +0000",
+    "processed": true,
+    "processedAt": "2026-09-19T01:32:51.258Z"
   },
   {
     "url": "https://episko.dev/",
