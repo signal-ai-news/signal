@@ -59292,5 +59292,204 @@
     "published": "Fri, 18 Sep 2026 22:44:45 +0000",
     "processed": true,
     "processedAt": "2026-09-18T23:34:30.343Z"
+  },
+  {
+    "url": "https://openai.com/index/australian-youth-safety-blueprint",
+    "title": "Introducing the Australian Youth Safety Blueprint",
+    "description": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-19T06:27:38.999Z",
+    "published": "Fri, 18 Sep 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-19T06:30:20.138Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+    "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+    "description": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-19T06:27:42.077Z",
+    "published": "Sat, 19 Sep 2026 00:12:07 +0000",
+    "processed": true,
+    "processedAt": "2026-09-19T06:30:20.138Z"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
+    "title": "Google's Gemini AI hacked three companies in security test",
+    "description": "Article URL: https://www.bbc.co.uk/news/articles/c607l0k72rlvo\nComments URL: https://news.ycombinator.com/item?id=49763822\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T06:27:54.842Z",
+    "published": "Sat, 19 Sep 2026 06:09:23 +0000",
+    "processed": true,
+    "processedAt": "2026-09-19T06:30:20.138Z"
+  },
+  {
+    "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+    "title": "Inside the AI \"Kill Chain\" That Destroyed an Iranian School",
+    "description": "Article URL: https://www.bloomberg.com/graphics/2026-iran-school-attack/\nComments URL: https://news.ycombinator.com/item?id=49763739\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T06:27:54.842Z",
+    "published": "Sat, 19 Sep 2026 05:55:26 +0000",
+    "processed": true,
+    "processedAt": "2026-09-19T06:30:20.138Z"
+  },
+  {
+    "url": "https://artificialanalysis.ai/models/step-5",
+    "title": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+    "description": "Article URL: https://artificialanalysis.ai/models/step-5\nComments URL: https://news.ycombinator.com/item?id=49763660\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T06:27:54.842Z",
+    "published": "Sat, 19 Sep 2026 05:42:31 +0000",
+    "processed": true,
+    "processedAt": "2026-09-19T06:30:20.138Z"
+  },
+  {
+    "url": "https://newsletter.ai-frontiers.org/p/the-evidence-for-ai-consciousness",
+    "title": "The Evidence for AI Consciousness, Today (2025)",
+    "description": "Article URL: https://newsletter.ai-frontiers.org/p/the-evidence-for-ai-consciousness\nComments URL: https://news.ycombinator.com/item?id=49763523\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T06:27:54.842Z",
+    "published": "Sat, 19 Sep 2026 05:13:18 +0000"
+  },
+  {
+    "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
+    "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+    "description": "Article URL: https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/\nComments URL: https://news.ycombinator.com/item?id=49763379\nPoints: 10\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T06:27:54.842Z",
+    "published": "Sat, 19 Sep 2026 04:44:35 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.20370",
+    "title": "A Black-Box Audit of Provider-Side Token Inflation in LLM Services",
+    "description": "Article URL: https://arxiv.org/abs/2609.20370\nComments URL: https://news.ycombinator.com/item?id=49763307\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T06:27:54.842Z",
+    "published": "Sat, 19 Sep 2026 04:27:39 +0000"
+  },
+  {
+    "url": "https://medium.com/@istokovicsgyorgy79/your-prompts-are-not-deleted-they-are-just-hidden-e0016bd43eaf",
+    "title": "Google AI Studio 'Delete' is a scam: Your prompts are not deleted, just hidden",
+    "description": "Article URL: https://medium.com/@istokovicsgyorgy79/your-prompts-are-not-deleted-they-are-just-hidden-e0016bd43eaf\nComments URL: https://news.ycombinator.com/item?id=49763256\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T06:27:54.842Z",
+    "published": "Sat, 19 Sep 2026 04:11:58 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.20779",
+    "title": "Harm Laundering in GPT Models: Gender Discrimination Transformed Rather Than",
+    "description": "Article URL: https://arxiv.org/abs/2609.20779\nComments URL: https://news.ycombinator.com/item?id=49763234\nPoints: 6\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T06:27:54.842Z",
+    "published": "Sat, 19 Sep 2026 04:07:08 +0000"
+  },
+  {
+    "url": "https://casssunstein.substack.com/p/ai-regulation-and-the-china-question",
+    "title": "AI Regulation and the China Question",
+    "description": "Article URL: https://casssunstein.substack.com/p/ai-regulation-and-the-china-question\nComments URL: https://news.ycombinator.com/item?id=49762955\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T06:27:54.842Z",
+    "published": "Sat, 19 Sep 2026 03:15:41 +0000"
+  },
+  {
+    "url": "https://github.com/JOxKxER/garza-global-graviton",
+    "title": "Show HN: GGG – A local-first, zero-telemetry sovereign proxy daemon for AI tools",
+    "description": "Article URL: https://github.com/JOxKxER/garza-global-graviton\nComments URL: https://news.ycombinator.com/item?id=49762923\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T06:27:54.842Z",
+    "published": "Sat, 19 Sep 2026 03:09:11 +0000"
+  },
+  {
+    "url": "https://kev.workers-ai-mle.workers.dev/",
+    "title": "Kev – A Jev-Compatible API on top of DiffusionGemma running on Workers AI",
+    "description": "Article URL: https://kev.workers-ai-mle.workers.dev/\nComments URL: https://news.ycombinator.com/item?id=49762547\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T06:27:54.842Z",
+    "published": "Sat, 19 Sep 2026 01:52:40 +0000"
+  },
+  {
+    "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
+    "title": "Gemini hacked three companies in first known breakout by Google's AI",
+    "description": "Article URL: https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/\nComments URL: https://news.ycombinator.com/item?id=49762493\nPoints: 48\n# Comments: 53",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T06:27:54.842Z",
+    "published": "Sat, 19 Sep 2026 01:40:35 +0000"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
+    "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
+    "description": "Article URL: https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html\nComments URL: https://news.ycombinator.com/item?id=49762422\nPoints: 5\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T06:27:54.842Z",
+    "published": "Sat, 19 Sep 2026 01:24:13 +0000"
+  },
+  {
+    "url": "https://seldon-ai.com/blog/generation-is-the-wrong-primitive",
+    "title": "The Great Unbundling of the LLM",
+    "description": "Article URL: https://seldon-ai.com/blog/generation-is-the-wrong-primitive\nComments URL: https://news.ycombinator.com/item?id=49762040\nPoints: 4\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T06:27:54.842Z",
+    "published": "Sat, 19 Sep 2026 00:23:38 +0000"
+  },
+  {
+    "url": "https://github.com/alibaba-damo-academy/damo-radar",
+    "title": "Radar: An Expert-Level Generalist AI for Abdominal CT Diagnosis",
+    "description": "Article URL: https://github.com/alibaba-damo-academy/damo-radar\nComments URL: https://news.ycombinator.com/item?id=49761981\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T06:27:54.842Z",
+    "published": "Sat, 19 Sep 2026 00:16:12 +0000"
+  },
+  {
+    "url": "https://www.nature.com/articles/d41586-026-02922-6",
+    "title": "AI cracked the Navier–Stokes challenge. What does that mean for physics?",
+    "description": "Article URL: https://www.nature.com/articles/d41586-026-02922-6\nComments URL: https://news.ycombinator.com/item?id=49761917\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T06:27:54.842Z",
+    "published": "Sat, 19 Sep 2026 00:07:08 +0000"
+  },
+  {
+    "url": "https://slashdot.org/story/26/09/17/2042242/ai-insiders-issue-new-warnings---including-former-anthropic-engineer-jacob-coxon",
+    "title": "AI insiders issue new warnings – including former Anthropic engineer Jacob Coxon",
+    "description": "Article URL: https://slashdot.org/story/26/09/17/2042242/ai-insiders-issue-new-warnings---including-former-anthropic-engineer-jacob-coxon\nComments URL: https://news.ycombinator.com/item?id=49761885\nPoints: 2\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T06:27:54.842Z",
+    "published": "Sat, 19 Sep 2026 00:01:59 +0000"
+  },
+  {
+    "url": "https://osr.im/notes/claude-code-model-picker-older-opus/",
+    "title": "Bring back Opus 4.8 in Claude Code",
+    "description": "Article URL: https://osr.im/notes/claude-code-model-picker-older-opus/\nComments URL: https://news.ycombinator.com/item?id=49761861\nPoints: 2\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T06:27:54.842Z",
+    "published": "Fri, 18 Sep 2026 23:58:28 +0000"
+  },
+  {
+    "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+    "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+    "description": "Article URL: https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions\nComments URL: https://news.ycombinator.com/item?id=49761840\nPoints: 100\n# Comments: 11",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-19T06:27:54.842Z",
+    "published": "Fri, 18 Sep 2026 23:54:42 +0000"
   }
 ]
