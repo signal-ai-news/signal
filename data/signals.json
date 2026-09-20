@@ -12700,7 +12700,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-08-01T20:14:31.874Z",
-    "published": "Sat, 01 Aug 2026 16:01:31 +0000"
+    "published": "Sat, 01 Aug 2026 16:01:31 +0000",
+    "processed": true,
+    "processedAt": "2026-09-20T20:41:04.535Z"
   },
   {
     "url": "https://www.engadget.com/2228460/judge-refuses-xai-request-to-stop-minnesota-law-banning-nudify-apps/",
@@ -12709,7 +12711,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-08-01T20:14:45.357Z",
-    "published": "Sat, 01 Aug 2026 15:56:53 +0000"
+    "published": "Sat, 01 Aug 2026 15:56:53 +0000",
+    "processed": true,
+    "processedAt": "2026-09-20T20:41:04.535Z"
   },
   {
     "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
@@ -60608,5 +60612,38 @@
     "category": "news",
     "discovered": "2026-09-20T17:37:06.764Z",
     "published": "Sun, 20 Sep 2026 16:32:47 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+    "title": "World model companies are keeping a lot of secrets",
+    "description": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-20T20:38:32.954Z",
+    "published": "Sun, 20 Sep 2026 20:29:07 +0000",
+    "processed": true,
+    "processedAt": "2026-09-20T20:41:04.536Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+    "title": "Is the AI industry really ready to slow down?",
+    "description": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-20T20:38:32.954Z",
+    "published": "Sun, 20 Sep 2026 18:56:04 +0000",
+    "processed": true,
+    "processedAt": "2026-09-20T20:41:04.536Z"
+  },
+  {
+    "url": "https://www.engadget.com/2255727/how-to-use-chatgpt-make-stickers-imessage-whatsapp/",
+    "title": "How to use ChatGPT to make stickers for iMessage and WhatsApp",
+    "description": "The default sticker options in iMessage and WhatsApp are cool but maybe a little limited. Now, with help from ChatGPT&#39;s AI tool, things have got a bit more fun.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-20T20:38:59.258Z",
+    "published": "Sun, 20 Sep 2026 18:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-20T20:41:04.536Z"
   }
 ]
