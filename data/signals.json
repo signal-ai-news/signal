@@ -12667,7 +12667,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T20:14:23.992Z",
-    "published": "Sat, 01 Aug 2026 18:09:15 +0000"
+    "published": "Sat, 01 Aug 2026 18:09:15 +0000",
+    "processed": true,
+    "processedAt": "2026-09-20T10:03:40.790Z"
   },
   {
     "url": "https://aboxofletters.com/",
@@ -12676,7 +12678,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T20:14:23.992Z",
-    "published": "Sat, 01 Aug 2026 17:48:33 +0000"
+    "published": "Sat, 01 Aug 2026 17:48:33 +0000",
+    "processed": true,
+    "processedAt": "2026-09-20T10:03:40.790Z"
   },
   {
     "url": "https://melious.ai/",
@@ -60290,5 +60294,38 @@
     "published": "Sat, 19 Sep 2026 23:30:00 +0000",
     "processed": true,
     "processedAt": "2026-09-20T00:20:37.192Z"
+  },
+  {
+    "url": "https://the-decoder.com/simulated-students-that-make-realistic-mistakes-help-ai-tutors-learn-faster/",
+    "title": "Simulated students that make realistic mistakes help AI tutors learn faster",
+    "description": "Microsoft and the University of Illinois built StudentSim to replicate individual students from limited data and give AI tutors fast, low-cost feedback. In tests covering 60 students across chess, English, and math, it outperformed GPT-5.4. A chess tutor trained with StudentSim also earned",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-20T10:01:21.132Z",
+    "published": "Sun, 20 Sep 2026 09:50:32 +0000",
+    "processed": true,
+    "processedAt": "2026-09-20T10:03:40.792Z"
+  },
+  {
+    "url": "https://the-decoder.com/trump-announces-ai-force-and-plans-for-an-ai-czar-as-he-pushes-unchecked-ai-growth/",
+    "title": "Trump announces \"AI Force\" and plans for an \"AI czar\" as he pushes unchecked AI growth",
+    "description": "Trump announces an \"AI Force\" modeled after the Space Force and plans to appoint an \"AI czar\" with a \"high IQ.\" He claims AI could reach 25 percent of US economic output, rejects new regulation, and frames criticism of data centers as a left-wing attack.\nThe article Trump announces &quot;AI",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-20T10:01:21.132Z",
+    "published": "Sun, 20 Sep 2026 08:52:06 +0000",
+    "processed": true,
+    "processedAt": "2026-09-20T10:03:40.792Z"
+  },
+  {
+    "url": "https://the-decoder.com/following-openai-anthropic-is-also-reportedly-postponing-its-ipo/",
+    "title": "Following OpenAI, Anthropic is also reportedly postponing its IPO",
+    "description": "Anthropic is reportedly delaying its IPO from October to November 2026 to present strong Q3 results. Investors expect a roughly $2 trillion valuation, but rising infrastructure costs, including $1.25 billion a month for its SpaceX deal alone, and unresolved security risks complicate the lis",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-20T10:01:21.132Z",
+    "published": "Sun, 20 Sep 2026 08:35:25 +0000",
+    "processed": true,
+    "processedAt": "2026-09-20T10:03:40.792Z"
   }
 ]
