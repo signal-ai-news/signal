@@ -12568,7 +12568,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T20:14:23.992Z",
-    "published": "Sat, 01 Aug 2026 18:57:54 +0000"
+    "published": "Sat, 01 Aug 2026 18:57:54 +0000",
+    "processed": true,
+    "processedAt": "2026-09-20T00:20:37.190Z"
   },
   {
     "url": "https://twitter.com/GoogleAIStudio/status/2083274575769473092",
@@ -12577,7 +12579,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T20:14:23.992Z",
-    "published": "Sat, 01 Aug 2026 18:55:13 +0000"
+    "published": "Sat, 01 Aug 2026 18:55:13 +0000",
+    "processed": true,
+    "processedAt": "2026-09-20T00:20:37.190Z"
   },
   {
     "url": "https://bugdetectai.com",
@@ -12586,7 +12590,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T20:14:23.992Z",
-    "published": "Sat, 01 Aug 2026 18:51:03 +0000"
+    "published": "Sat, 01 Aug 2026 18:51:03 +0000",
+    "processed": true,
+    "processedAt": "2026-09-20T00:20:37.190Z"
   },
   {
     "url": "https://github.com/edison7009/OpenLongevity",
@@ -12595,7 +12601,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T20:14:23.992Z",
-    "published": "Sat, 01 Aug 2026 18:32:03 +0000"
+    "published": "Sat, 01 Aug 2026 18:32:03 +0000",
+    "processed": true,
+    "processedAt": "2026-09-20T00:20:37.190Z"
   },
   {
     "url": "https://www.aulinq.com/en/blog/build-distributed-saas-from-scratch-with-ai-agents",
@@ -60261,5 +60269,16 @@
     "category": "community",
     "discovered": "2026-09-19T22:26:16.415Z",
     "published": "Sat, 19 Sep 2026 19:00:30 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2259087/apple-carplay-vs-ultra-differences-explained/",
+    "title": "What is the difference between Apple CarPlay and CarPlay Ultra?",
+    "description": "CarPlay provides a great iOS-like experience in your vehicle. CarPlay Ultra expands that, but isn&#39;t widely available yet.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-20T00:18:31.901Z",
+    "published": "Sat, 19 Sep 2026 23:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-20T00:20:37.192Z"
   }
 ]
