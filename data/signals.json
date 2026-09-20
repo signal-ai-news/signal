@@ -12689,7 +12689,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T20:14:23.992Z",
-    "published": "Sat, 01 Aug 2026 17:48:12 +0000"
+    "published": "Sat, 01 Aug 2026 17:48:12 +0000",
+    "processed": true,
+    "processedAt": "2026-09-20T14:08:08.298Z"
   },
   {
     "url": "https://the-decoder.com/ai-keeps-cracking-unsolved-math-problems-and-mathematicians-have-mixed-feelings/",
@@ -60327,5 +60329,49 @@
     "published": "Sun, 20 Sep 2026 08:35:25 +0000",
     "processed": true,
     "processedAt": "2026-09-20T10:03:40.792Z"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+    "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+    "description": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-09-20T14:05:29.687Z",
+    "published": "Sun, 20 Sep 2026 11:07:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-20T14:08:08.300Z"
+  },
+  {
+    "url": "https://the-decoder.com/runway-wants-to-turn-ai-video-generation-into-a-live-stream-you-control-in-real-time/",
+    "title": "Runway wants to turn AI video generation into a live stream you control in real time",
+    "description": "Runway wants to stream AI video as users prompt it, rather than make them wait for finished clips. The approach builds on GWM-1, its world model that generates video frame by frame. Beyond creative tools, Runway sees uses in robotics and autonomous driving.\nThe article Runway wants to turn",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-20T14:05:47.789Z",
+    "published": "Sun, 20 Sep 2026 11:56:59 +0000",
+    "processed": true,
+    "processedAt": "2026-09-20T14:08:08.300Z"
+  },
+  {
+    "url": "https://the-decoder.com/daily-ai-usage-in-the-u-s-has-more-than-doubled-in-just-six-months/",
+    "title": "Daily AI usage in the U.S. has more than doubled in just six months",
+    "description": "Surveys by Epoch AI and Ipsos suggest AI is becoming part of everyday life for more Americans. The share of US adults using AI almost daily more than doubled between March and August 2026, rising from 8 percent to 19 percent. Meanwhile, the share using it just once a week fell from 17 perce",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-20T14:05:47.789Z",
+    "published": "Sun, 20 Sep 2026 10:03:29 +0000",
+    "processed": true,
+    "processedAt": "2026-09-20T14:08:08.300Z"
+  },
+  {
+    "url": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
+    "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
+    "description": "The Muse app continues Meta’s trend of opting users into data collection for AI training. It also nudges you to share your bank account, email, and passport information.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-20T14:05:53.847Z",
+    "published": "Sun, 20 Sep 2026 10:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-20T14:08:08.300Z"
   }
 ]
