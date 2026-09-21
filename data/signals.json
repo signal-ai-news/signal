@@ -61028,5 +61028,60 @@
     "category": "news",
     "discovered": "2026-09-21T19:14:18.582Z",
     "published": "Mon, 21 Sep 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "description": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-21T22:46:18.338Z",
+    "published": "Mon, 21 Sep 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-21T22:48:54.366Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+    "description": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-21T22:46:21.855Z",
+    "published": "Mon, 21 Sep 2026 20:15:58 +0000",
+    "processed": true,
+    "processedAt": "2026-09-21T22:48:54.366Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+    "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+    "description": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-21T22:46:21.855Z",
+    "published": "Mon, 21 Sep 2026 19:19:21 +0000",
+    "processed": true,
+    "processedAt": "2026-09-21T22:48:54.366Z"
+  },
+  {
+    "url": "https://www.engadget.com/2264607/the-eu-will-force-data-centers-to-disclose-their-energy-and-water-use/",
+    "title": "The EU will force data centers to disclose their energy and water use",
+    "description": "The EU has proposed a sustainability labeling system ahead of bringing in minimum data center performance standards.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-21T22:46:48.229Z",
+    "published": "Mon, 21 Sep 2026 19:53:53 +0000",
+    "processed": true,
+    "processedAt": "2026-09-21T22:48:54.366Z"
+  },
+  {
+    "url": "https://www.engadget.com/2264585/x-now-tells-users-when-local-laws-have-reduced-their-posts-visibility/",
+    "title": "X now tells users when local laws have reduced their posts' visibility",
+    "description": "The latest addition to X&#39;s Under the Hood feature could stave off claims around shadowbanning.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-21T22:46:48.229Z",
+    "published": "Mon, 21 Sep 2026 19:44:35 +0000",
+    "processed": true,
+    "processedAt": "2026-09-21T22:48:54.366Z"
   }
 ]
