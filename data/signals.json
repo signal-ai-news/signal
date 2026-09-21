@@ -12865,7 +12865,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T23:47:53.534Z",
-    "published": "Sat, 01 Aug 2026 21:05:00 +0000"
+    "published": "Sat, 01 Aug 2026 21:05:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-21T06:59:47.088Z"
   },
   {
     "url": "https://news.ycombinator.com/item?id=49138466",
@@ -12874,7 +12876,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T23:47:53.534Z",
-    "published": "Sat, 01 Aug 2026 21:03:58 +0000"
+    "published": "Sat, 01 Aug 2026 21:03:58 +0000",
+    "processed": true,
+    "processedAt": "2026-09-21T06:59:47.088Z"
   },
   {
     "url": "https://lumaris.nanocorp.app/reports/egfr-resistance-nsclc-2026",
@@ -12883,7 +12887,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T23:47:53.534Z",
-    "published": "Sat, 01 Aug 2026 20:56:38 +0000"
+    "published": "Sat, 01 Aug 2026 20:56:38 +0000",
+    "processed": true,
+    "processedAt": "2026-09-21T06:59:47.088Z"
   },
   {
     "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency/",
@@ -12892,7 +12898,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T23:47:53.534Z",
-    "published": "Sat, 01 Aug 2026 20:47:43 +0000"
+    "published": "Sat, 01 Aug 2026 20:47:43 +0000",
+    "processed": true,
+    "processedAt": "2026-09-21T06:59:47.088Z"
   },
   {
     "url": "https://voris.ai/",
@@ -12901,7 +12909,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T23:47:53.534Z",
-    "published": "Sat, 01 Aug 2026 20:17:59 +0000"
+    "published": "Sat, 01 Aug 2026 20:17:59 +0000",
+    "processed": true,
+    "processedAt": "2026-09-21T06:59:47.088Z"
   },
   {
     "url": "https://www.tamedtable.com/",
