@@ -60693,5 +60693,168 @@
     "published": "Sun, 20 Sep 2026 23:30:00 +0000",
     "processed": true,
     "processedAt": "2026-09-21T01:31:36.853Z"
+  },
+  {
+    "url": "https://openai.com/index/v7",
+    "title": "How V7 gives AI agents institutional memory",
+    "description": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-21T13:50:54.253Z",
+    "published": "Mon, 21 Sep 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-21T13:53:36.604Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+    "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-09-21T13:50:56.385Z",
+    "published": "Mon, 21 Sep 2026 13:44:34 GMT",
+    "processed": true,
+    "processedAt": "2026-09-21T13:53:36.604Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
+    "title": "The Download: investigating deaths at the US border’s “virtual wall”",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US spent billions on border surveillance. Why can’t it catch people before they die? When José Morales Bernal crossed the border into the US in Ap",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-21T13:50:59.044Z",
+    "published": "Mon, 21 Sep 2026 12:20:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-21T13:53:36.604Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+    "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+    "description": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled tower",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-21T13:50:59.044Z",
+    "published": "Mon, 21 Sep 2026 12:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-21T13:53:36.604Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+    "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+    "description": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.&#160; As he walked through the desert in southern New Mexico that morning, he was within range of three",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-21T13:50:59.044Z",
+    "published": "Mon, 21 Sep 2026 12:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-21T13:53:36.604Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+    "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+    "description": "She had only walked for a couple of hours, and already she was lost.&#160; It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked.&",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-21T13:50:59.044Z",
+    "published": "Mon, 21 Sep 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/google-offered-10m-for-a-dying-airlines-data-how-can-you-value-yours/",
+    "title": "Google Offered $10M for a Dying Airline's Data. How Can You Value Yours?",
+    "description": "How to put a dollar value on your organization's operational data\nThe post Google Offered $10M for a Dying Airline's Data. How Can You Value Yours? appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-21T13:51:14.574Z",
+    "published": "Mon, 21 Sep 2026 12:30:02 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/your-ai-assistant-wrote-the-code-who-checked-the-defaults/",
+    "title": "Your AI Assistant Wrote the Code. Who Checked the Defaults?",
+    "description": "Five scikit-learn defaults that deserve a closer look before your next model reaches production\nThe post Your AI Assistant Wrote the Code. Who Checked the Defaults? appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-21T13:51:14.574Z",
+    "published": "Mon, 21 Sep 2026 11:00:02 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/us-and-china-agree-on-ai-dialogue-with-security-mechanism-ahead-of-trump-xi-summit/",
+    "title": "US and China agree on AI dialogue with security mechanism ahead of Trump-Xi summit",
+    "description": "The US and China have agreed to an official AI dialogue. US Treasury Secretary Bessent also proposed a notification mechanism for AI incidents at the national security level. The announcement comes just before Thursday's summit between Trump and Xi in Washington, the first on US soil since",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-21T13:51:16.366Z",
+    "published": "Mon, 21 Sep 2026 13:43:33 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/amazon-blocks-metas-ai-agent-muse-from-online-shopping/",
+    "title": "Amazon blocks Meta's AI agent Muse from online shopping",
+    "description": "Amazon has blocked Meta's new AI agent Muse from shopping on Amazon.com.\nThe article Amazon blocks Meta&#039;s AI agent Muse from online shopping appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-21T13:51:16.366Z",
+    "published": "Mon, 21 Sep 2026 13:37:51 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
+    "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
+    "description": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-21T13:51:23.196Z",
+    "published": "Mon, 21 Sep 2026 10:34:43 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2263184/apple-mac-studio-m5-ultra-review/",
+    "title": "Apple Mac Studio (M5 Ultra) review: Huge AI and graphics power at a huge premium",
+    "description": "At $11,299, the M5 Ultra&#39;s extra performance over the M5 Max model is only worth it for select buyers.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-21T13:51:30.595Z",
+    "published": "Mon, 21 Sep 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2263471/apple-mac-mini-m6-review/",
+    "title": "Apple Mac mini (M6) review: The best compact desktop is no longer a great deal",
+    "description": "At $899, the new Mac mini loses the fun factor of the previous models.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-21T13:51:30.595Z",
+    "published": "Mon, 21 Sep 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2257772/what-to-consider-buying-ethernet-switch-home-network/",
+    "title": "What to consider when buying an Ethernet switch for your home network",
+    "description": "Network switches are an easy way to add more Ethernet ports to your home network, but you&#39;ll need to pick from the many varieties available.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-21T13:51:30.595Z",
+    "published": "Mon, 21 Sep 2026 12:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2263663/apple-home-hub-device-built-around-siri-ai-may-be-almost-ready/",
+    "title": "Apple home hub device built around Siri AI may be almost ready",
+    "description": "A smart display from Apple that would compete with Amazon&#39;s Echo Show may finally launch soon.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-21T13:51:30.595Z",
+    "published": "Mon, 21 Sep 2026 12:15:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2263659/amazon-bars-metas-muse-ai-from-shopping-on-its-site/",
+    "title": "Amazon bars Meta's Muse AI from shopping on its site",
+    "description": "Amazon claims Meta's Muse is a safety risk and bars the AI agent from shopping on its website.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-21T13:51:30.595Z",
+    "published": "Mon, 21 Sep 2026 11:38:42 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2263650/the-iphone-18-pro-variable-aperture-camera-ifixit-hard-to-repair/",
+    "title": "The iPhone 18 Pro's fancy variable aperture camera is incredibly hard to repair",
+    "description": "Apple's variable aperture might capture better photos, but is near impossible to fix if it breaks.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-21T13:51:30.595Z",
+    "published": "Mon, 21 Sep 2026 11:30:06 +0000"
   }
 ]
