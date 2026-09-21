@@ -12821,7 +12821,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T23:47:53.534Z",
-    "published": "Sat, 01 Aug 2026 22:21:01 +0000"
+    "published": "Sat, 01 Aug 2026 22:21:01 +0000",
+    "processed": true,
+    "processedAt": "2026-09-21T01:31:36.852Z"
   },
   {
     "url": "https://cryptonews.net/news/security/33234551/",
@@ -12830,7 +12832,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T23:47:53.534Z",
-    "published": "Sat, 01 Aug 2026 22:17:17 +0000"
+    "published": "Sat, 01 Aug 2026 22:17:17 +0000",
+    "processed": true,
+    "processedAt": "2026-09-21T01:31:36.852Z"
   },
   {
     "url": "https://www.theguardian.com/technology/2026/aug/02/australian-book-sellers-alarm-destruction-rare-titles-ai-supply-chain",
@@ -12839,7 +12843,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T23:47:53.534Z",
-    "published": "Sat, 01 Aug 2026 21:11:45 +0000"
+    "published": "Sat, 01 Aug 2026 21:11:45 +0000",
+    "processed": true,
+    "processedAt": "2026-09-21T01:31:36.852Z"
   },
   {
     "url": "https://github.com/amita-seal/wa-metaai",
@@ -12848,7 +12854,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-01T23:47:53.534Z",
-    "published": "Sat, 01 Aug 2026 21:10:44 +0000"
+    "published": "Sat, 01 Aug 2026 21:10:44 +0000",
+    "processed": true,
+    "processedAt": "2026-09-21T01:31:36.852Z"
   },
   {
     "url": "https://www.businessinsider.com/ai-could-lower-workers-pay-job-market-impact-2026-7",
@@ -60664,5 +60672,16 @@
     "published": "Sun, 20 Sep 2026 22:00:00 +0000",
     "processed": true,
     "processedAt": "2026-09-20T23:10:08.622Z"
+  },
+  {
+    "url": "https://www.engadget.com/2260401/major-chatbot-apps-work-with-carplay/",
+    "title": "Which major chatbot apps work with CarPlay?",
+    "description": "If you aren&#39;t happy with Siri while driving, several other chatbot apps are compatible with CarPlay now.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-21T01:29:30.081Z",
+    "published": "Sun, 20 Sep 2026 23:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-21T01:31:36.853Z"
   }
 ]
