@@ -61599,5 +61599,366 @@
     "category": "news",
     "discovered": "2026-09-22T12:31:20.806Z",
     "published": "Tue, 22 Sep 2026 08:47:27 +0000"
+  },
+  {
+    "url": "https://huggingface.co/blog/evaleval-aisi",
+    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-09-22T17:12:09.327Z",
+    "published": "Tue, 22 Sep 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-22T17:14:45.109Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+    "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+    "description": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-22T17:12:10.513Z",
+    "published": "Tue, 22 Sep 2026 16:30:07 +0000",
+    "processed": true,
+    "processedAt": "2026-09-22T17:14:45.109Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+    "title": "AstroForge is putting AI in command of its next spacecraft",
+    "description": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-22T17:12:10.513Z",
+    "published": "Tue, 22 Sep 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-22T17:14:45.109Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+    "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+    "description": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-22T17:12:10.513Z",
+    "published": "Tue, 22 Sep 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-22T17:14:45.109Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+    "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+    "description": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-22T17:12:10.513Z",
+    "published": "Tue, 22 Sep 2026 14:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-22T17:14:45.109Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+    "title": "Everyone can find a reason to dislike data center construction",
+    "description": "Inside two years of fraught AI data center debates in Pennsylvania.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-22T17:12:10.513Z",
+    "published": "Tue, 22 Sep 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+    "description": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand people",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-22T17:12:11.851Z",
+    "published": "Tue, 22 Sep 2026 13:42:05 +0000"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+    "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+    "description": "Article URL: https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity\nComments URL: https://news.ycombinator.com/item?id=49804516\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T17:12:17.590Z",
+    "published": "Tue, 22 Sep 2026 17:03:54 +0000"
+  },
+  {
+    "url": "https://www.coderabbit.ai/blog/opus-5-5-model-review",
+    "title": "Claude Opus 5.5 for code review: More catches, different misses",
+    "description": "Article URL: https://www.coderabbit.ai/blog/opus-5-5-model-review\nComments URL: https://news.ycombinator.com/item?id=49804509\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T17:12:17.590Z",
+    "published": "Tue, 22 Sep 2026 17:03:29 +0000"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/models/opus-5-5/overview",
+    "title": "Claude Opus 5.5",
+    "description": "Article URL: https://platform.claude.com/docs/en/models/opus-5-5/overview\nComments URL: https://news.ycombinator.com/item?id=49804506\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T17:12:17.590Z",
+    "published": "Tue, 22 Sep 2026 17:03:22 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=-HiIgV9ecAg",
+    "title": "The Myth of AI Doom, with Cal Newport",
+    "description": "Article URL: https://www.youtube.com/watch?v=-HiIgV9ecAg\nComments URL: https://news.ycombinator.com/item?id=49804468\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T17:12:17.590Z",
+    "published": "Tue, 22 Sep 2026 17:01:12 +0000"
+  },
+  {
+    "url": "https://tailstory-app.com/en/blog/what-production-ai-actually-costs",
+    "title": "I run a production AI app for €60 a month. Here is the actual bill.",
+    "description": "Article URL: https://tailstory-app.com/en/blog/what-production-ai-actually-costs\nComments URL: https://news.ycombinator.com/item?id=49804393\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T17:12:17.590Z",
+    "published": "Tue, 22 Sep 2026 16:55:49 +0000"
+  },
+  {
+    "url": "https://github.com/apocryphx/ES-Archive",
+    "title": "ES Archive – a new memory system for AI, running natively on Mac",
+    "description": "Article URL: https://github.com/apocryphx/ES-Archive\nComments URL: https://news.ycombinator.com/item?id=49804350\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T17:12:17.590Z",
+    "published": "Tue, 22 Sep 2026 16:53:05 +0000"
+  },
+  {
+    "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+    "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis",
+    "description": "Article URL: https://artificialanalysis.ai/models/claude-opus-5-5\nComments URL: https://news.ycombinator.com/item?id=49804316\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T17:12:17.590Z",
+    "published": "Tue, 22 Sep 2026 16:51:31 +0000"
+  },
+  {
+    "url": "https://www.macrumors.com/2026/09/20/siri-ai-settlement-website-now-live/",
+    "title": "Siri AI Settlement Website Now Live",
+    "description": "Article URL: https://www.macrumors.com/2026/09/20/siri-ai-settlement-website-now-live/\nComments URL: https://news.ycombinator.com/item?id=49804303\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T17:12:17.590Z",
+    "published": "Tue, 22 Sep 2026 16:50:55 +0000"
+  },
+  {
+    "url": "https://armenpress.am/en/article/1261009",
+    "title": "Armenia on track to become one of leading hubs for US AI infrastructure",
+    "description": "Article URL: https://armenpress.am/en/article/1261009\nComments URL: https://news.ycombinator.com/item?id=49804190\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T17:12:17.590Z",
+    "published": "Tue, 22 Sep 2026 16:45:13 +0000"
+  },
+  {
+    "url": "https://institute.deepmind.com/essays/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age/",
+    "title": "A framework for frontier AI and the dawning of a new age",
+    "description": "Article URL: https://institute.deepmind.com/essays/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age/\nComments URL: https://news.ycombinator.com/item?id=49804171\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T17:12:17.590Z",
+    "published": "Tue, 22 Sep 2026 16:44:33 +0000"
+  },
+  {
+    "url": "https://www.everythingisbullshit.blog/p/ai-is-not-the-end-of-the-world",
+    "title": "AI Is Not the End of the World",
+    "description": "Article URL: https://www.everythingisbullshit.blog/p/ai-is-not-the-end-of-the-world\nComments URL: https://news.ycombinator.com/item?id=49804076\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T17:12:17.590Z",
+    "published": "Tue, 22 Sep 2026 16:39:35 +0000"
+  },
+  {
+    "url": "https://retentionvolt.com",
+    "title": "RetentionVolt MCP – Giving AI agents video editing references",
+    "description": "Article URL: https://retentionvolt.com\nComments URL: https://news.ycombinator.com/item?id=49804040\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T17:12:17.590Z",
+    "published": "Tue, 22 Sep 2026 16:37:47 +0000"
+  },
+  {
+    "url": "https://github.com/kvitapp/kvit-plugins",
+    "title": "Show HN: What's Next – end a Claude Code turn with a choice, not prose",
+    "description": "Hi HN, I built `What's Next` (whats-next@kvit) – a Claude Code plugin that ends a turn\nwith a short report + a card of 2-4 options instead of wall of Claude's prose.Think of it as reverse Jev: Jev's thesis is when the answer is a choice, return a typed choice\ninstead of generating prose around it t",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T17:12:17.590Z",
+    "published": "Tue, 22 Sep 2026 16:35:49 +0000"
+  },
+  {
+    "url": "https://www.anthropic.com/claude-opus-5-5",
+    "title": "Claude Opus 5.5",
+    "description": "Article URL: https://www.anthropic.com/claude-opus-5-5\nComments URL: https://news.ycombinator.com/item?id=49803892\nPoints: 145\n# Comments: 236",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T17:12:17.590Z",
+    "published": "Tue, 22 Sep 2026 16:29:05 +0000"
+  },
+  {
+    "url": "https://www.anthropic.com/claude-opus-5-5",
+    "title": "Claude Opus 5.5",
+    "description": "https://github.com/anthropics/ClaudeForFoundationModels/comm...\n\nComments URL: https://news.ycombinator.com/item?id=49803863\nPoints: 266\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T17:12:17.590Z",
+    "published": "Tue, 22 Sep 2026 16:27:30 +0000"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+    "title": "Trump says US is officially renaming AI 'super intelligence'",
+    "description": "Article URL: https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence\nComments URL: https://news.ycombinator.com/item?id=49803849\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T17:12:17.590Z",
+    "published": "Tue, 22 Sep 2026 16:26:18 +0000"
+  },
+  {
+    "url": "https://medium.com/@ali.raza_25708/how-do-you-distribute-and-collaborate-on-agent-skills-in-enterprise-settings-bdb7097dff60",
+    "title": "How we share, review, and update AI agent skills",
+    "description": "Article URL: https://medium.com/@ali.raza_25708/how-do-you-distribute-and-collaborate-on-agent-skills-in-enterprise-settings-bdb7097dff60\nComments URL: https://news.ycombinator.com/item?id=49803759\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T17:12:17.590Z",
+    "published": "Tue, 22 Sep 2026 16:20:25 +0000"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html",
+    "title": "The AI Party House Where Networking Has a Dark Side",
+    "description": "Article URL: https://www.nytimes.com/2026/09/21/technology/agi-house-ai-culture.html\nComments URL: https://news.ycombinator.com/item?id=49803695\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T17:12:17.590Z",
+    "published": "Tue, 22 Sep 2026 16:15:39 +0000"
+  },
+  {
+    "url": "https://ai-rete-rag.com/",
+    "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+    "description": "Hi HN, I built ai·rete·rag because I kept seeing teams put an LLM in charge of decisions that need to be auditable (lending, fraud, clinical triage), then bolt on \"guardrails\" after the fact.It runs the two in series instead:1. A pure-Python Rete engine evaluates YAML rules against your facts. The",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T17:12:17.590Z",
+    "published": "Tue, 22 Sep 2026 16:15:06 +0000"
+  },
+  {
+    "url": "https://www.emergentmind.com/3d-models",
+    "title": "1,300 STEM 3D Models created by GPT-6 Astra",
+    "description": "Article URL: https://www.emergentmind.com/3d-models\nComments URL: https://news.ycombinator.com/item?id=49803557\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T17:12:17.590Z",
+    "published": "Tue, 22 Sep 2026 16:06:55 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/break-your-own-rag-pipeline-before-users-do/",
+    "title": "Break Your Own RAG Pipeline Before Users Do",
+    "description": "A small adversarial test set that catches the retrieval failures your evaluation set never will\nThe post Break Your Own RAG Pipeline Before Users Do appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-22T17:12:22.983Z",
+    "published": "Tue, 22 Sep 2026 15:30:01 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/build-a-speaker-recognition-app-with-claude-code/",
+    "title": "Build a Speaker-Recognition App with Claude Code",
+    "description": "Learn how to effectively code up an internal tool using Claude code or Codex\nThe post Build a Speaker-Recognition App with Claude Code appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-22T17:12:22.983Z",
+    "published": "Tue, 22 Sep 2026 14:00:02 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/claude-opus-5-5-matches-fable-5-1-at-40-percent-lower-cost-as-anthropic-promises-to-fix-claudish-writing/",
+    "title": "Claude Opus 5.5 matches Fable 5.1 performance at lower cost and promises less \"Claudish\" writing",
+    "description": "Anthropic is launching Claude Opus 5.5, the first model in a new generation. The company says it matches Claude Fable 5.1 on most tasks while costing about 40 percent less to run than Opus 5. Anthropic's benchmarks also put it ahead of OpenAI's GPT-6 Astra on most tasks, despite being signi",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-22T17:12:24.594Z",
+    "published": "Tue, 22 Sep 2026 16:31:07 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-calls-for-international-standards-on-ai-that-could-improve-itself/",
+    "title": "OpenAI calls for international standards on AI that could improve itself",
+    "description": "OpenAI wants international standards for recursive self-improvement, where AI systems independently build the next generation of AI. Without safeguards, humans could lose control over this process. OpenAI says the US should take the lead on global measurement standards and oversight rules.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-22T17:12:24.594Z",
+    "published": "Tue, 22 Sep 2026 15:29:51 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/a-tiny-software-layer-from-lab-grown-neurons-promises-faster-cheaper-ai-video/",
+    "title": "A tiny software layer from lab-grown neurons promises faster, cheaper AI video",
+    "description": "The Biological Computing Co. wants to team up with AWS to sell a text-to-video model that's supposed to run five times faster and 80 percent cheaper thanks to a software layer derived from real nerve cells. The tiny layer adds less than 0.1 percent to the base model, but the startup won't s",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-22T17:12:24.594Z",
+    "published": "Tue, 22 Sep 2026 13:58:20 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/rabbit-r1-os3-jesse-lyu/",
+    "title": "Rabbit Is Back, This Time With an AI Agent App",
+    "description": "Two years after trying to sidestep mobile apps with dedicated AI hardware, Rabbit is launching OS3, a cross-platform agent that lives on the screens you already use.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-22T17:12:31.246Z",
+    "published": "Tue, 22 Sep 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/viture-vonder-glasses-are-meant-to-map-your-mind/",
+    "title": "Viture’s Vonder Glasses Are Meant to Map Your Mind",
+    "description": "No cameras? No problem. Viture’s first display-free smart glasses have bone-conduction microphones to privately record your daily musings.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-22T17:12:31.246Z",
+    "published": "Tue, 22 Sep 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality/",
+    "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
+    "description": "The Biological Computing Company is bringing its AI tools to Amazon Web Services in a major boost for a once-fringe field that aims to marry nature with code.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-22T17:12:31.246Z",
+    "published": "Tue, 22 Sep 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2262814/improve-roku-tv-image-quality-change-settings/",
+    "title": "Improve your Roku TV's image quality by changing these settings",
+    "description": "Your Roku TV has lots of settings to make the picture quality look more detailed and clearer, but you have to know where to look.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-22T17:12:38.760Z",
+    "published": "Tue, 22 Sep 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2262360/reasons-keep-iphone-17-pro-instead-of-upgrading-iphone-18-pro/",
+    "title": "Five reasons to stick with your iPhone 17 Pro instead of upgrading to the 18 Pro",
+    "description": "The iPhone 18 Pro offers Apple&#39;s latest and greatest, but it&#39;s only a meaningful upgrade if you&#39;re coming from a model that&#39;s several years old.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-22T17:12:38.760Z",
+    "published": "Tue, 22 Sep 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2263860/beats-360-vs-airpods-max-2-comparison/",
+    "title": "Beats 360 vs AirPods Max 2: How do Apple's flagship headphones compare?",
+    "description": "We compare the new Beats 360 with the AirPods Max 2. Find out how they stack up in design, comfort and features to see which pair is right for you.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-22T17:12:38.760Z",
+    "published": "Tue, 22 Sep 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2265059/adobe-premiere-mobile-android/",
+    "title": "Adobe Premiere mobile is now available on Android",
+    "description": "Adobe has released its Premiere editing app for Android, a year after its iOS launch.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-22T17:12:38.760Z",
+    "published": "Tue, 22 Sep 2026 13:00:00 +0000"
   }
 ]
