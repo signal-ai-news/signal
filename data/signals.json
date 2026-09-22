@@ -61960,5 +61960,294 @@
     "category": "news",
     "discovered": "2026-09-22T17:12:38.760Z",
     "published": "Tue, 22 Sep 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+    "title": "Better prompt caching for GPT-6",
+    "description": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-22T20:26:20.436Z",
+    "published": "Tue, 22 Sep 2026 21:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-22T20:28:58.046Z"
+  },
+  {
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "title": "Introducing GPT-6 Sol and Luna",
+    "description": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-22T20:26:20.436Z",
+    "published": "Tue, 22 Sep 2026 18:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-22T20:28:58.046Z"
+  },
+  {
+    "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+    "title": "Priorities and principles for effective third party assessments",
+    "description": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-22T20:26:20.436Z",
+    "published": "Tue, 22 Sep 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-22T20:28:58.046Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+    "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+    "description": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-22T20:26:23.724Z",
+    "published": "Tue, 22 Sep 2026 19:09:11 +0000",
+    "processed": true,
+    "processedAt": "2026-09-22T20:28:58.046Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+    "description": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-22T20:26:23.724Z",
+    "published": "Tue, 22 Sep 2026 18:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-22T20:28:58.046Z"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+    "title": "Microsoft disrupts AI-assisted platform that compromised 12,000",
+    "description": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-09-22T20:26:24.488Z",
+    "published": "Tue, 22 Sep 2026 19:45:47 +0000"
+  },
+  {
+    "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+    "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+    "description": "Article URL: https://claude.dev/blog/getting-the-most-out-of-opus-5-5/\nComments URL: https://news.ycombinator.com/item?id=49807462\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T20:26:29.862Z",
+    "published": "Tue, 22 Sep 2026 20:15:57 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49807413",
+    "title": "Ask HN: When is fine-tuning a small LLM worth it?",
+    "description": "I'd be interested in hearing about your experiences. What kind of task did you use it for, what model did you train, and what were the results?Feel free to share examples of what you've tried.\n\nComments URL: https://news.ycombinator.com/item?id=49807413\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T20:26:29.862Z",
+    "published": "Tue, 22 Sep 2026 20:11:30 +0000"
+  },
+  {
+    "url": "https://openai.com/index/better-prompt-caching-for-gpt-6/",
+    "title": "Better prompt caching for GPT‑6",
+    "description": "Article URL: https://openai.com/index/better-prompt-caching-for-gpt-6/\nComments URL: https://news.ycombinator.com/item?id=49807383\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T20:26:29.862Z",
+    "published": "Tue, 22 Sep 2026 20:09:03 +0000"
+  },
+  {
+    "url": "https://www.theregister.com/security/2026/09/22/zai-says-sorry-for-slurping-up-your-code-open-sources-zcode/5298300",
+    "title": "Z.ai says sorry for slurping up your code, open sources ZCode",
+    "description": "Article URL: https://www.theregister.com/security/2026/09/22/zai-says-sorry-for-slurping-up-your-code-open-sources-zcode/5298300\nComments URL: https://news.ycombinator.com/item?id=49807362\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T20:26:29.862Z",
+    "published": "Tue, 22 Sep 2026 20:07:08 +0000"
+  },
+  {
+    "url": "https://www.lawfaremedia.org/article/bootstrapping-frontier-ai-governance-by-mutualizing-risk",
+    "title": "Bootstrapping Frontier AI Governance by Mutualizing Risk",
+    "description": "Article URL: https://www.lawfaremedia.org/article/bootstrapping-frontier-ai-governance-by-mutualizing-risk\nComments URL: https://news.ycombinator.com/item?id=49807340\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T20:26:29.862Z",
+    "published": "Tue, 22 Sep 2026 20:05:30 +0000"
+  },
+  {
+    "url": "https://www.smh.com.au/politics/federal/australia-joins-call-for-ai-safeguards-amid-warnings-of-out-of-control-risks-20260922-p60zbe.html",
+    "title": "'Same sense of urgency': UN chief compares AI risk to nuclear weapons",
+    "description": "Article URL: https://www.smh.com.au/politics/federal/australia-joins-call-for-ai-safeguards-amid-warnings-of-out-of-control-risks-20260922-p60zbe.html\nComments URL: https://news.ycombinator.com/item?id=49807335\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T20:26:29.862Z",
+    "published": "Tue, 22 Sep 2026 20:05:12 +0000"
+  },
+  {
+    "url": "https://proton.me/blog/meta-smart-glasses-ai-robots",
+    "title": "Are Meta's smart glasses training AI for robots?",
+    "description": "Article URL: https://proton.me/blog/meta-smart-glasses-ai-robots\nComments URL: https://news.ycombinator.com/item?id=49807281\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T20:26:29.862Z",
+    "published": "Tue, 22 Sep 2026 20:01:20 +0000"
+  },
+  {
+    "url": "https://github.com/sshah03/shrewd",
+    "title": "Show HN: Shrewd – what I learned distilling LLM labels into local classifiers",
+    "description": "General purpose LLMs, and classifiers like Jev, are nice and easy to use right away. That makes the pain of labelling data and creating specialized models for simple tasks not seem worth it, but for a project I am working on, I needed to create a large number of specialized models that could run ef",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T20:26:29.862Z",
+    "published": "Tue, 22 Sep 2026 20:00:46 +0000"
+  },
+  {
+    "url": "https://www.wsj.com/tech/ai/ai-leaders-are-standing-on-a-liability-landmine-736a8060",
+    "title": "AI Leaders Are Standing on a Liability Landmine",
+    "description": "Article URL: https://www.wsj.com/tech/ai/ai-leaders-are-standing-on-a-liability-landmine-736a8060\nComments URL: https://news.ycombinator.com/item?id=49806998\nPoints: 7\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T20:26:29.862Z",
+    "published": "Tue, 22 Sep 2026 19:40:12 +0000"
+  },
+  {
+    "url": "https://www.reuters.com/business/meta-testing-human-concierge-its-new-personal-ai-agent-muse-2026-09-22/",
+    "title": "Meta testing a 'human concierge' for its new personal AI agent, Muse",
+    "description": "Article URL: https://www.reuters.com/business/meta-testing-human-concierge-its-new-personal-ai-agent-muse-2026-09-22/\nComments URL: https://news.ycombinator.com/item?id=49806928\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T20:26:29.862Z",
+    "published": "Tue, 22 Sep 2026 19:35:04 +0000"
+  },
+  {
+    "url": "https://forta.com/blog/he-said-ai-sharpen-the-pitchforks",
+    "title": "He Said AI? Sharpen the Pitchforks",
+    "description": "Article URL: https://forta.com/blog/he-said-ai-sharpen-the-pitchforks\nComments URL: https://news.ycombinator.com/item?id=49806853\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T20:26:29.862Z",
+    "published": "Tue, 22 Sep 2026 19:29:23 +0000"
+  },
+  {
+    "url": "https://www.junkdrawer.ai",
+    "title": "Show HN: junkDrawer.ai – Browse eBay with AI Agent and Dynamic Filtering",
+    "description": "Custom lenses for any user specified quality\n... I wonder how I did that?\n\nComments URL: https://news.ycombinator.com/item?id=49806851\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T20:26:29.862Z",
+    "published": "Tue, 22 Sep 2026 19:29:14 +0000"
+  },
+  {
+    "url": "https://github.com/discobox-ai/discobox",
+    "title": "DiscoBox: AI Coding Agents in Disposable Sandboxes",
+    "description": "Article URL: https://github.com/discobox-ai/discobox\nComments URL: https://news.ycombinator.com/item?id=49806850\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T20:26:29.862Z",
+    "published": "Tue, 22 Sep 2026 19:29:13 +0000"
+  },
+  {
+    "url": "https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier",
+    "title": "GPT-6 Sol and Luna push the cost-efficiency frontier",
+    "description": "Article URL: https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier\nComments URL: https://news.ycombinator.com/item?id=49806724\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T20:26:29.862Z",
+    "published": "Tue, 22 Sep 2026 19:21:48 +0000"
+  },
+  {
+    "url": "https://www.politico.com/news/2026/09/22/trump-rejects-global-entity-ai-oversight-01087546",
+    "title": "Trump rejects global entity for AI oversight",
+    "description": "Article URL: https://www.politico.com/news/2026/09/22/trump-rejects-global-entity-ai-oversight-01087546\nComments URL: https://news.ycombinator.com/item?id=49806558\nPoints: 11\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T20:26:29.862Z",
+    "published": "Tue, 22 Sep 2026 19:09:53 +0000"
+  },
+  {
+    "url": "https://autonomouscompany.substack.com/p/the-company-could-run-itself-it-still",
+    "title": "An autonomous AI company could run itself. It still couldn't find a market",
+    "description": "Article URL: https://autonomouscompany.substack.com/p/the-company-could-run-itself-it-still\nComments URL: https://news.ycombinator.com/item?id=49806554\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T20:26:29.862Z",
+    "published": "Tue, 22 Sep 2026 19:09:35 +0000"
+  },
+  {
+    "url": "https://chromewebstore.google.com/detail/maskr-private-ai-leak-gua/adncldmdaamhlpcccigfhdipjhpicebe",
+    "title": "Maskr – Catch personal data before it reaches AI chatbots (100% client-side)",
+    "description": "Article URL: https://chromewebstore.google.com/detail/maskr-private-ai-leak-gua/adncldmdaamhlpcccigfhdipjhpicebe\nComments URL: https://news.ycombinator.com/item?id=49806518\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T20:26:29.862Z",
+    "published": "Tue, 22 Sep 2026 19:07:57 +0000"
+  },
+  {
+    "url": "https://www.aljazeera.com/economy/2026/9/22/20-countries-propose-global-oversight-body-to-manage-ai-dangers",
+    "title": "Countries propose global oversight body to manage AI dangers",
+    "description": "Article URL: https://www.aljazeera.com/economy/2026/9/22/20-countries-propose-global-oversight-body-to-manage-ai-dangers\nComments URL: https://news.ycombinator.com/item?id=49806379\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T20:26:29.862Z",
+    "published": "Tue, 22 Sep 2026 19:00:42 +0000"
+  },
+  {
+    "url": "https://artificialanalysis.ai/models/gpt-6-sol",
+    "title": "GPT-6 Sol (Max) Intelligence, Performance and Price Analysis",
+    "description": "Article URL: https://artificialanalysis.ai/models/gpt-6-sol\nComments URL: https://news.ycombinator.com/item?id=49806301\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T20:26:29.862Z",
+    "published": "Tue, 22 Sep 2026 18:54:40 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openais-gpt-6-sol-and-luna-cut-prices-in-half-but-barely-move-the-needle-on-performance/",
+    "title": "OpenAI's GPT-6 Sol and Luna cut prices in half but barely move the needle on performance",
+    "description": "With GPT-6 Sol and Luna, OpenAI adds two cheaper models that deliver their predecessors' performance at half the token price and take aim at Anthropic's pricier offerings. Independent analyses find little gain in actual intelligence, though, and OpenAI likely didn't see Anthropic's simultan",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-22T20:26:37.228Z",
+    "published": "Tue, 22 Sep 2026 20:06:51 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/",
+    "title": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement",
+    "description": "Apple may pay out up to $95 for each eligible iPhone purchased by someone who felt misled about Siri’s release. You have until December 21 to submit a claim.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-22T20:26:43.912Z",
+    "published": "Tue, 22 Sep 2026 18:19:13 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2265628/qualcomm-is-making-not-one-but-two-versions-of-its-flagship-snapdragon-8-elite-gen-6-chip/",
+    "title": "Qualcomm is making not one but two versions of its flagship Snapdragon 8 Elite Gen 6 chip",
+    "description": "That video capture is nothing to sneeze at.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-22T20:26:51.363Z",
+    "published": "Tue, 22 Sep 2026 20:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2265564/motorolas-new-signature-27-is-among-the-first-smartphone-to-use-the-snapdragon-8-elite-extreme-gen-6-processor/",
+    "title": "Motorola's new Signature 27 is among the first smartphone to use the Snapdragon 8 Elite Extreme Gen 6 processor",
+    "description": "Not bad for a quick refresh.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-22T20:26:51.363Z",
+    "published": "Tue, 22 Sep 2026 20:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2265801/anthropic-and-openai-announce-more-powerful-and-cheaper-ai-models/",
+    "title": "Anthropic and OpenAI announce more powerful (and cheaper) AI models",
+    "description": "I thought we were supposed to be slowing down the frontier.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-22T20:26:51.363Z",
+    "published": "Tue, 22 Sep 2026 19:11:11 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2264095/how-far-you-should-sit-from-computer-monitor-laptop/",
+    "title": "How far away should you sit from your computer monitor or laptop?",
+    "description": "Don&#39;t have your monitor sitting just anywhere; the distance, tilt and angles are all important to avoid strain while working.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-22T20:26:51.363Z",
+    "published": "Tue, 22 Sep 2026 18:00:00 +0000"
   }
 ]
