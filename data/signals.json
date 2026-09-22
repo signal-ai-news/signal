@@ -61265,5 +61265,339 @@
     "category": "community",
     "discovered": "2026-09-22T06:44:00.398Z",
     "published": "Tue, 22 Sep 2026 03:03:19 +0000"
+  },
+  {
+    "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+    "title": "Transformers now runs llama.cpp quants",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-09-22T12:30:42.110Z",
+    "published": "Tue, 22 Sep 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-22T12:33:27.381Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/omlx",
+    "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-09-22T12:30:42.110Z",
+    "published": "Tue, 22 Sep 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-22T12:33:27.381Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+    "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+    "description": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-22T12:30:43.292Z",
+    "published": "Tue, 22 Sep 2026 12:23:05 +0000",
+    "processed": true,
+    "processedAt": "2026-09-22T12:33:27.381Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+    "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Don’t be fooled by this summer of AI hype&#160; —Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR), and Emily M. Bender",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-22T12:30:44.826Z",
+    "published": "Tue, 22 Sep 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-22T12:33:27.381Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+    "title": "Don’t be fooled by this summer of AI hype",
+    "description": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclose",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-22T12:30:44.826Z",
+    "published": "Tue, 22 Sep 2026 11:04:51 +0000",
+    "processed": true,
+    "processedAt": "2026-09-22T12:33:27.381Z"
+  },
+  {
+    "url": "https://zenodo.org/records/22896336",
+    "title": "Applying zigzag algebra in abstract algebra to improve LLM training",
+    "description": "Article URL: https://zenodo.org/records/22896336\nComments URL: https://news.ycombinator.com/item?id=49800134\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T12:30:59.867Z",
+    "published": "Tue, 22 Sep 2026 12:27:29 +0000"
+  },
+  {
+    "url": "https://www.kmaschta.me/blog/2026/09/22/self-hosting-llm-models",
+    "title": "Self-hosting LLM models for software development",
+    "description": "Article URL: https://www.kmaschta.me/blog/2026/09/22/self-hosting-llm-models\nComments URL: https://news.ycombinator.com/item?id=49800105\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T12:30:59.867Z",
+    "published": "Tue, 22 Sep 2026 12:24:59 +0000"
+  },
+  {
+    "url": "https://igorpak.wordpress.com/2026/09/15/what-to-expect-in-the-ai-era/",
+    "title": "What to Expect in the AI Era",
+    "description": "Article URL: https://igorpak.wordpress.com/2026/09/15/what-to-expect-in-the-ai-era/\nComments URL: https://news.ycombinator.com/item?id=49800056\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T12:30:59.867Z",
+    "published": "Tue, 22 Sep 2026 12:20:03 +0000"
+  },
+  {
+    "url": "https://spectrum.ieee.org/andon-labs-agentic-ai-businesses",
+    "title": "Andon Labs Puts AI Agents in Charge of Real Businesses",
+    "description": "Article URL: https://spectrum.ieee.org/andon-labs-agentic-ai-businesses\nComments URL: https://news.ycombinator.com/item?id=49800053\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T12:30:59.867Z",
+    "published": "Tue, 22 Sep 2026 12:19:49 +0000"
+  },
+  {
+    "url": "https://news.americanson.ai/p/80-of-americans-now-believe-ai-harms",
+    "title": "80% of Americans believe AI harms should be a government priority",
+    "description": "Article URL: https://news.americanson.ai/p/80-of-americans-now-believe-ai-harms\nComments URL: https://news.ycombinator.com/item?id=49800026\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T12:30:59.867Z",
+    "published": "Tue, 22 Sep 2026 12:16:32 +0000"
+  },
+  {
+    "url": "https://aifreepc.com",
+    "title": "Show HN: AI-Free PC – a laptop that can't access AI or social media",
+    "description": "Article URL: https://aifreepc.com\nComments URL: https://news.ycombinator.com/item?id=49800011\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T12:30:59.867Z",
+    "published": "Tue, 22 Sep 2026 12:14:16 +0000"
+  },
+  {
+    "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+    "title": "AI Has No Wisdom and Neither Will You",
+    "description": "Article URL: https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/\nComments URL: https://news.ycombinator.com/item?id=49799965\nPoints: 9\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T12:30:59.867Z",
+    "published": "Tue, 22 Sep 2026 12:11:09 +0000"
+  },
+  {
+    "url": "https://github.com/nimblegate/nimblegate",
+    "title": "Show HN: Nimblegate – Git push guardrails for AI agents",
+    "description": "Article URL: https://github.com/nimblegate/nimblegate\nComments URL: https://news.ycombinator.com/item?id=49799938\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T12:30:59.867Z",
+    "published": "Tue, 22 Sep 2026 12:08:11 +0000"
+  },
+  {
+    "url": "https://geekyants.com/service/mvp-development-service",
+    "title": "Building AI MVPs: Testing Demand, Model Quality, and Cost",
+    "description": "Article URL: https://geekyants.com/service/mvp-development-service\nComments URL: https://news.ycombinator.com/item?id=49799936\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T12:30:59.867Z",
+    "published": "Tue, 22 Sep 2026 12:08:09 +0000"
+  },
+  {
+    "url": "https://www.wsj.com/opinion/the-hidden-agenda-behind-the-ai-panic-19ef191f",
+    "title": "The Agenda Behind the AI Panic",
+    "description": "Article URL: https://www.wsj.com/opinion/the-hidden-agenda-behind-the-ai-panic-19ef191f\nComments URL: https://news.ycombinator.com/item?id=49799890\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T12:30:59.867Z",
+    "published": "Tue, 22 Sep 2026 12:03:34 +0000"
+  },
+  {
+    "url": "https://github.com/Canonry/canonry",
+    "title": "Open-source \"PostHog\" for AI visibility",
+    "description": "Article URL: https://github.com/Canonry/canonry\nComments URL: https://news.ycombinator.com/item?id=49799873\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T12:30:59.867Z",
+    "published": "Tue, 22 Sep 2026 12:01:26 +0000"
+  },
+  {
+    "url": "https://wilsoniumite.com/2026/09/21/a-thing-we-may-be-able-to-learn-from-ai/",
+    "title": "Memorisation versus Generalisation for AI and for Us",
+    "description": "Article URL: https://wilsoniumite.com/2026/09/21/a-thing-we-may-be-able-to-learn-from-ai/\nComments URL: https://news.ycombinator.com/item?id=49799781\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T12:30:59.867Z",
+    "published": "Tue, 22 Sep 2026 11:52:13 +0000"
+  },
+  {
+    "url": "https://data.freeinference.org/",
+    "title": "A dataset hub for LLM serving research",
+    "description": "Article URL: https://data.freeinference.org/\nComments URL: https://news.ycombinator.com/item?id=49799764\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T12:30:59.867Z",
+    "published": "Tue, 22 Sep 2026 11:50:15 +0000"
+  },
+  {
+    "url": "https://huggingface.co/MergenAI/SIMURG",
+    "title": "Simurg – Kills LLM hallucinations mid-stream, with free web search built in",
+    "description": "Article URL: https://huggingface.co/MergenAI/SIMURG\nComments URL: https://news.ycombinator.com/item?id=49799731\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T12:30:59.867Z",
+    "published": "Tue, 22 Sep 2026 11:46:50 +0000"
+  },
+  {
+    "url": "https://github.com/Uilcol/omniuil-ai",
+    "title": "Show HN: OmniUil AI – PQC Scanner/Taint Analysis and Migration Intelligence Rust",
+    "description": "Article URL: https://github.com/Uilcol/omniuil-ai\nComments URL: https://news.ycombinator.com/item?id=49799672\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T12:30:59.867Z",
+    "published": "Tue, 22 Sep 2026 11:39:28 +0000"
+  },
+  {
+    "url": "https://apps.shopify.com/reupsell",
+    "title": "Reupsell – AI Product Accessories for Shopify",
+    "description": "Article URL: https://apps.shopify.com/reupsell\nComments URL: https://news.ycombinator.com/item?id=49799645\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T12:30:59.867Z",
+    "published": "Tue, 22 Sep 2026 11:36:20 +0000"
+  },
+  {
+    "url": "https://blog.senko.net/analyzing-jev-a-new-ai-model",
+    "title": "Analyzing Jev, a new AI model",
+    "description": "Article URL: https://blog.senko.net/analyzing-jev-a-new-ai-model\nComments URL: https://news.ycombinator.com/item?id=49799641\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T12:30:59.867Z",
+    "published": "Tue, 22 Sep 2026 11:36:00 +0000"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/09/banning-self-recursive-improvement-in-ai-models.html",
+    "title": "Banning self-recursive improvement in AI models?",
+    "description": "Article URL: https://marginalrevolution.com/marginalrevolution/2026/09/banning-self-recursive-improvement-in-ai-models.html\nComments URL: https://news.ycombinator.com/item?id=49799630\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T12:30:59.867Z",
+    "published": "Tue, 22 Sep 2026 11:35:22 +0000"
+  },
+  {
+    "url": "https://www.gladia.io/blog/gladia-joins-ovh-groupe",
+    "title": "Gladia to join OVH Groupe, accelerating Europe's sovereign voice AI ambitions",
+    "description": "Article URL: https://www.gladia.io/blog/gladia-joins-ovh-groupe\nComments URL: https://news.ycombinator.com/item?id=49799351\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T12:30:59.867Z",
+    "published": "Tue, 22 Sep 2026 11:08:09 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/4-ways-to-use-ai-on-a-phd-thesis/",
+    "title": "4 Ways to Use AI on a PhD Thesis",
+    "description": "Finding citations, consolidating code, fact-checking and preparing for the defence\nThe post 4 Ways to Use AI on a PhD Thesis appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-22T12:31:05.431Z",
+    "published": "Tue, 22 Sep 2026 12:30:01 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/an-introduction-to-jev/",
+    "title": "An Introduction to Jev",
+    "description": "The AI that makes decisions instead of generating text\nThe post An Introduction to Jev appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-22T12:31:05.431Z",
+    "published": "Tue, 22 Sep 2026 11:00:01 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/xiaomis-affordable-flagship-ai-leads-the-open-models-and-anthropic-says-claude-helped-get-it-there/",
+    "title": "Xiaomi's affordable flagship AI leads the open models, and Anthropic says Claude helped get it there",
+    "description": "With MiMo-V2.6-Pro, Xiaomi moves to the top of the openly available AI models and drastically undercuts the competition on price. What makes that possible is massive reinforcement learning that cost $2.62 million. But the success comes with a catch: Anthropic accuses the company of siphonin",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-22T12:31:07.398Z",
+    "published": "Tue, 22 Sep 2026 11:42:11 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-says-its-internal-model-solved-over-100-long-standing-math-problems-after-just-a-month-of-training/",
+    "title": "OpenAI says its internal model solved over 100 long-standing math problems after just a month of training",
+    "description": "OpenAI says a new internal model solved more than 100 open math problems after just a month of training. Facing criticism from mathematicians, the company is backing an independent advisory group at the Institute for Advanced Study. But OpenAI has excluded its research pace from the group's",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-22T12:31:07.398Z",
+    "published": "Tue, 22 Sep 2026 11:17:59 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-is-setting-up-a-biology-lab-where-claude-guides-robots-through-drug-experiments/",
+    "title": "Anthropic is setting up a biology lab where Claude guides robots through drug experiments",
+    "description": "Anthropic is building its own biology lab to push AI-driven drug development beyond computer simulations.\nThe article Anthropic is setting up a biology lab where Claude guides robots through drug experiments appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-22T12:31:07.398Z",
+    "published": "Tue, 22 Sep 2026 09:27:16 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/ai-coworker-bots-loved-improv-and-interstellar-soundtrack/",
+    "title": "I Built AI Clones of My Coworkers. Things Got Weird",
+    "description": "Brian Bot loved talking about improv, while Sophie Bot wouldn’t stop calling me “big dog.” Welcome to the future of work.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-22T12:31:13.485Z",
+    "published": "Tue, 22 Sep 2026 10:30:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/big-interview-patti-harrison/",
+    "title": "Patti Harrison Had Dreams of a Tech Utopia. Silicon Valley Smashed Them",
+    "description": "The comedian sat down with WIRED to talk about social media, AI, and getting laughs for impersonating Boston Dynamics’ robot dogs.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-22T12:31:13.485Z",
+    "published": "Tue, 22 Sep 2026 10:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/",
+    "title": "A New Tool Found Malware That’s Guided by an AI Hive Mind—No Humans in Sight",
+    "description": "Cisco Talos researchers created a new framework for identifying malware and hacking tools that rely on AI chatbots—and quickly discovered something unusual.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-22T12:31:13.485Z",
+    "published": "Tue, 22 Sep 2026 10:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/",
+    "title": "A New Chatbot Wants to Unlock the Secrets in Tattered Ancient Greek Records",
+    "description": "In the hope of uncovering new details about ancient life, researchers have developed a large language model that fills in the gaps in papyrus fragments.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-22T12:31:13.485Z",
+    "published": "Tue, 22 Sep 2026 09:30:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/how-to-use-ai-with-your-privacy-intact/",
+    "title": "How to Use AI With Your Privacy Intact",
+    "description": "Your conversations with AI chatbots are both highly personal and deeply vulnerable to surveillance. Here’s how you can protect yourself.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-22T12:31:13.485Z",
+    "published": "Tue, 22 Sep 2026 09:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2265008/apple-music-hall-live-event-recording/",
+    "title": "Apple opens a dedicated concert venue with spatial audio and multi-cam video recording",
+    "description": "Apple Music Hall in London seems tailor-made for Apple Music Live concerts.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-22T12:31:20.806Z",
+    "published": "Tue, 22 Sep 2026 10:14:37 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2264989/openai-tumbler-ridge-shooting-lawsuit/",
+    "title": "OpenAI faces lawsuit from British Columbia over Tumbler Ridge shooting",
+    "description": "The Canadian province of British Columbia has sued OpenAI for failing to notify authorities about the Tumbler Ridge shooter's chats.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-22T12:31:20.806Z",
+    "published": "Tue, 22 Sep 2026 08:47:27 +0000"
   }
 ]
