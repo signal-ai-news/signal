@@ -62249,5 +62249,222 @@
     "category": "news",
     "discovered": "2026-09-22T20:26:51.363Z",
     "published": "Tue, 22 Sep 2026 18:00:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+    "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+    "description": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-22T23:12:19.131Z",
+    "published": "Tue, 22 Sep 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-22T23:15:00.424Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+    "description": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-22T23:12:22.582Z",
+    "published": "Tue, 22 Sep 2026 21:56:43 +0000",
+    "processed": true,
+    "processedAt": "2026-09-22T23:15:00.424Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+    "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+    "description": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-22T23:12:22.582Z",
+    "published": "Tue, 22 Sep 2026 20:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-22T23:15:00.424Z"
+  },
+  {
+    "url": "https://reason.com/2026/09/22/the-ai-safety-movement-is-making-ai-less-safe/",
+    "title": "The 'AI Safety' Movement Is Making AI Less Safe",
+    "description": "Article URL: https://reason.com/2026/09/22/the-ai-safety-movement-is-making-ai-less-safe/\nComments URL: https://news.ycombinator.com/item?id=49809567\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T23:12:31.078Z",
+    "published": "Tue, 22 Sep 2026 23:11:29 +0000",
+    "processed": true,
+    "processedAt": "2026-09-22T23:15:00.424Z"
+  },
+  {
+    "url": "https://dl.acm.org/doi/10.1145/3715275.3732059",
+    "title": "A Taxonomy for Navigating the Global Landscape of AI Regulation (2025)",
+    "description": "Article URL: https://dl.acm.org/doi/10.1145/3715275.3732059\nComments URL: https://news.ycombinator.com/item?id=49809325\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T23:12:31.078Z",
+    "published": "Tue, 22 Sep 2026 22:44:31 +0000",
+    "processed": true,
+    "processedAt": "2026-09-22T23:15:00.424Z"
+  },
+  {
+    "url": "https://www.washingtonpost.com/technology/2026/09/22/trump-says-hes-renaming-ai-super-intelligence/",
+    "title": "UN General Assembly: Trump renames AI to Super Intelligence",
+    "description": "Article URL: https://www.washingtonpost.com/technology/2026/09/22/trump-says-hes-renaming-ai-super-intelligence/\nComments URL: https://news.ycombinator.com/item?id=49809314\nPoints: 4\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T23:12:31.078Z",
+    "published": "Tue, 22 Sep 2026 22:43:49 +0000"
+  },
+  {
+    "url": "https://www.axios.com/2026/09/22/trump-ai-super-intelligence-rebrand",
+    "title": "Trump orders AI rebrand as \"super intelligence\"",
+    "description": "Article URL: https://www.axios.com/2026/09/22/trump-ai-super-intelligence-rebrand\nComments URL: https://news.ycombinator.com/item?id=49809237\nPoints: 6\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T23:12:31.078Z",
+    "published": "Tue, 22 Sep 2026 22:35:56 +0000"
+  },
+  {
+    "url": "https://simple-jev.featherless.ai/",
+    "title": "Simple-jev by featherless AI – Turn context into clear decisions",
+    "description": "Article URL: https://simple-jev.featherless.ai/\nComments URL: https://news.ycombinator.com/item?id=49809221\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T23:12:31.078Z",
+    "published": "Tue, 22 Sep 2026 22:34:36 +0000"
+  },
+  {
+    "url": "https://www.aipricing.guru/blog/claude-opus-5-5-vs-gpt-6-sol-pricing-2026/",
+    "title": "Claude Opus 5.5 vs. GPT-6 Sol: Cost per correct task, not price per token",
+    "description": "Article URL: https://www.aipricing.guru/blog/claude-opus-5-5-vs-gpt-6-sol-pricing-2026/\nComments URL: https://news.ycombinator.com/item?id=49808921\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T23:12:31.078Z",
+    "published": "Tue, 22 Sep 2026 22:11:52 +0000"
+  },
+  {
+    "url": "https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7",
+    "title": "AI staff complain of mental toll over fears of threat to society",
+    "description": "Article URL: https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7\nComments URL: https://news.ycombinator.com/item?id=49808850\nPoints: 6\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T23:12:31.078Z",
+    "published": "Tue, 22 Sep 2026 22:05:47 +0000"
+  },
+  {
+    "url": "https://docs.google.com/document/d/1tFyIuZKXpWwZwQq5a1Vaa9Dr-MiO2RXmT14yOvRb5uA/edit?tab=t.0",
+    "title": "AI Scenario in 2070",
+    "description": "Article URL: https://docs.google.com/document/d/1tFyIuZKXpWwZwQq5a1Vaa9Dr-MiO2RXmT14yOvRb5uA/edit?tab=t.0\nComments URL: https://news.ycombinator.com/item?id=49808799\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T23:12:31.078Z",
+    "published": "Tue, 22 Sep 2026 22:02:16 +0000"
+  },
+  {
+    "url": "https://gambit.security/blog-posts/autonomous-ai-agents-online-retailers-25-a-company",
+    "title": "Autonomous AI Agents Are Breaking into Online Retailers",
+    "description": "Article URL: https://gambit.security/blog-posts/autonomous-ai-agents-online-retailers-25-a-company\nComments URL: https://news.ycombinator.com/item?id=49808771\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T23:12:31.078Z",
+    "published": "Tue, 22 Sep 2026 22:00:20 +0000"
+  },
+  {
+    "url": "https://epoch.ai/publications/the-plunging-price-of-thought",
+    "title": "AI is getting cheaper more quickly than any other transformative tech in history",
+    "description": "Article URL: https://epoch.ai/publications/the-plunging-price-of-thought\nComments URL: https://news.ycombinator.com/item?id=49808743\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T23:12:31.078Z",
+    "published": "Tue, 22 Sep 2026 21:58:07 +0000"
+  },
+  {
+    "url": "https://elnahla.com/4-hour-workweek/",
+    "title": "AI Abundance Requires a 4-Hour Workweek",
+    "description": "Article URL: https://elnahla.com/4-hour-workweek/\nComments URL: https://news.ycombinator.com/item?id=49808710\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T23:12:31.078Z",
+    "published": "Tue, 22 Sep 2026 21:54:47 +0000"
+  },
+  {
+    "url": "https://jade.email/",
+    "title": "Show HN: Jade Email. Unlimited emails for your domain plus AI Agent support",
+    "description": "Hello HN!I've spent the last 4 years building Jade.email, an email service, and it's now better than any email service I've used. I'm incredibly proud of it and have a small group of paying customers already.It's similar to SimpleLogin where you get unlimited emails for your domain on the fly. The",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T23:12:31.078Z",
+    "published": "Tue, 22 Sep 2026 21:46:57 +0000"
+  },
+  {
+    "url": "https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202",
+    "title": "Meta's New Muse AI Agent Read My Private Messages. I Never Asked It To",
+    "description": "Article URL: https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202\nComments URL: https://news.ycombinator.com/item?id=49808565\nPoints: 6\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T23:12:31.078Z",
+    "published": "Tue, 22 Sep 2026 21:43:04 +0000"
+  },
+  {
+    "url": "https://johnmaartifacts.substack.com/",
+    "title": "My Claude Code setup (11 commands, 3 agents) + shared Meta \"design third brain\"",
+    "description": "Article URL: https://johnmaartifacts.substack.com/\nComments URL: https://news.ycombinator.com/item?id=49808554\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T23:12:31.078Z",
+    "published": "Tue, 22 Sep 2026 21:42:22 +0000"
+  },
+  {
+    "url": "https://opensourcewatch.beehiiv.com/p/new-voxiferi-introduces-voxwall-as-an-ai-ingress-firewall-for-bad-data",
+    "title": "Voxiferi introduces VoxWall as an 'AI ingress firewall' for bad data",
+    "description": "Article URL: https://opensourcewatch.beehiiv.com/p/new-voxiferi-introduces-voxwall-as-an-ai-ingress-firewall-for-bad-data\nComments URL: https://news.ycombinator.com/item?id=49808404\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T23:12:31.078Z",
+    "published": "Tue, 22 Sep 2026 21:30:35 +0000"
+  },
+  {
+    "url": "https://www.motherjones.com/politics/2026/09/openai-chatgpt-microsoft-copyright-legal-case-documents-revelations/",
+    "title": "AI Exec: We May Have Pulled Off \"The Largest Theft of Labor in Human History\"",
+    "description": "Article URL: https://www.motherjones.com/politics/2026/09/openai-chatgpt-microsoft-copyright-legal-case-documents-revelations/\nComments URL: https://news.ycombinator.com/item?id=49808216\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T23:12:31.078Z",
+    "published": "Tue, 22 Sep 2026 21:15:28 +0000"
+  },
+  {
+    "url": "https://relaticle.com",
+    "title": "Relaticle, a self-hosted CRM where AI updates data only after your approval",
+    "description": "Article URL: https://relaticle.com\nComments URL: https://news.ycombinator.com/item?id=49808105\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T23:12:31.078Z",
+    "published": "Tue, 22 Sep 2026 21:06:26 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=VU3gABvwZCM",
+    "title": "Why AI Can't Replace You with Cory Doctorow [YouTube] [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=VU3gABvwZCM\nComments URL: https://news.ycombinator.com/item?id=49807956\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T23:12:31.078Z",
+    "published": "Tue, 22 Sep 2026 20:55:48 +0000"
+  },
+  {
+    "url": "https://techstrong.ai/generative-ai/open-weight-ai-models-seize-token-lead-but-proprietary-systems-still-make-the-money/",
+    "title": "Open-Weight AI Models Seize Token Lead, but Proprietary Still Make the Money",
+    "description": "Article URL: https://techstrong.ai/generative-ai/open-weight-ai-models-seize-token-lead-but-proprietary-systems-still-make-the-money/\nComments URL: https://news.ycombinator.com/item?id=49807951\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-22T23:12:31.078Z",
+    "published": "Tue, 22 Sep 2026 20:55:18 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2264296/apple-music-songs-grayed-out-why-how-to-fix/",
+    "title": "Why are some songs grayed out on Apple Music (And how to fix it)",
+    "description": "If you&#39;ve had some songs in your Apple Music app turn gray and become unavailable, there are some things you can try.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-22T23:12:53.392Z",
+    "published": "Tue, 22 Sep 2026 22:00:00 +0000"
   }
 ]
