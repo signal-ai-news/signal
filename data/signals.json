@@ -12975,7 +12975,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-02T07:56:12.765Z",
-    "published": "Sun, 02 Aug 2026 06:46:43 +0000"
+    "published": "Sun, 02 Aug 2026 06:46:43 +0000",
+    "processed": true,
+    "processedAt": "2026-09-22T01:35:25.428Z"
   },
   {
     "url": "https://deckspace.dev/claude-accounts/",
@@ -12984,7 +12986,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-02T07:56:12.765Z",
-    "published": "Sun, 02 Aug 2026 06:38:40 +0000"
+    "published": "Sun, 02 Aug 2026 06:38:40 +0000",
+    "processed": true,
+    "processedAt": "2026-09-22T01:35:25.428Z"
   },
   {
     "url": "https://agent-browser.dev/",
@@ -12993,7 +12997,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-02T07:56:12.765Z",
-    "published": "Sun, 02 Aug 2026 06:15:23 +0000"
+    "published": "Sun, 02 Aug 2026 06:15:23 +0000",
+    "processed": true,
+    "processedAt": "2026-09-22T01:35:25.428Z"
   },
   {
     "url": "https://github.com/Midstall/claude-for-hardware",
@@ -61083,5 +61089,27 @@
     "published": "Mon, 21 Sep 2026 19:44:35 +0000",
     "processed": true,
     "processedAt": "2026-09-21T22:48:54.366Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+    "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+    "description": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-22T01:32:39.661Z",
+    "published": "Mon, 21 Sep 2026 23:44:28 +0000",
+    "processed": true,
+    "processedAt": "2026-09-22T01:35:25.430Z"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+    "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+    "description": "A simple ClickFix attack is only one way to completely hijack the new agent.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-09-22T01:32:40.270Z",
+    "published": "Mon, 21 Sep 2026 22:24:38 +0000",
+    "processed": true,
+    "processedAt": "2026-09-22T01:35:25.430Z"
   }
 ]
