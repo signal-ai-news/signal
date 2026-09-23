@@ -63200,5 +63200,204 @@
     "category": "news",
     "discovered": "2026-09-23T21:23:32.175Z",
     "published": "Wed, 23 Sep 2026 20:30:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+    "title": "Meta introduces camera-free AI glasses",
+    "description": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-23T23:54:44.129Z",
+    "published": "Wed, 23 Sep 2026 23:39:44 +0000",
+    "processed": true,
+    "processedAt": "2026-09-23T23:57:18.597Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+    "title": "Anthropic says its biology lab has already found something big",
+    "description": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-23T23:54:44.129Z",
+    "published": "Wed, 23 Sep 2026 22:17:39 +0000",
+    "processed": true,
+    "processedAt": "2026-09-23T23:57:18.597Z"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
+    "title": "Gemini 3.8 TTS Playground",
+    "description": "Article URL: https://simonwillison.net/2026/Sep/23/gemini-tts-playground/\nComments URL: https://news.ycombinator.com/item?id=49824314\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-23T23:54:52.769Z",
+    "published": "Wed, 23 Sep 2026 23:52:52 +0000",
+    "processed": true,
+    "processedAt": "2026-09-23T23:57:18.597Z"
+  },
+  {
+    "url": "https://github.com/gojiplus/batchlane",
+    "title": "Show HN: Submit asynchronous LLM batch jobs through one interface",
+    "description": "Article URL: https://github.com/gojiplus/batchlane\nComments URL: https://news.ycombinator.com/item?id=49824148\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-23T23:54:52.769Z",
+    "published": "Wed, 23 Sep 2026 23:33:56 +0000",
+    "processed": true,
+    "processedAt": "2026-09-23T23:57:18.597Z"
+  },
+  {
+    "url": "https://www.sfchronicle.com/bayarea/article/stanford-ai-policy-student-photo-race-swapping-22444142.php",
+    "title": "Stanford violated AI policy after race-swapping students in ad",
+    "description": "Article URL: https://www.sfchronicle.com/bayarea/article/stanford-ai-policy-student-photo-race-swapping-22444142.php\nComments URL: https://news.ycombinator.com/item?id=49824061\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-23T23:54:52.769Z",
+    "published": "Wed, 23 Sep 2026 23:23:39 +0000",
+    "processed": true,
+    "processedAt": "2026-09-23T23:57:18.597Z"
+  },
+  {
+    "url": "https://agnostic-ai.org/",
+    "title": "One setup, every AI CLI with agnostic-AI",
+    "description": "Article URL: https://agnostic-ai.org/\nComments URL: https://news.ycombinator.com/item?id=49823920\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-23T23:54:52.769Z",
+    "published": "Wed, 23 Sep 2026 23:10:16 +0000"
+  },
+  {
+    "url": "https://jaybase.ai",
+    "title": "Show HN: Hosted JayBase – An append-only data store for safe AI agent writes",
+    "description": "Just launched the hosted version of my JayBase project, which I shared with you guys a few months ago. (https://news.ycombinator.com/item?id=48999936) I'm really trying to design it from the ground up to be the way that agents can interact with business data, in the same way they can interact with",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-23T23:54:52.769Z",
+    "published": "Wed, 23 Sep 2026 22:59:45 +0000"
+  },
+  {
+    "url": "https://promptspend.com/",
+    "title": "Show HN: PromptSpend – LLM API prices re-checked daily, with source per price",
+    "description": "Article URL: https://promptspend.com/\nComments URL: https://news.ycombinator.com/item?id=49823708\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-23T23:54:52.769Z",
+    "published": "Wed, 23 Sep 2026 22:49:57 +0000"
+  },
+  {
+    "url": "https://www.reuters.com/business/ai-leaders-brief-un-amid-warnings-technology-could-slip-beyond-human-control-2026-09-23/",
+    "title": "AI leaders warn UN of security risks as systems grow more powerful",
+    "description": "Article URL: https://www.reuters.com/business/ai-leaders-brief-un-amid-warnings-technology-could-slip-beyond-human-control-2026-09-23/\nComments URL: https://news.ycombinator.com/item?id=49823620\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-23T23:54:52.769Z",
+    "published": "Wed, 23 Sep 2026 22:41:35 +0000"
+  },
+  {
+    "url": "https://artificialanalysis.ai/models/mercury-2-5",
+    "title": "Mercury 2.5 LLM hits 770 tokens per second",
+    "description": "Article URL: https://artificialanalysis.ai/models/mercury-2-5\nComments URL: https://news.ycombinator.com/item?id=49823348\nPoints: 18\n# Comments: 8",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-23T23:54:52.769Z",
+    "published": "Wed, 23 Sep 2026 22:16:19 +0000"
+  },
+  {
+    "url": "https://github.com/gracejackson-sudo/quant-delta-predictor",
+    "title": "I stress-tested LLM quantization by deliberately breaking models",
+    "description": "Article URL: https://github.com/gracejackson-sudo/quant-delta-predictor\nComments URL: https://news.ycombinator.com/item?id=49823211\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-23T23:54:52.769Z",
+    "published": "Wed, 23 Sep 2026 22:04:50 +0000"
+  },
+  {
+    "url": "https://favtutor.com/claude-opus-5-5-real-examples/",
+    "title": "Claude Opus 5.5: Things People Created",
+    "description": "Article URL: https://favtutor.com/claude-opus-5-5-real-examples/\nComments URL: https://news.ycombinator.com/item?id=49823070\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-23T23:54:52.769Z",
+    "published": "Wed, 23 Sep 2026 21:50:24 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
+    "title": "The last IMO problem AI could not solve [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=Nbwv5wHQoj0\nComments URL: https://news.ycombinator.com/item?id=49823038\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-23T23:54:52.769Z",
+    "published": "Wed, 23 Sep 2026 21:47:19 +0000"
+  },
+  {
+    "url": "https://www.avclub.com/meta-muse-ai-human-labor",
+    "title": "Surprise, Meta's latest AI gimmick is just underpaid humans",
+    "description": "Article URL: https://www.avclub.com/meta-muse-ai-human-labor\nComments URL: https://news.ycombinator.com/item?id=49822903\nPoints: 8\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-23T23:54:52.769Z",
+    "published": "Wed, 23 Sep 2026 21:34:58 +0000"
+  },
+  {
+    "url": "https://madradavid.com/claudes-load-bearing-seams/",
+    "title": "Claude's Load-Bearing Seams",
+    "description": "Article URL: https://madradavid.com/claudes-load-bearing-seams/\nComments URL: https://news.ycombinator.com/item?id=49822864\nPoints: 97\n# Comments: 40",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-23T23:54:52.769Z",
+    "published": "Wed, 23 Sep 2026 21:31:04 +0000"
+  },
+  {
+    "url": "https://darkmarc.substack.com/p/hijacking-ai-agents-how-an-agents",
+    "title": "AI Agent Goal Hijack: How Attackers Turn an Agent's Own Tools Against It",
+    "description": "Article URL: https://darkmarc.substack.com/p/hijacking-ai-agents-how-an-agents\nComments URL: https://news.ycombinator.com/item?id=49822862\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-23T23:54:52.769Z",
+    "published": "Wed, 23 Sep 2026 21:30:50 +0000"
+  },
+  {
+    "url": "https://www.npr.org/2026/09/23/nx-s1-5973306/ai-slowdown-debate-openai-anthropic",
+    "title": "An 'AI freeze' could make big AI companies bigger and hurt smaller firms",
+    "description": "Article URL: https://www.npr.org/2026/09/23/nx-s1-5973306/ai-slowdown-debate-openai-anthropic\nComments URL: https://news.ycombinator.com/item?id=49822860\nPoints: 7\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-23T23:54:52.769Z",
+    "published": "Wed, 23 Sep 2026 21:30:47 +0000"
+  },
+  {
+    "url": "https://pureooze.com/blog/posts/2026-09-22-my-wedding-invitations-became-an-experiment-in-ai-memory/",
+    "title": "My Wedding Invitations Became an Experiment in AI Memory",
+    "description": "Article URL: https://pureooze.com/blog/posts/2026-09-22-my-wedding-invitations-became-an-experiment-in-ai-memory/\nComments URL: https://news.ycombinator.com/item?id=49822844\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-23T23:54:52.769Z",
+    "published": "Wed, 23 Sep 2026 21:28:46 +0000"
+  },
+  {
+    "url": "https://jeffreylminch.substack.com/p/ai-goes-to-war-ukraine-ai-autonomous",
+    "title": "AI Goes to War: Ukraine AI Autonomous Drone Guidance",
+    "description": "Article URL: https://jeffreylminch.substack.com/p/ai-goes-to-war-ukraine-ai-autonomous\nComments URL: https://news.ycombinator.com/item?id=49822510\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-23T23:54:52.769Z",
+    "published": "Wed, 23 Sep 2026 20:59:17 +0000"
+  },
+  {
+    "url": "https://www.calcalistech.com/ctechnews/article/13p5khsib",
+    "title": "After AI models escaped testing environments,Irregular seeks $1.5B valuation",
+    "description": "Article URL: https://www.calcalistech.com/ctechnews/article/13p5khsib\nComments URL: https://news.ycombinator.com/item?id=49822442\nPoints: 7\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-23T23:54:52.769Z",
+    "published": "Wed, 23 Sep 2026 20:54:39 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2267210/meta-muse-ai-agent-smart-glasses/",
+    "title": "Meta's Muse AI agent is coming to its AI glasses",
+    "description": "Have your virtual assistant book a flight while you're jogging.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-23T23:55:12.152Z",
+    "published": "Wed, 23 Sep 2026 23:28:12 +0000"
   }
 ]
