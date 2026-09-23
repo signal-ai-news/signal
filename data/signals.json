@@ -62466,5 +62466,78 @@
     "category": "news",
     "discovered": "2026-09-22T23:12:53.392Z",
     "published": "Tue, 22 Sep 2026 22:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+    "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+    "description": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-23T01:42:29.042Z",
+    "published": "Tue, 22 Sep 2026 23:21:49 +0000",
+    "processed": true,
+    "processedAt": "2026-09-23T01:45:01.292Z"
+  },
+  {
+    "url": "https://www.enworld.org/",
+    "title": "EN World Is Being DDoS'd by AI Bots",
+    "description": "Article URL: https://www.enworld.org/\nComments URL: https://news.ycombinator.com/item?id=49810493\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-23T01:42:37.434Z",
+    "published": "Wed, 23 Sep 2026 01:20:02 +0000",
+    "processed": true,
+    "processedAt": "2026-09-23T01:45:01.292Z"
+  },
+  {
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/22/security-firm-finds-naming-ai-agents-after-seinfeld-characters-helps-bots-join-the-team/5298424",
+    "title": "Naming AI agents after Seinfeld characters helps bots join the team – report",
+    "description": "Article URL: https://www.theregister.com/ai-and-ml/2026/09/22/security-firm-finds-naming-ai-agents-after-seinfeld-characters-helps-bots-join-the-team/5298424\nComments URL: https://news.ycombinator.com/item?id=49810295\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-23T01:42:37.434Z",
+    "published": "Wed, 23 Sep 2026 00:54:48 +0000",
+    "processed": true,
+    "processedAt": "2026-09-23T01:45:01.292Z"
+  },
+  {
+    "url": "https://www.reuters.com/legal/government/trump-says-us-will-henceforth-call-ai-super-intelligence-2026-09-22/",
+    "title": "Trump says US will henceforth call AI 'super intelligence'",
+    "description": "Article URL: https://www.reuters.com/legal/government/trump-says-us-will-henceforth-call-ai-super-intelligence-2026-09-22/\nComments URL: https://news.ycombinator.com/item?id=49810231\nPoints: 10\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-23T01:42:37.434Z",
+    "published": "Wed, 23 Sep 2026 00:46:08 +0000",
+    "processed": true,
+    "processedAt": "2026-09-23T01:45:01.292Z"
+  },
+  {
+    "url": "https://www.reuters.com/legal/litigation/chinas-zai-disables-ai-coding-assistant-features-after-security-issue-2026-09-21/",
+    "title": "Z.ai uploading local code repos to overseas cloud without consent",
+    "description": "Article URL: https://www.reuters.com/legal/litigation/chinas-zai-disables-ai-coding-assistant-features-after-security-issue-2026-09-21/\nComments URL: https://news.ycombinator.com/item?id=49810164\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-23T01:42:37.434Z",
+    "published": "Wed, 23 Sep 2026 00:38:14 +0000",
+    "processed": true,
+    "processedAt": "2026-09-23T01:45:01.292Z"
+  },
+  {
+    "url": "https://www.polso.info/im-sick-of-claudisms-future-ai-software-development",
+    "title": "I'm sick of Claudisms, & what will happen next in AI-boosted software dev",
+    "description": "Article URL: https://www.polso.info/im-sick-of-claudisms-future-ai-software-development\nComments URL: https://news.ycombinator.com/item?id=49810083\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-23T01:42:37.434Z",
+    "published": "Wed, 23 Sep 2026 00:28:37 +0000"
+  },
+  {
+    "url": "https://infertrail.com/blog/ruble-markup-ai-tokens/",
+    "title": "The ruble markup on AI tokens",
+    "description": "Article URL: https://infertrail.com/blog/ruble-markup-ai-tokens/\nComments URL: https://news.ycombinator.com/item?id=49809698\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-23T01:42:37.434Z",
+    "published": "Tue, 22 Sep 2026 23:30:11 +0000"
   }
 ]
