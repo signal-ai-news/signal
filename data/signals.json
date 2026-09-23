@@ -13008,7 +13008,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-02T07:56:12.765Z",
-    "published": "Sun, 02 Aug 2026 05:40:32 +0000"
+    "published": "Sun, 02 Aug 2026 05:40:32 +0000",
+    "processed": true,
+    "processedAt": "2026-09-23T07:40:45.847Z"
   },
   {
     "url": "https://www.youtube.com/watch?v=r7b2uwy8_CM",
@@ -13017,7 +13019,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-02T07:56:12.765Z",
-    "published": "Sun, 02 Aug 2026 05:33:53 +0000"
+    "published": "Sun, 02 Aug 2026 05:33:53 +0000",
+    "processed": true,
+    "processedAt": "2026-09-23T07:40:45.847Z"
   },
   {
     "url": "https://github.com/ANIRudH-lab-life/job-radar",
@@ -13026,7 +13030,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-02T07:56:12.765Z",
-    "published": "Sun, 02 Aug 2026 05:30:33 +0000"
+    "published": "Sun, 02 Aug 2026 05:30:33 +0000",
+    "processed": true,
+    "processedAt": "2026-09-23T07:40:45.847Z"
   },
   {
     "url": "https://www.youtube.com/watch?v=6Ide5pRLR8Y",
@@ -13035,7 +13041,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-02T07:56:12.765Z",
-    "published": "Sun, 02 Aug 2026 04:51:47 +0000"
+    "published": "Sun, 02 Aug 2026 04:51:47 +0000",
+    "processed": true,
+    "processedAt": "2026-09-23T07:40:45.847Z"
   },
   {
     "url": "https://github.com/jonhardwick-spec/ccn",
@@ -62539,5 +62547,16 @@
     "category": "community",
     "discovered": "2026-09-23T01:42:37.434Z",
     "published": "Tue, 22 Sep 2026 23:30:11 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+    "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+    "description": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-23T07:38:04.421Z",
+    "published": "Wed, 23 Sep 2026 04:59:08 +0000",
+    "processed": true,
+    "processedAt": "2026-09-23T07:40:45.849Z"
   }
 ]
