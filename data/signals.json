@@ -64177,5 +64177,267 @@
     "category": "news",
     "discovered": "2026-09-24T18:37:37.133Z",
     "published": "Thu, 24 Sep 2026 15:23:43 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+    "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+    "description": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-24T22:11:05.948Z",
+    "published": "Thu, 24 Sep 2026 19:00:42 +0000",
+    "processed": true,
+    "processedAt": "2026-09-24T22:13:43.245Z"
+  },
+  {
+    "url": "https://dennisforbes.ca/blog/microblog/2026/09/askholes_and_low_effort_ai_answers/",
+    "title": "Askholes and Low Effort AI Answers",
+    "description": "Article URL: https://dennisforbes.ca/blog/microblog/2026/09/askholes_and_low_effort_ai_answers/\nComments URL: https://news.ycombinator.com/item?id=49837063\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T22:11:16.623Z",
+    "published": "Thu, 24 Sep 2026 21:38:35 +0000",
+    "processed": true,
+    "processedAt": "2026-09-24T22:13:43.245Z"
+  },
+  {
+    "url": "https://strategyofsecurity.com/p/crowdstrike-frontier-ai-for-cybersecurity",
+    "title": "CrowdStrike: Frontier AI for Cybersecurity",
+    "description": "Article URL: https://strategyofsecurity.com/p/crowdstrike-frontier-ai-for-cybersecurity\nComments URL: https://news.ycombinator.com/item?id=49837058\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T22:11:16.623Z",
+    "published": "Thu, 24 Sep 2026 21:38:07 +0000",
+    "processed": true,
+    "processedAt": "2026-09-24T22:13:43.245Z"
+  },
+  {
+    "url": "https://blog.computationalcomplexity.org/2026/09/the-new-stoc-rules-for-ai-era.html",
+    "title": "The New STOC Rules for the AI Era",
+    "description": "Article URL: https://blog.computationalcomplexity.org/2026/09/the-new-stoc-rules-for-ai-era.html\nComments URL: https://news.ycombinator.com/item?id=49836839\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T22:11:16.623Z",
+    "published": "Thu, 24 Sep 2026 21:16:04 +0000",
+    "processed": true,
+    "processedAt": "2026-09-24T22:13:43.245Z"
+  },
+  {
+    "url": "https://www.science.org/content/blog-post/ai-help-biological-or-chemical-weapons",
+    "title": "AI Help for Biological or Chemical Weapons",
+    "description": "Article URL: https://www.science.org/content/blog-post/ai-help-biological-or-chemical-weapons\nComments URL: https://news.ycombinator.com/item?id=49836647\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T22:11:16.623Z",
+    "published": "Thu, 24 Sep 2026 20:59:16 +0000",
+    "processed": true,
+    "processedAt": "2026-09-24T22:13:43.245Z"
+  },
+  {
+    "url": "https://www.runcanary.ai/",
+    "title": "Show HN: Canary (YC) – Independent verification for AI code",
+    "description": "Hey HN, we are Aakash and Viswesh and we are building Canary (https://www.runcanary.ai/) - independent verification for AI code. Claude/Codex calls Canary with the changesets, intended behaviour and team knowledge. Canary then deploys agent swarms to investigate potential failures and test suspecte",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T22:11:16.623Z",
+    "published": "Thu, 24 Sep 2026 20:57:52 +0000"
+  },
+  {
+    "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+    "title": "How I changed teaching after AI managed to do all my homework assignments",
+    "description": "Article URL: https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed\nComments URL: https://news.ycombinator.com/item?id=49836579\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T22:11:16.623Z",
+    "published": "Thu, 24 Sep 2026 20:51:50 +0000"
+  },
+  {
+    "url": "https://zephclick.com",
+    "title": "Show HN: A $25 DIY alternative to $159 AI voice recorders – BYOK or local",
+    "description": "Article URL: https://zephclick.com\nComments URL: https://news.ycombinator.com/item?id=49836576\nPoints: 9\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T22:11:16.623Z",
+    "published": "Thu, 24 Sep 2026 20:51:25 +0000"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-09-24/anthropic-strikes-12-billion-deal-with-akamai-for-ai-computing",
+    "title": "Anthropic Strikes $12B AI Computing Deal with Akamai",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-09-24/anthropic-strikes-12-billion-deal-with-akamai-for-ai-computing\nComments URL: https://news.ycombinator.com/item?id=49836364\nPoints: 8\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T22:11:16.623Z",
+    "published": "Thu, 24 Sep 2026 20:27:48 +0000"
+  },
+  {
+    "url": "https://www.ppsspp.org/blog/vfpu-math-re/",
+    "title": "Cracking VFPU math functions using Claude (Sony PSP)",
+    "description": "Article URL: https://www.ppsspp.org/blog/vfpu-math-re/\nComments URL: https://news.ycombinator.com/item?id=49836164\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T22:11:16.623Z",
+    "published": "Thu, 24 Sep 2026 20:09:32 +0000"
+  },
+  {
+    "url": "https://www.wsj.com/tech/ai/restaurants-ai-food-image-generators-advertisements-efb787a9",
+    "title": "Restaurants Are Using AI to Advertise Their Food and It's Making People Sick",
+    "description": "Article URL: https://www.wsj.com/tech/ai/restaurants-ai-food-image-generators-advertisements-efb787a9\nComments URL: https://news.ycombinator.com/item?id=49836094\nPoints: 6\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T22:11:16.623Z",
+    "published": "Thu, 24 Sep 2026 20:03:11 +0000"
+  },
+  {
+    "url": "https://www.nature.com/articles/d41586-026-02930-6",
+    "title": "How to stay smart in the age of AI: the science of critical thinking",
+    "description": "Article URL: https://www.nature.com/articles/d41586-026-02930-6\nComments URL: https://news.ycombinator.com/item?id=49835983\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T22:11:16.623Z",
+    "published": "Thu, 24 Sep 2026 19:53:23 +0000"
+  },
+  {
+    "url": "https://twitter.com/Paul__Walsh/status/2102801667657748720",
+    "title": "Why AI companies don't need new laws",
+    "description": "Article URL: https://twitter.com/Paul__Walsh/status/2102801667657748720\nComments URL: https://news.ycombinator.com/item?id=49835968\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T22:11:16.623Z",
+    "published": "Thu, 24 Sep 2026 19:51:58 +0000"
+  },
+  {
+    "url": "https://www.businessinsider.com/alexandr-wang-meta-muse-social-media-posts-pr-strategy-2026-9",
+    "title": "Alexandr Wang Is Meta's Not-So-Secret Weapon in the AI Agent Promo War",
+    "description": "Article URL: https://www.businessinsider.com/alexandr-wang-meta-muse-social-media-posts-pr-strategy-2026-9\nComments URL: https://news.ycombinator.com/item?id=49835964\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T22:11:16.623Z",
+    "published": "Thu, 24 Sep 2026 19:51:46 +0000"
+  },
+  {
+    "url": "https://apnews.com/article/ai-artificial-intelligence-un-security-council-64519ea66b38e2600026f4481ad7f211",
+    "title": "Tech leaders to UN: For sake of humanity, please control the AI tech we created",
+    "description": "Article URL: https://apnews.com/article/ai-artificial-intelligence-un-security-council-64519ea66b38e2600026f4481ad7f211\nComments URL: https://news.ycombinator.com/item?id=49835931\nPoints: 5\n# Comments: 6",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T22:11:16.623Z",
+    "published": "Thu, 24 Sep 2026 19:48:45 +0000"
+  },
+  {
+    "url": "https://siliscale.com/papers/tiny-vedas.pdf",
+    "title": "Tiny-Vedas: RISC-V Infrastructure for AI Accelerator Design [pdf]",
+    "description": "Article URL: https://siliscale.com/papers/tiny-vedas.pdf\nComments URL: https://news.ycombinator.com/item?id=49835882\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T22:11:16.623Z",
+    "published": "Thu, 24 Sep 2026 19:44:41 +0000"
+  },
+  {
+    "url": "https://emms21.github.io/gizmosql-followup/",
+    "title": "GizmoSQL changes the unit economics for AI analyst companies",
+    "description": "Article URL: https://emms21.github.io/gizmosql-followup/\nComments URL: https://news.ycombinator.com/item?id=49835815\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T22:11:16.623Z",
+    "published": "Thu, 24 Sep 2026 19:38:07 +0000"
+  },
+  {
+    "url": "https://bayes.net/shut-up-and-swe-bench/",
+    "title": "Claude can't stop itself from writing code comments",
+    "description": "Article URL: https://bayes.net/shut-up-and-swe-bench/\nComments URL: https://news.ycombinator.com/item?id=49835690\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T22:11:16.623Z",
+    "published": "Thu, 24 Sep 2026 19:27:16 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49835496",
+    "title": "Ask HN: How do you coach new grads in AI Native dev environments?",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=49835496\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T22:11:16.623Z",
+    "published": "Thu, 24 Sep 2026 19:12:14 +0000"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what",
+    "title": "When AI writes almost all code, what happens to software engineering?",
+    "description": "Article URL: https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what\nComments URL: https://news.ycombinator.com/item?id=49835460\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T22:11:16.623Z",
+    "published": "Thu, 24 Sep 2026 19:09:23 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/top-ai-experts-badly-underestimated-how-fast-the-field-is-moving-study-finds/",
+    "title": "Top AI experts badly underestimated how fast the field is moving, study finds",
+    "description": "Leading AI experts have consistently underestimated how fast AI is advancing, according to the Forecasting Research Institute. AI reached gold-medal level at the International Mathematical Olympiad five years ahead of the median expert forecast, and Anthropic's annualized revenue is about f",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-24T22:11:23.524Z",
+    "published": "Thu, 24 Sep 2026 19:18:33 +0000"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/",
+    "title": "When chat is the wrong UI",
+    "description": "What is a developer to do when they need something more tangible than a chat box? Enter canvases.\nThe post When chat is the wrong UI appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-09-24T22:11:28.708Z",
+    "published": "Thu, 24 Sep 2026 20:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/i-finally-found-an-ai-agent-worth-the-risk/",
+    "title": "I Think I Found an AI Agent Worth the Risk",
+    "description": "Instinct saved me $550, booked my restaurant reservations, and warned me about a phishing scam. It also wasted $64 and might be a security nightmare.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-24T22:11:29.880Z",
+    "published": "Thu, 24 Sep 2026 19:36:35 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2268392/ray-ban-meta-gen-3-vs-gen-2-ai-glasses-comparison/",
+    "title": "Ray-Ban Meta Gen 3 vs. Ray-Ban Meta Gen 2: How these AI glasses compare",
+    "description": "Meta&#39;s newest smart glasses are an iterative, expensive update.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-24T22:11:36.656Z",
+    "published": "Thu, 24 Sep 2026 21:56:17 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2268356/nicolas-cage-is-anything-but-subtle-in-the-madden-trailer/",
+    "title": "Nicolas Cage is anything but subtle in the Madden trailer",
+    "description": "The biopic arrives on Prime Video in November.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-24T22:11:36.656Z",
+    "published": "Thu, 24 Sep 2026 21:10:54 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2268321/bungie-shares-more-detail-about-marathon-symbiosis-update-and-2027-plans/",
+    "title": "Bungie shares more detail about Marathon's Symbiosis update and 2027 plans",
+    "description": "Another big overhaul to the game is now due in March.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-24T22:11:36.656Z",
+    "published": "Thu, 24 Sep 2026 20:44:36 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2268183/new-york-times-cooking-is-coming-to-metas-ai-and-display-glasses/",
+    "title": "New York Times Cooking is coming to Meta's AI and display glasses",
+    "description": "The app is getting a &#34;hands-free&#34; mode that can narrate recipe steps.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-24T22:11:36.656Z",
+    "published": "Thu, 24 Sep 2026 19:24:34 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2268124/we-finally-have-a-trailer-for-that-four-hour-elon-musk-documentary/",
+    "title": "We finally have a trailer for that four-hour Elon Musk documentary",
+    "description": "It was directed by Alex Gibney, who has made films about Enron, Scientology and Elizabeth Holmes.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-24T22:11:36.657Z",
+    "published": "Thu, 24 Sep 2026 18:52:14 +0000"
   }
 ]
