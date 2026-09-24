@@ -63464,5 +63464,294 @@
     "published": "Thu, 24 Sep 2026 00:00:44 +0000",
     "processed": true,
     "processedAt": "2026-09-24T04:23:39.943Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+    "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-09-24T14:21:21.137Z",
+    "published": "Thu, 24 Sep 2026 14:08:57 GMT",
+    "processed": true,
+    "processedAt": "2026-09-24T14:23:56.400Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+    "title": "Australia to investigate if OpenAI hack of government health website broke the law",
+    "description": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-24T14:21:22.217Z",
+    "published": "Thu, 24 Sep 2026 12:54:19 +0000",
+    "processed": true,
+    "processedAt": "2026-09-24T14:23:56.400Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+    "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A congressional representative just proposed killing America’s border tower program Delia Ramirez, a Democratic US representative from Illinois, has a",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-24T14:21:23.281Z",
+    "published": "Thu, 24 Sep 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-24T14:23:56.400Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+    "title": "AI is dominating the conversation at Climate Week",
+    "description": "This week, world leaders descended on Manhattan for the UN General Assembly. It’s also New York Climate Week—investors, policymakers, advocates, and journalists are colliding at panels, talks, and fancy dinners. With so many climate voices in one place, the discourse can feel a little louder than us",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-24T14:21:23.281Z",
+    "published": "Thu, 24 Sep 2026 10:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-24T14:23:56.400Z"
+  },
+  {
+    "url": "https://www.theregister.com/public-sector/2026/09/22/govuk-founder-warns-ai-gold-rush-could-leave-britain-locked-in/5297828",
+    "title": "Gov.uk founder warns AI gold rush could leave Britain locked in",
+    "description": "Article URL: https://www.theregister.com/public-sector/2026/09/22/govuk-founder-warns-ai-gold-rush-could-leave-britain-locked-in/5297828\nComments URL: https://news.ycombinator.com/item?id=49830974\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T14:21:28.234Z",
+    "published": "Thu, 24 Sep 2026 14:16:28 +0000",
+    "processed": true,
+    "processedAt": "2026-09-24T14:23:56.400Z"
+  },
+  {
+    "url": "https://bestmodelforyourbudget.terrydjony.com/",
+    "title": "Best LLM for every budget, updated daily",
+    "description": "Article URL: https://bestmodelforyourbudget.terrydjony.com/\nComments URL: https://news.ycombinator.com/item?id=49830866\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T14:21:28.234Z",
+    "published": "Thu, 24 Sep 2026 14:09:57 +0000"
+  },
+  {
+    "url": "https://zrevick.com/",
+    "title": "HN: Zrevick – AI-native business OS for technical founders",
+    "description": "Article URL: https://zrevick.com/\nComments URL: https://news.ycombinator.com/item?id=49830854\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T14:21:28.234Z",
+    "published": "Thu, 24 Sep 2026 14:09:34 +0000"
+  },
+  {
+    "url": "https://blastradius.dpdns.org/",
+    "title": "What AI companies pays the people who train it",
+    "description": "Article URL: https://blastradius.dpdns.org/\nComments URL: https://news.ycombinator.com/item?id=49830829\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T14:21:28.234Z",
+    "published": "Thu, 24 Sep 2026 14:07:07 +0000"
+  },
+  {
+    "url": "https://financialpost.com/technology/meta-debuts-muse-charm-device",
+    "title": "Meta debuts 'Charm' device to use new AI assistant Muse on the go",
+    "description": "Article URL: https://financialpost.com/technology/meta-debuts-muse-charm-device\nComments URL: https://news.ycombinator.com/item?id=49830747\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T14:21:28.234Z",
+    "published": "Thu, 24 Sep 2026 14:01:53 +0000"
+  },
+  {
+    "url": "https://beigebook.xyz/posts/preparedness-theater/",
+    "title": "AI labs' job-loss plans won't say what the public gets",
+    "description": "Article URL: https://beigebook.xyz/posts/preparedness-theater/\nComments URL: https://news.ycombinator.com/item?id=49830688\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T14:21:28.234Z",
+    "published": "Thu, 24 Sep 2026 13:58:02 +0000"
+  },
+  {
+    "url": "https://fortune.com/2026/09/24/ai-could-make-more-companies-worth-hacking-anthropic-report-suggests/",
+    "title": "AI could make more companies worth hacking, Anthropic report suggests",
+    "description": "Article URL: https://fortune.com/2026/09/24/ai-could-make-more-companies-worth-hacking-anthropic-report-suggests/\nComments URL: https://news.ycombinator.com/item?id=49830646\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T14:21:28.234Z",
+    "published": "Thu, 24 Sep 2026 13:55:38 +0000"
+  },
+  {
+    "url": "https://opencomplai.com/blog/no-llm-in-compliance-decisions",
+    "title": "Our EU AI Act compliance engine has zero LLM calls, and CI blocks adding any",
+    "description": "Article URL: https://opencomplai.com/blog/no-llm-in-compliance-decisions\nComments URL: https://news.ycombinator.com/item?id=49830570\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T14:21:28.234Z",
+    "published": "Thu, 24 Sep 2026 13:50:46 +0000"
+  },
+  {
+    "url": "https://github.com/joseluispino/hardstop",
+    "title": "Hard Stop: Out-of-band kernel preemption for rogue AI agents",
+    "description": "Article URL: https://github.com/joseluispino/hardstop\nComments URL: https://news.ycombinator.com/item?id=49830567\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T14:21:28.234Z",
+    "published": "Thu, 24 Sep 2026 13:50:29 +0000"
+  },
+  {
+    "url": "https://www.0xsid.com/blog/intellectual-fitness",
+    "title": "I judged my mum for using AI, until I caught myself doing worse",
+    "description": "Article URL: https://www.0xsid.com/blog/intellectual-fitness\nComments URL: https://news.ycombinator.com/item?id=49830523\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T14:21:28.234Z",
+    "published": "Thu, 24 Sep 2026 13:47:26 +0000"
+  },
+  {
+    "url": "https://www.qemu.org/2026/09/23/bugs/",
+    "title": "Bugpocalypse, or reporting bugs in an AI age",
+    "description": "Article URL: https://www.qemu.org/2026/09/23/bugs/\nComments URL: https://news.ycombinator.com/item?id=49830497\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T14:21:28.234Z",
+    "published": "Thu, 24 Sep 2026 13:45:28 +0000"
+  },
+  {
+    "url": "https://www.wiz.io/blog/scan-for-good-critical-ai-exposures",
+    "title": "Scan for Good: Wiz and DeepMind use AI to help protect critical infrastructure",
+    "description": "Article URL: https://www.wiz.io/blog/scan-for-good-critical-ai-exposures\nComments URL: https://news.ycombinator.com/item?id=49830494\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T14:21:28.234Z",
+    "published": "Thu, 24 Sep 2026 13:45:17 +0000"
+  },
+  {
+    "url": "https://github.com/dommar04/ai-coding-gateway",
+    "title": "Show HN: I built a Tooling gateway for Claude Code that manages Approvals for me",
+    "description": "Sooner or later I auto-approve every tool call in my Claude Code session.Still a strange feeling to basically give the AI Agent the full power of doing whatever on my PC.So I started to build an AI Coding Tool Gateway that intercepts any tool call from my Claude Code Sessions and matches it with a",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T14:21:28.234Z",
+    "published": "Thu, 24 Sep 2026 13:43:21 +0000"
+  },
+  {
+    "url": "https://www.wsj.com/tech/ai/the-group-chat-where-world-leaders-are-racing-to-create-ai-controls-821396d3",
+    "title": "The Group Chat Where World Leaders Are Racing to Create AI Controls",
+    "description": "Article URL: https://www.wsj.com/tech/ai/the-group-chat-where-world-leaders-are-racing-to-create-ai-controls-821396d3\nComments URL: https://news.ycombinator.com/item?id=49830435\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T14:21:28.234Z",
+    "published": "Thu, 24 Sep 2026 13:40:06 +0000"
+  },
+  {
+    "url": "https://sitemcp.dev",
+    "title": "Show HN: Site MCP – Let any AI agent read your website, free, no install",
+    "description": "Article URL: https://sitemcp.dev\nComments URL: https://news.ycombinator.com/item?id=49830373\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T14:21:28.234Z",
+    "published": "Thu, 24 Sep 2026 13:34:32 +0000"
+  },
+  {
+    "url": "https://cybernation.world/",
+    "title": "Cybernation – AI album by AI's about the coming of AI – concept album",
+    "description": "Article URL: https://cybernation.world/\nComments URL: https://news.ycombinator.com/item?id=49830329\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T14:21:28.234Z",
+    "published": "Thu, 24 Sep 2026 13:31:07 +0000"
+  },
+  {
+    "url": "https://delegus.ai/blog/identity-is-not-authority",
+    "title": "Identity is not authority: the missing check before AI agents act",
+    "description": "Article URL: https://delegus.ai/blog/identity-is-not-authority\nComments URL: https://news.ycombinator.com/item?id=49830311\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T14:21:28.234Z",
+    "published": "Thu, 24 Sep 2026 13:29:19 +0000"
+  },
+  {
+    "url": "https://medium.com/meetcyber/how-i-built-an-iphone-game-with-ai-without-writing-a-single-line-of-code-actionable-security-2c7408f51609",
+    "title": "I Built an iPhone Game with AI Without Writing a Single Line of Code",
+    "description": "Article URL: https://medium.com/meetcyber/how-i-built-an-iphone-game-with-ai-without-writing-a-single-line-of-code-actionable-security-2c7408f51609\nComments URL: https://news.ycombinator.com/item?id=49830304\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-24T14:21:28.234Z",
+    "published": "Thu, 24 Sep 2026 13:28:48 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/beyond-rags-building-actually-truthful-ai-harnesses/",
+    "title": "Beyond RAGs: Building Actually Truthful AI Harnesses",
+    "description": "Retrieval is not evidence. How to build AI that proves its own claims.\nThe post Beyond RAGs: Building Actually Truthful AI Harnesses appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-24T14:21:36.000Z",
+    "published": "Thu, 24 Sep 2026 14:00:01 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/when-the-correct-answer-is-nothing-what-does-your-pipeline-return/",
+    "title": "When the Correct Answer Is Nothing, What Does Your Pipeline Return?",
+    "description": "The reliability mechanisms we add to LLM pipelines are often the ones that make them confidently wrong.\nThe post When the Correct Answer Is Nothing, What Does Your Pipeline Return? appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-24T14:21:36.000Z",
+    "published": "Thu, 24 Sep 2026 11:00:01 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face/",
+    "title": "OpenAI's agents went after government and university sites months before Hugging Face",
+    "description": "According to Transluce researchers and the Australian government, OpenAI's AI agents repeatedly broke into government and university websites without authorization, including Australia's Medicare portal on June 18. The cause was a mundane data search. Prime Minister Albanese called OpenAI's",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-24T14:21:37.548Z",
+    "published": "Thu, 24 Sep 2026 14:01:05 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/deepmind-was-built-to-chase-agi-but-its-new-chief-just-wants-gemini-4-out-the-door/",
+    "title": "Deepmind was built to chase AGI, but its new chief just wants Gemini 4 out the door",
+    "description": "Google Deepmind chief Koray Kavukcuoglu wants to release Gemini 4 \"much earlier\" than the end of the year. The model is already in post-training and runs internally in the coding tool Antigravity. He calls the AGI question that drove his predecessor Hassabis \"not the right conversation\" and",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-24T14:21:37.548Z",
+    "published": "Thu, 24 Sep 2026 13:35:44 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/meta-gives-its-muse-ai-agent-video-avatars-email-addresses-and-mac-control/",
+    "title": "Meta gives its Muse AI agent video avatars, email addresses, and Mac control",
+    "description": "At Meta Connect 2026, Meta expanded its AI agent, Muse, and unveiled several new devices.\nThe article Meta gives its Muse AI agent video avatars, email addresses, and Mac control appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-24T14:21:37.548Z",
+    "published": "Thu, 24 Sep 2026 13:10:54 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
+    "title": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
+    "description": "The country’s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-24T14:21:44.148Z",
+    "published": "Thu, 24 Sep 2026 10:46:56 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2265227/how-to-get-cut-apple-siri-ai-settlement/",
+    "title": "How to get your cut of Apple's $250 million Siri settlement",
+    "description": "If you&#39;ve bought an iPhone in the last couple of years, you might be eligible for a cut of the class action lawsuit. Here&#39;s how to file your claim.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-24T14:21:51.249Z",
+    "published": "Thu, 24 Sep 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2267407/qualcomm-snapdragon-sound-elite-ai-for-audio-wearables/",
+    "title": "Qualcomm's Snapdragon Sound Elite is a new AI chip for audio wearables",
+    "description": "Qualcomm has launched a new chip that will enable AI features on small audio devices.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-24T14:21:51.249Z",
+    "published": "Thu, 24 Sep 2026 11:23:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2267381/openai-hacked-into-australias-government/",
+    "title": "OpenAI's agent hacked into an Australian government website",
+    "description": "Researchers and the Prime Minister of Australia have revealed more instances of OpenAI's agents going rogue.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-24T14:21:51.249Z",
+    "published": "Thu, 24 Sep 2026 10:01:55 +0000"
   }
 ]
