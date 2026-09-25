@@ -13151,7 +13151,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-08-02T07:56:27.209Z",
-    "published": "Sun, 02 Aug 2026 07:53:07 +0000"
+    "published": "Sun, 02 Aug 2026 07:53:07 +0000",
+    "processed": true,
+    "processedAt": "2026-09-25T23:30:13.789Z"
   },
   {
     "url": "https://the-decoder.com/ai-finds-plenty-of-security-flaws-but-almost-none-of-them-get-exploited/",
@@ -65281,5 +65283,49 @@
     "category": "news",
     "discovered": "2026-09-25T20:21:38.696Z",
     "published": "Fri, 25 Sep 2026 17:24:09 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+    "description": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-25T23:27:39.334Z",
+    "published": "Fri, 25 Sep 2026 23:11:10 +0000",
+    "processed": true,
+    "processedAt": "2026-09-25T23:30:13.790Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+    "description": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-25T23:27:39.334Z",
+    "published": "Fri, 25 Sep 2026 22:20:47 +0000",
+    "processed": true,
+    "processedAt": "2026-09-25T23:30:13.790Z"
+  },
+  {
+    "url": "https://www.wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
+    "title": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
+    "description": "They wanted the silicon. They got the sand.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-25T23:28:00.025Z",
+    "published": "Fri, 25 Sep 2026 20:30:40 +0000",
+    "processed": true,
+    "processedAt": "2026-09-25T23:30:13.790Z"
+  },
+  {
+    "url": "https://www.engadget.com/2269454/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data/",
+    "title": "How to stop Meta training its AI models on your smart glasses' visual data",
+    "description": "The setting affects whether workers can review photos and videos from your glasses.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-25T23:28:07.530Z",
+    "published": "Fri, 25 Sep 2026 20:35:15 +0000",
+    "processed": true,
+    "processedAt": "2026-09-25T23:30:13.790Z"
   }
 ]
