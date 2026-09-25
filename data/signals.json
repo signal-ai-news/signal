@@ -64621,5 +64621,249 @@
     "published": "Fri, 25 Sep 2026 05:00:00 +0000",
     "processed": true,
     "processedAt": "2026-09-25T06:04:11.213Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+    "description": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will focus on scoring algorithms that use artificial intelligence and machine learni",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-25T11:41:47.755Z",
+    "published": "Fri, 25 Sep 2026 09:16:25 +0000",
+    "processed": true,
+    "processedAt": "2026-09-25T11:44:21.381Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+    "title": "Young organs may not be a fountain of youth for recipients",
+    "description": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of living forever. “With the developments of",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-25T11:41:47.755Z",
+    "published": "Fri, 25 Sep 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-25T11:44:21.381Z"
+  },
+  {
+    "url": "https://kenforthewin.github.io/blog/posts/llm-nethack-ascension/",
+    "title": "GPT 6 Astra beat NetHack",
+    "description": "Article URL: https://kenforthewin.github.io/blog/posts/llm-nethack-ascension/\nComments URL: https://news.ycombinator.com/item?id=49843192\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T11:41:54.267Z",
+    "published": "Fri, 25 Sep 2026 11:40:19 +0000",
+    "processed": true,
+    "processedAt": "2026-09-25T11:44:21.381Z"
+  },
+  {
+    "url": "https://chromewebstore.google.com/detail/skipper-ai-â-youtube-spon/ncchpipphiigdfbpbjofbhbahcgckaob",
+    "title": "Show HN: Skipper, a YouTube sponsor skipper using Ask Gemini and SponsorBlock",
+    "description": "Article URL: https://chromewebstore.google.com/detail/skipper-ai-â-youtube-spon/ncchpipphiigdfbpbjofbhbahcgckaob\nComments URL: https://news.ycombinator.com/item?id=49842997\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T11:41:54.267Z",
+    "published": "Fri, 25 Sep 2026 11:21:43 +0000",
+    "processed": true,
+    "processedAt": "2026-09-25T11:44:21.381Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "title": "The Pentagon wants $30M to build an AI-powered lie detector",
+    "description": "Article URL: https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/\nComments URL: https://news.ycombinator.com/item?id=49842808\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T11:41:54.267Z",
+    "published": "Fri, 25 Sep 2026 11:01:16 +0000",
+    "processed": true,
+    "processedAt": "2026-09-25T11:44:21.381Z"
+  },
+  {
+    "url": "https://www.sylvainkalache.com/blog/can-claude-fix-itself",
+    "title": "Can Claude fix itself? From no to maybe",
+    "description": "Article URL: https://www.sylvainkalache.com/blog/can-claude-fix-itself\nComments URL: https://news.ycombinator.com/item?id=49842744\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T11:41:54.267Z",
+    "published": "Fri, 25 Sep 2026 10:52:54 +0000"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/ck7v4y45893go",
+    "title": "Uproar in France over award-winning author accused of using AI",
+    "description": "Article URL: https://www.bbc.com/news/articles/ck7v4y45893go\nComments URL: https://news.ycombinator.com/item?id=49842707\nPoints: 27\n# Comments: 50",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T11:41:54.267Z",
+    "published": "Fri, 25 Sep 2026 10:48:32 +0000"
+  },
+  {
+    "url": "https://www.ssp.sh/brain/what-i-learned-writing-with-ai/",
+    "title": "Four things I learned throughout the last years working with AI",
+    "description": "Article URL: https://www.ssp.sh/brain/what-i-learned-writing-with-ai/\nComments URL: https://news.ycombinator.com/item?id=49842633\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T11:41:54.267Z",
+    "published": "Fri, 25 Sep 2026 10:38:25 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49842482",
+    "title": "Tell HN: PSA: AI can make old games run on 64-bit macOS",
+    "description": "I had Aviary Attorney lying around (great game, whether or not you like Phoenix Wright) but it wouldn't run on newer macOS versions.I tried asking Astra on a whim, looked away, and within a few minutes it was on screen!Turns out \"The game used 32-bit Node-WebKit, an old combination of Node.js and C",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T11:41:54.267Z",
+    "published": "Fri, 25 Sep 2026 10:19:20 +0000"
+  },
+  {
+    "url": "https://agririgo.com",
+    "title": "Show HN: Rigo Studio | AI Farm Intelligence",
+    "description": "Article URL: https://agririgo.com\nComments URL: https://news.ycombinator.com/item?id=49842358\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T11:41:54.267Z",
+    "published": "Fri, 25 Sep 2026 10:02:08 +0000"
+  },
+  {
+    "url": "https://digitaleconomy.stanford.edu/publication/how-does-ai-change-labor-demand/",
+    "title": "How Does AI Change Labor Demand? Evidence from 41 Countries",
+    "description": "Article URL: https://digitaleconomy.stanford.edu/publication/how-does-ai-change-labor-demand/\nComments URL: https://news.ycombinator.com/item?id=49842337\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T11:41:54.267Z",
+    "published": "Fri, 25 Sep 2026 10:00:19 +0000"
+  },
+  {
+    "url": "https://atlasburn.com/",
+    "title": "Show HN: AtlasBurn – Know what your AI costs and stop runaway agents",
+    "description": "Article URL: https://atlasburn.com/\nComments URL: https://news.ycombinator.com/item?id=49842163\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T11:41:54.267Z",
+    "published": "Fri, 25 Sep 2026 09:37:55 +0000"
+  },
+  {
+    "url": "https://github.com/cloudcell/labloop",
+    "title": "Show HN: LabLoop – isolated infrastructure for LLM-driven scientific experiments",
+    "description": "Article URL: https://github.com/cloudcell/labloop\nComments URL: https://news.ycombinator.com/item?id=49842097\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T11:41:54.267Z",
+    "published": "Fri, 25 Sep 2026 09:26:43 +0000"
+  },
+  {
+    "url": "https://www.leibniz-lsb.de/en/press-public-relations/pm-20260922-press-release-ai-as-a-tool-in-taste-research",
+    "title": "AI as a Tool in Taste Research: decoding the taste of bitterness",
+    "description": "Article URL: https://www.leibniz-lsb.de/en/press-public-relations/pm-20260922-press-release-ai-as-a-tool-in-taste-research\nComments URL: https://news.ycombinator.com/item?id=49842079\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T11:41:54.267Z",
+    "published": "Fri, 25 Sep 2026 09:25:11 +0000"
+  },
+  {
+    "url": "https://proximaforma.com/",
+    "title": "Show HN: Proxima Forma – Designs that my AI agents understand",
+    "description": "Hey HN!I built Proxima Forma because sharing screenshots with my agents was not really doing the job. I am a UX Designer with a developer background so I needed a better tool.Wanted the agents to have full design history, design decisions, product notes, etc. in a format they could actually underst",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T11:41:54.267Z",
+    "published": "Fri, 25 Sep 2026 09:22:55 +0000"
+  },
+  {
+    "url": "https://github.com/apowerb/apowerb",
+    "title": "Show HN: Apowerb, the open-source AI agent runtime (RAG, Text-to-SQL, webhooks)",
+    "description": "Article URL: https://github.com/apowerb/apowerb\nComments URL: https://news.ycombinator.com/item?id=49841997\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T11:41:54.267Z",
+    "published": "Fri, 25 Sep 2026 09:12:30 +0000"
+  },
+  {
+    "url": "https://x.com/donaldjewkes/2102801274173587569",
+    "title": "Claude's remake of \"I'm upping my p(doom)\" in 12 hours",
+    "description": "Article URL: https://x.com/donaldjewkes/2102801274173587569\nComments URL: https://news.ycombinator.com/item?id=49841720\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T11:41:54.267Z",
+    "published": "Fri, 25 Sep 2026 08:31:43 +0000"
+  },
+  {
+    "url": "https://twitter.com/jeffreykWNDR/status/2102774995315245469",
+    "title": "AI for Creativity",
+    "description": "Article URL: https://twitter.com/jeffreykWNDR/status/2102774995315245469\nComments URL: https://news.ycombinator.com/item?id=49841655\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T11:41:54.267Z",
+    "published": "Fri, 25 Sep 2026 08:18:58 +0000"
+  },
+  {
+    "url": "https://finance.yahoo.com/technology/ai/articles/openai-anthropic-costs-push-more-160523322.html",
+    "title": "Legal AI Harvey's margins went from +50% to -50% in 6 months on frontier costs",
+    "description": "Article URL: https://finance.yahoo.com/technology/ai/articles/openai-anthropic-costs-push-more-160523322.html\nComments URL: https://news.ycombinator.com/item?id=49841581\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T11:41:54.267Z",
+    "published": "Fri, 25 Sep 2026 08:08:30 +0000"
+  },
+  {
+    "url": "https://voicefrom.ai/restate/",
+    "title": "Real-Time AI Simplification (A2, B1, B2) of BBC World News Live",
+    "description": "Article URL: https://voicefrom.ai/restate/\nComments URL: https://news.ycombinator.com/item?id=49841565\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T11:41:54.267Z",
+    "published": "Fri, 25 Sep 2026 08:06:55 +0000"
+  },
+  {
+    "url": "https://github.com/max-russo-com/MAX_AUTHORIZATION_SANDBOX",
+    "title": "Show HN: Can an AI agent bypass a post-quantum signed authorization policy?",
+    "description": "Article URL: https://github.com/max-russo-com/MAX_AUTHORIZATION_SANDBOX\nComments URL: https://news.ycombinator.com/item?id=49841469\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T11:41:54.267Z",
+    "published": "Fri, 25 Sep 2026 07:55:01 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/jev-vs-llms-when-ai-moves-from-generation-to-decision-making/",
+    "title": "Jev vs. LLMs: When AI moves from Generation to Decision-making",
+    "description": "I tested TypeSafe AI’s Jev on 3,080 classification tasks to see how its accuracy, latency, calibration, and confidence compare with LLMs — and whether it works as a practical decision layer for AI systems.\nThe post Jev vs. LLMs: When AI moves from Generation to Decision-making appeared first on Towa",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-25T11:41:59.919Z",
+    "published": "Fri, 25 Sep 2026 11:00:01 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-signs-11-6-billion-cloud-deal-with-akamai-pushing-its-compute-spending-past-500-billion-in-under-a-year/",
+    "title": "Anthropic signs $11.6 billion cloud deal with Akamai, pushing its compute spending past $500 billion in under a year",
+    "description": "Anthropic has reportedly signed a seven-year, $11.6 billion cloud deal with Akamai Technologies and will receive a warrant for up to 5 percent of Akamai's shares. Its compute deals have reportedly totaled $517 billion in 11 months. CEO Dario Amodei has warned that Anthropic could go bankrup",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-25T11:42:01.780Z",
+    "published": "Fri, 25 Sep 2026 10:43:15 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/ruby-on-rails-creator-dhh-says-hes-done-writing-code-by-hand/",
+    "title": "Ruby on Rails creator DHH says he's done writing code by hand",
+    "description": "David Heinemeier Hansson, creator of Ruby on Rails, has quit writing code by hand after 25 years. He says he hasn't typed a single line since March 2026. \"English is a better programming language than Ruby,\" DHH told the audience at Rails World 2026. Just a year ago, he was pushing back aga",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-25T11:42:01.780Z",
+    "published": "Fri, 25 Sep 2026 09:50:41 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/white-house-tells-openai-and-anthropic-to-let-u-s-review-new-models-before-sharing-them-with-british-testers/",
+    "title": "White House tells OpenAI and Anthropic to let U.S. review new models before sharing them with British testers",
+    "description": "The White House wants OpenAI and Anthropic to hold back new AI models from the U.K.'s AI Safety Institute until U.S. agencies get to review them first.\nThe article White House tells OpenAI and Anthropic to let U.S. review new models before sharing them with British testers appeared first on",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-25T11:42:01.780Z",
+    "published": "Fri, 25 Sep 2026 08:12:14 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2268587/google-video-avatars-gemini-3-8-live-agent/",
+    "title": "Google adds creepy avatars to Gemini 3.8 live's agents",
+    "description": "Google has introduced Gemini 3.8 live avatars designed for customer service and other tasks.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-25T11:42:15.247Z",
+    "published": "Fri, 25 Sep 2026 10:53:55 +0000"
   }
 ]
