@@ -13107,7 +13107,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-02T07:56:12.765Z",
-    "published": "Sun, 02 Aug 2026 02:59:21 +0000"
+    "published": "Sun, 02 Aug 2026 02:59:21 +0000",
+    "processed": true,
+    "processedAt": "2026-09-25T06:04:11.211Z"
   },
   {
     "url": "https://www.twitch.tv/newsmyimaginationai",
@@ -13116,7 +13118,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-02T07:56:12.765Z",
-    "published": "Sun, 02 Aug 2026 02:42:49 +0000"
+    "published": "Sun, 02 Aug 2026 02:42:49 +0000",
+    "processed": true,
+    "processedAt": "2026-09-25T06:04:11.211Z"
   },
   {
     "url": "https://the-decoder.com/after-hugging-face-incident-metr-urges-independent-root-cause-investigations-into-ai-agent-misbehavior/",
@@ -13125,7 +13129,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-08-02T07:56:20.447Z",
-    "published": "Sun, 02 Aug 2026 07:33:17 +0000"
+    "published": "Sun, 02 Aug 2026 07:33:17 +0000",
+    "processed": true,
+    "processedAt": "2026-09-25T06:04:11.211Z"
   },
   {
     "url": "https://the-decoder.com/snap-and-linkedin-are-fighting-back-against-a-flood-of-low-quality-ai-content/",
@@ -13134,7 +13140,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-08-02T07:56:20.447Z",
-    "published": "Sun, 02 Aug 2026 06:49:28 +0000"
+    "published": "Sun, 02 Aug 2026 06:49:28 +0000",
+    "processed": true,
+    "processedAt": "2026-09-25T06:04:11.211Z"
   },
   {
     "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
@@ -64602,5 +64610,16 @@
     "category": "community",
     "discovered": "2026-09-25T00:43:44.317Z",
     "published": "Thu, 24 Sep 2026 21:02:34 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+    "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+    "description": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-25T06:01:35.621Z",
+    "published": "Fri, 25 Sep 2026 05:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-25T06:04:11.213Z"
   }
 ]
