@@ -64865,5 +64865,303 @@
     "category": "news",
     "discovered": "2026-09-25T11:42:15.247Z",
     "published": "Fri, 25 Sep 2026 10:53:55 +0000"
+  },
+  {
+    "url": "https://openai.com/index/proaction",
+    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+    "description": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-25T16:59:43.586Z",
+    "published": "Fri, 25 Sep 2026 19:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-25T17:02:26.536Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+    "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+    "description": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and beyond.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-25T16:59:46.939Z",
+    "published": "Fri, 25 Sep 2026 16:16:52 +0000",
+    "processed": true,
+    "processedAt": "2026-09-25T17:02:26.536Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+    "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+    "description": "The latest unauthorized agent swarms were discovered by researchers.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-25T16:59:46.939Z",
+    "published": "Fri, 25 Sep 2026 15:48:14 +0000",
+    "processed": true,
+    "processedAt": "2026-09-25T17:02:26.536Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+    "title": "Anthropic’s founders seek voting control ahead of IPO",
+    "description": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-25T16:59:46.939Z",
+    "published": "Fri, 25 Sep 2026 15:40:03 +0000",
+    "processed": true,
+    "processedAt": "2026-09-25T17:02:26.536Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+    "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+    "description": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-25T16:59:46.939Z",
+    "published": "Fri, 25 Sep 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-25T17:02:26.536Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+    "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $30.3 million over the next five years on an impro",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-25T16:59:48.574Z",
+    "published": "Fri, 25 Sep 2026 12:10:00 +0000"
+  },
+  {
+    "url": "https://openteams.com/awesome-jupyter-ai-extensions/",
+    "title": "Jupyter AI: A Map of 100 Jupyter Extensions for AI",
+    "description": "Article URL: https://openteams.com/awesome-jupyter-ai-extensions/\nComments URL: https://news.ycombinator.com/item?id=49847069\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T16:59:56.705Z",
+    "published": "Fri, 25 Sep 2026 16:58:58 +0000"
+  },
+  {
+    "url": "https://www.doom-or-bloom.com",
+    "title": "Show HN: Doom or Bloom, map your AI worldview with Jev",
+    "description": "Map your AI worldview by answering a few questions, and see how you compare with others.only takes a few minutes && free & open source && private by default && powered by JevI think this is a really important question for everyone to be asking themselves, and my hope is that this lil project helps",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T16:59:56.705Z",
+    "published": "Fri, 25 Sep 2026 16:51:28 +0000"
+  },
+  {
+    "url": "https://github.com/Kerneta/daidocs/tree/main/browser-extension",
+    "title": "Show HN: Built an open-source AI browser assistant remembers when you scroll",
+    "description": "Article URL: https://github.com/Kerneta/daidocs/tree/main/browser-extension\nComments URL: https://news.ycombinator.com/item?id=49846741\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T16:59:56.705Z",
+    "published": "Fri, 25 Sep 2026 16:35:19 +0000"
+  },
+  {
+    "url": "https://jeffs.blog/p/defining-ai-psychosis-part-3-parasocial",
+    "title": "Defining AI Psychosis. Part 3: \"Parasocial AI Psychosis\"",
+    "description": "Article URL: https://jeffs.blog/p/defining-ai-psychosis-part-3-parasocial\nComments URL: https://news.ycombinator.com/item?id=49846427\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T16:59:56.705Z",
+    "published": "Fri, 25 Sep 2026 16:05:45 +0000"
+  },
+  {
+    "url": "https://github.com/Avinash-jetwani/jevmem",
+    "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
+    "description": "Article URL: https://github.com/Avinash-jetwani/jevmem\nComments URL: https://news.ycombinator.com/item?id=49846391\nPoints: 31\n# Comments: 21",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T16:59:56.705Z",
+    "published": "Fri, 25 Sep 2026 16:04:04 +0000"
+  },
+  {
+    "url": "https://www.reddit.com/r/ClaudeCode/s/Gsi3XsHEJg",
+    "title": "Claude Code Integration with iTerm2 Is Legitimately Awesome",
+    "description": "Article URL: https://www.reddit.com/r/ClaudeCode/s/Gsi3XsHEJg\nComments URL: https://news.ycombinator.com/item?id=49846266\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T16:59:56.705Z",
+    "published": "Fri, 25 Sep 2026 15:54:30 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
+    "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+    "description": "Article URL: https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/\nComments URL: https://news.ycombinator.com/item?id=49846177\nPoints: 8\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T16:59:56.705Z",
+    "published": "Fri, 25 Sep 2026 15:45:57 +0000"
+  },
+  {
+    "url": "https://github.com/TheBlitzschnell/cargo-atlas",
+    "title": "Cargo-atlas – A compiler-accurate Rust code map for AI coding agents",
+    "description": "Article URL: https://github.com/TheBlitzschnell/cargo-atlas\nComments URL: https://news.ycombinator.com/item?id=49846100\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T16:59:56.705Z",
+    "published": "Fri, 25 Sep 2026 15:39:22 +0000"
+  },
+  {
+    "url": "https://blog.codacy.com/how-ai-is-changing-the-engineering-manager-role-more-context-more-capacity-and-the-new-job-of-protecting-focus",
+    "title": "How AI changed the Eng Manager role",
+    "description": "Article URL: https://blog.codacy.com/how-ai-is-changing-the-engineering-manager-role-more-context-more-capacity-and-the-new-job-of-protecting-focus\nComments URL: https://news.ycombinator.com/item?id=49846086\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T16:59:56.705Z",
+    "published": "Fri, 25 Sep 2026 15:38:37 +0000"
+  },
+  {
+    "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+    "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+    "description": "Article URL: https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models\nComments URL: https://news.ycombinator.com/item?id=49845952\nPoints: 91\n# Comments: 38",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T16:59:56.705Z",
+    "published": "Fri, 25 Sep 2026 15:27:35 +0000"
+  },
+  {
+    "url": "https://eval.raycaster.ai/benchmarks/biopharma-bench/",
+    "title": "DeepSeek beats GPT-6 Sol in autonomous drug development",
+    "description": "Article URL: https://eval.raycaster.ai/benchmarks/biopharma-bench/\nComments URL: https://news.ycombinator.com/item?id=49845891\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T16:59:56.705Z",
+    "published": "Fri, 25 Sep 2026 15:23:03 +0000"
+  },
+  {
+    "url": "https://www.techtimes.co.uk/agi-house-police-complaints-sexual-pressure-1808775",
+    "title": "Woman Climbed Gate to Escape Notorious AI Hacker House After Repeated",
+    "description": "Article URL: https://www.techtimes.co.uk/agi-house-police-complaints-sexual-pressure-1808775\nComments URL: https://news.ycombinator.com/item?id=49845728\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T16:59:56.705Z",
+    "published": "Fri, 25 Sep 2026 15:08:41 +0000"
+  },
+  {
+    "url": "https://www.theregister.com/personal-tech/2026/09/24/ai-boom-could-wipe-230-million-budget-phones-a-year-from-the-market/5298906",
+    "title": "AI boom could wipe 230M budget phones a year from the market",
+    "description": "Article URL: https://www.theregister.com/personal-tech/2026/09/24/ai-boom-could-wipe-230-million-budget-phones-a-year-from-the-market/5298906\nComments URL: https://news.ycombinator.com/item?id=49845658\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T16:59:56.705Z",
+    "published": "Fri, 25 Sep 2026 15:01:57 +0000"
+  },
+  {
+    "url": "http://jimmyhmiller.com/shape-of-unfinished-ai-codebases",
+    "title": "The Chasm: The Shape of Unfinished AI Codebases",
+    "description": "Article URL: http://jimmyhmiller.com/shape-of-unfinished-ai-codebases\nComments URL: https://news.ycombinator.com/item?id=49845633\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T16:59:56.705Z",
+    "published": "Fri, 25 Sep 2026 15:00:11 +0000"
+  },
+  {
+    "url": "https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/",
+    "title": "LLM Policies: Progress at All Costs",
+    "description": "Article URL: https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/\nComments URL: https://news.ycombinator.com/item?id=49845406\nPoints: 6\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T16:59:56.705Z",
+    "published": "Fri, 25 Sep 2026 14:45:56 +0000"
+  },
+  {
+    "url": "https://tancky.io/",
+    "title": "Show HN: I built a tool to combine separate photos into one scene using AI",
+    "description": "Article URL: https://tancky.io/\nComments URL: https://news.ycombinator.com/item?id=49845397\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T16:59:56.705Z",
+    "published": "Fri, 25 Sep 2026 14:45:29 +0000"
+  },
+  {
+    "url": "https://www.traser.dev/",
+    "title": "What's still manual when debugging AI agents?",
+    "description": "Article URL: https://www.traser.dev/\nComments URL: https://news.ycombinator.com/item?id=49845366\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T16:59:56.705Z",
+    "published": "Fri, 25 Sep 2026 14:43:32 +0000"
+  },
+  {
+    "url": "https://pixelsniff.com/",
+    "title": "Show HN: PixelSniff – Check if a photo is AI-generated, no sign-up",
+    "description": "Article URL: https://pixelsniff.com/\nComments URL: https://news.ycombinator.com/item?id=49845249\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-25T16:59:56.705Z",
+    "published": "Fri, 25 Sep 2026 14:34:16 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/10-things-im-learning-beyond-ai-to-become-more-technologically-fluent/",
+    "title": "10 Things I’m Learning Beyond AI to Become More Technologically Fluent",
+    "description": "Part 1: Understanding the technologies shaping our future\nThe post 10 Things I’m Learning Beyond AI to Become More Technologically Fluent appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-25T17:00:02.098Z",
+    "published": "Fri, 25 Sep 2026 15:30:01 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/your-models-mse-is-lying-to-you-part-ii/",
+    "title": "Your Model's MSE Is Lying to You: Part II",
+    "description": "Autoregressive rollout and uncertainty propagation. Second in a series on probabilistic forecasting for physical signals.\nThe post Your Model's MSE Is Lying to You: Part II appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-25T17:00:02.098Z",
+    "published": "Fri, 25 Sep 2026 14:00:02 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/rag-isnt-an-agent-i-built-the-layer-between-retrieval-and-action/",
+    "title": "RAG Isn't an Agent — I Built the Layer Between Retrieval and Action",
+    "description": "RAG retrieves. Agents act. I built both separately, connected them explicitly, and ran the same nine tasks through all three systems.\nThe post RAG Isn't an Agent — I Built the Layer Between Retrieval and Action appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-25T17:00:02.098Z",
+    "published": "Fri, 25 Sep 2026 12:30:01 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/microsoft-gives-copilot-another-makeover-adding-an-autopilot-agent-and-usage-based-billing/",
+    "title": "Microsoft gives Copilot another makeover, adding an Autopilot agent and usage-based billing",
+    "description": "Microsoft is splitting its Copilot app into three sections: Home, Code, and a new agent called \"Autopilot.\" Built on OpenClaw, the agent runs continuously in the cloud, where it can monitor Teams channels and complete tasks on its own, according to Microsoft. For Autopilot and Code, the com",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-25T17:00:06.312Z",
+    "published": "Fri, 25 Sep 2026 16:30:57 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/metas-muse-agent-gives-every-user-a-full-cloud-computer-running-ubuntu-linux/",
+    "title": "Meta's Muse agent gives every user a full cloud computer running Ubuntu Linux",
+    "description": "Meta gives every Muse user a free cloud computer running Ubuntu Linux where they can install software, write code, and browse the web. A \"Sentinel\" process monitors sensitive actions outside the user's workspace, while users can inspect every file in the system. With over 500,000 users in i",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-25T17:00:06.312Z",
+    "published": "Fri, 25 Sep 2026 12:22:27 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/intelligence-doesnt-come-cheap-as-ai-drives-up-costs-for-the-nsa-hospitals-and-insurers/",
+    "title": "Intelligence doesn't come cheap as AI drives up costs for the NSA, hospitals, and insurers",
+    "description": "The NSA is already spending billions of dollars to test advanced AI models, mostly on computing power, according to The Washington Sun. Lawmakers expect full-scale AI oversight to cost tens of billions of dollars a year, while earlier estimates from the Congressional Budget Office put the f",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-25T17:00:06.312Z",
+    "published": "Fri, 25 Sep 2026 12:03:24 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/googles-call-for-me-lets-gemini-phone-businesses-for-you/",
+    "title": "Google's \"Call for Me\" lets Gemini phone businesses for you",
+    "description": "Google is testing \"Call for Me,\" a feature that lets Gemini call businesses on a user's behalf.\nThe article Google&#039;s &quot;Call for Me&quot; lets Gemini phone businesses for you appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-25T17:00:06.312Z",
+    "published": "Fri, 25 Sep 2026 11:49:52 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2268096/microsofts-copilot-app-adds-office-natural-coding-and-automation/",
+    "title": "Microsoft's Copilot app adds Office, natural coding and automation",
+    "description": "Microsoft is giving its Copilot app another facelift.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-25T17:00:19.391Z",
+    "published": "Fri, 25 Sep 2026 12:00:00 +0000"
   }
 ]
