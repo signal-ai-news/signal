@@ -65163,5 +65163,123 @@
     "category": "news",
     "discovered": "2026-09-25T17:00:19.391Z",
     "published": "Fri, 25 Sep 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+    "description": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-25T20:20:59.437Z",
+    "published": "Fri, 25 Sep 2026 19:13:38 +0000",
+    "processed": true,
+    "processedAt": "2026-09-25T20:23:45.250Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+    "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+    "description": "The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-25T20:20:59.437Z",
+    "published": "Fri, 25 Sep 2026 18:33:59 +0000",
+    "processed": true,
+    "processedAt": "2026-09-25T20:23:45.250Z"
+  },
+  {
+    "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+    "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+    "description": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both companies as&#160;Anthropic rolled out Opus 5.5, followed by&#160;OpenAI’s GPT-6 model updates&#160;",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-25T20:20:59.437Z",
+    "published": "Fri, 25 Sep 2026 18:22:47 +0000",
+    "processed": true,
+    "processedAt": "2026-09-25T20:23:45.250Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+    "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+    "description": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-25T20:20:59.437Z",
+    "published": "Fri, 25 Sep 2026 17:29:46 +0000",
+    "processed": true,
+    "processedAt": "2026-09-25T20:23:45.250Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+    "title": "Astra and Opus just passed Turing’s other test",
+    "description": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-25T20:20:59.437Z",
+    "published": "Fri, 25 Sep 2026 17:24:36 +0000",
+    "processed": true,
+    "processedAt": "2026-09-25T20:23:45.250Z"
+  },
+  {
+    "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+    "title": "Meta’s AI Tamagotchi bet is…working?",
+    "description": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both companies as&#160;Anthropic rolled out Opus 5.5, followed by&#160;OpenAI’s GPT-6 model updates&#160;",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-25T20:20:59.437Z",
+    "published": "Fri, 25 Sep 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/pentagon-was-right-to-slap-anthropic-with-a-security-supply-chain-risk-label-federal-court-says/",
+    "title": "Pentagon was right to slap Anthropic with a security supply chain risk label, federal court says",
+    "description": "A federal appeals court has upheld the Pentagon's decision to bar Anthropic from military contracts. Defense Secretary Hegseth argues the company's safety restrictions could jeopardize military operations. Anthropic says the designation has already cost it billions.\nThe article Pentagon was",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-25T20:21:24.422Z",
+    "published": "Fri, 25 Sep 2026 18:40:22 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/another-google-deepmind-researcher-quits-says-building-superintelligent-ai-soon-is-inherently-irresponsible/",
+    "title": "Another Google Deepmind researcher quits, says building superintelligent AI soon is \"inherently irresponsible\"",
+    "description": "Google Deepmind researcher Robert O'Callahan has quit, saying AI's \"current rate of change is far too high.\" He worked on chip design tools that helped make AI cheaper and faster, a contribution he can no longer justify. Many colleagues share his concerns but rarely speak out, he says.\nThe",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-25T20:21:24.422Z",
+    "published": "Fri, 25 Sep 2026 17:55:51 +0000"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
+    "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+    "description": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done.\nThe post GitHub Copilot app for Beginners: How to build custom workflows with canvases appeared first on The",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-09-25T20:21:30.109Z",
+    "published": "Fri, 25 Sep 2026 18:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/",
+    "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
+    "description": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-25T20:21:31.401Z",
+    "published": "Fri, 25 Sep 2026 16:58:20 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2269263/candy-crush-maker-signs-collective-bargaining-agreement-averting-strike/",
+    "title": "Candy Crush maker signs collective bargaining agreement, averting strike",
+    "description": "That&#39;s one way to topple a King.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-25T20:21:38.696Z",
+    "published": "Fri, 25 Sep 2026 18:35:21 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2269120/apples-homepod-mini-2-will-reportedly-come-in-new-colors-but-feature-a-similar-design/",
+    "title": "Apple's HomePod mini 2 will reportedly come in new colors, but feature a similar design",
+    "description": "It&#39;s been six years since the original model.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-25T20:21:38.696Z",
+    "published": "Fri, 25 Sep 2026 17:24:09 +0000"
   }
 ]
