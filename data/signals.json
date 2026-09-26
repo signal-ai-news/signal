@@ -65708,5 +65708,213 @@
     "category": "news",
     "discovered": "2026-09-26T12:23:13.778Z",
     "published": "Sat, 26 Sep 2026 11:30:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+    "title": "I created an interactive digital avatar of myself — and you can talk to it",
+    "description": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-26T16:39:03.533Z",
+    "published": "Sat, 26 Sep 2026 14:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-26T16:41:37.580Z"
+  },
+  {
+    "url": "https://github.com/hyperlogue/r3",
+    "title": "Show HN: r3, A local alternative to Claude Artifacts",
+    "description": "Article URL: https://github.com/hyperlogue/r3\nComments URL: https://news.ycombinator.com/item?id=49858152\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-26T16:39:08.885Z",
+    "published": "Sat, 26 Sep 2026 16:36:19 +0000",
+    "processed": true,
+    "processedAt": "2026-09-26T16:41:37.580Z"
+  },
+  {
+    "url": "https://deanfaenger.bearblog.dev/the-ai-apocalypse-may-not-look-how-we-expect/",
+    "title": "The AI apocalypse may not look how we expect",
+    "description": "Article URL: https://deanfaenger.bearblog.dev/the-ai-apocalypse-may-not-look-how-we-expect/\nComments URL: https://news.ycombinator.com/item?id=49858140\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-26T16:39:08.885Z",
+    "published": "Sat, 26 Sep 2026 16:34:55 +0000",
+    "processed": true,
+    "processedAt": "2026-09-26T16:41:37.580Z"
+  },
+  {
+    "url": "https://github.com/banji-007/compliance-ail",
+    "title": "Show HN: Policy gateway for AI agent tool calls, with a tamper-evident log",
+    "description": "Article URL: https://github.com/banji-007/compliance-ail\nComments URL: https://news.ycombinator.com/item?id=49858029\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-26T16:39:08.885Z",
+    "published": "Sat, 26 Sep 2026 16:24:11 +0000",
+    "processed": true,
+    "processedAt": "2026-09-26T16:41:37.580Z"
+  },
+  {
+    "url": "https://ai-therapist-web-app-7tyh.bolt.host/",
+    "title": "I built a serverless, client-side AI emotional journal",
+    "description": "Article URL: https://ai-therapist-web-app-7tyh.bolt.host/\nComments URL: https://news.ycombinator.com/item?id=49858020\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-26T16:39:08.885Z",
+    "published": "Sat, 26 Sep 2026 16:23:17 +0000",
+    "processed": true,
+    "processedAt": "2026-09-26T16:41:37.580Z"
+  },
+  {
+    "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+    "title": "Make Claude your assistant in excalidraw",
+    "description": "Article URL: https://tangled.org/yanndegat.tngl.sh/drawgent\nComments URL: https://news.ycombinator.com/item?id=49857729\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-26T16:39:08.885Z",
+    "published": "Sat, 26 Sep 2026 15:56:34 +0000"
+  },
+  {
+    "url": "https://hughhowey.com/the-ai-bubble-explained/",
+    "title": "The AI Bubble Explained",
+    "description": "Article URL: https://hughhowey.com/the-ai-bubble-explained/\nComments URL: https://news.ycombinator.com/item?id=49857723\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-26T16:39:08.885Z",
+    "published": "Sat, 26 Sep 2026 15:55:36 +0000"
+  },
+  {
+    "url": "https://github.com/marciob/waitwise",
+    "title": "Show HN: Waitwise, Replace Claude Code's spinner with anything usefull",
+    "description": "Article URL: https://github.com/marciob/waitwise\nComments URL: https://news.ycombinator.com/item?id=49857671\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-26T16:39:08.885Z",
+    "published": "Sat, 26 Sep 2026 15:50:40 +0000"
+  },
+  {
+    "url": "https://blog.jim-nielsen.com/2026/faster-app-icon-retrieval/",
+    "title": "Using an LLM to Automate the Process of Archiving New macOS App Icons",
+    "description": "Article URL: https://blog.jim-nielsen.com/2026/faster-app-icon-retrieval/\nComments URL: https://news.ycombinator.com/item?id=49857650\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-26T16:39:08.885Z",
+    "published": "Sat, 26 Sep 2026 15:48:09 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=uWnUnMphmPM",
+    "title": "After the AI Hype – What's Real, and What's Next – Richard Campbell [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=uWnUnMphmPM\nComments URL: https://news.ycombinator.com/item?id=49857643\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-26T16:39:08.885Z",
+    "published": "Sat, 26 Sep 2026 15:47:14 +0000"
+  },
+  {
+    "url": "https://github.com/brumar/chess-postmortem-skills",
+    "title": "Show HN: A Claude Code skill to analyze your chess games",
+    "description": "Hello HN,It started as an experiment: can Claude play chess properly if it uses vision instead of PGN notation? Somehow it can.The next experiment was to see whether Claude + Stockfish could explain a game. Somehow it can too.A few sessions later, I had a system that takes my live audio notes (or t",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-26T16:39:08.885Z",
+    "published": "Sat, 26 Sep 2026 15:34:53 +0000"
+  },
+  {
+    "url": "https://andrej.sh/posts/ai-wont-take-your-career",
+    "title": "AI won't take your career",
+    "description": "Article URL: https://andrej.sh/posts/ai-wont-take-your-career\nComments URL: https://news.ycombinator.com/item?id=49857463\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-26T16:39:08.885Z",
+    "published": "Sat, 26 Sep 2026 15:26:35 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49857342",
+    "title": "I think this AI models are making us stupid and the reason is their interface",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=49857342\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-26T16:39:08.885Z",
+    "published": "Sat, 26 Sep 2026 15:12:40 +0000"
+  },
+  {
+    "url": "https://github.com/bttf/ogremcp",
+    "title": "Show HN: Ogre MCP – Let your AI agent see your WoW Classic game state",
+    "description": "Article URL: https://github.com/bttf/ogremcp\nComments URL: https://news.ycombinator.com/item?id=49857285\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-26T16:39:08.885Z",
+    "published": "Sat, 26 Sep 2026 15:06:44 +0000"
+  },
+  {
+    "url": "https://github.com/dream-num/univer",
+    "title": "The Office Harness for AI Agents – Spreadsheets,Docs,Slides,PDF in One Runtime",
+    "description": "Article URL: https://github.com/dream-num/univer\nComments URL: https://news.ycombinator.com/item?id=49857282\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-26T16:39:08.885Z",
+    "published": "Sat, 26 Sep 2026 15:06:31 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.28615",
+    "title": "All Quiet on the AI Front: The Future of Undergraduate Math Research",
+    "description": "Article URL: https://arxiv.org/abs/2609.28615\nComments URL: https://news.ycombinator.com/item?id=49857257\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-26T16:39:08.885Z",
+    "published": "Sat, 26 Sep 2026 15:03:28 +0000"
+  },
+  {
+    "url": "https://masterpoint.io/blog/terraform-opentofu-ci-checklist/",
+    "title": "Terraform and OpenTofu: A CI Checklist for AI-Generated Infra",
+    "description": "Article URL: https://masterpoint.io/blog/terraform-opentofu-ci-checklist/\nComments URL: https://news.ycombinator.com/item?id=49857070\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-26T16:39:08.885Z",
+    "published": "Sat, 26 Sep 2026 14:43:18 +0000"
+  },
+  {
+    "url": "https://joydemo.com/blog/coding-directly-in-production-with-ai",
+    "title": "I'm coding directly in production with AI and I'm not looking back",
+    "description": "Article URL: https://joydemo.com/blog/coding-directly-in-production-with-ai\nComments URL: https://news.ycombinator.com/item?id=49856750\nPoints: 3\n# Comments: 7",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-26T16:39:08.885Z",
+    "published": "Sat, 26 Sep 2026 14:11:22 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/ai-slop-is-now-in-your-training-dataset-i-tested-three-ways-to-spot-it/",
+    "title": "AI Slop Is in Your Training Dataset Now. I Tested Three Ways to Spot It.",
+    "description": "My AI detectors flagged many genuine reviews, and filtering them made the sentiment model less accurate.\nThe post AI Slop Is in Your Training Dataset Now. I Tested Three Ways to Spot It. appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-26T16:39:18.847Z",
+    "published": "Sat, 26 Sep 2026 15:00:02 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2266414/macbook-models-macos-27-golden-gate-does-not-support/",
+    "title": "The MacBook models that macOS 27 Golden Gate does not support",
+    "description": "macOS Golden Gate refines the Mac software experience, but not everyone can upgrade.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-26T16:39:32.319Z",
+    "published": "Sat, 26 Sep 2026 16:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2266039/armin-fenix-9-vs-8-how-much-of-upgrade-new-model/",
+    "title": "Garmin Fenix 9 vs Fenix 8: How much of an upgrade is the new model?",
+    "description": "Which sport smartwatch should you get?",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-26T16:39:32.319Z",
+    "published": "Sat, 26 Sep 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2265555/iphone-always-on-display-one-problem-simple-fix/",
+    "title": "One problem with your iPhone's Always-On Display can easily be fixed",
+    "description": "The Always-On Display feature of your iPhone should be straightforward, but it can turn off in several situations. You can control some of those.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-26T16:39:32.319Z",
+    "published": "Sat, 26 Sep 2026 13:00:00 +0000"
   }
 ]
