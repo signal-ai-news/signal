@@ -65517,5 +65517,114 @@
     "category": "community",
     "discovered": "2026-09-26T01:52:36.813Z",
     "published": "Fri, 25 Sep 2026 22:10:09 +0000"
+  },
+  {
+    "url": "https://copepod.dev/human-required",
+    "title": "Thought on how to deal with AI crawlers",
+    "description": "Article URL: https://copepod.dev/human-required\nComments URL: https://news.ycombinator.com/item?id=49853899\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-26T07:26:04.334Z",
+    "published": "Sat, 26 Sep 2026 06:48:42 +0000",
+    "processed": true,
+    "processedAt": "2026-09-26T07:28:32.197Z"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+    "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise",
+    "description": "Article URL: https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/\nComments URL: https://news.ycombinator.com/item?id=49853845\nPoints: 5\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-26T07:26:04.334Z",
+    "published": "Sat, 26 Sep 2026 06:37:38 +0000",
+    "processed": true,
+    "processedAt": "2026-09-26T07:28:32.197Z"
+  },
+  {
+    "url": "https://www.theguardian.com/books/2026/sep/25/thelyson-orelien-goncourt-prize-france",
+    "title": "Novelist accused of using AI to write book removed from French prize list",
+    "description": "Article URL: https://www.theguardian.com/books/2026/sep/25/thelyson-orelien-goncourt-prize-france\nComments URL: https://news.ycombinator.com/item?id=49853824\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-26T07:26:04.334Z",
+    "published": "Sat, 26 Sep 2026 06:33:39 +0000",
+    "processed": true,
+    "processedAt": "2026-09-26T07:28:32.197Z"
+  },
+  {
+    "url": "https://twitter.com/i/status/2103576349499855160",
+    "title": "Using Claude Code: Spending your effort",
+    "description": "Article URL: https://twitter.com/i/status/2103576349499855160\nComments URL: https://news.ycombinator.com/item?id=49853789\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-26T07:26:04.334Z",
+    "published": "Sat, 26 Sep 2026 06:26:57 +0000",
+    "processed": true,
+    "processedAt": "2026-09-26T07:28:32.197Z"
+  },
+  {
+    "url": "https://www.theregister.com/systems/2026/09/25/uncle-sam-coughs-up-19b-for-grid-upgrades-as-datacenters-hit-a-power-wall/5299276",
+    "title": "US DOE will give $5.25B to upgrade the grid for AI datacenters",
+    "description": "Article URL: https://www.theregister.com/systems/2026/09/25/uncle-sam-coughs-up-19b-for-grid-upgrades-as-datacenters-hit-a-power-wall/5299276\nComments URL: https://news.ycombinator.com/item?id=49853726\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-26T07:26:04.334Z",
+    "published": "Sat, 26 Sep 2026 06:15:37 +0000",
+    "processed": true,
+    "processedAt": "2026-09-26T07:28:32.197Z"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+    "title": "One company is at the center of a wave of rogue AI attacks",
+    "description": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google\nComments URL: https://news.ycombinator.com/item?id=49853692\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-26T07:26:04.334Z",
+    "published": "Sat, 26 Sep 2026 06:08:44 +0000"
+  },
+  {
+    "url": "https://botbin.io/?md=true",
+    "title": "Show HN: Botbin.io – pastebin for AI agent artifacts",
+    "description": "Article URL: https://botbin.io/?md=true\nComments URL: https://news.ycombinator.com/item?id=49853553\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-26T07:26:04.334Z",
+    "published": "Sat, 26 Sep 2026 05:42:40 +0000"
+  },
+  {
+    "url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
+    "title": "Can AI Shopping Agents Be Trusted?",
+    "description": "Article URL: https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out\nComments URL: https://news.ycombinator.com/item?id=49853522\nPoints: 14\n# Comments: 26",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-26T07:26:04.334Z",
+    "published": "Sat, 26 Sep 2026 05:36:46 +0000"
+  },
+  {
+    "url": "https://www.cleveland.com/news/2026/09/stanford-student-says-he-was-erased-after-university-photo-change-sparks-ai-controversy.html",
+    "title": "Stanford student was erased after university photo change sparks AI controversy",
+    "description": "Article URL: https://www.cleveland.com/news/2026/09/stanford-student-says-he-was-erased-after-university-photo-change-sparks-ai-controversy.html\nComments URL: https://news.ycombinator.com/item?id=49853440\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-26T07:26:04.334Z",
+    "published": "Sat, 26 Sep 2026 05:18:36 +0000"
+  },
+  {
+    "url": "https://twitter.com/josevalim/status/2103133294317445290",
+    "title": "Evolving programming languages in the AI era",
+    "description": "Article URL: https://twitter.com/josevalim/status/2103133294317445290\nComments URL: https://news.ycombinator.com/item?id=49853177\nPoints: 7\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-26T07:26:04.334Z",
+    "published": "Sat, 26 Sep 2026 04:21:24 +0000"
+  },
+  {
+    "url": "https://www.usagebuddy.com/",
+    "title": "Show HN: A dashboard for tracking usage limits across Claude, Codex, and Cursor",
+    "description": "Article URL: https://www.usagebuddy.com/\nComments URL: https://news.ycombinator.com/item?id=49852843\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-26T07:26:04.334Z",
+    "published": "Sat, 26 Sep 2026 03:11:17 +0000"
   }
 ]
