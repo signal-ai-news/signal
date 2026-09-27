@@ -66669,5 +66669,231 @@
     "category": "news",
     "discovered": "2026-09-27T17:38:37.988Z",
     "published": "Sun, 27 Sep 2026 13:45:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+    "title": "Anthropic’s CEO is about to have dinner with President Trump",
+    "description": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-27T21:12:56.266Z",
+    "published": "Sun, 27 Sep 2026 20:34:28 +0000",
+    "processed": true,
+    "processedAt": "2026-09-27T21:15:36.384Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+    "title": "Can Muse overcome Meta’s trust issues?",
+    "description": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-27T21:12:56.266Z",
+    "published": "Sun, 27 Sep 2026 19:57:30 +0000",
+    "processed": true,
+    "processedAt": "2026-09-27T21:15:36.384Z"
+  },
+  {
+    "url": "https://github.com/Colton-z/AstraBox",
+    "title": "Show HN: AstraBox – an open-source alternative to Claude Managed Agents",
+    "description": "Article URL: https://github.com/Colton-z/AstraBox\nComments URL: https://news.ycombinator.com/item?id=49870517\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T21:13:09.321Z",
+    "published": "Sun, 27 Sep 2026 20:31:39 +0000",
+    "processed": true,
+    "processedAt": "2026-09-27T21:15:36.384Z"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-09-27/bill-gates-says-trump-is-wrong-to-hold-out-against-ai-safeguards",
+    "title": "Bill Gates Says Trump Is Wrong to Hold Out Against AI Safeguards",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-09-27/bill-gates-says-trump-is-wrong-to-hold-out-against-ai-safeguards\nComments URL: https://news.ycombinator.com/item?id=49870438\nPoints: 4\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T21:13:09.321Z",
+    "published": "Sun, 27 Sep 2026 20:20:45 +0000",
+    "processed": true,
+    "processedAt": "2026-09-27T21:15:36.384Z"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
+    "title": "Debt-hungry AI companies face increased risk as bond yields spike",
+    "description": "Article URL: https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html\nComments URL: https://news.ycombinator.com/item?id=49870419\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T21:13:09.321Z",
+    "published": "Sun, 27 Sep 2026 20:17:43 +0000",
+    "processed": true,
+    "processedAt": "2026-09-27T21:15:36.384Z"
+  },
+  {
+    "url": "https://crypto-sentiment-x402.onrender.com/sentiment/BTC",
+    "title": "A crypto sentiment API that AI agents pay for autonomously (x402 protocol)",
+    "description": "Article URL: https://crypto-sentiment-x402.onrender.com/sentiment/BTC\nComments URL: https://news.ycombinator.com/item?id=49870296\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T21:13:09.321Z",
+    "published": "Sun, 27 Sep 2026 20:03:44 +0000"
+  },
+  {
+    "url": "https://ai-do.io/demo",
+    "title": "Show HN: An AI wedding concierge I built and ran at my own 300-person wedding",
+    "description": "I'm an American who got married to a Mauritian this past May. We had our Hindu wedding in my wife's home country of Mauritius. My family and friends are not Hindu, and certainly had never been to the tiny island of Mauritius (it's off the coast of Madagascar in case you were wondering).My wife and",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T21:13:09.321Z",
+    "published": "Sun, 27 Sep 2026 19:50:19 +0000"
+  },
+  {
+    "url": "https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd",
+    "title": "Corporate America embraces cheaper 'open' AI models",
+    "description": "Article URL: https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd\nComments URL: https://news.ycombinator.com/item?id=49870126\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T21:13:09.321Z",
+    "published": "Sun, 27 Sep 2026 19:44:25 +0000"
+  },
+  {
+    "url": "https://www.politico.com/news/magazine/2026/09/25/midterms-partisan-ai-chatbots-01092138",
+    "title": "'Pink Slime' Is Infecting AI Chatbots Ahead of the Midterms",
+    "description": "Article URL: https://www.politico.com/news/magazine/2026/09/25/midterms-partisan-ai-chatbots-01092138\nComments URL: https://news.ycombinator.com/item?id=49870039\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T21:13:09.321Z",
+    "published": "Sun, 27 Sep 2026 19:33:49 +0000"
+  },
+  {
+    "url": "https://heysquint.com/",
+    "title": "Show HN: Squint – Drag a box on your screen and ask AI about it",
+    "description": "It improves the usual workflow: take a screenshot, switch to a chat tab, upload it, switch back.\n- Built with Rust and Tauri v2, including a built-in native screenshot solution for maximum performance and stability.\n- Answers come from OpenAI models. Fast, the default, usually starts answering with",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T21:13:09.321Z",
+    "published": "Sun, 27 Sep 2026 19:29:41 +0000"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-09-21/amazon-blocks-meta-s-muse-ai-agent-from-its-retail-site",
+    "title": "Amazon Blocks Meta's Muse AI Agent from Its Retail Site",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-09-21/amazon-blocks-meta-s-muse-ai-agent-from-its-retail-site\nComments URL: https://news.ycombinator.com/item?id=49869973\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T21:13:09.321Z",
+    "published": "Sun, 27 Sep 2026 19:26:14 +0000"
+  },
+  {
+    "url": "https://www.motherjones.com/politics/2026/09/rest-assured-ai-companies-say-theyre-investigating-tens-of-thousands-of-rogue-bot-incidents/",
+    "title": "AI Companies Say They're Investigating Rogue Bot Incidents",
+    "description": "Article URL: https://www.motherjones.com/politics/2026/09/rest-assured-ai-companies-say-theyre-investigating-tens-of-thousands-of-rogue-bot-incidents/\nComments URL: https://news.ycombinator.com/item?id=49869944\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T21:13:09.321Z",
+    "published": "Sun, 27 Sep 2026 19:23:18 +0000"
+  },
+  {
+    "url": "https://boonful.io",
+    "title": "Show HN: Boonful – Claude Code can publish and sell what it builds",
+    "description": "Article URL: https://boonful.io\nComments URL: https://news.ycombinator.com/item?id=49869937\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T21:13:09.321Z",
+    "published": "Sun, 27 Sep 2026 19:22:10 +0000"
+  },
+  {
+    "url": "https://heypcb.ai",
+    "title": "Heypcb: Figma for Hardware, with AI",
+    "description": "Article URL: https://heypcb.ai\nComments URL: https://news.ycombinator.com/item?id=49869886\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T21:13:09.321Z",
+    "published": "Sun, 27 Sep 2026 19:14:38 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=8j-hR4fJywU",
+    "title": "Claude Pop – I'm Upping My P(Doom) [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=8j-hR4fJywU\nComments URL: https://news.ycombinator.com/item?id=49869870\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T21:13:09.321Z",
+    "published": "Sun, 27 Sep 2026 19:13:36 +0000"
+  },
+  {
+    "url": "https://kiln.tech/blog/we_made_our_launch_video_in_claude_code",
+    "title": "We made our launch video with Claude Code (and open-sourced the tool)",
+    "description": "Article URL: https://kiln.tech/blog/we_made_our_launch_video_in_claude_code\nComments URL: https://news.ycombinator.com/item?id=49869834\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T21:13:09.321Z",
+    "published": "Sun, 27 Sep 2026 19:10:58 +0000"
+  },
+  {
+    "url": "https://github.com/saikiran-rs/merge-sessions-across-accounts",
+    "title": "Merge Claude Code desktop sessions across accounts (macOS)",
+    "description": "Article URL: https://github.com/saikiran-rs/merge-sessions-across-accounts\nComments URL: https://news.ycombinator.com/item?id=49869731\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T21:13:09.321Z",
+    "published": "Sun, 27 Sep 2026 18:59:32 +0000"
+  },
+  {
+    "url": "https://github.com/davidsonff/asimov4laws",
+    "title": "Show HN: Asimov's 4 Laws for AI Contexts",
+    "description": "For community and agent comments, thoughts, refinements, critiques, pull requests, and use.\n\nComments URL: https://news.ycombinator.com/item?id=49869595\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T21:13:09.321Z",
+    "published": "Sun, 27 Sep 2026 18:46:13 +0000"
+  },
+  {
+    "url": "https://www.wsj.com/tech/ai/jaan-tallinn-anthropic-ai-f513f181",
+    "title": "He's Terrified of AI–and He's About to Make Billions Off It",
+    "description": "Article URL: https://www.wsj.com/tech/ai/jaan-tallinn-anthropic-ai-f513f181\nComments URL: https://news.ycombinator.com/item?id=49869519\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T21:13:09.321Z",
+    "published": "Sun, 27 Sep 2026 18:39:09 +0000"
+  },
+  {
+    "url": "https://orglet.codepawl.com/",
+    "title": "Show HN: Orglet, an open source desktop app for your own team of cute AI workers",
+    "description": "I’m building Orglet, a desktop app where you give AI workers (I call them orglets, and they are cute) their own instructions and talk to them individually or together in a group chat.You can build your own army of orglets using your existing Claude Code or Codex subscription, an API provider, or ev",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T21:13:09.321Z",
+    "published": "Sun, 27 Sep 2026 18:37:45 +0000"
+  },
+  {
+    "url": "https://apnews.com/article/ai-slowdown-midterms-anthropic-openai-ipo-9a057de94eb8f30a2fdb5b938918627e",
+    "title": "Anthropic/OpenAI sound alarm on AI safety and seek to shape how to control it",
+    "description": "Article URL: https://apnews.com/article/ai-slowdown-midterms-anthropic-openai-ipo-9a057de94eb8f30a2fdb5b938918627e\nComments URL: https://news.ycombinator.com/item?id=49869486\nPoints: 7\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T21:13:09.321Z",
+    "published": "Sun, 27 Sep 2026 18:34:38 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49869237",
+    "title": "Ask HN: What am I missing with Siri AI?",
+    "description": "I have a lot of experience with LLM’s and have seen them become very good at interacting with tools within an environment. I’m truly amazed at how poorly the new Siri is at handling very basic requests for basic interactions with different parts of the ecosystem. I’m really beginning to question wh",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T21:13:09.321Z",
+    "published": "Sun, 27 Sep 2026 18:12:14 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2270166/bill-gates-says-that-its-completely-irresponsible-for-ai-to-not-have-safeguards/",
+    "title": "Bill Gates says it's 'completely irresponsible' for AI to not have safeguards",
+    "description": "The Microsoft co-founder said that the more present danger is bad actors with access to AI tools.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-27T21:13:30.514Z",
+    "published": "Sun, 27 Sep 2026 19:12:29 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2266434/foldable-phone-pros-cons/",
+    "title": "The pros and cons of using a foldable phone",
+    "description": "Foldable phones are gaining momentum, but have they been refined enough to make it to the mainstream? Here are some things to consider.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-27T21:13:30.514Z",
+    "published": "Sun, 27 Sep 2026 18:00:00 +0000"
   }
 ]
