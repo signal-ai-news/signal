@@ -66134,5 +66134,204 @@
     "published": "Sat, 26 Sep 2026 19:45:00 +0000",
     "processed": true,
     "processedAt": "2026-09-26T22:39:25.560Z"
+  },
+  {
+    "url": "https://twitter.com/olam_labs/status/2103986923346043362",
+    "title": "Play Diplomacy against AIs like Claude or GPT: they betray, scheme, etc.",
+    "description": "Article URL: https://twitter.com/olam_labs/status/2103986923346043362\nComments URL: https://news.ycombinator.com/item?id=49862227\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T01:16:29.741Z",
+    "published": "Sun, 27 Sep 2026 00:58:48 +0000",
+    "processed": true,
+    "processedAt": "2026-09-27T01:18:56.073Z"
+  },
+  {
+    "url": "https://theintercept.com/2026/09/14/surveillance-tech-ai-military-flock/",
+    "title": "The AI Doomsday Future Is Not Inevitable",
+    "description": "Article URL: https://theintercept.com/2026/09/14/surveillance-tech-ai-military-flock/\nComments URL: https://news.ycombinator.com/item?id=49862203\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T01:16:29.741Z",
+    "published": "Sun, 27 Sep 2026 00:56:34 +0000",
+    "processed": true,
+    "processedAt": "2026-09-27T01:18:56.073Z"
+  },
+  {
+    "url": "https://electrek.co/2026/09/25/geely-ai-fast-charging-heals-ev-batteries-pulse-restoration/",
+    "title": "Geely's AI fast charging 'heals' EV batteries for 20% more cycle life",
+    "description": "Article URL: https://electrek.co/2026/09/25/geely-ai-fast-charging-heals-ev-batteries-pulse-restoration/\nComments URL: https://news.ycombinator.com/item?id=49862066\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T01:16:29.741Z",
+    "published": "Sun, 27 Sep 2026 00:35:33 +0000",
+    "processed": true,
+    "processedAt": "2026-09-27T01:18:56.073Z"
+  },
+  {
+    "url": "https://bsky.app/profile/cabel.panic.com/post/3mwgo5kml3r2z",
+    "title": "\"can't a guy walk down the street anymore without being harassed by AI\" [video]",
+    "description": "Article URL: https://bsky.app/profile/cabel.panic.com/post/3mwgo5kml3r2z\nComments URL: https://news.ycombinator.com/item?id=49861804\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T01:16:29.741Z",
+    "published": "Sat, 26 Sep 2026 23:57:41 +0000",
+    "processed": true,
+    "processedAt": "2026-09-27T01:18:56.073Z"
+  },
+  {
+    "url": "https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/",
+    "title": "What reversing, modernising old games tells us about the economic impact of AI",
+    "description": "Article URL: https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/\nComments URL: https://news.ycombinator.com/item?id=49861755\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T01:16:29.741Z",
+    "published": "Sat, 26 Sep 2026 23:49:01 +0000",
+    "processed": true,
+    "processedAt": "2026-09-27T01:18:56.073Z"
+  },
+  {
+    "url": "https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents",
+    "title": "Top AI companies probing security incidents",
+    "description": "Article URL: https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents\nComments URL: https://news.ycombinator.com/item?id=49861517\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T01:16:29.741Z",
+    "published": "Sat, 26 Sep 2026 23:15:28 +0000"
+  },
+  {
+    "url": "https://www.kron4.com/news/technology-ai/report-details-allegations-of-wild-parties-sexual-harassment-and-rape-at-bay-area-ai-party-houses/",
+    "title": "Allegations of sexual harassment and rape at Bay Area AI party houses",
+    "description": "Article URL: https://www.kron4.com/news/technology-ai/report-details-allegations-of-wild-parties-sexual-harassment-and-rape-at-bay-area-ai-party-houses/\nComments URL: https://news.ycombinator.com/item?id=49861356\nPoints: 10\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T01:16:29.741Z",
+    "published": "Sat, 26 Sep 2026 22:54:01 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49861324",
+    "title": "Ask HN: Any books, list of papers, or articles to understand LLM's",
+    "description": "I have some basic ml background from college. I know how neural nets, backprop, and attention work vaguely.I want to study LLMs and keep up with the modern research and literature including thinking, model training techniques, etc. Do yall have any suggestions on where to start?\n\nComments URL: http",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T01:16:29.741Z",
+    "published": "Sat, 26 Sep 2026 22:49:34 +0000"
+  },
+  {
+    "url": "https://github.com/willswire/swift-newt",
+    "title": "Show HN: Newt – A Swift Package for Jev-Style Decisions on Apple Core AI",
+    "description": "Article URL: https://github.com/willswire/swift-newt\nComments URL: https://news.ycombinator.com/item?id=49861306\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T01:16:29.741Z",
+    "published": "Sat, 26 Sep 2026 22:46:27 +0000"
+  },
+  {
+    "url": "https://www.thefp.com/p/tyler-cowen-a-doomsday-scenario-for",
+    "title": "Tyler Cowen: A Doomsday Scenario for American AI",
+    "description": "Article URL: https://www.thefp.com/p/tyler-cowen-a-doomsday-scenario-for\nComments URL: https://news.ycombinator.com/item?id=49861234\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T01:16:29.741Z",
+    "published": "Sat, 26 Sep 2026 22:37:03 +0000"
+  },
+  {
+    "url": "https://linuxiac.com/solus-linux-adopts-formal-ai-and-llm-contribution-policy/",
+    "title": "Solus Linux Adopts Formal AI and LLM Contribution Policy",
+    "description": "Article URL: https://linuxiac.com/solus-linux-adopts-formal-ai-and-llm-contribution-policy/\nComments URL: https://news.ycombinator.com/item?id=49861170\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T01:16:29.741Z",
+    "published": "Sat, 26 Sep 2026 22:29:47 +0000"
+  },
+  {
+    "url": "https://aipoliticalcube.com/",
+    "title": "AI Political Alignment Quiz",
+    "description": "Article URL: https://aipoliticalcube.com/\nComments URL: https://news.ycombinator.com/item?id=49860999\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T01:16:29.741Z",
+    "published": "Sat, 26 Sep 2026 22:09:08 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=2g7doI0BGrs",
+    "title": "AI Data Center Are Monkey Business [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=2g7doI0BGrs\nComments URL: https://news.ycombinator.com/item?id=49860953\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T01:16:29.741Z",
+    "published": "Sat, 26 Sep 2026 22:03:25 +0000"
+  },
+  {
+    "url": "https://aatishb.com/blog/2026/ai-jagged-intelligence/",
+    "title": "A Simple Puzzle Reveals the Jagged Edge of AI's Abilities",
+    "description": "Article URL: https://aatishb.com/blog/2026/ai-jagged-intelligence/\nComments URL: https://news.ycombinator.com/item?id=49860730\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T01:16:29.741Z",
+    "published": "Sat, 26 Sep 2026 21:31:55 +0000"
+  },
+  {
+    "url": "https://www.brookings.edu/wp-content/uploads/2026/09/4c_Van-Nieuwerburgh.pdf",
+    "title": "Financing the AI Buildout [pdf]",
+    "description": "Article URL: https://www.brookings.edu/wp-content/uploads/2026/09/4c_Van-Nieuwerburgh.pdf\nComments URL: https://news.ycombinator.com/item?id=49860708\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T01:16:29.741Z",
+    "published": "Sat, 26 Sep 2026 21:29:08 +0000"
+  },
+  {
+    "url": "https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32",
+    "title": "Hackers hijack AI accounts and servers to fuel new cyber crime boom",
+    "description": "Article URL: https://www.ft.com/content/3f406fbe-b72e-488f-9975-5b94e95dfe32\nComments URL: https://news.ycombinator.com/item?id=49860704\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T01:16:29.741Z",
+    "published": "Sat, 26 Sep 2026 21:27:50 +0000"
+  },
+  {
+    "url": "https://news.ufl.edu/2026/09/ai-powered-vehicles/",
+    "title": "Simple visual patterns can trick AI-powered vehicles and robots",
+    "description": "Article URL: https://news.ufl.edu/2026/09/ai-powered-vehicles/\nComments URL: https://news.ycombinator.com/item?id=49860649\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T01:16:29.741Z",
+    "published": "Sat, 26 Sep 2026 21:20:19 +0000"
+  },
+  {
+    "url": "https://notesbylex.com/can-claude-opus-5-5-find-any-new-leads-on-satoshi-nakamoto",
+    "title": "Can Claude Opus 5.5 find any new leads on Satoshi Nakamoto?",
+    "description": "Article URL: https://notesbylex.com/can-claude-opus-5-5-find-any-new-leads-on-satoshi-nakamoto\nComments URL: https://news.ycombinator.com/item?id=49860574\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T01:16:29.741Z",
+    "published": "Sat, 26 Sep 2026 21:09:33 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2266671/iphone-duo-wont-know-how-visible-crease-for-long-time/",
+    "title": "Why we won't know how visible the iPhone Duo's crease is for a long time",
+    "description": "The iPhone Duo has an impressively minimal crease, but that&#39;s only how it looks at the start. We&#39;ll have to wait a while to see what develops over time.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-27T01:16:49.343Z",
+    "published": "Sun, 27 Sep 2026 00:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2266595/how-powerful-power-bank-needs-to-be-charge-laptop/",
+    "title": "How powerful of a power bank do you need to safely charge a laptop?",
+    "description": "A power bank is more than its capacity. You also need to know how fast it can deliver power so your laptop doesn&#39;t drain while it&#39;s connected.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-27T01:16:49.343Z",
+    "published": "Sun, 27 Sep 2026 00:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2266565/why-iphone-hates-printer-cables/",
+    "title": "Why your iPhone hates printer cables",
+    "description": "AirPrint is the easiest path to printing on iPhone; other apps enable this, but printing with a cable isn&#39;t supported.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-27T01:16:49.343Z",
+    "published": "Sat, 26 Sep 2026 23:30:00 +0000"
   }
 ]
