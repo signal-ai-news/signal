@@ -66596,5 +66596,78 @@
     "category": "news",
     "discovered": "2026-09-27T12:54:41.784Z",
     "published": "Sun, 27 Sep 2026 08:17:47 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+    "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+    "description": "\"AI is the devil and I its maker.\"",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-27T17:38:00.397Z",
+    "published": "Sun, 27 Sep 2026 16:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-27T17:40:43.444Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/graphrag-with-typesafe-jev-a-system-one-approach-to-scalable-knowledge-graphs/",
+    "title": "GraphRAG with TypeSafe Jev: A System One Approach to Scalable Knowledge Graphs",
+    "description": "How calibrated decision models can handle high-frequency graph decisions while LLMs remain focused on reasoning, synthesis, and open-ended generation.\nThe post GraphRAG with TypeSafe Jev: A System One Approach to Scalable Knowledge Graphs appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-27T17:38:22.994Z",
+    "published": "Sun, 27 Sep 2026 15:00:01 GMT",
+    "processed": true,
+    "processedAt": "2026-09-27T17:40:43.444Z"
+  },
+  {
+    "url": "https://the-decoder.com/ai-agents-do-more-of-the-work-in-model-development-but-humans-still-make-the-decisions/",
+    "title": "AI agents do more of the work in model development, but humans still make the decisions",
+    "description": "A research team analyzed 769 task logs from building its own AI model. AI agents supplied up to 55 percent of method proposals, but humans made more than 85 percent of final decisions. A third of the tasks wouldn't have been attempted without AI. The authors warn that more agent activity do",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-27T17:38:24.765Z",
+    "published": "Sun, 27 Sep 2026 15:18:39 +0000",
+    "processed": true,
+    "processedAt": "2026-09-27T17:40:43.444Z"
+  },
+  {
+    "url": "https://the-decoder.com/some-anthropic-veterans-are-reportedly-buying-remote-land-in-case-ai-goes-awry/",
+    "title": "Some Anthropic veterans are reportedly buying remote land in case \"AI goes awry\"",
+    "description": "According to the Wall Street Journal, some of Anthropic's longest-serving employees are considering buying land in remote parts of the US as a refuge in case AI goes awry. The report traces the company's deep ties to the Effective Altruism movement and a Bay Area network of \"doomers\" who've",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-27T17:38:24.765Z",
+    "published": "Sun, 27 Sep 2026 13:03:05 +0000",
+    "processed": true,
+    "processedAt": "2026-09-27T17:40:43.444Z"
+  },
+  {
+    "url": "https://www.engadget.com/2267524/how-to-use-spotify-running-mode-ios-android-guide/",
+    "title": "How to use Spotify's Running Mode on iOS and Android",
+    "description": "Maximize your stride with Spotify&#39;s AI-powered running features.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-27T17:38:37.988Z",
+    "published": "Sun, 27 Sep 2026 15:45:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-27T17:40:43.444Z"
+  },
+  {
+    "url": "https://www.engadget.com/2267074/why-claude-cleaning-tv-bloatware-not-best-idea/",
+    "title": "Why letting Claude clean your TV's bloatware isn't the best idea",
+    "description": "Don&#39;t let an AI bot potentially crash your TV.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-27T17:38:37.988Z",
+    "published": "Sun, 27 Sep 2026 14:15:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2266889/gemini-live-vs-gpt-live-which-offers-more-natural-conversation/",
+    "title": "Gemini Live vs. ChatGPT Voice: Which AI offers a more natural conversation?",
+    "description": "Speaking with an AI chatbot can be a little awkward, but companies like Google and OpenAI are working on fixing that.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-27T17:38:37.988Z",
+    "published": "Sun, 27 Sep 2026 13:45:00 +0000"
   }
 ]
