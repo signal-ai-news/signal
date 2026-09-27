@@ -66895,5 +66895,78 @@
     "category": "news",
     "discovered": "2026-09-27T21:13:30.514Z",
     "published": "Sun, 27 Sep 2026 18:00:00 +0000"
+  },
+  {
+    "url": "https://github.com/marciob/agenttab",
+    "title": "Show HN: Agenttab – Status Icons for Claude Code, Codex and OpenCode Tabs",
+    "description": "Article URL: https://github.com/marciob/agenttab\nComments URL: https://news.ycombinator.com/item?id=49871923\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T23:53:47.127Z",
+    "published": "Sun, 27 Sep 2026 23:38:44 +0000",
+    "processed": true,
+    "processedAt": "2026-09-27T23:56:13.832Z"
+  },
+  {
+    "url": "https://www.reddit.com/r/GoogleGeminiAI/comments/1wqze2k/looking_at_the_leaked_gemini_4_pro_numbers_vs/",
+    "title": "Leaked Gemini 4 Pro numbers",
+    "description": "Article URL: https://www.reddit.com/r/GoogleGeminiAI/comments/1wqze2k/looking_at_the_leaked_gemini_4_pro_numbers_vs/\nComments URL: https://news.ycombinator.com/item?id=49871864\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T23:53:47.127Z",
+    "published": "Sun, 27 Sep 2026 23:28:46 +0000",
+    "processed": true,
+    "processedAt": "2026-09-27T23:56:13.832Z"
+  },
+  {
+    "url": "https://twitter.com/__tinygrad__/status/2044354852663558370",
+    "title": "George Hotz’s opinion on AI coding",
+    "description": "Article URL: https://twitter.com/__tinygrad__/status/2044354852663558370\nComments URL: https://news.ycombinator.com/item?id=49871139\nPoints: 10\n# Comments: 8",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T23:53:47.127Z",
+    "published": "Sun, 27 Sep 2026 21:40:54 +0000",
+    "processed": true,
+    "processedAt": "2026-09-27T23:56:13.832Z"
+  },
+  {
+    "url": "https://www.wsj.com/tech/ai/chess-artificial-intelligence-ai-e969a830",
+    "title": "AI Has Cracked the Most Diabolical Problems in Math. Why Can't It Solve Chess?",
+    "description": "Article URL: https://www.wsj.com/tech/ai/chess-artificial-intelligence-ai-e969a830\nComments URL: https://news.ycombinator.com/item?id=49871100\nPoints: 3\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T23:53:47.127Z",
+    "published": "Sun, 27 Sep 2026 21:35:55 +0000",
+    "processed": true,
+    "processedAt": "2026-09-27T23:56:13.832Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49871083",
+    "title": "Latency reduction for consumer facing AI applications",
+    "description": "what are some of the hacks you have seen to make image edits faster without losing the fidelity? if a consumer workflow required 10 edits - a 15-20 second wait time isnt ideal between iterations\n\nComments URL: https://news.ycombinator.com/item?id=49871083\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T23:53:47.127Z",
+    "published": "Sun, 27 Sep 2026 21:34:22 +0000",
+    "processed": true,
+    "processedAt": "2026-09-27T23:56:13.832Z"
+  },
+  {
+    "url": "https://flaviocopes.com/fundamentals-ai-era/",
+    "title": "Fundamentals still worth learning when AI writes the code",
+    "description": "Article URL: https://flaviocopes.com/fundamentals-ai-era/\nComments URL: https://news.ycombinator.com/item?id=49871053\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T23:53:47.127Z",
+    "published": "Sun, 27 Sep 2026 21:29:56 +0000"
+  },
+  {
+    "url": "https://t3ratech.github.io/t3rnel-browser-plugin/",
+    "title": "T3rnel Browser – DevTools you can talk to, and a browser your AI can drive",
+    "description": "Article URL: https://t3ratech.github.io/t3rnel-browser-plugin/\nComments URL: https://news.ycombinator.com/item?id=49871007\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-27T23:53:47.127Z",
+    "published": "Sun, 27 Sep 2026 21:24:30 +0000"
   }
 ]
