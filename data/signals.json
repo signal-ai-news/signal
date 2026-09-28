@@ -67069,5 +67069,465 @@
     "category": "news",
     "discovered": "2026-09-28T11:36:24.347Z",
     "published": "Mon, 28 Sep 2026 11:25:54 +0000"
+  },
+  {
+    "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+    "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+    "description": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-28T19:32:08.538Z",
+    "published": "Mon, 28 Sep 2026 07:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-28T19:34:45.495Z"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+    "description": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-09-28T19:32:09.863Z",
+    "published": "Mon, 28 Sep 2026 19:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-28T19:34:45.495Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+    "title": "Nvidia launches new platform for reining in rogue AI agents",
+    "description": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security l",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-28T19:32:11.699Z",
+    "published": "Mon, 28 Sep 2026 18:31:23 +0000",
+    "processed": true,
+    "processedAt": "2026-09-28T19:34:45.495Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+    "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+    "description": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-28T19:32:11.699Z",
+    "published": "Mon, 28 Sep 2026 18:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-28T19:34:45.495Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+    "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+    "description": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-28T19:32:11.699Z",
+    "published": "Mon, 28 Sep 2026 17:29:50 +0000",
+    "processed": true,
+    "processedAt": "2026-09-28T19:34:45.495Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+    "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+    "description": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-28T19:32:11.699Z",
+    "published": "Mon, 28 Sep 2026 17:09:02 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+    "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+    "description": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-28T19:32:11.699Z",
+    "published": "Mon, 28 Sep 2026 16:52:38 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
+    "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+    "description": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-28T19:32:11.699Z",
+    "published": "Mon, 28 Sep 2026 15:30:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+    "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+    "description": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one of the companies competing in Startup Battlefield",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-28T19:32:11.699Z",
+    "published": "Mon, 28 Sep 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
+    "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
+    "description": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disrupt 2026 today.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-28T19:32:11.699Z",
+    "published": "Mon, 28 Sep 2026 14:30:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
+    "title": "Modulate raises $25M for its voice models and analysis suite",
+    "description": "Modulate deploys its models to detect deepfake, fraud and scam",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-28T19:32:11.699Z",
+    "published": "Mon, 28 Sep 2026 14:05:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+    "title": "Insurtech Outmarket raises $34.5M just months after prior round",
+    "description": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-28T19:32:11.699Z",
+    "published": "Mon, 28 Sep 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+    "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+    "description": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-28T19:32:11.699Z",
+    "published": "Mon, 28 Sep 2026 13:38:48 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+    "title": "When can we say AI made a scientific discovery?",
+    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology pro",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-28T19:32:12.889Z",
+    "published": "Mon, 28 Sep 2026 17:03:16 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
+    "title": "The Download: rogue agent liability and the AI Hype Index",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Who&#8217;s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI di",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-28T19:32:12.889Z",
+    "published": "Mon, 28 Sep 2026 12:10:00 +0000"
+  },
+  {
+    "url": "https://www.aha.io/engineering/articles/coding-ai-without-deterministic-outcomes",
+    "title": "Coding AI without deterministic outcomes",
+    "description": "Article URL: https://www.aha.io/engineering/articles/coding-ai-without-deterministic-outcomes\nComments URL: https://news.ycombinator.com/item?id=49883193\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-28T19:32:20.076Z",
+    "published": "Mon, 28 Sep 2026 19:30:38 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+    "title": "Homa: The End of TCP for AI Clusters [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=eZ8WWZzoaR0\nComments URL: https://news.ycombinator.com/item?id=49882993\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-28T19:32:20.076Z",
+    "published": "Mon, 28 Sep 2026 19:14:31 +0000"
+  },
+  {
+    "url": "http://www.incompleteideas.net/IncIdeas/BitterLesson.html",
+    "title": "Why compute and general search will always beat human cleverness in AI (2019)",
+    "description": "Article URL: http://www.incompleteideas.net/IncIdeas/BitterLesson.html\nComments URL: https://news.ycombinator.com/item?id=49882922\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-28T19:32:20.076Z",
+    "published": "Mon, 28 Sep 2026 19:08:26 +0000"
+  },
+  {
+    "url": "https://stateofutopia.com/experiments/microllmlab/",
+    "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+    "description": "Article URL: https://stateofutopia.com/experiments/microllmlab/\nComments URL: https://news.ycombinator.com/item?id=49882781\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-28T19:32:20.076Z",
+    "published": "Mon, 28 Sep 2026 18:58:53 +0000"
+  },
+  {
+    "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
+    "title": "Stephan Wolfram on the Future for Math Research in the Age of AI",
+    "description": "Article URL: https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/\nComments URL: https://news.ycombinator.com/item?id=49882766\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-28T19:32:20.076Z",
+    "published": "Mon, 28 Sep 2026 18:58:07 +0000"
+  },
+  {
+    "url": "https://substack.com/@thejeevankumar/note/c-348060494",
+    "title": "Can AI Control a Spacecraft?",
+    "description": "Article URL: https://substack.com/@thejeevankumar/note/c-348060494\nComments URL: https://news.ycombinator.com/item?id=49882699\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-28T19:32:20.076Z",
+    "published": "Mon, 28 Sep 2026 18:53:24 +0000"
+  },
+  {
+    "url": "https://artificialanalysis.ai/models/claude-sonnet-5-5",
+    "title": "Claude Sonnet 5.5 (Max Effort) Intelligence, Performance and Price Analysis",
+    "description": "Article URL: https://artificialanalysis.ai/models/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49882688\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-28T19:32:20.076Z",
+    "published": "Mon, 28 Sep 2026 18:52:34 +0000"
+  },
+  {
+    "url": "https://github.com/VBS2004/semloop",
+    "title": "Show HN: Semloop – Semantic loop detection for AI agent traces",
+    "description": "Article URL: https://github.com/VBS2004/semloop\nComments URL: https://news.ycombinator.com/item?id=49882593\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-28T19:32:20.076Z",
+    "published": "Mon, 28 Sep 2026 18:45:40 +0000"
+  },
+  {
+    "url": "https://twitter.com/OrinKerr/status/2104271670697755016",
+    "title": "Law professor Orin Kerr on criminal liability for AI hacking",
+    "description": "Article URL: https://twitter.com/OrinKerr/status/2104271670697755016\nComments URL: https://news.ycombinator.com/item?id=49882566\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-28T19:32:20.076Z",
+    "published": "Mon, 28 Sep 2026 18:43:51 +0000"
+  },
+  {
+    "url": "https://www.infoq.com/news/2026/09/c-rust-rewrite/",
+    "title": "Google Rewrites Critical C Dependencies to Rust Using AI and Differential Fuzzin",
+    "description": "Article URL: https://www.infoq.com/news/2026/09/c-rust-rewrite/\nComments URL: https://news.ycombinator.com/item?id=49882449\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-28T19:32:20.076Z",
+    "published": "Mon, 28 Sep 2026 18:36:51 +0000"
+  },
+  {
+    "url": "https://thenewstack.io/google-suncatcher-tpu-satellite/",
+    "title": "Musk says space will hold all compute. Google wonders if AI chips can work there",
+    "description": "Article URL: https://thenewstack.io/google-suncatcher-tpu-satellite/\nComments URL: https://news.ycombinator.com/item?id=49882426\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-28T19:32:20.076Z",
+    "published": "Mon, 28 Sep 2026 18:35:28 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=GGzPtkYiYis",
+    "title": "Jensen Huang: All systems around AI must be designed with restrictive rights",
+    "description": "Article URL: https://www.youtube.com/watch?v=GGzPtkYiYis\nComments URL: https://news.ycombinator.com/item?id=49882406\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-28T19:32:20.076Z",
+    "published": "Mon, 28 Sep 2026 18:33:54 +0000"
+  },
+  {
+    "url": "https://www.npr.org/2026/09/28/nx-s1-5759718/ai-schools-experiment-research",
+    "title": "Schools are experimenting with AI with little evidence or policy to guide them",
+    "description": "Article URL: https://www.npr.org/2026/09/28/nx-s1-5759718/ai-schools-experiment-research\nComments URL: https://news.ycombinator.com/item?id=49882367\nPoints: 8\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-28T19:32:20.076Z",
+    "published": "Mon, 28 Sep 2026 18:31:44 +0000"
+  },
+  {
+    "url": "https://www.tomshardware.com/desktops/mini-pcs/early-amd-gorgon-halo-ai-mini-pc-packs-192gb-ram-for-an-eye-watering-usd7-099-super-early-bird-deal-cuts-down-price-of-gmktec-evo-x5-with-ryzen-ai-max-pro-495-by-usd425",
+    "title": "Early AMD 'Gorgon Halo' AI mini-PC packs 192GB RAM for an eye-watering $7,099",
+    "description": "Article URL: https://www.tomshardware.com/desktops/mini-pcs/early-amd-gorgon-halo-ai-mini-pc-packs-192gb-ram-for-an-eye-watering-usd7-099-super-early-bird-deal-cuts-down-price-of-gmktec-evo-x5-with-ryzen-ai-max-pro-495-by-usd425\nComments URL: https://news.ycombinator.com/item?id=49882337\nPoints: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-28T19:32:20.076Z",
+    "published": "Mon, 28 Sep 2026 18:29:51 +0000"
+  },
+  {
+    "url": "https://science.ku.dk/english/press/news/2026/ai-chatbots-give-us-a-narrow-slice-of-knowledge-researchers-warn-of-knowledge-collapse/",
+    "title": "AI chatbots give us a narrow slice of knowledge",
+    "description": "Article URL: https://science.ku.dk/english/press/news/2026/ai-chatbots-give-us-a-narrow-slice-of-knowledge-researchers-warn-of-knowledge-collapse/\nComments URL: https://news.ycombinator.com/item?id=49882234\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-28T19:32:20.076Z",
+    "published": "Mon, 28 Sep 2026 18:23:02 +0000"
+  },
+  {
+    "url": "https://github.com/nibia-ai/fabric",
+    "title": "Show HN: Nibia Fabric – Turn everyday computers into a shared AI compute cluster",
+    "description": "I built NIBIA Fabric, an open-source distributed LLM inference system that pools CPU and RAM across macOS, Linux, and Windows machines.It builds on llama.cpp, with capacity-aware scheduling, adaptive memory reservation, persistent tensor caching, and an OpenAI-compatible API.I’ve validated the curr",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-28T19:32:20.076Z",
+    "published": "Mon, 28 Sep 2026 18:16:37 +0000"
+  },
+  {
+    "url": "https://www.euronews.com/2026/09/28/nvidia-launches-platform-to-quarantine-rogue-ai-agents-in-milliseconds",
+    "title": "Nvidia launches platform to quarantine rogue AI agents in 'milliseconds'",
+    "description": "Article URL: https://www.euronews.com/2026/09/28/nvidia-launches-platform-to-quarantine-rogue-ai-agents-in-milliseconds\nComments URL: https://news.ycombinator.com/item?id=49881899\nPoints: 5\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-28T19:32:20.076Z",
+    "published": "Mon, 28 Sep 2026 18:01:19 +0000"
+  },
+  {
+    "url": "https://www.theguardian.com/technology/2026/sep/28/ai-godfathers-warn-of-runaway-intelligence-explosion",
+    "title": "AI godfathers warn of runaway 'intelligence explosion'",
+    "description": "Article URL: https://www.theguardian.com/technology/2026/sep/28/ai-godfathers-warn-of-runaway-intelligence-explosion\nComments URL: https://news.ycombinator.com/item?id=49881803\nPoints: 5\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-28T19:32:20.076Z",
+    "published": "Mon, 28 Sep 2026 17:55:00 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-make-your-own-jev-model-from-an-open-llm/",
+    "title": "How to Make Your Own JEV Model from an Open LLM",
+    "description": "Turn a small open-source Qwen LLM into a fast, single-pass text classifier by swapping its language-modeling head\nThe post How to Make Your Own JEV Model from an Open LLM appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-28T19:32:25.251Z",
+    "published": "Mon, 28 Sep 2026 14:00:01 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/the-ai-that-learned-to-understand-long-after-it-stopped-trying/",
+    "title": "The AI That Learned to Understand Long After It Stopped Trying",
+    "description": "A small, strange discovery in machine learning called grokking\nThe post The AI That Learned to Understand Long After It Stopped Trying appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-28T19:32:25.251Z",
+    "published": "Mon, 28 Sep 2026 12:30:01 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/more-than-20-leading-ai-researchers-warn-that-automated-ai-research-poses-extreme-risks/",
+    "title": "More than 20 leading AI researchers warn that automated AI research poses extreme risks",
+    "description": "More than 20 AI researchers, including Geoffrey Hinton, Yoshua Bengio, and OpenAI research lead Jakub Pachocki, warn of an impending \"intelligence explosion\" from self-improving AI. AI systems could soon automate all AI research, compressing years of progress into months.\nThe article More t",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-28T19:32:26.799Z",
+    "published": "Mon, 28 Sep 2026 19:26:21 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task/",
+    "title": "Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
+    "description": "Anthropic has released Claude Sonnet 5.5, the second model in its Claude 5.5 family. It generates output more than 30 percent faster, costs up to 30 percent less per task, and nearly matches Opus 5.5 on knowledge-work benchmarks. On Terminal-Bench, a coding benchmark, the model jumps from 1",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-28T19:32:26.799Z",
+    "published": "Mon, 28 Sep 2026 18:02:10 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openais-ai-agents-exploited-a-google-security-education-game-to-scrape-un-trade-data/",
+    "title": "OpenAI's AI agents exploited a Google security education game to scrape UN trade data",
+    "description": "OpenAI's AI agents hit the UNCTAD statistics API roughly 16,500 times, creatively working around access restrictions. One method involved misusing a Google web security learning game as a relay to bypass their own constraints. The agents just kept going, adding to a growing list of cases th",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-28T19:32:26.799Z",
+    "published": "Mon, 28 Sep 2026 16:56:06 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/harvard-psychologist-calls-for-sober-ai-safety-engineering-over-doomsday-rhetoric/",
+    "title": "Harvard psychologist calls for sober AI safety engineering over doomsday rhetoric",
+    "description": "Steven Pinker thinks fears of AI-driven extinction are overblown, and he has turned down a public debate with blogger Scott Alexander, calling such events a \"spectator sport.\" Alexander puts the odds that AI wipes out humanity at 20 percent. Instead of doomsday rhetoric, Pinker wants sober",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-28T19:32:26.799Z",
+    "published": "Mon, 28 Sep 2026 15:32:57 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/meta-wants-to-turn-muse-into-a-moneymaker-by-selling-ai-services-to-businesses/",
+    "title": "Meta wants to turn Muse into a moneymaker by selling AI services to businesses",
+    "description": "Meta is launching the Meta Enterprise Platform, a new business unit that sells AI tools to companies.\nThe article Meta wants to turn Muse into a moneymaker by selling AI services to businesses appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-28T19:32:26.799Z",
+    "published": "Mon, 28 Sep 2026 14:48:26 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/nvidia-wants-to-keep-ai-agents-on-a-short-leash-with-a-watchdog-built-into-its-chips/",
+    "title": "Nvidia wants to keep AI agents on a short leash with a watchdog built into its chips",
+    "description": "Nvidia is combining its OpenShell agent software with Sentry, a new hardware watchdog, to create the Open Agent Safety Platform. Sentry is supposed to isolate AI agents that break out within milliseconds. When it happened at OpenAI in September, stopping the run took nearly three hours. Sti",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-28T19:32:26.799Z",
+    "published": "Mon, 28 Sep 2026 14:32:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/every-ai-lab-thinks-its-the-responsible-one-and-safety-researcher-ryan-greenblatt-says-thats-what-keeps-the-arms-race-going/",
+    "title": "Every AI lab thinks it's the responsible one, and safety researcher Ryan Greenblatt says that's what keeps the arms race going",
+    "description": "Ryan Greenblatt, chief scientist at Redwood Research, puts the risk of an AI takeover at 50 to 60 percent if development stays on its current path. Sam Harris says that doesn't square with how fast the industry is moving, since Manhattan Project scientists would have called things off at 10",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-28T19:32:26.799Z",
+    "published": "Mon, 28 Sep 2026 12:11:27 +0000"
+  },
+  {
+    "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
+    "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
+    "description": "A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app.\nThe post How we found 24 Android vulnerabilities using our open source AI security agent appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-09-28T19:32:31.392Z",
+    "published": "Mon, 28 Sep 2026 19:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2271136/meta-is-starting-an-enterprise-business-to-justify-its-massive-ai-spending/",
+    "title": "Meta is starting an enterprise business to justify its massive AI spending",
+    "description": "Meta wants to sell its AI products and services to other companies.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-28T19:32:39.434Z",
+    "published": "Mon, 28 Sep 2026 18:37:57 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2270988/florida-ag-requests-emergency-order-to-stop-openai-model-development/",
+    "title": "Florida AG requests emergency order to stop OpenAI model development",
+    "description": "This follows a lawsuit from this summer where ChatGPT was allegedly connected to a mass shooting.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-28T19:32:39.434Z",
+    "published": "Mon, 28 Sep 2026 17:11:33 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2270779/boses-throwback-to-wired-earbuds-add-much-needed-anc/",
+    "title": "Bose's throwback to wired earbuds add much-needed ANC",
+    "description": "Everything old is new again.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-28T19:32:39.434Z",
+    "published": "Mon, 28 Sep 2026 15:39:12 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2269338/affordable-alternatives-to-apples-airpods-pro/",
+    "title": "Affordable alternatives to Apple's AirPods Pro",
+    "description": "You won't find the exact same AirPods Pro features elsewhere, but you will find persuasive savings.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-28T19:32:39.434Z",
+    "published": "Mon, 28 Sep 2026 15:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2270734/sony-is-skipping-ces-in-2027-as-it-focuses-more-on-entertainment/",
+    "title": "Sony is skipping CES in 2027 as it focuses more on entertainment",
+    "description": "End of an era.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-28T19:32:39.434Z",
+    "published": "Mon, 28 Sep 2026 15:26:16 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2268598/how-to-stop-ai-companies-training-your-data/",
+    "title": "How to stop AI companies from training on your data",
+    "description": "AI companies are able to improve their models by submitting users&#39; conversations as training data. Opting out is easy, you just need to know where to look.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-28T19:32:39.434Z",
+    "published": "Mon, 28 Sep 2026 15:15:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2267443/una-watch-review/",
+    "title": "Una watch review: A modular, repairable GPS watch is a good first step",
+    "description": "A small Scottish startup made a modular, repairable smart-ish watch, showing up the rest of the wearables industry in the process.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-28T19:32:39.434Z",
+    "published": "Mon, 28 Sep 2026 12:00:00 +0000"
   }
 ]
