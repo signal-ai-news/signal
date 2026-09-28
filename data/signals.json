@@ -66978,5 +66978,96 @@
     "category": "community",
     "discovered": "2026-09-27T23:53:47.127Z",
     "published": "Sun, 27 Sep 2026 21:24:30 +0000"
+  },
+  {
+    "url": "https://huggingface.co/blog/Hcompany/holo4",
+    "title": "Holo4: powering generalist computer-use agents",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-09-28T11:35:59.273Z",
+    "published": "Mon, 28 Sep 2026 09:44:05 GMT",
+    "processed": true,
+    "processedAt": "2026-09-28T11:38:29.902Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+    "title": "Who’s liable when AI agents go rogue?",
+    "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-28T11:36:01.611Z",
+    "published": "Mon, 28 Sep 2026 08:06:22 +0000",
+    "processed": true,
+    "processedAt": "2026-09-28T11:38:29.902Z"
+  },
+  {
+    "url": "https://the-decoder.com/a-wuhan-court-just-made-ai-production-costs-a-legal-factor-in-copyright-infringement-cases/",
+    "title": "A Wuhan court just made AI production costs a legal factor in copyright infringement cases",
+    "description": "A court in Wuhan, China has factored token usage and AI tool licensing fees into a copyright damages calculation for the first time. The ruling is part of China's broader push to build out copyright protections for AI-generated works.\nThe article A Wuhan court just made AI production costs",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-28T11:36:13.037Z",
+    "published": "Mon, 28 Sep 2026 10:39:52 +0000",
+    "processed": true,
+    "processedAt": "2026-09-28T11:38:29.902Z"
+  },
+  {
+    "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+    "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+    "description": "Sam Altman says the company “have not been as fast as we would have liked” at dealing with security breaches, after news of further incidents over the summer forces another temporary halt.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-28T11:36:18.345Z",
+    "published": "Mon, 28 Sep 2026 11:32:19 +0000",
+    "processed": true,
+    "processedAt": "2026-09-28T11:38:29.902Z"
+  },
+  {
+    "url": "https://www.wired.com/story/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
+    "title": "AI Agents Are About to Flood the Workforce. No One’s Ready for It",
+    "description": "Your next coworker might well be an AI agent—and will require a whole new model of workplace interactions.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-28T11:36:18.345Z",
+    "published": "Mon, 28 Sep 2026 10:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-28T11:38:29.902Z"
+  },
+  {
+    "url": "https://www.wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai/",
+    "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
+    "description": "Mathematics has been one of humanity’s most creative endeavors, akin to painting and poetry. Now, mathematicians are trying to save it from the brute force of AI.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-28T11:36:18.345Z",
+    "published": "Mon, 28 Sep 2026 09:30:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills/",
+    "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
+    "description": "A British startup is shaping video game inputs into training data for AI models that can navigate the physical world.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-28T11:36:18.345Z",
+    "published": "Mon, 28 Sep 2026 09:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
+    "title": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System",
+    "description": "In the wake of a series of high-profile AI safety incidents, Nvidia is introducing a new software tool that helps keep agents from escaping containment.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-28T11:36:18.345Z",
+    "published": "Mon, 28 Sep 2026 09:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2270348/the-us-government-plans-to-use-ai-to-help-redact-documents/",
+    "title": "The US government plans to use AI to help redact documents",
+    "description": "AI use for FOIA requests might result in even more information being withheld.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-28T11:36:24.347Z",
+    "published": "Mon, 28 Sep 2026 11:25:54 +0000"
   }
 ]
