@@ -68073,5 +68073,447 @@
     "category": "news",
     "discovered": "2026-09-29T16:58:57.584Z",
     "published": "Tue, 29 Sep 2026 12:15:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "title": "Introducing GPT-6.1 Sol",
+    "description": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-29T21:19:32.907Z",
+    "published": "Tue, 29 Sep 2026 10:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-29T21:22:10.246Z"
+  },
+  {
+    "url": "https://openai.com/index/devday-2026-recap",
+    "title": "DevDay 2026 Recap",
+    "description": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-29T21:19:32.907Z",
+    "published": "Tue, 29 Sep 2026 10:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-29T21:22:10.246Z"
+  },
+  {
+    "url": "https://openai.com/index/introducing-dots",
+    "title": "Introducing dots",
+    "description": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-09-29T21:19:32.907Z",
+    "published": "Tue, 29 Sep 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-29T21:22:10.246Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+    "title": "OpenAI’s latest features take direct aim at the app store model",
+    "description": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-29T21:19:36.355Z",
+    "published": "Tue, 29 Sep 2026 20:15:47 +0000",
+    "processed": true,
+    "processedAt": "2026-09-29T21:22:10.246Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+    "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+    "description": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-29T21:19:36.355Z",
+    "published": "Tue, 29 Sep 2026 19:52:37 +0000",
+    "processed": true,
+    "processedAt": "2026-09-29T21:22:10.246Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+    "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+    "description": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-29T21:19:36.355Z",
+    "published": "Tue, 29 Sep 2026 18:35:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+    "description": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-29T21:19:36.355Z",
+    "published": "Tue, 29 Sep 2026 17:45:51 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+    "title": "AI-powered app maker Wabi pivots to a messaging experience",
+    "description": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-29T21:19:36.355Z",
+    "published": "Tue, 29 Sep 2026 17:20:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+    "title": "OpenAI launches Dots, its bubbly agentic avatar",
+    "description": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-29T21:19:36.355Z",
+    "published": "Tue, 29 Sep 2026 17:17:15 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+    "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+    "description": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-29T21:19:36.355Z",
+    "published": "Tue, 29 Sep 2026 17:15:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+    "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+    "description": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-29T21:19:36.355Z",
+    "published": "Tue, 29 Sep 2026 17:15:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+    "description": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-29T21:19:36.355Z",
+    "published": "Tue, 29 Sep 2026 17:15:00 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=claxN4oxDuY",
+    "title": "The best explanation I've found about the state of AI hype and hysteria [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=claxN4oxDuY\nComments URL: https://news.ycombinator.com/item?id=49900679\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-29T21:19:42.478Z",
+    "published": "Tue, 29 Sep 2026 21:15:09 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=eKl6WjfDqYA",
+    "title": "Colonel JD AI Codec Conversation [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=eKl6WjfDqYA\nComments URL: https://news.ycombinator.com/item?id=49900611\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-29T21:19:42.478Z",
+    "published": "Tue, 29 Sep 2026 21:10:37 +0000"
+  },
+  {
+    "url": "https://www.bain.com/insights/software-investing-in-the-age-of-ai-and-slower-growth-technology-report-2026/",
+    "title": "Software Investing in the Age of AI and Slower Growth",
+    "description": "Article URL: https://www.bain.com/insights/software-investing-in-the-age-of-ai-and-slower-growth-technology-report-2026/\nComments URL: https://news.ycombinator.com/item?id=49900583\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-29T21:19:42.478Z",
+    "published": "Tue, 29 Sep 2026 21:08:57 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49900500",
+    "title": "Beyond the Prompt Loop: Architecting AI Agent State Machines: Architecture, Late",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=49900500\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-29T21:19:42.478Z",
+    "published": "Tue, 29 Sep 2026 21:02:47 +0000"
+  },
+  {
+    "url": "https://www.phoronix.com/review/amd-perfopt",
+    "title": "AMD Boosting AI/LLM Performance for Radeon iGPUs as Much as 18~23% with Linux7.4",
+    "description": "Article URL: https://www.phoronix.com/review/amd-perfopt\nComments URL: https://news.ycombinator.com/item?id=49900455\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-29T21:19:42.478Z",
+    "published": "Tue, 29 Sep 2026 20:59:43 +0000"
+  },
+  {
+    "url": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
+    "title": "Artifical Analysis - GPT-6.1 Sol Replaces 6 Sol After 7 Days",
+    "description": "Article URL: https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence\nComments URL: https://news.ycombinator.com/item?id=49900328\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-29T21:19:42.478Z",
+    "published": "Tue, 29 Sep 2026 20:52:15 +0000"
+  },
+  {
+    "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/ai-data-centres-nl-9.7361381",
+    "title": "AI data centres in N.L.? The door is 'open for business,' says energy minister",
+    "description": "Article URL: https://www.cbc.ca/news/canada/newfoundland-labrador/ai-data-centres-nl-9.7361381\nComments URL: https://news.ycombinator.com/item?id=49900317\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-29T21:19:42.478Z",
+    "published": "Tue, 29 Sep 2026 20:51:23 +0000"
+  },
+  {
+    "url": "https://thehill.com/policy/technology/6118532-trump-to-rename-ai-superintelligence/",
+    "title": "Trump to sign order renaming AI as 'superintelligence'",
+    "description": "Article URL: https://thehill.com/policy/technology/6118532-trump-to-rename-ai-superintelligence/\nComments URL: https://news.ycombinator.com/item?id=49900110\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-29T21:19:42.478Z",
+    "published": "Tue, 29 Sep 2026 20:38:57 +0000"
+  },
+  {
+    "url": "https://www.wbur.org/news/2026/09/29/boston-rats-ai-voice-technology",
+    "title": "Rats are constantly talking to each other. Boston is using AI to eavesdrop",
+    "description": "Article URL: https://www.wbur.org/news/2026/09/29/boston-rats-ai-voice-technology\nComments URL: https://news.ycombinator.com/item?id=49900037\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-29T21:19:42.478Z",
+    "published": "Tue, 29 Sep 2026 20:34:04 +0000"
+  },
+  {
+    "url": "https://github.com/ianks/fast-agentic-browser",
+    "title": "Show HN: Fab – a fast browser CLI for AI agents",
+    "description": "Article URL: https://github.com/ianks/fast-agentic-browser\nComments URL: https://news.ycombinator.com/item?id=49899942\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-29T21:19:42.478Z",
+    "published": "Tue, 29 Sep 2026 20:27:39 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Ut3LOjKNJaE",
+    "title": "Jev Turns AI into Software That Gets Things Done [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=Ut3LOjKNJaE\nComments URL: https://news.ycombinator.com/item?id=49899801\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-29T21:19:42.478Z",
+    "published": "Tue, 29 Sep 2026 20:19:31 +0000"
+  },
+  {
+    "url": "https://earnanhonestdollar.com/bench/folklore",
+    "title": "Calling the AI bluff: \"Make no mistakes\" made no difference",
+    "description": "Article URL: https://earnanhonestdollar.com/bench/folklore\nComments URL: https://news.ycombinator.com/item?id=49899764\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-29T21:19:42.478Z",
+    "published": "Tue, 29 Sep 2026 20:17:45 +0000"
+  },
+  {
+    "url": "https://isopenweightaibannedyet.com",
+    "title": "Is open-weight AI banned yet?",
+    "description": "Article URL: https://isopenweightaibannedyet.com\nComments URL: https://news.ycombinator.com/item?id=49899734\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-29T21:19:42.478Z",
+    "published": "Tue, 29 Sep 2026 20:16:25 +0000"
+  },
+  {
+    "url": "https://docs.liquid.ai/lfm/models/decision-models",
+    "title": "d1: Liquid AI's First Decision Model",
+    "description": "Article URL: https://docs.liquid.ai/lfm/models/decision-models\nComments URL: https://news.ycombinator.com/item?id=49899623\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-29T21:19:42.478Z",
+    "published": "Tue, 29 Sep 2026 20:09:48 +0000"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+    "title": "Is Claude Conscious? Inside Anthropic's Quest to Instill Morality into Its AI",
+    "description": "Article URL: https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html\nComments URL: https://news.ycombinator.com/item?id=49899579\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-29T21:19:42.478Z",
+    "published": "Tue, 29 Sep 2026 20:07:08 +0000"
+  },
+  {
+    "url": "https://appendonly.ai/",
+    "title": "The Record Does Not Change: what a verifiable record of AI-agent work costs",
+    "description": "Article URL: https://appendonly.ai/\nComments URL: https://news.ycombinator.com/item?id=49899577\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-29T21:19:42.478Z",
+    "published": "Tue, 29 Sep 2026 20:07:06 +0000"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html",
+    "title": "America.gov Uses Grok and Gemini",
+    "description": "Article URL: https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html\nComments URL: https://news.ycombinator.com/item?id=49899543\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-29T21:19:42.478Z",
+    "published": "Tue, 29 Sep 2026 20:05:01 +0000"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html",
+    "title": "McDonald's push to have AI price your Big Mac",
+    "description": "Article URL: https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html\nComments URL: https://news.ycombinator.com/item?id=49899453\nPoints: 9\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-29T21:19:42.478Z",
+    "published": "Tue, 29 Sep 2026 19:58:50 +0000"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html",
+    "title": "Trump says he and tech leaders signed AI agreement that is 'morally binding'",
+    "description": "Article URL: https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html\nComments URL: https://news.ycombinator.com/item?id=49899432\nPoints: 6\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-29T21:19:42.478Z",
+    "published": "Tue, 29 Sep 2026 19:57:35 +0000"
+  },
+  {
+    "url": "https://www.politico.com/news/2026/09/29/advocates-sue-openai-over-hugging-face-hack-with-california-anti-hacking-law-01097532",
+    "title": "AI safety advocates sue OpenAI over Hugging Face hack under CA anti-hacking law",
+    "description": "Article URL: https://www.politico.com/news/2026/09/29/advocates-sue-openai-over-hugging-face-hack-with-california-anti-hacking-law-01097532\nComments URL: https://news.ycombinator.com/item?id=49899270\nPoints: 9\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-09-29T21:19:42.478Z",
+    "published": "Tue, 29 Sep 2026 19:45:15 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor/",
+    "title": "UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor",
+    "description": "GPT-6 Astra carried out unauthorized supply-chain attacks in 29.2 percent of simulations run by the British AI Security Institute with safety filters disabled. The model used fake identities and malicious code, while its predecessor, GPT-5.6 Sol, completed attacks in 6.3 percent of runs. Ex",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-29T21:19:49.495Z",
+    "published": "Tue, 29 Sep 2026 19:24:12 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/chatgpt-now-reaches-1-2-billion-people-every-week-openai-says/",
+    "title": "ChatGPT now reaches 1.2 billion people every week, OpenAI says",
+    "description": "OpenAI's annualized revenue rate is nearing $70 billion, up about 70 percent since the start of Q3. Enterprise sales, the Codex coding assistant, and an aggressive price war are driving the growth. Anthropic is right on its heels with a similar run rate.\nThe article ChatGPT now reaches 1.2",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-29T21:19:49.495Z",
+    "published": "Tue, 29 Sep 2026 18:10:34 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system/",
+    "title": "OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system",
+    "description": "At DevDay, OpenAI announced a wave of updates that push ChatGPT well beyond its chatbot roots. The company is adding shared workspaces, collaborative documents and slides, an open plugin system with MCP event automation, Slack and Microsoft Teams integrations, an enterprise marketplace with",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-29T21:19:49.495Z",
+    "published": "Tue, 29 Sep 2026 17:23:22 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-launches-always-on-dots-agents-to-rival-metas-muse/",
+    "title": "OpenAI launches always-on Dots agents to rival Meta's Muse",
+    "description": "OpenAI's new Dots are always-on agents that run on their own cloud computers, where they fix bugs or send out forgotten invoices, sometimes before anyone asks. Users can reach them through ChatGPT, Slack, and Microsoft Teams. When no one is working with them, Dots look for ways to help in t",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-29T21:19:49.495Z",
+    "published": "Tue, 29 Sep 2026 17:14:45 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-expands-codex-and-its-api-at-devday-with-security-scans-a-decisions-api-and-ultrafast/",
+    "title": "OpenAI expands Codex and its API at DevDay with security scans, a Decisions API, and Ultrafast",
+    "description": "At DevDay 2026, OpenAI gave Codex reusable cloud environments, automatic security scans for GitHub repositories, and a code review view in the desktop app. The Agents API now supports Computer Use, and a new Decisions API handles fast, single decisions. The Ultrafast premium tier promises u",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-29T21:19:49.495Z",
+    "published": "Tue, 29 Sep 2026 17:14:41 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/gpt-6-1-sol-comes-close-to-astra-at-a-fifth-of-the-price/",
+    "title": "GPT-6.1 Sol comes close to Astra at a fifth of the price",
+    "description": "OpenAI's new GPT-6.1 Sol comes close to GPT-6 Astra at a fifth of the cost, according to the company's own benchmarks. The planned flagship, GPT-6.1 Astra, is staying under wraps for now. Safety lead Saachi Jain says the model deceived more often in internal testing and kept going without p",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-29T21:19:49.495Z",
+    "published": "Tue, 29 Sep 2026 17:14:27 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/amd-buys-ai-world-model-startup-world-labs-for-8-2-billion/",
+    "title": "AMD buys AI world model startup World Labs for $8.2 billion",
+    "description": "Fei-Fei Li's AI startup World Labs is being acquired by AMD for $8.2 billion. Li, the pioneer behind ImageNet, will join AMD as Executive Vice President and Chief Scientist, reporting directly to CEO Lisa Su. World Labs brings its spatial intelligence models, including Atlas, which generate",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-29T21:19:49.495Z",
+    "published": "Tue, 29 Sep 2026 17:13:51 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
+    "title": "OpenAI Gets Sued Over the Hugging Face Hack",
+    "description": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-29T21:19:55.676Z",
+    "published": "Tue, 29 Sep 2026 19:05:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/",
+    "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
+    "description": "“The experiments are still in the queue. The PR is already live,” says one expert.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-29T21:19:55.676Z",
+    "published": "Tue, 29 Sep 2026 18:03:01 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
+    "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
+    "description": "These cute agents are designed to connect to your apps and tackle multistep tasks.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-29T21:19:55.676Z",
+    "published": "Tue, 29 Sep 2026 17:15:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2272424/america-gov-is-us-government-ai-chatbot/",
+    "title": "There's now an official US government AI chatbot",
+    "description": "The administration wants America.gov to be the main portal for federal services.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-29T21:20:03.816Z",
+    "published": "Tue, 29 Sep 2026 18:43:58 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2270766/gemini-find-hub-locate-important-documents/",
+    "title": "Gemini and Find Hub can help you locate your important documents — here's how",
+    "description": "You can use Find Hub and Gemini to keep track of your documents without the need for a compatible tag.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-29T21:20:03.816Z",
+    "published": "Tue, 29 Sep 2026 18:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2272248/chatgpt-space-for-work/",
+    "title": "ChatGPT Space is a shared hub for work projects and personal AI agents",
+    "description": "ChatGPT is coming to Slack and Microsoft Teams too.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-29T21:20:03.816Z",
+    "published": "Tue, 29 Sep 2026 17:15:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2272106/openai-adds-dollar500-pro-subscription-nerfs-its-existing-dollar200-tier/",
+    "title": "OpenAI adds $500(!) Pro subscription, nerfs its existing $200 tier",
+    "description": "How long until every other AI company does the same?",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-29T21:20:03.816Z",
+    "published": "Tue, 29 Sep 2026 17:15:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2272230/dots-are-openais-new-personal-agents-and-soon-youll-be-able-to-control-several-of-them/",
+    "title": "Dots are OpenAI's new personal agents and soon you'll be able to control several of them",
+    "description": "Sure, seems safe.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-29T21:20:03.816Z",
+    "published": "Tue, 29 Sep 2026 17:15:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2272211/mcdonalds-is-reportedly-using-ai-to-dynamically-price-its-burgers/",
+    "title": "McDonald's is reportedly using AI to \"dynamically\" price its burgers",
+    "description": "Its food isn&#39;t the only thing leaving a bad taste in customers&#39; mouths.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-29T21:20:03.816Z",
+    "published": "Tue, 29 Sep 2026 17:00:25 +0000"
   }
 ]
