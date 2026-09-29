@@ -67919,5 +67919,159 @@
     "category": "news",
     "discovered": "2026-09-29T11:31:11.903Z",
     "published": "Tue, 29 Sep 2026 08:00:00 +0000"
+  },
+  {
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-09-29T16:58:30.560Z",
+    "published": "Tue, 29 Sep 2026 13:07:00 GMT",
+    "processed": true,
+    "processedAt": "2026-09-29T17:01:02.869Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+    "title": "Can a chatbot fix the government maze? The White House is about to find out",
+    "description": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-29T16:58:31.801Z",
+    "published": "Tue, 29 Sep 2026 16:55:56 +0000",
+    "processed": true,
+    "processedAt": "2026-09-29T17:01:02.869Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+    "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+    "description": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-29T16:58:31.801Z",
+    "published": "Tue, 29 Sep 2026 15:12:07 +0000",
+    "processed": true,
+    "processedAt": "2026-09-29T17:01:02.869Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+    "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+    "description": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferences, how you like to spend their time, and with whom.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-29T16:58:31.801Z",
+    "published": "Tue, 29 Sep 2026 13:53:01 +0000",
+    "processed": true,
+    "processedAt": "2026-09-29T17:01:02.869Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+    "title": "Meta is expanding its AI agent Muse to small businesses",
+    "description": "The tech giant says the agent can help owners run their business and find new customers.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-29T16:58:31.801Z",
+    "published": "Tue, 29 Sep 2026 13:47:30 +0000",
+    "processed": true,
+    "processedAt": "2026-09-29T17:01:02.869Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+    "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+    "description": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-29T16:58:31.801Z",
+    "published": "Tue, 29 Sep 2026 12:45:05 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+    "title": "Reco raises $55M as AI agent security startups crowd the market",
+    "description": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-29T16:58:31.801Z",
+    "published": "Tue, 29 Sep 2026 12:30:00 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
+    "title": "The Download: climate tech companies to watch and AI’s discovery problem",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet nearing 1.5 °C of warming, climate policies being unraveled, and Big Tec",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-29T16:58:32.944Z",
+    "published": "Tue, 29 Sep 2026 12:10:00 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/ai-made-data-scientists-faster-now-its-expanding-the-job/",
+    "title": "AI Made Data Scientists Faster. Now It’s Expanding the Job.",
+    "description": "The real shift is bigger than productivity: AI is reshaping ownership, judgment, and the career path of data scientists.\nThe post AI Made Data Scientists Faster. Now It’s Expanding the Job. appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-29T16:58:44.785Z",
+    "published": "Tue, 29 Sep 2026 14:00:01 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-design-architectural-guardrails-around-ai-agents/",
+    "title": "How to Design Architectural Guardrails Around AI Agents",
+    "description": "Agent design patterns every data engineer must know\nThe post How to Design Architectural Guardrails Around AI Agents appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-09-29T16:58:44.785Z",
+    "published": "Tue, 29 Sep 2026 12:30:02 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/florida-wants-a-court-to-stop-chatgpt-from-pretending-to-be-human-and-talking-to-kids/",
+    "title": "Florida wants a court to stop ChatGPT from pretending to be human and talking to kids",
+    "description": "Florida Attorney General James Uthmeier is asking a court to ban OpenAI from giving ChatGPT human-like traits and marketing it to minors. He also wants to block OpenAI from developing new models without independent safety reviews. OpenAI said it has paused training of its most capable model",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-29T16:58:46.486Z",
+    "published": "Tue, 29 Sep 2026 16:31:36 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/elevenlabs-new-v4-speech-model-makes-ai-voices-more-expressive-and-consistent/",
+    "title": "ElevenLabs' new v4 speech model makes AI voices more expressive and consistent",
+    "description": "Elevenlabs' new speech model, Eleven v4, follows cues for laughter and whispering more accurately and keeps voices consistent across long productions like audiobooks. Its Turbo variant starts speaking in 150 milliseconds and is built for real-time voice agents. On Artificial Analysis' Voice",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-29T16:58:46.486Z",
+    "published": "Tue, 29 Sep 2026 14:45:17 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2272053/senate-report-claims-iran-is-using-tethers-stablecoin-to-evade-sanctions/",
+    "title": "Senate report claims Iran is using Tether's stablecoin to evade sanctions",
+    "description": "Cryptocurrency linked to crime; in other news: fork found in drawer.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-29T16:58:57.584Z",
+    "published": "Tue, 29 Sep 2026 15:29:32 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2271985/openai-dev-day-live-blog-chatgpt-news/",
+    "title": "OpenAI Dev Day 2026: Live updates on the latest ChatGPT and Codex announcements",
+    "description": "CEO Sam Altman is expected to take the stage today.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-29T16:58:57.584Z",
+    "published": "Tue, 29 Sep 2026 15:00:10 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2271730/lola-is-bookingcoms-new-ai-travel-agent/",
+    "title": "Lola is Booking.com's new AI travel agent",
+    "description": "A new AI agent can book trips, concert tickets, restaurants and more.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-29T16:58:57.584Z",
+    "published": "Tue, 29 Sep 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2270492/is-google-pixel-8-still-worth-buying/",
+    "title": "Is the Google Pixel 8 still worth buying in 2026?",
+    "description": "Google&#39;s Pixel 8 phone has been around for a few years, so there are plenty of used and refurbished units available.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-29T16:58:57.584Z",
+    "published": "Tue, 29 Sep 2026 12:15:00 +0000"
   }
 ]
