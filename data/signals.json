@@ -68742,5 +68742,96 @@
     "category": "community",
     "discovered": "2026-09-30T06:32:27.315Z",
     "published": "Wed, 30 Sep 2026 00:36:03 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+    "title": "Airbnb adds AI search, more social features",
+    "description": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-30T12:56:25.612Z",
+    "published": "Wed, 30 Sep 2026 12:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-30T12:59:07.426Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+    "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-30T12:56:26.882Z",
+    "published": "Wed, 30 Sep 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-30T12:59:07.426Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+    "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+    "description": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised s",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-09-30T12:56:26.882Z",
+    "published": "Wed, 30 Sep 2026 10:40:30 +0000",
+    "processed": true,
+    "processedAt": "2026-09-30T12:59:07.426Z"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-says-zhipus-open-weight-glm-5-3-nearly-matches-claude-mythos-preview-at-building-exploits/",
+    "title": "Anthropic says Zhipu's open-weight GLM-5.3 nearly matches Claude Mythos Preview at building exploits",
+    "description": "Zhipu's open-weight model GLM-5.3 writes cyber exploits nearly as well as Claude Mythos Preview, according to Anthropic. Its smaller Flash variant put together a reliable Chrome attack for just $20.40 at Zhipu's API prices. The model's safeguards are easy to strip out, and unlocked versions",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-30T12:56:48.955Z",
+    "published": "Wed, 30 Sep 2026 11:05:05 +0000",
+    "processed": true,
+    "processedAt": "2026-09-30T12:59:07.426Z"
+  },
+  {
+    "url": "https://the-decoder.com/google-is-paying-almost-no-publishers-almost-nothing-for-content-used-in-ai-answers/",
+    "title": "Google is paying almost no publishers almost nothing for content used in AI answers",
+    "description": "Google pays about 100 digital publishers for content used in AI Overviews, AI Mode, and Gemini, according to The Information. Payments range from under $1,000 over several months to more than $1 million a year. Some participants don't know how Google calculates payments, while some larger p",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-30T12:56:48.955Z",
+    "published": "Wed, 30 Sep 2026 10:17:15 +0000",
+    "processed": true,
+    "processedAt": "2026-09-30T12:59:07.426Z"
+  },
+  {
+    "url": "https://the-decoder.com/trump-and-tech-ceos-sign-an-ai-code-of-conduct-thats-only-morally-binding/",
+    "title": "Trump and tech CEOs sign an AI code of conduct that's only \"morally binding\"",
+    "description": "President Trump and tech leaders including Mark Zuckerberg, Greg Brockman, Jensen Huang, and Elon Musk signed an AI code of conduct at the White House that is only \"morally binding.\" Outside auditors are supposed to check whether models work as intended. It's unclear what would happen if a",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-30T12:56:48.955Z",
+    "published": "Wed, 30 Sep 2026 09:46:10 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2272794/airbnb-is-adding-a-personalized-map-and-other-discovery-tools/",
+    "title": "Airbnb is adding a personalized map and other discovery tools",
+    "description": "The rental service is getting more social and more AI.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-30T12:57:01.350Z",
+    "published": "Wed, 30 Sep 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2272991/apple-pay-arrives-india/",
+    "title": "Apple Pay finally arrives in India on a limited basis",
+    "description": "Apple Pay is now available in India, but it only supports cards by Axis Bank for now.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-30T12:57:01.350Z",
+    "published": "Wed, 30 Sep 2026 10:30:18 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2272978/the-us-governments-new-ai-chatbot-gives-minecrafts-end-poem-a-bureaucratic-twist/",
+    "title": "The US government's new AI chatbot gives Minecraft's end poem a bureaucratic twist",
+    "description": "The new America.gov chatbot will write you a remixed version of Minecraft&#39;s end poem, then deny ever doing it.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-30T12:57:01.350Z",
+    "published": "Wed, 30 Sep 2026 09:48:35 +0000"
   }
 ]
