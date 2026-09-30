@@ -13360,7 +13360,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-02T15:47:54.595Z",
-    "published": "Sun, 02 Aug 2026 13:52:12 +0000"
+    "published": "Sun, 02 Aug 2026 13:52:12 +0000",
+    "processed": true,
+    "processedAt": "2026-09-30T00:45:20.759Z"
   },
   {
     "url": "https://news.ycombinator.com/item?id=49144673",
@@ -68515,5 +68517,49 @@
     "category": "news",
     "discovered": "2026-09-29T21:20:03.816Z",
     "published": "Tue, 29 Sep 2026 17:00:25 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+    "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+    "description": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-30T00:42:38.674Z",
+    "published": "Tue, 29 Sep 2026 22:20:59 +0000",
+    "processed": true,
+    "processedAt": "2026-09-30T00:45:20.761Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+    "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+    "description": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-30T00:42:38.674Z",
+    "published": "Tue, 29 Sep 2026 19:52:37 +0000",
+    "processed": true,
+    "processedAt": "2026-09-30T00:45:20.761Z"
+  },
+  {
+    "url": "https://www.engadget.com/2271692/ai-industry-want-use-models-legal-battle-law-assistance/",
+    "title": "The AI industry wants models to assist in legal battles, but will they help?",
+    "description": "After lawyers were fined for submitting AI filings packed with fictitious case law, AI companies are releasing new tools to ensure that doesn&#39;t happen again.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-30T00:43:14.889Z",
+    "published": "Tue, 29 Sep 2026 23:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-30T00:45:20.761Z"
+  },
+  {
+    "url": "https://www.engadget.com/2271253/translation-earbuds-how-work-explained/",
+    "title": "How do translation earbuds actually work?",
+    "description": "Translation earbuds are gaining momentum, but actually using them may not be quite the experience you&#39;re expecting.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-09-30T00:43:14.889Z",
+    "published": "Tue, 29 Sep 2026 22:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-09-30T00:45:20.761Z"
   }
 ]
