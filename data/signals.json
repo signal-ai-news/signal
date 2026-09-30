@@ -69050,5 +69050,105 @@
     "category": "news",
     "discovered": "2026-09-30T18:21:28.263Z",
     "published": "Wed, 30 Sep 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+    "description": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-30T22:31:12.801Z",
+    "published": "Wed, 30 Sep 2026 21:07:40 +0000",
+    "processed": true,
+    "processedAt": "2026-09-30T22:33:46.167Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+    "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+    "description": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-30T22:31:12.801Z",
+    "published": "Wed, 30 Sep 2026 19:00:57 +0000",
+    "processed": true,
+    "processedAt": "2026-09-30T22:33:46.167Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+    "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+    "description": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-09-30T22:31:12.801Z",
+    "published": "Wed, 30 Sep 2026 18:23:57 +0000",
+    "processed": true,
+    "processedAt": "2026-09-30T22:33:46.167Z"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+    "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+    "description": "A simple email gives the attackers the ability to remotely inject OS commands.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-09-30T22:31:13.395Z",
+    "published": "Wed, 30 Sep 2026 20:44:48 +0000",
+    "processed": true,
+    "processedAt": "2026-09-30T22:33:46.167Z"
+  },
+  {
+    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "title": "Gemini 4 Argon: our next era of frontier intelligence",
+    "description": "",
+    "source": "DeepMind Blog",
+    "category": "llm",
+    "discovered": "2026-09-30T22:31:20.786Z",
+    "published": "Wed, 30 Sep 2026 20:01:45 +0000",
+    "processed": true,
+    "processedAt": "2026-09-30T22:33:46.167Z"
+  },
+  {
+    "url": "https://the-decoder.com/google-gemini-4-argon-closes-the-gap-with-openai-and-anthropic-but-doesnt-take-a-clear-lead/",
+    "title": "Google Gemini 4 Argon closes the gap with OpenAI and Anthropic but doesn't take a clear lead",
+    "description": "Gemini 4 Argon is Google's first frontier model in over seven months. It matches GPT-6 Astra in independent testing but can't keep up with Anthropic's Claude Opus 5.5. The per-token price is low, but Argon burns through more than twice as many tokens per task as Astra. Select testers get ac",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-30T22:31:26.653Z",
+    "published": "Wed, 30 Sep 2026 22:06:30 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-and-synopsys-team-up-to-build-an-ai-model-that-designs-chips-like-a-seasoned-engineer/",
+    "title": "OpenAI and Synopsys team up to build an AI model that designs chips like a seasoned engineer",
+    "description": "OpenAI and Synopsys are building GPT-Synopsys, a specialized AI model for chip design. It's meant to operate Synopsys' EDA tools like a seasoned engineer and optimize designs on its own. Early tests with semiconductor customers are already underway. OpenAI is likely using the partnership to",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-09-30T22:31:26.653Z",
+    "published": "Wed, 30 Sep 2026 19:12:30 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
+    "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
+    "description": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-30T22:31:32.894Z",
+    "published": "Wed, 30 Sep 2026 20:30:09 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
+    "title": "The Battle to Be Your Personal AI Agent Is Here",
+    "description": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-30T22:31:32.894Z",
+    "published": "Wed, 30 Sep 2026 19:30:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
+    "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
+    "description": "In her new book on biological warfare, Annie Jacobsen didn’t even discuss AI because scientists can already warp Mother Nature to create extinction-level events.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-09-30T22:31:32.894Z",
+    "published": "Wed, 30 Sep 2026 19:00:00 +0000"
   }
 ]
