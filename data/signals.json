@@ -69558,5 +69558,150 @@
     "category": "news",
     "discovered": "2026-10-01T15:20:04.340Z",
     "published": "Thu, 01 Oct 2026 09:26:30 +0000"
+  },
+  {
+    "url": "https://openai.com/index/the-eternal-complement",
+    "title": "The eternal complement",
+    "description": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-01T20:26:38.981Z",
+    "published": "Thu, 01 Oct 2026 17:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-01T20:29:26.740Z"
+  },
+  {
+    "url": "https://openai.com/index/albertsons-reimagining-retail",
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "description": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-01T20:26:38.981Z",
+    "published": "Thu, 01 Oct 2026 16:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-01T20:29:26.740Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+    "title": "ChatGPT can now virtually try on clothes for you",
+    "description": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-01T20:26:42.263Z",
+    "published": "Thu, 01 Oct 2026 19:21:53 +0000",
+    "processed": true,
+    "processedAt": "2026-10-01T20:29:26.740Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+    "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+    "description": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-01T20:26:42.263Z",
+    "published": "Thu, 01 Oct 2026 18:14:42 +0000",
+    "processed": true,
+    "processedAt": "2026-10-01T20:29:26.740Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+    "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+    "description": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-01T20:26:42.263Z",
+    "published": "Thu, 01 Oct 2026 17:50:19 +0000",
+    "processed": true,
+    "processedAt": "2026-10-01T20:29:26.740Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+    "title": "Amazon releases its own Jev clone as decision models flood the web",
+    "description": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-01T20:26:42.263Z",
+    "published": "Thu, 01 Oct 2026 16:49:22 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+    "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+    "description": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-01T20:26:42.263Z",
+    "published": "Thu, 01 Oct 2026 16:44:35 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/nearly-half-of-test-subjects-mistook-tavus-ai-video-avatar-for-a-real-person-on-a-one-minute-call/",
+    "title": "Nearly half of test subjects mistook Tavus' AI video avatar for a real person on a one-minute call",
+    "description": "Tavus has introduced Griffin, what the company calls the first \"Human Interaction Model.\" The AI holds video calls in real time, processing facial expressions, tone of voice, and gestures. In a Tavus study, 48 percent of participants believed Griffin was a real person after a one-minute cal",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-01T20:27:06.982Z",
+    "published": "Thu, 01 Oct 2026 18:03:40 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/ideogram-says-its-new-model-can-edit-part-of-an-image-without-messing-up-the-rest/",
+    "title": "Ideogram says its new model can edit part of an image without messing up the rest",
+    "description": "Ideogram's new model Ideogram 4.5 promises to edit only the areas you want while keeping the rest of the image intact. It ships with native 2K resolution starting at 0.8 cents per image, and partners like Runway, Pika, and Leonardo AI are already on board. An open-weight release is planned.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-01T20:27:06.982Z",
+    "published": "Thu, 01 Oct 2026 17:33:03 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
+    "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
+    "description": "This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US midterms.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-01T20:27:12.914Z",
+    "published": "Thu, 01 Oct 2026 19:58:31 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2275023/judge-dismisses-lawsuits-claiming-googles-ai-overviews-siphon-web-traffic/",
+    "title": "Judge dismisses lawsuits claiming Google's AI Overviews siphon web traffic",
+    "description": "Google may have a monopoly in search, but neither lawsuit made a compelling case the company was leveraging it.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-01T20:27:20.358Z",
+    "published": "Thu, 01 Oct 2026 19:20:32 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2274733/pandora-stream-music-service-raise-prices/",
+    "title": "Pandora claims 'we haven't made this decision lightly' after raising prices",
+    "description": "The SiriusXM service joins a long list of streamers that have increased rates this year.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-01T20:27:20.358Z",
+    "published": "Thu, 01 Oct 2026 17:15:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2274744/sony-brings-ai-upscaling-to-the-base-ps5/",
+    "title": "Sony brings AI upscaling to the base PS5",
+    "description": "Marvel's Wolverine and Ghost of Yōtei are the first games to support Quick Spectral Super Resolution.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-01T20:27:20.358Z",
+    "published": "Thu, 01 Oct 2026 17:00:21 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2274708/samsung-galaxy-tablet-s12-ultra-vs-tab-s11-ultra-differences/",
+    "title": "Samsung Galaxy Tab S12 Ultra vs Galaxy Tab S11 Ultra: The difference one year can make",
+    "description": "An iterative upgrade once again for Samsung&#39;s laptop-sized tablet line.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-01T20:27:20.358Z",
+    "published": "Thu, 01 Oct 2026 17:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2274668/audible-thinks-you-want-to-have-an-ai-generated-conversation-with-draculas-beleaguered-servant/",
+    "title": "Audible thinks you want to have an AI-generated conversation with Dracula's beleaguered servant",
+    "description": "The platform is rolling out &#34;Interactive Stories&#34; starting with Bram Stoker&#39;s classic.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-01T20:27:20.358Z",
+    "published": "Thu, 01 Oct 2026 16:21:54 +0000"
   }
 ]
