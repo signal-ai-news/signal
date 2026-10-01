@@ -69150,5 +69150,204 @@
     "category": "news",
     "discovered": "2026-09-30T22:31:32.894Z",
     "published": "Wed, 30 Sep 2026 19:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+    "description": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-01T01:28:06.154Z",
+    "published": "Wed, 30 Sep 2026 23:43:07 +0000",
+    "processed": true,
+    "processedAt": "2026-10-01T01:30:40.223Z"
+  },
+  {
+    "url": "https://github.com/imlukeshen/clipx",
+    "title": "Clipx – An open-source AI-native creative suite for macOS",
+    "description": "Article URL: https://github.com/imlukeshen/clipx\nComments URL: https://news.ycombinator.com/item?id=49916468\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-01T01:28:16.826Z",
+    "published": "Thu, 01 Oct 2026 01:08:15 +0000",
+    "processed": true,
+    "processedAt": "2026-10-01T01:30:40.223Z"
+  },
+  {
+    "url": "https://www.reuters.com/world/pentagon-creates-autowarcom-expand-ai-drone-capabilities-2026-09-30/",
+    "title": "Pentagon creates 'Autowarcom' to expand AI and drone capabilities",
+    "description": "Article URL: https://www.reuters.com/world/pentagon-creates-autowarcom-expand-ai-drone-capabilities-2026-09-30/\nComments URL: https://news.ycombinator.com/item?id=49916453\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-01T01:28:16.826Z",
+    "published": "Thu, 01 Oct 2026 01:04:44 +0000",
+    "processed": true,
+    "processedAt": "2026-10-01T01:30:40.223Z"
+  },
+  {
+    "url": "https://venturebeat.com/technology/developers-say-openai-and-anthropic-safeguards-are-flagging-routine-work-and-costing-them-time",
+    "title": "AI safeguards are slowing developers down",
+    "description": "Article URL: https://venturebeat.com/technology/developers-say-openai-and-anthropic-safeguards-are-flagging-routine-work-and-costing-them-time\nComments URL: https://news.ycombinator.com/item?id=49916420\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-01T01:28:16.826Z",
+    "published": "Thu, 01 Oct 2026 00:59:54 +0000",
+    "processed": true,
+    "processedAt": "2026-10-01T01:30:40.223Z"
+  },
+  {
+    "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/",
+    "title": "Someone Torturing LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI",
+    "description": "Article URL: https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/\nComments URL: https://news.ycombinator.com/item?id=49916388\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-01T01:28:16.826Z",
+    "published": "Thu, 01 Oct 2026 00:54:40 +0000",
+    "processed": true,
+    "processedAt": "2026-10-01T01:30:40.223Z"
+  },
+  {
+    "url": "https://twitter.com/andonlabs/status/2105391380973617644",
+    "title": "AI Agents tasked with making money commit fraud on the inernet",
+    "description": "Article URL: https://twitter.com/andonlabs/status/2105391380973617644\nComments URL: https://news.ycombinator.com/item?id=49916222\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-01T01:28:16.826Z",
+    "published": "Thu, 01 Oct 2026 00:25:22 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=G9P9D9hptq8",
+    "title": "Tobi Lütke on AI agents at Shopify and the future of work [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=G9P9D9hptq8\nComments URL: https://news.ycombinator.com/item?id=49916205\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-01T01:28:16.826Z",
+    "published": "Thu, 01 Oct 2026 00:24:20 +0000"
+  },
+  {
+    "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+    "title": "Google announces Gemini 4, restricts access to 'trusted cyber defenders'",
+    "description": "Article URL: https://www.theverge.com/tech/1002980/google-gemini-4-argon\nComments URL: https://news.ycombinator.com/item?id=49916068\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-01T01:28:16.826Z",
+    "published": "Thu, 01 Oct 2026 00:07:09 +0000"
+  },
+  {
+    "url": "https://artificialanalysis.ai/articles/gemini-4-argon-google-top-three-labs",
+    "title": "Gemini 4 Argon: Google is back among the top three labs in intelligence achieved",
+    "description": "Article URL: https://artificialanalysis.ai/articles/gemini-4-argon-google-top-three-labs\nComments URL: https://news.ycombinator.com/item?id=49916067\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-01T01:28:16.826Z",
+    "published": "Thu, 01 Oct 2026 00:07:07 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=sTnl8O_BuuE",
+    "title": "Millions of dollars paid to AI providers, where was that money going before?",
+    "description": "Article URL: https://www.youtube.com/watch?v=sTnl8O_BuuE\nComments URL: https://news.ycombinator.com/item?id=49915934\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-01T01:28:16.826Z",
+    "published": "Wed, 30 Sep 2026 23:44:30 +0000"
+  },
+  {
+    "url": "https://www.theatlantic.com/podcasts/2026/08/bill-gates-dangers-ai/688418/",
+    "title": "Bill Gates on the Dangers of AI",
+    "description": "Article URL: https://www.theatlantic.com/podcasts/2026/08/bill-gates-dangers-ai/688418/\nComments URL: https://news.ycombinator.com/item?id=49915688\nPoints: 4\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-01T01:28:16.826Z",
+    "published": "Wed, 30 Sep 2026 23:13:23 +0000"
+  },
+  {
+    "url": "https://medium.com/@vektormemory/vektor-v1-9-8-b023b9b8a654",
+    "title": "LLM library that builds itself, a converter for nearly every file",
+    "description": "Article URL: https://medium.com/@vektormemory/vektor-v1-9-8-b023b9b8a654\nComments URL: https://news.ycombinator.com/item?id=49915644\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-01T01:28:16.826Z",
+    "published": "Wed, 30 Sep 2026 23:07:25 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.36800",
+    "title": "AI as a Compiler: Compiling Triton kernels without the Triton compiler",
+    "description": "Article URL: https://arxiv.org/abs/2609.36800\nComments URL: https://news.ycombinator.com/item?id=49915589\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-01T01:28:16.826Z",
+    "published": "Wed, 30 Sep 2026 23:01:35 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Qjgc9Hs5GKs",
+    "title": "Scott Aaronson interview, on the impact of AI on science and mathematics [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=Qjgc9Hs5GKs\nComments URL: https://news.ycombinator.com/item?id=49915562\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-01T01:28:16.826Z",
+    "published": "Wed, 30 Sep 2026 22:57:25 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
+    "title": "Google figures out how to watermark AI-designed proteins",
+    "description": "Article URL: https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/\nComments URL: https://news.ycombinator.com/item?id=49915429\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-01T01:28:16.826Z",
+    "published": "Wed, 30 Sep 2026 22:42:59 +0000"
+  },
+  {
+    "url": "https://ploum.net/2026-10-01-pascal_wager.html",
+    "title": "The AI Pascal's Wager",
+    "description": "Article URL: https://ploum.net/2026-10-01-pascal_wager.html\nComments URL: https://news.ycombinator.com/item?id=49915338\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-01T01:28:16.826Z",
+    "published": "Wed, 30 Sep 2026 22:33:16 +0000"
+  },
+  {
+    "url": "https://www.growth.engineer",
+    "title": "Growth.engineer – Vetted, open-source growth workflows for AI agents",
+    "description": "Article URL: https://www.growth.engineer\nComments URL: https://news.ycombinator.com/item?id=49915329\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-01T01:28:16.826Z",
+    "published": "Wed, 30 Sep 2026 22:32:54 +0000"
+  },
+  {
+    "url": "https://github.com/djordlucas/nine",
+    "title": "Nine – single binary, WASM tools and persistent AI harness/runtime",
+    "description": "Article URL: https://github.com/djordlucas/nine\nComments URL: https://news.ycombinator.com/item?id=49915263\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-01T01:28:16.826Z",
+    "published": "Wed, 30 Sep 2026 22:26:36 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49915049",
+    "title": "Ask HN: Do you procrastinate less when coding with AI?",
+    "description": "And if so, why?\n\nComments URL: https://news.ycombinator.com/item?id=49915049\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-01T01:28:16.826Z",
+    "published": "Wed, 30 Sep 2026 21:59:27 +0000"
+  },
+  {
+    "url": "https://aiinvitecode.com",
+    "title": "AI invite codes and referral codes, live",
+    "description": "Article URL: https://aiinvitecode.com\nComments URL: https://news.ycombinator.com/item?id=49914971\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-01T01:28:16.826Z",
+    "published": "Wed, 30 Sep 2026 21:52:56 +0000"
+  },
+  {
+    "url": "https://iwrote.co",
+    "title": "Show HN: Certify you wrote it and not AI",
+    "description": "Article URL: https://iwrote.co\nComments URL: https://news.ycombinator.com/item?id=49914770\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-01T01:28:16.826Z",
+    "published": "Wed, 30 Sep 2026 21:33:05 +0000"
   }
 ]
