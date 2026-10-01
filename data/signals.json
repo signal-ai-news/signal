@@ -13371,7 +13371,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-02T15:47:54.595Z",
-    "published": "Sun, 02 Aug 2026 13:47:02 +0000"
+    "published": "Sun, 02 Aug 2026 13:47:02 +0000",
+    "processed": true,
+    "processedAt": "2026-10-01T07:41:53.598Z"
   },
   {
     "url": "https://crestnotch.app/",
@@ -13380,7 +13382,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-02T15:47:54.595Z",
-    "published": "Sun, 02 Aug 2026 13:46:38 +0000"
+    "published": "Sun, 02 Aug 2026 13:46:38 +0000",
+    "processed": true,
+    "processedAt": "2026-10-01T07:41:53.598Z"
   },
   {
     "url": "https://towardsdatascience.com/how-to-apply-coding-agents-to-non-programming-tasks/",
@@ -13389,7 +13393,9 @@
     "source": "Towards Data Science",
     "category": "ml",
     "discovered": "2026-08-02T15:48:00.023Z",
-    "published": "Sun, 02 Aug 2026 15:00:00 +0000"
+    "published": "Sun, 02 Aug 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-01T07:41:53.598Z"
   },
   {
     "url": "https://towardsdatascience.com/i-replaced-a-15-minute-booking-process-with-a-langgraph-ai-agent/",
@@ -69349,5 +69355,27 @@
     "category": "community",
     "discovered": "2026-10-01T01:28:16.826Z",
     "published": "Wed, 30 Sep 2026 21:33:05 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2274224/california-law-bans-companies-from-relying-on-ai-to-fire-workers/",
+    "title": "California's new law bans companies from relying on AI to fire workers",
+    "description": "California enacts new laws aimed at companies using AI to initiate job cuts or monitor employees.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-01T07:39:47.699Z",
+    "published": "Thu, 01 Oct 2026 07:36:44 +0000",
+    "processed": true,
+    "processedAt": "2026-10-01T07:41:53.599Z"
+  },
+  {
+    "url": "https://www.engadget.com/2274184/apple-tv-is-down/",
+    "title": "Apple TV is down",
+    "description": "Several Apple services went down for maintenance on the afternoon of September 30. Only Apple TV remains inaccessible.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-01T07:39:47.699Z",
+    "published": "Thu, 01 Oct 2026 04:22:21 +0000",
+    "processed": true,
+    "processedAt": "2026-10-01T07:41:53.599Z"
   }
 ]
