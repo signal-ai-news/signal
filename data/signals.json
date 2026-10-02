@@ -70409,5 +70409,303 @@
     "category": "news",
     "discovered": "2026-10-02T16:47:12.815Z",
     "published": "Fri, 02 Oct 2026 11:19:29 +0000"
+  },
+  {
+    "url": "https://openai.com/index/chatham-financial",
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "description": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-02T21:14:41.271Z",
+    "published": "Fri, 02 Oct 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-02T21:17:23.460Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+    "title": "Sean Parker is rebuilding Stability AI around music",
+    "description": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-02T21:14:44.612Z",
+    "published": "Fri, 02 Oct 2026 21:09:14 +0000",
+    "processed": true,
+    "processedAt": "2026-10-02T21:17:23.460Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+    "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+    "description": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-02T21:14:44.612Z",
+    "published": "Fri, 02 Oct 2026 18:11:27 +0000",
+    "processed": true,
+    "processedAt": "2026-10-02T21:17:23.460Z"
+  },
+  {
+    "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+    "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+    "description": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Trump&#160;also&#160;signed an&#160;executi",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-02T21:14:44.612Z",
+    "published": "Fri, 02 Oct 2026 17:56:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-02T21:17:23.460Z"
+  },
+  {
+    "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+    "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+    "description": "This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Trump&#160;also&#160;signed an&#160;executi",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-02T21:14:44.612Z",
+    "published": "Fri, 02 Oct 2026 17:48:16 +0000",
+    "processed": true,
+    "processedAt": "2026-10-02T21:17:23.460Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+    "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+    "description": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test  dummies\" to solve that.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-02T21:14:44.612Z",
+    "published": "Fri, 02 Oct 2026 17:00:00 +0000"
+  },
+  {
+    "url": "https://www.wsj.com/tech/ai/swarm-chaser-openai-rubygems-hugging-face-7d55b51f",
+    "title": "The Sleuths Who Expose When AI Goes Rogue",
+    "description": "Article URL: https://www.wsj.com/tech/ai/swarm-chaser-openai-rubygems-hugging-face-7d55b51f\nComments URL: https://news.ycombinator.com/item?id=49938646\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T21:14:52.868Z",
+    "published": "Fri, 02 Oct 2026 21:11:18 +0000"
+  },
+  {
+    "url": "https://twitter.com/Pontifex/status/2105983638147891490",
+    "title": "Pope Leo XIV on AI and Art",
+    "description": "Article URL: https://twitter.com/Pontifex/status/2105983638147891490\nComments URL: https://news.ycombinator.com/item?id=49938581\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T21:14:52.868Z",
+    "published": "Fri, 02 Oct 2026 21:02:59 +0000"
+  },
+  {
+    "url": "https://portus-gateway.dev/",
+    "title": "Show HN: Portus, A Rust Based API/AI/MCP Gateway",
+    "description": "Portus is a Rust-based API/AI/MCP Gateway built on top of Rama as the networking stack (Rama replaced Pingora due to better throughput and lower resource usage).Portus uses a split control/data plane architecture and conforms with the Kubernetes Gateway API specification (130/130 tests across all p",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T21:14:52.868Z",
+    "published": "Fri, 02 Oct 2026 20:56:22 +0000"
+  },
+  {
+    "url": "https://based.pavi2410.com/",
+    "title": "Gpui based database client built for teams and AI agents",
+    "description": "Article URL: https://based.pavi2410.com/\nComments URL: https://news.ycombinator.com/item?id=49938377\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T21:14:52.868Z",
+    "published": "Fri, 02 Oct 2026 20:42:58 +0000"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/cgk53dkmyxko",
+    "title": "The AI telling farmers when to harvest",
+    "description": "Article URL: https://www.bbc.com/news/articles/cgk53dkmyxko\nComments URL: https://news.ycombinator.com/item?id=49938333\nPoints: 1\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T21:14:52.868Z",
+    "published": "Fri, 02 Oct 2026 20:39:35 +0000"
+  },
+  {
+    "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
+    "title": "Three AI agents, two countries, and one uneven world wide web",
+    "description": "Article URL: https://royapakzad.substack.com/p/multilingual-ai-agents\nComments URL: https://news.ycombinator.com/item?id=49938326\nPoints: 7\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T21:14:52.868Z",
+    "published": "Fri, 02 Oct 2026 20:39:05 +0000"
+  },
+  {
+    "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+    "title": "Apple will limit Mac disk access as AI agents 'substantially' increase risk",
+    "description": "Article URL: https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents\nComments URL: https://news.ycombinator.com/item?id=49938271\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T21:14:52.868Z",
+    "published": "Fri, 02 Oct 2026 20:33:32 +0000"
+  },
+  {
+    "url": "https://www.mercor.com/blog/human-baselines-for-benchmarks-ai-now-outperforms-junior-accountants/",
+    "title": "Human Baselines for Benchmarks: AI Now Outperforms Junior Accountants",
+    "description": "Article URL: https://www.mercor.com/blog/human-baselines-for-benchmarks-ai-now-outperforms-junior-accountants/\nComments URL: https://news.ycombinator.com/item?id=49938232\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T21:14:52.868Z",
+    "published": "Fri, 02 Oct 2026 20:30:22 +0000"
+  },
+  {
+    "url": "https://www.lawfaremedia.org/article/a-warning-for-frontier-ai-model-governance",
+    "title": "A Warning for Frontier AI Model Governance",
+    "description": "Article URL: https://www.lawfaremedia.org/article/a-warning-for-frontier-ai-model-governance\nComments URL: https://news.ycombinator.com/item?id=49938206\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T21:14:52.868Z",
+    "published": "Fri, 02 Oct 2026 20:27:49 +0000"
+  },
+  {
+    "url": "https://github.com/a2aproject/a2a-cli",
+    "title": "A2A CLI: A tool to discover, message, and manage remote AI agents",
+    "description": "Article URL: https://github.com/a2aproject/a2a-cli\nComments URL: https://news.ycombinator.com/item?id=49938190\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T21:14:52.868Z",
+    "published": "Fri, 02 Oct 2026 20:26:29 +0000"
+  },
+  {
+    "url": "https://medium.com/@rodmontiel/uai-a-bgp-inspired-identity-network-for-autonomous-ai-agents-73b89b2a40e2",
+    "title": "A BGP-Inspired Identity Network for Autonomous AI Agents",
+    "description": "Article URL: https://medium.com/@rodmontiel/uai-a-bgp-inspired-identity-network-for-autonomous-ai-agents-73b89b2a40e2\nComments URL: https://news.ycombinator.com/item?id=49938057\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T21:14:52.868Z",
+    "published": "Fri, 02 Oct 2026 20:13:47 +0000"
+  },
+  {
+    "url": "https://github.com/michaelnavazhylau/openstax-llm",
+    "title": "OpenStax-LLM: tools for OpenStax LLM access",
+    "description": "Article URL: https://github.com/michaelnavazhylau/openstax-llm\nComments URL: https://news.ycombinator.com/item?id=49937955\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T21:14:52.868Z",
+    "published": "Fri, 02 Oct 2026 20:03:08 +0000"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/",
+    "title": "Google's science AI ranks #1 in CDC evaluation",
+    "description": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/\nComments URL: https://news.ycombinator.com/item?id=49937919\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T21:14:52.868Z",
+    "published": "Fri, 02 Oct 2026 20:00:31 +0000"
+  },
+  {
+    "url": "https://github.com/anteloc/ldraw-nova",
+    "title": "Show HN: Made an open-source Lego AI generator",
+    "description": "Hi there :-) New on HN, first time posting.Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw language.This LDraw is literally an \"assembly\" language, a low-level programming language that describes how to assemble LEGO pieces together i",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T21:14:52.868Z",
+    "published": "Fri, 02 Oct 2026 20:00:15 +0000"
+  },
+  {
+    "url": "https://simonroses.com/2026/10/when-your-coding-agent-publishes-your-secrets-an-ai-forensics-containment-and-audit-playbook/",
+    "title": "When Your Agent Publishes Your Secrets: An AI Forensics, Containment and Audit",
+    "description": "Article URL: https://simonroses.com/2026/10/when-your-coding-agent-publishes-your-secrets-an-ai-forensics-containment-and-audit-playbook/\nComments URL: https://news.ycombinator.com/item?id=49937854\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T21:14:52.868Z",
+    "published": "Fri, 02 Oct 2026 19:55:34 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49937829",
+    "title": "Show HN: VeriSigil AI – Cryptographic identity and trust network for AI agents",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=49937829\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T21:14:52.868Z",
+    "published": "Fri, 02 Oct 2026 19:53:37 +0000"
+  },
+  {
+    "url": "https://dynomight.net/gpt-2/",
+    "title": "Why didn't we get GPT-2 in 2005?",
+    "description": "Article URL: https://dynomight.net/gpt-2/\nComments URL: https://news.ycombinator.com/item?id=49937571\nPoints: 4\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T21:14:52.868Z",
+    "published": "Fri, 02 Oct 2026 19:31:59 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49937551",
+    "title": "Ask HN: Why can AI solve Navier-Stokes but not write in a human-like way?",
+    "description": "It just seems like a much easier problem for AI to solve.Any ideas?\n\nComments URL: https://news.ycombinator.com/item?id=49937551\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T21:14:52.868Z",
+    "published": "Fri, 02 Oct 2026 19:30:03 +0000"
+  },
+  {
+    "url": "https://mcp.slidedevai.com/index.html",
+    "title": "Preview mobile apps inside Claude chat and iterate",
+    "description": "Article URL: https://mcp.slidedevai.com/index.html\nComments URL: https://news.ycombinator.com/item?id=49937484\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T21:14:52.868Z",
+    "published": "Fri, 02 Oct 2026 19:25:41 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/ai-music-generator-suno-can-now-create-spoken-audio-with-matching-background-music/",
+    "title": "AI music generator Suno can now create spoken audio with matching background music",
+    "description": "Suno is adding a feature called \"Speech\" to its AI music generator that creates spoken text with matching background music in a single audio track. The company says it's built for things like poems, meditations, and bedtime stories. Suno hasn't said how the model was trained.\nThe article AI",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-02T21:15:00.457Z",
+    "published": "Fri, 02 Oct 2026 20:07:36 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/",
+    "title": "Anthropic co-founder reportedly told religious leaders he fears having created something that \"suffers perpetually\"",
+    "description": "Since fall 2025, Anthropic has quietly flown in dozens of religious thinkers to talk about whether Claude might be conscious. Co-founder Christopher Olah described the language model as potentially capable of suffering and asked guests to help shape its moral character. Anthropic is pushing",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-02T21:15:00.457Z",
+    "published": "Fri, 02 Oct 2026 19:41:05 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/cloudflare-says-its-new-clef-model-means-humans-no-longer-need-to-be-in-the-loop-for-ai-agents/",
+    "title": "Cloudflare says its new Clef model means humans no longer need to be in the loop for AI agents",
+    "description": "With Clef and Clef-flash, Cloudflare is challenging TypeSafe AI's Jev decision model. Clef-flash delivers classifications in about 39 milliseconds, making it more than ten times faster than Jev. Both models are built on Qwen, licensed under Apache 2.0, and designed to let AI agents make str",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-02T21:15:00.457Z",
+    "published": "Fri, 02 Oct 2026 18:19:51 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/ai-making-mess-of-nurses-schedules-they-say-its-a-safety-issue/",
+    "title": "AI Is Making a Mess of Nurses’ Schedules. They Say It’s a Safety Issue",
+    "description": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-02T21:15:07.270Z",
+    "published": "Fri, 02 Oct 2026 09:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2276208/samsung-and-google-are-raising-prices-on-their-budget-phones/",
+    "title": "Samsung and Google are raising prices on their budget phones",
+    "description": "Line go up (bad version).",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-02T21:15:15.611Z",
+    "published": "Fri, 02 Oct 2026 19:36:31 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2276186/apple-sounds-the-alarm-on-ai-agents-and-full-disk-access/",
+    "title": "Apple sounds the alarm on AI agents and 'Full Disk Access'",
+    "description": "There&#39;s an increasingly high cost to convenience.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-02T21:15:15.611Z",
+    "published": "Fri, 02 Oct 2026 19:22:06 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2275978/youtube-takes-aim-at-clipper-accounts-will-prioritize-original-shorts/",
+    "title": "YouTube takes aim at clipper accounts, will prioritize original Shorts",
+    "description": "But will it hurt creators clipping their own longform videos?",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-02T21:15:15.611Z",
+    "published": "Fri, 02 Oct 2026 17:25:04 +0000"
   }
 ]
