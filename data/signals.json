@@ -13404,7 +13404,9 @@
     "source": "Towards Data Science",
     "category": "ml",
     "discovered": "2026-08-02T15:48:00.023Z",
-    "published": "Sun, 02 Aug 2026 13:00:00 +0000"
+    "published": "Sun, 02 Aug 2026 13:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-02T05:28:49.275Z"
   },
   {
     "url": "https://the-decoder.com/openai-presence-wants-to-make-ai-agents-production-ready-for-businesses/",
@@ -13413,7 +13415,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-08-02T15:48:01.720Z",
-    "published": "Sun, 02 Aug 2026 13:10:21 +0000"
+    "published": "Sun, 02 Aug 2026 13:10:21 +0000",
+    "processed": true,
+    "processedAt": "2026-10-02T05:28:49.275Z"
   },
   {
     "url": "https://the-decoder.com/meta-ai-uses-a-second-ai-agent-as-a-memory-coach-to-keep-long-tasks-on-track/",
@@ -13422,7 +13426,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-08-02T15:48:01.720Z",
-    "published": "Sun, 02 Aug 2026 12:57:38 +0000"
+    "published": "Sun, 02 Aug 2026 12:57:38 +0000",
+    "processed": true,
+    "processedAt": "2026-10-02T05:28:49.275Z"
   },
   {
     "url": "https://the-decoder.com/a-real-macos-flaw-worth-200k-went-unreported-because-apples-bug-bounty-inbox-was-full-of-ai-slop/",
@@ -13431,7 +13437,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-08-02T15:48:01.720Z",
-    "published": "Sun, 02 Aug 2026 12:42:49 +0000"
+    "published": "Sun, 02 Aug 2026 12:42:49 +0000",
+    "processed": true,
+    "processedAt": "2026-10-02T05:28:49.275Z"
   },
   {
     "url": "https://www.engadget.com/2225770/bluetooth-speakers-common-problems-fixes/",
@@ -69947,5 +69955,16 @@
     "category": "news",
     "discovered": "2026-10-02T00:05:30.463Z",
     "published": "Thu, 01 Oct 2026 20:43:15 +0000"
+  },
+  {
+    "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-10-02T05:26:17.087Z",
+    "published": "Fri, 02 Oct 2026 04:01:31 GMT",
+    "processed": true,
+    "processedAt": "2026-10-02T05:28:49.276Z"
   }
 ]
