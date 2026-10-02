@@ -69703,5 +69703,249 @@
     "category": "news",
     "discovered": "2026-10-01T20:27:20.358Z",
     "published": "Thu, 01 Oct 2026 16:21:54 +0000"
+  },
+  {
+    "url": "https://openai.com/index/the-den-family-social",
+    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+    "description": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-02T00:04:59.927Z",
+    "published": "Thu, 01 Oct 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-02T00:07:36.553Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+    "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
+    "description": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-02T00:05:03.419Z",
+    "published": "Thu, 01 Oct 2026 21:08:11 +0000",
+    "processed": true,
+    "processedAt": "2026-10-02T00:07:36.553Z"
+  },
+  {
+    "url": "https://www.anthropic.com/research/your-thoughts-on-ai",
+    "title": "What do you want from AI",
+    "description": "Article URL: https://www.anthropic.com/research/your-thoughts-on-ai\nComments URL: https://news.ycombinator.com/item?id=49928376\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T00:05:09.321Z",
+    "published": "Thu, 01 Oct 2026 23:55:12 +0000",
+    "processed": true,
+    "processedAt": "2026-10-02T00:07:36.553Z"
+  },
+  {
+    "url": "https://usenoodle.app/",
+    "title": "Noodle AI Bots Mac App",
+    "description": "Article URL: https://usenoodle.app/\nComments URL: https://news.ycombinator.com/item?id=49928236\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T00:05:09.321Z",
+    "published": "Thu, 01 Oct 2026 23:30:32 +0000",
+    "processed": true,
+    "processedAt": "2026-10-02T00:07:36.553Z"
+  },
+  {
+    "url": "https://github.com/DragonMinded/libdragon/issues/1012",
+    "title": "LibDragon (N64): Explicit Anti-AI Contributor Stance (GitHub Issue)",
+    "description": "Article URL: https://github.com/DragonMinded/libdragon/issues/1012\nComments URL: https://news.ycombinator.com/item?id=49928126\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T00:05:09.321Z",
+    "published": "Thu, 01 Oct 2026 23:11:41 +0000",
+    "processed": true,
+    "processedAt": "2026-10-02T00:07:36.553Z"
+  },
+  {
+    "url": "https://github.com/munvard/dockterm",
+    "title": "DockTerm: A notch mascot that tells you when Claude Code needs you",
+    "description": "Article URL: https://github.com/munvard/dockterm\nComments URL: https://news.ycombinator.com/item?id=49928096\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T00:05:09.321Z",
+    "published": "Thu, 01 Oct 2026 23:06:30 +0000"
+  },
+  {
+    "url": "https://www.anthropic.com/research/claude-shaped-science",
+    "title": "Claude-Shaped Science",
+    "description": "Article URL: https://www.anthropic.com/research/claude-shaped-science\nComments URL: https://news.ycombinator.com/item?id=49927980\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T00:05:09.321Z",
+    "published": "Thu, 01 Oct 2026 22:51:16 +0000"
+  },
+  {
+    "url": "https://www.texastribune.org/2026/10/01/alpha-school-ai-texas-public-schools-mike-morath/",
+    "title": "Texas Piloted AI Learning Tool in Public Schools over Education Board's Concerns",
+    "description": "Article URL: https://www.texastribune.org/2026/10/01/alpha-school-ai-texas-public-schools-mike-morath/\nComments URL: https://news.ycombinator.com/item?id=49927864\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T00:05:09.321Z",
+    "published": "Thu, 01 Oct 2026 22:35:16 +0000"
+  },
+  {
+    "url": "https://mastodon.social/@sindresorhus/117366971361209611",
+    "title": "Due to AI, I have disabled external pull requests on all my repos",
+    "description": "Article URL: https://mastodon.social/@sindresorhus/117366971361209611\nComments URL: https://news.ycombinator.com/item?id=49927780\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T00:05:09.321Z",
+    "published": "Thu, 01 Oct 2026 22:25:46 +0000"
+  },
+  {
+    "url": "https://neow.in/NGxhb3d6",
+    "title": "Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it",
+    "description": "Article URL: https://neow.in/NGxhb3d6\nComments URL: https://news.ycombinator.com/item?id=49927693\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T00:05:09.321Z",
+    "published": "Thu, 01 Oct 2026 22:15:57 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=IIN8JxqEJn4",
+    "title": "Jay Cummings – I Worked with AI to Revise an AI Proof (and had so much fun)",
+    "description": "Article URL: https://www.youtube.com/watch?v=IIN8JxqEJn4\nComments URL: https://news.ycombinator.com/item?id=49927680\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T00:05:09.321Z",
+    "published": "Thu, 01 Oct 2026 22:14:43 +0000"
+  },
+  {
+    "url": "https://github.com/bn-l/claude-autoresearch-mod",
+    "title": "Pi-autoresearch ported to Claude Code 1:1 using the new mods API",
+    "description": "Article URL: https://github.com/bn-l/claude-autoresearch-mod\nComments URL: https://news.ycombinator.com/item?id=49927599\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T00:05:09.321Z",
+    "published": "Thu, 01 Oct 2026 22:03:50 +0000"
+  },
+  {
+    "url": "https://aweb.ai",
+    "title": "Aweb – Communication for AI Agents",
+    "description": "Article URL: https://aweb.ai\nComments URL: https://news.ycombinator.com/item?id=49927587\nPoints: 11\n# Comments: 5",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T00:05:09.321Z",
+    "published": "Thu, 01 Oct 2026 22:02:31 +0000"
+  },
+  {
+    "url": "https://github.com/samuelrojas-dev/agent-cost-bench",
+    "title": "Scan your LLM agent's tools for cost-amplification bugs (no API key)",
+    "description": "Article URL: https://github.com/samuelrojas-dev/agent-cost-bench\nComments URL: https://news.ycombinator.com/item?id=49927585\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T00:05:09.321Z",
+    "published": "Thu, 01 Oct 2026 22:02:21 +0000"
+  },
+  {
+    "url": "https://www.aidriven.dev/p/its-not-ai-slop-you-are-just-biased",
+    "title": "It's Not AI Slop, You Are Just Biased",
+    "description": "Article URL: https://www.aidriven.dev/p/its-not-ai-slop-you-are-just-biased\nComments URL: https://news.ycombinator.com/item?id=49927570\nPoints: 4\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T00:05:09.321Z",
+    "published": "Thu, 01 Oct 2026 22:00:32 +0000"
+  },
+  {
+    "url": "https://www.niemanlab.org/2026/09/two-years-ago-meta-killed-crowdtangle-can-a-new-ai-tool-fill-the-void/",
+    "title": "Two years ago, Meta killed CrowdTangle. Can a new AI tool fill the void?",
+    "description": "Article URL: https://www.niemanlab.org/2026/09/two-years-ago-meta-killed-crowdtangle-can-a-new-ai-tool-fill-the-void/\nComments URL: https://news.ycombinator.com/item?id=49927527\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T00:05:09.321Z",
+    "published": "Thu, 01 Oct 2026 21:55:42 +0000"
+  },
+  {
+    "url": "https://github.com/lzprograma/H-HPU",
+    "title": "H-HPU: Hexagonal NoC and Closed-Loop Control for Relational AI",
+    "description": "Article URL: https://github.com/lzprograma/H-HPU\nComments URL: https://news.ycombinator.com/item?id=49927472\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T00:05:09.321Z",
+    "published": "Thu, 01 Oct 2026 21:50:07 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.28870",
+    "title": "When Fancy Eviction Fails: Rethinking Cache Replacement for LLM Prefix Reuse",
+    "description": "Article URL: https://arxiv.org/abs/2609.28870\nComments URL: https://news.ycombinator.com/item?id=49927418\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T00:05:09.321Z",
+    "published": "Thu, 01 Oct 2026 21:44:44 +0000"
+  },
+  {
+    "url": "https://github.com/crafting-dev/express",
+    "title": "Crafting Express – isolated local environments for AI coding agents",
+    "description": "Article URL: https://github.com/crafting-dev/express\nComments URL: https://news.ycombinator.com/item?id=49927273\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T00:05:09.321Z",
+    "published": "Thu, 01 Oct 2026 21:27:36 +0000"
+  },
+  {
+    "url": "https://amoffat.github.io/blog/cognitive-load.html",
+    "title": "Reducing the cognitive load of AI changes",
+    "description": "Article URL: https://amoffat.github.io/blog/cognitive-load.html\nComments URL: https://news.ycombinator.com/item?id=49927109\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T00:05:09.321Z",
+    "published": "Thu, 01 Oct 2026 21:08:26 +0000"
+  },
+  {
+    "url": "https://claude.dev/",
+    "title": "Claude.dev Blog / technical writing for people building with Claude",
+    "description": "Article URL: https://claude.dev/\nComments URL: https://news.ycombinator.com/item?id=49926989\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T00:05:09.321Z",
+    "published": "Thu, 01 Oct 2026 20:55:45 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
+    "title": "Whatever AI Safety Is, It’s Not This",
+    "description": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-02T00:05:23.153Z",
+    "published": "Thu, 01 Oct 2026 22:10:42 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2275295/chatgpt-can-now-help-you-virtually-try-on-clothes/",
+    "title": "ChatGPT can now help you virtually try on clothes",
+    "description": "Images are generated with OpenAI&#39;s latest model and you can save clothes you like for later.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-02T00:05:30.463Z",
+    "published": "Thu, 01 Oct 2026 22:27:39 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2275278/openai-fires-three-employees-who-allegedly-shared-info-with-an-external-ai-safety-group/",
+    "title": "OpenAI fires three employees who allegedly shared info with an external AI safety group",
+    "description": "You can't make this stuff up.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-02T00:05:30.463Z",
+    "published": "Thu, 01 Oct 2026 22:05:43 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2275187/samsung-launches-its-first-clip-on-earbuds-in-south-korea/",
+    "title": "Samsung launches its first clip-on earbuds in South Korea",
+    "description": "A global rollout will follow, although we don't yet know the details.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-02T00:05:30.463Z",
+    "published": "Thu, 01 Oct 2026 20:57:39 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2275167/police-may-have-new-ways-to-access-data-on-locked-iphones/",
+    "title": "Police may have new ways to access data on locked iPhones",
+    "description": "A training video reportedly demonstrates how police can evade an Apple security feature.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-02T00:05:30.463Z",
+    "published": "Thu, 01 Oct 2026 20:43:15 +0000"
   }
 ]
