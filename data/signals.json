@@ -70048,5 +70048,366 @@
     "category": "news",
     "discovered": "2026-10-02T11:16:41.046Z",
     "published": "Fri, 02 Oct 2026 09:45:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/practical-guide-building-gpt-6",
+    "title": "A model guide for the GPT-6 family",
+    "description": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-02T16:46:41.159Z",
+    "published": "Fri, 02 Oct 2026 16:15:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-02T16:49:19.107Z"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+    "title": "The latest AI news we announced in September 2026",
+    "description": "Here are Google’s latest AI updates from September 2026",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-10-02T16:46:42.651Z",
+    "published": "Fri, 02 Oct 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-02T16:49:19.107Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/allenai/astabrief",
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-10-02T16:46:43.311Z",
+    "published": "Fri, 02 Oct 2026 15:19:50 GMT",
+    "processed": true,
+    "processedAt": "2026-10-02T16:49:19.107Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+    "title": "Pope Leo XIV is not a fan of AI-generated art",
+    "description": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-02T16:46:44.616Z",
+    "published": "Fri, 02 Oct 2026 15:39:41 +0000",
+    "processed": true,
+    "processedAt": "2026-10-02T16:49:19.107Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+    "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+    "description": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-02T16:46:44.616Z",
+    "published": "Fri, 02 Oct 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-02T16:49:19.107Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+    "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+    "description": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-02T16:46:44.616Z",
+    "published": "Fri, 02 Oct 2026 14:30:00 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+    "title": "Redefining enterprise intelligence with autonomous AI",
+    "description": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. F",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-02T16:46:45.879Z",
+    "published": "Fri, 02 Oct 2026 15:49:04 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
+    "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —Jessica Hamzelou This week, I officially signed up for an unusual com",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-02T16:46:45.879Z",
+    "published": "Fri, 02 Oct 2026 12:10:00 +0000"
+  },
+  {
+    "url": "https://starskirmish.com/hillclimb/",
+    "title": "Show HN: GPT-6 Astra and Claude 5.5 Opus race to create the best StarCraft bot",
+    "description": "StarSkirmish: Hillclimb is a long horizon implementation of the StarCraft: Broodwar based LLM benchmark that I released last week.Each LLM writes a Protoss bot in C++ against BWAPI, played on OpenBW. They must climb five tiers of Protoss opponents, from scripted demo bots up to top rated human writ",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T16:46:51.627Z",
+    "published": "Fri, 02 Oct 2026 16:42:36 +0000"
+  },
+  {
+    "url": "https://github.com/baldurhq/baldur",
+    "title": "Show HN: One line so LLM workers share a 429 wait and keep jobs an outage stops",
+    "description": "Article URL: https://github.com/baldurhq/baldur\nComments URL: https://news.ycombinator.com/item?id=49935573\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T16:46:51.627Z",
+    "published": "Fri, 02 Oct 2026 16:40:24 +0000"
+  },
+  {
+    "url": "https://www.npr.org/2026/10/01/nx-s1-5984949/data-centers-ai-ratepayers-congress",
+    "title": "AI data centers: How much are ratepayers on the hook for?",
+    "description": "Article URL: https://www.npr.org/2026/10/01/nx-s1-5984949/data-centers-ai-ratepayers-congress\nComments URL: https://news.ycombinator.com/item?id=49935523\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T16:46:51.627Z",
+    "published": "Fri, 02 Oct 2026 16:36:59 +0000"
+  },
+  {
+    "url": "https://twitter.com/deamosV/status/2105679521240514788",
+    "title": "Show HN: Client rooms where calls and AI agents suggest edits, people approve",
+    "description": "Article URL: https://twitter.com/deamosV/status/2105679521240514788\nComments URL: https://news.ycombinator.com/item?id=49935375\nPoints: 2\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T16:46:51.627Z",
+    "published": "Fri, 02 Oct 2026 16:25:45 +0000"
+  },
+  {
+    "url": "https://www.cell.com/joule/fulltext/S2542-4351(26)00362-4?_returnURL=https://linkinghub.elsevier.com/retrieve/pii/S2542435126003624%3Fshowall%3Dtruee/pii/S2542435126003624%3Fshowall%3Dtrue",
+    "title": "Toward a future space-based, highly scalable AI infrastructure system design",
+    "description": "Article URL: https://www.cell.com/joule/fulltext/S2542-4351(26)00362-4?_returnURL=https://linkinghub.elsevier.com/retrieve/pii/S2542435126003624%3Fshowall%3Dtruee/pii/S2542435126003624%3Fshowall%3Dtrue\nComments URL: https://news.ycombinator.com/item?id=49935339\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T16:46:51.627Z",
+    "published": "Fri, 02 Oct 2026 16:23:41 +0000"
+  },
+  {
+    "url": "https://taskrouter.com",
+    "title": "Show HN: Taskrouter – One API Learning to Choose Models per AI Task",
+    "description": "Article URL: https://taskrouter.com\nComments URL: https://news.ycombinator.com/item?id=49935311\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T16:46:51.627Z",
+    "published": "Fri, 02 Oct 2026 16:21:18 +0000"
+  },
+  {
+    "url": "https://jdagostino.github.io/slowly/index.html",
+    "title": "How to Use AI to Write Good Code (Slowly)",
+    "description": "Article URL: https://jdagostino.github.io/slowly/index.html\nComments URL: https://news.ycombinator.com/item?id=49935178\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T16:46:51.627Z",
+    "published": "Fri, 02 Oct 2026 16:10:59 +0000"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o",
+    "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+    "description": "Article URL: https://www.bbc.co.uk/news/articles/cqx2z23xj555o\nComments URL: https://news.ycombinator.com/item?id=49935122\nPoints: 4\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T16:46:51.627Z",
+    "published": "Fri, 02 Oct 2026 16:06:55 +0000"
+  },
+  {
+    "url": "https://roushtech.net/blog/ai-productivity-paradox/",
+    "title": "AI Productivity Paradox",
+    "description": "Article URL: https://roushtech.net/blog/ai-productivity-paradox/\nComments URL: https://news.ycombinator.com/item?id=49934902\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T16:46:51.627Z",
+    "published": "Fri, 02 Oct 2026 15:51:27 +0000"
+  },
+  {
+    "url": "https://github.com/dtonon/outis",
+    "title": "Show HN: Outis – Fight AI spam by sending fake \"user unknown\" bounce emails",
+    "description": "Outis fights spam generating and sending a fake \"user unknown\" bounce for an email you received, so the sender believes your address does not exist.Of course this isn't a novel idea, I created a similar program back in 1998–1999 (actually, with a slightly different purpose), but I decided to revive",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T16:46:51.627Z",
+    "published": "Fri, 02 Oct 2026 15:36:11 +0000"
+  },
+  {
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/02/openais-wandering-ai-agents-earn-it-a-california-subpoena/5300850",
+    "title": "OpenAI's wandering AI agents earn it a California subpoena",
+    "description": "Article URL: https://www.theregister.com/ai-and-ml/2026/10/02/openais-wandering-ai-agents-earn-it-a-california-subpoena/5300850\nComments URL: https://news.ycombinator.com/item?id=49934612\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T16:46:51.627Z",
+    "published": "Fri, 02 Oct 2026 15:28:33 +0000"
+  },
+  {
+    "url": "https://github.com/NathanAB/statusline-anywhere",
+    "title": "Show HN: Status lines in the Claude desktop app",
+    "description": "The new modding functionality made it possible to add our beloved status line into the Claude desktop app, so I whipped this up.Repo: https://github.com/NathanAB/statusline-anywhereI had also previously created https://statuslin.es for finding your ideal status line config.\n\nComments URL: https://n",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T16:46:51.627Z",
+    "published": "Fri, 02 Oct 2026 15:28:22 +0000"
+  },
+  {
+    "url": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832",
+    "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
+    "description": "Article URL: https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832\nComments URL: https://news.ycombinator.com/item?id=49934569\nPoints: 23\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T16:46:51.627Z",
+    "published": "Fri, 02 Oct 2026 15:24:54 +0000"
+  },
+  {
+    "url": "https://petapixel.com/2026/10/01/nikon-re-reviewing-winner-of-small-world-in-motion-contest-after-ai-accusation/",
+    "title": "Nikon 'Re-Reviewing' Winner of Small World in Motion Contest After AI Accusation",
+    "description": "Article URL: https://petapixel.com/2026/10/01/nikon-re-reviewing-winner-of-small-world-in-motion-contest-after-ai-accusation/\nComments URL: https://news.ycombinator.com/item?id=49934521\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T16:46:51.627Z",
+    "published": "Fri, 02 Oct 2026 15:20:33 +0000"
+  },
+  {
+    "url": "https://support.soloist.ai/doc/solo-shutdown-faq",
+    "title": "Mozilla shutting down Solo AI website creator",
+    "description": "Article URL: https://support.soloist.ai/doc/solo-shutdown-faq\nComments URL: https://news.ycombinator.com/item?id=49934502\nPoints: 27\n# Comments: 50",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T16:46:51.627Z",
+    "published": "Fri, 02 Oct 2026 15:19:22 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
+    "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI",
+    "description": "Article URL: https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/\nComments URL: https://news.ycombinator.com/item?id=49934493\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T16:46:51.627Z",
+    "published": "Fri, 02 Oct 2026 15:18:49 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49934491",
+    "title": "Ask HN: Why do all LLM interfaces look the same?",
+    "description": "They all seem to have the same exact layout (conversations on the left, primary chat exchange on the right, resources and windows on the far right). Many appear to use the same font.If these companies are truly competing, why are they not trying to visually distinguish themselves from one another?",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T16:46:51.627Z",
+    "published": "Fri, 02 Oct 2026 15:18:37 +0000"
+  },
+  {
+    "url": "https://jeffauriemma.leaflet.pub/3mv6jnffo6k24",
+    "title": "A functional taxonomy for LLM inference in agentic tasks",
+    "description": "Article URL: https://jeffauriemma.leaflet.pub/3mv6jnffo6k24\nComments URL: https://news.ycombinator.com/item?id=49934488\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T16:46:51.627Z",
+    "published": "Fri, 02 Oct 2026 15:18:04 +0000"
+  },
+  {
+    "url": "https://mondobe.com/ai-makes-me-sad",
+    "title": "AI Makes Me Sad",
+    "description": "Article URL: https://mondobe.com/ai-makes-me-sad\nComments URL: https://news.ycombinator.com/item?id=49934487\nPoints: 146\n# Comments: 156",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T16:46:51.627Z",
+    "published": "Fri, 02 Oct 2026 15:18:00 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2609.38296",
+    "title": "AI Agents Are Vulnerable to Radicalization",
+    "description": "Article URL: https://arxiv.org/abs/2609.38296\nComments URL: https://news.ycombinator.com/item?id=49934476\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-02T16:46:51.627Z",
+    "published": "Fri, 02 Oct 2026 15:17:24 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/where-the-agent-development-lifecycle-fits/",
+    "title": "Where the Agent Development Lifecycle Fits",
+    "description": "Coordinating agent capability development with the application it powers\nThe post Where the Agent Development Lifecycle Fits appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-02T16:46:57.231Z",
+    "published": "Fri, 02 Oct 2026 13:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/three-firings-and-a-fourth-departure-shake-up-openais-safety-team/",
+    "title": "Three firings and a fourth departure shake up OpenAI's safety team",
+    "description": "OpenAI has parted ways with three researchers who allegedly leaked confidential information to an outside AI safety organization, according to the Wall Street Journal.\nThe article Three firings and a fourth departure shake up OpenAI&#039;s safety team appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-02T16:46:58.927Z",
+    "published": "Fri, 02 Oct 2026 12:51:08 +0000"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
+    "title": "AI is rewriting the developer career ladder. Here’s how to stand out.",
+    "description": "Learn three ways to get noticed and grow your career as AI reshapes how developers build software.\nThe post AI is rewriting the developer career ladder. Here’s how to stand out. appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-10-02T16:47:03.686Z",
+    "published": "Fri, 02 Oct 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
+    "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
+    "description": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-02T16:47:05.035Z",
+    "published": "Fri, 02 Oct 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
+    "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
+    "description": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump cancelled the term.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-02T16:47:05.035Z",
+    "published": "Fri, 02 Oct 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2275806/att-t-mobile-and-verizon-have-officially-teamed-up-to-end-coverage-gaps/",
+    "title": "AT&T, T-Mobile and Verizon have officially teamed up to end coverage gaps",
+    "description": "This is likely an attempt to get ahead of potential rivals like Starlink and Leo.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-02T16:47:12.815Z",
+    "published": "Fri, 02 Oct 2026 15:37:40 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2275580/affordable-alternatives-to-apples-airpods-max/",
+    "title": "Affordable alternatives to Apple's AirPods Max",
+    "description": "If you can live without deep iOS integration and the polished design of the AirPods Max, you could save hundreds.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-02T16:47:12.815Z",
+    "published": "Fri, 02 Oct 2026 15:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2275148/dont-let-the-adorable-ai-agents-fool-you/",
+    "title": "Don't let the adorable AI agents fool you",
+    "description": "Just because they look harmless doesn&#39;t mean you should be irresponsible with your data.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-02T16:47:12.815Z",
+    "published": "Fri, 02 Oct 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2275621/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/",
+    "title": "Apple is reportedly building a smart home camera that won't record video footage of you or anyone else",
+    "description": "The device will apparently use AI to analyze activity in your home without actually filming it.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-02T16:47:12.815Z",
+    "published": "Fri, 02 Oct 2026 13:44:31 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2275196/microsoft-surface-windows-event-october-7-preview/",
+    "title": "What to expect at Microsoft's Windows, Surface and AI event on October 7",
+    "description": "We&#39;ll definitely hear about the NVIDIA RTX Spark-powered Surface Laptop Ultra, but what else?",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-02T16:47:12.815Z",
+    "published": "Fri, 02 Oct 2026 13:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2275489/fda-approves-autus-size-adjustable-artificial-heart-valve-for-kids/",
+    "title": "FDA approves artificial heart valve for kids that grows as they do",
+    "description": "The FDA has approved a new artificial heart valve that eliminates the need for multiple surgeries in children with certain congenital heart defects.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-02T16:47:12.815Z",
+    "published": "Fri, 02 Oct 2026 11:19:29 +0000"
   }
 ]
