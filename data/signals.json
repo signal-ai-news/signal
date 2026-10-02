@@ -69966,5 +69966,87 @@
     "published": "Fri, 02 Oct 2026 04:01:31 GMT",
     "processed": true,
     "processedAt": "2026-10-02T05:28:49.276Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
+    "title": "A new contest pits competitors against each other in a race to biological youth",
+    "description": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age only tick forward. But this game is focused on competitors’ biological ages—figures that are meant",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-02T11:16:24.566Z",
+    "published": "Fri, 02 Oct 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-02T11:18:53.977Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+    "title": "Don’t be fooled—LLMs don’t reason",
+    "description": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-02T11:16:24.566Z",
+    "published": "Fri, 02 Oct 2026 08:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-02T11:18:53.977Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-build-a-control-plane-for-ai-agents/",
+    "title": "How to Build a Control Plane for AI Agents",
+    "description": "Giving an LLM permission to act, in 9 steps\nThe post How to Build a Control Plane for AI Agents appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-02T11:16:34.077Z",
+    "published": "Fri, 02 Oct 2026 11:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-02T11:18:53.977Z"
+  },
+  {
+    "url": "https://the-decoder.com/ai-beats-licensed-accountants-on-speed-and-accuracy-but-still-cant-close-the-books-without-supervision/",
+    "title": "AI beats licensed accountants on speed and accuracy, but still can't close the books without supervision",
+    "description": "According to a Mercor study, current AI models now outperform licensed CPAs on structured accounting tasks in both speed and accuracy. Eighteen months ago, they still lagged far behind. On the more demanding APEX Benchmark, though, no model fully completes all the tasks. Without human overs",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-02T11:16:35.827Z",
+    "published": "Fri, 02 Oct 2026 11:15:24 +0000",
+    "processed": true,
+    "processedAt": "2026-10-02T11:18:53.977Z"
+  },
+  {
+    "url": "https://the-decoder.com/microsoft-ai-releases-new-transcription-and-text-to-speech-models-for-voice-agents/",
+    "title": "Microsoft AI releases new transcription and text-to-speech models for voice agents",
+    "description": "Microsoft AI has released MAI-Transcribe-2-Streaming, a new model for real-time transcription.\nThe article Microsoft AI releases new transcription and text-to-speech models for voice agents appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-02T11:16:35.827Z",
+    "published": "Fri, 02 Oct 2026 09:20:39 +0000",
+    "processed": true,
+    "processedAt": "2026-10-02T11:18:53.977Z"
+  },
+  {
+    "url": "https://the-decoder.com/businesses-are-using-more-ai-and-paying-less-for-it-ramp-ai-index-shows/",
+    "title": "Businesses are using more AI and paying less for it, Ramp AI Index shows",
+    "description": "US companies are spending less on AI, according to the latest Ramp AI Index from Ramp economist Ara Kharazian.\nThe article Businesses are using more AI and paying less for it, Ramp AI Index shows appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-02T11:16:35.827Z",
+    "published": "Fri, 02 Oct 2026 09:09:21 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/",
+    "title": "Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone",
+    "description": "Black Forest Labs has released Flux 3 Image, the image side of its Flux 3 model family. It supports multi-step edits without changing other parts of the image, lets users compose scenes with bounding boxes and up to ten reference images, and outputs up to 4K. Open weights are coming in the",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-02T11:16:35.827Z",
+    "published": "Fri, 02 Oct 2026 07:44:44 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+    "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+    "description": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-02T11:16:41.046Z",
+    "published": "Fri, 02 Oct 2026 09:45:00 +0000"
   }
 ]
