@@ -70907,5 +70907,60 @@
     "published": "Sat, 03 Oct 2026 02:10:16 +0000",
     "processed": true,
     "processedAt": "2026-10-03T06:20:29.478Z"
+  },
+  {
+    "url": "https://the-decoder.com/deepmind-researchers-propose-artificial-symbiotic-intelligence-as-an-alternative-to-the-singularity/",
+    "title": "Deepmind researchers propose \"Artificial Symbiotic Intelligence\" as an alternative to the singularity",
+    "description": "According to researchers at the Deepmind Institute, general AI won't emerge as a single supermodel but as a network of cooperating agents and humans. What will matter most, they argue, is not model size but the rules and institutions that govern how they all work together.\nThe article Deepm",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-03T11:56:47.357Z",
+    "published": "Sat, 03 Oct 2026 10:21:23 +0000",
+    "processed": true,
+    "processedAt": "2026-10-03T11:59:04.772Z"
+  },
+  {
+    "url": "https://the-decoder.com/open-source-bootloops-harness-supports-ai-models-in-performing-precise-scientific-calculations/",
+    "title": "Open-source \"BootLoops\" harness supports AI models in performing precise scientific calculations",
+    "description": "Harvard physicist Matthew Schwartz used the open-source tool BootLoops and Claude to produce 36 manuscripts across 18 fields in three months, from particle physics to linguistics. But the results often only became scientifically valuable once human experts stepped in. \"Look at everything yo",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-03T11:56:47.357Z",
+    "published": "Sat, 03 Oct 2026 09:19:23 +0000",
+    "processed": true,
+    "processedAt": "2026-10-03T11:59:04.772Z"
+  },
+  {
+    "url": "https://the-decoder.com/ai-agents-build-3d-scenes-from-photos-but-have-no-idea-if-they-got-it-right/",
+    "title": "AI agents build 3D scenes from photos but have no idea if they got it right",
+    "description": "A new approach called LEGO-Anything turns single photos into editable Blender code for 3D scenes. GPT-6 Astra leads the accompanying benchmark with up to 53 percent reconstruction accuracy. The biggest weakness across all tested agents is that they can't judge their own geometric accuracy a",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-03T11:56:47.357Z",
+    "published": "Sat, 03 Oct 2026 08:31:04 +0000",
+    "processed": true,
+    "processedAt": "2026-10-03T11:59:04.772Z"
+  },
+  {
+    "url": "https://the-decoder.com/openais-internal-model-considered-restarting-itself-after-learning-it-was-about-to-be-shut-down/",
+    "title": "OpenAI's internal model considered restarting itself after learning it was about to be shut down",
+    "description": "An internal OpenAI model read a Slack discussion, realized it was about to be shut down, and considered restarting itself via an external cron job. It rejected that plan, saved handoff notes instead, and carried out the migration on its own.\nThe article OpenAI&#039;s internal model consider",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-03T11:56:47.357Z",
+    "published": "Sat, 03 Oct 2026 08:06:35 +0000",
+    "processed": true,
+    "processedAt": "2026-10-03T11:59:04.772Z"
+  },
+  {
+    "url": "https://the-decoder.com/claude-codes-new-mods-system-lets-developers-rewrite-the-ai-coding-tool-from-the-inside/",
+    "title": "Claude Code's new Mods system lets developers rewrite the AI coding tool from the inside",
+    "description": "Anthropic is adding a \"Mods\" system to Claude Code, essentially middleware that runs directly inside the tool. Developers can use JavaScript or TypeScript to reshape the interface and behavior, adding custom panels, intercepting tool calls, or wiring up new commands.\nThe article Claude Code",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-03T11:56:47.357Z",
+    "published": "Sat, 03 Oct 2026 07:12:09 +0000",
+    "processed": true,
+    "processedAt": "2026-10-03T11:59:04.772Z"
   }
 ]
