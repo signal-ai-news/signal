@@ -13448,7 +13448,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-08-02T15:48:16.164Z",
-    "published": "Sun, 02 Aug 2026 14:30:00 +0000"
+    "published": "Sun, 02 Aug 2026 14:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-03T06:20:29.477Z"
   },
   {
     "url": "https://www.engadget.com/2226181/2026-solar-eclipse-what-part-of-united-states-can-see/",
@@ -13523,7 +13525,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-02T23:45:28.330Z",
-    "published": "Sun, 02 Aug 2026 22:35:13 +0000"
+    "published": "Sun, 02 Aug 2026 22:35:13 +0000",
+    "processed": true,
+    "processedAt": "2026-10-03T06:20:29.477Z"
   },
   {
     "url": "https://github.com/joey-io/gauge",
@@ -13532,7 +13536,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-02T23:45:28.330Z",
-    "published": "Sun, 02 Aug 2026 22:34:01 +0000"
+    "published": "Sun, 02 Aug 2026 22:34:01 +0000",
+    "processed": true,
+    "processedAt": "2026-10-03T06:20:29.477Z"
   },
   {
     "url": "https://www.morningstar.com/news/marketwatch/20260731180/job-seekers-can-now-spend-thousands-on-ai-certificates-is-it-worth-it",
@@ -70879,5 +70885,27 @@
     "category": "community",
     "discovered": "2026-10-03T00:40:09.397Z",
     "published": "Fri, 02 Oct 2026 21:36:16 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+    "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+    "description": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-10-03T06:17:45.201Z",
+    "published": "Fri, 02 Oct 2026 23:03:16 +0000",
+    "processed": true,
+    "processedAt": "2026-10-03T06:20:29.478Z"
+  },
+  {
+    "url": "https://www.engadget.com/2276489/apple-att-network-bug-iphone-18-pro-max/",
+    "title": "Apple acknowledges AT&T network bug on iPhone 18 Pro Max",
+    "description": "Experiencing SOS mode on your iPhone 18 Pro Max with AT&T? Apple confirms a hardware issue and details who needs a replacement.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-03T06:18:23.359Z",
+    "published": "Sat, 03 Oct 2026 02:10:16 +0000",
+    "processed": true,
+    "processedAt": "2026-10-03T06:20:29.478Z"
   }
 ]
