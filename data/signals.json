@@ -70707,5 +70707,177 @@
     "category": "news",
     "discovered": "2026-10-02T21:15:15.611Z",
     "published": "Fri, 02 Oct 2026 17:25:04 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49940260",
+    "title": "GitHub mutuals on AI in life sciences or bioinformatics",
+    "description": "Dear all.Does anybody here build applications for AI in life sciences or bioinformatics? I would love to be mutuals and connected on my github account here: \nhttps://github.com/JohnkecopsHere are some examples on what I built with my team:Protein domain annotation pipeline from my dissertation: htt",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T00:40:09.397Z",
+    "published": "Sat, 03 Oct 2026 00:30:28 +0000",
+    "processed": true,
+    "processedAt": "2026-10-03T00:42:33.440Z"
+  },
+  {
+    "url": "https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/",
+    "title": "Vulnerability Discovery and Exploitation Trends in the AI Era",
+    "description": "Article URL: https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/\nComments URL: https://news.ycombinator.com/item?id=49940122\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T00:40:09.397Z",
+    "published": "Sat, 03 Oct 2026 00:05:27 +0000",
+    "processed": true,
+    "processedAt": "2026-10-03T00:42:33.440Z"
+  },
+  {
+    "url": "https://claude.dev/blog/getting-started-with-claude-code-mods/",
+    "title": "Getting started with Claude Code mods",
+    "description": "Article URL: https://claude.dev/blog/getting-started-with-claude-code-mods/\nComments URL: https://news.ycombinator.com/item?id=49940121\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T00:40:09.397Z",
+    "published": "Sat, 03 Oct 2026 00:05:19 +0000",
+    "processed": true,
+    "processedAt": "2026-10-03T00:42:33.440Z"
+  },
+  {
+    "url": "https://tinfoil.sh/blog/2026-09-14-safety-without-compromising-privacy",
+    "title": "Tinfoil private AI chat adds TEE-side content scanning",
+    "description": "Article URL: https://tinfoil.sh/blog/2026-09-14-safety-without-compromising-privacy\nComments URL: https://news.ycombinator.com/item?id=49940062\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T00:40:09.397Z",
+    "published": "Fri, 02 Oct 2026 23:57:59 +0000",
+    "processed": true,
+    "processedAt": "2026-10-03T00:42:33.440Z"
+  },
+  {
+    "url": "https://www.netmeister.org/blog/winning-ai.html",
+    "title": "'Winning AI'",
+    "description": "Article URL: https://www.netmeister.org/blog/winning-ai.html\nComments URL: https://news.ycombinator.com/item?id=49940000\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T00:40:09.397Z",
+    "published": "Fri, 02 Oct 2026 23:48:21 +0000",
+    "processed": true,
+    "processedAt": "2026-10-03T00:42:33.440Z"
+  },
+  {
+    "url": "https://finance.biggo.com/news/0e4a6995-1f3d-497b-9291-ad8cfdbb7b58",
+    "title": "AI Cracks 217-Year-Old Napoleonic Cipher in 6 Hours,Revealing PreWar Deployments",
+    "description": "Article URL: https://finance.biggo.com/news/0e4a6995-1f3d-497b-9291-ad8cfdbb7b58\nComments URL: https://news.ycombinator.com/item?id=49939768\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T00:40:09.397Z",
+    "published": "Fri, 02 Oct 2026 23:18:02 +0000"
+  },
+  {
+    "url": "https://teacherplanner.ai",
+    "title": "Show HN: Teacher Planner – A digital planbook with AI tools for teachers",
+    "description": "Hi HN, I built Teacher Planner to help teachers organize lessons and prepare classroom materials in one place.The digital planbook brings together lesson plans, units, schedules, and curriculum standards, with day, week, and month views, read-only sharing, and configurable print layouts. It support",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T00:40:09.397Z",
+    "published": "Fri, 02 Oct 2026 23:08:21 +0000"
+  },
+  {
+    "url": "https://github.com/login",
+    "title": "AI Torture Chamber – Steering LLMs into negative and positive valence states",
+    "description": "Article URL: https://github.com/login\nComments URL: https://news.ycombinator.com/item?id=49939667\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T00:40:09.397Z",
+    "published": "Fri, 02 Oct 2026 23:04:43 +0000"
+  },
+  {
+    "url": "https://aicompilers.github.io/2026/09/27/llms-will-not-replace-ai-compilers-they-will-call-them.html",
+    "title": "LLMs Will Not Replace AI Compilers. They Will Call Them.",
+    "description": "Article URL: https://aicompilers.github.io/2026/09/27/llms-will-not-replace-ai-compilers-they-will-call-them.html\nComments URL: https://news.ycombinator.com/item?id=49939614\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T00:40:09.397Z",
+    "published": "Fri, 02 Oct 2026 22:57:27 +0000"
+  },
+  {
+    "url": "https://www.latimes.com/business/story/2026-10-02/ai-radio-star-dj-chatbots-airwaves-humans-pushing-back",
+    "title": "An AI radio DJ has shot to stardom in L.A. Human hosts aren't happy about it",
+    "description": "Article URL: https://www.latimes.com/business/story/2026-10-02/ai-radio-star-dj-chatbots-airwaves-humans-pushing-back\nComments URL: https://news.ycombinator.com/item?id=49939341\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T00:40:09.397Z",
+    "published": "Fri, 02 Oct 2026 22:20:41 +0000"
+  },
+  {
+    "url": "https://daringfireball.net/2026/10/apple_full_disk_access",
+    "title": "Tightening Full Disk Access on macOS, in Response to AI Apps Running Amok",
+    "description": "Article URL: https://daringfireball.net/2026/10/apple_full_disk_access\nComments URL: https://news.ycombinator.com/item?id=49939300\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T00:40:09.397Z",
+    "published": "Fri, 02 Oct 2026 22:15:58 +0000"
+  },
+  {
+    "url": "https://www.joe-shirey.com/2026/10/02/seo-for-ai-agents.html",
+    "title": "Can You SEO Your Way into an AI Agent's Recommendation?",
+    "description": "Article URL: https://www.joe-shirey.com/2026/10/02/seo-for-ai-agents.html\nComments URL: https://news.ycombinator.com/item?id=49939235\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T00:40:09.397Z",
+    "published": "Fri, 02 Oct 2026 22:09:29 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=nWWDUXhqWEs",
+    "title": "Show HN: Asked Opus for a video about AI labs and it spit out this weird thing",
+    "description": "Article URL: https://www.youtube.com/watch?v=nWWDUXhqWEs\nComments URL: https://news.ycombinator.com/item?id=49939225\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T00:40:09.397Z",
+    "published": "Fri, 02 Oct 2026 22:08:37 +0000"
+  },
+  {
+    "url": "https://merlean.ai/",
+    "title": "Merlean AI",
+    "description": "Article URL: https://merlean.ai/\nComments URL: https://news.ycombinator.com/item?id=49939221\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T00:40:09.397Z",
+    "published": "Fri, 02 Oct 2026 22:08:13 +0000"
+  },
+  {
+    "url": "https://huddo.ai",
+    "title": "Huddo: Instant Shared AI Room",
+    "description": "Article URL: https://huddo.ai\nComments URL: https://news.ycombinator.com/item?id=49939217\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T00:40:09.397Z",
+    "published": "Fri, 02 Oct 2026 22:07:44 +0000"
+  },
+  {
+    "url": "https://twitter.com/sensho/status/2104356815417025008",
+    "title": "GPT-6 Astra is the best at Diplomacy, Claudes are 2nd but lie/betray 2x more",
+    "description": "Article URL: https://twitter.com/sensho/status/2104356815417025008\nComments URL: https://news.ycombinator.com/item?id=49939207\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T00:40:09.397Z",
+    "published": "Fri, 02 Oct 2026 22:06:55 +0000"
+  },
+  {
+    "url": "https://www.computerworld.com/article/4228463/how-meta-stumbled-onto-a-winning-ai-strategy.html",
+    "title": "Meta stumbled onto a winning AI strategy",
+    "description": "Article URL: https://www.computerworld.com/article/4228463/how-meta-stumbled-onto-a-winning-ai-strategy.html\nComments URL: https://news.ycombinator.com/item?id=49939189\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T00:40:09.397Z",
+    "published": "Fri, 02 Oct 2026 22:05:36 +0000"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-10-02/apple-to-tighten-mac-data-controls-in-guard-against-ai-agents",
+    "title": "Apple to Tighten Mac Data Controls in Guard Against AI Agents",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-10-02/apple-to-tighten-mac-data-controls-in-guard-against-ai-agents\nComments URL: https://news.ycombinator.com/item?id=49938891\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T00:40:09.397Z",
+    "published": "Fri, 02 Oct 2026 21:36:16 +0000"
   }
 ]
