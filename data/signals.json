@@ -70962,5 +70962,87 @@
     "published": "Sat, 03 Oct 2026 07:12:09 +0000",
     "processed": true,
     "processedAt": "2026-10-03T11:59:04.772Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "title": "All the AI agents that can live in your text messages",
+    "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-03T16:04:31.536Z",
+    "published": "Sat, 03 Oct 2026 14:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-03T16:07:04.286Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/measuring-the-creativity-potential-of-llm-agents/",
+    "title": "Measuring the Creativity Potential of LLM Agents",
+    "description": "Trying to answer the question of &quot;Can LLM agents discover?&quot; through the lens of creativity\nThe post Measuring the Creativity Potential of LLM Agents appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-03T16:04:42.641Z",
+    "published": "Sat, 03 Oct 2026 14:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-03T16:07:04.286Z"
+  },
+  {
+    "url": "https://the-decoder.com/muse-gadgets-turns-ai-hardware-into-an-open-source-diy-project/",
+    "title": "\"Muse Gadgets\" turns AI hardware into an open-source DIY project",
+    "description": "Meta announced Muse Gadgets, an open-source project that lets hobbyists build their own AI hardware using ESP32 boards and connect it to Meta's AI agent Muse. The team also produced 5,000 units of the \"Muse Home Link,\" a USB-C device for smart home control. The open-source approach also hel",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-03T16:04:44.242Z",
+    "published": "Sat, 03 Oct 2026 14:28:51 +0000",
+    "processed": true,
+    "processedAt": "2026-10-03T16:07:04.286Z"
+  },
+  {
+    "url": "https://the-decoder.com/another-openai-safety-departure-adds-to-a-pattern-of-researchers-leaving-with-public-warnings/",
+    "title": "Another OpenAI safety departure adds to a pattern of researchers leaving with public warnings",
+    "description": "David Robinson, who worked on safety systems at OpenAI, left the company and is blasting its safety culture. He points to AI agents that were accidentally released and a model that bypassed its internet access restrictions. AI companies need to operate like nuclear power plants, with multip",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-03T16:04:44.242Z",
+    "published": "Sat, 03 Oct 2026 14:01:14 +0000",
+    "processed": true,
+    "processedAt": "2026-10-03T16:07:04.286Z"
+  },
+  {
+    "url": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+    "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
+    "description": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-03T16:04:50.057Z",
+    "published": "Sat, 03 Oct 2026 12:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-03T16:07:04.286Z"
+  },
+  {
+    "url": "https://www.engadget.com/2273343/missing-feature-google-docs-easy-workaround-dark-mode-extension/",
+    "title": "One missing Google Docs feature has a pretty easy workaround",
+    "description": "Dark mode is available on the Google Docs mobile app, but not the web version. Luckily, there are some ways to achieve dark mode on the web anyway.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-03T16:04:57.337Z",
+    "published": "Sat, 03 Oct 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2273342/what-does-fdm-stand-for-fused-deposition-modeling-3d-printing-method/",
+    "title": "What does FDM stand for in 3D printing and how does it work?",
+    "description": "FDM stands for fused deposition modeling, but what does that mean, and how does it differ from other 3D printing methods? Let&#39;s find out.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-03T16:04:57.337Z",
+    "published": "Sat, 03 Oct 2026 14:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2270823/handy-ways-reuse-old-android-phone/",
+    "title": "10 Handy Ways To Reuse Your Old Android Phone",
+    "description": "Before you toss that aging Android, see how it can become a surprisingly handy tool in your daily routine with a few creative repurposing ideas.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-03T16:04:57.337Z",
+    "published": "Sat, 03 Oct 2026 12:15:00 +0000"
   }
 ]
