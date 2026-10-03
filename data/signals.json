@@ -71044,5 +71044,249 @@
     "category": "news",
     "discovered": "2026-10-03T16:04:57.337Z",
     "published": "Sat, 03 Oct 2026 12:15:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+    "description": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-03T19:10:31.702Z",
+    "published": "Sat, 03 Oct 2026 18:43:57 +0000",
+    "processed": true,
+    "processedAt": "2026-10-03T19:13:06.107Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+    "description": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-03T19:10:31.702Z",
+    "published": "Sat, 03 Oct 2026 16:30:01 +0000",
+    "processed": true,
+    "processedAt": "2026-10-03T19:13:06.107Z"
+  },
+  {
+    "url": "https://stoppels.ch/2026/10/03/wake-me-up-when-ai-can.html",
+    "title": "Wake me up when AI can",
+    "description": "Article URL: https://stoppels.ch/2026/10/03/wake-me-up-when-ai-can.html\nComments URL: https://news.ycombinator.com/item?id=49946806\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T19:10:41.571Z",
+    "published": "Sat, 03 Oct 2026 19:04:10 +0000",
+    "processed": true,
+    "processedAt": "2026-10-03T19:13:06.107Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=QdznbGzRWSw",
+    "title": "How China Is Winning the AI Race [video-essay]",
+    "description": "Article URL: https://www.youtube.com/watch?v=QdznbGzRWSw\nComments URL: https://news.ycombinator.com/item?id=49946751\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T19:10:41.571Z",
+    "published": "Sat, 03 Oct 2026 18:57:01 +0000",
+    "processed": true,
+    "processedAt": "2026-10-03T19:13:06.107Z"
+  },
+  {
+    "url": "https://www.npr.org/2026/10/01/nx-s1-5983697/project-suncatcher-google-ai-data-center-space",
+    "title": "Google launches Project Suncatcher, a step towards AI data centers in space",
+    "description": "Article URL: https://www.npr.org/2026/10/01/nx-s1-5983697/project-suncatcher-google-ai-data-center-space\nComments URL: https://news.ycombinator.com/item?id=49946744\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T19:10:41.571Z",
+    "published": "Sat, 03 Oct 2026 18:56:29 +0000",
+    "processed": true,
+    "processedAt": "2026-10-03T19:13:06.107Z"
+  },
+  {
+    "url": "https://remote.phyra.ai/",
+    "title": "Steer a coding agent on your own machine from Claude/ChatGPT (via MCP)",
+    "description": "Article URL: https://remote.phyra.ai/\nComments URL: https://news.ycombinator.com/item?id=49946733\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T19:10:41.571Z",
+    "published": "Sat, 03 Oct 2026 18:55:47 +0000"
+  },
+  {
+    "url": "https://github.com/taylormatematica-beep/repoguard",
+    "title": "Show HN: RepoGuard – Architecture linter for AI-generated code (Cursor, Claude)",
+    "description": "Article URL: https://github.com/taylormatematica-beep/repoguard\nComments URL: https://news.ycombinator.com/item?id=49946607\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T19:10:41.571Z",
+    "published": "Sat, 03 Oct 2026 18:37:10 +0000"
+  },
+  {
+    "url": "https://github.com/naw103/claude-routine-cleanup",
+    "title": "Show HN: Claude Code Routine Session Cleanup Skill",
+    "description": "Claude Code's scheduled tasks (routines) leaves a session behind on every run and in the desktop app you can only delete them one at a time. We had 618 open sessions in just one routine.The skill plans the clean up (keeps the newest N and protect any sessions where you typed a reply - optional) and",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T19:10:41.571Z",
+    "published": "Sat, 03 Oct 2026 18:20:21 +0000"
+  },
+  {
+    "url": "https://tryrevline.com/",
+    "title": "Show HN: Revline – an AI web app that researches TikTok and Instagram for you",
+    "description": "I build revline because i was trying to figure out how viral content works across tiktok and instagram, since i am mainly developer, i was confused about how to create content that gets me users.\nActually going viral requires single founder ( me ) to upload 3-4 videos a day, brainstorming all the f",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T19:10:41.571Z",
+    "published": "Sat, 03 Oct 2026 18:20:18 +0000"
+  },
+  {
+    "url": "https://www.theguardian.com/us-news/2026/oct/02/midterms-ai-ballot-privacy",
+    "title": "Georgia holds emergency meeting on AI exposing voters' secret ballots",
+    "description": "Article URL: https://www.theguardian.com/us-news/2026/oct/02/midterms-ai-ballot-privacy\nComments URL: https://news.ycombinator.com/item?id=49946394\nPoints: 4\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T19:10:41.571Z",
+    "published": "Sat, 03 Oct 2026 18:07:16 +0000"
+  },
+  {
+    "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
+    "title": "Pop!_OS bans AI-generated code from much of its codebase",
+    "description": "Article URL: https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/\nComments URL: https://news.ycombinator.com/item?id=49946321\nPoints: 22\n# Comments: 7",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T19:10:41.571Z",
+    "published": "Sat, 03 Oct 2026 17:57:03 +0000"
+  },
+  {
+    "url": "https://github.com/blendbunjaku/optimaizr",
+    "title": "OptimAIzr – analyze and optimize your Claude Code usage",
+    "description": "Article URL: https://github.com/blendbunjaku/optimaizr\nComments URL: https://news.ycombinator.com/item?id=49946299\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T19:10:41.571Z",
+    "published": "Sat, 03 Oct 2026 17:54:19 +0000"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore/",
+    "title": "Manage end-user OAuth consent for AI agents with Amazon Bedrock AgentCore",
+    "description": "Article URL: https://aws.amazon.com/blogs/machine-learning/manage-end-user-oauth-consent-for-ai-agents-with-amazon-bedrock-agentcore/\nComments URL: https://news.ycombinator.com/item?id=49946265\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T19:10:41.571Z",
+    "published": "Sat, 03 Oct 2026 17:50:14 +0000"
+  },
+  {
+    "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+    "title": "AI 'godfather' LeCun has 'zero concerns' about human extinction",
+    "description": "Article URL: https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/\nComments URL: https://news.ycombinator.com/item?id=49946228\nPoints: 8\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T19:10:41.571Z",
+    "published": "Sat, 03 Oct 2026 17:44:29 +0000"
+  },
+  {
+    "url": "https://www.lesswrong.com/posts/PiP4JqQFKhoqHGG2n/how-to-apply-to-ai-safety-fellowships-and-beyond",
+    "title": "How to apply to AI safety fellowships (and beyond)",
+    "description": "Article URL: https://www.lesswrong.com/posts/PiP4JqQFKhoqHGG2n/how-to-apply-to-ai-safety-fellowships-and-beyond\nComments URL: https://news.ycombinator.com/item?id=49946218\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T19:10:41.571Z",
+    "published": "Sat, 03 Oct 2026 17:43:29 +0000"
+  },
+  {
+    "url": "https://github.com/reporails/arcade",
+    "title": "Show HN: Claude Mods – Minesweeper",
+    "description": "A mod to kill time whilst waiting for the agent response.More on the building process: https://dev.to/reporails/claude-code-mods-minesweeper-and-te...\n\nComments URL: https://news.ycombinator.com/item?id=49946184\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T19:10:41.571Z",
+    "published": "Sat, 03 Oct 2026 17:40:02 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49946155",
+    "title": "Ask HN: I have 1 Claude and 2 Codex resets plus credits – help me spend them",
+    "description": "I'm serious. Help me help you. Ideally public projects\n\nComments URL: https://news.ycombinator.com/item?id=49946155\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T19:10:41.571Z",
+    "published": "Sat, 03 Oct 2026 17:36:33 +0000"
+  },
+  {
+    "url": "https://ams3.digitaloceanspaces.com/urbits3/sitful-hatred/2026.9.24..22.31.54..beb8.51eb.851e.b851-AI%20Safety%20Is%20Mostly%20A%20Sex%20Cult%20In%20Berkeley%2C%20California.pdf",
+    "title": "AI safety is mostly a sex cult in Berkeley, CA [pdf]",
+    "description": "Article URL: https://ams3.digitaloceanspaces.com/urbits3/sitful-hatred/2026.9.24..22.31.54..beb8.51eb.851e.b851-AI%20Safety%20Is%20Mostly%20A%20Sex%20Cult%20In%20Berkeley%2C%20California.pdf\nComments URL: https://news.ycombinator.com/item?id=49946110\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T19:10:41.571Z",
+    "published": "Sat, 03 Oct 2026 17:29:56 +0000"
+  },
+  {
+    "url": "https://www.anuclei.com/blog/your-ai-agents-need-a-system-of-record",
+    "title": "AI Agents Need a System of Record, Not Just a Dashboard",
+    "description": "Article URL: https://www.anuclei.com/blog/your-ai-agents-need-a-system-of-record\nComments URL: https://news.ycombinator.com/item?id=49945942\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T19:10:41.571Z",
+    "published": "Sat, 03 Oct 2026 17:05:22 +0000"
+  },
+  {
+    "url": "https://econreview.studentorg.berkeley.edu/ai-and-the-bottom-rung-of-the-career-ladder/",
+    "title": "AI and the Bottom Rung of the Career Ladder",
+    "description": "Article URL: https://econreview.studentorg.berkeley.edu/ai-and-the-bottom-rung-of-the-career-ladder/\nComments URL: https://news.ycombinator.com/item?id=49945882\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T19:10:41.571Z",
+    "published": "Sat, 03 Oct 2026 16:56:46 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49945805",
+    "title": "Ask HN: When you code with AI, do you tell it how to manage state?",
+    "description": "And if not, how does it manage state? Is there a preferred way to do it?\n\nComments URL: https://news.ycombinator.com/item?id=49945805\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-03T19:10:41.571Z",
+    "published": "Sat, 03 Oct 2026 16:48:47 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/",
+    "title": "Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore",
+    "description": "OpenAI CEO Sam Altman warns against attributing religious power to AI models, calling it a \"real safety issue.\" His comments follow reports on Anthropic's meetings with religious thinkers and a statement by Pope Leo XIV on AI. As recently as 2024, Altman himself spoke of building \"magic int",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-03T19:10:48.082Z",
+    "published": "Sat, 03 Oct 2026 18:56:30 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai/",
+    "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
+    "description": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-03T19:10:54.254Z",
+    "published": "Sat, 03 Oct 2026 18:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2273746/ethernet-cables-can-do-more-than-just-improve-home-internet/",
+    "title": "Ethernet cables can do more than just improve home internet",
+    "description": "With some add-ons, these can gain a second life.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-03T19:11:00.762Z",
+    "published": "Sat, 03 Oct 2026 18:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2276597/capcom-plans-to-use-ai-to-speed-up-the-game-development-process/",
+    "title": "Capcom plans to use AI to speed up the game development process",
+    "description": "The company previously said it won't use AI-generated content in its games.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-03T19:11:00.762Z",
+    "published": "Sat, 03 Oct 2026 18:27:15 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2276577/former-openai-employee-says-ai-should-be-regulated-like-nuclear-power-plants/",
+    "title": "Former OpenAI employee says AI should be regulated like nuclear power plants",
+    "description": "The company's former safety lead said frontier AI model releases should have \"layers of redundancy and careful, time-consuming planning.\"",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-03T19:11:00.762Z",
+    "published": "Sat, 03 Oct 2026 16:25:15 +0000"
   }
 ]
