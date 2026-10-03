@@ -13547,7 +13547,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-02T23:45:28.330Z",
-    "published": "Sun, 02 Aug 2026 22:33:44 +0000"
+    "published": "Sun, 02 Aug 2026 22:33:44 +0000",
+    "processed": true,
+    "processedAt": "2026-10-03T22:24:43.220Z"
   },
   {
     "url": "https://drive.google.com/file/d/14IKYzJavvzvbCL8GR0SkjzRmroMAaboN/view?usp=drive_link",
@@ -13556,7 +13558,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-02T23:45:28.330Z",
-    "published": "Sun, 02 Aug 2026 21:54:50 +0000"
+    "published": "Sun, 02 Aug 2026 21:54:50 +0000",
+    "processed": true,
+    "processedAt": "2026-10-03T22:24:43.220Z"
   },
   {
     "url": "https://buildtounderstand.org/explorations/what-is-the-smallest-ai-platform-that-could-possibly-work/",
@@ -13565,7 +13569,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-02T23:45:28.330Z",
-    "published": "Sun, 02 Aug 2026 21:53:55 +0000"
+    "published": "Sun, 02 Aug 2026 21:53:55 +0000",
+    "processed": true,
+    "processedAt": "2026-10-03T22:24:43.220Z"
   },
   {
     "url": "https://github.com/ConsciousGroupMind/SKYNET-800---Collective-Intelligence-Forecasting-System",
@@ -71288,5 +71294,27 @@
     "category": "news",
     "discovered": "2026-10-03T19:11:00.762Z",
     "published": "Sat, 03 Oct 2026 16:25:15 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2273492/online-retailers-dont-support-digital-wallets-losing-gen-z-customers/",
+    "title": "Online retailers that don't support digital wallets are losing Gen Z customers",
+    "description": "A study suggests younger people are more likely to walk away if their preferred payment option isn&#39;t supported.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-03T22:22:36.025Z",
+    "published": "Sat, 03 Oct 2026 22:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-03T22:24:43.221Z"
+  },
+  {
+    "url": "https://www.engadget.com/2276609/ice-is-reportedly-using-a-palantir-database-to-compile-dossiers-on-protestors/",
+    "title": "ICE is reportedly using a Palantir database to compile dossiers on protestors",
+    "description": "An attorney representing protestors said this infringes on First Amendment rights.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-03T22:22:36.025Z",
+    "published": "Sat, 03 Oct 2026 20:08:20 +0000",
+    "processed": true,
+    "processedAt": "2026-10-03T22:24:43.221Z"
   }
 ]
