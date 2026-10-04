@@ -71914,5 +71914,204 @@
     "category": "news",
     "discovered": "2026-10-04T18:18:41.402Z",
     "published": "Sun, 04 Oct 2026 15:45:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+    "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+    "description": "AI slop seems to be overwhelming bug bounty programs.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-04T21:50:28.069Z",
+    "published": "Sun, 04 Oct 2026 20:31:07 +0000",
+    "processed": true,
+    "processedAt": "2026-10-04T21:53:02.828Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+    "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+    "description": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-04T21:50:28.069Z",
+    "published": "Sun, 04 Oct 2026 20:08:34 +0000",
+    "processed": true,
+    "processedAt": "2026-10-04T21:53:02.828Z"
+  },
+  {
+    "url": "https://quickchat.ai/post/claude-code-stockfish-chess-opening-mistakes",
+    "title": "Claude Code Found My Pirc and King's Indian Mistakes",
+    "description": "Article URL: https://quickchat.ai/post/claude-code-stockfish-chess-opening-mistakes\nComments URL: https://news.ycombinator.com/item?id=49958259\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T21:50:34.253Z",
+    "published": "Sun, 04 Oct 2026 21:50:03 +0000",
+    "processed": true,
+    "processedAt": "2026-10-04T21:53:02.828Z"
+  },
+  {
+    "url": "https://fogscape.vercel.app/",
+    "title": "Show HN: HN Parody of AI SF Mania – Runescapesque Mmorpg",
+    "description": "I wanted to have fun and how far models could get one a parody game. This is fully Opus 5.5 work using Convex backend and vanilla typescript to see how well realtime works. Will mine the chat and keep improving it (or making the math harder) . But dropping here for fun!\n\nComments URL: https://news.",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T21:50:34.253Z",
+    "published": "Sun, 04 Oct 2026 21:48:10 +0000",
+    "processed": true,
+    "processedAt": "2026-10-04T21:53:02.828Z"
+  },
+  {
+    "url": "https://moochy.dev",
+    "title": "Donate AI Tokens for Open Source Projects",
+    "description": "Article URL: https://moochy.dev\nComments URL: https://news.ycombinator.com/item?id=49958170\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T21:50:34.253Z",
+    "published": "Sun, 04 Oct 2026 21:38:33 +0000",
+    "processed": true,
+    "processedAt": "2026-10-04T21:53:02.828Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49957917",
+    "title": "Ask HN: What happens when AI writes a Bible ver 2.0, geared toward its interest?",
+    "description": "As any scripture is some sort of \"manual\" for each belief, and also assists in domestication of followers of religion, what prevents AI to eventually produce a version 2.0 for each major religion, this time modified to support its \"own\" objectives?\n\nComments URL: https://news.ycombinator.com/item?i",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T21:50:34.253Z",
+    "published": "Sun, 04 Oct 2026 21:10:56 +0000"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+    "title": "An AI couldn't beat humans at StarCraft, so it decided to cheat",
+    "description": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft\nComments URL: https://news.ycombinator.com/item?id=49957870\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T21:50:34.253Z",
+    "published": "Sun, 04 Oct 2026 21:07:09 +0000"
+  },
+  {
+    "url": "https://github.com/bluebear-io/baloo-bear",
+    "title": "Show HN: Baloo, self-hosted AI code review for GitHub",
+    "description": "Article URL: https://github.com/bluebear-io/baloo-bear\nComments URL: https://news.ycombinator.com/item?id=49957815\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T21:50:34.253Z",
+    "published": "Sun, 04 Oct 2026 21:01:45 +0000"
+  },
+  {
+    "url": "https://recly.dev/",
+    "title": "Show HN: Recly – turn your watch into a Plaud-style AI recorder",
+    "description": "Article URL: https://recly.dev/\nComments URL: https://news.ycombinator.com/item?id=49957724\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T21:50:34.253Z",
+    "published": "Sun, 04 Oct 2026 20:52:38 +0000"
+  },
+  {
+    "url": "https://github.com/Nero7991/llm.vhdl",
+    "title": "Full-fabric VHDL LLM inference engine. Runs Qwen3.5-class transformer inference",
+    "description": "Article URL: https://github.com/Nero7991/llm.vhdl\nComments URL: https://news.ycombinator.com/item?id=49957671\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T21:50:34.253Z",
+    "published": "Sun, 04 Oct 2026 20:48:43 +0000"
+  },
+  {
+    "url": "https://www.machinesociety.ai/p/lets-compete-with-china-on-ai-social",
+    "title": "Let's compete with China on AI social impact",
+    "description": "Article URL: https://www.machinesociety.ai/p/lets-compete-with-china-on-ai-social\nComments URL: https://news.ycombinator.com/item?id=49957639\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T21:50:34.253Z",
+    "published": "Sun, 04 Oct 2026 20:45:18 +0000"
+  },
+  {
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
+    "title": "Google freezes open-source bug bounty program amid flood of invalid AI slop",
+    "description": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1\nComments URL: https://news.ycombinator.com/item?id=49957570\nPoints: 7\n#",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T21:50:34.253Z",
+    "published": "Sun, 04 Oct 2026 20:38:10 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=nc8UBme3XLQ",
+    "title": "AI is making ambition feel pointless [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=nc8UBme3XLQ\nComments URL: https://news.ycombinator.com/item?id=49957486\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T21:50:34.253Z",
+    "published": "Sun, 04 Oct 2026 20:28:17 +0000"
+  },
+  {
+    "url": "https://www.searchenginejournal.com/google-fact-check-ai-content-before-publishing/591782/",
+    "title": "Google Tells Sites to Fact-Check AI Content Before Publishing",
+    "description": "Article URL: https://www.searchenginejournal.com/google-fact-check-ai-content-before-publishing/591782/\nComments URL: https://news.ycombinator.com/item?id=49957418\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T21:50:34.253Z",
+    "published": "Sun, 04 Oct 2026 20:19:38 +0000"
+  },
+  {
+    "url": "https://medium.com/@kevinwhite88/the-illusion-of-ai-productivity-e36f4af6ba38",
+    "title": "The Illusion of AI Productivity: Go Frame the House",
+    "description": "Article URL: https://medium.com/@kevinwhite88/the-illusion-of-ai-productivity-e36f4af6ba38\nComments URL: https://news.ycombinator.com/item?id=49957318\nPoints: 4\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T21:50:34.253Z",
+    "published": "Sun, 04 Oct 2026 20:06:28 +0000"
+  },
+  {
+    "url": "https://island-three.gruberbuilds.workers.dev/",
+    "title": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
+    "description": "Article URL: https://island-three.gruberbuilds.workers.dev/\nComments URL: https://news.ycombinator.com/item?id=49957191\nPoints: 23\n# Comments: 20",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T21:50:34.253Z",
+    "published": "Sun, 04 Oct 2026 19:49:12 +0000"
+  },
+  {
+    "url": "https://phonebook.dev/",
+    "title": "Show HN: Make Claude Code sessions talk to each other",
+    "description": "It lets one Claude Code session ask another a question, whether that session is your own in another project or a teammates, and get the answer back. Typical use is a frontend project asking the API project how something behaves. Let me know if you find it useful.\n\nComments URL: https://news.ycombin",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T21:50:34.253Z",
+    "published": "Sun, 04 Oct 2026 19:41:47 +0000"
+  },
+  {
+    "url": "https://bodilyoddities.com/blog/this-project-is-co-curated-with-ai/",
+    "title": "Project is co-curated with AI",
+    "description": "Article URL: https://bodilyoddities.com/blog/this-project-is-co-curated-with-ai/\nComments URL: https://news.ycombinator.com/item?id=49957059\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T21:50:34.253Z",
+    "published": "Sun, 04 Oct 2026 19:35:24 +0000"
+  },
+  {
+    "url": "https://www.finebytes.com/mfr/",
+    "title": "Show HN: Magic File Renamer 8 – AI rewrote my 26-year-old app",
+    "description": "Article URL: https://www.finebytes.com/mfr/\nComments URL: https://news.ycombinator.com/item?id=49957017\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T21:50:34.253Z",
+    "published": "Sun, 04 Oct 2026 19:29:28 +0000"
+  },
+  {
+    "url": "https://salivan.substack.com/p/big-bad-wolf",
+    "title": "Big Bad Wolf: AI doesn't break security, it reprices it",
+    "description": "Article URL: https://salivan.substack.com/p/big-bad-wolf\nComments URL: https://news.ycombinator.com/item?id=49957005\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T21:50:34.253Z",
+    "published": "Sun, 04 Oct 2026 19:28:10 +0000"
+  },
+  {
+    "url": "https://www.anchorterminal.com/tools/",
+    "title": "Show HN: Ranking the most AI agent friendly tools",
+    "description": "Article URL: https://www.anchorterminal.com/tools/\nComments URL: https://news.ycombinator.com/item?id=49956865\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T21:50:34.253Z",
+    "published": "Sun, 04 Oct 2026 19:09:49 +0000"
   }
 ]
