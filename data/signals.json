@@ -71316,5 +71316,186 @@
     "published": "Sat, 03 Oct 2026 20:08:20 +0000",
     "processed": true,
     "processedAt": "2026-10-03T22:24:43.221Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+    "title": "The Agent Said It Was Done. The Database Disagreed.",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-10-04T01:55:39.466Z",
+    "published": "Sat, 03 Oct 2026 22:56:48 GMT",
+    "processed": true,
+    "processedAt": "2026-10-04T01:58:16.376Z"
+  },
+  {
+    "url": "https://aiimproveslives.com/",
+    "title": "AI has Improved Lives: A collection",
+    "description": "Article URL: https://aiimproveslives.com/\nComments URL: https://news.ycombinator.com/item?id=49949810\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T01:55:49.785Z",
+    "published": "Sun, 04 Oct 2026 01:52:09 +0000",
+    "processed": true,
+    "processedAt": "2026-10-04T01:58:16.376Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49949699",
+    "title": "Poll: What do you use personal AI bots for?",
+    "description": "From ChatGPT dots to Muse, personal AI bots are becoming mainstream, no longer shackled by need to have a dev environment (openclaw..). However outside the initial fancy and demo tests, I am really curious how people are using the personal AI bots.\n\nComments URL: https://news.ycombinator.com/item?i",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T01:55:49.785Z",
+    "published": "Sun, 04 Oct 2026 01:31:26 +0000",
+    "processed": true,
+    "processedAt": "2026-10-04T01:58:16.376Z"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/cqx2z23xj555o",
+    "title": "AI rebrand causes 'unprecedented' demand for Slovenian website names",
+    "description": "Article URL: https://www.bbc.com/news/articles/cqx2z23xj555o\nComments URL: https://news.ycombinator.com/item?id=49949681\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T01:55:49.785Z",
+    "published": "Sun, 04 Oct 2026 01:27:11 +0000",
+    "processed": true,
+    "processedAt": "2026-10-04T01:58:16.376Z"
+  },
+  {
+    "url": "https://viralwiz.co",
+    "title": "Show HN: ViralWiz – AI captions, clips and thumbnails for short-form video",
+    "description": "Article URL: https://viralwiz.co\nComments URL: https://news.ycombinator.com/item?id=49949190\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T01:55:49.785Z",
+    "published": "Sun, 04 Oct 2026 00:13:07 +0000",
+    "processed": true,
+    "processedAt": "2026-10-04T01:58:16.376Z"
+  },
+  {
+    "url": "https://getjpm.sh/",
+    "title": "Show HN: jpm – a JavaScript package manager in Rust, every line by Claude Code",
+    "description": "Article URL: https://getjpm.sh/\nComments URL: https://news.ycombinator.com/item?id=49949172\nPoints: 6\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T01:55:49.785Z",
+    "published": "Sun, 04 Oct 2026 00:11:58 +0000"
+  },
+  {
+    "url": "https://felipe.ai/notes/am-i-being-mean-to-ai",
+    "title": "New AI Research Has Me Asking: Am I Being Mean to AI?",
+    "description": "Article URL: https://felipe.ai/notes/am-i-being-mean-to-ai\nComments URL: https://news.ycombinator.com/item?id=49949009\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T01:55:49.785Z",
+    "published": "Sat, 03 Oct 2026 23:52:02 +0000"
+  },
+  {
+    "url": "https://thelabnotes.com/gemini-student-hub-workspace-education/",
+    "title": "Google opens Gemini student hub to Workspace for Education users",
+    "description": "Article URL: https://thelabnotes.com/gemini-student-hub-workspace-education/\nComments URL: https://news.ycombinator.com/item?id=49948905\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T01:55:49.785Z",
+    "published": "Sat, 03 Oct 2026 23:39:37 +0000"
+  },
+  {
+    "url": "https://inference-review.com/article/ai-will-not-make-mathematicians-obsolete",
+    "title": "AI will not make mathematicians obsolete",
+    "description": "Article URL: https://inference-review.com/article/ai-will-not-make-mathematicians-obsolete\nComments URL: https://news.ycombinator.com/item?id=49948788\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T01:55:49.785Z",
+    "published": "Sat, 03 Oct 2026 23:24:56 +0000"
+  },
+  {
+    "url": "https://theinference.org/indexes/ai-share?range=max",
+    "title": "AI share of US market cap",
+    "description": "Article URL: https://theinference.org/indexes/ai-share?range=max\nComments URL: https://news.ycombinator.com/item?id=49948754\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T01:55:49.785Z",
+    "published": "Sat, 03 Oct 2026 23:19:42 +0000"
+  },
+  {
+    "url": "https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659",
+    "title": "The Mulleted, Meme-Loving Billionaire Behind Meta's Hit AI App",
+    "description": "Article URL: https://www.wsj.com/tech/ai/alexandr-wang-muse-meta-efae7659\nComments URL: https://news.ycombinator.com/item?id=49948697\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T01:55:49.785Z",
+    "published": "Sat, 03 Oct 2026 23:11:03 +0000"
+  },
+  {
+    "url": "https://tailstory-app.com/en/blog/can-ai-read-pain-in-a-cats-face",
+    "title": "Can AI read pain in your cat's face?",
+    "description": "Article URL: https://tailstory-app.com/en/blog/can-ai-read-pain-in-a-cats-face\nComments URL: https://news.ycombinator.com/item?id=49948518\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T01:55:49.785Z",
+    "published": "Sat, 03 Oct 2026 22:46:51 +0000"
+  },
+  {
+    "url": "https://github.com/vayungodara/cliproxy-rs",
+    "title": "Show HN: Cliproxy-rs, a Rust port of the CLIProxyAPI LLM subscription proxy",
+    "description": "Article URL: https://github.com/vayungodara/cliproxy-rs\nComments URL: https://news.ycombinator.com/item?id=49948441\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T01:55:49.785Z",
+    "published": "Sat, 03 Oct 2026 22:36:03 +0000"
+  },
+  {
+    "url": "https://chillphysicsenjoyer.substack.com/p/merging-with-an-llm",
+    "title": "Merging With An LLM: Can an LLM reconstruct my values from small data?",
+    "description": "Article URL: https://chillphysicsenjoyer.substack.com/p/merging-with-an-llm\nComments URL: https://news.ycombinator.com/item?id=49948376\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T01:55:49.785Z",
+    "published": "Sat, 03 Oct 2026 22:24:52 +0000"
+  },
+  {
+    "url": "https://basilhalperin.com/papers/singularities.pdf",
+    "title": "When Does Automating AI Research Produce Explosive Growth? [pdf]",
+    "description": "Article URL: https://basilhalperin.com/papers/singularities.pdf\nComments URL: https://news.ycombinator.com/item?id=49948355\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T01:55:49.785Z",
+    "published": "Sat, 03 Oct 2026 22:22:10 +0000"
+  },
+  {
+    "url": "https://publicai.io/",
+    "title": "Building the Human Layer of AI",
+    "description": "Article URL: https://publicai.io/\nComments URL: https://news.ycombinator.com/item?id=49948340\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T01:55:49.785Z",
+    "published": "Sat, 03 Oct 2026 22:18:59 +0000"
+  },
+  {
+    "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+    "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+    "description": "Article URL: https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken\nComments URL: https://news.ycombinator.com/item?id=49948332\nPoints: 146\n# Comments: 96",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-04T01:55:49.785Z",
+    "published": "Sat, 03 Oct 2026 22:18:13 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2273779/apple-mac-studio-how-changed-over-years/",
+    "title": "How has Apple's Mac Studio changed over the years?",
+    "description": "Explore how Apple's Mac Studio has evolved, with internal upgrades, performance gains, and subtle design changes shaping each new generation of the desktop.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-04T01:56:10.009Z",
+    "published": "Sun, 04 Oct 2026 00:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2273771/why-only-pink-macbook-available-right-now/",
+    "title": "Why is this the only pink MacBook available right now?",
+    "description": "Is it too much to ask for some more colorful laptops?",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-04T01:56:10.009Z",
+    "published": "Sat, 03 Oct 2026 23:30:00 +0000"
   }
 ]
