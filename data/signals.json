@@ -72178,5 +72178,348 @@
     "published": "Mon, 05 Oct 2026 01:47:28 +0000",
     "processed": true,
     "processedAt": "2026-10-05T06:49:05.354Z"
+  },
+  {
+    "url": "https://openai.com/index/eu-text-provenance",
+    "title": "Our approach to EU text provenance rules",
+    "description": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-05T15:47:57.912Z",
+    "published": "Mon, 05 Oct 2026 15:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-05T15:50:38.791Z"
+  },
+  {
+    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "title": "Building advertising for the way people use AI",
+    "description": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-05T15:47:57.912Z",
+    "published": "Mon, 05 Oct 2026 10:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-05T15:50:38.791Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+    "title": "OpenAI launches visual ads that appear alongside image generation results",
+    "description": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-05T15:48:01.300Z",
+    "published": "Mon, 05 Oct 2026 15:14:24 +0000",
+    "processed": true,
+    "processedAt": "2026-10-05T15:50:38.791Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+    "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+    "description": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-05T15:48:01.300Z",
+    "published": "Mon, 05 Oct 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-05T15:50:38.791Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+    "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+    "description": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-05T15:48:01.300Z",
+    "published": "Mon, 05 Oct 2026 14:35:09 +0000",
+    "processed": true,
+    "processedAt": "2026-10-05T15:50:38.791Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+    "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+    "description": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-05T15:48:01.300Z",
+    "published": "Mon, 05 Oct 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+    "title": "Bringing predictive analytics to the agentic AI era",
+    "description": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from pr",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-05T15:48:02.419Z",
+    "published": "Mon, 05 Oct 2026 13:29:32 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
+    "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. People really hate AI, so why can’t they get enough? —Will Douglas Heaven Over the summer I talked to the CEO of Springboards, a startup building an L",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-05T15:48:02.419Z",
+    "published": "Mon, 05 Oct 2026 12:10:00 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+    "title": "People really hate AI, so why can’t they get enough?",
+    "description": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&#8230",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-05T15:48:02.419Z",
+    "published": "Mon, 05 Oct 2026 08:00:00 +0000"
+  },
+  {
+    "url": "https://letters.unchartedpathbreakthroughs.com/posts/what-ai-means-for-career-growth",
+    "title": "What AI Means for Career Growth",
+    "description": "Article URL: https://letters.unchartedpathbreakthroughs.com/posts/what-ai-means-for-career-growth\nComments URL: https://news.ycombinator.com/item?id=49966415\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T15:48:11.295Z",
+    "published": "Mon, 05 Oct 2026 15:46:59 +0000"
+  },
+  {
+    "url": "https://chat.extrudeai.com/",
+    "title": "AI Parametric Part Design with FreeCAD on Browser",
+    "description": "Article URL: https://chat.extrudeai.com/\nComments URL: https://news.ycombinator.com/item?id=49966338\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T15:48:11.295Z",
+    "published": "Mon, 05 Oct 2026 15:42:14 +0000"
+  },
+  {
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-217-year-old-napoleonic-code-in-just-six-hours-single-prompt-ai-run-solves-24-rows-of-custom-symbols-from-a-single-image-reveals-lost-troop-orders",
+    "title": "GPT-6 Astra cracks 217-year-old Napoleonic code in six hours",
+    "description": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-217-year-old-napoleonic-code-in-just-six-hours-single-prompt-ai-run-solves-24-rows-of-custom-symbols-from-a-single-image-reveals-lost-troop-orders\nComments URL: https://news.ycombinator.com/item?i",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T15:48:11.295Z",
+    "published": "Mon, 05 Oct 2026 15:37:37 +0000"
+  },
+  {
+    "url": "https://dirac.run/posts/easycommand",
+    "title": "Show HN: I finetuned 1.5B Qwen to near GPT-4o level bash generation perf",
+    "description": "Purely a hobby side project to see how far I can push a really small model, using (mostly) automated training pipelinesOriginal mention: https://news.ycombinator.com/item?id=49869735There were a bunch of requests to release it. Full synthetic data: https://huggingface.co/datasets/dirac-run/ec-train",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T15:48:11.295Z",
+    "published": "Mon, 05 Oct 2026 15:35:29 +0000"
+  },
+  {
+    "url": "https://timothyfcook.com/aia",
+    "title": "AI Attribution (AIA) – Timothy Cook",
+    "description": "Article URL: https://timothyfcook.com/aia\nComments URL: https://news.ycombinator.com/item?id=49966237\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T15:48:11.295Z",
+    "published": "Mon, 05 Oct 2026 15:35:28 +0000"
+  },
+  {
+    "url": "https://www.bera.ac.uk/blog/can-we-trust-ai-research-in-education-introducing-the-reporting-ai-studies-in-education-raise-framework",
+    "title": "Reporting AI Studies in Education (Raise) Framework",
+    "description": "Article URL: https://www.bera.ac.uk/blog/can-we-trust-ai-research-in-education-introducing-the-reporting-ai-studies-in-education-raise-framework\nComments URL: https://news.ycombinator.com/item?id=49966223\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T15:48:11.295Z",
+    "published": "Mon, 05 Oct 2026 15:34:20 +0000"
+  },
+  {
+    "url": "https://crowdlee.com",
+    "title": "AI Survey and instant insights",
+    "description": "Article URL: https://crowdlee.com\nComments URL: https://news.ycombinator.com/item?id=49966043\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T15:48:11.295Z",
+    "published": "Mon, 05 Oct 2026 15:22:07 +0000"
+  },
+  {
+    "url": "https://aweb.ai/blog/what-an-ai-agent-is-a-primer",
+    "title": "What an AI agent is – a primer",
+    "description": "Article URL: https://aweb.ai/blog/what-an-ai-agent-is-a-primer\nComments URL: https://news.ycombinator.com/item?id=49965931\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T15:48:11.295Z",
+    "published": "Mon, 05 Oct 2026 15:14:10 +0000"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
+    "title": "Florida woman arrested for allegedly making threats in an AI chat",
+    "description": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat\nComments URL: https://news.ycombinator.com/item?id=49965895\nPoints: 4\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T15:48:11.295Z",
+    "published": "Mon, 05 Oct 2026 15:11:36 +0000"
+  },
+  {
+    "url": "https://github.com/rot13maxi/recast",
+    "title": "Show HN: Recast, an experimental Smalltalk app that repairs itself with an LLM",
+    "description": "Article URL: https://github.com/rot13maxi/recast\nComments URL: https://news.ycombinator.com/item?id=49965851\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T15:48:11.295Z",
+    "published": "Mon, 05 Oct 2026 15:08:03 +0000"
+  },
+  {
+    "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
+    "title": "Altman: The world should accept some bad things happening for the benefits of AI",
+    "description": "Article URL: https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217\nComments URL: https://news.ycombinator.com/item?id=49965786\nPoints: 29\n# Comments: 33",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T15:48:11.295Z",
+    "published": "Mon, 05 Oct 2026 15:03:32 +0000"
+  },
+  {
+    "url": "https://www.wsj.com/cio-journal/mining-unwritten-data-for-ais-edge-52681e43",
+    "title": "Mining Unwritten Data for AI's Edge",
+    "description": "Article URL: https://www.wsj.com/cio-journal/mining-unwritten-data-for-ais-edge-52681e43\nComments URL: https://news.ycombinator.com/item?id=49965735\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T15:48:11.295Z",
+    "published": "Mon, 05 Oct 2026 14:59:11 +0000"
+  },
+  {
+    "url": "https://commandline.microsoft.com/structured-ai-evaluation-design-assert-vs-petri-bloom/",
+    "title": "Are your AI evals measuring the right things?",
+    "description": "Article URL: https://commandline.microsoft.com/structured-ai-evaluation-design-assert-vs-petri-bloom/\nComments URL: https://news.ycombinator.com/item?id=49965723\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T15:48:11.295Z",
+    "published": "Mon, 05 Oct 2026 14:58:14 +0000"
+  },
+  {
+    "url": "https://huntback.io/blog/ai-agents-running-offensive-security",
+    "title": "When the pentester is a fleet of AI agents: inside an autonomous vuln-hunting",
+    "description": "Article URL: https://huntback.io/blog/ai-agents-running-offensive-security\nComments URL: https://news.ycombinator.com/item?id=49965635\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T15:48:11.295Z",
+    "published": "Mon, 05 Oct 2026 14:50:15 +0000"
+  },
+  {
+    "url": "https://github.com/Fazmin/AILearningGuide",
+    "title": "Discover AI – A Learning Guide",
+    "description": "Article URL: https://github.com/Fazmin/AILearningGuide\nComments URL: https://news.ycombinator.com/item?id=49965583\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T15:48:11.295Z",
+    "published": "Mon, 05 Oct 2026 14:46:24 +0000"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/10/05/opinion/ada-lovelace-ai.html",
+    "title": "Ada Lovelace answered the big questions about AI",
+    "description": "Article URL: https://www.nytimes.com/2026/10/05/opinion/ada-lovelace-ai.html\nComments URL: https://news.ycombinator.com/item?id=49965437\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T15:48:11.295Z",
+    "published": "Mon, 05 Oct 2026 14:34:17 +0000"
+  },
+  {
+    "url": "https://devnavigator.com/2026/10/05/ai-ready-data-foundations/",
+    "title": "AI-Ready Data: 4 Foundations for More Reliable Enterprise AI",
+    "description": "Article URL: https://devnavigator.com/2026/10/05/ai-ready-data-foundations/\nComments URL: https://news.ycombinator.com/item?id=49965427\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T15:48:11.295Z",
+    "published": "Mon, 05 Oct 2026 14:33:20 +0000"
+  },
+  {
+    "url": "https://taxcalcbench.ai/",
+    "title": "TaxCalcBench: Can AI file your taxes?",
+    "description": "Article URL: https://taxcalcbench.ai/\nComments URL: https://news.ycombinator.com/item?id=49965424\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T15:48:11.295Z",
+    "published": "Mon, 05 Oct 2026 14:32:49 +0000"
+  },
+  {
+    "url": "http://replicated.live/blog/games",
+    "title": "Claude playing old strategy games in 2026",
+    "description": "Article URL: http://replicated.live/blog/games\nComments URL: https://news.ycombinator.com/item?id=49965258\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T15:48:11.295Z",
+    "published": "Mon, 05 Oct 2026 14:20:29 +0000"
+  },
+  {
+    "url": "https://medium.com/ai-advances/a-bgp-inspired-identity-network-for-autonomous-ai-agents-e92ad4f95971",
+    "title": "A BGP-Inspired Identity Network for Autonomous AI Agents",
+    "description": "Article URL: https://medium.com/ai-advances/a-bgp-inspired-identity-network-for-autonomous-ai-agents-e92ad4f95971\nComments URL: https://news.ycombinator.com/item?id=49965097\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T15:48:11.295Z",
+    "published": "Mon, 05 Oct 2026 14:07:20 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-build-a-cheap-yet-reliable-model-router-with-jev/",
+    "title": "How to Build a Cheap, Yet Reliable Model Router With Jev",
+    "description": "Model routing can finally be a design choice rather than a system enhancement\nThe post How to Build a Cheap, Yet Reliable Model Router With Jev appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-05T15:48:16.890Z",
+    "published": "Mon, 05 Oct 2026 11:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/aleph-alpha-releases-kolibri-an-open-weight-model-that-makes-the-case-for-european-ai-sovereignty/",
+    "title": "Aleph Alpha releases Kolibri, an open-weight model that makes the case for European AI sovereignty",
+    "description": "Aleph Alpha has released Kolibri, a German-English mixture-of-experts model with 78 billion parameters, about three billion of which are active per token. Over 21 percent of the training data is German. The model was trained on 768 B200 GPUs in Germany and Finland, and the weights are freel",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-05T15:48:18.595Z",
+    "published": "Mon, 05 Oct 2026 14:12:50 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/chatgpts-new-ad-format-fills-the-image-generation-loading-screen-with-product-carousels/",
+    "title": "ChatGPT's new ad format fills the image generation loading screen with product carousels",
+    "description": "ChatGPT users in the US will soon see display ads while the chatbot generates an image for them.\nThe article ChatGPT&#039;s new ad format fills the image generation loading screen with product carousels appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-05T15:48:18.595Z",
+    "published": "Mon, 05 Oct 2026 12:37:32 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/ai-is-eroding-office-hours-study-groups-and-the-trust-between-faculty-and-students-mit-report-finds/",
+    "title": "AI is eroding office hours, study groups, and the trust between faculty and students, MIT report finds",
+    "description": "An MIT expert committee warns that AI is eroding key parts of the college experience: office hours, study groups, and the school's flagship research program for undergraduates are all fading. Trust between faculty and students is breaking down, and some professors are even considering AI ag",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-05T15:48:18.595Z",
+    "published": "Mon, 05 Oct 2026 11:46:18 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/05/yandex-introduces-sona-a-single-generative-recommender-that-replaces-entire-recommendation-cascade/",
+    "title": "Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade",
+    "description": "One transformer ran candidate generation and ranking in Yandex Music's A/B test without hand-engineered features, lifting likes 11.42%.\nThe post Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade appeared first on MarkTechPost.",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-05T15:48:27.231Z",
+    "published": "Mon, 05 Oct 2026 08:10:37 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2277403/polands-antitrust-regulator-accuses-google-of-unfair-market-practices/",
+    "title": "Poland's antitrust regulator accuses Google of unfair market practices",
+    "description": "The penalty could be up to 10 percent of Google's annual revenue.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-05T15:48:32.282Z",
+    "published": "Mon, 05 Oct 2026 15:26:55 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2277271/openai-is-testing-more-ads-in-chatgpt/",
+    "title": "OpenAI is testing more ads in ChatGPT",
+    "description": "Display ads, what a concept.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-05T15:48:32.282Z",
+    "published": "Mon, 05 Oct 2026 14:38:31 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2274820/how-long-xbox-series-x-last-lifespan-support/",
+    "title": "How long can you expect an Xbox Series X to last?",
+    "description": "Strong software support and a repairable design should give Microsoft&#39;s console a long lifespan.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-05T15:48:32.282Z",
+    "published": "Mon, 05 Oct 2026 12:15:00 +0000"
   }
 ]
