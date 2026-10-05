@@ -13580,7 +13580,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-02T23:45:28.330Z",
-    "published": "Sun, 02 Aug 2026 21:51:09 +0000"
+    "published": "Sun, 02 Aug 2026 21:51:09 +0000",
+    "processed": true,
+    "processedAt": "2026-10-05T00:42:07.997Z"
   },
   {
     "url": "https://www.jvt.me/posts/2026/08/02/ai-maintainer/",
@@ -13589,7 +13591,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-02T23:45:28.330Z",
-    "published": "Sun, 02 Aug 2026 21:47:45 +0000"
+    "published": "Sun, 02 Aug 2026 21:47:45 +0000",
+    "processed": true,
+    "processedAt": "2026-10-05T00:42:07.997Z"
   },
   {
     "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work/",
@@ -13598,7 +13602,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-02T23:45:28.330Z",
-    "published": "Sun, 02 Aug 2026 21:40:11 +0000"
+    "published": "Sun, 02 Aug 2026 21:40:11 +0000",
+    "processed": true,
+    "processedAt": "2026-10-05T00:42:07.997Z"
   },
   {
     "url": "https://deltiasgaming.com/google-removes-new-earth-ai-tool-a-day-after-users-create-fake-disasters/",
@@ -72113,5 +72119,27 @@
     "category": "community",
     "discovered": "2026-10-04T21:50:34.253Z",
     "published": "Sun, 04 Oct 2026 19:09:49 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/04/gpt-6-astra-vs-gpt-6-1-sol-vs-gemini-4-argon-vs-claude-fable-5-1-which-frontier-model-fits-which-job/",
+    "title": "GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: Which Frontier Model Fits Which Job",
+    "description": "Astra leads computer use, Argon leads legal and finance work, and Sol wins on price for coding agents.\nThe post GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: Which Frontier Model Fits Which Job appeared first on MarkTechPost.",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-05T00:39:58.385Z",
+    "published": "Sun, 04 Oct 2026 20:59:56 +0000",
+    "processed": true,
+    "processedAt": "2026-10-05T00:42:07.999Z"
+  },
+  {
+    "url": "https://www.engadget.com/2276417/every-starlink-dish-available-which-setup-right/",
+    "title": "Every Starlink Dish Available: How To Know Which Setup May Be Right For You",
+    "description": "Everyone has different needs when it comes to internet connectivity, and Starlink&#39;s dish selection caters to a many applications, from stationary to mobile.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-05T00:40:02.322Z",
+    "published": "Sun, 04 Oct 2026 23:15:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-05T00:42:07.999Z"
   }
 ]
