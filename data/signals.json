@@ -72521,5 +72521,375 @@
     "category": "news",
     "discovered": "2026-10-05T15:48:32.282Z",
     "published": "Mon, 05 Oct 2026 12:15:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+    "description": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-05T22:27:58.529Z",
+    "published": "Mon, 05 Oct 2026 20:36:48 +0000",
+    "processed": true,
+    "processedAt": "2026-10-05T22:30:33.649Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+    "description": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-05T22:27:58.529Z",
+    "published": "Mon, 05 Oct 2026 19:33:53 +0000",
+    "processed": true,
+    "processedAt": "2026-10-05T22:30:33.649Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+    "description": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-05T22:27:58.529Z",
+    "published": "Mon, 05 Oct 2026 18:54:30 +0000",
+    "processed": true,
+    "processedAt": "2026-10-05T22:30:33.649Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+    "description": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-05T22:27:58.529Z",
+    "published": "Mon, 05 Oct 2026 18:29:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-05T22:30:33.649Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+    "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+    "description": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-05T22:27:58.529Z",
+    "published": "Mon, 05 Oct 2026 17:29:22 +0000",
+    "processed": true,
+    "processedAt": "2026-10-05T22:30:33.649Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+    "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+    "description": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-05T22:27:58.529Z",
+    "published": "Mon, 05 Oct 2026 16:43:35 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+    "title": "Connecting AI agents to enterprise knowledge",
+    "description": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to re",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-05T22:27:59.781Z",
+    "published": "Mon, 05 Oct 2026 15:47:52 +0000"
+  },
+  {
+    "url": "https://github.com/utpalJayNadiger/terminal-steps",
+    "title": "Terminal Steps: A Claude mod for a daily step goal, synced from Apple Health",
+    "description": "Article URL: https://github.com/utpalJayNadiger/terminal-steps\nComments URL: https://news.ycombinator.com/item?id=49971594\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T22:28:04.791Z",
+    "published": "Mon, 05 Oct 2026 22:13:10 +0000"
+  },
+  {
+    "url": "https://itsaplan.dev",
+    "title": "It's a Plan – issue tracker where people and AI agents ship together",
+    "description": "Article URL: https://itsaplan.dev\nComments URL: https://news.ycombinator.com/item?id=49971516\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T22:28:04.791Z",
+    "published": "Mon, 05 Oct 2026 22:05:17 +0000"
+  },
+  {
+    "url": "https://www.modeloptic.com/blog/give-your-ai-agent-a-dsl",
+    "title": "Give Your AI Agent a Domain-Specific Language",
+    "description": "Article URL: https://www.modeloptic.com/blog/give-your-ai-agent-a-dsl\nComments URL: https://news.ycombinator.com/item?id=49971515\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T22:28:04.791Z",
+    "published": "Mon, 05 Oct 2026 22:05:15 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=49971503",
+    "title": "Show HN: The mainbrella effect – AI code / Agent machines",
+    "description": "Hi, my name is Andrew and I'm the founder of mainbrella co. Just a few days ago Cloudflare launched their container sandbox service. That inspired me to see what I could build in terms of a better e2b.dev or daytona.io type system. It is all open source GPL 3.0 and we offer the same services as the",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T22:28:04.791Z",
+    "published": "Mon, 05 Oct 2026 22:04:23 +0000"
+  },
+  {
+    "url": "https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html",
+    "title": "Engineer says Claude Code has made his job \"soul-sucking\"",
+    "description": "Article URL: https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html\nComments URL: https://news.ycombinator.com/item?id=49971473\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T22:28:04.791Z",
+    "published": "Mon, 05 Oct 2026 22:01:35 +0000"
+  },
+  {
+    "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/01/fixer-financier-spymaster-how-the-uaes-sheikh-tahnoon-is-setting-his-sights-on-ai-dominance",
+    "title": "Fixer, financier, spymaster: UAE's Sheikh Tahnoon setting sights on AI dominance",
+    "description": "Article URL: https://www.theguardian.com/news/ng-interactive/2026/oct/01/fixer-financier-spymaster-how-the-uaes-sheikh-tahnoon-is-setting-his-sights-on-ai-dominance\nComments URL: https://news.ycombinator.com/item?id=49971426\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T22:28:04.791Z",
+    "published": "Mon, 05 Oct 2026 21:57:12 +0000"
+  },
+  {
+    "url": "https://www.a16z.news/p/top-100-consumer-ai-apps-seventh",
+    "title": "Top Consumer AI Apps",
+    "description": "Article URL: https://www.a16z.news/p/top-100-consumer-ai-apps-seventh\nComments URL: https://news.ycombinator.com/item?id=49971117\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T22:28:04.791Z",
+    "published": "Mon, 05 Oct 2026 21:33:12 +0000"
+  },
+  {
+    "url": "https://ototo.dev/",
+    "title": "Show HN: Ototo: Offload code exploration to a smaller model from Claude et al.",
+    "description": "Hey all - I made a thing with my clanker Kevin: Ototo (https://ototo.dev/) - yes this is clanker driven dev. The idea is to offload code exploration and other token'y heavy tasks to a smaller model to do the work and chuck the result back. This helps in a couple of ways (1) it saves tokens if you c",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T22:28:04.791Z",
+    "published": "Mon, 05 Oct 2026 21:25:51 +0000"
+  },
+  {
+    "url": "https://runbook.scosovan.com/claude-code-routine-reported-success-did-nothing/",
+    "title": "Why your Claude Code routine reported success and did nothing",
+    "description": "Article URL: https://runbook.scosovan.com/claude-code-routine-reported-success-did-nothing/\nComments URL: https://news.ycombinator.com/item?id=49970942\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T22:28:04.791Z",
+    "published": "Mon, 05 Oct 2026 21:20:22 +0000"
+  },
+  {
+    "url": "https://www.vals.ai/home",
+    "title": "Testing AI on Real-World Tasks",
+    "description": "Article URL: https://www.vals.ai/home\nComments URL: https://news.ycombinator.com/item?id=49970806\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T22:28:04.791Z",
+    "published": "Mon, 05 Oct 2026 21:10:49 +0000"
+  },
+  {
+    "url": "https://www.agilityio.com",
+    "title": "Agility: Build Software at AI Speed",
+    "description": "Article URL: https://www.agilityio.com\nComments URL: https://news.ycombinator.com/item?id=49970747\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T22:28:04.791Z",
+    "published": "Mon, 05 Oct 2026 21:06:56 +0000"
+  },
+  {
+    "url": "https://simulkit.com/en/mac-local-llm",
+    "title": "Show HN: All local LLM(s) on all Apple Devices",
+    "description": "Various simulation running website with complete LLM indexation support.I thought it would be interesting to explain everyone what kind of model can be run in each type of Apple Device.If I give a shared simulation like https://simulkit.com/en/mac-local-llm/6MwixMWu8mAny LLM will be able to read it",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T22:28:04.791Z",
+    "published": "Mon, 05 Oct 2026 20:55:29 +0000"
+  },
+  {
+    "url": "https://www.lighthouselegal.ai/",
+    "title": "Lighthouse Legal – Voice AI for personal injury intake",
+    "description": "Article URL: https://www.lighthouselegal.ai/\nComments URL: https://news.ycombinator.com/item?id=49970343\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T22:28:04.791Z",
+    "published": "Mon, 05 Oct 2026 20:37:40 +0000"
+  },
+  {
+    "url": "https://www.supadocs.app/",
+    "title": "Free AI Construction Estimating in the Web",
+    "description": "Article URL: https://www.supadocs.app/\nComments URL: https://news.ycombinator.com/item?id=49970275\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T22:28:04.791Z",
+    "published": "Mon, 05 Oct 2026 20:32:19 +0000"
+  },
+  {
+    "url": "https://yasyf.com/writing/give-your-llm-more-dsls/",
+    "title": "Give your LLM more DSLs",
+    "description": "Article URL: https://yasyf.com/writing/give-your-llm-more-dsls/\nComments URL: https://news.ycombinator.com/item?id=49970182\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T22:28:04.791Z",
+    "published": "Mon, 05 Oct 2026 20:24:58 +0000"
+  },
+  {
+    "url": "https://claude.ai/artifact/YVmnQojHNnSmijpVRtZ4xe",
+    "title": "Ask HN: Feedback regarding my AI setup",
+    "description": "Article URL: https://claude.ai/artifact/YVmnQojHNnSmijpVRtZ4xe\nComments URL: https://news.ycombinator.com/item?id=49970144\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T22:28:04.791Z",
+    "published": "Mon, 05 Oct 2026 20:22:38 +0000"
+  },
+  {
+    "url": "https://apps.apple.com/us/app/halo-personal-ai/id6783715054",
+    "title": "Show HN: Halo – A Personal AI with On-Device Harness, Memory and Browser Agent",
+    "description": "Halo is privacy focused personal assistant for iOS that uses a custom built agent harness with support to use you existing LLM subscriptions, Wiki based memory system backed by on-device RAG, a full-fledged local browser agent, chat with generative UI and more.TLDR: It's a better version of Hermes/",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T22:28:04.791Z",
+    "published": "Mon, 05 Oct 2026 20:11:08 +0000"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o",
+    "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+    "description": "Article URL: https://www.bbc.co.uk/news/articles/c5j9x9pr0240o\nComments URL: https://news.ycombinator.com/item?id=49969929\nPoints: 6\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T22:28:04.791Z",
+    "published": "Mon, 05 Oct 2026 20:07:10 +0000"
+  },
+  {
+    "url": "https://twitter.com/zainmfj/status/2107146556176798081",
+    "title": "Ghost.ai's new personal AI computer, Nvidia RTX PRO 4000 Blackwell",
+    "description": "Article URL: https://twitter.com/zainmfj/status/2107146556176798081\nComments URL: https://news.ycombinator.com/item?id=49969707\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T22:28:04.791Z",
+    "published": "Mon, 05 Oct 2026 19:50:02 +0000"
+  },
+  {
+    "url": "https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile",
+    "title": "Anthropic removes support for local Claude Cowork sessions",
+    "description": "Article URL: https://support.claude.com/en/articles/15520349-use-claude-cowork-on-web-desktop-and-mobile\nComments URL: https://news.ycombinator.com/item?id=49969693\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-05T22:28:04.791Z",
+    "published": "Mon, 05 Oct 2026 19:49:14 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/meta-and-microsoft-pull-back-from-claude-as-anthropic-transforms-from-partner-into-competitor/",
+    "title": "Meta and Microsoft pull back from Claude as Anthropic transforms from partner into competitor",
+    "description": "Meta and Microsoft, two of Anthropic's biggest enterprise customers, are sharply cutting their use of Claude. Microsoft slashed the monthly per-employee budget in its cloud division from $100,000 to $10,000, while Meta halved its Claude Code users to 30,000. Both companies are pushing their",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-05T22:28:12.691Z",
+    "published": "Mon, 05 Oct 2026 18:59:19 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/",
+    "title": "Reka AI's omni-model Rho-1 handles text, images, video, and robot control in a single model",
+    "description": "Reka AI's Rho-1 is a 19-billion-parameter omni-model that processes and generates text, images, video, and robot control actions in a single neural network. Trained on 320 H100 GPUs in about three months, it uses a fraction of the compute today's top models need. Instead of routing tasks to",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-05T22:28:12.691Z",
+    "published": "Mon, 05 Oct 2026 18:26:05 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/",
+    "title": "OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide",
+    "description": "OpenAI is adding invisible textGrain watermarks to ChatGPT in the EU, but unlike Anthropic, it will let API customers worldwide opt out. Tests show detection rates as high as 95 percent, dropping to 17 percent when a quarter of the words are replaced.\nThe article OpenAI will watermark ChatG",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-05T22:28:12.691Z",
+    "published": "Mon, 05 Oct 2026 17:32:42 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/most-americans-want-ai-development-to-slow-down-or-stop-entirely-new-poll-finds/",
+    "title": "Most Americans want AI development to slow down or stop entirely, new poll finds",
+    "description": "According to a Quinnipiac University poll, 77 percent of Americans want to slow down or stop AI development until its safety has been verified. 86 percent support independent safety standards, and 74 percent have little or no trust in AI company leaders. \"[…] the public wants safeguards tha",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-05T22:28:12.691Z",
+    "published": "Mon, 05 Oct 2026 16:37:08 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-is-quietly-becoming-americas-biggest-corporate-donor-ahead-of-its-mega-ipo/",
+    "title": "Anthropic is quietly becoming America's biggest corporate donor ahead of its mega IPO",
+    "description": "Anthropic employees donated $540 million in 2025 alone, nearly five times as much as the next-largest Fortune 500 donors, thanks to a company program that tops up every stock donation with extra shares and triples contributions from early employees.\nThe article Anthropic is quietly becoming",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-05T22:28:12.691Z",
+    "published": "Mon, 05 Oct 2026 16:00:12 +0000"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
+    "title": "ReviewBench: An open benchmark for AI code review",
+    "description": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics.\nThe post ReviewBench: An open benchmark for AI code review appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-10-05T22:28:17.922Z",
+    "published": "Mon, 05 Oct 2026 15:59:40 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/05/building-a-streaming-robotics-learning-pipeline-using-nvidia-cosmos3-droid/",
+    "title": "Building a Streaming Robotics Learning Pipeline Using NVIDIA Cosmos3-DROID",
+    "description": "Discover how to construct an end-to-end streaming robotics learning pipeline using the NVIDIA Cosmos3-DROID dataset without local downloads, leveraging byte-range Parquet reads, behavior cloning, and temporal ensembling.\nThe post Building a Streaming Robotics Learning Pipeline Using NVIDIA Cosmos3-D",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-05T22:28:22.066Z",
+    "published": "Mon, 05 Oct 2026 21:41:14 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads/",
+    "title": "Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads",
+    "description": "Reflection AI has introduced Beam, its first open-weight model. It is a 501B sparse Mixture-of-Experts model with 23B active parameters, built for coding and agentic work. Reflection says it matches GLM-5.2 on reasoning with 3 to 4x less inference compute. Apache 2.0 weights are due later in October",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-05T22:28:22.066Z",
+    "published": "Mon, 05 Oct 2026 21:04:20 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2275958/extended-warranty-for-laptop-tv-worth-it/",
+    "title": "Are extended warranties on TVs and laptops ever really worth it?",
+    "description": "TV and laptop repairs can get expensive in a hurry, so getting a warranty sounds smart. But is it really?",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-05T22:28:26.796Z",
+    "published": "Mon, 05 Oct 2026 22:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2278051/wikimedia-links-openai-agents-to-an-outage-and-unauthorized-activity/",
+    "title": "Wikimedia links OpenAI agents to an outage and unauthorized activity",
+    "description": "Wikimedia says it&#39;s &#34;deeply concerned about the impact of &#39;rogue&#39; AI agents on platforms like ours.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-05T22:28:26.796Z",
+    "published": "Mon, 05 Oct 2026 19:55:11 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2277896/arc-raiders-and-the-finals-are-both-getting-tv-and-film-adaptations/",
+    "title": "Arc Raiders and The Finals are both getting TV and film adaptations",
+    "description": "There aren&#39;t many details on these upcoming game adaptations just yet.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-05T22:28:26.796Z",
+    "published": "Mon, 05 Oct 2026 19:07:04 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2277866/openai-will-add-a-digital-watermark-to-text-and-code-generated-in-the-eu/",
+    "title": "OpenAI will add a digital watermark to text and code generated in the EU",
+    "description": "This move is to comply with the EU&#39;s new AI transparency rules.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-05T22:28:26.796Z",
+    "published": "Mon, 05 Oct 2026 18:55:40 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2277678/hyundai-ioniq-3-all-electric-hot-hatch-goes-on-sale-in-the-uk/",
+    "title": "Hyundai's all-electric hot hatch goes on sale in the UK, starting at around $25,000",
+    "description": "Hyundai has no plans to bring the Ioniq 3 to the US, unfortunately.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-05T22:28:26.796Z",
+    "published": "Mon, 05 Oct 2026 17:44:49 +0000"
   }
 ]
