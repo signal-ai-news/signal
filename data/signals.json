@@ -13613,7 +13613,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-02T23:45:28.330Z",
-    "published": "Sun, 02 Aug 2026 21:17:56 +0000"
+    "published": "Sun, 02 Aug 2026 21:17:56 +0000",
+    "processed": true,
+    "processedAt": "2026-10-05T06:49:05.353Z"
   },
   {
     "url": "https://elezea.com/2026/08/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide/",
@@ -13622,7 +13624,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-02T23:45:28.330Z",
-    "published": "Sun, 02 Aug 2026 21:16:04 +0000"
+    "published": "Sun, 02 Aug 2026 21:16:04 +0000",
+    "processed": true,
+    "processedAt": "2026-10-05T06:49:05.353Z"
   },
   {
     "url": "https://gavinray97.github.io/blog/design-by-contract-and-effects-for-llms",
@@ -72141,5 +72145,38 @@
     "published": "Sun, 04 Oct 2026 23:15:00 +0000",
     "processed": true,
     "processedAt": "2026-10-05T00:42:07.999Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+    "title": "EmTech Future 2026: When AI Meets Everything",
+    "description": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors fo",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-05T06:46:33.948Z",
+    "published": "Mon, 05 Oct 2026 04:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-05T06:49:05.354Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/04/the-story-of-qwen-alibabas-ai-models-from-7b-to-2-4t/",
+    "title": "The Story of Qwen: Alibaba’s AI Models From 7B to 2.4T",
+    "description": "Alibaba's Qwen went from an invite-only chatbot in April 2023 to a 2.4-trillion-parameter open-weight model in August 2026. This is the full story, release by release: every major model, its key feature, and how its license changed. Each claim links to its source.\nThe post The Story of Qwen: Alibaba",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-05T06:46:54.752Z",
+    "published": "Mon, 05 Oct 2026 04:10:34 +0000",
+    "processed": true,
+    "processedAt": "2026-10-05T06:49:05.354Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/04/can-an-open-model-do-security-research-cantinas-apex-flash-1-solves-40-of-60-held-out-bug-tasks/",
+    "title": "Can an Open Model Do Security Research? Cantina’s apex-flash-1 Solves 40 of 60 Held-Out Bug Tasks",
+    "description": "Cantina Security, with Yeta Labs, has released apex-flash-1, an open-weights model trained specifically for vulnerability research. It is a reinforcement learning fine-tune of Z.ai&#8217;s GLM-5.3-Flash, released on Hugging Face under the MIT license. Is it deployable? Yes, the MIT weights serve on",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-05T06:46:54.752Z",
+    "published": "Mon, 05 Oct 2026 01:47:28 +0000",
+    "processed": true,
+    "processedAt": "2026-10-05T06:49:05.354Z"
   }
 ]
