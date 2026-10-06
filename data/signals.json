@@ -13668,7 +13668,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-02T23:45:28.330Z",
-    "published": "Sun, 02 Aug 2026 20:35:33 +0000"
+    "published": "Sun, 02 Aug 2026 20:35:33 +0000",
+    "processed": true,
+    "processedAt": "2026-10-06T09:21:19.762Z"
   },
   {
     "url": "https://authoryze.ai",
@@ -72919,5 +72921,49 @@
     "published": "Mon, 05 Oct 2026 22:51:05 +0000",
     "processed": true,
     "processedAt": "2026-10-06T02:29:23.158Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+    "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-10-06T09:18:38.217Z",
+    "published": "Tue, 06 Oct 2026 06:44:39 GMT",
+    "processed": true,
+    "processedAt": "2026-10-06T09:21:19.764Z"
+  },
+  {
+    "url": "https://the-decoder.com/cohere-pitches-north-2-as-the-enterprise-ai-control-room-that-works-with-any-model/",
+    "title": "Cohere pitches North 2 as the enterprise AI control room that works with any model",
+    "description": "Cohere turned its enterprise platform into a control center for AI agents with North 2, handling multi-step workflows on their own and retaining context across sessions.\nThe article Cohere pitches North 2 as the enterprise AI control room that works with any model appeared first on The Deco",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-06T09:18:59.348Z",
+    "published": "Tue, 06 Oct 2026 06:58:19 +0000",
+    "processed": true,
+    "processedAt": "2026-10-06T09:21:19.764Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/05/reka-releases-rho-1-a-19b-omni-reasoning-model-that-understands-generates-video-and-outputs-robot-actions-in-one/",
+    "title": "Reka Releases Rho-1: A 19B Omni-Reasoning Model That Understands, Generates Video and Outputs Robot Actions in One",
+    "description": "Reka has released Rho-1, a 19B omni-reasoning model trained from scratch. One network reads and generates text, images, video and robot actions over a shared KV cache. A distilled variant returns a 5.3-second clip in about a second. It is a research preview with no public weights yet.\nThe post Reka",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-06T09:19:09.036Z",
+    "published": "Tue, 06 Oct 2026 06:45:31 +0000",
+    "processed": true,
+    "processedAt": "2026-10-06T09:21:19.764Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/05/beyond-domain-specific-world-models-jepa-anything-uses-1-recipe-for-7-fields/",
+    "title": "Beyond Domain-Specific World Models: JEPA-Anything Uses 1 Recipe for 7 Fields",
+    "description": "JEPA-Anything splits a JEPA's single latent target into 4 orthogonal factors, each with its own predictor. Tested across 7 domains, it beat matched JEPA baselines on all 10 dynamics tasks and cut Interventional Pong intervention error by 34.8%.\nThe post Beyond Domain-Specific World Models: JEPA-Anyt",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-06T09:19:09.036Z",
+    "published": "Tue, 06 Oct 2026 05:12:01 +0000",
+    "processed": true,
+    "processedAt": "2026-10-06T09:21:19.764Z"
   }
 ]
