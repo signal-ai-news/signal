@@ -73164,5 +73164,186 @@
     "category": "news",
     "discovered": "2026-10-06T16:12:03.081Z",
     "published": "Tue, 06 Oct 2026 09:38:03 +0000"
+  },
+  {
+    "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+    "title": "Advancing computer use with Ironclad",
+    "description": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-06T21:09:17.252Z",
+    "published": "Tue, 06 Oct 2026 10:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-06T21:12:01.615Z"
+  },
+  {
+    "url": "https://openai.com/index/atlassian-partnership",
+    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "description": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-06T21:09:17.253Z",
+    "published": "Tue, 06 Oct 2026 16:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-06T21:12:01.615Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+    "title": "How AI decision models could change content moderation",
+    "description": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-06T21:09:20.248Z",
+    "published": "Tue, 06 Oct 2026 20:35:20 +0000",
+    "processed": true,
+    "processedAt": "2026-10-06T21:12:01.615Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+    "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+    "description": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-06T21:09:20.248Z",
+    "published": "Tue, 06 Oct 2026 20:00:30 +0000",
+    "processed": true,
+    "processedAt": "2026-10-06T21:12:01.615Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+    "title": "The next hurdle for AI agents: getting websites to let them in",
+    "description": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-06T21:09:20.248Z",
+    "published": "Tue, 06 Oct 2026 19:56:50 +0000",
+    "processed": true,
+    "processedAt": "2026-10-06T21:12:01.615Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+    "title": "Hark releases an AI personal assistant with a focus on privacy",
+    "description": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-06T21:09:20.248Z",
+    "published": "Tue, 06 Oct 2026 18:22:45 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+    "title": "Mirror Particle is building a ‘world model’ of human behavior",
+    "description": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-06T21:09:20.248Z",
+    "published": "Tue, 06 Oct 2026 16:35:00 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+    "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+    "description": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-10-06T21:09:20.866Z",
+    "published": "Tue, 06 Oct 2026 19:21:14 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/elevenagents-architect",
+    "title": "Introducing ElevenAgents Architect",
+    "description": "Find the improvements your team would otherwise miss. Bring a goal, get back proposals already drafted and validated in simulated conversations.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-10-06T21:09:23.561Z",
+    "published": "Tue, 06 Oct 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+    "description": "",
+    "source": "DeepMind Blog",
+    "category": "llm",
+    "discovered": "2026-10-06T21:09:39.174Z",
+    "published": "Tue, 06 Oct 2026 19:57:04 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/google-claims-embeddinggemma-2-outperforms-rival-embedding-models-twice-its-size/",
+    "title": "Google claims EmbeddingGemma 2 outperforms rival embedding models twice its size",
+    "description": "Google released EmbeddingGemma 2, an open model with 740 million parameters that converts text, images, video, audio, and code into vectors. It runs on-device, needs only about 191 MB of RAM, and outperforms some competing models twice its size, according to Google. Paired with a small open",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-06T21:09:44.312Z",
+    "published": "Tue, 06 Oct 2026 19:47:27 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/",
+    "title": "Google's new image model Nano Banana 2.1 generates better images for less money",
+    "description": "Google's new Nano Banana 2.1 image model uses Gemini 3.6 Flash and beats the previous Pro model in some benchmarks at a lower cost. But its predecessor also scored well in tests, while Pro often produced better images in practice.\nThe article Google&#039;s new image model Nano Banana 2.1 ge",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-06T21:09:44.312Z",
+    "published": "Tue, 06 Oct 2026 19:29:42 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/",
+    "title": "Wikimedia confirms OpenAI's rogue AI agents edited wikis, tried to compromise tools, and hammered its infrastructure",
+    "description": "According to the Wikimedia Foundation, rogue OpenAI agents edited wikis without permission, tried to abuse a citation tool as a proxy, and may have caused a partial Wikidata Query Service outage through massive crawling. Wikimedia says AI companies need to take responsibility for their agen",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-06T21:09:44.312Z",
+    "published": "Tue, 06 Oct 2026 18:29:35 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/microsoft-publishes-nobel-economists-bearish-ai-forecast-of-just-1-5-gdp-growth-over-a-decade/",
+    "title": "Microsoft publishes Nobel economist's bearish AI forecast of just 1.5% GDP growth over a decade",
+    "description": "Microsoft published a bearish AI outlook from Nobel economist Daron Acemoglu. He predicts about 1.5 percent GDP growth over ten years and at most five percent of jobs replaced. Bigger models won't move the needle, he argues. What's missing are practical apps that change how work gets done.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-06T21:09:44.312Z",
+    "published": "Tue, 06 Oct 2026 17:31:51 +0000"
+  },
+  {
+    "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+    "title": "Building Git infrastructure for agent-scale development",
+    "description": "We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development.\nThe post Building Git infrastructure for agent-scale development appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-10-06T21:09:48.670Z",
+    "published": "Tue, 06 Oct 2026 20:57:56 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/",
+    "title": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
+    "description": "From their dorky parties to their weird walks, the movie holds OpenAI CEO Sam Altman and other stakeholders with contempt, while demonstrating their recklessness.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-06T21:09:49.883Z",
+    "published": "Tue, 06 Oct 2026 18:45:39 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
+    "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
+    "description": "“There’s a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-06T21:09:49.883Z",
+    "published": "Tue, 06 Oct 2026 17:28:33 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/06/google-deepmind-releases-embeddinggemma-2-a-740m-open-multimodal-embedding-model-built-on-gemma-4/",
+    "title": "Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4",
+    "description": "Google DeepMind's EmbeddingGemma 2 maps 5 input types into one 768d space and ships today under Apache 2.0.\nThe post Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4 appeared first on MarkTechPost.",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-06T21:09:51.975Z",
+    "published": "Tue, 06 Oct 2026 18:36:08 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/06/mistral-ai-releases-mistral-large-4-le-chonk-a-1-05t-parameter-open-weight-multimodal-moe/",
+    "title": "Mistral AI Releases Mistral Large 4 (Le Chonk): A 1.05T Parameter Multimodal MoE Model",
+    "description": "Mistral AI has released Mistral Large 4, nicknamed Le Chonk, as a public preview. It is a 1.05 trillion parameter Mixture of Experts model with 49 billion active parameters, native image input, and a 1 million token context window, trained on 3,800 NVIDIA Grace Blackwell GPUs in Mistral's own Europe",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-06T21:09:51.975Z",
+    "published": "Tue, 06 Oct 2026 17:30:46 +0000"
   }
 ]
