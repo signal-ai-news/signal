@@ -73762,5 +73762,267 @@
     "category": "news",
     "discovered": "2026-10-07T14:26:41.909Z",
     "published": "Wed, 07 Oct 2026 08:58:55 +0000"
+  },
+  {
+    "url": "https://openai.com/index/teens-learn-and-plan",
+    "title": "Helping teens learn, plan, and shape the future of AI",
+    "description": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-07T20:05:57.752Z",
+    "published": "Wed, 07 Oct 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-07T20:08:46.690Z"
+  },
+  {
+    "url": "https://openai.com/index/radisson",
+    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "description": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-07T20:05:57.752Z",
+    "published": "Wed, 07 Oct 2026 07:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-07T20:08:46.690Z"
+  },
+  {
+    "url": "https://openai.com/index/gpt-6-for-everyone",
+    "title": "GPT-6 and Intelligent UI for everyone",
+    "description": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-07T20:05:57.752Z",
+    "published": "Wed, 07 Oct 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-07T20:08:46.690Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+    "title": "Multimodal open d1 decision models for the edge",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-10-07T20:05:59.878Z",
+    "published": "Wed, 07 Oct 2026 16:54:33 GMT",
+    "processed": true,
+    "processedAt": "2026-10-07T20:08:46.690Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+    "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+    "description": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-07T20:06:01.095Z",
+    "published": "Wed, 07 Oct 2026 18:30:57 +0000",
+    "processed": true,
+    "processedAt": "2026-10-07T20:08:46.690Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+    "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+    "description": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-07T20:06:01.095Z",
+    "published": "Wed, 07 Oct 2026 18:15:28 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+    "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+    "description": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-07T20:06:01.095Z",
+    "published": "Wed, 07 Oct 2026 18:00:19 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+    "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+    "description": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-07T20:06:01.095Z",
+    "published": "Wed, 07 Oct 2026 16:53:46 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+    "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+    "description": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-07T20:06:01.095Z",
+    "published": "Wed, 07 Oct 2026 15:07:08 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+    "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+    "description": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-07T20:06:01.095Z",
+    "published": "Wed, 07 Oct 2026 14:41:38 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+    "title": "Google experiments with an AI-powered gaming platform",
+    "description": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-07T20:06:01.095Z",
+    "published": "Wed, 07 Oct 2026 14:36:23 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+    "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+    "description": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-07T20:06:01.095Z",
+    "published": "Wed, 07 Oct 2026 14:30:00 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-wrong-is-your-marketing-mix-model-mmm/",
+    "title": "How Wrong Is Your Marketing Mix Model (MMM)?",
+    "description": "A well-built MMM can still be wrong, because the spend it learns from never held the information it needs. This article tests whether changing when you spend, not how much, can fix that.\nThe post How Wrong Is Your Marketing Mix Model (MMM)? appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-07T20:06:24.727Z",
+    "published": "Wed, 07 Oct 2026 15:30:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/chatgpt-with-gpt-6-ditches-mostly-text-output-for-interactive-ui-with-charts-buttons-and-mini-apps/",
+    "title": "ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps",
+    "description": "OpenAI is rolling out GPT-6 with \"Intelligent UI,\" a feature that turns answers into interactive interfaces with charts, buttons, and forms. The model can now respond while still thinking, cutting wait times by 44 percent. Paying customers get GPT-6 Sol, free users get GPT-6 Luna.\nThe artic",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-07T20:06:26.434Z",
+    "published": "Wed, 07 Oct 2026 19:06:40 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/",
+    "title": "Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over",
+    "description": "Anthropic's new Claude Haiku 5.5 crushes its predecessor in benchmarks, jumping from 15.7 to 72.4 percent on the OSWorld computer use test. Token prices drop by up to 90 percent, though a new tokenizer eats into some of those savings by consuming more tokens per task.\nThe article Claude Hai",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-07T20:06:26.434Z",
+    "published": "Wed, 07 Oct 2026 18:49:23 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/zuckerbergs-biohub-leads-a-1-8-billion-push-to-build-ai-models-that-predict-cell-behavior/",
+    "title": "Zuckerberg's Biohub leads a $1.8 billion push to build AI models that predict cell behavior",
+    "description": "Biohub, the research organization backed by Mark Zuckerberg and Priscilla Chan, is coordinating a $1.8 billion initiative to train AI models that predict cell behavior. Meta, Google DeepMind, Isomorphic Labs, and the US Department of Energy are funding data, lab equipment, and compute. A fi",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-07T20:06:26.434Z",
+    "published": "Wed, 07 Oct 2026 17:58:20 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/google-says-180-billion-images-and-videos-now-carry-synthid-watermarks-as-detector-goes-public/",
+    "title": "Google says 180 billion images and videos now carry SynthID watermarks as detector goes public",
+    "description": "Google's AI watermark detector SynthID is now public. Anyone can check whether images, videos, or audio were created by Google's AI or partners like OpenAI and Nvidia. More than 180 billion pieces of content already carry the watermark, but the tool only identifies SynthID-tagged content, n",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-07T20:06:26.434Z",
+    "published": "Wed, 07 Oct 2026 17:50:17 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-launches-decisions-api-that-reduces-complex-evaluations-to-yes-no-or-pick-one/",
+    "title": "OpenAI launches Decisions API that reduces complex evaluations to yes, no, or pick one",
+    "description": "OpenAI's new Decisions API classifies text and images about ten times faster than the Responses API, returning yes/no probabilities, category picks, or scale ratings for $0.10 per million input tokens. The company also cut its paid API tiers from five to three.\nThe article OpenAI launches D",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-07T20:06:26.434Z",
+    "published": "Wed, 07 Oct 2026 15:36:39 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/google-bets-gemini-can-turn-casual-players-into-game-developers-with-new-playground-feature/",
+    "title": "Google bets Gemini can turn casual players into game developers with new Playground feature",
+    "description": "Google launched Playground, a browser-based platform that lets users create their own games using nothing but text prompts and no coding skills. The platform runs on Gemini, Nano Banana, and Lyria. Alongside Playground, Google and Unity announced Unity Spark, a more professional AI tool wit",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-07T20:06:26.434Z",
+    "published": "Wed, 07 Oct 2026 14:44:42 +0000"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
+    "title": "Secret protection must scale with software",
+    "description": "Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it.\nThe post Secret protection must scale with software appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-10-07T20:06:31.571Z",
+    "published": "Wed, 07 Oct 2026 17:45:34 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
+    "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
+    "description": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-07T20:06:32.888Z",
+    "published": "Wed, 07 Oct 2026 18:45:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
+    "title": "The New ChatGPT Is More Show Than Tell",
+    "description": "OpenAI is updating ChatGPT for all users with an “Intelligent UI” that’s more visual—generating interactive elements as part of the chatbot’s outputs.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-07T20:06:32.888Z",
+    "published": "Wed, 07 Oct 2026 18:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
+    "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
+    "description": "The US government’s Tradewinds initiative has made it easier to throw millions of dollars at “nontraditional” defense contractors, including OpenAI, Anthropic, and Google.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-07T20:06:32.888Z",
+    "published": "Wed, 07 Oct 2026 15:34:33 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/07/liquid-ai-releases-open-weight-d1-3b-and-d1-omni-600m-multimodal-decision-models-with-zero-output-tokens/",
+    "title": "Liquid AI Releases Open-Weight d1-3B and d1-omni-600M: Multimodal Decision Models With Zero Output Tokens",
+    "description": "Liquid AI has released Open d1, two open-weight multimodal models in its d1 decision model family. d1-3B reads text and images. d1-omni-600M reads text with an image, or text with audio. Neither model writes text. Each returns calibrated, typed answers in one forward pass with zero output tokens. Th",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-07T20:06:35.602Z",
+    "published": "Wed, 07 Oct 2026 18:23:45 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2280319/disney-will-stream-the-super-bowl-along-with-some-monday-night-football-games/",
+    "title": "Disney+ will stream the Super Bowl, along with some Monday Night Football games",
+    "description": "The big event will also air on ABC and ESPN.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-07T20:06:40.434Z",
+    "published": "Wed, 07 Oct 2026 17:52:55 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2280310/microsoft-may-have-finally-fixed-windows-search-by-turning-it-into-a-chatbot/",
+    "title": "Microsoft may have finally fixed Windows search by turning it into a chatbot",
+    "description": "Microsoft&#39;s Copilot search redesign arrives this fall.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-07T20:06:40.434Z",
+    "published": "Wed, 07 Oct 2026 17:47:14 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2280302/microsoft-surface-laptop-ultra-specs/",
+    "title": "Here's everything we know about Microsoft's Surface Laptop Ultra",
+    "description": "Microsoft is finally sharing details about its first builder-class PC.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-07T20:06:40.434Z",
+    "published": "Wed, 07 Oct 2026 17:42:35 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2280298/everything-announced-at-microsofts-windows-and-surface-event/",
+    "title": "Everything announced at Microsoft's Windows and Surface event",
+    "description": "The company highlighted agentic AI features for Windows as well as the Surface Laptop Ultra.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-07T20:06:40.434Z",
+    "published": "Wed, 07 Oct 2026 17:41:41 +0000"
   }
 ]
