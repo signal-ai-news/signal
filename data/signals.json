@@ -13679,7 +13679,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-02T23:45:28.330Z",
-    "published": "Sun, 02 Aug 2026 20:34:42 +0000"
+    "published": "Sun, 02 Aug 2026 20:34:42 +0000",
+    "processed": true,
+    "processedAt": "2026-10-07T07:06:43.852Z"
   },
   {
     "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
@@ -13688,7 +13690,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-02T23:45:28.330Z",
-    "published": "Sun, 02 Aug 2026 20:22:23 +0000"
+    "published": "Sun, 02 Aug 2026 20:22:23 +0000",
+    "processed": true,
+    "processedAt": "2026-10-07T07:06:43.852Z"
   },
   {
     "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
@@ -13752,7 +13756,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-03T12:41:32.580Z",
-    "published": "Mon, 03 Aug 2026 12:23:59 +0000"
+    "published": "Mon, 03 Aug 2026 12:23:59 +0000",
+    "processed": true,
+    "processedAt": "2026-10-07T07:06:43.852Z"
   },
   {
     "url": "https://argot.tmonier.com/",
@@ -13761,7 +13767,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-03T12:41:32.580Z",
-    "published": "Mon, 03 Aug 2026 12:12:51 +0000"
+    "published": "Mon, 03 Aug 2026 12:12:51 +0000",
+    "processed": true,
+    "processedAt": "2026-10-07T07:06:43.852Z"
   },
   {
     "url": "https://github.com/Kirill-Chistov/VibeMenu",
@@ -73553,5 +73561,16 @@
     "category": "community",
     "discovered": "2026-10-07T00:57:34.310Z",
     "published": "Tue, 06 Oct 2026 20:25:45 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/06/meta-ai-open-sources-rebalancer-a-c-assignment-solver-that-runs-about-40-million-placement-problems-a-day/",
+    "title": "Meta AI Open-Sources Rebalancer: A C++ Assignment Solver That Runs About 40 Million Placement Problems a Day",
+    "description": "Meta has open-sourced Rebalancer, the C++ and Python library it has used for over 9 years to place shards, servers and traffic. It handles about 40 million assignment problems a day, using local search or MIP solvers like Gurobi, FICO Xpress and HiGHS. It is pip-installable under Apache 2.0.\nThe pos",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-07T07:04:33.640Z",
+    "published": "Wed, 07 Oct 2026 06:29:14 +0000",
+    "processed": true,
+    "processedAt": "2026-10-07T07:06:43.854Z"
   }
 ]
