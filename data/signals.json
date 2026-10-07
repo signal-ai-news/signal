@@ -73345,5 +73345,213 @@
     "category": "ml",
     "discovered": "2026-10-06T21:09:51.975Z",
     "published": "Tue, 06 Oct 2026 17:30:46 +0000"
+  },
+  {
+    "url": "https://openai.com/index/jump-trading",
+    "title": "How Jump Trading is scaling quant research with ChatGPT",
+    "description": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-07T00:57:23.700Z",
+    "published": "Tue, 06 Oct 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-07T00:59:59.090Z"
+  },
+  {
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+    "title": "Sharing AI progress in mathematics",
+    "description": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-07T00:57:23.701Z",
+    "published": "Tue, 06 Oct 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-07T00:59:59.090Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+    "description": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-07T00:57:26.804Z",
+    "published": "Tue, 06 Oct 2026 22:34:03 +0000",
+    "processed": true,
+    "processedAt": "2026-10-07T00:59:59.090Z"
+  },
+  {
+    "url": "https://www.makonea.com/en-US/casual/the-hardest-part-of-using-ai",
+    "title": "The Hardest Part of Using AI",
+    "description": "Article URL: https://www.makonea.com/en-US/casual/the-hardest-part-of-using-ai\nComments URL: https://news.ycombinator.com/item?id=49986389\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-07T00:57:34.310Z",
+    "published": "Wed, 07 Oct 2026 00:45:08 +0000",
+    "processed": true,
+    "processedAt": "2026-10-07T00:59:59.090Z"
+  },
+  {
+    "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
+    "title": "Researchers Backdoor Open AI Model to Steal Credentials in Coding Agents",
+    "description": "Article URL: https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned\nComments URL: https://news.ycombinator.com/item?id=49986345\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-07T00:57:34.310Z",
+    "published": "Wed, 07 Oct 2026 00:40:13 +0000",
+    "processed": true,
+    "processedAt": "2026-10-07T00:59:59.090Z"
+  },
+  {
+    "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
+    "title": "South Korea says AI agents appear to have been used to hack the country's banks",
+    "description": "Article URL: https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/\nComments URL: https://news.ycombinator.com/item?id=49985861\nPoints: 15\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-07T00:57:34.310Z",
+    "published": "Tue, 06 Oct 2026 23:50:33 +0000"
+  },
+  {
+    "url": "https://lexifina.com/blog/where-to-draw-the-line-on-ai-in-court-filings",
+    "title": "Where do we draw the line on AI in court filings?",
+    "description": "Article URL: https://lexifina.com/blog/where-to-draw-the-line-on-ai-in-court-filings\nComments URL: https://news.ycombinator.com/item?id=49985587\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-07T00:57:34.310Z",
+    "published": "Tue, 06 Oct 2026 23:21:07 +0000"
+  },
+  {
+    "url": "https://capitalandmain.com/ai-hasnt-replaced-these-interpreters-but-it-has-degraded-their-working-conditions",
+    "title": "AI Hasn't Replaced Interpreters But It Has Degraded Their Working Conditions",
+    "description": "Article URL: https://capitalandmain.com/ai-hasnt-replaced-these-interpreters-but-it-has-degraded-their-working-conditions\nComments URL: https://news.ycombinator.com/item?id=49985287\nPoints: 2\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-07T00:57:34.310Z",
+    "published": "Tue, 06 Oct 2026 22:51:01 +0000"
+  },
+  {
+    "url": "https://www.astralcodexten.com/p/an-open-letter-to-steven-pinker-on",
+    "title": "An Open Letter to Steven Pinker on AI",
+    "description": "Article URL: https://www.astralcodexten.com/p/an-open-letter-to-steven-pinker-on\nComments URL: https://news.ycombinator.com/item?id=49984947\nPoints: 13\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-07T00:57:34.310Z",
+    "published": "Tue, 06 Oct 2026 22:19:38 +0000"
+  },
+  {
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+    "title": "Sharing AI progress in mathematics",
+    "description": "https://github.com/openai/mathhttps://github.com/openai/math/tree/main/preprints\n\nComments URL: https://news.ycombinator.com/item?id=49984923\nPoints: 344\n# Comments: 291",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-07T00:57:34.310Z",
+    "published": "Tue, 06 Oct 2026 22:17:21 +0000"
+  },
+  {
+    "url": "https://agentability.org/",
+    "title": "Show HN: An AI agent runs ten web errands a day, every transcript published",
+    "description": "Article URL: https://agentability.org/\nComments URL: https://news.ycombinator.com/item?id=49984736\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-07T00:57:34.310Z",
+    "published": "Tue, 06 Oct 2026 22:00:58 +0000"
+  },
+  {
+    "url": "https://penguin-mail.com/",
+    "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+    "description": "Article URL: https://penguin-mail.com/\nComments URL: https://news.ycombinator.com/item?id=49984716\nPoints: 51\n# Comments: 12",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-07T00:57:34.310Z",
+    "published": "Tue, 06 Oct 2026 21:59:43 +0000"
+  },
+  {
+    "url": "https://www.transformernews.ai/p/ai-will-run-out-of-power",
+    "title": "AI is going to run out of power",
+    "description": "Article URL: https://www.transformernews.ai/p/ai-will-run-out-of-power\nComments URL: https://news.ycombinator.com/item?id=49984644\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-07T00:57:34.310Z",
+    "published": "Tue, 06 Oct 2026 21:52:26 +0000"
+  },
+  {
+    "url": "https://sulcus.dev/",
+    "title": "Sulcus – observe and control AI agents while they run",
+    "description": "Article URL: https://sulcus.dev/\nComments URL: https://news.ycombinator.com/item?id=49984636\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-07T00:57:34.310Z",
+    "published": "Tue, 06 Oct 2026 21:51:54 +0000"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/ckly0g1ljq2yo",
+    "title": "Italian PM files to trademark her voice against AI threats",
+    "description": "Article URL: https://www.bbc.com/news/articles/ckly0g1ljq2yo\nComments URL: https://news.ycombinator.com/item?id=49984617\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-07T00:57:34.310Z",
+    "published": "Tue, 06 Oct 2026 21:50:09 +0000"
+  },
+  {
+    "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+    "title": "Meta open sources code to let you make Muse AI gadgets",
+    "description": "Article URL: https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link\nComments URL: https://news.ycombinator.com/item?id=49984547\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-07T00:57:34.310Z",
+    "published": "Tue, 06 Oct 2026 21:42:59 +0000"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/10/06/mistral-ai-model-le-chonk.html",
+    "title": "Mistral unveils new AI model it says rivals best open systems from China",
+    "description": "Article URL: https://www.cnbc.com/2026/10/06/mistral-ai-model-le-chonk.html\nComments URL: https://news.ycombinator.com/item?id=49984444\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-07T00:57:34.310Z",
+    "published": "Tue, 06 Oct 2026 21:32:18 +0000"
+  },
+  {
+    "url": "https://www.proofatlas.ai/open-problems/",
+    "title": "Top Open Problems in Math by LLM-Assessed Importance",
+    "description": "Article URL: https://www.proofatlas.ai/open-problems/\nComments URL: https://news.ycombinator.com/item?id=49984311\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-07T00:57:34.310Z",
+    "published": "Tue, 06 Oct 2026 21:19:24 +0000"
+  },
+  {
+    "url": "https://github.com/wanderingstan/vibeconf-app",
+    "title": "Show HN: Vibeconferencing, Bring Claude Code or Codex into Your Google Meet",
+    "description": "A friend and I built this for our own calls and are sharing it as is. The itch: we kept copy-pasting Granola transcripts into Claude mid-call, and wondered what would happen if the agent just joined.Two-minute demo: https://youtu.be/XhCSRiiL67AHow it works: a local Electron app joins the Meet in it",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-07T00:57:34.310Z",
+    "published": "Tue, 06 Oct 2026 21:15:01 +0000"
+  },
+  {
+    "url": "https://www.hsgac.senate.gov/wp-content/uploads/Daniel-Kokotajlo-Testimony.pdf",
+    "title": "Daniel Kokotajlo's senate testimony on AI risk [pdf]",
+    "description": "Article URL: https://www.hsgac.senate.gov/wp-content/uploads/Daniel-Kokotajlo-Testimony.pdf\nComments URL: https://news.ycombinator.com/item?id=49984197\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-07T00:57:34.310Z",
+    "published": "Tue, 06 Oct 2026 21:10:51 +0000"
+  },
+  {
+    "url": "https://www.economist.com/business/2026/10/05/record-labels-are-in-a-spin-over-ai-music",
+    "title": "Record labels are in a spin over AI music",
+    "description": "Article URL: https://www.economist.com/business/2026/10/05/record-labels-are-in-a-spin-over-ai-music\nComments URL: https://news.ycombinator.com/item?id=49983879\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-07T00:57:34.310Z",
+    "published": "Tue, 06 Oct 2026 20:48:04 +0000"
+  },
+  {
+    "url": "https://www.ampersand.ai/blog/series-a-integration-infrastructure-for-enterprise-agents",
+    "title": "Enterprise AI is vaporware without access to systems of record",
+    "description": "Article URL: https://www.ampersand.ai/blog/series-a-integration-infrastructure-for-enterprise-agents\nComments URL: https://news.ycombinator.com/item?id=49983597\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-07T00:57:34.310Z",
+    "published": "Tue, 06 Oct 2026 20:25:45 +0000"
   }
 ]
