@@ -73572,5 +73572,195 @@
     "published": "Wed, 07 Oct 2026 06:29:14 +0000",
     "processed": true,
     "processedAt": "2026-10-07T07:06:43.854Z"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+    "title": "Introducing Playground: Create and play custom games",
+    "description": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-10-07T14:26:10.568Z",
+    "published": "Wed, 07 Oct 2026 12:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-07T14:28:48.280Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-10-07T14:26:11.288Z",
+    "published": "Wed, 07 Oct 2026 12:45:31 GMT",
+    "processed": true,
+    "processedAt": "2026-10-07T14:28:48.280Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+    "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+    "description": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-07T14:26:12.531Z",
+    "published": "Wed, 07 Oct 2026 14:15:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-07T14:28:48.280Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+    "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+    "description": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, don’t wait to register your ticket before prices increase at the door. Save up to $100 on your pass, plus",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-07T14:26:12.531Z",
+    "published": "Wed, 07 Oct 2026 14:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-07T14:28:48.280Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+    "title": "Google’s new SynthID website can identify AI-generated media",
+    "description": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-07T14:26:12.531Z",
+    "published": "Wed, 07 Oct 2026 14:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-07T14:28:48.280Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
+    "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular weight-loss drugs may do more than help people shed pounds. They migh",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-07T14:26:13.847Z",
+    "published": "Wed, 07 Oct 2026 12:10:00 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/the-consistency-quadrant-a-visual-guide-to-llm-reliability/",
+    "title": "The Consistency Quadrant: A Visual Guide to LLM Reliability",
+    "description": "Mapping structural variance against execution outputs to estimate coding agent reliability without ground truth.\nThe post The Consistency Quadrant: A Visual Guide to LLM Reliability appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-07T14:26:25.923Z",
+    "published": "Wed, 07 Oct 2026 12:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/when-do-pinns-beat-classical-numerical-methods-a-1d-vs-5d-experiment/",
+    "title": "When Do PINNs Beat Classical Numerical Methods? A 1D vs 5D Experiment",
+    "description": "I put a physics-informed neural network up against a plain finite-difference solver twice: once in 1D and once in 5D. The winner changed.\nThe post When Do PINNs Beat Classical Numerical Methods? A 1D vs 5D Experiment appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-07T14:26:25.923Z",
+    "published": "Wed, 07 Oct 2026 11:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/chatgpt-rated-unacceptable-risk-for-teens-after-parental-alerts-failed-during-suicide-conversations/",
+    "title": "ChatGPT rated \"unacceptable risk\" for teens after parental alerts failed during suicide conversations",
+    "description": "OpenAI's teen safety features for ChatGPT failed an independent audit. After more than 4,000 test prompts, the Common Sense Media Youth AI Safety Institute rated the service an \"unacceptable risk\" for minors. Conversations about suicide and self-harm on test accounts never triggered a paren",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-07T14:26:27.688Z",
+    "published": "Wed, 07 Oct 2026 12:34:34 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-gives-more-security-teams-access-to-claude-with-fewer-safety-restrictions/",
+    "title": "Anthropic gives more security teams access to Claude with fewer safety restrictions",
+    "description": "Anthropic is expanding its Cyber Verification Program, giving more security professionals access to Claude models with fewer safety restrictions for penetration testing, malware analysis, and vulnerability research. Anthropic says partners in its predecessor program found at least 129,000 c",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-07T14:26:27.688Z",
+    "published": "Wed, 07 Oct 2026 12:05:20 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-dumps-372-ai-generated-math-proofs-on-github-telling-the-academic-world-to-keep-up/",
+    "title": "OpenAI dumps 372 AI-generated math proofs on GitHub, telling the academic world to keep up",
+    "description": "OpenAI has published 372 AI-generated mathematical results on GitHub, including Lean formalizations for machine verification. Each result consumed about three hours of ChatGPT Pro compute on average. But 25 Fields Medal winners warn that mass-producing mathematical truths could destroy fert",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-07T14:26:27.688Z",
+    "published": "Wed, 07 Oct 2026 08:54:43 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
+    "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
+    "description": "Dots are designed to automate online tasks, like buying furniture. In my initial experience, the always-on agent was a bit buggy and couldn’t complete a captcha.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-07T14:26:34.219Z",
+    "published": "Wed, 07 Oct 2026 11:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
+    "title": "Your Next Great Read Might Be Certified ‘Organic’",
+    "description": "Amid a sea of AI writing slop, a new stamp for “organic literature” will help readers to pick out books authored by real, corn-fed, free-range humans.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-07T14:26:34.219Z",
+    "published": "Wed, 07 Oct 2026 08:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2278872/cisco-is-bringing-a-new-agentic-framework-to-its-webex-enterprise-platform/",
+    "title": "Cisco is bringing a new agentic framework to its Webex enterprise platform",
+    "description": "Cisco&#39;s Dialog feature promises to turn &#34;fragmented interactions into continuous customer relationships.&#34;",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-07T14:26:41.909Z",
+    "published": "Wed, 07 Oct 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2279565/google-synth-id-detector-ai-detection-website-is-now-available/",
+    "title": "Google's AI detection website is now available",
+    "description": "SynthID Detector will flag content created with AI tools from OpenAI, Google, Apple and other companies.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-07T14:26:41.909Z",
+    "published": "Wed, 07 Oct 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2279815/openai-just-posted-hundreds-more-results-on-major-math-problems/",
+    "title": "OpenAI just posted hundreds more results on major math problems",
+    "description": "The company said that most results were produced in a response to a single prompt given to a single AI agent.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-07T14:26:41.909Z",
+    "published": "Wed, 07 Oct 2026 13:08:45 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2279737/xreals-aura-android-xr-smartglasses-will-cost-you-at-least-1279/",
+    "title": "Xreal's Aura Android XR smartglasses will cost you at least $1,279",
+    "description": "Xreal's Aura smartglasses are powered by Qualcomm's Snapdragon Reality Elite chip.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-07T14:26:41.909Z",
+    "published": "Wed, 07 Oct 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2279750/googles-experimental-playground-platform-uses-ai-to-create-games-for-you/",
+    "title": "Google's experimental Playground platform uses AI to create games for you",
+    "description": "Google launches an AI-powered game creation platform called Playground.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-07T14:26:41.909Z",
+    "published": "Wed, 07 Oct 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2279642/microsoft-windows-surface-event-2026-live-blog-nvidia-rtx-spark-laptop-ultra/",
+    "title": "Microsoft Windows and Surface event 2026: Live updates as Satya Nadella and Jensen Huang take the stage",
+    "description": "More details on the Surface Laptop Ultra and NVIDIA RTX Spark are coming, but what else?",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-07T14:26:41.909Z",
+    "published": "Wed, 07 Oct 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2279712/apple-tv-dolby-atmos-support-formula-1/",
+    "title": "Apple TV's F1 coverage will now support Dolby Atmos",
+    "description": "Apple TV's F1 coverage will feature Dolby Atmos support, starting with the US Grand Prix in Texas later this month.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-07T14:26:41.909Z",
+    "published": "Wed, 07 Oct 2026 08:58:55 +0000"
   }
 ]
