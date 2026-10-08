@@ -13800,7 +13800,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-03T12:41:32.580Z",
-    "published": "Mon, 03 Aug 2026 12:05:15 +0000"
+    "published": "Mon, 03 Aug 2026 12:05:15 +0000",
+    "processed": true,
+    "processedAt": "2026-10-08T06:35:21.104Z"
   },
   {
     "url": "https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004",
@@ -74061,5 +74063,49 @@
     "published": "Wed, 07 Oct 2026 12:00:00 GMT",
     "processed": true,
     "processedAt": "2026-10-08T00:23:48.728Z"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/elevenlabs-singapore",
+    "title": "ElevenLabs launches in Singapore",
+    "description": "ElevenLabs launches in the Singapore, opening an office to bring voice AI to Southeast Asian enterprises.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-10-08T06:32:45.433Z",
+    "published": "Thu, 08 Oct 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-08T06:35:21.107Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/07/perplexity-ai-releases-pplx-embed-v2-late-a-0-6b-edge-model-and-a-9b-model-scoring-92-4-on-madqa/",
+    "title": "Perplexity AI Releases pplx-embed-v2-late: A 0.6B Edge Model and a 9B Model Scoring 92.4% on MADQA",
+    "description": "Perplexity's pplx-embed-v2-late comes in 2 sizes: a 0.6B model built to run on edge devices, and a 9B model for building high-quality indexes. Its best score is 92.4% on MADQA, and its weakest is 61.2% on ViDoRe v3 Markdown. Both are MIT-licensed and ready to self-host.\nThe post Perplexity AI Releas",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-08T06:33:08.727Z",
+    "published": "Thu, 08 Oct 2026 05:39:09 +0000",
+    "processed": true,
+    "processedAt": "2026-10-08T06:35:21.107Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/07/what-happens-when-a-trusted-model-repo-changes-unsloth-studio-re-checks-before-it-runs/",
+    "title": "What Happens When a Trusted Model Repo Changes? Unsloth Studio Re-Checks Before It Runs",
+    "description": "Unsloth's October 6 security overview explains how Studio checks code, weights, packages and tools before anything runs. Custom model code is scanned and approval is bound to its fingerprint. Flagged weight files are blocked in the load path, package-content findings fail CI, and tools run in probed",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-08T06:33:08.727Z",
+    "published": "Thu, 08 Oct 2026 01:49:11 +0000",
+    "processed": true,
+    "processedAt": "2026-10-08T06:35:21.107Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/07/anthropic-releases-claude-haiku-5-5-a-small-model-with-1m-context-priced-at-0-10-per-million-input-tokens/",
+    "title": "Anthropic Releases Claude Haiku 5.5: A Small Model With 1M Context Priced at $0.10 per Million Input Tokens",
+    "description": "Anthropic's Claude Haiku 5.5 starts at $0.10 per million input tokens, keeps 1M context, scores 72.4% on OSWorld.\nThe post Anthropic Releases Claude Haiku 5.5: A Small Model With 1M Context Priced at $0.10 per Million Input Tokens appeared first on MarkTechPost.",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-08T06:33:08.727Z",
+    "published": "Wed, 07 Oct 2026 20:38:30 +0000",
+    "processed": true,
+    "processedAt": "2026-10-08T06:35:21.107Z"
   }
 ]
