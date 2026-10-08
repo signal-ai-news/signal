@@ -74107,5 +74107,348 @@
     "published": "Wed, 07 Oct 2026 20:38:30 +0000",
     "processed": true,
     "processedAt": "2026-10-08T06:35:21.107Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+    "title": "Google releases a new local-first Granola competitor",
+    "description": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-08T13:56:05.826Z",
+    "published": "Thu, 08 Oct 2026 13:28:39 +0000",
+    "processed": true,
+    "processedAt": "2026-10-08T13:58:39.973Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+    "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+    "description": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund and others also participated.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-08T13:56:05.826Z",
+    "published": "Thu, 08 Oct 2026 13:20:32 +0000",
+    "processed": true,
+    "processedAt": "2026-10-08T13:58:39.973Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
+    "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is reaching fever pitch. Much of it comes from the i",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-08T13:56:07.169Z",
+    "published": "Thu, 08 Oct 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-08T13:58:39.973Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+    "title": "AI breakthroughs in robotics won’t change your life any time soon",
+    "description": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds.",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-08T13:56:07.169Z",
+    "published": "Thu, 08 Oct 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-08T13:58:39.973Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+    "title": "Building a safer path to autonomous industrial AI",
+    "description": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-08T13:56:07.169Z",
+    "published": "Thu, 08 Oct 2026 08:17:32 +0000",
+    "processed": true,
+    "processedAt": "2026-10-08T13:58:39.973Z"
+  },
+  {
+    "url": "https://developers.google.com/edge/foresight",
+    "title": "Google Granola Competitor: local first AI meeting dictation",
+    "description": "Article URL: https://developers.google.com/edge/foresight\nComments URL: https://news.ycombinator.com/item?id=50005825\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-08T13:56:12.197Z",
+    "published": "Thu, 08 Oct 2026 13:53:24 +0000"
+  },
+  {
+    "url": "https://www.nsnews.com/local-news/solo-teen-hiker-hoisted-from-mountain-cliff-after-using-ai-to-plan-route-north-shore-rescue-says-12855671",
+    "title": "Solo teen hiker hoisted from mountain cliff after using AI to plan route",
+    "description": "Article URL: https://www.nsnews.com/local-news/solo-teen-hiker-hoisted-from-mountain-cliff-after-using-ai-to-plan-route-north-shore-rescue-says-12855671\nComments URL: https://news.ycombinator.com/item?id=50005816\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-08T13:56:12.197Z",
+    "published": "Thu, 08 Oct 2026 13:52:41 +0000"
+  },
+  {
+    "url": "https://registrum.co.uk/mcp",
+    "title": "Show HN: Ask Claude about any UK company – no API key needed",
+    "description": "The hosted MCP endpoint needs no signup or key - Add https://registrum.co.uk/api/mcp to Claude, Cursor or any MCP client and ask things like \"who are the directors of Tesco and what else do they run\"\n\nComments URL: https://news.ycombinator.com/item?id=50005724\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-08T13:56:12.197Z",
+    "published": "Thu, 08 Oct 2026 13:42:42 +0000"
+  },
+  {
+    "url": "https://joelgouveia.substack.com/p/the-ai-purge-has-begun",
+    "title": "The AI purge has begun",
+    "description": "Article URL: https://joelgouveia.substack.com/p/the-ai-purge-has-begun\nComments URL: https://news.ycombinator.com/item?id=50005718\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-08T13:56:12.197Z",
+    "published": "Thu, 08 Oct 2026 13:42:12 +0000"
+  },
+  {
+    "url": "https://spectrum.ieee.org/walking-robotic-hand",
+    "title": "Walking Robotic Hand Uses AI to Learn New Tricks",
+    "description": "Article URL: https://spectrum.ieee.org/walking-robotic-hand\nComments URL: https://news.ycombinator.com/item?id=50005711\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-08T13:56:12.197Z",
+    "published": "Thu, 08 Oct 2026 13:41:29 +0000"
+  },
+  {
+    "url": "https://baromae.blogspot.com/2026/10/microsoft-execution-containers-mxc.html",
+    "title": "Microsoft is sandboxing AI agents at the OS level",
+    "description": "Article URL: https://baromae.blogspot.com/2026/10/microsoft-execution-containers-mxc.html\nComments URL: https://news.ycombinator.com/item?id=50005641\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-08T13:56:12.197Z",
+    "published": "Thu, 08 Oct 2026 13:34:07 +0000"
+  },
+  {
+    "url": "https://discuss.huggingface.co/t/we-gave-ai-a-trust-we-never-gave-people-the-third-axis-after-capability-and-permission/183807",
+    "title": "We gave AI a trust we never gave people: can it, may it, on what grounds",
+    "description": "Article URL: https://discuss.huggingface.co/t/we-gave-ai-a-trust-we-never-gave-people-the-third-axis-after-capability-and-permission/183807\nComments URL: https://news.ycombinator.com/item?id=50005612\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-08T13:56:12.197Z",
+    "published": "Thu, 08 Oct 2026 13:30:15 +0000"
+  },
+  {
+    "url": "https://github.com/tallyhook/tallyhook-collector",
+    "title": "Show HN: Tallyhook – price Claude Code and Codex logs per client you bill",
+    "description": "Article URL: https://github.com/tallyhook/tallyhook-collector\nComments URL: https://news.ycombinator.com/item?id=50005611\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-08T13:56:12.197Z",
+    "published": "Thu, 08 Oct 2026 13:30:02 +0000"
+  },
+  {
+    "url": "https://github.com/SamsungLabs/LittleBit",
+    "title": "Sub-1-Bit LLM Compression via Latent Factorization",
+    "description": "Article URL: https://github.com/SamsungLabs/LittleBit\nComments URL: https://news.ycombinator.com/item?id=50005608\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-08T13:56:12.197Z",
+    "published": "Thu, 08 Oct 2026 13:29:46 +0000"
+  },
+  {
+    "url": "https://medium.com/@MirArshadTalpur/how-to-deploy-agentic-ai-in-banking-with-zizkadb-a-step-by-step-guide-836ede74f8fa",
+    "title": "How to Deploy Agentic AI in Banking with ZizkaDB: A Step by Step Guide",
+    "description": "Article URL: https://medium.com/@MirArshadTalpur/how-to-deploy-agentic-ai-in-banking-with-zizkadb-a-step-by-step-guide-836ede74f8fa\nComments URL: https://news.ycombinator.com/item?id=50005601\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-08T13:56:12.197Z",
+    "published": "Thu, 08 Oct 2026 13:29:27 +0000"
+  },
+  {
+    "url": "https://dx.doi.org/10.2139/ssrn.7576882",
+    "title": "Collective Superintelligence – Keeping Humans in the AI Loop",
+    "description": "Article URL: https://dx.doi.org/10.2139/ssrn.7576882\nComments URL: https://news.ycombinator.com/item?id=50005589\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-08T13:56:12.197Z",
+    "published": "Thu, 08 Oct 2026 13:27:42 +0000"
+  },
+  {
+    "url": "https://blog.getcassis.com/new-llms-is-your-app-keeping-up/",
+    "title": "LLM analytics benchmark: the best model for your analytics agent",
+    "description": "Article URL: https://blog.getcassis.com/new-llms-is-your-app-keeping-up/\nComments URL: https://news.ycombinator.com/item?id=50005574\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-08T13:56:12.197Z",
+    "published": "Thu, 08 Oct 2026 13:26:09 +0000"
+  },
+  {
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+    "title": "Gemini Agent Introduced",
+    "description": "Article URL: https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026\nComments URL: https://news.ycombinator.com/item?id=50005566\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-08T13:56:12.197Z",
+    "published": "Thu, 08 Oct 2026 13:25:27 +0000"
+  },
+  {
+    "url": "https://github.com/TinySuiteHQ/TinyWebUI",
+    "title": "Show HN: TinyWebUI – A small, self-hosted AI chat UI with MCP, search and memory",
+    "description": "Article URL: https://github.com/TinySuiteHQ/TinyWebUI\nComments URL: https://news.ycombinator.com/item?id=50005552\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-08T13:56:12.197Z",
+    "published": "Thu, 08 Oct 2026 13:23:59 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50005449",
+    "title": "Tell HN: News flash is that you guys were writing slop waaay before AI",
+    "description": "I am sickened by the self delusional comments and behaviors from a lot of software engineers. People need to stop pretending that their work was not sloppy prior to AI. All of y’all are and were not Karpathy, or even some mid-tier programmer. For 99.9 percent of you, your were and always have been:",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-08T13:56:12.197Z",
+    "published": "Thu, 08 Oct 2026 13:14:47 +0000"
+  },
+  {
+    "url": "https://github.com/ggeorgovassilis/llm-gauze",
+    "title": "Show HN: Gauze fixes (some) open-weight LLM deficiencies",
+    "description": "If you have worked with open-weight/local LLMs, you've known both the highs and the lows. Lows there are many: malformed response tags, empty responses, stuck loops, overthinking, inference engine errors and much more. You don't notice those when using commercial models, because the vendors iron ou",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-08T13:56:12.197Z",
+    "published": "Thu, 08 Oct 2026 12:51:44 +0000"
+  },
+  {
+    "url": "https://www.tomshardware.com/software/video-editing-graphic-design/solo-developer-rebuilds-adobe-creative-suite-in-rust-using-claude-releases-it-free-to-all-targets-100-percent-parity-in-one-month-despite-piracy-claims-and-safety-warnings",
+    "title": "Solo Developer Rebuilds Adobe Creative Suite in Rust Using Claude",
+    "description": "Article URL: https://www.tomshardware.com/software/video-editing-graphic-design/solo-developer-rebuilds-adobe-creative-suite-in-rust-using-claude-releases-it-free-to-all-targets-100-percent-parity-in-one-month-despite-piracy-claims-and-safety-warnings\nComments URL: https://news.ycombinator.com/item",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-08T13:56:12.197Z",
+    "published": "Thu, 08 Oct 2026 12:39:26 +0000"
+  },
+  {
+    "url": "https://apps.apple.com/us/app/preach/id6806718726",
+    "title": "Preach+ – AI-assisted sermon prep for preachers (EN/ES)",
+    "description": "Article URL: https://apps.apple.com/us/app/preach/id6806718726\nComments URL: https://news.ycombinator.com/item?id=50005077\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-08T13:56:12.197Z",
+    "published": "Thu, 08 Oct 2026 12:34:31 +0000"
+  },
+  {
+    "url": "https://github.com/shahin-hu/dialtrace",
+    "title": "How HN: Dialtrace – see where the time goes on a voice AI phone call",
+    "description": "Article URL: https://github.com/shahin-hu/dialtrace\nComments URL: https://news.ycombinator.com/item?id=50004992\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-08T13:56:12.197Z",
+    "published": "Thu, 08 Oct 2026 12:26:14 +0000"
+  },
+  {
+    "url": "https://macanorak.com/what-are-the-monkeys-typing/",
+    "title": "What Are the Monkeys Typing? We can see what AI does. We can't tell why",
+    "description": "Article URL: https://macanorak.com/what-are-the-monkeys-typing/\nComments URL: https://news.ycombinator.com/item?id=50004979\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-08T13:56:12.197Z",
+    "published": "Thu, 08 Oct 2026 12:25:04 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/your-models-mse-is-lying-to-you-iii-time-series-diffusion/",
+    "title": "Your Model's MSE Is Lying to You III: Time Series Diffusion",
+    "description": "A diffusion head for probabilistic time series forecasting: why a forecast can get the mean and the variance right and still describe a future that never happens, and how to fix it.\nThe post Your Model's MSE Is Lying to You III: Time Series Diffusion appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-08T13:56:17.874Z",
+    "published": "Thu, 08 Oct 2026 12:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/ai-engineers-applied-scientists-forward-deployed-engineers-lets-unpack/",
+    "title": "AI Engineers, Applied Scientists, Forward Deployed Engineers: Let's Unpack.",
+    "description": "An exploration of the new data science roles emerging after the Large Language Model explosion.\nThe post AI Engineers, Applied Scientists, Forward Deployed Engineers: Let's Unpack. appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-08T13:56:17.874Z",
+    "published": "Thu, 08 Oct 2026 11:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/ai-math-breakthroughs-have-ethereum-researchers-debating-how-fast-wallet-security-could-collapse/",
+    "title": "AI math breakthroughs have Ethereum researchers debating how fast wallet security could collapse",
+    "description": "Ethereum researcher Justin Drake is urging the crypto industry to prepare a \"bunker mode\" for a scenario where AI-powered math could break wallet signature schemes within months. Vitalik Buterin broadly agrees but warns against rushed migrations, saying he's personally lost more money to bo",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-08T13:56:19.630Z",
+    "published": "Thu, 08 Oct 2026 13:52:54 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found/",
+    "title": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+    "description": "Zenity Labs researchers say a single publicly accessible AI agent on Amazon's Bedrock AgentCore was enough to take over every AgentCore agent in the same AWS account and region. The attack exploited an internal AWS interface for temporary cloud credentials that agents could reach without re",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-08T13:56:19.630Z",
+    "published": "Thu, 08 Oct 2026 13:01:01 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/teens-ai-guided-mountain-hike-ends-with-a-helicopter-rescue-and-a-lesson-in-common-sense/",
+    "title": "Teen's AI-guided mountain hike ends with a helicopter rescue and a lesson in common sense",
+    "description": "A 16-year-old planned his hiking route on Crown Mountain near Vancouver using Anthropic's Claude and had to be airlifted off a steep rock face. The chatbot had sent him down a route that requires climbing gear. Bryce doesn't blame the AI but says he'll never use it for route planning again.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-08T13:56:19.630Z",
+    "published": "Thu, 08 Oct 2026 09:57:42 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks/",
+    "title": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
+    "description": "According to CrowdStrike, a suspected Chinese-speaking attacker hacked multiple South Korean financial institutions. At Shinhan Bank alone, more than 25,000 customer records were stolen. The attacker used ARTEX, an open-source tool that uses AI models like DeepSeek and GLM-5.3 for automated",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-08T13:56:19.630Z",
+    "published": "Thu, 08 Oct 2026 09:24:17 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/",
+    "title": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
+    "description": "The Center for Humane Technology helped spark a movement against excessive screen time, but internal tensions over its direction and strategy have simmered for years, sources tell WIRED.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-08T13:56:26.347Z",
+    "published": "Thu, 08 Oct 2026 09:30:00 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/08/architect-launches-liquid-inference-a-real-time-auction-for-llm-inference/",
+    "title": "Architect Launches Liquid Inference, a Real-Time Auction for LLM Inference",
+    "description": "Architect Financial Technologies has launched Liquid Inference, an LLM router that runs a live auction for every request. Liquid Inference is an LLM inference marketplace from Architect where providers bid to serve each prompt. The buyer pays the lowest offer that meets its rules. For developers, it",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-08T13:56:29.296Z",
+    "published": "Thu, 08 Oct 2026 08:53:34 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/08/nvidia-pivotopd-teaches-multi-turn-ai-agents-to-recover-from-pivotal-mistakes/",
+    "title": "NVIDIA PivotOPD Teaches Multi-Turn AI Agents to Recover From Pivotal Mistakes",
+    "description": "NVIDIA researchers introduced PivotOPD, an on-policy distillation method that trains multi-turn LLM agents to avoid early pivotal mistakes and recover from them, posting the best average against 13 baselines on 3 agent benchmarks.\nThe post NVIDIA PivotOPD Teaches Multi-Turn AI Agents to Recover From",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-08T13:56:29.296Z",
+    "published": "Thu, 08 Oct 2026 08:40:02 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2280787/amazon-alexa-tablet-12-pro-hands-on/",
+    "title": "Amazon Alexa Tablet 12 Pro hands-on: Taking aim at the iPad Pro for less than half the price",
+    "description": "It&#39;s a promising tablet that starts at about $500.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-08T13:56:33.820Z",
+    "published": "Thu, 08 Oct 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2280917/amazon-alexa-tablets-october-2026/",
+    "title": "Amazon's new Alexa tablets include a 12-inch model with anti-glare screen",
+    "description": "Amazon has launched three new tablets that come with Alexa+.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-08T13:56:33.820Z",
+    "published": "Thu, 08 Oct 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2280879/gpt-6-coming-all-tiers-chatgpt/",
+    "title": "GPT-6 is coming to all tiers of ChatGPT",
+    "description": "OpenAI is rolling out GPT-6 to ChatGPT, and it will come with the capability to build more visual responses.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-08T13:56:33.820Z",
+    "published": "Thu, 08 Oct 2026 08:45:16 +0000"
   }
 ]
