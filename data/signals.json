@@ -13778,7 +13778,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-03T12:41:32.580Z",
-    "published": "Mon, 03 Aug 2026 12:10:04 +0000"
+    "published": "Mon, 03 Aug 2026 12:10:04 +0000",
+    "processed": true,
+    "processedAt": "2026-10-08T00:23:48.726Z"
   },
   {
     "url": "https://github.com/vkarach/spriteloom",
@@ -13787,7 +13789,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-03T12:41:32.580Z",
-    "published": "Mon, 03 Aug 2026 12:06:49 +0000"
+    "published": "Mon, 03 Aug 2026 12:06:49 +0000",
+    "processed": true,
+    "processedAt": "2026-10-08T00:23:48.726Z"
   },
   {
     "url": "https://www.youtube.com/watch?v=Gw_hnD7m00M",
@@ -74024,5 +74028,38 @@
     "category": "news",
     "discovered": "2026-10-07T20:06:40.434Z",
     "published": "Wed, 07 Oct 2026 17:41:41 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+    "description": "The developer of Hermes Agent raised a $90 million Series B.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-08T00:21:18.482Z",
+    "published": "Wed, 07 Oct 2026 20:48:45 +0000",
+    "processed": true,
+    "processedAt": "2026-10-08T00:23:48.728Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+    "description": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-08T00:21:18.482Z",
+    "published": "Wed, 07 Oct 2026 20:22:37 +0000",
+    "processed": true,
+    "processedAt": "2026-10-08T00:23:48.728Z"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/contact-center-automation",
+    "title": "Contact center automation: A guide to better service",
+    "description": "Learn how contact center automation works, the best use cases to start with, and how to implement AI agents responsibly, with real customer results.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-10-08T00:21:21.769Z",
+    "published": "Wed, 07 Oct 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-08T00:23:48.728Z"
   }
 ]
