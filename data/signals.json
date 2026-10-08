@@ -74450,5 +74450,222 @@
     "category": "news",
     "discovered": "2026-10-08T13:56:33.820Z",
     "published": "Thu, 08 Oct 2026 08:45:16 +0000"
+  },
+  {
+    "url": "https://openai.com/index/oracle",
+    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "description": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-08T19:46:15.457Z",
+    "published": "Thu, 08 Oct 2026 16:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-08T19:48:51.673Z"
+  },
+  {
+    "url": "https://openai.com/index/pollo-ai",
+    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "description": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-08T19:46:15.457Z",
+    "published": "Thu, 08 Oct 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-08T19:48:51.673Z"
+  },
+  {
+    "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+    "title": "Disrupting AI-enabled “false front” operations",
+    "description": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-08T19:46:15.457Z",
+    "published": "Thu, 08 Oct 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-08T19:48:51.673Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+    "description": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-08T19:46:19.026Z",
+    "published": "Thu, 08 Oct 2026 18:20:32 +0000",
+    "processed": true,
+    "processedAt": "2026-10-08T19:48:51.673Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+    "description": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-08T19:46:19.026Z",
+    "published": "Thu, 08 Oct 2026 18:19:45 +0000",
+    "processed": true,
+    "processedAt": "2026-10-08T19:48:51.673Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+    "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+    "description": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-08T19:46:19.026Z",
+    "published": "Thu, 08 Oct 2026 18:19:42 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+    "title": "Google brings agentic AI to Gemini, starting with businesses",
+    "description": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-08T19:46:19.026Z",
+    "published": "Thu, 08 Oct 2026 18:18:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+    "title": "Anthropic changes usage policy to ban model abuse and election interference",
+    "description": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-08T19:46:19.026Z",
+    "published": "Thu, 08 Oct 2026 18:16:24 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+    "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+    "description": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-08T19:46:19.026Z",
+    "published": "Thu, 08 Oct 2026 18:10:55 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+    "title": "Natura’s $99 smart ring puts AI agents on your finger",
+    "description": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-08T19:46:19.026Z",
+    "published": "Thu, 08 Oct 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+    "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+    "description": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-08T19:46:19.026Z",
+    "published": "Thu, 08 Oct 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+    "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+    "description": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-08T19:46:19.026Z",
+    "published": "Thu, 08 Oct 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+    "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
+    "description": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-08T19:46:19.026Z",
+    "published": "Thu, 08 Oct 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/introducing-brand-kit",
+    "title": "Introducing Brand Kit",
+    "description": "Add your logo, fonts and colors once, and everything you make pulls them in automatically. Ask for a launch campaign for a new product and it comes back on-brand.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-10-08T19:46:22.587Z",
+    "published": "Fri, 09 Oct 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/everyone-is-selling-ai-at-you-heres-how-to-keep-your-judgement/",
+    "title": "Everyone Is Selling AI at You — Here’s How to Keep Your Judgement",
+    "description": "Three moves to decode the hype\nThe post Everyone Is Selling AI at You — Here’s How to Keep Your Judgement appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-08T19:46:30.391Z",
+    "published": "Thu, 08 Oct 2026 15:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/ai-agents-beat-pytorch-writing-faster-cuda-kernels/",
+    "title": "AI Agents Beat PyTorch: Writing Faster CUDA Kernels",
+    "description": "AI agents can now write CUDA kernels that outperform PyTorch—but proving those speedups are real is the harder problem. I put them to the test on an NVIDIA DGX Spark and found that benchmark design matters just as much as the code.\nThe post AI Agents Beat PyTorch: Writing Faster CUDA Kernels appeare",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-08T19:46:30.391Z",
+    "published": "Thu, 08 Oct 2026 14:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/claude-can-now-generate-animated-explainer-videos-and-live-data-dashboards-from-text-prompts/",
+    "title": "Claude can now generate animated explainer videos and live data dashboards from text prompts",
+    "description": "Anthropic launched two new beta features for Claude. Dashboards turns data sources like BigQuery and Snowflake into live dashboards from text prompts. Motion generates animated explainer videos from text and images. Docs, Slides, and Design now work across all plans, including free accounts",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-08T19:46:32.103Z",
+    "published": "Thu, 08 Oct 2026 19:17:22 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/being-mean-to-claude-can-now-get-your-account-suspended-under-anthropics-new-tos/",
+    "title": "Being mean to Claude can now get your account suspended under Anthropic's new TOS",
+    "description": "Anthropic's updated usage policy bans sustained abuse of Claude and tightens restrictions on propaganda, drone weaponization, and surveillance. The abuse rule builds on an approach that already lets models end some conversations and treats Claude as an entity that may deserve protection.\nTh",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-08T19:46:32.103Z",
+    "published": "Thu, 08 Oct 2026 19:03:14 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/",
+    "title": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
+    "description": "The Association for Human Mathematics is calling for an OpenAI boycott after the company released more than 700 AI-generated math manuscripts at once. OpenAI had to retract three papers the next day over a sign error. Fields Medalist Terence Tao warns that AI's mass \"harvesting\" of open pro",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-08T19:46:32.103Z",
+    "published": "Thu, 08 Oct 2026 18:17:07 +0000"
+  },
+  {
+    "url": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
+    "title": "How one bug bounty researcher chooses the features they investigate",
+    "description": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub.\nThe post How one bug bounty researcher chooses the features they investigate appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-10-08T19:46:37.199Z",
+    "published": "Thu, 08 Oct 2026 17:02:52 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
+    "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
+    "description": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-08T19:46:38.429Z",
+    "published": "Thu, 08 Oct 2026 19:30:00 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/08/jetbrains-releases-mellum2-1-a-12b-moe-open-model-for-coding-agents/",
+    "title": "JetBrains Releases Mellum2.1: A 12B MoE Open Model for Coding Agents",
+    "description": "JetBrains released Mellum2.1, an Apache 2.0, 12B mixture-of-experts thinking model with 2.5B active parameters. RL in real repositories lifted its SWE-bench Verified score from 2.0 to 47.0.\nThe post JetBrains Releases Mellum2.1: A 12B MoE Open Model for Coding Agents appeared first on MarkTechPost.",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-08T19:46:41.006Z",
+    "published": "Thu, 08 Oct 2026 16:17:35 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2281334/american-airlines-is-bringing-starlink-wi-fi-to-its-entire-mainline-fleet-in-2027/",
+    "title": "American Airlines is bringing Starlink Wi-Fi to its entire mainline fleet in 2027",
+    "description": "It's more than double the number of aircraft the company quoted earlier this year.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-08T19:46:45.691Z",
+    "published": "Thu, 08 Oct 2026 16:57:00 +0000"
   }
 ]
