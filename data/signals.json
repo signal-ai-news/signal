@@ -75111,5 +75111,114 @@
     "category": "news",
     "discovered": "2026-10-09T13:41:12.985Z",
     "published": "Fri, 09 Oct 2026 08:25:18 +0000"
+  },
+  {
+    "url": "https://openai.com/index/asana-browser-agent",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "description": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-09T19:23:16.883Z",
+    "published": "Fri, 09 Oct 2026 07:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-09T19:25:54.171Z"
+  },
+  {
+    "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+    "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+    "description": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;propose",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-09T19:23:20.417Z",
+    "published": "Fri, 09 Oct 2026 16:56:42 +0000",
+    "processed": true,
+    "processedAt": "2026-10-09T19:25:54.171Z"
+  },
+  {
+    "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+    "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+    "description": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;propose",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-09T19:23:20.417Z",
+    "published": "Fri, 09 Oct 2026 16:53:02 +0000",
+    "processed": true,
+    "processedAt": "2026-10-09T19:25:54.171Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+    "title": "We can’t help treating AI like it’s human. But should we?",
+    "description": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-09T19:23:20.417Z",
+    "published": "Fri, 09 Oct 2026 16:40:14 +0000",
+    "processed": true,
+    "processedAt": "2026-10-09T19:25:54.171Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+    "title": "a16z’s Olivia Moore on the state of consumer AI",
+    "description": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-09T19:23:20.417Z",
+    "published": "Fri, 09 Oct 2026 15:43:33 +0000",
+    "processed": true,
+    "processedAt": "2026-10-09T19:25:54.171Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/can-typesafes-jev-make-ai-agents-safer-without-another-llm/",
+    "title": "Can TypeSafe's Jev Make AI Agents Safer Without Another LLM?",
+    "description": "How a decision-first model can catch risky tool calls before they turn into real-world actions\nThe post Can TypeSafe's Jev Make AI Agents Safer Without Another LLM? appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-09T19:23:31.978Z",
+    "published": "Fri, 09 Oct 2026 15:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/where-does-the-money-go-across-long-running-coding-agents/",
+    "title": "Where Does the Money Go Across Long-Running Coding Agents?",
+    "description": "The cost of control\nThe post Where Does the Money Go Across Long-Running Coding Agents? appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-09T19:23:31.978Z",
+    "published": "Fri, 09 Oct 2026 14:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/",
+    "title": "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows",
+    "description": "Anthropic is adding dynamic workflows to Claude Managed Agents, letting a lead agent distribute tasks across up to 1,000 sub-agents at once. In testing, a single agent found at most 27 of 70 hidden bugs in a codebase, while the multi-agent workflow consistently caught 66.\nThe article Anthro",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-09T19:23:33.768Z",
+    "published": "Fri, 09 Oct 2026 18:28:25 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/",
+    "title": "Anthropic launches a free AI scanner for open-source projects",
+    "description": "Anthropic has launched \"Cyber Mission,\" a program to protect critical infrastructure and open-source software from cyberattacks. Partners like CrowdStrike and Palo Alto Networks will help secure power grids and water systems, while a free AI scanner automatically checks open-source projects",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-09T19:23:33.768Z",
+    "published": "Fri, 09 Oct 2026 17:54:44 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital/",
+    "title": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
+    "description": "OpenAI's annualized revenue rate sits at about $50 billion, well below the initially reported $70 billion figure that was based on a different accounting method. The correction sent chip stocks sliding. Meanwhile, OpenAI is negotiating at least $30 billion in fresh capital at a $1.4 trillio",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-09T19:23:33.768Z",
+    "published": "Fri, 09 Oct 2026 17:20:34 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2282389/pebble-flow-ev-rv-review/",
+    "title": "What it's like to spend a night in a Pebble Flow EV RV",
+    "description": "Staying in the tech-infused trailer can kind of feel like being in a spaceship - in a good way.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-09T19:23:47.531Z",
+    "published": "Fri, 09 Oct 2026 17:00:00 +0000"
   }
 ]
