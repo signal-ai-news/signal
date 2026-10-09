@@ -13811,7 +13811,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-03T12:41:32.580Z",
-    "published": "Mon, 03 Aug 2026 11:59:10 +0000"
+    "published": "Mon, 03 Aug 2026 11:59:10 +0000",
+    "processed": true,
+    "processedAt": "2026-10-09T06:36:32.785Z"
   },
   {
     "url": "https://github.com/sahilmahendrakar/ccbeam",
@@ -13820,7 +13822,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-03T12:41:32.580Z",
-    "published": "Mon, 03 Aug 2026 11:55:44 +0000"
+    "published": "Mon, 03 Aug 2026 11:55:44 +0000",
+    "processed": true,
+    "processedAt": "2026-10-09T06:36:32.786Z"
   },
   {
     "url": "https://github.com/UnrealFactory/AgentCodeGUI",
@@ -13829,7 +13833,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-03T12:41:32.580Z",
-    "published": "Mon, 03 Aug 2026 11:48:18 +0000"
+    "published": "Mon, 03 Aug 2026 11:48:18 +0000",
+    "processed": true,
+    "processedAt": "2026-10-09T06:36:32.786Z"
   },
   {
     "url": "https://news.ycombinator.com/item?id=49154372",
@@ -13838,7 +13844,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-03T12:41:32.580Z",
-    "published": "Mon, 03 Aug 2026 11:33:25 +0000"
+    "published": "Mon, 03 Aug 2026 11:33:25 +0000",
+    "processed": true,
+    "processedAt": "2026-10-09T06:36:32.786Z"
   },
   {
     "url": "https://www.theregister.com/ai-and-ml/2026/08/03/sci-fi-authors-scalzi-and-stross-decry-ais-dystopian-impact-on-their-craft/5282176",
@@ -74767,5 +74775,16 @@
     "category": "news",
     "discovered": "2026-10-09T00:14:17.180Z",
     "published": "Thu, 08 Oct 2026 20:08:45 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "description": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-09T06:33:59.015Z",
+    "published": "Fri, 09 Oct 2026 00:08:24 +0000",
+    "processed": true,
+    "processedAt": "2026-10-09T06:36:32.787Z"
   }
 ]
