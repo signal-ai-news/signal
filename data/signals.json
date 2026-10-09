@@ -74786,5 +74786,330 @@
     "published": "Fri, 09 Oct 2026 00:08:24 +0000",
     "processed": true,
     "processedAt": "2026-10-09T06:36:32.787Z"
+  },
+  {
+    "url": "https://openai.com/index/sophos",
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "description": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-09T13:40:44.662Z",
+    "published": "Fri, 09 Oct 2026 07:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-09T13:43:18.312Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+    "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts. If you ask your chatbot how t",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-09T13:40:48.853Z",
+    "published": "Fri, 09 Oct 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-09T13:43:18.312Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+    "title": "We’re putting too much faith in AI’s ability to say no",
+    "description": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But re",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-09T13:40:48.853Z",
+    "published": "Fri, 09 Oct 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-09T13:43:18.312Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+    "title": "Job titles of the future: Delivery drone air traffic controller",
+    "description": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wischnewsky is now an RPIC, or “remote pilot in command,” at a company called FlyT",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-09T13:40:48.853Z",
+    "published": "Fri, 09 Oct 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-09T13:43:18.312Z"
+  },
+  {
+    "url": "https://www.reddit.com/r/ChatGPTcomplaints/comments/1vjhxbl/stop_the_moral_policing_how_overzealous_ai/",
+    "title": "Overzealous AI Guardrails Force Adult Users into Self-Censorship",
+    "description": "Article URL: https://www.reddit.com/r/ChatGPTcomplaints/comments/1vjhxbl/stop_the_moral_policing_how_overzealous_ai/\nComments URL: https://news.ycombinator.com/item?id=50020372\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-09T13:40:54.133Z",
+    "published": "Fri, 09 Oct 2026 13:37:27 +0000",
+    "processed": true,
+    "processedAt": "2026-10-09T13:43:18.312Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=eXyxQEkp58Y",
+    "title": "I Lost My Job to AI in China - Now What? [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=eXyxQEkp58Y\nComments URL: https://news.ycombinator.com/item?id=50020268\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-09T13:40:54.133Z",
+    "published": "Fri, 09 Oct 2026 13:30:02 +0000"
+  },
+  {
+    "url": "https://www.condorcapital.com/digital-advice-report/reports/ai-agents-at-retail-brokerages-2q-2026/",
+    "title": "AI Agents at Retail Brokerages",
+    "description": "Article URL: https://www.condorcapital.com/digital-advice-report/reports/ai-agents-at-retail-brokerages-2q-2026/\nComments URL: https://news.ycombinator.com/item?id=50020235\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-09T13:40:54.133Z",
+    "published": "Fri, 09 Oct 2026 13:27:21 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50020096",
+    "title": "Ask HN: What if no AIpocalypse, no AI bubble, what if it just keeps advancing?",
+    "description": "The two mainstream arguments are the extremes, because that's how our modern society rolls. It's either that there is an AI bubble that will crash, or that a rogue ASI will kill us all.What about the third possibility? What if GPT 3.5 -> Sonnet 3.5 -> Opus 4.5 -> Astra / Opus 5.5 just keeps going o",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-09T13:40:54.133Z",
+    "published": "Fri, 09 Oct 2026 13:18:05 +0000"
+  },
+  {
+    "url": "https://www.toothlocal.com/reports/ai-reviews-2026/",
+    "title": "Patients are using AI to complain about their dentists",
+    "description": "Article URL: https://www.toothlocal.com/reports/ai-reviews-2026/\nComments URL: https://news.ycombinator.com/item?id=50020076\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-09T13:40:54.133Z",
+    "published": "Fri, 09 Oct 2026 13:16:47 +0000"
+  },
+  {
+    "url": "https://www.anthropic.com/legal/aup",
+    "title": "Anthropic Usage Policy to prohibit \"abusive or cruel behavior\" toward Claude",
+    "description": "Article URL: https://www.anthropic.com/legal/aup\nComments URL: https://news.ycombinator.com/item?id=50020061\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-09T13:40:54.133Z",
+    "published": "Fri, 09 Oct 2026 13:15:35 +0000"
+  },
+  {
+    "url": "https://medium.com/@kate8382/the-ai-security-paradox-why-old-laws-create-digital-enclosures-ff745d79e4f8",
+    "title": "Why statutory laws fail against code: A critique of the EU AI Act",
+    "description": "Article URL: https://medium.com/@kate8382/the-ai-security-paradox-why-old-laws-create-digital-enclosures-ff745d79e4f8\nComments URL: https://news.ycombinator.com/item?id=50019907\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-09T13:40:54.133Z",
+    "published": "Fri, 09 Oct 2026 13:03:35 +0000"
+  },
+  {
+    "url": "https://www.ssp.sh/brain/claude-dashboards/",
+    "title": "Claude Dashboards: The Jupyter Notebooks of Agent Age",
+    "description": "Article URL: https://www.ssp.sh/brain/claude-dashboards/\nComments URL: https://news.ycombinator.com/item?id=50019878\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-09T13:40:54.133Z",
+    "published": "Fri, 09 Oct 2026 13:01:47 +0000"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/c6j9k1l72wkgo",
+    "title": "Anthropic bans users from being 'cruel' to its AI systems",
+    "description": "Article URL: https://www.bbc.com/news/articles/c6j9k1l72wkgo\nComments URL: https://news.ycombinator.com/item?id=50019860\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-09T13:40:54.133Z",
+    "published": "Fri, 09 Oct 2026 13:00:21 +0000"
+  },
+  {
+    "url": "https://useralertx.com",
+    "title": "Show HN: UserAlertX – let your AI agent text you (only you)",
+    "description": "Article URL: https://useralertx.com\nComments URL: https://news.ycombinator.com/item?id=50019807\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-09T13:40:54.133Z",
+    "published": "Fri, 09 Oct 2026 12:56:13 +0000"
+  },
+  {
+    "url": "https://www.ainvest.com/news/3-trillion-ai-debt-hiding-lease-footnote-2610/",
+    "title": "The $3T AI Debt Hiding in the Lease Footnote",
+    "description": "Article URL: https://www.ainvest.com/news/3-trillion-ai-debt-hiding-lease-footnote-2610/\nComments URL: https://news.ycombinator.com/item?id=50019703\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-09T13:40:54.133Z",
+    "published": "Fri, 09 Oct 2026 12:45:57 +0000"
+  },
+  {
+    "url": "https://github.com/athrael-soju/Narwhal",
+    "title": "Show HN: Narwhal – LLM serving that moves GPUs between prefill/decode in seconds",
+    "description": "Article URL: https://github.com/athrael-soju/Narwhal\nComments URL: https://news.ycombinator.com/item?id=50019698\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-09T13:40:54.133Z",
+    "published": "Fri, 09 Oct 2026 12:45:01 +0000"
+  },
+  {
+    "url": "https://www.politico.com/news/2026/10/08/trump-ai-super-intelligence-renaming-01112404",
+    "title": "Trump says anyone who does not refer to AI as super intelligence is 'THE ENEMY'",
+    "description": "Article URL: https://www.politico.com/news/2026/10/08/trump-ai-super-intelligence-renaming-01112404\nComments URL: https://news.ycombinator.com/item?id=50019684\nPoints: 7\n# Comments: 7",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-09T13:40:54.133Z",
+    "published": "Fri, 09 Oct 2026 12:42:51 +0000"
+  },
+  {
+    "url": "https://arcadium3d.com/create-with-ai",
+    "title": "Show HN: LLM skill to generate editable 3D house designs",
+    "description": "I loved the stunning 3D designs created with Astra but they typically require a decent knowledge of Blender or Unreal engine which made it inaccessible. It also generated something you couldn't edit which is tricky for the design process where you typically need to try different ideas out. This is",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-09T13:40:54.133Z",
+    "published": "Fri, 09 Oct 2026 12:24:41 +0000"
+  },
+  {
+    "url": "https://github.com/WellWells/agentswap",
+    "title": "Show HN: Agentswap – Account Switcher for Claude Code, Codex and Antigravity CLI",
+    "description": "Article URL: https://github.com/WellWells/agentswap\nComments URL: https://news.ycombinator.com/item?id=50019439\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-09T13:40:54.133Z",
+    "published": "Fri, 09 Oct 2026 12:19:16 +0000"
+  },
+  {
+    "url": "https://claude.com/programs/startups",
+    "title": "Claude Startups program over capacity; Anthropic to re-review all applications",
+    "description": "Article URL: https://claude.com/programs/startups\nComments URL: https://news.ycombinator.com/item?id=50019395\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-09T13:40:54.133Z",
+    "published": "Fri, 09 Oct 2026 12:13:54 +0000"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/videos/2026-10-09/how-ai-is-upending-the-world-of-mathematics-video",
+    "title": "How AI Is Upending the World of Mathematics",
+    "description": "Article URL: https://www.bloomberg.com/news/videos/2026-10-09/how-ai-is-upending-the-world-of-mathematics-video\nComments URL: https://news.ycombinator.com/item?id=50019332\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-09T13:40:54.133Z",
+    "published": "Fri, 09 Oct 2026 12:07:08 +0000"
+  },
+  {
+    "url": "https://www.reddit.com/r/mcp/comments/1x1j0xx/mcp_server_that_books_hotels_in_dachgermany/",
+    "title": "Have your AI assistant book hotels",
+    "description": "Article URL: https://www.reddit.com/r/mcp/comments/1x1j0xx/mcp_server_that_books_hotels_in_dachgermany/\nComments URL: https://news.ycombinator.com/item?id=50019318\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-09T13:40:54.133Z",
+    "published": "Fri, 09 Oct 2026 12:05:32 +0000"
+  },
+  {
+    "url": "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack",
+    "title": "AI leaders game out public revolt scenarios after catastrophic events",
+    "description": "Article URL: https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack\nComments URL: https://news.ycombinator.com/item?id=50019306\nPoints: 5\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-09T13:40:54.133Z",
+    "published": "Fri, 09 Oct 2026 12:03:45 +0000"
+  },
+  {
+    "url": "https://github.com/AbhishekBarali/SpeakoFlow",
+    "title": "Speakoflow – Free Voice Dictation and AI Assistant for Windows, macOS, and Linux",
+    "description": "Article URL: https://github.com/AbhishekBarali/SpeakoFlow\nComments URL: https://news.ycombinator.com/item?id=50019199\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-09T13:40:54.133Z",
+    "published": "Fri, 09 Oct 2026 11:51:59 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/build-your-first-ai-agent-with-one-tool-call/",
+    "title": "Build Your First AI Agent with One Tool Call",
+    "description": "AI Agents for Beginners, Part 1\nThe post Build Your First AI Agent with One Tool Call appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-09T13:40:59.657Z",
+    "published": "Fri, 09 Oct 2026 12:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/stop-using-ai-start-hiring-it/",
+    "title": "Stop Using AI. Start Hiring It.",
+    "description": "AI agents can now write more code than any of us can read. That changed how I think about AI.\nThe post Stop Using AI. Start Hiring It. appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-09T13:40:59.657Z",
+    "published": "Fri, 09 Oct 2026 11:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/openais-safety-crisis-keeps-getting-worse-and-the-company-keeps-making-it-worse/",
+    "title": "OpenAI's safety crisis keeps getting worse and the company keeps making it worse",
+    "description": "OpenAI fired three safety researchers who helped investigate the Hugging Face hack. In an open letter, they warn that the firings are scaring remaining staff and eroding safety culture. OpenAI claims they violated policies but won't say how.\nThe article OpenAI&#039;s safety crisis keeps get",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-09T13:41:01.282Z",
+    "published": "Fri, 09 Oct 2026 11:45:04 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropics-claude-science-creates-the-first-complete-ultraviolet-map-of-the-sky/",
+    "title": "Anthropic's Claude Science creates the first complete ultraviolet map of the sky",
+    "description": "Astrophysicist Brice Ménard of Johns Hopkins University used Anthropic's Claude Science to map the entire sky in ultraviolet light for the first time. AI agents downloaded data from multiple space missions, calibrated it, and filled in gaps using inpainting. Predictions averaged about ten p",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-09T13:41:01.282Z",
+    "published": "Fri, 09 Oct 2026 09:22:25 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-uncovers-russian-and-iranian-influence-ops-that-planted-fake-stories-in-real-news-outlets/",
+    "title": "OpenAI uncovers Russian and Iranian influence ops that planted fake stories in real news outlets",
+    "description": "OpenAI exposed a Russian and an Iranian influence operation and banned the accounts involved. The Russian \"Dark Clark\" campaign spread disinformation across Latin America and drew reactions from politicians, earning the first category 5 out of 6 rating in OpenAI's reporting history. The Ira",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-09T13:41:01.282Z",
+    "published": "Fri, 09 Oct 2026 08:45:34 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
+    "title": "Even ‘Law & Order’ Is Terrified of AI",
+    "description": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-09T13:41:06.729Z",
+    "published": "Fri, 09 Oct 2026 10:00:00 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/08/google-cloud-launches-gemini-agent-one-universal-agent-for-enterprise-work/",
+    "title": "Google Cloud Launches Gemini Agent, One Universal Agent for Enterprise Work",
+    "description": "Google Cloud has introduced the Google Cloud Gemini agent, a single agent for enterprise work. The Gemini agent is a cloud-hosted agent from Google Cloud that answers questions, does knowledge work, creates media, and writes and runs code. It does all of this from 1 prompt box and 1 API. For develop",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-09T13:41:09.070Z",
+    "published": "Fri, 09 Oct 2026 06:47:56 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/08/google-research-rrsi-guide-mastering-self-improving-ai-agents/",
+    "title": "Google Research RRSI Guide: Mastering Self-Improving AI Agents",
+    "description": "Explore a comprehensive coding guide to Google Research's RRSI (Regularized Recursive Self-Improvement), detailing how noise bands, cost rules, and leakage screens enable safe, efficient, and self-improving AI agents.\nThe post Google Research RRSI Guide: Mastering Self-Improving AI Agents appeared f",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-09T13:41:09.070Z",
+    "published": "Fri, 09 Oct 2026 05:06:17 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2282005/anthropic-offers-open-source-software-free-ai-security-checks/",
+    "title": "Anthropic now offers a free vulnerability-finding service for open-source software",
+    "description": "Anthropic is offering open-source projects a new way to check for vulnerabilities with its OSS Scanner.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-09T13:41:12.985Z",
+    "published": "Fri, 09 Oct 2026 11:24:27 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2281997/netflix-the-altruists-sam-bankman-fried-trailer/",
+    "title": "Netflix releases trailer for its miniseries about Sam Bankman-Fried's scandal-ridden crypto exchange",
+    "description": "Watch the trailer for Netflix's The Altruists, a mini-series about the rise and fall of cryptocurrency exchange FTX.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-09T13:41:12.985Z",
+    "published": "Fri, 09 Oct 2026 10:54:19 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2281966/fired-openai-safety-researchers-dispute-their-dismissals-in-open-letter/",
+    "title": "Fired OpenAI safety researchers dispute their dismissals in open letter",
+    "description": "Three OpenAI researchers said their firings may have a &#39;chilling&#39; effect on employees.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-09T13:41:12.985Z",
+    "published": "Fri, 09 Oct 2026 08:25:18 +0000"
   }
 ]
