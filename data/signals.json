@@ -75220,5 +75220,78 @@
     "category": "news",
     "discovered": "2026-10-09T19:23:47.531Z",
     "published": "Fri, 09 Oct 2026 17:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "description": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-09T23:25:41.809Z",
+    "published": "Fri, 09 Oct 2026 21:41:29 +0000",
+    "processed": true,
+    "processedAt": "2026-10-09T23:28:15.586Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "description": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-09T23:25:41.809Z",
+    "published": "Fri, 09 Oct 2026 19:36:56 +0000",
+    "processed": true,
+    "processedAt": "2026-10-09T23:28:15.586Z"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/synthetic-voice-detection-and-personal-agent-protocol",
+    "title": "Defining how AI agents interact with your business",
+    "description": "ElevenLabs joins the Personal Agent Protocol and introduces synthetic voice detection and routing in ElevenAgents.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-10-09T23:25:45.260Z",
+    "published": "Fri, 09 Oct 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-09T23:28:15.586Z"
+  },
+  {
+    "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+    "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
+    "description": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-09T23:26:01.282Z",
+    "published": "Fri, 09 Oct 2026 19:28:49 +0000",
+    "processed": true,
+    "processedAt": "2026-10-09T23:28:15.586Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/",
+    "title": "Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model",
+    "description": "Alibaba&#8217;s Qwen team has released Qwen-Image-2.1-Turbo, an accelerated checkpoint of its open-weight Qwen-Image-2.1 model. It generates and edits images in 8 denoising steps instead of the base model&#8217;s 40-step default. For developers, that means 5x fewer denoising steps on the same 7B arc",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-09T23:26:04.199Z",
+    "published": "Fri, 09 Oct 2026 20:33:17 +0000",
+    "processed": true,
+    "processedAt": "2026-10-09T23:28:15.586Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/",
+    "title": "OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers",
+    "description": "OpenAI’s Decisions API is now in public beta on GPT-6 Luna. It returns typed probabilities, choices and scores about 10x faster than the Responses API, billing $0.10 per 1M input tokens with no output charges.\nThe post OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers appeared firs",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-09T23:26:04.199Z",
+    "published": "Fri, 09 Oct 2026 20:05:07 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2282713/an-anthropic-model-submitted-a-false-homicide-tip-to-philadelphia-police/",
+    "title": "An Anthropic model submitted a false homicide tip to Philadelphia police",
+    "description": "Thankfully, it does not seem to have diverted police resources.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-09T23:26:08.700Z",
+    "published": "Fri, 09 Oct 2026 20:00:30 +0000"
   }
 ]
