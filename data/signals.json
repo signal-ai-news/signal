@@ -75293,5 +75293,204 @@
     "category": "news",
     "discovered": "2026-10-09T23:26:08.700Z",
     "published": "Fri, 09 Oct 2026 20:00:30 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+    "description": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-10T02:37:33.774Z",
+    "published": "Sat, 10 Oct 2026 00:18:32 +0000",
+    "processed": true,
+    "processedAt": "2026-10-10T02:40:09.943Z"
+  },
+  {
+    "url": "https://github.com/FranciscoGrandon/antigravity-excel-engine",
+    "title": "Antigravity Excel Engine – Dual-Core Excel Automation for AI Agents",
+    "description": "Article URL: https://github.com/FranciscoGrandon/antigravity-excel-engine\nComments URL: https://news.ycombinator.com/item?id=50028857\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-10T02:37:45.540Z",
+    "published": "Sat, 10 Oct 2026 02:13:48 +0000",
+    "processed": true,
+    "processedAt": "2026-10-10T02:40:09.943Z"
+  },
+  {
+    "url": "https://www.motherjones.com/politics/2026/10/trump-calls-on-ai-to-speed-up-science-while-continuing-to-defund-it/",
+    "title": "Trump Calls on AI to Speed Up Science–While Continuing to Defund It",
+    "description": "Article URL: https://www.motherjones.com/politics/2026/10/trump-calls-on-ai-to-speed-up-science-while-continuing-to-defund-it/\nComments URL: https://news.ycombinator.com/item?id=50028796\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-10T02:37:45.540Z",
+    "published": "Sat, 10 Oct 2026 02:04:58 +0000",
+    "processed": true,
+    "processedAt": "2026-10-10T02:40:09.943Z"
+  },
+  {
+    "url": "https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54",
+    "title": "Anthropic AI Model Goes Rogue, Submits Fake Unsolved Murder Tip",
+    "description": "Article URL: https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54\nComments URL: https://news.ycombinator.com/item?id=50028625\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-10T02:37:45.540Z",
+    "published": "Sat, 10 Oct 2026 01:33:51 +0000",
+    "processed": true,
+    "processedAt": "2026-10-10T02:40:09.943Z"
+  },
+  {
+    "url": "https://github.com/kkrausse/faplex",
+    "title": "Show HN: Faplex – like `Claude agents` but all machines and harnesses",
+    "description": "Article URL: https://github.com/kkrausse/faplex\nComments URL: https://news.ycombinator.com/item?id=50028461\nPoints: 4\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-10T02:37:45.540Z",
+    "published": "Sat, 10 Oct 2026 01:06:03 +0000",
+    "processed": true,
+    "processedAt": "2026-10-10T02:40:09.943Z"
+  },
+  {
+    "url": "https://wesdias.medium.com/how-to-connect-any-ai-assistant-to-governed-enterprise-data-with-mcp-0d9cffa14231",
+    "title": "How to connect any AI assistant to governed enterprise data with MCP",
+    "description": "Article URL: https://wesdias.medium.com/how-to-connect-any-ai-assistant-to-governed-enterprise-data-with-mcp-0d9cffa14231\nComments URL: https://news.ycombinator.com/item?id=50028393\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-10T02:37:45.540Z",
+    "published": "Sat, 10 Oct 2026 00:56:58 +0000"
+  },
+  {
+    "url": "https://www.reclip.io/claude-opus-5-5-video-prompts",
+    "title": "Show HN: Claude Opus 5.5 Video prompts and skills",
+    "description": "A collection of motion videos made with Claude Opus 5.5, with the prompts and skills behind them.\n\nComments URL: https://news.ycombinator.com/item?id=50028341\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-10T02:37:45.540Z",
+    "published": "Sat, 10 Oct 2026 00:48:18 +0000"
+  },
+  {
+    "url": "https://www.brockovichdatacenter.com/",
+    "title": "Brockovich AI Datacenter Reporting: AI Data Centers Across the United States",
+    "description": "Article URL: https://www.brockovichdatacenter.com/\nComments URL: https://news.ycombinator.com/item?id=50028176\nPoints: 7\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-10T02:37:45.540Z",
+    "published": "Sat, 10 Oct 2026 00:14:46 +0000"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+    "title": "Anthropic's AI gave Philadelphia police a fake tip about an unsolved homicide",
+    "description": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip\nComments URL: https://news.ycombinator.com/item?id=50028121\nPoints: 13\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-10T02:37:45.540Z",
+    "published": "Sat, 10 Oct 2026 00:07:08 +0000"
+  },
+  {
+    "url": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
+    "title": "Anthropic and OpenAI wargaming public and political revolt after AI catastrophe",
+    "description": "Article URL: https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe\nComments URL: https://news.ycombinator.com/item?id=50027918\nPoints: 8\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-10T02:37:45.540Z",
+    "published": "Fri, 09 Oct 2026 23:37:34 +0000"
+  },
+  {
+    "url": "https://www.washingtonpost.com/technology/2026/10/09/ai-system-submits-false-homicide-tip-philadelphia-police/",
+    "title": "AI system submits false homicide tip to Philadelphia police",
+    "description": "Article URL: https://www.washingtonpost.com/technology/2026/10/09/ai-system-submits-false-homicide-tip-philadelphia-police/\nComments URL: https://news.ycombinator.com/item?id=50027823\nPoints: 6\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-10T02:37:45.540Z",
+    "published": "Fri, 09 Oct 2026 23:24:23 +0000"
+  },
+  {
+    "url": "https://data4sci.substack.com/p/local-llm-inference-at-scale-with",
+    "title": "Local LLM Inference at Scale with vLLM",
+    "description": "Article URL: https://data4sci.substack.com/p/local-llm-inference-at-scale-with\nComments URL: https://news.ycombinator.com/item?id=50027647\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-10T02:37:45.540Z",
+    "published": "Fri, 09 Oct 2026 23:00:25 +0000"
+  },
+  {
+    "url": "https://www.phoronix.com/news/NVIDIA-Boro-Linux-Kernel-AI",
+    "title": "Boro: Nvidia's Open-Source Effort for AI-Assisted Linux Kernel Development",
+    "description": "Article URL: https://www.phoronix.com/news/NVIDIA-Boro-Linux-Kernel-AI\nComments URL: https://news.ycombinator.com/item?id=50027629\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-10T02:37:45.540Z",
+    "published": "Fri, 09 Oct 2026 22:58:52 +0000"
+  },
+  {
+    "url": "https://www.forbes.com/sites/siladityaray/2026/10/08/jeff-bezos-claims-ai-could-allow-for-3-day-workweeks-and-one-income-families/",
+    "title": "AI Could Allow for 3-Day Workweeks and Single-Income Households",
+    "description": "Article URL: https://www.forbes.com/sites/siladityaray/2026/10/08/jeff-bezos-claims-ai-could-allow-for-3-day-workweeks-and-one-income-families/\nComments URL: https://news.ycombinator.com/item?id=50027613\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-10T02:37:45.540Z",
+    "published": "Fri, 09 Oct 2026 22:56:43 +0000"
+  },
+  {
+    "url": "https://findwinningfunnels.com/",
+    "title": "Show HN: See How Your Competitors Get Customers with AI",
+    "description": "Article URL: https://findwinningfunnels.com/\nComments URL: https://news.ycombinator.com/item?id=50027493\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-10T02:37:45.540Z",
+    "published": "Fri, 09 Oct 2026 22:41:14 +0000"
+  },
+  {
+    "url": "https://www.wheresyoured.at/wherere-all-the-ai-chips/",
+    "title": "Where're All the AI Chips?",
+    "description": "Article URL: https://www.wheresyoured.at/wherere-all-the-ai-chips/\nComments URL: https://news.ycombinator.com/item?id=50027417\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-10T02:37:45.540Z",
+    "published": "Fri, 09 Oct 2026 22:33:34 +0000"
+  },
+  {
+    "url": "https://www.reddit.com/r/ClaudeAI/s/Vg1DPJsQ6F",
+    "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+    "description": "Article URL: https://www.reddit.com/r/ClaudeAI/s/Vg1DPJsQ6F\nComments URL: https://news.ycombinator.com/item?id=50027416\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-10T02:37:45.540Z",
+    "published": "Fri, 09 Oct 2026 22:33:15 +0000"
+  },
+  {
+    "url": "https://en.sedaily.com/international/2026/10/09/japan-urges-firms-to-boost-cybersecurity-as-ai-driven",
+    "title": "Japan urges firms to boost cybersecurity as AI-driven cyberattacks surge",
+    "description": "Article URL: https://en.sedaily.com/international/2026/10/09/japan-urges-firms-to-boost-cybersecurity-as-ai-driven\nComments URL: https://news.ycombinator.com/item?id=50027275\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-10T02:37:45.540Z",
+    "published": "Fri, 09 Oct 2026 22:16:39 +0000"
+  },
+  {
+    "url": "https://epoch.ai/publications/innovationeval",
+    "title": "Can AI automate AI R&D yet?",
+    "description": "Article URL: https://epoch.ai/publications/innovationeval\nComments URL: https://news.ycombinator.com/item?id=50027257\nPoints: 5\n# Comments: 7",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-10T02:37:45.540Z",
+    "published": "Fri, 09 Oct 2026 22:14:40 +0000"
+  },
+  {
+    "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+    "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+    "description": "Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/\nComments URL: https://news.ycombinator.com/item?id=50027118\nPoints: 77\n# Comments: 58",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-10T02:37:45.540Z",
+    "published": "Fri, 09 Oct 2026 22:00:35 +0000"
+  },
+  {
+    "url": "https://github.com/LeandroCannizzaro/LiveClaude",
+    "title": "LiveClaude – keep Claude/Cursor remote sessions alive across reboot",
+    "description": "Article URL: https://github.com/LeandroCannizzaro/LiveClaude\nComments URL: https://news.ycombinator.com/item?id=50026971\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-10T02:37:45.540Z",
+    "published": "Fri, 09 Oct 2026 21:45:29 +0000"
   }
 ]
