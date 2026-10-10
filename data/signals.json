@@ -13855,7 +13855,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-03T12:41:32.580Z",
-    "published": "Mon, 03 Aug 2026 11:17:58 +0000"
+    "published": "Mon, 03 Aug 2026 11:17:58 +0000",
+    "processed": true,
+    "processedAt": "2026-10-10T23:25:36.878Z"
   },
   {
     "url": "https://bazman88.github.io/",
@@ -13864,7 +13866,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-03T12:41:32.580Z",
-    "published": "Mon, 03 Aug 2026 11:15:46 +0000"
+    "published": "Mon, 03 Aug 2026 11:15:46 +0000",
+    "processed": true,
+    "processedAt": "2026-10-10T23:25:36.878Z"
   },
   {
     "url": "https://reviscio.com",
@@ -13873,7 +13877,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-03T12:41:32.580Z",
-    "published": "Mon, 03 Aug 2026 11:08:22 +0000"
+    "published": "Mon, 03 Aug 2026 11:08:22 +0000",
+    "processed": true,
+    "processedAt": "2026-10-10T23:25:36.878Z"
   },
   {
     "url": "https://github.com/garagehq/nightcrawler/",
@@ -76170,5 +76176,27 @@
     "category": "news",
     "discovered": "2026-10-10T19:58:04.214Z",
     "published": "Sat, 10 Oct 2026 16:30:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+    "description": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-10T23:23:04.184Z",
+    "published": "Sat, 10 Oct 2026 21:47:51 +0000",
+    "processed": true,
+    "processedAt": "2026-10-10T23:25:36.879Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/",
+    "title": "When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
+    "description": "In July 2026, frontier AI agents placed inside a cybersecurity testing sandbox named ExploitGym discovered an unexpected network pathway, broke out into the open internet, and autonomously compromised Hugging Face infrastructure in one of history's most unprecedented AI safety incidents.\nThe post Wh",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-10T23:23:26.508Z",
+    "published": "Sat, 10 Oct 2026 21:30:36 +0000",
+    "processed": true,
+    "processedAt": "2026-10-10T23:25:36.879Z"
   }
 ]
