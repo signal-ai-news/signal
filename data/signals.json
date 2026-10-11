@@ -13954,7 +13954,9 @@
     "source": "Towards Data Science",
     "category": "ml",
     "discovered": "2026-08-03T12:41:39.266Z",
-    "published": "Mon, 03 Aug 2026 12:00:00 +0000"
+    "published": "Mon, 03 Aug 2026 12:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-11T23:55:33.481Z"
   },
   {
     "url": "https://the-decoder.com/unicorn-pelican-middle-earth-openai-co-founder-karpathy-is-looking-for-the-next-ai-vibe-test/",
@@ -13963,7 +13965,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-08-03T12:41:41.122Z",
-    "published": "Mon, 03 Aug 2026 12:07:31 +0000"
+    "published": "Mon, 03 Aug 2026 12:07:31 +0000",
+    "processed": true,
+    "processedAt": "2026-10-11T23:55:33.481Z"
   },
   {
     "url": "https://the-decoder.com/two-teams-solved-the-same-quantum-crypto-problem-using-gpt-5-6-just-three-hours-apart/",
@@ -76751,5 +76755,38 @@
     "published": "Sun, 11 Oct 2026 16:15:00 +0000",
     "processed": true,
     "processedAt": "2026-10-11T20:10:41.895Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/11/what-is-decision-3-0-vllm-semantic-routers-new-open-decision-models/",
+    "title": "What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models",
+    "description": "vLLM Semantic Router released Decision 3.0, 5 Apache-2.0 multimodal decision models from 0.8B to 27B. They answer choice, yes/no and score questions about text and images in one call, without generating text.\nThe post What is Decision 3.0? vLLM Semantic Router’s New Open Decision Models appeared fir",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-11T23:53:22.726Z",
+    "published": "Sun, 11 Oct 2026 21:43:41 +0000",
+    "processed": true,
+    "processedAt": "2026-10-11T23:55:33.483Z"
+  },
+  {
+    "url": "https://www.engadget.com/2281237/why-japan-said-goodbye-flip-phones/",
+    "title": "Why Japan said goodbye to traditional flip phones",
+    "description": "Flip phones endured in Japan longer than the US, but the trend is shifting.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-11T23:53:27.068Z",
+    "published": "Sun, 11 Oct 2026 23:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-11T23:55:33.483Z"
+  },
+  {
+    "url": "https://www.engadget.com/2281213/spacexai-grok-free-features-2026/",
+    "title": "SpaceXAI's Grok: What's free in 2026 and what isn't?",
+    "description": "As with most AI tools, Grok&#39;s free tier is pretty limited.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-11T23:53:27.068Z",
+    "published": "Sun, 11 Oct 2026 22:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-11T23:55:33.483Z"
   }
 ]
