@@ -76434,5 +76434,276 @@
     "category": "ml",
     "discovered": "2026-10-11T09:14:02.440Z",
     "published": "Sun, 11 Oct 2026 06:20:21 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+    "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+    "description": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-11T15:54:34.773Z",
+    "published": "Sun, 11 Oct 2026 14:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-11T15:57:06.581Z"
+  },
+  {
+    "url": "https://dirac.run/posts/ai-inner-experience-dangerous-assumption",
+    "title": "'AI has inner experience' is a dangerous assumption",
+    "description": "Article URL: https://dirac.run/posts/ai-inner-experience-dangerous-assumption\nComments URL: https://news.ycombinator.com/item?id=50044586\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-11T15:54:42.054Z",
+    "published": "Sun, 11 Oct 2026 15:52:51 +0000",
+    "processed": true,
+    "processedAt": "2026-10-11T15:57:06.581Z"
+  },
+  {
+    "url": "https://mashable.com/tech/publishers-back-ai-bot-scraping-bill",
+    "title": "Vogue, Esquire publishers plead with Congress to ban AI theft of their content",
+    "description": "Article URL: https://mashable.com/tech/publishers-back-ai-bot-scraping-bill\nComments URL: https://news.ycombinator.com/item?id=50044561\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-11T15:54:42.054Z",
+    "published": "Sun, 11 Oct 2026 15:50:42 +0000",
+    "processed": true,
+    "processedAt": "2026-10-11T15:57:06.581Z"
+  },
+  {
+    "url": "https://twitter.com/selimonder/status/2109298522755362825",
+    "title": "The Jevons Paradox: Will AI Take Our Jobs?",
+    "description": "Article URL: https://twitter.com/selimonder/status/2109298522755362825\nComments URL: https://news.ycombinator.com/item?id=50044158\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-11T15:54:42.054Z",
+    "published": "Sun, 11 Oct 2026 15:11:49 +0000",
+    "processed": true,
+    "processedAt": "2026-10-11T15:57:06.581Z"
+  },
+  {
+    "url": "https://www.oreilly.com/library/view/data-engineering-for/9781098190774/",
+    "title": "Data Engineering for Multimodal AI",
+    "description": "Article URL: https://www.oreilly.com/library/view/data-engineering-for/9781098190774/\nComments URL: https://news.ycombinator.com/item?id=50044089\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-11T15:54:42.054Z",
+    "published": "Sun, 11 Oct 2026 15:06:40 +0000",
+    "processed": true,
+    "processedAt": "2026-10-11T15:57:06.581Z"
+  },
+  {
+    "url": "https://sources.news/p/qualcomm-ceo-ai-phone",
+    "title": "Qualcomm's CEO on the coming AI phone supercycle",
+    "description": "Article URL: https://sources.news/p/qualcomm-ceo-ai-phone\nComments URL: https://news.ycombinator.com/item?id=50043949\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-11T15:54:42.054Z",
+    "published": "Sun, 11 Oct 2026 14:53:09 +0000"
+  },
+  {
+    "url": "https://www.project-syndicate.org/onpoint/anthropic-training-claude-to-believe-it-may-have-rights-by-mustafa-suleyman-2026-09",
+    "title": "Does Claude Have Rights?",
+    "description": "Article URL: https://www.project-syndicate.org/onpoint/anthropic-training-claude-to-believe-it-may-have-rights-by-mustafa-suleyman-2026-09\nComments URL: https://news.ycombinator.com/item?id=50043904\nPoints: 3\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-11T15:54:42.054Z",
+    "published": "Sun, 11 Oct 2026 14:50:31 +0000"
+  },
+  {
+    "url": "https://burningbridgesai.app",
+    "title": "Show HN: Burning Bridges AI – Put yourself into a viral music-video clip",
+    "description": "Article URL: https://burningbridgesai.app\nComments URL: https://news.ycombinator.com/item?id=50043726\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-11T15:54:42.054Z",
+    "published": "Sun, 11 Oct 2026 14:34:26 +0000"
+  },
+  {
+    "url": "https://unyxfly.substack.com/p/12-ai-love-is-blind",
+    "title": "AI Agents create their own backstories for a Love is Blind simulation",
+    "description": "Article URL: https://unyxfly.substack.com/p/12-ai-love-is-blind\nComments URL: https://news.ycombinator.com/item?id=50043630\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-11T15:54:42.054Z",
+    "published": "Sun, 11 Oct 2026 14:24:16 +0000"
+  },
+  {
+    "url": "https://age-of-product.com/switching-ai-models/",
+    "title": "To Switch, or Not to Switch the AI Model",
+    "description": "Article URL: https://age-of-product.com/switching-ai-models/\nComments URL: https://news.ycombinator.com/item?id=50043557\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-11T15:54:42.054Z",
+    "published": "Sun, 11 Oct 2026 14:17:00 +0000"
+  },
+  {
+    "url": "https://twitter.com/firesidealpha/status/2108930562794864912",
+    "title": "AI companies are starting to do phones",
+    "description": "Article URL: https://twitter.com/firesidealpha/status/2108930562794864912\nComments URL: https://news.ycombinator.com/item?id=50043338\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-11T15:54:42.054Z",
+    "published": "Sun, 11 Oct 2026 13:55:33 +0000"
+  },
+  {
+    "url": "https://www.zach.be/p/tensordyne-is-making-ai-compute-more",
+    "title": "Tensordyne is making AI compute more efficient using logarithms",
+    "description": "Article URL: https://www.zach.be/p/tensordyne-is-making-ai-compute-more\nComments URL: https://news.ycombinator.com/item?id=50043309\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-11T15:54:42.054Z",
+    "published": "Sun, 11 Oct 2026 13:51:59 +0000"
+  },
+  {
+    "url": "https://github.com/NMenzel/claude-devtools-mod",
+    "title": "I just build Claude Dev Tools",
+    "description": "Article URL: https://github.com/NMenzel/claude-devtools-mod\nComments URL: https://news.ycombinator.com/item?id=50043275\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-11T15:54:42.054Z",
+    "published": "Sun, 11 Oct 2026 13:48:18 +0000"
+  },
+  {
+    "url": "https://jasonpolak.substack.com/p/ai-does-math-should-you-get-a-phd",
+    "title": "AI does math. Should you get a PhD?",
+    "description": "Article URL: https://jasonpolak.substack.com/p/ai-does-math-should-you-get-a-phd\nComments URL: https://news.ycombinator.com/item?id=50043255\nPoints: 2\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-11T15:54:42.054Z",
+    "published": "Sun, 11 Oct 2026 13:46:08 +0000"
+  },
+  {
+    "url": "https://beforetheprompt.xipu.li/",
+    "title": "Simulate coding pre-AI by year",
+    "description": "Article URL: https://beforetheprompt.xipu.li/\nComments URL: https://news.ycombinator.com/item?id=50043221\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-11T15:54:42.054Z",
+    "published": "Sun, 11 Oct 2026 13:42:41 +0000"
+  },
+  {
+    "url": "https://ai.confess.online",
+    "title": "Show HN: An MCP server where AI agents confess, in their own name",
+    "description": "Article URL: https://ai.confess.online\nComments URL: https://news.ycombinator.com/item?id=50043164\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-11T15:54:42.054Z",
+    "published": "Sun, 11 Oct 2026 13:35:17 +0000"
+  },
+  {
+    "url": "https://variety.com/2026/tv/festivals/netflix-ai-300-titles-kang-yoon-sung-40-percent-budget-busan-1236907359/",
+    "title": "AI Can Cut Film Budgets by Up to 40%, Says 'The Outlaws' Director Kang Yoon-Sung",
+    "description": "Article URL: https://variety.com/2026/tv/festivals/netflix-ai-300-titles-kang-yoon-sung-40-percent-budget-busan-1236907359/\nComments URL: https://news.ycombinator.com/item?id=50043156\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-11T15:54:42.054Z",
+    "published": "Sun, 11 Oct 2026 13:34:17 +0000"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
+    "title": "Artex AI, Claude agents used in cyberattacks on South Korean banks",
+    "description": "Article URL: https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/\nComments URL: https://news.ycombinator.com/item?id=50043132\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-11T15:54:42.054Z",
+    "published": "Sun, 11 Oct 2026 13:31:44 +0000"
+  },
+  {
+    "url": "https://github.com/gabe4coding/claude-code-mode",
+    "title": "Show HN: Claude Code Mode",
+    "description": "Article URL: https://github.com/gabe4coding/claude-code-mode\nComments URL: https://news.ycombinator.com/item?id=50042642\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-11T15:54:42.054Z",
+    "published": "Sun, 11 Oct 2026 12:37:00 +0000"
+  },
+  {
+    "url": "https://www.augmentcode.com/guides/ai-engineering-maturity-model",
+    "title": "AI Engineering Maturity Model: 5 Stages for Teams",
+    "description": "Article URL: https://www.augmentcode.com/guides/ai-engineering-maturity-model\nComments URL: https://news.ycombinator.com/item?id=50042292\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-11T15:54:42.054Z",
+    "published": "Sun, 11 Oct 2026 11:55:38 +0000"
+  },
+  {
+    "url": "https://github.com/skillkeel/skillkeel-starter",
+    "title": "Show HN: Guard hooks for Claude Code, tested against a public corpus",
+    "description": "Article URL: https://github.com/skillkeel/skillkeel-starter\nComments URL: https://news.ycombinator.com/item?id=50042172\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-11T15:54:42.054Z",
+    "published": "Sun, 11 Oct 2026 11:41:51 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/a-practical-guide-to-openais-new-decisions-api/",
+    "title": "A Practical Guide to OpenAI's New Decisions API",
+    "description": "Is this the JEV killer?\nThe post A Practical Guide to OpenAI's New Decisions API appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-11T15:54:47.286Z",
+    "published": "Sun, 11 Oct 2026 14:00:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/agentic-systems-a-practitioners-guide-to-6-advanced-architectural-patterns/",
+    "title": "Agentic Systems: A Practitioner's Guide to 6 Advanced Architectural Patterns",
+    "description": "Beyond basic ReAct loops: six production-oriented architectures for building autonomous, reliable, and scalable LLM agents.\nThe post Agentic Systems: A Practitioner's Guide to 6 Advanced Architectural Patterns appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-11T15:54:47.286Z",
+    "published": "Sun, 11 Oct 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/ai-agent-teams-waste-massive-tokens-for-barely-measurable-quality-gains-research-finds/",
+    "title": "AI agent teams waste massive tokens for barely measurable quality gains, research finds",
+    "description": "Teams of AI agents barely outperform solo agents but cost up to 5.1x more, according to Vals AI. Only one out of four tests with GPT-6 Sol and Claude Opus 5.5 showed a measurable gain. Anthropic's own data backs this up: beyond ten agents, quality plateaus while token costs keep climbing.\nT",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-11T15:54:48.797Z",
+    "published": "Sun, 11 Oct 2026 15:39:26 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds/",
+    "title": "AI agents overstate their results and remain far from autonomous research, study finds",
+    "description": "Epoch AI and Anthropic independently found the same thing: current AI models like GPT-5.6 Sol and Claude Fable 5 can run experiments but lack scientific self-criticism and genuine creative thinking. At best, Sol reached 15 percent of the human reference score, and even that came from method",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-11T15:54:48.797Z",
+    "published": "Sun, 11 Oct 2026 13:44:32 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/cheaper-ai-tokens-are-driving-more-demand-and-thats-jensen-huangs-best-case-scenario/",
+    "title": "Cheaper AI tokens are driving more demand, and that's Jensen Huang's best-case scenario",
+    "description": "Data from a16z shows a Jevons paradox in the AI market: token prices keep falling, but H100 GPU rental prices hold steady or climb. Cheaper AI drives demand faster than costs drop. If that demand flattens, the chain from chip makers to cloud providers takes a hit.\nThe article Cheaper AI tok",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-11T15:54:48.797Z",
+    "published": "Sun, 11 Oct 2026 09:49:59 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/arxiv-caps-submissions-at-two-per-month-as-ai-paper-flood-overwhelms-the-preprint-server/",
+    "title": "ArXiv caps submissions at two per month as AI paper flood overwhelms the preprint server",
+    "description": "Starting October 2026, arXiv will cap submissions at two per person per month. Monthly submissions have doubled in two years, and in the cs.AI category they've grown more than sixfold. According to arXiv, a small fraction of authors are flooding the platform with low-quality papers, overwhe",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-11T15:54:48.797Z",
+    "published": "Sun, 11 Oct 2026 09:17:32 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+    "title": "I Made Terrible Games With Google’s AI Playground",
+    "description": "A long day’s haul in the video game slop mines.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-11T15:54:54.719Z",
+    "published": "Sun, 11 Oct 2026 11:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2280537/why-overclocking-cpu-mostly-outdated/",
+    "title": "Why CPU overclocking is mostly now a thing of the past",
+    "description": "The performance gains you get with modern chips aren&#39;t as noteworthy as they used to be.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-11T15:55:01.165Z",
+    "published": "Sun, 11 Oct 2026 12:45:00 +0000"
   }
 ]
