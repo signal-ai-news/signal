@@ -13943,7 +13943,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-03T12:41:32.580Z",
-    "published": "Mon, 03 Aug 2026 10:32:22 +0000"
+    "published": "Mon, 03 Aug 2026 10:32:22 +0000",
+    "processed": true,
+    "processedAt": "2026-10-11T20:10:41.893Z"
   },
   {
     "url": "https://towardsdatascience.com/how-claude-help-me-build-my-200k-ml-resume/",
@@ -76705,5 +76707,49 @@
     "category": "news",
     "discovered": "2026-10-11T15:55:01.165Z",
     "published": "Sun, 11 Oct 2026 12:45:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+    "description": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-11T20:08:08.183Z",
+    "published": "Sun, 11 Oct 2026 16:52:33 +0000",
+    "processed": true,
+    "processedAt": "2026-10-11T20:10:41.895Z"
+  },
+  {
+    "url": "https://www.engadget.com/2283296/anbernics-next-dual-screen-handheld-has-the-perfect-aspect-ratio-for-3ds-games/",
+    "title": "Anbernic's next dual-screen handheld has the perfect aspect ratio for 3DS games",
+    "description": "The RG DDS's main display has a 5:3 aspect ratio while its bottom screen will be 4:3.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-11T20:08:35.166Z",
+    "published": "Sun, 11 Oct 2026 18:54:38 +0000",
+    "processed": true,
+    "processedAt": "2026-10-11T20:10:41.895Z"
+  },
+  {
+    "url": "https://www.engadget.com/2281207/steam-frame-teardown-reveals-one-problem-repairs/",
+    "title": "Steam Frame teardown reveals one problem with its future repairs",
+    "description": "In an otherwise repairable device, the cooling fan is hard to reach.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-11T20:08:35.166Z",
+    "published": "Sun, 11 Oct 2026 18:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-11T20:10:41.895Z"
+  },
+  {
+    "url": "https://www.engadget.com/2281077/apple-home-ai-summaries-security-camera-prices/",
+    "title": "Apple Home's new AI summaries for security cameras cost more than you'd think",
+    "description": "If you have a lot of cameras in your home, get ready to pay for more expensive iCloud+ plans.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-11T20:08:35.166Z",
+    "published": "Sun, 11 Oct 2026 16:15:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-11T20:10:41.895Z"
   }
 ]
