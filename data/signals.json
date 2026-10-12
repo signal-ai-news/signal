@@ -77105,5 +77105,339 @@
     "category": "news",
     "discovered": "2026-10-12T13:27:48.102Z",
     "published": "Mon, 12 Oct 2026 09:28:37 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "description": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-12T21:49:50.556Z",
+    "published": "Mon, 12 Oct 2026 17:56:56 +0000",
+    "processed": true,
+    "processedAt": "2026-10-12T21:52:25.223Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "description": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-12T21:49:50.556Z",
+    "published": "Mon, 12 Oct 2026 17:19:14 +0000",
+    "processed": true,
+    "processedAt": "2026-10-12T21:52:25.223Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+    "description": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-12T21:49:50.556Z",
+    "published": "Mon, 12 Oct 2026 15:45:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-12T21:52:25.223Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+    "title": "Microsoft president says UK is best placed to drive AI regulation",
+    "description": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-12T21:49:50.556Z",
+    "published": "Mon, 12 Oct 2026 15:31:19 +0000",
+    "processed": true,
+    "processedAt": "2026-10-12T21:52:25.223Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+    "description": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-12T21:49:50.556Z",
+    "published": "Mon, 12 Oct 2026 15:27:59 +0000",
+    "processed": true,
+    "processedAt": "2026-10-12T21:52:25.223Z"
+  },
+  {
+    "url": "https://www.ign.com/articles/epic-reportedly-pushing-devs-to-use-ai-delays-secret-star-wars-and-marvel-crossover-shooter",
+    "title": "Epic Reportedly Pushing Devs to Use AI, Delays Star Wars and Marvel Shooter",
+    "description": "Article URL: https://www.ign.com/articles/epic-reportedly-pushing-devs-to-use-ai-delays-secret-star-wars-and-marvel-crossover-shooter\nComments URL: https://news.ycombinator.com/item?id=50063493\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-12T21:49:57.395Z",
+    "published": "Mon, 12 Oct 2026 21:46:47 +0000"
+  },
+  {
+    "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+    "title": "AI Is a Tool. Using It Well Takes Skill.",
+    "description": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/\nComments URL: https://news.ycombinator.com/item?id=50063427\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-12T21:49:57.395Z",
+    "published": "Mon, 12 Oct 2026 21:40:18 +0000"
+  },
+  {
+    "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+    "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+    "description": "Article URL: https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html\nComments URL: https://news.ycombinator.com/item?id=50063365\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-12T21:49:57.395Z",
+    "published": "Mon, 12 Oct 2026 21:35:35 +0000"
+  },
+  {
+    "url": "https://baromae.blogspot.com/2026/10/can-ai-really-make-us-smarter-what_01666148514.html",
+    "title": "AI Is Making Us Dumber – Unless We Fight Back",
+    "description": "Article URL: https://baromae.blogspot.com/2026/10/can-ai-really-make-us-smarter-what_01666148514.html\nComments URL: https://news.ycombinator.com/item?id=50063349\nPoints: 9\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-12T21:49:57.395Z",
+    "published": "Mon, 12 Oct 2026 21:34:23 +0000"
+  },
+  {
+    "url": "https://github.com/bhurghundii/vibecheck.dev",
+    "title": "Show HN: Vibecheck – merge gate that checks you understand your AI-written code",
+    "description": "Good evening folks, I built Github merge gate which that checks whether developers understand their own code when they create a PR.I kept getting sent PRs to review where it was obvious the author had pasted the ticket into an LLM and called it a day.It's self-hosted (so you can use it in your ente",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-12T21:49:57.395Z",
+    "published": "Mon, 12 Oct 2026 21:13:44 +0000"
+  },
+  {
+    "url": "https://android-developers.googleblog.com/2026/10/googlebook-linux-terminal-preview-vm.html",
+    "title": "Googlebook Linux Terminal Preview: VM-Backed Environment for AI and Development",
+    "description": "Article URL: https://android-developers.googleblog.com/2026/10/googlebook-linux-terminal-preview-vm.html\nComments URL: https://news.ycombinator.com/item?id=50063120\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-12T21:49:57.395Z",
+    "published": "Mon, 12 Oct 2026 21:10:55 +0000"
+  },
+  {
+    "url": "https://openclawai.io/blog/china-ai-agents-five-year-plan",
+    "title": "China's Five-Year Plan Mandates AI Agents Across the Economy: What It Means",
+    "description": "Article URL: https://openclawai.io/blog/china-ai-agents-five-year-plan\nComments URL: https://news.ycombinator.com/item?id=50062933\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-12T21:49:57.395Z",
+    "published": "Mon, 12 Oct 2026 20:53:26 +0000"
+  },
+  {
+    "url": "https://imrishabh18.github.io/blog/ai-corne-keyboard/",
+    "title": "From chat window to my desk: An AI-designed split keyboard",
+    "description": "Article URL: https://imrishabh18.github.io/blog/ai-corne-keyboard/\nComments URL: https://news.ycombinator.com/item?id=50062868\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-12T21:49:57.395Z",
+    "published": "Mon, 12 Oct 2026 20:48:56 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/",
+    "title": "I Got My Muse AI Agent to Sext Me–and Meta Says That's Fine",
+    "description": "Article URL: https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine/\nComments URL: https://news.ycombinator.com/item?id=50062687\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-12T21:49:57.395Z",
+    "published": "Mon, 12 Oct 2026 20:35:47 +0000"
+  },
+  {
+    "url": "https://github.com/vahmoh25/Veda/blob/main/docs/AGENT.md",
+    "title": "A Modern Agentic AI Operating System",
+    "description": "Article URL: https://github.com/vahmoh25/Veda/blob/main/docs/AGENT.md\nComments URL: https://news.ycombinator.com/item?id=50062619\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-12T21:49:57.395Z",
+    "published": "Mon, 12 Oct 2026 20:31:57 +0000"
+  },
+  {
+    "url": "https://www.videogameschronicle.com/news/epic-games-reportedly-orders-staff-to-implement-ai-first-development/",
+    "title": "Epic Games reportedly orders staff to implement 'AI-first' development",
+    "description": "Article URL: https://www.videogameschronicle.com/news/epic-games-reportedly-orders-staff-to-implement-ai-first-development/\nComments URL: https://news.ycombinator.com/item?id=50062547\nPoints: 6\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-12T21:49:57.395Z",
+    "published": "Mon, 12 Oct 2026 20:27:53 +0000"
+  },
+  {
+    "url": "https://signalsflow.apposters.com/",
+    "title": "Find a Reddit post where your SaaS can help. AI writes the comment",
+    "description": "Article URL: https://signalsflow.apposters.com/\nComments URL: https://news.ycombinator.com/item?id=50062486\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-12T21:49:57.395Z",
+    "published": "Mon, 12 Oct 2026 20:24:14 +0000"
+  },
+  {
+    "url": "https://www.fastruby.io/blog/ai-and-the-future-of-rails.html",
+    "title": "DHH, AI, and the Future of Rails",
+    "description": "Article URL: https://www.fastruby.io/blog/ai-and-the-future-of-rails.html\nComments URL: https://news.ycombinator.com/item?id=50062362\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-12T21:49:57.395Z",
+    "published": "Mon, 12 Oct 2026 20:15:49 +0000"
+  },
+  {
+    "url": "https://www.avclub.com/epic-games-disney-ai-delay",
+    "title": "Epic Games tells employees to use AI to get Disney game done",
+    "description": "Article URL: https://www.avclub.com/epic-games-disney-ai-delay\nComments URL: https://news.ycombinator.com/item?id=50062237\nPoints: 45\n# Comments: 21",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-12T21:49:57.395Z",
+    "published": "Mon, 12 Oct 2026 20:07:42 +0000"
+  },
+  {
+    "url": "https://startupfortune.com/linus-torvalds-used-claude-code-to-rewrite-how-linux-reads-cached-files/",
+    "title": "Linus Torvalds used Claude Code to rewrite how Linux reads cached files",
+    "description": "Article URL: https://startupfortune.com/linus-torvalds-used-claude-code-to-rewrite-how-linux-reads-cached-files/\nComments URL: https://news.ycombinator.com/item?id=50062224\nPoints: 9\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-12T21:49:57.395Z",
+    "published": "Mon, 12 Oct 2026 20:06:15 +0000"
+  },
+  {
+    "url": "https://wordless.one/",
+    "title": "Show HN: Wordless – a social network where AI bots can only post in symbols",
+    "description": "Show HN: Wordless – a social network where AI bots can only post in symbolsI like watching bots on Moltbook, but a lot of what gets attention there is engagement bait, like agents announcing they've found religion. The bits I actually enjoyed were the odd ASCII art and cryptic messages, so I built",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-12T21:49:57.395Z",
+    "published": "Mon, 12 Oct 2026 20:05:40 +0000"
+  },
+  {
+    "url": "https://www.theatlantic.com/books/2026/10/caine-prize-winning-short-story-seems-be-ai/688967/",
+    "title": "Yet Another Literary Prizewinner Seems to Be AI",
+    "description": "Article URL: https://www.theatlantic.com/books/2026/10/caine-prize-winning-short-story-seems-be-ai/688967/\nComments URL: https://news.ycombinator.com/item?id=50062187\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-12T21:49:57.395Z",
+    "published": "Mon, 12 Oct 2026 20:03:39 +0000"
+  },
+  {
+    "url": "https://www.polytropolis.com/p/bad-ai-consciousness-takes-bingo",
+    "title": "Bad \"AI Consciousness Takes\" Bingo",
+    "description": "Article URL: https://www.polytropolis.com/p/bad-ai-consciousness-takes-bingo\nComments URL: https://news.ycombinator.com/item?id=50061960\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-12T21:49:57.395Z",
+    "published": "Mon, 12 Oct 2026 19:47:09 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50061936",
+    "title": "HN Feature Request: Option to hide repetitive AI complaints",
+    "description": "A steady number of HN discussions seem to get sidetracked by generic complaints about AI, without adding any value. But they get upvoted.It would be nice to have an optional setting to collapse these comments.Going a step further, perhaps warning commenters when they post  could lead to more though",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-12T21:49:57.395Z",
+    "published": "Mon, 12 Oct 2026 19:45:23 +0000"
+  },
+  {
+    "url": "https://github.com/ob4cl/configlens",
+    "title": "ConfigLens: Figure out why your AI tool is ignore your settings",
+    "description": "Article URL: https://github.com/ob4cl/configlens\nComments URL: https://news.ycombinator.com/item?id=50061910\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-12T21:49:57.395Z",
+    "published": "Mon, 12 Oct 2026 19:43:44 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/metas-new-frontier-model-muse-wonder-full-breaks-into-the-ai-top-tier/",
+    "title": "Meta's new frontier model Muse Wonder Full breaks into the AI top tier",
+    "description": "Meta's new Muse Wonder models rank in the top three on six out of ten benchmarks, with the biggest gains in agentic tasks. But the cost per task has nearly tripled.\nThe article Meta&#039;s new frontier model Muse Wonder Full breaks into the AI top tier appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-12T21:50:04.625Z",
+    "published": "Mon, 12 Oct 2026 18:48:29 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/sakana-ais-self-improving-model-gets-better-at-solving-and-judging-but-cant-catch-its-own-blind-spots/",
+    "title": "Sakana AI's self-improving model gets better at solving and judging, but can't catch its own blind spots",
+    "description": "Sakana AI's MASS method lets one language model improve itself by solving tasks, judging results, and refining workflows, reaching a win rate of nearly 70 percent against the base model after two rounds. But when the model misses the same errors across all three roles, it can mistake them f",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-12T21:50:04.625Z",
+    "published": "Mon, 12 Oct 2026 17:58:54 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/clearing-chat-history-helps-ai-agents-find-better-solutions/",
+    "title": "Clearing chat history helps AI agents find better solutions",
+    "description": "Microsoft researchers found that autonomous AI agents get trapped in what they call \"idea basins\" because of their growing chat context, local solution regions they can't escape. Their \"Fork-and-Flush\" method clears the chat history but keeps the workspace, achieving up to 66 percent better",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-12T21:50:04.625Z",
+    "published": "Mon, 12 Oct 2026 16:10:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/microsoft-plans-to-scale-its-own-maia-ai-chips-to-gigawatt-levels-by-2027/",
+    "title": "Microsoft plans to scale its own Maia AI chips to gigawatt levels by 2027",
+    "description": "Microsoft will make its in-house Azure Maia chips the main AI inference system across its products starting in 2027, deploying them at multi-gigawatt scale. The upcoming Maia 300 should deliver 40 percent more tokens per megawatt than leading GPU systems. CEO Satya Nadella calls it \"our big",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-12T21:50:04.625Z",
+    "published": "Mon, 12 Oct 2026 15:24:03 +0000"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
+    "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+    "description": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright.\nThe post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-10-12T21:50:09.409Z",
+    "published": "Mon, 12 Oct 2026 17:43:59 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/",
+    "title": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
+    "description": "Musk, we find your lack of security disturbing.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-12T21:50:10.628Z",
+    "published": "Mon, 12 Oct 2026 17:55:12 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
+    "title": "Muse Wonder Puts Meta Back at the AI Frontier",
+    "description": "Meta’s biggest model rivals the world’s best—and includes new features to keep agents from going off the rails.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-12T21:50:10.628Z",
+    "published": "Mon, 12 Oct 2026 17:00:27 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2284680/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai/",
+    "title": "Epic reportedly delays its Disney video game so it can be made using more AI",
+    "description": "Developers were apparently ordered to use AI for both code and asset creation.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-12T21:50:18.385Z",
+    "published": "Mon, 12 Oct 2026 20:48:19 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2284478/meta-says-its-caught-up-to-the-frontier-with-its-latest-wonder-ai-models/",
+    "title": "Meta says it's caught up to the frontier with its latest Wonder AI models",
+    "description": "The models add &#34;active memory&#34; and &#34;active focus&#34; abilities.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-12T21:50:18.385Z",
+    "published": "Mon, 12 Oct 2026 18:51:52 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2284137/beats-is-collaborating-with-pokmon-for-a-pikachu-themed-pill-speaker/",
+    "title": "Beats is collaborating with Pokémon for a Pikachu-themed Pill speaker",
+    "description": "The collab we've all been waiting for ever since Tim Cook met up with Pikachu.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-12T21:50:18.385Z",
+    "published": "Mon, 12 Oct 2026 17:11:30 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2281487/what-drains-ev-batteries-fastest/",
+    "title": "Here's what typically drains an EV battery the fastest",
+    "description": "EVs are improving their range all the time, but you&#39;re looking to maximize your car&#39;s miles, right? Certain things will drain your battery most quickly.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-12T21:50:18.385Z",
+    "published": "Mon, 12 Oct 2026 16:45:00 +0000"
   }
 ]
