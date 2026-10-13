@@ -77439,5 +77439,69 @@
     "category": "news",
     "discovered": "2026-10-12T21:50:18.385Z",
     "published": "Mon, 12 Oct 2026 16:45:00 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/how-we-solve-22000-support-tickets-every-month-with-elevenagents",
+    "title": "How we solve 22,000 support tickets every month with ElevenAgents",
+    "description": "We utilize ElevenAgents procedures, simulation tests, tools, and more to enable the agent to look-up account information, take actions, and escalate",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-10-13T02:56:47.318Z",
+    "published": "Tue, 13 Oct 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-13T02:59:13.621Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/12/alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-horizon-agents/",
+    "title": "Alibaba Qwen Introduces QwenGyre: Elastic Reinforcement Learning RL for XLong-Horizon Agents",
+    "description": "Alibaba&#8217;s Qwen team has introduced QwenGyre, an elastic reinforcement learning RL framework for extreme-long-horizon agent training. QwenGyre is an online reinforcement learning system from Alibaba that trains coding agents through unmodified, black-box harnesses. It targets rollouts that run",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-13T02:57:04.513Z",
+    "published": "Mon, 12 Oct 2026 21:41:50 +0000",
+    "processed": true,
+    "processedAt": "2026-10-13T02:59:13.621Z"
+  },
+  {
+    "url": "https://www.engadget.com/2281663/android-phone-dont-buy-cheap-without-non-negotiable-features/",
+    "title": "Don't buy a cheap Android phone without these non-negotiable features",
+    "description": "Android phones can be had at many different price points, but the most important features aren&#39;t always found in the cheapest available devices.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-13T02:57:08.355Z",
+    "published": "Tue, 13 Oct 2026 00:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-13T02:59:13.621Z"
+  },
+  {
+    "url": "https://www.engadget.com/2281587/how-to-create-raid-array-your-old-hard-drives/",
+    "title": "How to turn your old hard drives into a RAID array",
+    "description": "Your old hard drives still have some live left in them.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-13T02:57:08.355Z",
+    "published": "Mon, 12 Oct 2026 23:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-13T02:59:13.621Z"
+  },
+  {
+    "url": "https://www.engadget.com/2281539/how-to-use-google-gemini-automate-tasks/",
+    "title": "How to use Google Gemini to automate tasks",
+    "description": "Spark is Google&#39;s AI tool that can perform tasks on your behalf.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-13T02:57:08.355Z",
+    "published": "Mon, 12 Oct 2026 22:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-13T02:59:13.621Z"
+  },
+  {
+    "url": "https://www.engadget.com/2281499/how-to-improve-blurry-iphone-photo/",
+    "title": "Why are your iPhone photos so blurry (and how to improve it)",
+    "description": "Blurry iPhone photos can come down to more than just a dirty lens. Here&#39;s how to expertly sharpen your shots and fine-tune your camera settings.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-13T02:57:08.355Z",
+    "published": "Mon, 12 Oct 2026 22:00:00 +0000"
   }
 ]
