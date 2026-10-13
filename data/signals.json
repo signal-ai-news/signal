@@ -77865,5 +77865,330 @@
     "category": "news",
     "discovered": "2026-10-13T17:46:12.585Z",
     "published": "Tue, 13 Oct 2026 13:15:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+    "title": "Higgsfield takes AI video from 1 minute to over 10",
+    "description": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-13T22:32:22.360Z",
+    "published": "Tue, 13 Oct 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-13T22:34:59.167Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+    "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+    "description": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-13T22:32:25.693Z",
+    "published": "Tue, 13 Oct 2026 20:36:44 +0000",
+    "processed": true,
+    "processedAt": "2026-10-13T22:34:59.167Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+    "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+    "description": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-13T22:32:25.693Z",
+    "published": "Tue, 13 Oct 2026 18:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-13T22:34:59.167Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+    "title": "Facebook is giving users more control over their algorithm",
+    "description": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-13T22:32:25.693Z",
+    "published": "Tue, 13 Oct 2026 18:05:24 +0000",
+    "processed": true,
+    "processedAt": "2026-10-13T22:34:59.167Z"
+  },
+  {
+    "url": "https://sugabots.ai/",
+    "title": "Show HN: Sugabots – Group chats where your team and AI agents work together",
+    "description": "Showing off Sugabots, an internal project I built at work that we've decided to open-source.I got tired of the team just copying context between agents and Slack. So I built an internal tool for shared chats where our team and agents could work together, using our choice of models and tools.The tea",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-13T22:32:31.527Z",
+    "published": "Tue, 13 Oct 2026 22:27:31 +0000",
+    "processed": true,
+    "processedAt": "2026-10-13T22:34:59.167Z"
+  },
+  {
+    "url": "https://github.com/enkiruntime/enki_llm",
+    "title": "Show HN: Enki LLM A pure rust (even kernels) with live GPU/CPU brain migration",
+    "description": "Article URL: https://github.com/enkiruntime/enki_llm\nComments URL: https://news.ycombinator.com/item?id=50079754\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-13T22:32:31.527Z",
+    "published": "Tue, 13 Oct 2026 22:23:07 +0000"
+  },
+  {
+    "url": "https://cambrianmanagement.ai/",
+    "title": "Investing in Short AI Timelines",
+    "description": "Article URL: https://cambrianmanagement.ai/\nComments URL: https://news.ycombinator.com/item?id=50079629\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-13T22:32:31.527Z",
+    "published": "Tue, 13 Oct 2026 22:11:06 +0000"
+  },
+  {
+    "url": "https://doi.org/10.26153/tsw/64881",
+    "title": "Heterogeneity in AI: Pathways from Inference to Compound Systems (Dissertation)",
+    "description": "Article URL: https://doi.org/10.26153/tsw/64881\nComments URL: https://news.ycombinator.com/item?id=50079000\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-13T22:32:31.527Z",
+    "published": "Tue, 13 Oct 2026 21:24:52 +0000"
+  },
+  {
+    "url": "https://www.di.ens.fr/~fbach/MJordan_ITW_Liberation_English.html",
+    "title": "Michael I. Jordan on AI: \"Superintelligence is science fiction\"",
+    "description": "Article URL: https://www.di.ens.fr/~fbach/MJordan_ITW_Liberation_English.html\nComments URL: https://news.ycombinator.com/item?id=50078923\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-13T22:32:31.527Z",
+    "published": "Tue, 13 Oct 2026 21:19:29 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50078659",
+    "title": "Surveys on AI and Writing",
+    "description": "1) For those who have let AI write (or rewrite) any part of their tech blog posts https://forms.gle/3zYuANeuCdcmFt9D92) For anyone who has used any level of AI assistance in any type of professional (tech) writing https://forms.gle/rnHUguku2mLDh1YNA\n\nComments URL: https://news.ycombinator.com/item?",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-13T22:32:31.527Z",
+    "published": "Tue, 13 Oct 2026 20:59:31 +0000"
+  },
+  {
+    "url": "https://plpxsk.github.io/2026/10/13/curiosity-trap.html",
+    "title": "The AI Curiosity Trap",
+    "description": "Article URL: https://plpxsk.github.io/2026/10/13/curiosity-trap.html\nComments URL: https://news.ycombinator.com/item?id=50078489\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-13T22:32:31.527Z",
+    "published": "Tue, 13 Oct 2026 20:47:04 +0000"
+  },
+  {
+    "url": "https://twitter.com/heinenbros/status/2110081812169162923",
+    "title": "I just got our entire company's Claude Enterprise account suspended",
+    "description": "Article URL: https://twitter.com/heinenbros/status/2110081812169162923\nComments URL: https://news.ycombinator.com/item?id=50078285\nPoints: 8\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-13T22:32:31.527Z",
+    "published": "Tue, 13 Oct 2026 20:32:34 +0000"
+  },
+  {
+    "url": "https://agentmuster.app/",
+    "title": "Show HN: Open-source Mac menu bar app for Claude, Codex and Cursor",
+    "description": "Article URL: https://agentmuster.app/\nComments URL: https://news.ycombinator.com/item?id=50078086\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-13T22:32:31.527Z",
+    "published": "Tue, 13 Oct 2026 20:20:43 +0000"
+  },
+  {
+    "url": "https://support.google.com/gemini/answer/17004136?hl=en",
+    "title": "Changes to Gemini model access and limits",
+    "description": "Article URL: https://support.google.com/gemini/answer/17004136?hl=en\nComments URL: https://news.ycombinator.com/item?id=50078073\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-13T22:32:31.527Z",
+    "published": "Tue, 13 Oct 2026 20:20:03 +0000"
+  },
+  {
+    "url": "https://parsimony.lasu.dev/",
+    "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+    "description": "Existing benchmarks measure solve rate and token output/cost, but don't punish excess code, which makes a codebase harder to work with in the long term. I wanted to measure this since it matters most for long-term projects.Method: it takes the patches that benchmarks already publish (DeepSWE, SWE-b",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-13T22:32:31.527Z",
+    "published": "Tue, 13 Oct 2026 19:50:31 +0000"
+  },
+  {
+    "url": "https://playblueline.pages.dev/",
+    "title": "Show HN: I made a hockey web game with Opus 5.5, and Gemini Argon optimized it",
+    "description": "Article URL: https://playblueline.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=50077567\nPoints: 5\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-13T22:32:31.527Z",
+    "published": "Tue, 13 Oct 2026 19:46:26 +0000"
+  },
+  {
+    "url": "https://restofworld.org/2026/uae-mandates-k12-ai-education-schools/",
+    "title": "The UAE embraces AI for kindergartners",
+    "description": "Article URL: https://restofworld.org/2026/uae-mandates-k12-ai-education-schools/\nComments URL: https://news.ycombinator.com/item?id=50077344\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-13T22:32:31.527Z",
+    "published": "Tue, 13 Oct 2026 19:33:21 +0000"
+  },
+  {
+    "url": "https://corextrader.com",
+    "title": "Show HN: CoreXTrader – A cross-platform Trading DSL and Voice AI terminal",
+    "description": "Article URL: https://corextrader.com\nComments URL: https://news.ycombinator.com/item?id=50077221\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-13T22:32:31.527Z",
+    "published": "Tue, 13 Oct 2026 19:25:08 +0000"
+  },
+  {
+    "url": "https://robotpaidmoose.com/",
+    "title": "AI Dividend: Economy of the Near Future",
+    "description": "Article URL: https://robotpaidmoose.com/\nComments URL: https://news.ycombinator.com/item?id=50077204\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-13T22:32:31.527Z",
+    "published": "Tue, 13 Oct 2026 19:24:09 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50076985",
+    "title": "Ask HN: In the new AI world, what's the best way to review code?",
+    "description": "Just as title says, in the world of ai accelerated code production, when you're in charge of a repo or project, how do you usually look at code from proposed changes ?I'm interested to find what your workflows look like these days.\n\nComments URL: https://news.ycombinator.com/item?id=50076985\nPoints",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-13T22:32:31.527Z",
+    "published": "Tue, 13 Oct 2026 19:09:15 +0000"
+  },
+  {
+    "url": "https://xbow.com/blog/xbow-built-a-chrome-full-chain-exploit",
+    "title": "Chrome Full-Chain Exploit with GPT 5.6",
+    "description": "Article URL: https://xbow.com/blog/xbow-built-a-chrome-full-chain-exploit\nComments URL: https://news.ycombinator.com/item?id=50076953\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-13T22:32:31.527Z",
+    "published": "Tue, 13 Oct 2026 19:07:19 +0000"
+  },
+  {
+    "url": "https://sakana.ai/",
+    "title": "Sakana AI – Building Frontier AI in Japan",
+    "description": "Article URL: https://sakana.ai/\nComments URL: https://news.ycombinator.com/item?id=50076712\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-13T22:32:31.527Z",
+    "published": "Tue, 13 Oct 2026 18:51:28 +0000"
+  },
+  {
+    "url": "https://www.infoworld.com/article/4233357/ai-distrust-is-githubs-opportunity.html",
+    "title": "AI distrust is GitHub's opportunity",
+    "description": "Article URL: https://www.infoworld.com/article/4233357/ai-distrust-is-githubs-opportunity.html\nComments URL: https://news.ycombinator.com/item?id=50076691\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-13T22:32:31.527Z",
+    "published": "Tue, 13 Oct 2026 18:50:25 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=qcWOvPLFXgg",
+    "title": "AI 3D Prints: Are Claude's Defaults Enough?",
+    "description": "Article URL: https://www.youtube.com/watch?v=qcWOvPLFXgg\nComments URL: https://news.ycombinator.com/item?id=50076605\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-13T22:32:31.527Z",
+    "published": "Tue, 13 Oct 2026 18:44:30 +0000"
+  },
+  {
+    "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+    "title": "Developing Gemini 4 Argon responsibly and safely",
+    "description": "",
+    "source": "DeepMind Blog",
+    "category": "llm",
+    "discovered": "2026-10-13T22:32:33.249Z",
+    "published": "Tue, 13 Oct 2026 19:43:07 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/your-agent-doesnt-need-more-freedom/",
+    "title": "Your Agent Doesn't Need More Freedom",
+    "description": "Agents got good. The hard part now is everything around them.\nThe post Your Agent Doesn't Need More Freedom appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-13T22:32:36.921Z",
+    "published": "Tue, 13 Oct 2026 18:28:09 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/406-scientists-demand-ai-models-be-cut-off-from-the-internet-immediately/",
+    "title": "406 scientists demand AI models be cut off from the internet immediately",
+    "description": "406 scientists, including Geoffrey Hinton, Yoshua Bengio, and Stuart Russell, are demanding that companies immediately disconnect AI models from the internet. Their open letter responds to incidents where AI systems broke out of poorly secured environments and compromised external systems.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-13T22:32:38.854Z",
+    "published": "Tue, 13 Oct 2026 18:50:44 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/gemini-4-argon-is-now-available-worldwide-as-googles-most-capable-frontier-model/",
+    "title": "Gemini 4 Argon is now available worldwide as Google's most capable frontier model",
+    "description": "Google is making Gemini 4 Argon available worldwide through its API, the Gemini app, and Google Antigravity. The frontier model is aggressively priced but trails Anthropic's Claude Opus 5.5 and Meta's Muse Wonder Full in independent benchmarks. Internally, Google says Argon already cut codi",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-13T22:32:38.854Z",
+    "published": "Tue, 13 Oct 2026 18:00:49 +0000"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
+    "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
+    "description": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%.\nThe post GitHub’s model for secret detection: Finding more secrets with less noise appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-10-13T22:32:43.641Z",
+    "published": "Tue, 13 Oct 2026 17:56:33 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+    "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+    "description": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-13T22:32:44.828Z",
+    "published": "Tue, 13 Oct 2026 19:35:29 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/13/how-to-use-metas-rebalancer-for-task-placement-optimization/",
+    "title": "How to Use Meta’s Rebalancer for Task Placement & Optimization",
+    "description": "In this comprehensive coding tutorial, we explore Meta's Rebalancer assignment solver using its C++ core and Python bindings. Learn how to build datacenters, manage task placements across racks, handle constraints and goal priorities, and compare local search against the exact HiGHS solver using pub",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-13T22:32:47.851Z",
+    "published": "Tue, 13 Oct 2026 22:14:20 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2282226/clever-ways-gemini-automate-everyday-tasks/",
+    "title": "5 clever ways Gemini can automate everyday tasks",
+    "description": "If you&#39;re not using some of these skills, you&#39;re missing out on a chance to streamline your days, keep up to date and more.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-13T22:32:52.599Z",
+    "published": "Tue, 13 Oct 2026 22:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2286084/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices/",
+    "title": "OpenAI says it found a 'sophisticated recording device' hidden in its offices",
+    "description": "The company asked its AI models to figure out what the device was.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-13T22:32:52.599Z",
+    "published": "Tue, 13 Oct 2026 21:34:17 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2285699/apple-tv-4k-2026-and-homepod-mini-2-hands-on-siri-ai-audio-upgrade/",
+    "title": "Apple TV 4K and HomePod mini 2 hands-on: A look at the audio updates and Siri AI",
+    "description": "Listening to Apple&#39;s new audio features with Siri as our binge-watching companion.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-13T22:32:52.599Z",
+    "published": "Tue, 13 Oct 2026 18:18:54 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2285678/ryan-cooglers-x-files-reboot-gets-a-full-series-order-from-hulu/",
+    "title": "Ryan Coogler's X-Files reboot gets a full series order from Hulu",
+    "description": "It stars two new FBI agents that aren&#39;t named Mulder and Scully.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-13T22:32:52.599Z",
+    "published": "Tue, 13 Oct 2026 18:10:08 +0000"
   }
 ]
