@@ -77558,5 +77558,312 @@
     "published": "Tue, 13 Oct 2026 08:44:18 +0000",
     "processed": true,
     "processedAt": "2026-10-13T10:24:45.288Z"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+    "title": "Gemini 4 Argon: Built to solve your hardest problems",
+    "description": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-10-13T17:45:26.419Z",
+    "published": "Tue, 13 Oct 2026 16:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-13T17:48:20.071Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+    "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-10-13T17:45:27.080Z",
+    "published": "Tue, 13 Oct 2026 17:05:48 GMT",
+    "processed": true,
+    "processedAt": "2026-10-13T17:48:20.071Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+    "description": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing at TechCrunch Disrupt's Startup Battlefield.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-13T17:45:28.404Z",
+    "published": "Tue, 13 Oct 2026 17:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-13T17:48:20.071Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+    "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+    "description": "Pluto Security has raised $42 million Jump Capital, TLV Partners, Ansa Capital and angel investors.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-13T17:45:28.404Z",
+    "published": "Tue, 13 Oct 2026 17:18:25 +0000",
+    "processed": true,
+    "processedAt": "2026-10-13T17:48:20.071Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+    "title": "Google Play now supports private, vibe-coded apps built just for you",
+    "description": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-13T17:45:28.404Z",
+    "published": "Tue, 13 Oct 2026 17:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-13T17:48:20.071Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+    "description": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-13T17:45:28.404Z",
+    "published": "Tue, 13 Oct 2026 16:30:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+    "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+    "description": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-13T17:45:28.404Z",
+    "published": "Tue, 13 Oct 2026 13:50:19 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+    "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+    "description": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-13T17:45:28.404Z",
+    "published": "Tue, 13 Oct 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+    "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+    "description": "The startup will sell some of its assets to Disney for $20 million.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-13T17:45:28.404Z",
+    "published": "Tue, 13 Oct 2026 12:23:42 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+    "title": "The Download: open model trade-offs and geothermal power’s promise",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently released a report arguing that a powerful new model released by the Chi",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-13T17:45:29.720Z",
+    "published": "Tue, 13 Oct 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/first-ever-ai-voiced-speech-uk-parliament",
+    "title": "Baroness Campbell gives the UK Parliament’s first ever AI-voiced speech with ElevenLabs",
+    "description": "Baroness Campbell addressed the House of Lords in her own AI-recreated voice, a first for UK Parliament, built with ElevenLabs.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-10-13T17:45:32.132Z",
+    "published": "Tue, 13 Oct 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+    "title": "Gemini 4 Argon for Robotics",
+    "description": "",
+    "source": "DeepMind Blog",
+    "category": "llm",
+    "discovered": "2026-10-13T17:45:40.409Z",
+    "published": "Tue, 13 Oct 2026 16:01:58 +0000"
+  },
+  {
+    "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+    "title": "Gemini 4 Argon: Built to solve your hardest problems",
+    "description": "",
+    "source": "DeepMind Blog",
+    "category": "llm",
+    "discovered": "2026-10-13T17:45:40.409Z",
+    "published": "Tue, 13 Oct 2026 16:01:52 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/three-samplers-one-posterior-nuts-vs-emcee-vs-nested-sampling/",
+    "title": "Three Samplers, One Posterior: NUTS vs. Emcee vs. Nested Sampling",
+    "description": "Benchmarking NumPyro, affine-invariant MCMC, and dynesty against exact ground truth and watching them fail.\nThe post Three Samplers, One Posterior: NUTS vs. Emcee vs. Nested Sampling appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-13T17:45:52.013Z",
+    "published": "Tue, 13 Oct 2026 14:00:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/coding-agents-can-solve-the-task-but-how-much-work-did-they-waste/",
+    "title": "Coding Agents Can Solve the Task — But How Much Work Did They Waste?",
+    "description": "Real repositories, seeded agent decisions: what 50,400 runs show about wasted turns, patch churn, and which harness rules help\nThe post Coding Agents Can Solve the Task — But How Much Work Did They Waste? appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-13T17:45:52.013Z",
+    "published": "Tue, 13 Oct 2026 12:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-leverage-nlp-for-product-data-science/",
+    "title": "How to Leverage NLP for Product Data Science",
+    "description": "A practical guide to strengthening churn, CLV, and other traditional models with text\nThe post How to Leverage NLP for Product Data Science appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-13T17:45:52.013Z",
+    "published": "Tue, 13 Oct 2026 11:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/machine-learning-pioneer-michael-i-jordan-dismantles-ai-doom-rhetoric-as-grand-moralizing-performance/",
+    "title": "Machine learning pioneer Michael I. Jordan dismantles AI doom rhetoric as \"grand moralizing performance\"",
+    "description": "Michael I. Jordan, described by Science as \"the most influential computer scientist,\" considers warnings about superintelligence pure science fiction. He calls the resignations of young AI researchers a \"grand moralizing performance\" and companies' demands for regulation \"theater.\" On Hinto",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-13T17:45:53.728Z",
+    "published": "Tue, 13 Oct 2026 17:12:41 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/character-ai-will-shut-down-if-no-buyer-emerges-capping-a-fall-from-2-7-billion-google-deal-to-bankruptcy/",
+    "title": "Character.ai will shut down if no buyer emerges, capping a fall from $2.7 billion Google deal to bankruptcy",
+    "description": "Character.ai has filed for bankruptcy and is looking for a buyer. If none steps up, the platform shuts down. Founded by ex-Google researchers, the company once had over 20 million users but is now battling lawsuits over harm to minors and operational problems. The sale should close by the e",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-13T17:45:53.728Z",
+    "published": "Tue, 13 Oct 2026 15:27:39 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/western-mathematicians-fear-ai-makes-them-dumber-while-china-builds-an-entire-alliance-for-it/",
+    "title": "Western mathematicians fear AI makes them dumber while China builds an entire alliance for it",
+    "description": "While 25 Fields Medal winners in the West warn against AI-generated proofs and parts of the community call for a boycott, China is going on the offensive. Fields Medal winner Shing-Tung Yau has launched an alliance of eight institutions and over 1,000 scientists to push AI into math researc",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-13T17:45:53.728Z",
+    "published": "Tue, 13 Oct 2026 14:37:53 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-says-it-cut-claude-reasoning-token-theft-by-up-to-99-in-fight-against-industrial-scale-distillation/",
+    "title": "Anthropic says it cut Claude reasoning token theft by up to 99% in fight against industrial-scale distillation",
+    "description": "Anthropic says it has cut the extraction of Claude's internal reasoning tokens by 90 to 99 percent. The company links the large-scale distillation attacks to Chinese companies Zhipu and Moonshot, and has already banned tens of thousands of accounts.\nThe article Anthropic says it cut Claude",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-13T17:45:53.728Z",
+    "published": "Tue, 13 Oct 2026 11:06:46 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-study-warns-that-small-ai-models-could-soon-replicate-across-everyday-devices/",
+    "title": "Anthropic study warns that small AI models could soon replicate across everyday devices",
+    "description": "Small AI models may be just months away from spreading on their own across poorly secured consumer devices like smart TVs and robot vacuums, according to a new Anthropic study. In tests, one model already completed the full infection chain. CEO Dario Amodei has warned that a swarm like this",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-13T17:45:53.728Z",
+    "published": "Tue, 13 Oct 2026 10:33:28 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
+    "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
+    "description": "In a world of AI Overviews, Wikipedia usage declines. But the real loss may be far more existential than website traffic.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-13T17:46:00.780Z",
+    "published": "Tue, 13 Oct 2026 11:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2282824/google-lets-anyone-upload-android-apps-to-play-store-via-ai-studio/",
+    "title": "Google will let you distribute vibe-coded Android apps with just a Google account",
+    "description": "The company is revamping the Play Store for the AI era with changes to publishing, recommendations and more.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-13T17:46:12.585Z",
+    "published": "Tue, 13 Oct 2026 17:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2285515/netflix-will-broadcast-the-2030-fifa-world-cup-in-spain-and-andorra/",
+    "title": "Netflix will broadcast the 2030 FIFA World Cup in Spain and Andorra",
+    "description": "Get those VPNs ready.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-13T17:46:12.585Z",
+    "published": "Tue, 13 Oct 2026 16:45:20 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2285476/apple-homepod-mini-2-vs-mini-comparison-50-dollar-increase/",
+    "title": "Apple HomePod mini 2 vs. Apple HomePod mini: What do you get for the $50 increase?",
+    "description": "Are Siri AI, a new chip and Sound Glow worth the higher price?",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-13T17:46:12.585Z",
+    "published": "Tue, 13 Oct 2026 16:27:40 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2282163/applecare-apple-watch-se-when-worth-buying/",
+    "title": "Is AppleCare actually worth it for the Apple Watch SE?",
+    "description": "AppleCare+ makes Apple Watch repairs or replacements easier, but even at a low cost, it might not be a good value.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-13T17:46:12.585Z",
+    "published": "Tue, 13 Oct 2026 16:15:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2285023/google-gemini-4-argon-is-now-available-in-the-gemini-app-and-ai-mode-in-search/",
+    "title": "Google's Gemini 4 Argon is now available in the Gemini app and AI Mode in Search",
+    "description": "Google has rolled out Gemini 4 Argon to more users.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-13T17:46:12.585Z",
+    "published": "Tue, 13 Oct 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2285346/some-older-apple-tv-models-are-also-getting-siri-ai/",
+    "title": "Some older Apple TV models are also getting Siri AI",
+    "description": "Siri AI functionality goes all the way back to back to the second-gen Apple TV 4K box from 2021.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-13T17:46:12.585Z",
+    "published": "Tue, 13 Oct 2026 15:21:26 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2282092/apple-watch-series-10-still-worth-money-in-2026/",
+    "title": "Is the Apple Watch Series 10 still worth your money in 2026?",
+    "description": "While the Apple Watch Series 10 has been out for a couple of years, it can almost keep up with newer models.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-13T17:46:12.585Z",
+    "published": "Tue, 13 Oct 2026 14:45:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2285178/apple-homeview-hands-on-siri-ai/",
+    "title": "Apple HomeView hands-on: Siri AI is your new roommate",
+    "description": "It&#39;s more than just an enlarged Apple Watch.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-13T17:46:12.585Z",
+    "published": "Tue, 13 Oct 2026 13:46:19 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2285177/character-ai-just-filed-for-bankruptcy-and-former-foe-disney-may-buy-it-for-parts/",
+    "title": "Character.AI just filed for bankruptcy, and former foe Disney may buy it for parts",
+    "description": "Character.AI, a controversial generative AI startup that lets users create their own chatbot characters, has filed for Chapter 11 bankruptcy",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-13T17:46:12.585Z",
+    "published": "Tue, 13 Oct 2026 13:45:10 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2281998/how-to-use-opeai-dot-rollout-schedule/",
+    "title": "How to use a ChatGPT Dot when it rolls out to you",
+    "description": "OpenAI is hoping that Dots will make automating online tasks a lot easier. Here&#39;s what you&#39;ll need to use them, how to set them up and what they&#39;re capable of.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-13T17:46:12.585Z",
+    "published": "Tue, 13 Oct 2026 13:45:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2281992/why-phone-overheating-while-using-android-auto-carplay/",
+    "title": "Why is your phone overheating while using CarPlay or Android Auto?",
+    "description": "CarPlay and Android Auto do a great job of projecting your phone onto your vehicle&#39;s dash. However, certain stresses can cause it to overheat and play up.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-13T17:46:12.585Z",
+    "published": "Tue, 13 Oct 2026 13:15:00 +0000"
   }
 ]
