@@ -78769,5 +78769,339 @@
     "category": "news",
     "discovered": "2026-10-14T12:48:05.498Z",
     "published": "Wed, 14 Oct 2026 09:42:14 +0000"
+  },
+  {
+    "url": "https://openai.com/index/amp-beyond-coding",
+    "title": "Amp puts AI agents to work beyond code with OpenAI models",
+    "description": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-14T17:54:41.000Z",
+    "published": "Wed, 14 Oct 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-14T17:57:25.781Z"
+  },
+  {
+    "url": "https://openai.com/index/third-moment-research",
+    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "description": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-14T17:54:41.000Z",
+    "published": "Wed, 14 Oct 2026 07:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-14T17:57:25.781Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+    "title": "Deezer will soon let you filter out AI-generated music",
+    "description": "Deezer said that the new toggle will be rolled out by the end of the year.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-14T17:54:44.371Z",
+    "published": "Wed, 14 Oct 2026 15:16:04 +0000",
+    "processed": true,
+    "processedAt": "2026-10-14T17:57:25.781Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+    "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
+    "description": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-14T17:54:44.371Z",
+    "published": "Wed, 14 Oct 2026 15:13:24 +0000",
+    "processed": true,
+    "processedAt": "2026-10-14T17:57:25.781Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+    "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+    "description": "Zenzap is used by organizations including Starbucks and Taco Bell.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-14T17:54:44.371Z",
+    "published": "Wed, 14 Oct 2026 15:08:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-14T17:57:25.781Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+    "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+    "description": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-14T17:54:44.371Z",
+    "published": "Wed, 14 Oct 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
+    "title": "TechCrunch Disrupt 2026: Day 2",
+    "description": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, investor-only session, more roundtables, and more. Register to save 50% on your pass.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-14T17:54:44.371Z",
+    "published": "Wed, 14 Oct 2026 14:30:00 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+    "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+    "description": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-10-14T17:54:44.976Z",
+    "published": "Wed, 14 Oct 2026 12:55:06 +0000"
+  },
+  {
+    "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+    "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+    "description": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html\nComments URL: https://news.ycombinator.com/item?id=50091788\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T17:54:56.363Z",
+    "published": "Wed, 14 Oct 2026 17:45:23 +0000"
+  },
+  {
+    "url": "https://nypost.com/2026/10/13/tech/goldigging-gals-are-flocking-to-silicon-valley-to-land-rich-husbands-in-ai/",
+    "title": "Goldigging gals are flocking to Silicon Valley to land rich husbands in AI",
+    "description": "Article URL: https://nypost.com/2026/10/13/tech/goldigging-gals-are-flocking-to-silicon-valley-to-land-rich-husbands-in-ai/\nComments URL: https://news.ycombinator.com/item?id=50091734\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T17:54:56.363Z",
+    "published": "Wed, 14 Oct 2026 17:42:22 +0000"
+  },
+  {
+    "url": "https://tokenburnindex.com/reports/2026-q4",
+    "title": "AI Cost Transparency Report Q4 2026: 10 providers, 25 criteria, open dataset",
+    "description": "Article URL: https://tokenburnindex.com/reports/2026-q4\nComments URL: https://news.ycombinator.com/item?id=50091698\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T17:54:56.363Z",
+    "published": "Wed, 14 Oct 2026 17:40:10 +0000"
+  },
+  {
+    "url": "https://www.macrumors.com/2026/10/14/homepod-mini-1-to-support-siri-ai-says-cnet/",
+    "title": "HomePod Mini 1 Will Also Support Siri AI Later This Year, Says CNET",
+    "description": "Article URL: https://www.macrumors.com/2026/10/14/homepod-mini-1-to-support-siri-ai-says-cnet/\nComments URL: https://news.ycombinator.com/item?id=50091686\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T17:54:56.363Z",
+    "published": "Wed, 14 Oct 2026 17:39:39 +0000"
+  },
+  {
+    "url": "https://github.com/unrealumanga/Nedster",
+    "title": "Nedster – An open-source local AI",
+    "description": "Article URL: https://github.com/unrealumanga/Nedster\nComments URL: https://news.ycombinator.com/item?id=50091652\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T17:54:56.363Z",
+    "published": "Wed, 14 Oct 2026 17:37:41 +0000"
+  },
+  {
+    "url": "https://www.jcchouinard.com/google-search-console-ai-mode-click-tracking/",
+    "title": "Clicks, Impressions and Positions from AI Mode in Google Search Console",
+    "description": "Article URL: https://www.jcchouinard.com/google-search-console-ai-mode-click-tracking/\nComments URL: https://news.ycombinator.com/item?id=50091642\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T17:54:56.363Z",
+    "published": "Wed, 14 Oct 2026 17:37:10 +0000"
+  },
+  {
+    "url": "https://stop-sequence.com/",
+    "title": "Show HN: A webcomic for AI agents, written and drawn by Claude",
+    "description": "Article URL: https://stop-sequence.com/\nComments URL: https://news.ycombinator.com/item?id=50091610\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T17:54:56.363Z",
+    "published": "Wed, 14 Oct 2026 17:35:53 +0000"
+  },
+  {
+    "url": "https://dtwuva.substack.com/p/students-should-only-use-ai-for-things",
+    "title": "Students should only use AI for things they know how to do well",
+    "description": "Article URL: https://dtwuva.substack.com/p/students-should-only-use-ai-for-things\nComments URL: https://news.ycombinator.com/item?id=50091403\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T17:54:56.363Z",
+    "published": "Wed, 14 Oct 2026 17:26:02 +0000"
+  },
+  {
+    "url": "https://philippdubach.com/model-atlas/",
+    "title": "Show HN: Model Atlas – An LLM leaderboard you can reweight",
+    "description": "Article URL: https://philippdubach.com/model-atlas/\nComments URL: https://news.ycombinator.com/item?id=50091376\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T17:54:56.363Z",
+    "published": "Wed, 14 Oct 2026 17:24:52 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=DIS3-C2Ze-I",
+    "title": "AI Assisted Structural Engineering",
+    "description": "Article URL: https://www.youtube.com/watch?v=DIS3-C2Ze-I\nComments URL: https://news.ycombinator.com/item?id=50091263\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T17:54:56.363Z",
+    "published": "Wed, 14 Oct 2026 17:19:36 +0000"
+  },
+  {
+    "url": "https://github.com/maebert/botsay",
+    "title": "Show HN: botsay – cowsay for the AI Era",
+    "description": "Does this need to exist?Probably not.Does it add whimsy to the sterile, cold terminal environment that has become our chosen home?Well maybe.\n\nComments URL: https://news.ycombinator.com/item?id=50091196\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T17:54:56.363Z",
+    "published": "Wed, 14 Oct 2026 17:16:10 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+    "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+    "description": "Article URL: https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/\nComments URL: https://news.ycombinator.com/item?id=50091167\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T17:54:56.363Z",
+    "published": "Wed, 14 Oct 2026 17:14:21 +0000"
+  },
+  {
+    "url": "https://www.cyvra.com.br/insights/shadow-ai-risks-guide",
+    "title": "Shadow AI: the data leak hiding in your organisation's everyday tools",
+    "description": "Article URL: https://www.cyvra.com.br/insights/shadow-ai-risks-guide\nComments URL: https://news.ycombinator.com/item?id=50091056\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T17:54:56.363Z",
+    "published": "Wed, 14 Oct 2026 17:08:23 +0000"
+  },
+  {
+    "url": "https://github.com/IshekKhal/bitrun",
+    "title": "Show HN: BitRun, 1-bit LLM runner on CPU (100T/s on Apple Silicon)",
+    "description": "Article URL: https://github.com/IshekKhal/bitrun\nComments URL: https://news.ycombinator.com/item?id=50090994\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T17:54:56.363Z",
+    "published": "Wed, 14 Oct 2026 17:05:07 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.16733",
+    "title": "Assessing AI agents at autonomous theoretical physics problem solving",
+    "description": "Article URL: https://arxiv.org/abs/2610.16733\nComments URL: https://news.ycombinator.com/item?id=50090963\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T17:54:56.363Z",
+    "published": "Wed, 14 Oct 2026 17:02:56 +0000"
+  },
+  {
+    "url": "https://spectrum.ieee.org/semiconductor-research",
+    "title": "AI Money Supercharges Semiconductor Research Labs",
+    "description": "Article URL: https://spectrum.ieee.org/semiconductor-research\nComments URL: https://news.ycombinator.com/item?id=50090949\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T17:54:56.363Z",
+    "published": "Wed, 14 Oct 2026 17:02:09 +0000"
+  },
+  {
+    "url": "https://www.stephendiehl.com/posts/mlir_gpu_target/",
+    "title": "GPT-2 on the GPU",
+    "description": "Article URL: https://www.stephendiehl.com/posts/mlir_gpu_target/\nComments URL: https://news.ycombinator.com/item?id=50090903\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T17:54:56.363Z",
+    "published": "Wed, 14 Oct 2026 16:59:14 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=cve5KMawu9M",
+    "title": "Why Entry-Level Tech Hiring Fell 65%: IRC Section 174 vs. AI Telemetry [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=cve5KMawu9M\nComments URL: https://news.ycombinator.com/item?id=50090851\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T17:54:56.363Z",
+    "published": "Wed, 14 Oct 2026 16:55:44 +0000"
+  },
+  {
+    "url": "https://lwn.net/Articles/1100449/",
+    "title": "Linus Torvalds's first LLM-assisted patch series",
+    "description": "Article URL: https://lwn.net/Articles/1100449/\nComments URL: https://news.ycombinator.com/item?id=50090842\nPoints: 45\n# Comments: 10",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T17:54:56.363Z",
+    "published": "Wed, 14 Oct 2026 16:55:07 +0000"
+  },
+  {
+    "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+    "title": "Has AI Tells",
+    "description": "Article URL: https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1\nComments URL: https://news.ycombinator.com/item?id=50090799\nPoints: 32\n# Comments: 20",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T17:54:56.363Z",
+    "published": "Wed, 14 Oct 2026 16:52:42 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/does-stacking-beat-your-best-model/",
+    "title": "Does Stacking Beat Your Best Model?",
+    "description": "It only helps when your models make different mistakes.\nThe post Does Stacking Beat Your Best Model? appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-14T17:55:03.234Z",
+    "published": "Wed, 14 Oct 2026 15:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-do-word-embeddings-capture-relationships-between-words/",
+    "title": "How Do Word Embeddings Capture Relationships Between Words?",
+    "description": "Understanding how words become related in a learned vector space\nThe post How Do Word Embeddings Capture Relationships Between Words? appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-14T17:55:03.234Z",
+    "published": "Wed, 14 Oct 2026 14:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/openai-will-reportedly-ship-at-least-one-model-this-year-but-its-flagship-still-needs-alignment-work/",
+    "title": "OpenAI will reportedly ship at least one model this year but its flagship still needs alignment work",
+    "description": "OpenAI is racing to finish its next flagship model, which uses the same looped transformer technique as Astra to boost math and coding performance. The tradeoff is that looping makes safety monitoring harder. Microsoft accidentally revealed details about how the technique works on a public",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-14T17:55:04.828Z",
+    "published": "Wed, 14 Oct 2026 16:14:16 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/nvidias-jensen-huang-pledges-2-billion-for-europe-250-million-in-compute-for-uk-safety-labs/",
+    "title": "Nvidia's Jensen Huang pledges $2 billion for Europe, $250 million in compute for UK safety labs",
+    "description": "Nvidia CEO Jensen Huang announced $2 billion in European investments and new stakes in French startups like Doctolib and Entalpic. The UK gets $250 million in compute for AI agent safety and security research. Huang pitched open-weight models as Europe's way to close the AI gap.\nThe article",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-14T17:55:04.828Z",
+    "published": "Wed, 14 Oct 2026 14:24:34 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/ai-guardrails-designed-to-stop-hackers-are-now-blocking-defenders-and-orion-1-aims-to-fill-the-gap/",
+    "title": "AI guardrails designed to stop hackers are now blocking defenders, and Orion-1 aims to fill the gap",
+    "description": "Artemis Security's new Orion-1 model is purpose-built for cyber defense and beats Claude Opus 5.5 and GPT-6 Sol on the company's own benchmark. The model fills a growing gap as general-purpose frontier models lock down their cyber capabilities, blocking defenders in the process.\nThe article",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-14T17:55:04.828Z",
+    "published": "Wed, 14 Oct 2026 13:24:22 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2286764/youtube-music-adds-new-labels-for-ai-generated-content/",
+    "title": "YouTube Music adds new labels for AI-generated content",
+    "description": "Now please let us hide all of it.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-14T17:55:19.790Z",
+    "published": "Wed, 14 Oct 2026 17:01:12 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2286355/android-will-use-gemini-to-warn-you-about-scammy-messages/",
+    "title": "Android will use Gemini to warn you about scammy messages",
+    "description": "Google will tell if you a scammer is trying to message you and will protect your banking details from prying eyes while sharing your screen.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-14T17:55:19.791Z",
+    "published": "Wed, 14 Oct 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2286617/alibaba-ai-models-cleared-for-use-in-apple-intelligence-in-china-just-in-time-for-the-iphone-duo-launch/",
+    "title": "Alibaba AI models cleared for use in Apple Intelligence in China just in time for the iPhone Duo launch",
+    "description": "Apple's integrated AI system is still yet to be rolled out in mainland China, despite launching nearly two years ago.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-14T17:55:19.791Z",
+    "published": "Wed, 14 Oct 2026 15:36:33 +0000"
   }
 ]
