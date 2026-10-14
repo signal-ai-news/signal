@@ -78190,5 +78190,87 @@
     "category": "news",
     "discovered": "2026-10-13T22:32:52.599Z",
     "published": "Tue, 13 Oct 2026 18:10:08 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+    "description": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-14T01:21:04.490Z",
+    "published": "Tue, 13 Oct 2026 23:13:31 +0000",
+    "processed": true,
+    "processedAt": "2026-10-14T01:23:36.988Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+    "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+    "description": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-14T01:21:04.490Z",
+    "published": "Tue, 13 Oct 2026 23:05:34 +0000",
+    "processed": true,
+    "processedAt": "2026-10-14T01:23:36.988Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+    "title": "Cerebras CEO pushes back on AI doomsday warnings",
+    "description": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-14T01:21:04.490Z",
+    "published": "Tue, 13 Oct 2026 22:36:59 +0000",
+    "processed": true,
+    "processedAt": "2026-10-14T01:23:36.988Z"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/how-to-transcribe-an-interview",
+    "title": "How to transcribe an interview: Accurate, speaker-labeled transcripts",
+    "description": "Learn how to transcribe an interview with AI, from verbatim vs. clean styles to speaker labels. ElevenCreative makes it easy to transcribe",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-10-14T01:21:07.988Z",
+    "published": "Tue, 13 Oct 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-14T01:23:36.988Z"
+  },
+  {
+    "url": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
+    "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+    "description": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-14T01:21:24.286Z",
+    "published": "Tue, 13 Oct 2026 23:17:59 +0000",
+    "processed": true,
+    "processedAt": "2026-10-14T01:23:36.988Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/13/meta-muse-wonder-muse-wonder-full-release/",
+    "title": "Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It",
+    "description": "Meta released Muse Wonder and Muse Wonder Full, 1M-context agent models. Muse Wonder costs $4/$20 per million tokens on Meta Model API. Wonder Full, on Muse Code plans, leads DeepSWE and SWE-Marathon.\nThe post Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It appe",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-14T01:21:26.603Z",
+    "published": "Tue, 13 Oct 2026 22:53:44 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2282288/how-to-improve-online-privacy-security-google-chrome/",
+    "title": "How to improve your online privacy and security in Google Chrome",
+    "description": "Google has much to gain by collecting data from you through your activity on Chrome, but you can make it harder.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-14T01:21:30.816Z",
+    "published": "Tue, 13 Oct 2026 23:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2286141/apple-tv-4k-2022-vs-2026-whats-new-worth-100-price-increase/",
+    "title": "Apple TV 4K 2022 vs. 2026: What's new and is it worth the $100 jump?",
+    "description": "The 2026 model is faster and can hear you from afar, but the 2022 box gets Siri AI as well.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-14T01:21:30.816Z",
+    "published": "Tue, 13 Oct 2026 23:00:00 +0000"
   }
 ]
