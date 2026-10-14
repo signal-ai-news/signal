@@ -78480,5 +78480,294 @@
     "category": "ml",
     "discovered": "2026-10-14T06:37:26.867Z",
     "published": "Wed, 14 Oct 2026 05:03:34 +0000"
+  },
+  {
+    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "title": "The EU’s next chapter in AI is agentic",
+    "description": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-14T12:47:33.577Z",
+    "published": "Wed, 14 Oct 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-14T12:50:10.951Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+    "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+    "description": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-14T12:47:36.912Z",
+    "published": "Wed, 14 Oct 2026 11:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-14T12:50:10.951Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
+    "title": "The Download: faking blood and the future of batteries",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US military’s race to make fake blood In February 2007, a US military helicopter carrying blood to a field hospital was shot down in Iraq, killing",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-14T12:47:38.081Z",
+    "published": "Wed, 14 Oct 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-14T12:50:10.951Z"
+  },
+  {
+    "url": "https://salvozappa.com/will-china-overtake-the-us-in-the-ai-race.html",
+    "title": "Will China overtake the US in the AI race? (In charts)",
+    "description": "Article URL: https://salvozappa.com/will-china-overtake-the-us-in-the-ai-race.html\nComments URL: https://news.ycombinator.com/item?id=50086815\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T12:47:45.859Z",
+    "published": "Wed, 14 Oct 2026 12:42:47 +0000",
+    "processed": true,
+    "processedAt": "2026-10-14T12:50:10.951Z"
+  },
+  {
+    "url": "https://libertystreeteconomics.newyorkfed.org/2026/10/has-the-ai-boom-impacted-the-u-s-current-account/",
+    "title": "Has the AI Boom Impacted the U.S. Current Account?",
+    "description": "Article URL: https://libertystreeteconomics.newyorkfed.org/2026/10/has-the-ai-boom-impacted-the-u-s-current-account/\nComments URL: https://news.ycombinator.com/item?id=50086752\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T12:47:45.859Z",
+    "published": "Wed, 14 Oct 2026 12:37:28 +0000",
+    "processed": true,
+    "processedAt": "2026-10-14T12:50:10.951Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50086700",
+    "title": "Ask HN: Why not allow AI-written posts with a \"human disclosure\" section?",
+    "description": "Some research papers already have an \"AI disclosure\" section where the human authors indicate what they contributed and what the AI contributed to the paper.AI-written posts on social media could similarly have a \"human disclosure\" section where the AI indicates what the human user contributed and",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T12:47:45.859Z",
+    "published": "Wed, 14 Oct 2026 12:33:41 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=DlTNN0gvkLM",
+    "title": "AI CEO Interviews be like",
+    "description": "Article URL: https://www.youtube.com/watch?v=DlTNN0gvkLM\nComments URL: https://news.ycombinator.com/item?id=50086569\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T12:47:45.859Z",
+    "published": "Wed, 14 Oct 2026 12:22:07 +0000"
+  },
+  {
+    "url": "https://www.prereason.com/",
+    "title": "Show HN: My AI agent kept quoting undated market numbers, so I built PreReason",
+    "description": "Article URL: https://www.prereason.com/\nComments URL: https://news.ycombinator.com/item?id=50086562\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T12:47:45.859Z",
+    "published": "Wed, 14 Oct 2026 12:21:33 +0000"
+  },
+  {
+    "url": "https://techstackups.com/comparisons/gemini-vs-elevenlabs-voice-cloning-tts/",
+    "title": "Gemini vs ElevenLabs Voice Cloning",
+    "description": "Article URL: https://techstackups.com/comparisons/gemini-vs-elevenlabs-voice-cloning-tts/\nComments URL: https://news.ycombinator.com/item?id=50086559\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T12:47:45.859Z",
+    "published": "Wed, 14 Oct 2026 12:21:26 +0000"
+  },
+  {
+    "url": "https://busymail.app/",
+    "title": "Show HN: Busymail – an IMAP email client with an MCP server for AI agents",
+    "description": "Article URL: https://busymail.app/\nComments URL: https://news.ycombinator.com/item?id=50086476\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T12:47:45.859Z",
+    "published": "Wed, 14 Oct 2026 12:16:07 +0000"
+  },
+  {
+    "url": "https://twitter.com/firesidealpha/status/2109310806005596521",
+    "title": "AI researchers are taking up smoking to signal to other researchers",
+    "description": "Article URL: https://twitter.com/firesidealpha/status/2109310806005596521\nComments URL: https://news.ycombinator.com/item?id=50086470\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T12:47:45.859Z",
+    "published": "Wed, 14 Oct 2026 12:15:45 +0000"
+  },
+  {
+    "url": "https://www.theregister.com/devops/2026/10/13/anthropic-reinvents-source-control-as-claude-floods-the-world-with-code/5302943",
+    "title": "Anthropic reinvents source control as Claude floods the world with code",
+    "description": "Article URL: https://www.theregister.com/devops/2026/10/13/anthropic-reinvents-source-control-as-claude-floods-the-world-with-code/5302943\nComments URL: https://news.ycombinator.com/item?id=50086422\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T12:47:45.859Z",
+    "published": "Wed, 14 Oct 2026 12:11:03 +0000"
+  },
+  {
+    "url": "https://github.com/LuisPCFialho/claude-fuel-gauge",
+    "title": "Show HN: Fuel Gauge – Claude knows its own usage limits and stops at 95%",
+    "description": "Article URL: https://github.com/LuisPCFialho/claude-fuel-gauge\nComments URL: https://news.ycombinator.com/item?id=50086277\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T12:47:45.860Z",
+    "published": "Wed, 14 Oct 2026 11:57:51 +0000"
+  },
+  {
+    "url": "https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout",
+    "title": "Companies rushed in on AI. Now some are pulling back",
+    "description": "Article URL: https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout\nComments URL: https://news.ycombinator.com/item?id=50086242\nPoints: 3\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T12:47:45.860Z",
+    "published": "Wed, 14 Oct 2026 11:54:28 +0000"
+  },
+  {
+    "url": "https://blog.backslasher.net/indx-llm.html",
+    "title": "Adventures installing Prusa INDX with LLM help",
+    "description": "Article URL: https://blog.backslasher.net/indx-llm.html\nComments URL: https://news.ycombinator.com/item?id=50086187\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T12:47:45.860Z",
+    "published": "Wed, 14 Oct 2026 11:49:21 +0000"
+  },
+  {
+    "url": "https://aitrainerjobs.co/",
+    "title": "Show HN: I aggregated 1,600 remote AI training jobs from 24 companies",
+    "description": "Article URL: https://aitrainerjobs.co/\nComments URL: https://news.ycombinator.com/item?id=50086155\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T12:47:45.860Z",
+    "published": "Wed, 14 Oct 2026 11:46:52 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2512.18792",
+    "title": "The Dead Salmons of AI Interpretability",
+    "description": "Article URL: https://arxiv.org/abs/2512.18792\nComments URL: https://news.ycombinator.com/item?id=50085894\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T12:47:45.860Z",
+    "published": "Wed, 14 Oct 2026 11:20:32 +0000"
+  },
+  {
+    "url": "https://boostmyagents.com/",
+    "title": "Show HN: boostmyagents – A README badge lets your users pay for your AI usage",
+    "description": "Article URL: https://boostmyagents.com/\nComments URL: https://news.ycombinator.com/item?id=50085877\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T12:47:45.860Z",
+    "published": "Wed, 14 Oct 2026 11:19:19 +0000"
+  },
+  {
+    "url": "https://github.com/kriddss3/kryzz-ai",
+    "title": "Show HN: Kryzz AI – local-first Android agent workspace (MIT)",
+    "description": "Article URL: https://github.com/kriddss3/kryzz-ai\nComments URL: https://news.ycombinator.com/item?id=50085614\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T12:47:45.860Z",
+    "published": "Wed, 14 Oct 2026 10:56:26 +0000"
+  },
+  {
+    "url": "https://github.com/mixelpixx/Konnect",
+    "title": "AI-assisted PCB design for KiCad 10",
+    "description": "Article URL: https://github.com/mixelpixx/Konnect\nComments URL: https://news.ycombinator.com/item?id=50085553\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T12:47:45.860Z",
+    "published": "Wed, 14 Oct 2026 10:51:37 +0000"
+  },
+  {
+    "url": "https://borisbob91.github.io/owllayer/",
+    "title": "OwlLayer – Make your web UI drivable by AI",
+    "description": "Article URL: https://borisbob91.github.io/owllayer/\nComments URL: https://news.ycombinator.com/item?id=50085437\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T12:47:45.860Z",
+    "published": "Wed, 14 Oct 2026 10:39:58 +0000"
+  },
+  {
+    "url": "https://book.humanexperiences.io/",
+    "title": "Show HN: Building an LLM from Scratch in TypeScript",
+    "description": "I wanted to understand transformers at a level where nothing is magic, so I'm building a ChatGPT-style model from first principles in TypeScript. Why not Python? I've found that reimplementing concepts in a different language forces me to grasp the nuance of the implementation. Chapters cover datal",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-14T12:47:45.860Z",
+    "published": "Wed, 14 Oct 2026 10:29:56 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/a-scaffold-at-the-gate-building-ai-applications-that-can-evolve/",
+    "title": "A Scaffold at the Gate: Building AI Applications That Can Evolve",
+    "description": "A technical reflection on why data scientists need software engineering principles when AI agents write code.\nThe post A Scaffold at the Gate: Building AI Applications That Can Evolve appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-14T12:47:51.592Z",
+    "published": "Wed, 14 Oct 2026 11:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/alleged-openai-spy-vibe-coded-a-surveillance-device-using-his-wifes-chatbot-account/",
+    "title": "Alleged OpenAI spy vibe-coded a surveillance device using his wife's chatbot account",
+    "description": "A Saudi national working as an engineer at OpenAI was arrested for allegedly planting an audio recording device, wrapped in toilet paper, inside the company's executive conference room. According to the indictment, he built the spy tool by vibe-coding it with a chatbot. If convicted, he fac",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-14T12:47:53.237Z",
+    "published": "Wed, 14 Oct 2026 12:37:05 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/my-friend-has-no-soul/",
+    "title": "My Friend Has No Soul",
+    "description": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-14T12:47:58.930Z",
+    "published": "Wed, 14 Oct 2026 11:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
+    "title": "Men Can’t Stop Faking How Much They Know About AI",
+    "description": "More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-14T12:47:58.930Z",
+    "published": "Wed, 14 Oct 2026 09:30:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
+    "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
+    "description": "“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-14T12:47:58.930Z",
+    "published": "Wed, 14 Oct 2026 09:00:00 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/14/best-ai-gateways-2026/",
+    "title": "9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kong and 5 More Ranked",
+    "description": "Marktechpost ranks the 9 best AI gateways for 2026. We compare Bifrost, Portkey, LiteLLM, Kong, TrueFoundry, Cloudflare, Vercel, OpenRouter and Orq.ai on latency, pricing, licensing, governance and deployment.\nThe post 9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kong and 5 More Ranked app",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-14T12:48:01.251Z",
+    "published": "Wed, 14 Oct 2026 08:57:28 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/14/liquid-ai-lfm2-5-24b-a2b/",
+    "title": "Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents",
+    "description": "Liquid AI released LFM2.5-24B-A2B, an open-weight 24B Mixture-of-Experts reasoning model with 2B active parameters. It targets local agents, scoring 48.09 on LiveClaw and decoding 184 tokens/s on an Apple M5 Max.\nThe post Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents appear",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-14T12:48:01.251Z",
+    "published": "Wed, 14 Oct 2026 07:50:40 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2286321/cmfs-first-portable-speakers-are-shaped-like-milk-cartons-and-pair-together-hands-on/",
+    "title": "CMF's first portable speakers are shaped like milk cartons and pair together",
+    "description": "Nothing&#39;s sister company CMF announced some playful bluetooth speakers that can be paired together and even work with Auracast.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-14T12:48:05.498Z",
+    "published": "Wed, 14 Oct 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2286281/arm-must-pay-qualcomm-2-license-breach-lawsuit/",
+    "title": "Qualcomm wins lawsuit against Arm but will only receive two bucks",
+    "description": "A jury found that Arm breached its agreement with Qualcomm and interfered with its business, but Arm only has to pay $2 in damages.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-14T12:48:05.498Z",
+    "published": "Wed, 14 Oct 2026 09:42:14 +0000"
   }
 ]
