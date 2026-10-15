@@ -79685,5 +79685,132 @@
     "category": "ml",
     "discovered": "2026-10-15T09:19:44.777Z",
     "published": "Thu, 15 Oct 2026 05:18:54 +0000"
+  },
+  {
+    "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "title": "Teaching students to think and learn through questions",
+    "description": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-15T14:21:01.207Z",
+    "published": "Thu, 15 Oct 2026 13:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-15T14:23:36.809Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+    "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+    "description": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting a",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-15T14:21:04.612Z",
+    "published": "Thu, 15 Oct 2026 12:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-15T14:23:36.809Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
+    "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled to -150 °C and stored in a freezer for months ha",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-15T14:21:05.683Z",
+    "published": "Thu, 15 Oct 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-15T14:23:36.809Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
+    "title": "Six wild ideas for perpetuating your mind",
+    "description": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections. But it’s a lot trickier to explain why we have a sense of self-awareness or to pin down precisel",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-15T14:21:05.683Z",
+    "published": "Thu, 15 Oct 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-15T14:23:36.809Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/what-openais-719-math-papers-mean-for-data-science/",
+    "title": "What OpenAI’s 719 Math Papers Mean for Data Science",
+    "description": "Matching messy text, choosing representative examples, and generating comparison data.\nThe post What OpenAI’s 719 Math Papers Mean for Data Science appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-15T14:21:15.872Z",
+    "published": "Thu, 15 Oct 2026 14:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-15T14:23:36.809Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-many-guesses-does-it-take-to-crack-an-ais-random-number/",
+    "title": "How Many Guesses Does It Take to Crack an AI's \"Random\" Number?",
+    "description": "I read the exact answer distribution from the logits of open models, base and instruction-tuned, and turned it into bits and guesses-to-crack.\nThe post How Many Guesses Does It Take to Crack an AI's &quot;Random&quot; Number? appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-15T14:21:15.872Z",
+    "published": "Thu, 15 Oct 2026 12:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/i-tested-four-ways-to-give-an-ai-assistant-a-memory-the-obvious-one-was-the-worst-value/",
+    "title": "I Tested Four Ways to Give an AI Assistant a Memory. The Obvious One Was the Worst Value.",
+    "description": "Pasting in the whole chat history cost 20 to 31 times more than looking up notes, and it did no better on the tasks.\nThe post I Tested Four Ways to Give an AI Assistant a Memory. The Obvious One Was the Worst Value. appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-15T14:21:15.872Z",
+    "published": "Thu, 15 Oct 2026 11:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/anthropics-q3-revenue-hits-16-8b-but-growth-slows-ahead-of-planned-november-ipo/",
+    "title": "Anthropic's Q3 revenue hits $16.8B but growth slows ahead of planned November IPO",
+    "description": "Anthropic hit $16.8 billion in third-quarter revenue, a 45 percent gain that still falls far short of Q2's 140 percent surge. With a November IPO approaching, some investors now expect the company's valuation to drop below $1.5 trillion. Slowing growth and a tough market are cooling expecta",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-15T14:21:17.738Z",
+    "published": "Thu, 15 Oct 2026 09:50:43 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2287546/operas-lightweight-air-browser-is-back-unbothered-moisturized-in-its-lane/",
+    "title": "Opera's lightweight Air browser is back, unbothered, moisturized, in its lane",
+    "description": "Namaste.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-15T14:21:30.401Z",
+    "published": "Thu, 15 Oct 2026 14:17:22 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2287239/nvidia-rtx-spark-good-for-windows-even-if-you-do-not-need-local-ai/",
+    "title": "NVIDIA's RTX Spark is good for Windows, even if you don't need local AI",
+    "description": "NVIDIA&#39;s RTX Spark is meant for AI fiends, but it could end up helping Windows PCs in general",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-15T14:21:30.401Z",
+    "published": "Thu, 15 Oct 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2287417/citizenlab-details-new-spyware-triggered-by-online-advertising/",
+    "title": "CitizenLab details new spyware triggered by online advertising",
+    "description": "A new type of spyware dubbed &#34;AdFection&#34; is infecting phones and computers via global online advertising networks.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-15T14:21:30.401Z",
+    "published": "Thu, 15 Oct 2026 12:50:29 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2287245/bee-frontier-bee-eclipse-bee-pro-launch/",
+    "title": "Bee unveils two AI note-taking devices, its first new products since being acquired by Amazon",
+    "description": "The Eclipse and Frontier are cheap and colorful, but you&#39;ll need a Pro subscription to make the most of them.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-15T14:21:30.401Z",
+    "published": "Thu, 15 Oct 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2287388/adobe-rebuilt-photoshop-and-premiere-for-nvidia-rtx-spark/",
+    "title": "Adobe rebuilt Photoshop and Premiere for NVIDIA's RTX Spark platform",
+    "description": "Adobe has 'rearchitected' Photoshop, Premiere and Substance 3D to work faster on computers powered by NVIDIA's RTX Spark AI superchip.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-15T14:21:30.401Z",
+    "published": "Thu, 15 Oct 2026 12:00:00 +0000"
   }
 ]
