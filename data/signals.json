@@ -79930,5 +79930,114 @@
     "category": "news",
     "discovered": "2026-10-15T18:33:44.803Z",
     "published": "Thu, 15 Oct 2026 17:02:48 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+    "title": "Meta launches an open-weight AI model that runs on Macs",
+    "description": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-15T21:42:07.035Z",
+    "published": "Thu, 15 Oct 2026 20:04:53 +0000",
+    "processed": true,
+    "processedAt": "2026-10-15T21:44:37.872Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+    "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+    "description": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-15T21:42:07.035Z",
+    "published": "Thu, 15 Oct 2026 19:55:25 +0000",
+    "processed": true,
+    "processedAt": "2026-10-15T21:44:37.872Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+    "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+    "description": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-15T21:42:07.035Z",
+    "published": "Thu, 15 Oct 2026 19:14:26 +0000",
+    "processed": true,
+    "processedAt": "2026-10-15T21:44:37.872Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+    "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+    "description": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-15T21:42:07.035Z",
+    "published": "Thu, 15 Oct 2026 18:56:46 +0000",
+    "processed": true,
+    "processedAt": "2026-10-15T21:44:37.872Z"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/ssml-tags-explained",
+    "title": "SSML tags explained: How to control pauses, pronunciation, and pacing in text to speech",
+    "description": "SSML is the markup that controls pauses and pronunciation in text to speech. See key tags, code examples, and ElevenLabs support, including Eleven v4.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-10-15T21:42:10.354Z",
+    "published": "Thu, 15 Oct 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-15T21:44:37.872Z"
+  },
+  {
+    "url": "https://the-decoder.com/muse-spark-open-is-metas-answer-to-qwen-glm-and-kimi-in-the-open-weight-race/",
+    "title": "Muse Spark Open is Meta's answer to Qwen, GLM, and Kimi in the open-weight race",
+    "description": "Meta's Muse Spark Open is a new open-weight model with 816 billion parameters that processes text, images, video, and audio with up to one million tokens of context. It performs roughly on par with the most capable open-weight Chinese AI models on benchmarks and is optimized to run locally",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-15T21:42:18.940Z",
+    "published": "Thu, 15 Oct 2026 18:34:32 +0000"
+  },
+  {
+    "url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
+    "title": "The next developer interface is ambient intelligence",
+    "description": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building.\nThe post The next developer interface is ambient intelligence appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-10-15T21:42:23.425Z",
+    "published": "Thu, 15 Oct 2026 19:39:27 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
+    "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
+    "description": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-15T21:42:24.686Z",
+    "published": "Thu, 15 Oct 2026 21:18:15 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
+    "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
+    "description": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-15T21:42:24.686Z",
+    "published": "Thu, 15 Oct 2026 21:00:28 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/15/nvidia-nemotron-3-5-super-vl-release/",
+    "title": "NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model",
+    "description": "NVIDIA released Nemotron 3.5 Super VL, an open 120B-parameter multimodal MoE model with 12B active parameters, 1M-token context and NVFP4 weights that run on 1 DGX Spark, plus 2 Bolt edge models.\nThe post NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model appeared first on Mar",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-15T21:42:28.522Z",
+    "published": "Thu, 15 Oct 2026 19:53:50 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2288104/ftc-subpoenas-open-ai-and-anthropic-following-safety-failures/",
+    "title": "FTC subpoenas OpenAI and Anthropic following safety failures",
+    "description": "The FTC is investigating possible consumer harms at two major AI companies.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-15T21:42:32.436Z",
+    "published": "Thu, 15 Oct 2026 19:28:53 +0000"
   }
 ]
