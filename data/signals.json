@@ -79812,5 +79812,123 @@
     "category": "news",
     "discovered": "2026-10-15T14:21:30.401Z",
     "published": "Thu, 15 Oct 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://huggingface.co/blog/meta-muse-spark-open",
+    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-10-15T18:33:12.487Z",
+    "published": "Thu, 15 Oct 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-15T18:35:50.302Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+    "title": "AI agents are coming to Rivian’s cars",
+    "description": "We'll likely learn more about how this will work at the company's upcoming \"AI &#038; Autonomy Day\" event in December.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-15T18:33:13.659Z",
+    "published": "Thu, 15 Oct 2026 15:02:36 +0000",
+    "processed": true,
+    "processedAt": "2026-10-15T18:35:50.303Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+    "title": "Google’s Universal Cart shopping tool launches in the US",
+    "description": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-15T18:33:13.659Z",
+    "published": "Thu, 15 Oct 2026 14:29:33 +0000",
+    "processed": true,
+    "processedAt": "2026-10-15T18:35:50.303Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/jev-your-engines-seven-open-decision-models-vs-a-generative-llm/",
+    "title": "Jev Your Engines: Seven Open Decision Models vs. a Generative LLM",
+    "description": "A hands-on Jev repo comparison of routing accuracy, latency, and output reliability\nThe post Jev Your Engines: Seven Open Decision Models vs. a Generative LLM appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-15T18:33:30.470Z",
+    "published": "Thu, 15 Oct 2026 15:30:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-15T18:35:50.303Z"
+  },
+  {
+    "url": "https://the-decoder.com/black-forest-labs-open-weights-image-model-flux-3-image-klein-runs-on-consumer-gpus-with-just-8-gb-of-vram/",
+    "title": "Black Forest Labs' open-weights image model FLUX 3 Image Klein runs on consumer GPUs with just 8 GB of VRAM",
+    "description": "Black Forest Labs has released FLUX 3 Image Klein, a 5.6-billion-parameter open-weights image model that supports native 4K generation, pixel-precise editing, and generation with up to ten reference images. With 38 percent fewer parameters than its predecessor, it still outperforms propriet",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-15T18:33:32.163Z",
+    "published": "Thu, 15 Oct 2026 16:57:14 +0000",
+    "processed": true,
+    "processedAt": "2026-10-15T18:35:50.303Z"
+  },
+  {
+    "url": "https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need/",
+    "title": "Google wants Gemini 4 Argon to be the only AI model robots need",
+    "description": "Google's Gemini 4 Argon controls robots, generates simulations from photos or sketches, and evaluates training videos. On Google's own ERQA benchmark, it scores 87 percent. But the published example prompts show that the demos still need a lot of human guidance.\nThe article Google wants Gem",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-15T18:33:32.163Z",
+    "published": "Thu, 15 Oct 2026 16:35:47 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/nvidias-nemotron-3-5-super-vl-is-an-open-model-built-to-run-enterprise-ai-agents-nonstop/",
+    "title": "Nvidia's Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop",
+    "description": "With Nemotron 3.5 Super VL, Nvidia is releasing an open multimodal model with 120 billion parameters for enterprise agents. Two compact Bolt models bring agents to local machines. Dozens of organizations are already fine-tuning Super VL, but getting the most out of it means buying Nvidia ha",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-15T18:33:32.163Z",
+    "published": "Thu, 15 Oct 2026 16:09:44 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/bank-of-america-puts-4000-people-on-fixing-vulnerabilities-uncovered-by-anthropics-mythos-and-other-ai-models/",
+    "title": "Bank of America puts 4,000 people on fixing vulnerabilities uncovered by Anthropic's Mythos and other AI models",
+    "description": "Bank of America has hired 1,000 outside contractors to fix software vulnerabilities uncovered by AI models like Anthropic's Mythos, CNBC reports.\nThe article Bank of America puts 4,000 people on fixing vulnerabilities uncovered by Anthropic&#039;s Mythos and other AI models appeared first o",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-15T18:33:32.163Z",
+    "published": "Thu, 15 Oct 2026 15:27:25 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/gpt-6-astra-solves-49-of-50-physics-research-problems-at-2-40-apiece/",
+    "title": "GPT-6-Astra solves 49 of 50 physics research problems at $2.40 apiece",
+    "description": "On the TheoPhysEval benchmark, GPT-6-Astra solves 49 of 50 unpublished theoretical physics calculations as accurately as leading specialists. In some cases where the agent seemed to fail, the experts' own reference solutions turned out to contain errors. But the researchers say physics hasn",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-15T18:33:32.163Z",
+    "published": "Thu, 15 Oct 2026 15:24:15 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/15/copilotkit-releases-clif-a-continual-learning-platform-that-turns-agent-traces-and-user-actions-into-skills-evals-and-fine-tuning-data/",
+    "title": "CopilotKit Releases CLiF: A Continual Learning Platform That Turns Agent Traces and User Actions into Skills, Evals, and Fine-Tuning Data",
+    "description": "Introduction Teams shipping AI agents at scale keep running into the same pattern. Even agents built on top-tier models like Fable and Astra struggle to carry out complex, end-to-end tasks inside a specific product consistently enough to deploy. So teams grind out evals for the workflows that matter",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-15T18:33:39.858Z",
+    "published": "Thu, 15 Oct 2026 14:19:27 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/15/openkylin-outlines-its-vision-for-reimagining-linux-in-the-ai-era-at-open-source-summit-europe-2026/",
+    "title": "openKylin Outlines Its Vision for Reimagining Linux in the AI Era at Open Source Summit Europe 2026",
+    "description": "At Open Source Summit Europe 2026, openKylin outlined its vision for transitioning from resource management to intent management in the AI era. The community introduced KART, a unified AI runtime, alongside core desktop features in openKylin 3.0 like the AI Assistant, Global Intelligent Search, and",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-15T18:33:39.858Z",
+    "published": "Thu, 15 Oct 2026 13:23:45 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2287833/meta-built-a-huge-open-weight-ai-model-for-macs-but-youll-need-1tb-of-ram-to-run-it/",
+    "title": "Meta built a huge open-weight AI model for Macs, but you'll need 1TB of RAM to run it",
+    "description": "Muse Spark Open is &#34;the most capable US open-weight model to date,&#34; the company says.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-15T18:33:44.803Z",
+    "published": "Thu, 15 Oct 2026 17:02:48 +0000"
   }
 ]
