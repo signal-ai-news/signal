@@ -79212,5 +79212,60 @@
     "category": "news",
     "discovered": "2026-10-14T21:31:15.820Z",
     "published": "Wed, 14 Oct 2026 18:45:06 +0000"
+  },
+  {
+    "url": "https://openai.com/index/block-ai-powered-security",
+    "title": "How Block is building AI-powered security with OpenAI technology",
+    "description": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-15T00:01:56.002Z",
+    "published": "Wed, 14 Oct 2026 07:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-15T00:04:32.127Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+    "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+    "description": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-15T00:01:59.336Z",
+    "published": "Thu, 15 Oct 2026 00:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-15T00:04:32.127Z"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/audio-deepfake-detection-guide",
+    "title": "Audio deepfake detection: How it works & how to verify ElevenLabs audio",
+    "description": "Learn how audio deepfake detection works, how watermarking differs from statistical classifiers, and how to check whether audio came from ElevenLabs.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-10-15T00:02:02.634Z",
+    "published": "Wed, 14 Oct 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-15T00:04:32.127Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/14/datalab-omniparsebench-open-ocr-document-parsing-benchmark/",
+    "title": "Datalab Releases OmniParseBench: An Open OCR Benchmark With 16,288 Pass/Fail Tests to Audit OCR Parsers",
+    "description": "Datalab released OmniParseBench, an open OCR benchmark with 16,288 yes/no tests on 2,937 pages in 92 languages. Every score is a pass rate you can slice by tag, script or language.\nThe post Datalab Releases OmniParseBench: An Open OCR Benchmark With 16,288 Pass/Fail Tests to Audit OCR Parsers appear",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-15T00:02:21.207Z",
+    "published": "Wed, 14 Oct 2026 23:37:25 +0000",
+    "processed": true,
+    "processedAt": "2026-10-15T00:04:32.127Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/14/fish-audio-drama-3-open-weight-tts-model/",
+    "title": "Fish Audio Releases Drama 3, a 35B Open-Weight MoE Text-to-Speech Model",
+    "description": "Fish Audio released Drama 3, a 35B mixture-of-experts text-to-speech model with about 3B active parameters. It takes plain-language direction, covers 83 languages and ships open weights under a revenue-capped community license.\nThe post Fish Audio Releases Drama 3, a 35B Open-Weight MoE Text-to-Spee",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-15T00:02:21.207Z",
+    "published": "Wed, 14 Oct 2026 22:52:17 +0000",
+    "processed": true,
+    "processedAt": "2026-10-15T00:04:32.127Z"
   }
 ]
