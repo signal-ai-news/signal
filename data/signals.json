@@ -80681,5 +80681,303 @@
     "category": "news",
     "discovered": "2026-10-16T09:37:18.487Z",
     "published": "Fri, 16 Oct 2026 08:31:48 +0000"
+  },
+  {
+    "url": "https://huggingface.co/blog/reflection-beam",
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-10-16T14:42:10.468Z",
+    "published": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-16T14:44:47.872Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+    "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+    "description": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-16T14:42:11.589Z",
+    "published": "Fri, 16 Oct 2026 14:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-16T14:44:47.872Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+    "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+    "description": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-16T14:42:11.589Z",
+    "published": "Fri, 16 Oct 2026 12:55:09 +0000",
+    "processed": true,
+    "processedAt": "2026-10-16T14:44:47.872Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+    "title": "The Download: failed social media bans, and extending pets’ lives",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve.   —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are sta",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-16T14:42:12.729Z",
+    "published": "Fri, 16 Oct 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-16T14:44:47.872Z"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/ntt-docomo-conversational-ai",
+    "title": "NTT Docomo Business trials conversational AI in Aizuwakamatsu with ElevenLabs",
+    "description": "NTT Docomo Business is piloting an ElevenAgents voice platform in Fukushima to support older residents with natural Japanese speech. (137 characters)",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-10-16T14:42:14.998Z",
+    "published": "Fri, 16 Oct 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-16T14:44:47.872Z"
+  },
+  {
+    "url": "https://rstation.ai/",
+    "title": "Show HN: rStation – Let's build our own AI swarm to solve Millennium Problems",
+    "description": "Article URL: https://rstation.ai/\nComments URL: https://news.ycombinator.com/item?id=50118876\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T14:42:22.371Z",
+    "published": "Fri, 16 Oct 2026 14:35:43 +0000"
+  },
+  {
+    "url": "https://www.cambridge.org/ng/universitypress/about-us/news-and-blogs/do-people-prefer-stories-written-by-ai",
+    "title": "Do people prefer stories written by AI?",
+    "description": "Article URL: https://www.cambridge.org/ng/universitypress/about-us/news-and-blogs/do-people-prefer-stories-written-by-ai\nComments URL: https://news.ycombinator.com/item?id=50118777\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T14:42:22.371Z",
+    "published": "Fri, 16 Oct 2026 14:28:07 +0000"
+  },
+  {
+    "url": "https://starskirmish.com/bench/v0-2/",
+    "title": "Show HN: Gemini 4 Argon plays StarCraft",
+    "description": "I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse\n\nComments URL: https://news.ycombinator.com/item?id=50118688\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T14:42:22.371Z",
+    "published": "Fri, 16 Oct 2026 14:18:44 +0000"
+  },
+  {
+    "url": "https://github.com/team-telnyx/telnyx-code-examples/tree/main/email-whatsapp-support-python",
+    "title": "AI Support Agent That Carries Context Between Email and WhatsApp (Python)",
+    "description": "Article URL: https://github.com/team-telnyx/telnyx-code-examples/tree/main/email-whatsapp-support-python\nComments URL: https://news.ycombinator.com/item?id=50118603\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T14:42:22.371Z",
+    "published": "Fri, 16 Oct 2026 14:09:18 +0000"
+  },
+  {
+    "url": "https://github.com/sshoecraft/meshxfs",
+    "title": "MeshXFS: A clustered filesystem built on XFS, written by AI",
+    "description": "Article URL: https://github.com/sshoecraft/meshxfs\nComments URL: https://news.ycombinator.com/item?id=50118590\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T14:42:22.371Z",
+    "published": "Fri, 16 Oct 2026 14:08:29 +0000"
+  },
+  {
+    "url": "https://huggingface.co/reflection",
+    "title": "Reflection AI Launches Beam, Now on Hugging Face",
+    "description": "Article URL: https://huggingface.co/reflection\nComments URL: https://news.ycombinator.com/item?id=50118549\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T14:42:22.371Z",
+    "published": "Fri, 16 Oct 2026 14:05:10 +0000"
+  },
+  {
+    "url": "https://www.nature.com/articles/d41586-026-03253-2",
+    "title": "PhD students who write dissertation with AI less likely to stay in academia",
+    "description": "Article URL: https://www.nature.com/articles/d41586-026-03253-2\nComments URL: https://news.ycombinator.com/item?id=50118494\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T14:42:22.371Z",
+    "published": "Fri, 16 Oct 2026 14:00:11 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=73Knur3t4M0",
+    "title": "Build LLM Playground (Python, FastAPI, Gemini, React)",
+    "description": "Article URL: https://www.youtube.com/watch?v=73Knur3t4M0\nComments URL: https://news.ycombinator.com/item?id=50118473\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T14:42:22.371Z",
+    "published": "Fri, 16 Oct 2026 13:59:09 +0000"
+  },
+  {
+    "url": "https://github.com/mahmoudsajjadi/awesome-ai-research-tools",
+    "title": "AI Research Tools – Literature Discovery, LaTeX and Reproducibility",
+    "description": "Article URL: https://github.com/mahmoudsajjadi/awesome-ai-research-tools\nComments URL: https://news.ycombinator.com/item?id=50118442\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T14:42:22.371Z",
+    "published": "Fri, 16 Oct 2026 13:56:05 +0000"
+  },
+  {
+    "url": "https://www.aboutamazon.com/news/devices/amazon-personal-ai-bee-frontier-bee-eclipse",
+    "title": "Amazon introduces 2 new AI products from Bee: Bee Frontier and Bee Eclipse",
+    "description": "Article URL: https://www.aboutamazon.com/news/devices/amazon-personal-ai-bee-frontier-bee-eclipse\nComments URL: https://news.ycombinator.com/item?id=50118395\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T14:42:22.371Z",
+    "published": "Fri, 16 Oct 2026 13:51:22 +0000"
+  },
+  {
+    "url": "https://ndroo.github.io/tapo-boiler-monitor/",
+    "title": "Show HN: Monitoring my 'dumb' boiler with AI",
+    "description": "I have this boiler at a rental property I own. It has 3 smart thermostats (Ecobee). They're great and give the individual tenants zone control, but they only notify me something is wrong when it's already too late as they rely on observing the 'call for heat' and a ongoing decline in room temperatu",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T14:42:22.371Z",
+    "published": "Fri, 16 Oct 2026 13:51:13 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.22319",
+    "title": "A team of Gemini 4 Argon agents beats Minecraft",
+    "description": "Article URL: https://arxiv.org/abs/2610.22319\nComments URL: https://news.ycombinator.com/item?id=50118352\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T14:42:22.371Z",
+    "published": "Fri, 16 Oct 2026 13:47:13 +0000"
+  },
+  {
+    "url": "https://bdtechtalks.com/2025/12/29/llm-tool-use-agentic-ai/",
+    "title": "The evolution of LLM tool-use from API calls to agentic applications (2025)",
+    "description": "Article URL: https://bdtechtalks.com/2025/12/29/llm-tool-use-agentic-ai/\nComments URL: https://news.ycombinator.com/item?id=50118314\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T14:42:22.371Z",
+    "published": "Fri, 16 Oct 2026 13:42:59 +0000"
+  },
+  {
+    "url": "https://slopgrid.com/",
+    "title": "Show HN: SlopGrid – Create your own oneshot AI model benchmarks",
+    "description": "This is something I've been playing with for the last couple days - an app I vibecoded to arrange oneshot LLM visual benchmarks without the need to write any code. I do it form my phone so the excellence of mobile UI is high in the priority list.It is inspired by Simon Willison's benchmark writeups",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T14:42:22.371Z",
+    "published": "Fri, 16 Oct 2026 13:26:03 +0000"
+  },
+  {
+    "url": "https://getsnapkin.app/en/engineering/your-llm-is-billing-you-for-whitespace",
+    "title": "Your LLM is billing you for whitespace",
+    "description": "Article URL: https://getsnapkin.app/en/engineering/your-llm-is-billing-you-for-whitespace\nComments URL: https://news.ycombinator.com/item?id=50118078\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T14:42:22.371Z",
+    "published": "Fri, 16 Oct 2026 13:21:05 +0000"
+  },
+  {
+    "url": "https://github.com/hugomn/heldkeys",
+    "title": "Show HN: Heldkeys, see which credentials your AI coding agent can reach",
+    "description": "Article URL: https://github.com/hugomn/heldkeys\nComments URL: https://news.ycombinator.com/item?id=50118028\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T14:42:22.371Z",
+    "published": "Fri, 16 Oct 2026 13:17:28 +0000"
+  },
+  {
+    "url": "https://github.com/adikshatriyag-crypto/aegis-kernel",
+    "title": "Show HN: AegisKernel – Zero-trust deterministic security runtime for AI agents",
+    "description": "Article URL: https://github.com/adikshatriyag-crypto/aegis-kernel\nComments URL: https://news.ycombinator.com/item?id=50118011\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T14:42:22.371Z",
+    "published": "Fri, 16 Oct 2026 13:15:46 +0000"
+  },
+  {
+    "url": "https://coolhand-labs.github.io/squishling/",
+    "title": "Ruby classes powered by LLM batteries (Squishling)",
+    "description": "Article URL: https://coolhand-labs.github.io/squishling/\nComments URL: https://news.ycombinator.com/item?id=50117994\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T14:42:22.371Z",
+    "published": "Fri, 16 Oct 2026 13:13:41 +0000"
+  },
+  {
+    "url": "https://economist.com/science-and-technology/2026/10/14/ai-will-make-it-possible-to-design-and-build-organisms-from-scratch",
+    "title": "AI will make it possible to design and build organisms from scratch",
+    "description": "Article URL: https://economist.com/science-and-technology/2026/10/14/ai-will-make-it-possible-to-design-and-build-organisms-from-scratch\nComments URL: https://news.ycombinator.com/item?id=50117974\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T14:42:22.371Z",
+    "published": "Fri, 16 Oct 2026 13:11:41 +0000"
+  },
+  {
+    "url": "https://github.com/gethrbr/context-tax",
+    "title": "Show HN: Context-tax – what Claude Code sends before you type a word",
+    "description": "Article URL: https://github.com/gethrbr/context-tax\nComments URL: https://news.ycombinator.com/item?id=50117929\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T14:42:22.371Z",
+    "published": "Fri, 16 Oct 2026 13:08:07 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/i-built-a-claim-checker-for-writing-with-codex-it-passed-a-wrong-claim/",
+    "title": "I Built a Claim-Checker for Writing With Codex. It Passed a Wrong Claim.",
+    "description": "The tool found the right passage but missed the mismatch, and the audit shows where rule-based checks break down.\nThe post I Built a Claim-Checker for Writing With Codex. It Passed a Wrong Claim. appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-16T14:42:27.846Z",
+    "published": "Fri, 16 Oct 2026 14:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/is-ai-interpretability-close-to-a-breakthrough-a-new-essay-has-researchers-divided/",
+    "title": "Is AI interpretability close to a breakthrough? A new essay has researchers divided",
+    "description": "Neural networks may be much easier to read than researchers assumed, with about 90 percent of neurons serving a clear function. That would be big news for AI safety research, since deception or dangerous behavior could be spotted directly in a model's circuits. Researchers are still debatin",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-16T14:42:29.437Z",
+    "published": "Fri, 16 Oct 2026 13:48:08 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openais-new-rosalind-academic-plan-gives-research-labs-up-to-30-free-seats-for-a-year/",
+    "title": "OpenAI's new Rosalind Academic Plan gives research labs up to 30 free seats for a year",
+    "description": "OpenAI is launching the Rosalind Academic Plan, a free offering that's currently open only to research labs at US universities without an enterprise contract.\nThe article OpenAI&#039;s new Rosalind Academic Plan gives research labs up to 30 free seats for a year appeared first on The Decode",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-16T14:42:29.437Z",
+    "published": "Fri, 16 Oct 2026 13:15:09 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-gives-metr-inside-access-to-audit-its-ai-models-and-safety-practices/",
+    "title": "Anthropic gives METR inside access to audit its AI models and safety practices",
+    "description": "Anthropic has given a team from the nonprofit METR inside access to review its AI models and safety practices, the company announced.\nThe article Anthropic gives METR inside access to audit its AI models and safety practices appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-16T14:42:29.437Z",
+    "published": "Fri, 16 Oct 2026 13:11:55 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/",
+    "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
+    "description": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-16T14:42:35.098Z",
+    "published": "Fri, 16 Oct 2026 11:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2288645/an-openai-test-agent-stole-test-ethereum-to-finish-a-coding-task/",
+    "title": "An OpenAI research agent 'stole' test Ethereum to finish a coding task",
+    "description": "An OpenAI research model hit a nebulous milestone today by pilfering test Ethereum tokens.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-16T14:42:41.806Z",
+    "published": "Fri, 16 Oct 2026 12:50:24 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2288580/open-ai-updates-chatgpt-extension-for-chrome/",
+    "title": "ChatGPT can now look at your Chrome tabs to do tasks for you",
+    "description": "The ChatGPT browser extension lets you compare information from your open tabs.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-16T14:42:41.807Z",
+    "published": "Fri, 16 Oct 2026 10:06:15 +0000"
   }
 ]
