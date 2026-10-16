@@ -80039,5 +80039,204 @@
     "category": "news",
     "discovered": "2026-10-15T21:42:32.436Z",
     "published": "Thu, 15 Oct 2026 19:28:53 +0000"
+  },
+  {
+    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "description": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-16T00:12:15.833Z",
+    "published": "Thu, 15 Oct 2026 19:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-16T00:15:00.145Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+    "description": "The company generated over $30 million in revenue in two years and was acquired by MyFitness for an undisclosed amount of money in March.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-16T00:12:19.458Z",
+    "published": "Thu, 15 Oct 2026 23:44:56 +0000",
+    "processed": true,
+    "processedAt": "2026-10-16T00:15:00.145Z"
+  },
+  {
+    "url": "https://www.motherjones.com/politics/2026/10/elon-musk-ai-semiconductors-successionism-terafab-factory-x/",
+    "title": "Elon Musk Hopes His New Factory Will Help AI Supplant Life on Earth",
+    "description": "Article URL: https://www.motherjones.com/politics/2026/10/elon-musk-ai-semiconductors-successionism-terafab-factory-x/\nComments URL: https://news.ycombinator.com/item?id=50112036\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T00:12:31.128Z",
+    "published": "Fri, 16 Oct 2026 00:06:28 +0000",
+    "processed": true,
+    "processedAt": "2026-10-16T00:15:00.145Z"
+  },
+  {
+    "url": "https://thoughtbot.com/blog/what-causes-ai-fatigue-for-engineers-and-how-to-ease-the-strain",
+    "title": "What causes AI fatigue for engineers and how to ease the strain",
+    "description": "Article URL: https://thoughtbot.com/blog/what-causes-ai-fatigue-for-engineers-and-how-to-ease-the-strain\nComments URL: https://news.ycombinator.com/item?id=50111887\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T00:12:31.128Z",
+    "published": "Thu, 15 Oct 2026 23:43:23 +0000",
+    "processed": true,
+    "processedAt": "2026-10-16T00:15:00.145Z"
+  },
+  {
+    "url": "https://github.com/ShaikhWarsi/free-ai-tools",
+    "title": "Free-AI-tools – Curated list of free and low cost AI tools",
+    "description": "Article URL: https://github.com/ShaikhWarsi/free-ai-tools\nComments URL: https://news.ycombinator.com/item?id=50111860\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T00:12:31.128Z",
+    "published": "Thu, 15 Oct 2026 23:39:33 +0000",
+    "processed": true,
+    "processedAt": "2026-10-16T00:15:00.145Z"
+  },
+  {
+    "url": "https://twitter.com/OpenAI/status/2110797830361436604",
+    "title": "GPT-Live-1.1 – New voices. Better accents. Less \"checking.\"",
+    "description": "Article URL: https://twitter.com/OpenAI/status/2110797830361436604\nComments URL: https://news.ycombinator.com/item?id=50111828\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T00:12:31.128Z",
+    "published": "Thu, 15 Oct 2026 23:34:19 +0000"
+  },
+  {
+    "url": "https://lkml.org/lkml/2026/10/13/3242",
+    "title": "Linus Torvalds: \"banning AI is stupid and so are you\"",
+    "description": "Article URL: https://lkml.org/lkml/2026/10/13/3242\nComments URL: https://news.ycombinator.com/item?id=50111769\nPoints: 7\n# Comments: 8",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T00:12:31.128Z",
+    "published": "Thu, 15 Oct 2026 23:25:57 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=bAnwMdfcMVw",
+    "title": "No More Heroes – Terence Tao Talks to Numberphile About AI [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=bAnwMdfcMVw\nComments URL: https://news.ycombinator.com/item?id=50111619\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T00:12:31.128Z",
+    "published": "Thu, 15 Oct 2026 23:09:08 +0000"
+  },
+  {
+    "url": "https://philippdubach.com/posts/model-atlas-capability-weights/",
+    "title": "A tool to compare LLM benchmarks",
+    "description": "Article URL: https://philippdubach.com/posts/model-atlas-capability-weights/\nComments URL: https://news.ycombinator.com/item?id=50111618\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T00:12:31.128Z",
+    "published": "Thu, 15 Oct 2026 23:09:07 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Ig2gYmOTuug",
+    "title": "Show HN: My AI induced mania in embedded computer graphics engineering [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=Ig2gYmOTuug\nComments URL: https://news.ycombinator.com/item?id=50111421\nPoints: 4\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T00:12:31.128Z",
+    "published": "Thu, 15 Oct 2026 22:43:44 +0000"
+  },
+  {
+    "url": "https://www.koreaittimes.com/news/articleView.html?idxno=158124",
+    "title": "SK Hynix Unveils Next-Generation Memory Roadmap to Address AI Bottlenecks",
+    "description": "Article URL: https://www.koreaittimes.com/news/articleView.html?idxno=158124\nComments URL: https://news.ycombinator.com/item?id=50111375\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T00:12:31.128Z",
+    "published": "Thu, 15 Oct 2026 22:38:29 +0000"
+  },
+  {
+    "url": "https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch/",
+    "title": "Linus Torvalds is using AI to develop Linux kernel code now",
+    "description": "Article URL: https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch/\nComments URL: https://news.ycombinator.com/item?id=50111350\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T00:12:31.128Z",
+    "published": "Thu, 15 Oct 2026 22:35:38 +0000"
+  },
+  {
+    "url": "https://aleximas.substack.com/p/will-ai-soon-lead-to-double-digit",
+    "title": "Will AI soon lead to double-digit growth?",
+    "description": "Article URL: https://aleximas.substack.com/p/will-ai-soon-lead-to-double-digit\nComments URL: https://news.ycombinator.com/item?id=50111116\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T00:12:31.128Z",
+    "published": "Thu, 15 Oct 2026 22:11:50 +0000"
+  },
+  {
+    "url": "https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai",
+    "title": "Call Center Jobs Are Declining, but 14,000 Calls Show Humans Still Outperform AI",
+    "description": "Article URL: https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai\nComments URL: https://news.ycombinator.com/item?id=50111112\nPoints: 35\n# Comments: 48",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T00:12:31.128Z",
+    "published": "Thu, 15 Oct 2026 22:11:24 +0000"
+  },
+  {
+    "url": "https://blog.codinghorror.com/the-broken-window-theory/",
+    "title": "AI usage causes broken windows (2005)",
+    "description": "Article URL: https://blog.codinghorror.com/the-broken-window-theory/\nComments URL: https://news.ycombinator.com/item?id=50111037\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T00:12:31.128Z",
+    "published": "Thu, 15 Oct 2026 22:05:15 +0000"
+  },
+  {
+    "url": "https://until.dev/",
+    "title": "Until – A workflow where developers decide what to build and AI does the coding",
+    "description": "Article URL: https://until.dev/\nComments URL: https://news.ycombinator.com/item?id=50111000\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T00:12:31.128Z",
+    "published": "Thu, 15 Oct 2026 22:01:32 +0000"
+  },
+  {
+    "url": "https://guessthellm.com/",
+    "title": "Show HN: Guess the LLM – read an answer and guess which model wrote it",
+    "description": "Hi HN, I made a game to test if people can really tell AI models apart.Models from all the frontier labs answer the same question. You read one answer and guess who wrote it. You can also pick just the models you want to compare.I made it and still only get 5/10 lol. Curious how you all do.\n\nCommen",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T00:12:31.128Z",
+    "published": "Thu, 15 Oct 2026 21:53:54 +0000"
+  },
+  {
+    "url": "https://productflo.io/ai-tools",
+    "title": "Show HN: Rebuilt our directory of 241 AI tools for hardware engineering",
+    "description": "Article URL: https://productflo.io/ai-tools\nComments URL: https://news.ycombinator.com/item?id=50110759\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T00:12:31.128Z",
+    "published": "Thu, 15 Oct 2026 21:44:08 +0000"
+  },
+  {
+    "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-building-vs-ai-buying-the-transatlantic-split",
+    "title": "AI Building vs. AI Buying: The Transatlantic Split",
+    "description": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-building-vs-ai-buying-the-transatlantic-split\nComments URL: https://news.ycombinator.com/item?id=50110753\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T00:12:31.128Z",
+    "published": "Thu, 15 Oct 2026 21:43:40 +0000"
+  },
+  {
+    "url": "https://anvaka.github.io/imaginary-faces/#",
+    "title": "Show HN: Asked LLM to show the most stereotypical man/woman for each country",
+    "description": "Article URL: https://anvaka.github.io/imaginary-faces/#\nComments URL: https://news.ycombinator.com/item?id=50110735\nPoints: 2\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T00:12:31.128Z",
+    "published": "Thu, 15 Oct 2026 21:42:12 +0000"
+  },
+  {
+    "url": "https://seldon-ai.com/blog/we-fired-the-frontier-model",
+    "title": "We fired the frontier model from two AI pipelines. Here are the receipts",
+    "description": "Article URL: https://seldon-ai.com/blog/we-fired-the-frontier-model\nComments URL: https://news.ycombinator.com/item?id=50110715\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T00:12:31.128Z",
+    "published": "Thu, 15 Oct 2026 21:40:18 +0000"
   }
 ]
