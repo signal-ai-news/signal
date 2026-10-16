@@ -80979,5 +80979,132 @@
     "category": "news",
     "discovered": "2026-10-16T14:42:41.807Z",
     "published": "Fri, 16 Oct 2026 10:06:15 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "title": "India becomes the latest country to report rogue AI agent activity",
+    "description": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-16T18:43:27.978Z",
+    "published": "Fri, 16 Oct 2026 17:52:24 +0000",
+    "processed": true,
+    "processedAt": "2026-10-16T18:45:57.972Z"
+  },
+  {
+    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+    "description": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to tho",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-16T18:43:27.978Z",
+    "published": "Fri, 16 Oct 2026 16:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-16T18:45:57.972Z"
+  },
+  {
+    "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+    "description": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to tho",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-16T18:43:27.978Z",
+    "published": "Fri, 16 Oct 2026 16:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-16T18:45:57.972Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+    "title": "Elorian’s first AI model wants to reason with images, not just about them",
+    "description": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-16T18:43:27.978Z",
+    "published": "Fri, 16 Oct 2026 16:01:37 +0000",
+    "processed": true,
+    "processedAt": "2026-10-16T18:45:57.972Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+    "title": "Jev is Vercel’s fastest-adopted AI model ever",
+    "description": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-16T18:43:27.978Z",
+    "published": "Fri, 16 Oct 2026 15:33:49 +0000",
+    "processed": true,
+    "processedAt": "2026-10-16T18:45:57.972Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+    "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+    "description": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-16T18:43:27.978Z",
+    "published": "Fri, 16 Oct 2026 14:26:51 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/certification-renewals",
+    "title": "ElevenLabs’ commitment to security, privacy, and responsible AI: certified and renewed",
+    "description": "ElevenLabs renewed its ISO, SOC 2, and PCI DSS certifications and added SOC 2 Type I and FedRAMP 20x Class A for enterprise trust.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-10-16T18:43:31.255Z",
+    "published": "Fri, 16 Oct 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/do-you-still-own-the-code-your-ai-wrote-i-built-codeownership-to-measure-it/",
+    "title": "Do You Still Own the Code Your AI Wrote? I Built CodeOwnership to Measure It",
+    "description": "I rated my confidence 4 out of 5, then couldn’t find a planted bug in 8 minutes. Here is the tool, the run, and its limits.\nThe post Do You Still Own the Code Your AI Wrote? I Built CodeOwnership to Measure It appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-16T18:43:38.113Z",
+    "published": "Fri, 16 Oct 2026 15:30:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/chatgpt-becomes-a-full-chrome-browser-assistant-that-reads-and-acts-on-your-open-tabs/",
+    "title": "ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs",
+    "description": "OpenAI's updated Chrome extension lets ChatGPT access open browser tabs, sum up content, and use \"Computer Use\" in Work mode to fill out forms or compare products across several tabs. It is open to all ChatGPT plans.\nThe article ChatGPT becomes a full Chrome browser assistant that reads and",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-16T18:43:39.723Z",
+    "published": "Fri, 16 Oct 2026 18:10:27 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies/",
+    "title": "China plans to tighten export controls on open-weight models and 23 key AI technologies",
+    "description": "China plans to restrict exports of 23 key AI technologies, including model weights, source code, and training methods for systems hitting 10^26 FLOPs or 2 trillion parameters. A fast-track rule will still clear open-source releases as soon as they are registered, but the move will likely pu",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-16T18:43:39.723Z",
+    "published": "Fri, 16 Oct 2026 17:42:47 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/googles-gemini-4-argon-is-closer-to-the-ai-frontier-than-any-google-model-in-months/",
+    "title": "Google's Gemini 4 Argon is closer to the AI frontier than any Google model in months",
+    "description": "Google Deepmind's Gemini 4 Argon scored 97.5 percent on the ARC-AGI-3 benchmark, making Google the second lab after OpenAI to cross the 95 percent mark. But the results swing wildly depending on the test setup: in the standard harness, the score drops to just 49.8 percent. Argon also trails",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-16T18:43:39.723Z",
+    "published": "Fri, 16 Oct 2026 15:03:46 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
+    "title": "Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’",
+    "description": "MIT professor Sherry Turkle warns that people have become dangerously enmeshed with chatbots.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-16T18:43:45.353Z",
+    "published": "Fri, 16 Oct 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2288908/if-memory-shortages-last-tech-companies-should-offer-cheap-battery-replacements/",
+    "title": "If memory shortages last, tech companies should offer cheap battery replacements",
+    "description": "If a company like Apple could offer $29 batteries before, it can do so again.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-16T18:43:52.064Z",
+    "published": "Fri, 16 Oct 2026 16:32:00 +0000"
   }
 ]
