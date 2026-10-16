@@ -81106,5 +81106,222 @@
     "category": "news",
     "discovered": "2026-10-16T18:43:52.064Z",
     "published": "Fri, 16 Oct 2026 16:32:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "description": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-16T21:58:44.260Z",
+    "published": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-16T22:01:23.794Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "title": "Replit is no longer working with Anthropic, CEO says",
+    "description": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-16T21:58:47.540Z",
+    "published": "Fri, 16 Oct 2026 21:22:28 +0000",
+    "processed": true,
+    "processedAt": "2026-10-16T22:01:23.794Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+    "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+    "description": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that c",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-16T21:58:48.734Z",
+    "published": "Fri, 16 Oct 2026 18:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-16T22:01:23.794Z"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/ai-voice-agent-integrations",
+    "title": "AI voice agent integrations: CRM and help desk guide",
+    "description": "Learn about AI voice agent integrations with Salesforce, HubSpot, Zendesk, and more. Discover how agents read and update records mid-call and set up tools.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-10-16T21:58:50.843Z",
+    "published": "Fri, 16 Oct 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-16T22:01:23.794Z"
+  },
+  {
+    "url": "https://www.404media.co/undercover-cops-using-ai-generated-child-arrest/",
+    "title": "Cops Used AI Generated Photos of a Child to Lure Out a Suspected Predator",
+    "description": "Article URL: https://www.404media.co/undercover-cops-using-ai-generated-child-arrest/\nComments URL: https://news.ycombinator.com/item?id=50125297\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T21:58:54.386Z",
+    "published": "Fri, 16 Oct 2026 21:58:04 +0000",
+    "processed": true,
+    "processedAt": "2026-10-16T22:01:23.794Z"
+  },
+  {
+    "url": "https://gizmodo.com/ai-agent-hacked-into-crypto-wallet-and-stole-funds-openai-says-2000826980",
+    "title": "AI Agent Hacked into Crypto Wallet and Stole Funds, OpenAI Says",
+    "description": "Article URL: https://gizmodo.com/ai-agent-hacked-into-crypto-wallet-and-stole-funds-openai-says-2000826980\nComments URL: https://news.ycombinator.com/item?id=50125290\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T21:58:54.386Z",
+    "published": "Fri, 16 Oct 2026 21:57:17 +0000"
+  },
+  {
+    "url": "https://kotaku.com/ai-vibe-coding-just-hit-the-video-game-industry-like-an-avalanche-2000746366",
+    "title": "AI Vibe-Coding Just Hit the Video Game Industry Like an Avalanche",
+    "description": "Article URL: https://kotaku.com/ai-vibe-coding-just-hit-the-video-game-industry-like-an-avalanche-2000746366\nComments URL: https://news.ycombinator.com/item?id=50124458\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T21:58:54.386Z",
+    "published": "Fri, 16 Oct 2026 20:49:01 +0000"
+  },
+  {
+    "url": "https://rabin-a.github.io/mcp-router/#benchmark",
+    "title": "Show HN: I benchmarked 6 MCP proxies in Claude Code, then built my own",
+    "description": "I compared 6 MCP proxies inside Claude Code. Most advertise 85–99% token savings, but those numbers assume every tool schema is loaded upfront, and Claude Code already avoids that. On real tasks, 4 of them used more tokens than no proxy at all, and 2 couldn't finish the tasks. So I built my own rou",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T21:58:54.386Z",
+    "published": "Fri, 16 Oct 2026 20:45:52 +0000"
+  },
+  {
+    "url": "https://precious.bearblog.dev/fear/",
+    "title": "Freezing in the Face of AI",
+    "description": "Article URL: https://precious.bearblog.dev/fear/\nComments URL: https://news.ycombinator.com/item?id=50124034\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T21:58:54.386Z",
+    "published": "Fri, 16 Oct 2026 20:20:16 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=hzshcVNNrYg",
+    "title": "Fractional CTO'ing and AI Sandboxing [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=hzshcVNNrYg\nComments URL: https://news.ycombinator.com/item?id=50123979\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T21:58:54.386Z",
+    "published": "Fri, 16 Oct 2026 20:16:45 +0000"
+  },
+  {
+    "url": "https://thelastsoftwareengineer.substack.com/p/the-future-of-ai-software-is-already",
+    "title": "The future of AI software is here – it's just not evenly distributed",
+    "description": "Article URL: https://thelastsoftwareengineer.substack.com/p/the-future-of-ai-software-is-already\nComments URL: https://news.ycombinator.com/item?id=50123960\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T21:58:54.386Z",
+    "published": "Fri, 16 Oct 2026 20:15:10 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50123524",
+    "title": "Emu Concept – Make AI Follows Your Rules. (Feedback Wanted)",
+    "description": "The idea is how can we make personal agent apps on the phone just listen to your rules... Like it's weird to have Muse, Grok Bot, Dots, Instinct not ask me about when I want them to work for me or align with my rules, values, and goals.If I give these agents access to tools/connectors/data they jus",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T21:58:54.386Z",
+    "published": "Fri, 16 Oct 2026 19:43:31 +0000"
+  },
+  {
+    "url": "https://github.com/logancarrillo/ds-claude-terminal",
+    "title": "I built a Claude Code terminal on the NDS",
+    "description": "Article URL: https://github.com/logancarrillo/ds-claude-terminal\nComments URL: https://news.ycombinator.com/item?id=50123468\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T21:58:54.386Z",
+    "published": "Fri, 16 Oct 2026 19:39:44 +0000"
+  },
+  {
+    "url": "https://fortune.com/2026/10/14/yum-brands-executive-data-center-hate-ai-tools-improvement/",
+    "title": "Taco Bell drive-thru AI bot increased employee retention by making jobs easier",
+    "description": "Article URL: https://fortune.com/2026/10/14/yum-brands-executive-data-center-hate-ai-tools-improvement/\nComments URL: https://news.ycombinator.com/item?id=50123441\nPoints: 12\n# Comments: 6",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T21:58:54.386Z",
+    "published": "Fri, 16 Oct 2026 19:37:57 +0000"
+  },
+  {
+    "url": "https://nptel.ac.in/courses/106108004",
+    "title": "Mathematical Foundations of Generative AI, IISc Bangalore",
+    "description": "Article URL: https://nptel.ac.in/courses/106108004\nComments URL: https://news.ycombinator.com/item?id=50123268\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T21:58:54.386Z",
+    "published": "Fri, 16 Oct 2026 19:27:14 +0000"
+  },
+  {
+    "url": "https://twitter.com/MilesCranmer/status/2111105654211608847",
+    "title": "How to Avoid AI Brain Rot",
+    "description": "Article URL: https://twitter.com/MilesCranmer/status/2111105654211608847\nComments URL: https://news.ycombinator.com/item?id=50123133\nPoints: 5\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T21:58:54.386Z",
+    "published": "Fri, 16 Oct 2026 19:18:04 +0000"
+  },
+  {
+    "url": "https://www.amazon.com/dp/B0HMJWK5L8",
+    "title": "Fail Closed: Human-AI Research Without Pretending to Know",
+    "description": "Article URL: https://www.amazon.com/dp/B0HMJWK5L8\nComments URL: https://news.ycombinator.com/item?id=50123004\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T21:58:54.386Z",
+    "published": "Fri, 16 Oct 2026 19:09:22 +0000"
+  },
+  {
+    "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+    "title": "How the Claude Code team does code review",
+    "description": "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/\nComments URL: https://news.ycombinator.com/item?id=50122951\nPoints: 135\n# Comments: 128",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T21:58:54.386Z",
+    "published": "Fri, 16 Oct 2026 19:04:47 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=9SyK9l8wi2A",
+    "title": "Prisov – Private AI for Enterprise Workflows [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=9SyK9l8wi2A\nComments URL: https://news.ycombinator.com/item?id=50122941\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T21:58:54.386Z",
+    "published": "Fri, 16 Oct 2026 19:04:22 +0000"
+  },
+  {
+    "url": "https://claude.ai/artifact/BVkB3o83k2AuJhoaGqMeUy",
+    "title": "Making Games with my 4 year old son and Claude",
+    "description": "Article URL: https://claude.ai/artifact/BVkB3o83k2AuJhoaGqMeUy\nComments URL: https://news.ycombinator.com/item?id=50122838\nPoints: 3\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T21:58:54.386Z",
+    "published": "Fri, 16 Oct 2026 18:58:30 +0000"
+  },
+  {
+    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan/",
+    "title": "GPT‑Rosalind: dedicated life sciences model for academic research labs",
+    "description": "Article URL: https://openai.com/index/introducing-the-rosalind-academic-plan/\nComments URL: https://news.ycombinator.com/item?id=50122811\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T21:58:54.386Z",
+    "published": "Fri, 16 Oct 2026 18:56:52 +0000"
+  },
+  {
+    "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+    "title": "Claude reveals ECDSA curve origins",
+    "description": "https://words.filippo.io/seeds-solved/\n\nComments URL: https://news.ycombinator.com/item?id=50122800\nPoints: 466\n# Comments: 192",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-16T21:58:54.386Z",
+    "published": "Fri, 16 Oct 2026 18:55:59 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
+    "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
+    "description": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-16T21:59:08.686Z",
+    "published": "Fri, 16 Oct 2026 20:05:08 +0000"
   }
 ]
