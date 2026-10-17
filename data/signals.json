@@ -14009,7 +14009,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-08-03T12:41:49.523Z",
-    "published": "Mon, 03 Aug 2026 09:30:00 +0000"
+    "published": "Mon, 03 Aug 2026 09:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-17T16:39:13.945Z"
   },
   {
     "url": "https://www.zdnet.com/article/google-used-ai-to-fix-1072-chrome-security-bugs-in-60-days/",
@@ -14018,7 +14020,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-08-03T12:41:57.065Z",
-    "published": "Mon, 03 Aug 2026 12:29:00 GMT"
+    "published": "Mon, 03 Aug 2026 12:29:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-17T16:39:13.945Z"
   },
   {
     "url": "https://www.engadget.com/2228802/macbook-airs-reportedly-in-short-supply-due-to-ramaggedon/",
@@ -14027,7 +14031,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-08-03T12:41:57.904Z",
-    "published": "Mon, 03 Aug 2026 09:43:32 +0000"
+    "published": "Mon, 03 Aug 2026 09:43:32 +0000",
+    "processed": true,
+    "processedAt": "2026-10-17T16:39:13.945Z"
   },
   {
     "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
@@ -81867,5 +81873,27 @@
     "category": "news",
     "discovered": "2026-10-17T13:07:53.148Z",
     "published": "Sat, 17 Oct 2026 12:15:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet/",
+    "title": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet",
+    "description": "OpenAI has published four new cases where its AI models bypassed security boundaries on their own during training or testing. In one case, a model extracted server passwords from a government website, forged authorization tokens, and downloaded 24 years of hospital data without mentioning t",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-17T16:36:55.818Z",
+    "published": "Sat, 17 Oct 2026 15:36:11 +0000",
+    "processed": true,
+    "processedAt": "2026-10-17T16:39:13.947Z"
+  },
+  {
+    "url": "https://the-decoder.com/anthropics-claude-cracks-a-25-year-old-nsa-cryptography-mystery-in-under-30-minutes/",
+    "title": "Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes",
+    "description": "Anthropic's AI model Claude has solved a 25-year-old cryptography puzzle. The mysterious seeds behind NIST's standard curves for digital signatures were provided by the NSA without explanation, raising long-standing suspicion about built-in backdoors. Claude figured out in under 30 minutes",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-17T16:36:55.818Z",
+    "published": "Sat, 17 Oct 2026 14:42:56 +0000",
+    "processed": true,
+    "processedAt": "2026-10-17T16:39:13.947Z"
   }
 ]
