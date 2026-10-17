@@ -13998,7 +13998,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-08-03T12:41:49.523Z",
-    "published": "Mon, 03 Aug 2026 10:00:00 +0000"
+    "published": "Mon, 03 Aug 2026 10:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-17T09:10:47.643Z"
   },
   {
     "url": "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/",
@@ -81613,5 +81615,49 @@
     "category": "ml",
     "discovered": "2026-10-17T04:54:03.018Z",
     "published": "Sat, 17 Oct 2026 00:09:12 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/mathematicians-say-openai-doesnt-understand-its-own-navier-stokes-proof/",
+    "title": "Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof",
+    "description": "OpenAI submitted a 166-page solution to the Navier-Stokes problem but apparently doesn't fully understand its own proof. Several groups of experts dispute the claimed methodology, saying the actual approach differs from what OpenAI described. And because language models are black boxes, whe",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-17T09:08:29.616Z",
+    "published": "Sat, 17 Oct 2026 09:00:26 +0000",
+    "processed": true,
+    "processedAt": "2026-10-17T09:10:47.645Z"
+  },
+  {
+    "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+    "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+    "description": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-17T09:08:35.658Z",
+    "published": "Sat, 17 Oct 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-17T09:10:47.645Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/17/20-jev-alternatives-the-decision-models-taking-on-typesafe-in-2026/",
+    "title": "20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026",
+    "description": "TypeSafe launched Jev on September 15, 2026. It is a decision model, not a chatbot. You define the allowed answers, and Jev returns a label, a score or a yes/no probability. In about 4 weeks, at least 20 Jev alternatives shipped. They come from Cloudflare, OpenAI, Perplexity, Liquid AI, AWS&#8217;s",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-17T09:08:37.930Z",
+    "published": "Sat, 17 Oct 2026 07:26:39 +0000",
+    "processed": true,
+    "processedAt": "2026-10-17T09:10:47.645Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/16/stepfun-releases-step-5-preview-open-weights-600b-moe-27b-active-1m-context/",
+    "title": "StepFun Releases Step 5 Preview Open Weights: 600B MoE, 27B Active, 1M Context",
+    "description": "StepFun has released Step 5 Preview as open weights. FP8 and BF16 checkpoints are live on Hugging Face and ModelScope. Step 5 Preview is a sparse Mixture-of-Experts model from StepFun built for long-horizon agentic work. It has 600B total parameters, 27B active per token and up to 1M tokens of conte",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-17T09:08:37.930Z",
+    "published": "Sat, 17 Oct 2026 06:29:55 +0000",
+    "processed": true,
+    "processedAt": "2026-10-17T09:10:47.645Z"
   }
 ]
