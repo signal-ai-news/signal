@@ -14097,7 +14097,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-08-03T19:06:44.348Z",
-    "published": "Mon, 03 Aug 2026 17:12:23 +0000"
+    "published": "Mon, 03 Aug 2026 17:12:23 +0000",
+    "processed": true,
+    "processedAt": "2026-10-17T19:13:13.040Z"
   },
   {
     "url": "https://the-decoder.com/ibm-finds-92-of-companies-hit-by-ai-security-breaches-lacked-basic-access-controls/",
@@ -14106,7 +14108,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-08-03T19:06:44.348Z",
-    "published": "Mon, 03 Aug 2026 15:47:08 +0000"
+    "published": "Mon, 03 Aug 2026 15:47:08 +0000",
+    "processed": true,
+    "processedAt": "2026-10-17T19:13:13.040Z"
   },
   {
     "url": "https://the-decoder.com/interpol-says-ai-has-become-the-core-operational-driver-of-cybercrime-across-africa/",
@@ -14115,7 +14119,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-08-03T19:06:44.348Z",
-    "published": "Mon, 03 Aug 2026 15:00:28 +0000"
+    "published": "Mon, 03 Aug 2026 15:00:28 +0000",
+    "processed": true,
+    "processedAt": "2026-10-17T19:13:13.040Z"
   },
   {
     "url": "https://the-decoder.com/chinas-minimax-h3-is-the-first-open-model-to-top-an-ai-video-ranking/",
@@ -81895,5 +81901,27 @@
     "published": "Sat, 17 Oct 2026 14:42:56 +0000",
     "processed": true,
     "processedAt": "2026-10-17T16:39:13.947Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "title": "Replit is no longer working with Anthropic, CEO says",
+    "description": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-17T19:10:29.474Z",
+    "published": "Sat, 17 Oct 2026 18:48:08 +0000",
+    "processed": true,
+    "processedAt": "2026-10-17T19:13:13.042Z"
+  },
+  {
+    "url": "https://www.engadget.com/2283986/whats-actually-eating-all-the-storage-space-on-your-android-phone/",
+    "title": "What's actually eating all the storage space on your Android Phone?",
+    "description": "Android phone running out of space? Here's why and what you can do to get rid of old files.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-17T19:11:06.244Z",
+    "published": "Sat, 17 Oct 2026 18:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-17T19:13:13.042Z"
   }
 ]
