@@ -81960,5 +81960,204 @@
     "published": "Sat, 17 Oct 2026 20:22:11 +0000",
     "processed": true,
     "processedAt": "2026-10-17T21:42:32.803Z"
+  },
+  {
+    "url": "https://blakelapierre.substack.com/p/i-run-my-one-person-business-with",
+    "title": "I run my one-person business with ~17 narrow AI agents",
+    "description": "Article URL: https://blakelapierre.substack.com/p/i-run-my-one-person-business-with\nComments URL: https://news.ycombinator.com/item?id=50136273\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-17T23:54:38.945Z",
+    "published": "Sat, 17 Oct 2026 23:43:05 +0000",
+    "processed": true,
+    "processedAt": "2026-10-17T23:57:06.734Z"
+  },
+  {
+    "url": "https://docspring.com/blog/posts/does-code-quality-still-matter-when-ai-writes-the-code/",
+    "title": "Does code quality still matter when AI writes the code?",
+    "description": "Article URL: https://docspring.com/blog/posts/does-code-quality-still-matter-when-ai-writes-the-code/\nComments URL: https://news.ycombinator.com/item?id=50136214\nPoints: 2\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-17T23:54:38.945Z",
+    "published": "Sat, 17 Oct 2026 23:33:53 +0000",
+    "processed": true,
+    "processedAt": "2026-10-17T23:57:06.734Z"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-10-16/ai-training-jobs-are-attracting-doctors-lawyers-and-engineers",
+    "title": "Doctors, Lawyers and Engineers joining AI's $400-an-Hour gig economy",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-10-16/ai-training-jobs-are-attracting-doctors-lawyers-and-engineers\nComments URL: https://news.ycombinator.com/item?id=50136210\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-17T23:54:38.945Z",
+    "published": "Sat, 17 Oct 2026 23:33:37 +0000",
+    "processed": true,
+    "processedAt": "2026-10-17T23:57:06.734Z"
+  },
+  {
+    "url": "https://github.com/stand-out-of-my-sun/diogenes-l402-gateway",
+    "title": "Diogenes: AI microservices over L402, x402 and MCP (pay per call)",
+    "description": "Article URL: https://github.com/stand-out-of-my-sun/diogenes-l402-gateway\nComments URL: https://news.ycombinator.com/item?id=50136170\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-17T23:54:38.945Z",
+    "published": "Sat, 17 Oct 2026 23:28:15 +0000",
+    "processed": true,
+    "processedAt": "2026-10-17T23:57:06.734Z"
+  },
+  {
+    "url": "https://abolish-ai.net/abolish-ai-a-manifesto/",
+    "title": "Abolish AI Manifesto",
+    "description": "Article URL: https://abolish-ai.net/abolish-ai-a-manifesto/\nComments URL: https://news.ycombinator.com/item?id=50136124\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-17T23:54:38.945Z",
+    "published": "Sat, 17 Oct 2026 23:23:46 +0000",
+    "processed": true,
+    "processedAt": "2026-10-17T23:57:06.734Z"
+  },
+  {
+    "url": "https://github.com/AstraxOf/astrax-mcp",
+    "title": "Astrax – Open-source MCP server for Windows desktop AI control",
+    "description": "Article URL: https://github.com/AstraxOf/astrax-mcp\nComments URL: https://news.ycombinator.com/item?id=50136051\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-17T23:54:38.945Z",
+    "published": "Sat, 17 Oct 2026 23:13:58 +0000"
+  },
+  {
+    "url": "https://devanshranjan.medium.com/gartner-says-only-about-130-ai-agent-companies-are-real-i-build-agents-heres-how-to-tell-b79fdd03d764",
+    "title": "Gartner says only about 130 'AI agent' companies are real",
+    "description": "Article URL: https://devanshranjan.medium.com/gartner-says-only-about-130-ai-agent-companies-are-real-i-build-agents-heres-how-to-tell-b79fdd03d764\nComments URL: https://news.ycombinator.com/item?id=50135988\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-17T23:54:38.945Z",
+    "published": "Sat, 17 Oct 2026 23:04:47 +0000"
+  },
+  {
+    "url": "https://eurekist.com",
+    "title": "Measuring the exponential pace of AI-driven research",
+    "description": "Article URL: https://eurekist.com\nComments URL: https://news.ycombinator.com/item?id=50135972\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-17T23:54:38.945Z",
+    "published": "Sat, 17 Oct 2026 23:01:55 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50135854",
+    "title": "How do you deal with AI Output of your boss?",
+    "description": "So, my boss goes on a rampage. You can clearly see the joy and at the same time the rage and impatience. AI is the tool he always wanted. We are too slow. Process is out of the window. No need for sprints anymore. No planning, just doing. All people downstream must somehow adapt.Whenever i see now",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-17T23:54:38.945Z",
+    "published": "Sat, 17 Oct 2026 22:42:47 +0000"
+  },
+  {
+    "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/10/10/ai-coding-interfaces-make-approval-easy-and-understanding-hard.html",
+    "title": "AI coding interfaces make approval easy and understanding hard",
+    "description": "Article URL: https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/10/10/ai-coding-interfaces-make-approval-easy-and-understanding-hard.html\nComments URL: https://news.ycombinator.com/item?id=50135617\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-17T23:54:38.945Z",
+    "published": "Sat, 17 Oct 2026 22:07:27 +0000"
+  },
+  {
+    "url": "https://vstorm-co.github.io/vstormos-landing/",
+    "title": "Show HN: Put AI to work across your company",
+    "description": "Article URL: https://vstorm-co.github.io/vstormos-landing/\nComments URL: https://news.ycombinator.com/item?id=50135614\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-17T23:54:38.945Z",
+    "published": "Sat, 17 Oct 2026 22:07:13 +0000"
+  },
+  {
+    "url": "https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313",
+    "title": "I Became a Citizen of AI",
+    "description": "Article URL: https://discuss.google.dev/t/trusted-automation-with-google-antigravity-scaling-secure-finance-integrations-from-40-days-to-5/383313\nComments URL: https://news.ycombinator.com/item?id=50135521\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-17T23:54:38.945Z",
+    "published": "Sat, 17 Oct 2026 21:56:15 +0000"
+  },
+  {
+    "url": "https://spectrum.ieee.org/ai-ethics-deepmind-philosopher-shevlin",
+    "title": "Google DeepMind's New Resident Philosopher Tackles AI Ethics",
+    "description": "Article URL: https://spectrum.ieee.org/ai-ethics-deepmind-philosopher-shevlin\nComments URL: https://news.ycombinator.com/item?id=50135502\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-17T23:54:38.945Z",
+    "published": "Sat, 17 Oct 2026 21:54:10 +0000"
+  },
+  {
+    "url": "https://economist.com/business/2026/10/15/ai-neolabs-are-raising-huge-sums-most-have-little-to-show-for-it",
+    "title": "AI neolabs are raising sums. Most have little to show for it",
+    "description": "Article URL: https://economist.com/business/2026/10/15/ai-neolabs-are-raising-huge-sums-most-have-little-to-show-for-it\nComments URL: https://news.ycombinator.com/item?id=50135268\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-17T23:54:38.945Z",
+    "published": "Sat, 17 Oct 2026 21:22:15 +0000"
+  },
+  {
+    "url": "https://alignment.openai.com/misalignment-reports/retrieving-server-secrets-and-bypassing-authorization-on-a-government-statistics-website/",
+    "title": "OpenAI AI Model Hacked Government Website While Counting Hospital Beds",
+    "description": "Article URL: https://alignment.openai.com/misalignment-reports/retrieving-server-secrets-and-bypassing-authorization-on-a-government-statistics-website/\nComments URL: https://news.ycombinator.com/item?id=50135155\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-17T23:54:38.945Z",
+    "published": "Sat, 17 Oct 2026 21:09:40 +0000"
+  },
+  {
+    "url": "https://lawrencecpaulson.github.io//2026/10/17/Plagiarism.html",
+    "title": "Plagiarism in the Age of AI",
+    "description": "Article URL: https://lawrencecpaulson.github.io//2026/10/17/Plagiarism.html\nComments URL: https://news.ycombinator.com/item?id=50135063\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-17T23:54:38.945Z",
+    "published": "Sat, 17 Oct 2026 20:57:57 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=4nQGiRCUlDg",
+    "title": "Videographer tries AI editing with MCP DaVinci Resolve connector",
+    "description": "Article URL: https://www.youtube.com/watch?v=4nQGiRCUlDg\nComments URL: https://news.ycombinator.com/item?id=50135051\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-17T23:54:38.945Z",
+    "published": "Sat, 17 Oct 2026 20:56:19 +0000"
+  },
+  {
+    "url": "https://apps.microsoft.com/detail/9n2dr3g0jw0z?hl=en-US&gl=US",
+    "title": "Show HN: KIRA – Sovereign, local-first AI and media workstation for Windows",
+    "description": "Article URL: https://apps.microsoft.com/detail/9n2dr3g0jw0z?hl=en-US&gl=US\nComments URL: https://news.ycombinator.com/item?id=50135001\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-17T23:54:38.945Z",
+    "published": "Sat, 17 Oct 2026 20:48:04 +0000"
+  },
+  {
+    "url": "https://past.dev",
+    "title": "Past.dev: Long-term memory for AI agents",
+    "description": "Article URL: https://past.dev\nComments URL: https://news.ycombinator.com/item?id=50134905\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-17T23:54:38.945Z",
+    "published": "Sat, 17 Oct 2026 20:36:46 +0000"
+  },
+  {
+    "url": "https://walden.learnmer.com/",
+    "title": "Show HN: Thoreau's Walden as a 3D browser game with an AI guide",
+    "description": "Article URL: https://walden.learnmer.com/\nComments URL: https://news.ycombinator.com/item?id=50134868\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-17T23:54:38.945Z",
+    "published": "Sat, 17 Oct 2026 20:33:22 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/",
+    "title": "OpenAI is building a humanoid robot, but the body isn't the real challenge",
+    "description": "OpenAI CEO Sam Altman wants a humanoid that can operate in a world designed for people, though the CEO says a robot &#39;brain&#39; is a much bigger challenge.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-17T23:55:00.717Z",
+    "published": "Sat, 17 Oct 2026 23:45:00 +0000"
   }
 ]
