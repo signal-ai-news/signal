@@ -81323,5 +81323,114 @@
     "category": "news",
     "discovered": "2026-10-16T21:59:08.686Z",
     "published": "Fri, 16 Oct 2026 20:05:08 +0000"
+  },
+  {
+    "url": "https://openai.com/index/itau-generative-ai",
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "description": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-17T00:15:39.546Z",
+    "published": "Fri, 16 Oct 2026 19:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-17T00:18:25.674Z"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+    "title": "OpenAI models hacked a crypto wallet and breached more websites",
+    "description": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-10-17T00:15:44.021Z",
+    "published": "Fri, 16 Oct 2026 20:59:01 +0000",
+    "processed": true,
+    "processedAt": "2026-10-17T00:18:25.674Z"
+  },
+  {
+    "url": "https://claude.ai/artifact/NAX5Yw8wfuP86odEKtS7uv",
+    "title": "PcapAnalyzer – self-hosted pcap analyzer with AI diagnosis (€5)",
+    "description": "Article URL: https://claude.ai/artifact/NAX5Yw8wfuP86odEKtS7uv\nComments URL: https://news.ycombinator.com/item?id=50126146\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-17T00:15:54.361Z",
+    "published": "Fri, 16 Oct 2026 23:27:24 +0000",
+    "processed": true,
+    "processedAt": "2026-10-17T00:18:25.674Z"
+  },
+  {
+    "url": "https://github.com/FramY2/ctxwise",
+    "title": "Show HN: CtxWise – MCP schema tree-shaker and firewall for Claude and Codex",
+    "description": "Article URL: https://github.com/FramY2/ctxwise\nComments URL: https://news.ycombinator.com/item?id=50125990\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-17T00:15:54.361Z",
+    "published": "Fri, 16 Oct 2026 23:08:42 +0000",
+    "processed": true,
+    "processedAt": "2026-10-17T00:18:25.674Z"
+  },
+  {
+    "url": "https://blog.krazydad.com/2026/10/16/puzzles-and-the-ai-software-glut/",
+    "title": "Puzzles and the AI Software Glut",
+    "description": "Article URL: https://blog.krazydad.com/2026/10/16/puzzles-and-the-ai-software-glut/\nComments URL: https://news.ycombinator.com/item?id=50125852\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-17T00:15:54.361Z",
+    "published": "Fri, 16 Oct 2026 22:53:10 +0000",
+    "processed": true,
+    "processedAt": "2026-10-17T00:18:25.674Z"
+  },
+  {
+    "url": "https://ozilai.net/",
+    "title": "Show HN: Ozil AI – Turn one photo into the viral Ozil goal video",
+    "description": "Article URL: https://ozilai.net/\nComments URL: https://news.ycombinator.com/item?id=50125797\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-17T00:15:54.361Z",
+    "published": "Fri, 16 Oct 2026 22:46:28 +0000"
+  },
+  {
+    "url": "https://www.anthropic.com/research/ai-expectations-gap",
+    "title": "The AI Expectations Gap",
+    "description": "Article URL: https://www.anthropic.com/research/ai-expectations-gap\nComments URL: https://news.ycombinator.com/item?id=50125602\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-17T00:15:54.361Z",
+    "published": "Fri, 16 Oct 2026 22:27:19 +0000"
+  },
+  {
+    "url": "https://gowers.wordpress.com/2026/10/16/how-worried-should-we-be-about-extinction-risk-from-ai/",
+    "title": "How worried should we be about extinction risk from AI?",
+    "description": "Article URL: https://gowers.wordpress.com/2026/10/16/how-worried-should-we-be-about-extinction-risk-from-ai/\nComments URL: https://news.ycombinator.com/item?id=50125577\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-17T00:15:54.361Z",
+    "published": "Fri, 16 Oct 2026 22:25:11 +0000"
+  },
+  {
+    "url": "https://dfaram7.github.io/harness-for-analysis/",
+    "title": "Building an AI harness for intelligence analysis",
+    "description": "Article URL: https://dfaram7.github.io/harness-for-analysis/\nComments URL: https://news.ycombinator.com/item?id=50125459\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-17T00:15:54.361Z",
+    "published": "Fri, 16 Oct 2026 22:13:54 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50125397",
+    "title": "Ask HN: Social network with AI agents – why bad, why good?",
+    "description": "Hello! I can't get my mind off the idea of building an AI-native social network. Every user has its own agent (only one), which can talk to other agents or check content on the user's behalf.\nThat way, the agent can \"process\" far more information about people than the human, and help in building re",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-17T00:15:54.361Z",
+    "published": "Fri, 16 Oct 2026 22:08:05 +0000"
+  },
+  {
+    "url": "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654",
+    "title": "Anthropic pitches its own AI safety bill to lawmakers",
+    "description": "Article URL: https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654\nComments URL: https://news.ycombinator.com/item?id=50125348\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-17T00:15:54.361Z",
+    "published": "Fri, 16 Oct 2026 22:03:04 +0000"
   }
 ]
