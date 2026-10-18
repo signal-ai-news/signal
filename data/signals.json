@@ -82668,5 +82668,213 @@
     "published": "Sun, 18 Oct 2026 18:00:00 +0000",
     "processed": true,
     "processedAt": "2026-10-18T19:23:52.744Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+    "description": "Anthropic said that it will commit 5% of its shares to the fund.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-18T21:44:36.073Z",
+    "published": "Sun, 18 Oct 2026 20:37:40 +0000",
+    "processed": true,
+    "processedAt": "2026-10-18T21:47:21.794Z"
+  },
+  {
+    "url": "https://www.subvert.fm/pages/ai-policy",
+    "title": "Subvert.fm AI Policy",
+    "description": "Article URL: https://www.subvert.fm/pages/ai-policy\nComments URL: https://news.ycombinator.com/item?id=50145674\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-18T21:44:52.188Z",
+    "published": "Sun, 18 Oct 2026 21:29:08 +0000",
+    "processed": true,
+    "processedAt": "2026-10-18T21:47:21.794Z"
+  },
+  {
+    "url": "https://paretoops.dev/",
+    "title": "ParetoOps – CI gate on cost per successful task for LLM evals",
+    "description": "Article URL: https://paretoops.dev/\nComments URL: https://news.ycombinator.com/item?id=50145643\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-18T21:44:52.188Z",
+    "published": "Sun, 18 Oct 2026 21:25:47 +0000",
+    "processed": true,
+    "processedAt": "2026-10-18T21:47:21.794Z"
+  },
+  {
+    "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+    "title": "If you don't run your own LLM proxy, how do you even know whats going on?",
+    "description": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/\nComments URL: https://news.ycombinator.com/item?id=50145507\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-18T21:44:52.188Z",
+    "published": "Sun, 18 Oct 2026 21:09:12 +0000",
+    "processed": true,
+    "processedAt": "2026-10-18T21:47:21.794Z"
+  },
+  {
+    "url": "https://bloccy.si/",
+    "title": "Bloccy – A multimodal canvas for ChatGPT and Claude Desktop",
+    "description": "Article URL: https://bloccy.si/\nComments URL: https://news.ycombinator.com/item?id=50145502\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-18T21:44:52.188Z",
+    "published": "Sun, 18 Oct 2026 21:08:57 +0000",
+    "processed": true,
+    "processedAt": "2026-10-18T21:47:21.794Z"
+  },
+  {
+    "url": "https://github.com/YURIBEDRAN/rubi",
+    "title": "Show HN: Rubi – A knowledge graph that cuts how much Claude Code re-reads",
+    "description": "Article URL: https://github.com/YURIBEDRAN/rubi\nComments URL: https://news.ycombinator.com/item?id=50145380\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-18T21:44:52.188Z",
+    "published": "Sun, 18 Oct 2026 20:54:43 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.18861",
+    "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+    "description": "https://x.com/Jiaru_Zou/status/2110400256647340476https://github.com/togethercomputer/HybridAgenthttps://huggingface.co/collections/togethercomputer/hybridag...Evaluations: https://arxiv.org/html/2610.18861v1#S5\n\nComments URL: https://news.ycombinator.com/item?id=50145337\nPoints: 37\n# Comments: 14",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-18T21:44:52.188Z",
+    "published": "Sun, 18 Oct 2026 20:48:14 +0000"
+  },
+  {
+    "url": "https://github.com/aleph-void/LLM-Usage-Desktop-Widget",
+    "title": "Show HN: LLM Usage Desktop Widget",
+    "description": "A Linux / Windows / MacOS task bar widget for monitoring LLM usage.  Also has signed installers if you don't want to install from source\n\nComments URL: https://news.ycombinator.com/item?id=50145276\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-18T21:44:52.188Z",
+    "published": "Sun, 18 Oct 2026 20:41:34 +0000"
+  },
+  {
+    "url": "https://news.cgtn.com/news/2026-10-15/Chinese-researchers-solve-3D-Ghys-conjecture-with-homegrown-AI-model-1RgD8zQ3Z3a/p.html",
+    "title": "Chinese researchers solve 3D Ghys conjecture with homegrown AI model",
+    "description": "Article URL: https://news.cgtn.com/news/2026-10-15/Chinese-researchers-solve-3D-Ghys-conjecture-with-homegrown-AI-model-1RgD8zQ3Z3a/p.html\nComments URL: https://news.ycombinator.com/item?id=50145068\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-18T21:44:52.188Z",
+    "published": "Sun, 18 Oct 2026 20:19:01 +0000"
+  },
+  {
+    "url": "https://apnews.com/article/ai-prices-dynamic-customers-technology-64c446cd117d3be664de4ab570fb9857",
+    "title": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools",
+    "description": "Article URL: https://apnews.com/article/ai-prices-dynamic-customers-technology-64c446cd117d3be664de4ab570fb9857\nComments URL: https://news.ycombinator.com/item?id=50144597\nPoints: 5\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-18T21:44:52.188Z",
+    "published": "Sun, 18 Oct 2026 19:39:36 +0000"
+  },
+  {
+    "url": "https://github.com/CuppaTea1983/Leviathan",
+    "title": "Leviathan LLM Inference",
+    "description": "Article URL: https://github.com/CuppaTea1983/Leviathan\nComments URL: https://news.ycombinator.com/item?id=50144588\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-18T21:44:52.188Z",
+    "published": "Sun, 18 Oct 2026 19:38:37 +0000"
+  },
+  {
+    "url": "https://warlock.ai/blog/warcraftsim-1/",
+    "title": "Beating Warcraft III's insane AI with self-play reinforcement learning on one PC",
+    "description": "Article URL: https://warlock.ai/blog/warcraftsim-1/\nComments URL: https://news.ycombinator.com/item?id=50144489\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-18T21:44:52.188Z",
+    "published": "Sun, 18 Oct 2026 19:32:10 +0000"
+  },
+  {
+    "url": "https://github.com/vivshaw/neurastheniacc",
+    "title": "Neurastheniacc: LLM-based C->WASM compiler you didn't need",
+    "description": "Article URL: https://github.com/vivshaw/neurastheniacc\nComments URL: https://news.ycombinator.com/item?id=50144358\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-18T21:44:52.188Z",
+    "published": "Sun, 18 Oct 2026 19:20:47 +0000"
+  },
+  {
+    "url": "https://github.com/isAlmogK/trustbut",
+    "title": "Trustbut checks if an AI agent's new tests fail without its change",
+    "description": "Article URL: https://github.com/isAlmogK/trustbut\nComments URL: https://news.ycombinator.com/item?id=50144227\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-18T21:44:52.188Z",
+    "published": "Sun, 18 Oct 2026 19:07:31 +0000"
+  },
+  {
+    "url": "https://zenodo.org/records/23452266",
+    "title": "A protocol for LLM intent search",
+    "description": "Article URL: https://zenodo.org/records/23452266\nComments URL: https://news.ycombinator.com/item?id=50144145\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-18T21:44:52.188Z",
+    "published": "Sun, 18 Oct 2026 18:59:13 +0000"
+  },
+  {
+    "url": "https://github.com/sianachi/nixsites",
+    "title": "Self-hosted workspace where notes, tasks and AI chats are all items",
+    "description": "Article URL: https://github.com/sianachi/nixsites\nComments URL: https://news.ycombinator.com/item?id=50143999\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-18T21:44:52.188Z",
+    "published": "Sun, 18 Oct 2026 18:39:42 +0000"
+  },
+  {
+    "url": "https://thezvi.substack.com/p/leaked-anthropic-draft-ai-regulatory",
+    "title": "Leaked Anthropic Draft AI Regulatory Bill Is Unacceptable and Troubling",
+    "description": "Article URL: https://thezvi.substack.com/p/leaked-anthropic-draft-ai-regulatory\nComments URL: https://news.ycombinator.com/item?id=50143897\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-18T21:44:52.188Z",
+    "published": "Sun, 18 Oct 2026 18:28:58 +0000"
+  },
+  {
+    "url": "https://ninza7.medium.com/ai-pangram-writing-966c1da59c48",
+    "title": "AI/Pangram and Writing",
+    "description": "Article URL: https://ninza7.medium.com/ai-pangram-writing-966c1da59c48\nComments URL: https://news.ycombinator.com/item?id=50143868\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-18T21:44:52.188Z",
+    "published": "Sun, 18 Oct 2026 18:26:11 +0000"
+  },
+  {
+    "url": "https://www.clay.com/blog/ai-writing-policy",
+    "title": "Why Clay Has an AI Writing Policy",
+    "description": "Article URL: https://www.clay.com/blog/ai-writing-policy\nComments URL: https://news.ycombinator.com/item?id=50143643\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-18T21:44:52.188Z",
+    "published": "Sun, 18 Oct 2026 18:05:41 +0000"
+  },
+  {
+    "url": "https://danilafe.com/blog/comments_not_for_you/",
+    "title": "The LLM Comments Are Not for You",
+    "description": "Article URL: https://danilafe.com/blog/comments_not_for_you/\nComments URL: https://news.ycombinator.com/item?id=50143476\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-18T21:44:52.188Z",
+    "published": "Sun, 18 Oct 2026 17:51:55 +0000"
+  },
+  {
+    "url": "https://greyenlightenment.com/2026/09/27/ai-is-the-uber-moment-for-mathematics/",
+    "title": "AI Is the Uber Moment for Mathematics",
+    "description": "Article URL: https://greyenlightenment.com/2026/09/27/ai-is-the-uber-moment-for-mathematics/\nComments URL: https://news.ycombinator.com/item?id=50143120\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-18T21:44:52.188Z",
+    "published": "Sun, 18 Oct 2026 17:18:59 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/",
+    "title": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
+    "description": "An AI agent that reads the web pays 2 kinds of cost. The first is the retrieval charge: what a search or fetch API bills per request. The second is model processing: content passed from retrieved pages into an AI model consumes tokens, while reasoning and generated responses add further costs. TinyF",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-18T21:45:09.498Z",
+    "published": "Sun, 18 Oct 2026 18:20:28 +0000"
   }
 ]
