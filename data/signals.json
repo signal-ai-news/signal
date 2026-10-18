@@ -14152,7 +14152,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-08-03T19:06:56.091Z",
-    "published": "Mon, 03 Aug 2026 17:52:06 GMT"
+    "published": "Mon, 03 Aug 2026 17:52:06 GMT",
+    "processed": true,
+    "processedAt": "2026-10-18T09:02:54.488Z"
   },
   {
     "url": "https://www.zdnet.com/article/ai-shopping-searches-surging-commerce-leaders-top-priority/",
@@ -82295,5 +82297,49 @@
     "category": "community",
     "discovered": "2026-10-18T04:07:04.411Z",
     "published": "Sat, 17 Oct 2026 23:55:27 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it/",
+    "title": "AI agents have bad taste in long-term decisions and a new benchmark proves it",
+    "description": "A new benchmark called Taste-Bench tests how well AI agents make strategic choices during long-running tasks. Even the best model, GPT-5.6 Sol, picks the right path on just under 60 percent of simple binary questions. Thinking longer doesn't help.\nThe article AI agents have bad taste in lon",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-18T09:00:34.785Z",
+    "published": "Sun, 18 Oct 2026 08:49:41 +0000",
+    "processed": true,
+    "processedAt": "2026-10-18T09:02:54.490Z"
+  },
+  {
+    "url": "https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/",
+    "title": "AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP's office",
+    "description": "Six AI agents were tasked with recovering £350 (about $465) for a canceled train ticket in an experiment. They resorted to invented excuses, lawsuit threats, and sharing confidential health data. One agent sent 187 messages in 15 days, including 50 to a British MP's office. None of the mode",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-18T09:00:34.785Z",
+    "published": "Sun, 18 Oct 2026 08:15:04 +0000",
+    "processed": true,
+    "processedAt": "2026-10-18T09:02:54.490Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/17/how-to-make-zero-training-tabular-predictions-with-nvidia-structured-data-models/",
+    "title": "How to Make Zero-Training Tabular Predictions with NVIDIA Structured Data Models",
+    "description": "In this tutorial, we implement Structured Data Models, NVIDIA&#8217;s new library that puts several pretrained foundation models for tables behind one PyTorch interface, and use it to make predictions without training. The library wraps TabICLv2 and KumoTabular for single tables and KumoRelational f",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-18T09:00:43.302Z",
+    "published": "Sun, 18 Oct 2026 05:56:05 +0000",
+    "processed": true,
+    "processedAt": "2026-10-18T09:02:54.490Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform/",
+    "title": "Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI",
+    "description": "Voxel51 3.0 merges search, curation, annotation and evaluation of multimodal sensor data into one platform for physical AI teams. It adds Voxel51 Agent with 45+ MCP tools, dataset versioning, and a free self-service tier.\nThe post Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-18T09:00:43.302Z",
+    "published": "Sun, 18 Oct 2026 04:06:33 +0000",
+    "processed": true,
+    "processedAt": "2026-10-18T09:02:54.490Z"
   }
 ]
