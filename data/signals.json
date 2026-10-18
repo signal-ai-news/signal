@@ -14163,7 +14163,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-08-03T19:06:56.091Z",
-    "published": "Mon, 03 Aug 2026 16:12:16 GMT"
+    "published": "Mon, 03 Aug 2026 16:12:16 GMT",
+    "processed": true,
+    "processedAt": "2026-10-18T16:48:35.765Z"
   },
   {
     "url": "https://www.zdnet.com/article/how-to-keep-ai-conversations-private-chatgpt-gemini-copilot-claude/",
@@ -82585,5 +82587,49 @@
     "category": "ml",
     "discovered": "2026-10-18T13:08:39.690Z",
     "published": "Sat, 17 Oct 2026 04:49:57 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/",
+    "title": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+    "description": "Anthropic is hiring fewer and fewer junior staff in technical roles. The share of junior positions among new hires dropped from 27 to 9 percent since early 2025. By August 2026, AI agents across the company were already logging six times as many hours as humans. Researchers warn of a \"trage",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-18T16:46:16.073Z",
+    "published": "Sun, 18 Oct 2026 13:22:26 +0000",
+    "processed": true,
+    "processedAt": "2026-10-18T16:48:35.767Z"
+  },
+  {
+    "url": "https://www.engadget.com/2289782/tiktok-reportedly-bans-ads-for-musk-documentary-before-its-wider-us-release/",
+    "title": "TikTok reportedly bans ads for Musk documentary before its wider US release",
+    "description": "The platform attributed the decision to \"political content that goes against its policy.\"",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-18T16:46:29.045Z",
+    "published": "Sun, 18 Oct 2026 16:42:15 +0000",
+    "processed": true,
+    "processedAt": "2026-10-18T16:48:35.767Z"
+  },
+  {
+    "url": "https://www.engadget.com/2286322/why-new-drive-shows-less-storage/",
+    "title": "The reason why your drive shows less storage than you paid for",
+    "description": "Despite showing the storage amount on the box or the spec sheet, your new device might not actually hold as much as it states. Here are the reasons why.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-18T16:46:29.045Z",
+    "published": "Sun, 18 Oct 2026 15:15:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-18T16:48:35.767Z"
+  },
+  {
+    "url": "https://www.engadget.com/2286246/ios-27-carplay-features-not-available-older-iphones/",
+    "title": "iOS 27's new CarPlay features are great, but only these iPhones can actually use them",
+    "description": "With the release of iOS 27, car owners with CarPlay support can enjoy lots of cool new features. However, not all iPhone models are able to support them all.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-18T16:46:29.045Z",
+    "published": "Sun, 18 Oct 2026 14:45:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-18T16:48:35.767Z"
   }
 ]
