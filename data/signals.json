@@ -14174,7 +14174,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-08-03T19:06:56.091Z",
-    "published": "Mon, 03 Aug 2026 14:45:00 GMT"
+    "published": "Mon, 03 Aug 2026 14:45:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-18T19:23:52.742Z"
   },
   {
     "url": "https://www.zdnet.com/article/zimaos-is-for-those-who-want-to-go-local-with-cloud-storage/",
@@ -14183,7 +14185,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-08-03T19:06:56.091Z",
-    "published": "Mon, 03 Aug 2026 13:50:45 GMT"
+    "published": "Mon, 03 Aug 2026 13:50:45 GMT",
+    "processed": true,
+    "processedAt": "2026-10-18T19:23:52.742Z"
   },
   {
     "url": "https://www.zdnet.com/article/what-are-duress-passcodes/",
@@ -82631,5 +82635,38 @@
     "published": "Sun, 18 Oct 2026 14:45:00 +0000",
     "processed": true,
     "processedAt": "2026-10-18T16:48:35.767Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+    "description": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-18T19:21:09.844Z",
+    "published": "Sun, 18 Oct 2026 16:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-18T19:23:52.744Z"
+  },
+  {
+    "url": "https://www.engadget.com/2283988/slate-truck-no-infotainment-over-the-air-sofware-updates/",
+    "title": "Here's how the Slate truck gets software updates without built-in infotainment",
+    "description": "Basically, it&#39;s on you.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-18T19:21:47.167Z",
+    "published": "Sun, 18 Oct 2026 18:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-18T19:23:52.744Z"
+  },
+  {
+    "url": "https://www.engadget.com/2286505/how-modern-foldable-phone-evolved-from-royole-flexpai-to-iphone-duo/",
+    "title": "From the Royole FlexPai to the iPhone Duo: How the modern foldable phone has evolved",
+    "description": "Apple&#39;s iPhone Duo likely forecasts a shift in the market toward foldables becoming more common. But it took a while to get here.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-18T19:21:47.167Z",
+    "published": "Sun, 18 Oct 2026 18:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-18T19:23:52.744Z"
   }
 ]
