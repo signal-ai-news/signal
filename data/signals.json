@@ -83157,5 +83157,114 @@
     "category": "ml",
     "discovered": "2026-10-19T04:30:20.143Z",
     "published": "Mon, 19 Oct 2026 04:12:17 GMT"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
+    "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
+    "description": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks.&#160; The blaze, possibly sparked by lightning, burned across the dry carpet of feather mosses and liche",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-19T10:10:59.273Z",
+    "published": "Mon, 19 Oct 2026 09:22:17 +0000",
+    "processed": true,
+    "processedAt": "2026-10-19T10:13:30.599Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+    "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+    "description": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-19T10:10:59.273Z",
+    "published": "Mon, 19 Oct 2026 09:08:05 +0000",
+    "processed": true,
+    "processedAt": "2026-10-19T10:13:30.599Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
+    "title": "How far can we push computing?",
+    "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, the physicist Richar",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-19T10:10:59.273Z",
+    "published": "Mon, 19 Oct 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-19T10:13:30.599Z"
+  },
+  {
+    "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+    "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+    "description": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-19T10:11:17.128Z",
+    "published": "Mon, 19 Oct 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-19T10:13:30.599Z"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/claude-code-is-3x-faster-thanks-to-a-34-year-old-tool",
+    "title": "Claude Code is 3x Faster, Thanks to a 34 Year Old Tool",
+    "description": "\"Claude Code now gzips the conversation it sends on every turn, so it reaches the model faster,” said Anthropic in a post on X",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-19T10:11:22.394Z",
+    "published": "Mon, 19 Oct 2026 08:30:58 GMT",
+    "processed": true,
+    "processedAt": "2026-10-19T10:13:30.599Z"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/ai-agent-breach-exposes-flaws-in-indias-autonomous-system-defences",
+    "title": "AI Agent Breach Exposes Flaws in India’s Autonomous System Defences",
+    "description": "The CERT-In disclosure has renewed concerns about AI agents interacting iwith sensitive systems such as government portals and financial institutions.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-19T10:11:22.394Z",
+    "published": "Mon, 19 Oct 2026 07:52:00 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/anthropic-to-set-aside-5-stock-for-new-public-benefit-fund",
+    "title": "Anthropic to Set Aside 5% Stock for New Public Benefit Fund",
+    "description": "Anthropic plans to allocate 5% of its shares to a new public benefit fund, which could support initiatives addressing AI-driven job displacement and other societal challenges.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-19T10:11:22.394Z",
+    "published": "Mon, 19 Oct 2026 07:50:02 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/utho-cloud-opens-b300-gpu-bookings-ahead-of-february-2027-rollout",
+    "title": "Utho Cloud Opens B300 GPU Bookings Ahead of February 2027 Rollout",
+    "description": "Utho said its offering will include round-the-clock engineering support, rupee-based pricing, and local data hosting.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-19T10:11:22.394Z",
+    "published": "Mon, 19 Oct 2026 06:43:41 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/birla-ai-labs-launches-yug-1-a-time-series-foundation-model-built-in-india",
+    "title": "Birla AI Labs Launches Yug-1, a Time Series Foundation Model Built in India",
+    "description": "Yug-1 is built to analyse such time-dependent data and generate forecasts across multiple variables.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-19T10:11:22.394Z",
+    "published": "Mon, 19 Oct 2026 06:40:37 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/coursera-brings-project-helix-to-bengaluru-to-focus-on-building-karnatakas-ai-ready-workforce",
+    "title": "Coursera Brings Project Helix to Bengaluru to Focus on Building Karnataka’s AI-Ready Workforce",
+    "description": "The AI-native platform aims to connect employee training with measurable business outcomes, while a new IIMBx partnership will expand access to management education.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-19T10:11:22.394Z",
+    "published": "Mon, 19 Oct 2026 05:09:48 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2289944/google-gemini-4-agents-just-beat-minecraft-with-no-human-intervention/",
+    "title": "Google Gemini 4 agents just beat Minecraft with no human intervention",
+    "description": "Four Gemini 4 Argon agents beat Minecraft&#39;s Ender Dragon with no human intervention by sharing tips, threats and mistakes.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-19T10:11:24.735Z",
+    "published": "Mon, 19 Oct 2026 09:19:19 +0000"
   }
 ]
