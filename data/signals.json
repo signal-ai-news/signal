@@ -83593,5 +83593,339 @@
     "category": "news",
     "discovered": "2026-10-19T17:08:00.234Z",
     "published": "Mon, 19 Oct 2026 16:59:28 +0000"
+  },
+  {
+    "url": "https://huggingface.co/blog/hf-torchneuron",
+    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-10-19T21:42:10.621Z",
+    "published": "Mon, 19 Oct 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-19T21:44:44.733Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+    "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+    "description": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-19T21:42:11.715Z",
+    "published": "Mon, 19 Oct 2026 20:09:24 +0000",
+    "processed": true,
+    "processedAt": "2026-10-19T21:44:44.733Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+    "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+    "description": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-19T21:42:11.715Z",
+    "published": "Mon, 19 Oct 2026 19:28:34 +0000",
+    "processed": true,
+    "processedAt": "2026-10-19T21:44:44.733Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+    "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+    "description": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-19T21:42:11.715Z",
+    "published": "Mon, 19 Oct 2026 19:00:12 +0000",
+    "processed": true,
+    "processedAt": "2026-10-19T21:44:44.733Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+    "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+    "description": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-19T21:42:11.715Z",
+    "published": "Mon, 19 Oct 2026 18:49:04 +0000",
+    "processed": true,
+    "processedAt": "2026-10-19T21:44:44.733Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+    "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+    "description": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-19T21:42:11.715Z",
+    "published": "Mon, 19 Oct 2026 18:37:27 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+    "description": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-19T21:42:11.715Z",
+    "published": "Mon, 19 Oct 2026 12:30:00 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
+    "title": "PSA: Patch your Plex media server before someone hacks it",
+    "description": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-10-19T21:42:12.260Z",
+    "published": "Mon, 19 Oct 2026 19:39:19 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
+    "title": "ReactOS reaches major milestone with NTFS install support",
+    "description": "ReactOS gains NTFS install support with new driver.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-10-19T21:42:12.260Z",
+    "published": "Mon, 19 Oct 2026 18:30:56 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+    "title": "Making the internet better for AI agents might make it worse for everyone else",
+    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like c",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-19T21:42:12.848Z",
+    "published": "Mon, 19 Oct 2026 18:22:47 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+    "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+    "description": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautio",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-19T21:42:12.848Z",
+    "published": "Mon, 19 Oct 2026 17:45:55 +0000"
+  },
+  {
+    "url": "https://goteleport.com/blog/ai-agent-swarm-security-lessons/",
+    "title": "Lessons from Watching an AI Agent Swarm Self-Organize",
+    "description": "Article URL: https://goteleport.com/blog/ai-agent-swarm-security-lessons/\nComments URL: https://news.ycombinator.com/item?id=50158410\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T21:42:18.296Z",
+    "published": "Mon, 19 Oct 2026 21:38:09 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.16555",
+    "title": "AI Discovery in Combinatorics: From Problems to Solutions and Back",
+    "description": "Article URL: https://arxiv.org/abs/2610.16555\nComments URL: https://news.ycombinator.com/item?id=50158361\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T21:42:18.296Z",
+    "published": "Mon, 19 Oct 2026 21:33:28 +0000"
+  },
+  {
+    "url": "https://github.com/ehnruiz/claude-skills",
+    "title": "Show HN: Claude Code skills and hooks that prove a fix's test fails without it",
+    "description": "Article URL: https://github.com/ehnruiz/claude-skills\nComments URL: https://news.ycombinator.com/item?id=50158230\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T21:42:18.296Z",
+    "published": "Mon, 19 Oct 2026 21:20:23 +0000"
+  },
+  {
+    "url": "https://jamiesimon.io/blog/technocapitalist-ai-powered-blues/",
+    "title": "Technocapitalist AI-Powered Blues",
+    "description": "Article URL: https://jamiesimon.io/blog/technocapitalist-ai-powered-blues/\nComments URL: https://news.ycombinator.com/item?id=50158179\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T21:42:18.296Z",
+    "published": "Mon, 19 Oct 2026 21:15:44 +0000"
+  },
+  {
+    "url": "https://quizera.ai/",
+    "title": "Quizera – Create and deploy AI-assisted assessments in minutes",
+    "description": "Article URL: https://quizera.ai/\nComments URL: https://news.ycombinator.com/item?id=50158148\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T21:42:18.296Z",
+    "published": "Mon, 19 Oct 2026 21:12:45 +0000"
+  },
+  {
+    "url": "https://opensource.microsoft.com/blog/2026/10/19/introducing-scope-open-source-evaluation-for-ai-coding-agents/",
+    "title": "Scope: Open-source evaluation for AI coding agents",
+    "description": "Article URL: https://opensource.microsoft.com/blog/2026/10/19/introducing-scope-open-source-evaluation-for-ai-coding-agents/\nComments URL: https://news.ycombinator.com/item?id=50157945\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T21:42:18.296Z",
+    "published": "Mon, 19 Oct 2026 20:57:44 +0000"
+  },
+  {
+    "url": "https://www.skills.sh/tdk-landscape/tdk-skills/tdk-pr-review-buttons",
+    "title": "Show HN: One-click AI PR review buttons (no API keys, no CI)",
+    "description": "Article URL: https://www.skills.sh/tdk-landscape/tdk-skills/tdk-pr-review-buttons\nComments URL: https://news.ycombinator.com/item?id=50157926\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T21:42:18.296Z",
+    "published": "Mon, 19 Oct 2026 20:55:51 +0000"
+  },
+  {
+    "url": "https://www.openmarketsinstitute.org/publications/report-brace-for-impact-protecting-people-and-the-economy-when-the-ai-bubble-burst",
+    "title": "Brace for Impact: Protecting People and the Economy When the AI Bubble Bursts",
+    "description": "Article URL: https://www.openmarketsinstitute.org/publications/report-brace-for-impact-protecting-people-and-the-economy-when-the-ai-bubble-burst\nComments URL: https://news.ycombinator.com/item?id=50157912\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T21:42:18.296Z",
+    "published": "Mon, 19 Oct 2026 20:54:50 +0000"
+  },
+  {
+    "url": "https://www.theatlantic.com/technology/2026/10/blocking-internet-archive-will-not-stop-ai/689065/",
+    "title": "Blocking the Internet Archive Will Not Stop AI",
+    "description": "Article URL: https://www.theatlantic.com/technology/2026/10/blocking-internet-archive-will-not-stop-ai/689065/\nComments URL: https://news.ycombinator.com/item?id=50157858\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T21:42:18.296Z",
+    "published": "Mon, 19 Oct 2026 20:49:29 +0000"
+  },
+  {
+    "url": "https://openai.com/rosalind/",
+    "title": "GPT Rosalind",
+    "description": "Article URL: https://openai.com/rosalind/\nComments URL: https://news.ycombinator.com/item?id=50157667\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T21:42:18.296Z",
+    "published": "Mon, 19 Oct 2026 20:31:13 +0000"
+  },
+  {
+    "url": "https://github.com/tac0mania/taco",
+    "title": "Show HN: Taco - LLM compression that gives the same bytes on every CPU and GPU",
+    "description": "Article URL: https://github.com/tac0mania/taco\nComments URL: https://news.ycombinator.com/item?id=50157620\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T21:42:18.296Z",
+    "published": "Mon, 19 Oct 2026 20:27:20 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50157348",
+    "title": "Time to LLM Post",
+    "description": "My new hobby: \n1) open hn\n2) read headlines and maybe the stories behind them, in order\n3) if I hit one about AI, close HnI'm doing this for a few days and I've yet to reach post #3 any day\n\nComments URL: https://news.ycombinator.com/item?id=50157348\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T21:42:18.296Z",
+    "published": "Mon, 19 Oct 2026 20:04:37 +0000"
+  },
+  {
+    "url": "https://techstrong.it/featured/red-hat-engineering-director-uses-ai-to-tackle-linuxs-undocumented-driver-problem/",
+    "title": "Red Hat Engineering Director Uses AI to Tackle Linux's Undocumented Driver Woes",
+    "description": "Article URL: https://techstrong.it/featured/red-hat-engineering-director-uses-ai-to-tackle-linuxs-undocumented-driver-problem/\nComments URL: https://news.ycombinator.com/item?id=50157257\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T21:42:18.296Z",
+    "published": "Mon, 19 Oct 2026 19:56:58 +0000"
+  },
+  {
+    "url": "https://www.phoronix.com/news/Reading-Page-Cache-WO-Folio-Ref",
+    "title": "Linus Torvalds' AI Code Improved: Performance Wins with Reworked Code",
+    "description": "Article URL: https://www.phoronix.com/news/Reading-Page-Cache-WO-Folio-Ref\nComments URL: https://news.ycombinator.com/item?id=50157158\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T21:42:18.296Z",
+    "published": "Mon, 19 Oct 2026 19:48:58 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50157098",
+    "title": "What is still hard to become good at as AI makes coding easier?",
+    "description": "Since LLMs came, how I build software changed for so many reasons. Since then, I’ve spent most of my time deciding what I want to build, how I want to build it, how I want to give the context, checking the result, seeing if there is an error, and paving the way for the LLM to do the right thing. An",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T21:42:18.296Z",
+    "published": "Mon, 19 Oct 2026 19:43:46 +0000"
+  },
+  {
+    "url": "https://www.wiz.io/blog/anatomy-of-ai-driven-cloud-attacks",
+    "title": "Loud, Fast, and Everywhere: Anatomy of a Real AI-Driven Cloud Attack",
+    "description": "Article URL: https://www.wiz.io/blog/anatomy-of-ai-driven-cloud-attacks\nComments URL: https://news.ycombinator.com/item?id=50156982\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T21:42:18.296Z",
+    "published": "Mon, 19 Oct 2026 19:35:24 +0000"
+  },
+  {
+    "url": "https://maali.app/",
+    "title": "Show HN: Maali – Privacy-first personal finance app with a local AI analyst",
+    "description": "I never felt comfortable signing up for cloud budgeting apps and having them store all of my financial data on their servers. I also didn't find locally hosted options that I liked using.That led me to build Maali (https://maali.app) over the past year. It is currently a Mac and Windows app that le",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T21:42:18.296Z",
+    "published": "Mon, 19 Oct 2026 19:25:03 +0000"
+  },
+  {
+    "url": "https://blog.computationalcomplexity.org/2026/10/ai-math-document-drop-non-tech-thoughts.html",
+    "title": "AI, Math, the Document-Drop. Non-Tech Thoughts",
+    "description": "Article URL: https://blog.computationalcomplexity.org/2026/10/ai-math-document-drop-non-tech-thoughts.html\nComments URL: https://news.ycombinator.com/item?id=50156676\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T21:42:18.296Z",
+    "published": "Mon, 19 Oct 2026 19:14:52 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50156655",
+    "title": "Show HN: Personal AI on your Mac – SuperDuck.AI (beta testers wanted)",
+    "description": "Personal AI has arrived, and it's now as easy as downloading a Mac app.SuperDuck.AI runs the model on your own Mac. Your conversations, your files, your notes stay on your machine. No account, no cloud AI needed. There's an iPhone/iPad app that talks to your Mac over an end-to-end encrypted link, s",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T21:42:18.296Z",
+    "published": "Mon, 19 Oct 2026 19:13:10 +0000"
+  },
+  {
+    "url": "https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927",
+    "title": "Security patches need patches now that attackers have AI",
+    "description": "Article URL: https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927\nComments URL: https://news.ycombinator.com/item?id=50156529\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T21:42:18.296Z",
+    "published": "Mon, 19 Oct 2026 19:03:43 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/",
+    "title": "MiniMax M3.1 Flash shows China's AI price race has no floor in sight",
+    "description": "MiniMax's M3.1 Flash jumps 13 points over its predecessor to 42 on the Artificial Analysis Intelligence Index, at half the cost. It also hits 73.7 percent on the DeepSWE v1.1 coding benchmark for under $0.30 per task, matching Deepseek V4.1 Flash 1017 on both performance and price.\nThe arti",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-19T21:42:25.483Z",
+    "published": "Mon, 19 Oct 2026 18:22:30 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/kling-ai-drops-version-4-0-with-stereo-audio-multilingual-lip-sync-and-a-lighter-flash-variant/",
+    "title": "Kling AI drops version 4.0 with stereo audio, multilingual lip sync, and a lighter Flash variant",
+    "description": "Kling AI has released version 4.0 of its video generator with support for clips up to 30 seconds, ten keyframe images as input, and prompt comprehension expanded to 8,000 tokens. In comparisons with Wan 3.0 and Seedance 2.5, Kling 4.0 holds its own but doesn't pull ahead, which could be an",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-19T21:42:25.483Z",
+    "published": "Mon, 19 Oct 2026 17:36:26 +0000"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
+    "title": "How to continue a GitHub Copilot app session in VS Code",
+    "description": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context.\nThe post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-10-19T21:42:29.725Z",
+    "published": "Mon, 19 Oct 2026 18:47:22 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+    "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+    "description": "A judge ordered Abdulrahman Alfozan to remain in custody, likening the Saudi government’s offer to secure the former OpenAI engineer’s release to a “blank check.”",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-19T21:42:30.949Z",
+    "published": "Mon, 19 Oct 2026 19:49:17 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2287979/is-paid-antivirus-for-pc-waste-of-money/",
+    "title": "Is paid antivirus actually a waste of money for your PC in 2026?",
+    "description": "Subscribing to an antivirus suite kept you safe a long time ago, but they&#39;re much less useful for most people today.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-19T21:42:37.925Z",
+    "published": "Mon, 19 Oct 2026 18:00:00 +0000"
   }
 ]
