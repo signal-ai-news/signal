@@ -82876,5 +82876,78 @@
     "category": "ml",
     "discovered": "2026-10-18T21:45:09.498Z",
     "published": "Sun, 18 Oct 2026 18:20:28 +0000"
+  },
+  {
+    "url": "https://github.com/hybroai/hybro",
+    "title": "Show HN: Hybro – an open interoperability engine for AI agents",
+    "description": "I built an open interoperability engine for AI agents. Connect your favorite agents and harnesses. Work together.Appreciate for any feedback.\n\nComments URL: https://news.ycombinator.com/item?id=50146655\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T00:04:33.484Z",
+    "published": "Sun, 18 Oct 2026 23:41:45 +0000",
+    "processed": true,
+    "processedAt": "2026-10-19T00:07:01.285Z"
+  },
+  {
+    "url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
+    "title": "He Wants AI Benchmarking to Be a Science, Not a Dark Art",
+    "description": "Article URL: https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/\nComments URL: https://news.ycombinator.com/item?id=50146498\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T00:04:33.484Z",
+    "published": "Sun, 18 Oct 2026 23:19:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-19T00:07:01.285Z"
+  },
+  {
+    "url": "https://sergemso.substack.com/p/ai-governance-eight-dimension-audit",
+    "title": "Eight-Dimension Audit for AI Governance: Anthropic, EU, China, UK",
+    "description": "Article URL: https://sergemso.substack.com/p/ai-governance-eight-dimension-audit\nComments URL: https://news.ycombinator.com/item?id=50146229\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T00:04:33.484Z",
+    "published": "Sun, 18 Oct 2026 22:40:23 +0000",
+    "processed": true,
+    "processedAt": "2026-10-19T00:07:01.285Z"
+  },
+  {
+    "url": "https://github.com/ktreharrison/tkmd",
+    "title": "Tkmd – A local CLI task manager and MCP server with AI agent review gates`",
+    "description": "Article URL: https://github.com/ktreharrison/tkmd\nComments URL: https://news.ycombinator.com/item?id=50146130\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T00:04:33.484Z",
+    "published": "Sun, 18 Oct 2026 22:27:30 +0000",
+    "processed": true,
+    "processedAt": "2026-10-19T00:07:01.285Z"
+  },
+  {
+    "url": "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/",
+    "title": "Meta Built a New App with AI-Native Engineering",
+    "description": "Article URL: https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/\nComments URL: https://news.ycombinator.com/item?id=50146128\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T00:04:33.484Z",
+    "published": "Sun, 18 Oct 2026 22:27:23 +0000",
+    "processed": true,
+    "processedAt": "2026-10-19T00:07:01.285Z"
+  },
+  {
+    "url": "https://www.engadget.com/2286802/how-to-use-google-ai-detection-website-synthid/",
+    "title": "How to use Google's SynthID AI detection website",
+    "description": "It&#39;s a simple way to check whether an image has been created or manipulated, with a few caveats.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-19T00:04:55.272Z",
+    "published": "Sun, 18 Oct 2026 23:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2286776/xbox-series-x-users-can-play-playstation-5-games-ps5x-emulator-issues/",
+    "title": "An Xbox Series X can now run PlayStation 5 games, but there's a catch",
+    "description": "The idea of PS5 games running on an Xbox Series X -- made possible by how both consoles were built around closely matched hardware -- is certainly exciting.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-19T00:04:55.272Z",
+    "published": "Sun, 18 Oct 2026 23:00:00 +0000"
   }
 ]
