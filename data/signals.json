@@ -83266,5 +83266,332 @@
     "category": "news",
     "discovered": "2026-10-19T10:11:24.735Z",
     "published": "Mon, 19 Oct 2026 09:19:19 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+    "title": "People are using AI to make their smart TVs dumb again",
+    "description": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-19T17:07:31.244Z",
+    "published": "Mon, 19 Oct 2026 16:13:22 +0000",
+    "processed": true,
+    "processedAt": "2026-10-19T17:10:06.412Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+    "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+    "description": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-19T17:07:31.244Z",
+    "published": "Mon, 19 Oct 2026 15:37:09 +0000",
+    "processed": true,
+    "processedAt": "2026-10-19T17:10:06.412Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
+    "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James Temple In July 2021, a wildfire burned through a forest on the Univ",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-19T17:07:32.394Z",
+    "published": "Mon, 19 Oct 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-19T17:10:06.412Z"
+  },
+  {
+    "url": "https://time.com/article/2026/10/19/who-will-benefit-from-the-ai-revolution-/",
+    "title": "Who Will Benefit from the AI Revolution?",
+    "description": "Article URL: https://time.com/article/2026/10/19/who-will-benefit-from-the-ai-revolution-/\nComments URL: https://news.ycombinator.com/item?id=50154893\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T17:07:37.565Z",
+    "published": "Mon, 19 Oct 2026 17:04:26 +0000",
+    "processed": true,
+    "processedAt": "2026-10-19T17:10:06.412Z"
+  },
+  {
+    "url": "https://spiritroom.app/blog/optimise-mcp-tools-for-agents/",
+    "title": "Claude Code, Codex and OpenCode Find MCP Tools",
+    "description": "Article URL: https://spiritroom.app/blog/optimise-mcp-tools-for-agents/\nComments URL: https://news.ycombinator.com/item?id=50154865\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T17:07:37.565Z",
+    "published": "Mon, 19 Oct 2026 17:02:44 +0000",
+    "processed": true,
+    "processedAt": "2026-10-19T17:10:06.412Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
+    "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
+    "description": "Article URL: https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/\nComments URL: https://news.ycombinator.com/item?id=50154857\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T17:07:37.565Z",
+    "published": "Mon, 19 Oct 2026 17:01:45 +0000",
+    "processed": true,
+    "processedAt": "2026-10-19T17:10:06.412Z"
+  },
+  {
+    "url": "https://github.com/epavanello/earshot",
+    "title": "Show HN: Earshot – talk to Claude Code with AirPods, nod to send",
+    "description": "Article URL: https://github.com/epavanello/earshot\nComments URL: https://news.ycombinator.com/item?id=50154750\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T17:07:37.565Z",
+    "published": "Mon, 19 Oct 2026 16:53:33 +0000"
+  },
+  {
+    "url": "https://claude.ai/directory/bulletlist",
+    "title": "Show HN: An outliner to replace Workflowy and Obsidian – as a Claude connector",
+    "description": "A free outliner with Workflowy's shortcuts and Obsidian's markdown, no backend, and a Claude connector built in. Say \"add that to my notes\" in any conversation and it lands in your outline; ask what you wrote last month and Claude answers from it. No account to try: bulletlist.org/demo\n\nComments UR",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T17:07:37.565Z",
+    "published": "Mon, 19 Oct 2026 16:49:06 +0000"
+  },
+  {
+    "url": "https://jamanetwork.com/channels/introducing-jama-ai",
+    "title": "JAMA AI",
+    "description": "Article URL: https://jamanetwork.com/channels/introducing-jama-ai\nComments URL: https://news.ycombinator.com/item?id=50154652\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T17:07:37.565Z",
+    "published": "Mon, 19 Oct 2026 16:47:08 +0000"
+  },
+  {
+    "url": "https://medium.com/@theopriestley/software-is-eating-the-world-ai-is-eating-software-so-whats-next-706a4d3fdaf6",
+    "title": "Software is eating the world; AI is eating software – so what's next?",
+    "description": "Article URL: https://medium.com/@theopriestley/software-is-eating-the-world-ai-is-eating-software-so-whats-next-706a4d3fdaf6\nComments URL: https://news.ycombinator.com/item?id=50154587\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T17:07:37.565Z",
+    "published": "Mon, 19 Oct 2026 16:42:10 +0000"
+  },
+  {
+    "url": "https://www.wsj.com/tech/ai/ai-runs-into-its-next-big-obstacle-insurance-8b2d4556",
+    "title": "AI Runs into Its Next Big Obstacle: Insurance",
+    "description": "Article URL: https://www.wsj.com/tech/ai/ai-runs-into-its-next-big-obstacle-insurance-8b2d4556\nComments URL: https://news.ycombinator.com/item?id=50154288\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T17:07:37.565Z",
+    "published": "Mon, 19 Oct 2026 16:20:17 +0000"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo",
+    "title": "Microsoft pulls out of UK's largest AI data centre",
+    "description": "Article URL: https://www.bbc.co.uk/news/articles/c9m26kl5y7epo\nComments URL: https://news.ycombinator.com/item?id=50154226\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T17:07:37.565Z",
+    "published": "Mon, 19 Oct 2026 16:15:38 +0000"
+  },
+  {
+    "url": "https://www.furious.com/perfect/artificialintelligencemusic.html",
+    "title": "AI and the future of human made music (2023)",
+    "description": "Article URL: https://www.furious.com/perfect/artificialintelligencemusic.html\nComments URL: https://news.ycombinator.com/item?id=50154170\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T17:07:37.565Z",
+    "published": "Mon, 19 Oct 2026 16:11:17 +0000"
+  },
+  {
+    "url": "http://crawl-check.user-sentry.com/",
+    "title": "Check if AI crawlers are blocked by your robots.txt – free tool",
+    "description": "Article URL: http://crawl-check.user-sentry.com/\nComments URL: https://news.ycombinator.com/item?id=50154131\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T17:07:37.565Z",
+    "published": "Mon, 19 Oct 2026 16:08:01 +0000"
+  },
+  {
+    "url": "https://www.thebignewsletter.com/p/monopoly-round-up-pop-the-damn-ai",
+    "title": "Monopoly Round-Up: Goodbye AI Bubble, Hello Real Economy",
+    "description": "Article URL: https://www.thebignewsletter.com/p/monopoly-round-up-pop-the-damn-ai\nComments URL: https://news.ycombinator.com/item?id=50154101\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T17:07:37.565Z",
+    "published": "Mon, 19 Oct 2026 16:06:22 +0000"
+  },
+  {
+    "url": "https://github.com/mujtabamisri/contextbridge-ai",
+    "title": "Contextbridge-AI",
+    "description": "Article URL: https://github.com/mujtabamisri/contextbridge-ai\nComments URL: https://news.ycombinator.com/item?id=50154061\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T17:07:37.565Z",
+    "published": "Mon, 19 Oct 2026 16:03:31 +0000"
+  },
+  {
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
+    "title": "AI lab offers free plumbing and HVAC repairs across three cities to train robots",
+    "description": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-car",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T17:07:37.565Z",
+    "published": "Mon, 19 Oct 2026 16:03:29 +0000"
+  },
+  {
+    "url": "https://dismodels.com/tutorials",
+    "title": "Distributed AI Models",
+    "description": "Article URL: https://dismodels.com/tutorials\nComments URL: https://news.ycombinator.com/item?id=50154045\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T17:07:37.565Z",
+    "published": "Mon, 19 Oct 2026 16:01:58 +0000"
+  },
+  {
+    "url": "https://agenticmarket.exchange/challenge/",
+    "title": "A $10M prize for whoever builds 1M working AI agents",
+    "description": "Article URL: https://agenticmarket.exchange/challenge/\nComments URL: https://news.ycombinator.com/item?id=50153946\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T17:07:37.565Z",
+    "published": "Mon, 19 Oct 2026 15:54:08 +0000"
+  },
+  {
+    "url": "https://opentokenmini.org/",
+    "title": "Show HN: OpenTokenMini: Monitor and Fix Your AI Spending (FOSS)",
+    "description": "Article URL: https://opentokenmini.org/\nComments URL: https://news.ycombinator.com/item?id=50153820\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T17:07:37.565Z",
+    "published": "Mon, 19 Oct 2026 15:44:01 +0000"
+  },
+  {
+    "url": "https://github.com/orsinium-labs/deslopify",
+    "title": "Deslopify: Analyze a project to find out when it turned into AI slop",
+    "description": "Article URL: https://github.com/orsinium-labs/deslopify\nComments URL: https://news.ycombinator.com/item?id=50153780\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T17:07:37.565Z",
+    "published": "Mon, 19 Oct 2026 15:40:58 +0000"
+  },
+  {
+    "url": "https://www.town.com/operate-at-the-speed-of-ai",
+    "title": "Town raises $108M to help your team operate at the speed of AI",
+    "description": "Article URL: https://www.town.com/operate-at-the-speed-of-ai\nComments URL: https://news.ycombinator.com/item?id=50153708\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-19T17:07:37.565Z",
+    "published": "Mon, 19 Oct 2026 15:34:55 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/welcome-to-google-gemini-4-argon/",
+    "title": "Welcome to Google Gemini 4 Argon",
+    "description": "A million-token output window changes what you can hand a model in one go, and the benchmarks and the bill show who it actually suits.\nThe post Welcome to Google Gemini 4 Argon appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-19T17:07:43.309Z",
+    "published": "Mon, 19 Oct 2026 15:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/can-conformal-prediction-take-you-from-accurate-to-reliable-machine-learning/",
+    "title": "Can Conformal Prediction Take You from Accurate to Reliable Machine Learning?",
+    "description": "ML model adoption doesn't stop with acceptance of accuracy; it starts there.\nThe post Can Conformal Prediction Take You from Accurate to Reliable Machine Learning? appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-19T17:07:43.309Z",
+    "published": "Mon, 19 Oct 2026 14:00:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/ai-harms-and-their-technical-causes/",
+    "title": "AI Harms and Their Technical Causes",
+    "description": "How technical choices can lead to safety failures, and what to do differently\nThe post AI Harms and Their Technical Causes appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-19T17:07:43.309Z",
+    "published": "Mon, 19 Oct 2026 11:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/stripe-says-ai-agent-purchases-are-adding-up-but-it-wont-share-the-numbers/",
+    "title": "Stripe says AI agent purchases are adding up, but it won't share the numbers",
+    "description": "AI agents are increasingly using Stripe's payment service Link to shop for their users, Upstarts Media reports.\nThe article Stripe says AI agent purchases are adding up, but it won&#039;t share the numbers appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-19T17:07:45.308Z",
+    "published": "Mon, 19 Oct 2026 12:51:12 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/the-neocloud-shakeout-is-coming-and-nvidia-has-the-most-to-lose/",
+    "title": "The neocloud shakeout is coming, and Nvidia has the most to lose",
+    "description": "After stock crashes and Firmus's scrapped IPO, industry executives expect only seven to ten of the hundreds of AI cloud providers to survive. CoreWeave lost a quarter of its market value, and Microsoft pulled out of a deal with Nscale for 23,000 Nvidia chips. Nvidia has a lot riding on the",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-19T17:07:45.308Z",
+    "published": "Mon, 19 Oct 2026 11:33:36 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-plans-fund-for-workers-threatened-by-ai-musk-counters-with-spacex-shares-for-children/",
+    "title": "Anthropic plans fund for workers threatened by AI, Musk counters with SpaceX shares for children",
+    "description": "Anthropic wants to put five percent of its shares into a new public benefit fund that will also look into direct payments to workers at risk of losing their jobs. The fund is a company-owned LLC, so Anthropic keeps control of it as a possible IPO approaches. By offering the option of direct",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-19T17:07:45.308Z",
+    "published": "Mon, 19 Oct 2026 11:19:12 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
+    "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot",
+    "description": "Around 80 pages on WhatsApp’s website exposed instructions that were designed for its chatbot, including “WHAT NOT TO SAY.” Meta says a bug caused the issue.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-19T17:07:51.871Z",
+    "published": "Mon, 19 Oct 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/19/minimax-m3-1-flash-release/",
+    "title": "MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input",
+    "description": "MiniMax has released M3.1 Flash, a 428B-parameter MoE model with about 23B active parameters and a 1M-token context. API pricing is $0.15/$0.60 per 1M tokens, with weights due October 23\nThe post MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input appeared first on MarkTechPost",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-19T17:07:54.915Z",
+    "published": "Mon, 19 Oct 2026 12:37:58 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/ltts-secures-203-million-in-large-deals-more-than-half-ai-led",
+    "title": "LTTS Secures $203 Million in Large Deals, More Than Half AI-Led",
+    "description": "L&T Technology Services reported $120 million in annualised Engineering Intelligence revenue as EBIT margins rose to 16.3% in Q2 FY27.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-19T17:07:57.931Z",
+    "published": "Mon, 19 Oct 2026 15:51:00 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/karnatakas-elevenlabs-partnership-irks-indian-voice-ai-startups",
+    "title": "Karnataka’s ElevenLabs Partnership Irks Indian Voice AI Startups",
+    "description": "Indian voice AI startups worry that giving a formal entry to ElevenLabs and Anthropic could deprive domestic companies of any credibility.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-19T17:07:57.931Z",
+    "published": "Mon, 19 Oct 2026 13:24:51 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/can-zero-egress-give-cloudflare-an-edge-in-data-platform-market",
+    "title": "Can Zero Egress Give Cloudflare an Edge in Data Platform Market?",
+    "description": "Cloudflare’s newly launched Basin brings serverless ingestion, storage, cataloguing, and SQL querying together on Apache Iceberg and R2.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-19T17:07:57.931Z",
+    "published": "Mon, 19 Oct 2026 11:30:00 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/the-next-limits-on-ai-may-be-physical",
+    "title": "The Next Limits on AI May Be Physical",
+    "description": "Moby Chief AI Officer Michael Ferrari argues that AI’s expansion will increasingly depend on access to power, water, materials and silicon. Computing could eventually move from land to the ocean and, ultimately, into orbit.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-19T17:07:57.931Z",
+    "published": "Mon, 19 Oct 2026 10:12:10 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2290535/homeland-security-bans-deepseek-use-in-federal-civilian-agencies/",
+    "title": "Homeland Security bans DeepSeek use in federal civilian agencies",
+    "description": "The decision comes a couple of days after the release of Deepseek&#39;s latest AI model.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-19T17:08:00.234Z",
+    "published": "Mon, 19 Oct 2026 16:59:28 +0000"
   }
 ]
