@@ -84162,5 +84162,186 @@
     "category": "news",
     "discovered": "2026-10-20T01:00:41.100Z",
     "published": "Mon, 19 Oct 2026 22:47:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+    "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+    "description": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-20T05:49:28.935Z",
+    "published": "Tue, 20 Oct 2026 01:27:03 +0000",
+    "processed": true,
+    "processedAt": "2026-10-20T05:52:31.705Z"
+  },
+  {
+    "url": "https://textus.catvinci.com/",
+    "title": "Textus – WYSIWYG Markdown editor with built-in AI writing tools",
+    "description": "Article URL: https://textus.catvinci.com/\nComments URL: https://news.ycombinator.com/item?id=50161628\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T05:49:46.991Z",
+    "published": "Tue, 20 Oct 2026 05:16:18 +0000",
+    "processed": true,
+    "processedAt": "2026-10-20T05:52:31.705Z"
+  },
+  {
+    "url": "https://ai-news.jagular.io",
+    "title": "Show HN: Visual heat map of AI news updated hourly",
+    "description": "Article URL: https://ai-news.jagular.io\nComments URL: https://news.ycombinator.com/item?id=50161545\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T05:49:46.991Z",
+    "published": "Tue, 20 Oct 2026 05:03:05 +0000",
+    "processed": true,
+    "processedAt": "2026-10-20T05:52:31.705Z"
+  },
+  {
+    "url": "https://github.com/SRKRZ23/vramkit",
+    "title": "Show HN: Vramkit – measuring LLM weight and KV-cache compression on a MacBook",
+    "description": "Article URL: https://github.com/SRKRZ23/vramkit\nComments URL: https://news.ycombinator.com/item?id=50161416\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T05:49:46.991Z",
+    "published": "Tue, 20 Oct 2026 04:38:34 +0000",
+    "processed": true,
+    "processedAt": "2026-10-20T05:52:31.705Z"
+  },
+  {
+    "url": "https://x.com/BrianRoemmele/article/2112202286441374119",
+    "title": "A Forgotten 1980 Reversible Computer, and the AI That Just Cut Quantum Costs 17x",
+    "description": "Article URL: https://x.com/BrianRoemmele/article/2112202286441374119\nComments URL: https://news.ycombinator.com/item?id=50161200\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T05:49:46.991Z",
+    "published": "Tue, 20 Oct 2026 04:02:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-20T05:52:31.705Z"
+  },
+  {
+    "url": "https://www.businessinsider.com/amazon-220-billion-ai-bet-data-centers-spending-challenges-2026-10",
+    "title": "AWS CFO joked about the financial toll of AI. An internal recording reveals why",
+    "description": "Article URL: https://www.businessinsider.com/amazon-220-billion-ai-bet-data-centers-spending-challenges-2026-10\nComments URL: https://news.ycombinator.com/item?id=50161130\nPoints: 5\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T05:49:46.991Z",
+    "published": "Tue, 20 Oct 2026 03:49:34 +0000"
+  },
+  {
+    "url": "https://textideo.com/director",
+    "title": "Textideo Director – an AI video creation tool for scenes, shots",
+    "description": "Article URL: https://textideo.com/director\nComments URL: https://news.ycombinator.com/item?id=50160927\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T05:49:46.991Z",
+    "published": "Tue, 20 Oct 2026 03:13:03 +0000"
+  },
+  {
+    "url": "https://xtract-production-2efc.up.railway.app/",
+    "title": "Show HN: Search for AI-agents and usefulness score",
+    "description": "We presented this project at innovationintelligencehackathon.com and today we are putting a url out for you to test and give us feedback. after talking to teams building agents that research companies to create outreach, we found few things that are very important to them. one of them is recency. W",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T05:49:46.991Z",
+    "published": "Tue, 20 Oct 2026 02:57:52 +0000"
+  },
+  {
+    "url": "https://appmaker.io/",
+    "title": "Show HN: AppMaker – Build business apps with AI, visual editing and code",
+    "description": "Hi HN,I've been working on AppMaker, a tool for building with AI business apps like CRMs, dashboards, and internal tools. It is NOT a low-code.https://appmaker.ioApps come with a database, authentication, and backend logic, and can be exported as standalone Node.js applications.It's still in beta,",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T05:49:46.991Z",
+    "published": "Tue, 20 Oct 2026 02:55:31 +0000"
+  },
+  {
+    "url": "https://github.com/yanacuti1121/yana-ai",
+    "title": "Show HN: Yana – A local-first, human-governed AI runtime and IDE in Rust",
+    "description": "Article URL: https://github.com/yanacuti1121/yana-ai\nComments URL: https://news.ycombinator.com/item?id=50160774\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T05:49:46.991Z",
+    "published": "Tue, 20 Oct 2026 02:48:40 +0000"
+  },
+  {
+    "url": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
+    "title": "New AI tool can predict cancer survival by a single patient selfie",
+    "description": "Article URL: https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie\nComments URL: https://news.ycombinator.com/item?id=50160395\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T05:49:46.991Z",
+    "published": "Tue, 20 Oct 2026 01:50:20 +0000"
+  },
+  {
+    "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+    "title": "US banning Chinese AI DeepSeek from government agency IT systems",
+    "description": "Article URL: https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/\nComments URL: https://news.ycombinator.com/item?id=50160306\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T05:49:46.991Z",
+    "published": "Tue, 20 Oct 2026 01:37:45 +0000"
+  },
+  {
+    "url": "https://www.politico.com/live-updates/2026/10/19/congress/what-were-watching-01125931",
+    "title": "AI experts to school Congress wanted",
+    "description": "Article URL: https://www.politico.com/live-updates/2026/10/19/congress/what-were-watching-01125931\nComments URL: https://news.ycombinator.com/item?id=50160249\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T05:49:46.991Z",
+    "published": "Tue, 20 Oct 2026 01:28:25 +0000"
+  },
+  {
+    "url": "https://github.com/gojko/lights-on-software-factory",
+    "title": "Show HN: Lights-on software factory boilerplate for Claude Code",
+    "description": "A starting point for running a lights-on software factory with Claude Code. Based on the setup developed for Votito, where the orchestrator reduced token cost compared to bare-bones Claude workflow execution by around 80%.\n\nComments URL: https://news.ycombinator.com/item?id=50160198\nPoints: 8\n# Com",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T05:49:46.991Z",
+    "published": "Tue, 20 Oct 2026 01:22:00 +0000"
+  },
+  {
+    "url": "https://demo.costura.ai/overview",
+    "title": "Show HN: Self-hosted AI spend attribution",
+    "description": "Article URL: https://demo.costura.ai/overview\nComments URL: https://news.ycombinator.com/item?id=50160102\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T05:49:46.991Z",
+    "published": "Tue, 20 Oct 2026 01:08:20 +0000"
+  },
+  {
+    "url": "https://github.com/CosturaAI/costura",
+    "title": "Self-hosted AI spend attribution",
+    "description": "Article URL: https://github.com/CosturaAI/costura\nComments URL: https://news.ycombinator.com/item?id=50160072\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T05:49:46.991Z",
+    "published": "Tue, 20 Oct 2026 01:04:38 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/",
+    "title": "Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second",
+    "description": "Inception released Mercury 3, a diffusion LLM it says runs at 1,068 tokens per second with a 1M-token context. On Inception’s own table it leads GPT-6 Luna and Claude Haiku 5.5 on 8 of 12 benchmarks.\nThe post Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second appeared first on Mar",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-20T05:50:13.191Z",
+    "published": "Tue, 20 Oct 2026 03:32:43 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/",
+    "title": "Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59",
+    "description": "Nace AI released Drex Max, a multimodal decision model that reads text and screenshots and returns calibrated probabilities. Nace reports 67.59 on Decision Index 0.3.2 at $0.06 per 1M input tokens.\nThe post Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-20T05:50:13.191Z",
+    "published": "Tue, 20 Oct 2026 00:03:38 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/deep-tech/anyone-can-make-a-robot-move-few-can-make-it-stop",
+    "title": "Anyone Can Make a Robot Move, Few Can Make It Stop",
+    "description": "Robotic companies are building safeguards for AI-powered robots, but unpredictable environments still challenge industrial deployment.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-20T05:50:22.929Z",
+    "published": "Tue, 20 Oct 2026 03:30:00 GMT"
   }
 ]
