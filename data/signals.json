@@ -84651,5 +84651,339 @@
     "category": "news",
     "discovered": "2026-10-20T15:48:40.608Z",
     "published": "Tue, 20 Oct 2026 12:01:59 +0000"
+  },
+  {
+    "url": "https://openai.com/index/ted-taylor-restaurant",
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "description": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-20T19:56:54.039Z",
+    "published": "Tue, 20 Oct 2026 10:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-20T19:59:32.975Z"
+  },
+  {
+    "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "title": "OpenAI acquires Orchestra Bio",
+    "description": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-20T19:56:54.039Z",
+    "published": "Tue, 20 Oct 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-20T19:59:32.975Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+    "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-10-20T19:56:56.496Z",
+    "published": "Tue, 20 Oct 2026 18:17:47 GMT",
+    "processed": true,
+    "processedAt": "2026-10-20T19:59:32.975Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/allenai/fairstress",
+    "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-10-20T19:56:56.496Z",
+    "published": "Tue, 20 Oct 2026 16:09:19 GMT",
+    "processed": true,
+    "processedAt": "2026-10-20T19:59:32.975Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+    "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+    "description": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-20T19:56:57.720Z",
+    "published": "Tue, 20 Oct 2026 18:38:24 +0000",
+    "processed": true,
+    "processedAt": "2026-10-20T19:59:32.975Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+    "title": "ChatGPT now lets you lock your chats",
+    "description": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-20T19:56:57.720Z",
+    "published": "Tue, 20 Oct 2026 18:36:53 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+    "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+    "description": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-20T19:56:57.720Z",
+    "published": "Tue, 20 Oct 2026 17:55:12 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+    "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+    "description": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-20T19:56:57.720Z",
+    "published": "Tue, 20 Oct 2026 17:12:48 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+    "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+    "description": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-20T19:56:57.720Z",
+    "published": "Tue, 20 Oct 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://www.bolkunov.com/p/on-ai-writing",
+    "title": "On AI writing",
+    "description": "Article URL: https://www.bolkunov.com/p/on-ai-writing\nComments URL: https://news.ycombinator.com/item?id=50171771\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T19:57:04.438Z",
+    "published": "Tue, 20 Oct 2026 19:55:11 +0000"
+  },
+  {
+    "url": "https://michaelwest.com.au/waste-tsunami-water-and-the-hidden-cost-of-ai-data-centres/",
+    "title": "Waste tsunami. Water and the hidden cost of AI data centres",
+    "description": "Article URL: https://michaelwest.com.au/waste-tsunami-water-and-the-hidden-cost-of-ai-data-centres/\nComments URL: https://news.ycombinator.com/item?id=50171570\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T19:57:04.438Z",
+    "published": "Tue, 20 Oct 2026 19:37:54 +0000"
+  },
+  {
+    "url": "https://www.modula9.net",
+    "title": "Show HN: Modula-9, a Wirth-family language designed for auditing AI-written code",
+    "description": "Article URL: https://www.modula9.net\nComments URL: https://news.ycombinator.com/item?id=50171402\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T19:57:04.438Z",
+    "published": "Tue, 20 Oct 2026 19:24:53 +0000"
+  },
+  {
+    "url": "https://danielball.com/notes/ai_image_generation.html",
+    "title": "A practical guide to AI image generation, from diffusion to agents",
+    "description": "Article URL: https://danielball.com/notes/ai_image_generation.html\nComments URL: https://news.ycombinator.com/item?id=50171379\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T19:57:04.438Z",
+    "published": "Tue, 20 Oct 2026 19:22:39 +0000"
+  },
+  {
+    "url": "https://notbotgame.com",
+    "title": "Show HN: A daily game where the goal is to be unpredictable to an LLM",
+    "description": "Article URL: https://notbotgame.com\nComments URL: https://news.ycombinator.com/item?id=50171176\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T19:57:04.438Z",
+    "published": "Tue, 20 Oct 2026 19:08:52 +0000"
+  },
+  {
+    "url": "https://www.anthropic.com/research/redesigning-source-control",
+    "title": "Anthropic redesigned source-control for AI agents",
+    "description": "Article URL: https://www.anthropic.com/research/redesigning-source-control\nComments URL: https://news.ycombinator.com/item?id=50171167\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T19:57:04.438Z",
+    "published": "Tue, 20 Oct 2026 19:08:21 +0000"
+  },
+  {
+    "url": "https://hodokurevisited.com",
+    "title": "HoDoKu Revisited – Classic Java Sudoku Solver Ported to PWA with AI Coaching",
+    "description": "Article URL: https://hodokurevisited.com\nComments URL: https://news.ycombinator.com/item?id=50171006\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T19:57:04.438Z",
+    "published": "Tue, 20 Oct 2026 18:58:23 +0000"
+  },
+  {
+    "url": "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/",
+    "title": "AWS launches open-source Physical AI Toolchain for robotics",
+    "description": "Article URL: https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/\nComments URL: https://news.ycombinator.com/item?id=50170843\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T19:57:04.438Z",
+    "published": "Tue, 20 Oct 2026 18:47:08 +0000"
+  },
+  {
+    "url": "https://what-the-harness.polytomic.com",
+    "title": "Show HN: What the Harness? LLM agent inconsistencies in MCP implementation",
+    "description": "Hi HN,We (Polytomic) noticed that LLM agents (Claude, Codex, Grok, Amp, etc) are inconsistent in their MCP implementations.We made tables inspired by the browser-compatibility tables of yore that list the differences.Hope you find this as useful as we did!\n\nComments URL: https://news.ycombinator.co",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T19:57:04.438Z",
+    "published": "Tue, 20 Oct 2026 18:40:52 +0000"
+  },
+  {
+    "url": "https://civicpivot.blogspot.com/2026/09/healthcares-ai-arms-race-can-agentic-ai.html",
+    "title": "Agentic AI has potential uses in prior-authorization protocols",
+    "description": "Article URL: https://civicpivot.blogspot.com/2026/09/healthcares-ai-arms-race-can-agentic-ai.html\nComments URL: https://news.ycombinator.com/item?id=50170755\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T19:57:04.438Z",
+    "published": "Tue, 20 Oct 2026 18:40:17 +0000"
+  },
+  {
+    "url": "https://dismodels.com/",
+    "title": "Think App store shared revenue but for AI models",
+    "description": "Article URL: https://dismodels.com/\nComments URL: https://news.ycombinator.com/item?id=50170728\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T19:57:04.438Z",
+    "published": "Tue, 20 Oct 2026 18:38:37 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+    "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+    "description": "Article URL: https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/\nComments URL: https://news.ycombinator.com/item?id=50170661\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T19:57:04.438Z",
+    "published": "Tue, 20 Oct 2026 18:34:30 +0000"
+  },
+  {
+    "url": "https://rocus.io/",
+    "title": "Show HN: Rocus: Browser local LLM that organizes your websites, notes and files",
+    "description": "Article URL: https://rocus.io/\nComments URL: https://news.ycombinator.com/item?id=50170581\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T19:57:04.438Z",
+    "published": "Tue, 20 Oct 2026 18:28:16 +0000"
+  },
+  {
+    "url": "https://airflow.apache.org/blog/common-ai-provider-1.0/",
+    "title": "Apache Airflow AI Provider 1.0",
+    "description": "Article URL: https://airflow.apache.org/blog/common-ai-provider-1.0/\nComments URL: https://news.ycombinator.com/item?id=50170494\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T19:57:04.438Z",
+    "published": "Tue, 20 Oct 2026 18:23:24 +0000"
+  },
+  {
+    "url": "https://engineering.monday.com/rebuilding-monday-api-edge-for-agents/",
+    "title": "Rebuilding the monday.com API edge for AI Agents",
+    "description": "Article URL: https://engineering.monday.com/rebuilding-monday-api-edge-for-agents/\nComments URL: https://news.ycombinator.com/item?id=50170482\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T19:57:04.438Z",
+    "published": "Tue, 20 Oct 2026 18:22:18 +0000"
+  },
+  {
+    "url": "https://www.minlit.app/ask",
+    "title": "Minlit – an AI agent that reads CS/ML papers and answers with citations",
+    "description": "Article URL: https://www.minlit.app/ask\nComments URL: https://news.ycombinator.com/item?id=50170441\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T19:57:04.438Z",
+    "published": "Tue, 20 Oct 2026 18:19:25 +0000"
+  },
+  {
+    "url": "https://respawnfirst.com/demands-for-ai-filter-steam-next-fest-ai-slop/",
+    "title": "Demands for AI Filter on Steam Grow as Next Fest Is Flooded with AI Slop",
+    "description": "Article URL: https://respawnfirst.com/demands-for-ai-filter-steam-next-fest-ai-slop/\nComments URL: https://news.ycombinator.com/item?id=50170384\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T19:57:04.438Z",
+    "published": "Tue, 20 Oct 2026 18:15:00 +0000"
+  },
+  {
+    "url": "https://jasonpolak.substack.com/p/skolimowski-ai-and-linus-torvalds",
+    "title": "Skolimowski, AI, and Linus Torvalds",
+    "description": "Article URL: https://jasonpolak.substack.com/p/skolimowski-ai-and-linus-torvalds\nComments URL: https://news.ycombinator.com/item?id=50170343\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T19:57:04.438Z",
+    "published": "Tue, 20 Oct 2026 18:12:02 +0000"
+  },
+  {
+    "url": "https://apnews.com/article/anthropic-openai-public-benefit-fund-fc16c0ff997c8334dcd71e65d726aadc",
+    "title": "Ahead of IPOs, AI companies are sketching plans to share their wealth",
+    "description": "Article URL: https://apnews.com/article/anthropic-openai-public-benefit-fund-fc16c0ff997c8334dcd71e65d726aadc\nComments URL: https://news.ycombinator.com/item?id=50170304\nPoints: 7\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T19:57:04.438Z",
+    "published": "Tue, 20 Oct 2026 18:09:24 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/elevenlabs-releases-two-new-speech-to-speech-models-designed-for-real-time-ai-conversations/",
+    "title": "Elevenlabs releases two new speech-to-speech models designed for real-time AI conversations",
+    "description": "Elevenlabs' new Eleven Realtime speech-to-speech models combine speed and accuracy. The v1 Max variant scores 98.8 percent on the Big Bench Audio benchmark with a 0.57-second response time. Elevenlabs says no model on the Artificial Analysis leaderboard is both faster and more accurate.\nThe",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-20T19:57:11.761Z",
+    "published": "Tue, 20 Oct 2026 19:03:15 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/",
+    "title": "Deepseek open-sources the inference engine that powers its fastest and cheapest AI model",
+    "description": "Deepseek is open-sourcing DeepInfer, the inference framework behind its fast V4.1-Flash model. The vLLM-based system cuts compute costs and energy use when running AI models. The release adds more pricing pressure on Western providers like OpenAI and Anthropic.\nThe article Deepseek open-sou",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-20T19:57:11.761Z",
+    "published": "Tue, 20 Oct 2026 18:56:15 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time/",
+    "title": "Mistral AI launches Voxtral 3, a full voice agent stack that listens, thinks, and talks in real time",
+    "description": "Mistral AI launched Voxtral 3, a new family of language models built for real-time voice agents. The system combines speech-to-text, text-to-speech, and a voice agent SDK, supports more than 50 languages, and lets agents tap into external tools during live conversations. It can run on your",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-20T19:57:11.761Z",
+    "published": "Tue, 20 Oct 2026 17:17:55 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/sam-altman-reportedly-pitched-three-endgames-for-ai-safety-one-involving-a-single-firm-melting-everyone-elses-gpus/",
+    "title": "Sam Altman reportedly pitched three endgames for AI safety, one involving a single firm melting everyone else's GPUs",
+    "description": "OpenAI CEO Sam Altman laid out three paths to safe AI in an internal presentation: an international watchdog modeled after the IAEA, a merger of the major labs into one entity, or a single company so powerful it could shut down everyone else's compute. He called the last option \"terrible.\"",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-20T19:57:11.761Z",
+    "published": "Tue, 20 Oct 2026 17:00:59 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-says-gpt-6-is-much-better-with-legacy-programming-languages-such-as-cobol-and-fortran/",
+    "title": "OpenAI says GPT-6 is much better with legacy programming languages such as COBOL and Fortran",
+    "description": "OpenAI improved its latest models for low-resource programming languages like COBOL, Fortran, and Visual Basic. On the new MultiLangBench, GPT-6 Astra hits an 87.4 percent test pass rate across 20 languages, up from about 38 percent for GPT-5.6 Terra. For COBOL migration specifically, GPT-6",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-20T19:57:11.761Z",
+    "published": "Tue, 20 Oct 2026 16:40:29 +0000"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
+    "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+    "description": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results.\nThe post How 3 Java Champions are using GitHub Copilot for increased productivity appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-10-20T19:57:16.802Z",
+    "published": "Tue, 20 Oct 2026 16:05:03 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
+    "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
+    "description": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-20T19:57:18.141Z",
+    "published": "Tue, 20 Oct 2026 17:41:58 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2291954/spotify-is-dancing-around-its-ai-slop-and-spam-problem/",
+    "title": "Spotify is dancing around its AI 'slop and spam' problem",
+    "description": "The company said it removed 50 million such tracks from recommendations, but hasn&#39;t necessarily wiped them entirely.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-20T19:57:26.836Z",
+    "published": "Tue, 20 Oct 2026 17:11:26 +0000"
   }
 ]
