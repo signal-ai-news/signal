@@ -83927,5 +83927,240 @@
     "category": "news",
     "discovered": "2026-10-19T21:42:37.925Z",
     "published": "Mon, 19 Oct 2026 18:00:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/low-resource-programming-languages",
+    "title": "Advancing coding in low‑resource programming languages",
+    "description": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-20T01:00:00.040Z",
+    "published": "Mon, 19 Oct 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-20T01:02:46.390Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+    "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+    "description": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-20T01:00:03.807Z",
+    "published": "Mon, 19 Oct 2026 23:39:38 +0000",
+    "processed": true,
+    "processedAt": "2026-10-20T01:02:46.390Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+    "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+    "description": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, H",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-20T01:00:03.807Z",
+    "published": "Mon, 19 Oct 2026 22:49:27 +0000",
+    "processed": true,
+    "processedAt": "2026-10-20T01:02:46.390Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+    "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+    "description": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-20T01:00:03.807Z",
+    "published": "Mon, 19 Oct 2026 22:04:28 +0000",
+    "processed": true,
+    "processedAt": "2026-10-20T01:02:46.390Z"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/speech-to-text-for-content-creators",
+    "title": "Speech to text for content creators: A workflow guide for captions and repurposing",
+    "description": "See how speech to text for content creators improves their workflows and accelerates production across captions, show notes, clips, LLM analysis, and more",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-10-20T01:00:07.063Z",
+    "published": "Mon, 19 Oct 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-20T01:02:46.390Z"
+  },
+  {
+    "url": "https://spinozalabs.ai/news/introducing-vortex-code",
+    "title": "Vortex Code: one prompt, an AI software team that ships",
+    "description": "Article URL: https://spinozalabs.ai/news/introducing-vortex-code\nComments URL: https://news.ycombinator.com/item?id=50159911\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T01:00:16.397Z",
+    "published": "Tue, 20 Oct 2026 00:40:56 +0000"
+  },
+  {
+    "url": "https://mojodojo.io/ai-discovery-index",
+    "title": "AI Discovery Index",
+    "description": "Article URL: https://mojodojo.io/ai-discovery-index\nComments URL: https://news.ycombinator.com/item?id=50159896\nPoints: 8\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T01:00:16.397Z",
+    "published": "Tue, 20 Oct 2026 00:38:55 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50159886",
+    "title": "Ask HN: What Have You Built Privately with AI That You'd Like to Share?",
+    "description": "An idea has circulated that a lot of us are just privately building software for our own projects without sharing the buildWe could however share the ideas of what we're building so that other people could build sometime similar to fill their own needs or the ideas could be incorporated in to other",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T01:00:16.397Z",
+    "published": "Tue, 20 Oct 2026 00:37:45 +0000"
+  },
+  {
+    "url": "https://www.videogameschronicle.com/news/one-of-the-biggest-game-decompilation-sites-is-closing-because-ai-has-broken-the-community-aspect/",
+    "title": "Game decompilation site is closing because AI has 'broken the community aspect'",
+    "description": "Article URL: https://www.videogameschronicle.com/news/one-of-the-biggest-game-decompilation-sites-is-closing-because-ai-has-broken-the-community-aspect/\nComments URL: https://news.ycombinator.com/item?id=50159754\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T01:00:16.397Z",
+    "published": "Tue, 20 Oct 2026 00:17:11 +0000"
+  },
+  {
+    "url": "https://skymizer.ai/products/htx301/",
+    "title": "Skymizer HTX301 – IP Licensable AI Accelerator Card with 384GB for 700B Models",
+    "description": "Article URL: https://skymizer.ai/products/htx301/\nComments URL: https://news.ycombinator.com/item?id=50159734\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T01:00:16.397Z",
+    "published": "Tue, 20 Oct 2026 00:15:09 +0000"
+  },
+  {
+    "url": "https://github.com/SeeRay11/OpenFlow",
+    "title": "Show HN: OpenFlow – AI Agent Workflow Builder",
+    "description": "Article URL: https://github.com/SeeRay11/OpenFlow\nComments URL: https://news.ycombinator.com/item?id=50159710\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T01:00:16.397Z",
+    "published": "Tue, 20 Oct 2026 00:12:44 +0000"
+  },
+  {
+    "url": "https://chai-ui.com/",
+    "title": "Show HN: Chai-UI – A design system to generative AI apps",
+    "description": "Article URL: https://chai-ui.com/\nComments URL: https://news.ycombinator.com/item?id=50159662\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T01:00:16.397Z",
+    "published": "Tue, 20 Oct 2026 00:06:14 +0000"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/cjkgeq0k1wevo",
+    "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+    "description": "Article URL: https://www.bbc.com/news/articles/cjkgeq0k1wevo\nComments URL: https://news.ycombinator.com/item?id=50159597\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T01:00:16.397Z",
+    "published": "Mon, 19 Oct 2026 23:58:34 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50159540",
+    "title": "Ask HN: Bring-your-own-AI hardware",
+    "description": "Wondering if you guys find any interesting bring-your-own AI hardware.Due to recent development in AI, people can easily develop their own \"brain\" for any hardware. I am curious to find out those hardware that are sold without software, or can be easily modify.\n\nComments URL: https://news.ycombinat",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T01:00:16.397Z",
+    "published": "Mon, 19 Oct 2026 23:49:59 +0000"
+  },
+  {
+    "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+    "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+    "description": "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions\nComments URL: https://news.ycombinator.com/item?id=50159341\nPoints: 8\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T01:00:16.397Z",
+    "published": "Mon, 19 Oct 2026 23:22:18 +0000"
+  },
+  {
+    "url": "https://www.economist.com/science-and-technology/2026/10/12/ais-transformation-of-mathematics-is-a-turning-point-for-science",
+    "title": "AI's transformation of mathematics is a turning point for science",
+    "description": "Article URL: https://www.economist.com/science-and-technology/2026/10/12/ais-transformation-of-mathematics-is-a-turning-point-for-science\nComments URL: https://news.ycombinator.com/item?id=50159281\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T01:00:16.397Z",
+    "published": "Mon, 19 Oct 2026 23:14:38 +0000"
+  },
+  {
+    "url": "https://mediationbench.com/",
+    "title": "Show HN: MediationBench – testing AI mediators in 62 simulated conflicts",
+    "description": "Article URL: https://mediationbench.com/\nComments URL: https://news.ycombinator.com/item?id=50159226\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T01:00:16.397Z",
+    "published": "Mon, 19 Oct 2026 23:06:41 +0000"
+  },
+  {
+    "url": "https://news.harvard.edu/gazette/story/2026/10/is-it-already-too-late-to-reduce-catastrophic-ai-risk/",
+    "title": "Is it too late to reduce catastrophic AI risk?",
+    "description": "Article URL: https://news.harvard.edu/gazette/story/2026/10/is-it-already-too-late-to-reduce-catastrophic-ai-risk/\nComments URL: https://news.ycombinator.com/item?id=50159213\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T01:00:16.397Z",
+    "published": "Mon, 19 Oct 2026 23:05:22 +0000"
+  },
+  {
+    "url": "https://www.nature.com/articles/d41586-026-03313-7",
+    "title": "Why AI is not conscious and perhaps never will be",
+    "description": "Article URL: https://www.nature.com/articles/d41586-026-03313-7\nComments URL: https://news.ycombinator.com/item?id=50159110\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T01:00:16.397Z",
+    "published": "Mon, 19 Oct 2026 22:52:13 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.19264",
+    "title": "Profiling the Attack Surface of AI Agent Skills",
+    "description": "Article URL: https://arxiv.org/abs/2610.19264\nComments URL: https://news.ycombinator.com/item?id=50158954\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T01:00:16.397Z",
+    "published": "Mon, 19 Oct 2026 22:33:35 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.26492",
+    "title": "Elias in the Lighthouse, Again? Diagnosing Low Diversity in LLM Stories",
+    "description": "Article URL: https://arxiv.org/abs/2605.26492\nComments URL: https://news.ycombinator.com/item?id=50158946\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T01:00:16.397Z",
+    "published": "Mon, 19 Oct 2026 22:33:04 +0000"
+  },
+  {
+    "url": "https://www.bloomberg.com/opinion/newsletters/2026-10-19/universal-basic-ai",
+    "title": "Universal Basic AI",
+    "description": "Article URL: https://www.bloomberg.com/opinion/newsletters/2026-10-19/universal-basic-ai\nComments URL: https://news.ycombinator.com/item?id=50158824\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T01:00:16.397Z",
+    "published": "Mon, 19 Oct 2026 22:19:37 +0000"
+  },
+  {
+    "url": "https://www.induction.ai/blog/caching-in-gemini-4-argon",
+    "title": "Caching in Gemini 4 Argon has some quirks",
+    "description": "Article URL: https://www.induction.ai/blog/caching-in-gemini-4-argon\nComments URL: https://news.ycombinator.com/item?id=50158777\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T01:00:16.397Z",
+    "published": "Mon, 19 Oct 2026 22:14:28 +0000"
+  },
+  {
+    "url": "https://www.runtype.com/blog/jev-in-the-group-chat",
+    "title": "Jev Helps Multiplayer AI",
+    "description": "Article URL: https://www.runtype.com/blog/jev-in-the-group-chat\nComments URL: https://news.ycombinator.com/item?id=50158770\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-20T01:00:16.397Z",
+    "published": "Mon, 19 Oct 2026 22:13:54 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2291188/meta-tweaks-its-new-terms-of-service-after-backlash-against-scraping/",
+    "title": "Meta tweaks its new terms of service after backlash against scraping",
+    "description": "The changes have alarmed publishers and others with business accounts.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-20T01:00:41.100Z",
+    "published": "Mon, 19 Oct 2026 22:47:00 +0000"
   }
 ]
