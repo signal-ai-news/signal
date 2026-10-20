@@ -84425,5 +84425,231 @@
     "category": "ml",
     "discovered": "2026-10-20T11:18:56.978Z",
     "published": "Tue, 20 Oct 2026 10:30:00 GMT"
+  },
+  {
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+    "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-10-20T15:48:10.160Z",
+    "published": "Tue, 20 Oct 2026 15:19:48 GMT",
+    "processed": true,
+    "processedAt": "2026-10-20T15:50:46.990Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/hf-torchtpu",
+    "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-10-20T15:48:10.160Z",
+    "published": "Tue, 20 Oct 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-20T15:50:46.990Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+    "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-10-20T15:48:10.160Z",
+    "published": "Tue, 20 Oct 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-20T15:50:46.990Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+    "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+    "description": "Figma said it plans to support as many standards as possible without exposing all of its data",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-20T15:48:11.305Z",
+    "published": "Tue, 20 Oct 2026 14:13:32 +0000",
+    "processed": true,
+    "processedAt": "2026-10-20T15:50:46.990Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+    "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+    "description": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-20T15:48:11.305Z",
+    "published": "Tue, 20 Oct 2026 13:07:24 +0000",
+    "processed": true,
+    "processedAt": "2026-10-20T15:50:46.990Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+    "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+    "description": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-20T15:48:11.305Z",
+    "published": "Tue, 20 Oct 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+    "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+    "description": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-20T15:48:11.305Z",
+    "published": "Tue, 20 Oct 2026 11:00:00 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+    "title": "The new economics of enterprise AI",
+    "description": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from &#8220;can we use it?&#",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-20T15:48:12.625Z",
+    "published": "Tue, 20 Oct 2026 15:20:25 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
+    "title": "The Download: the claim shaking up AI and the internet’s agent problem",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We were looking at it wrong”: The explosive claim that’s upended the AI world “I think I have good news about the nature of neural networks.” With th",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-20T15:48:12.625Z",
+    "published": "Tue, 20 Oct 2026 12:10:00 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+    "title": "AI adoption by industry shows what other sectors can learn",
+    "description": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts curre",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-20T15:48:12.625Z",
+    "published": "Tue, 20 Oct 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/realtime",
+    "title": "Introducing Eleven Realtime: a simpler way to build natural voice agents",
+    "description": "Eleven Realtime is a new class of Speech to Speech models for voice agents that sound natural. Available in ElevenAgents and the Realtime API.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-10-20T15:48:14.824Z",
+    "published": "Tue, 20 Oct 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/synthetic-to-real-transfer-with-frozen-dinov3-features/",
+    "title": "Synthetic-to-Real Transfer with Frozen DINOv3 Features",
+    "description": "Training models on procedurally generated datasets for card detection and segmentation\nThe post Synthetic-to-Real Transfer with Frozen DINOv3 Features appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-20T15:48:23.300Z",
+    "published": "Tue, 20 Oct 2026 15:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/skill-or-mcp-server-ask-what-stops-the-llm-from-disobeying/",
+    "title": "Skill or MCP Server? Ask What Stops the LLM From Disobeying",
+    "description": "Towards Spec-Driven Test Automation, Part 4\nThe post Skill or MCP Server? Ask What Stops the LLM From Disobeying appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-20T15:48:23.300Z",
+    "published": "Tue, 20 Oct 2026 14:00:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/the-hidden-cost-of-llm-routing-why-switching-models-costs-more/",
+    "title": "The Hidden Cost of LLM Routing: Why Switching Models Costs More",
+    "description": "I tested LLM routing to understand why switching models mid-session can erase the savings promised by cheaper inference\nThe post The Hidden Cost of LLM Routing: Why Switching Models Costs More appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-20T15:48:23.300Z",
+    "published": "Tue, 20 Oct 2026 12:30:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons/",
+    "title": "Army Cyber Command's ECHOTRIBBLE would turn AI agents into self-spreading cyberweapons",
+    "description": "The Army Cyber Command is developing AI agents that move through other networks like a computer worm and \"neutralize\" targets, according to internal documents. The program, codenamed ECHOTRIBBLE, is designed to reach even air-gapped systems with no network connection and run with minimal hu",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-20T15:48:25.097Z",
+    "published": "Tue, 20 Oct 2026 12:32:56 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/cloudflares-clairic-pulls-data-from-documents-faster-and-cheaper-than-llms/",
+    "title": "Cloudflare's Clairic pulls data from documents faster and cheaper than LLMs",
+    "description": "Cloudflare has released an AI model it says pulls data from documents faster and more cheaply than large language models.\nThe article Cloudflare&#039;s Clairic pulls data from documents faster and cheaper than LLMs appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-20T15:48:25.097Z",
+    "published": "Tue, 20 Oct 2026 12:04:56 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/us-bans-deepseek-technology-across-federal-civilian-agencies/",
+    "title": "US bans Deepseek technology across federal civilian agencies",
+    "description": "The US Department of Homeland Security has banned federal civilian agencies from using AI technology from Chinese lab Deepseek.\nThe article US bans Deepseek technology across federal civilian agencies appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-20T15:48:25.097Z",
+    "published": "Tue, 20 Oct 2026 11:34:54 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
+    "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
+    "description": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-20T15:48:31.478Z",
+    "published": "Tue, 20 Oct 2026 15:07:43 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/20/deepseek-deepinfer-open-source-inference-framework/",
+    "title": "DeepSeek Open-Sources DeepInfer, the Inference Framework Behind DeepSeek-V4.1-Flash",
+    "description": "DeepSeek has open-sourced DeepInfer, the Apache 2.0 inference framework that serves DeepSeek-V4.1-Flash in production. It targets NVIDIA SM100 GPUs and Huawei Ascend 950 NPUs, and ships offline inference only.\nThe post DeepSeek Open-Sources DeepInfer, the Inference Framework Behind DeepSeek-V4.1-Fla",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-20T15:48:33.322Z",
+    "published": "Tue, 20 Oct 2026 14:31:59 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2291754/perplexity-makes-it-easier-to-run-ai-workflows-entirely-on-your-mac/",
+    "title": "Perplexity makes it easier to run AI workflows entirely on your own Mac",
+    "description": "A Mac with at least 36GB of RAM can now run Perplexity AI workflows locally.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-20T15:48:40.608Z",
+    "published": "Tue, 20 Oct 2026 15:42:45 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2289029/antigravity-a1-drone-follow-me-bundle-hands-on/",
+    "title": "Antigravity's Follow Me bundle adds accurate tracking and gesture controls to its A1 drone",
+    "description": "Antigravity&#39;s watch and ring remote are available as an accessory bundle or as a full kit with the A1 drone.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-20T15:48:40.608Z",
+    "published": "Tue, 20 Oct 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2291486/uk-antitrust-regulartor-wants-apple-to-open-up-iphone-nfc-access/",
+    "title": "UK antitrust regulator wants Apple to open up iPhone NFC access",
+    "description": "The UK is taking aim at Apple&#39;s near-monopoly on contactless NFC smartphone payments.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-20T15:48:40.608Z",
+    "published": "Tue, 20 Oct 2026 12:42:27 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2288598/google-one-useful-features/",
+    "title": "3+ useful features included with Google One that people ignore",
+    "description": "Google One plans originally started off as a way to expand the storage limits for files and photos. Now, they come with more features and additional perks.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-20T15:48:40.608Z",
+    "published": "Tue, 20 Oct 2026 12:15:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2291457/openai-says-its-models-can-translate-cobol/",
+    "title": "OpenAI says its models can help banks migrate from old COBOL programs",
+    "description": "OpenAI says its models now come with better COBOL capabilities.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-20T15:48:40.608Z",
+    "published": "Tue, 20 Oct 2026 12:01:59 +0000"
   }
 ]
