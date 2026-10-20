@@ -84343,5 +84343,87 @@
     "category": "ml",
     "discovered": "2026-10-20T05:50:22.929Z",
     "published": "Tue, 20 Oct 2026 03:30:00 GMT"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+    "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+    "description": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst&#8217;s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds fo",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-20T11:18:34.043Z",
+    "published": "Tue, 20 Oct 2026 11:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-20T11:21:05.236Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/",
+    "title": "How to study a swiftly melting climate disaster",
+    "description": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska’s Denali National Park and then unclipped the hollow barrel from the end of the bit.&#160; He knelt in front of a blue tarp, lined the barrel up wit",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-20T11:18:35.197Z",
+    "published": "Tue, 20 Oct 2026 10:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-20T11:21:05.236Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+    "title": "A visit to Samsung’s massive new semiconductor hub",
+    "description": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate ar",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-20T11:18:35.197Z",
+    "published": "Tue, 20 Oct 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-20T11:21:05.236Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/",
+    "title": "These startups hope “blended” food will cut our appetite for red meat",
+    "description": "In the fall of 2025, Jeff Dodge set up a six-foot folding table in the cafeteria of Cane Bay High School in Summerville, South Carolina, to conduct a taste test. When the first rush of about 150 hungry students hit, he was waiting with slow cookers filled with steaming marinara sauce and meatballs.&",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-20T11:18:35.197Z",
+    "published": "Tue, 20 Oct 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-20T11:21:05.236Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/whats-in-the-box-distinguishing-acceptable-traces-from-unacceptable-ones/",
+    "title": "What's in the Box? Distinguishing Acceptable Traces from Unacceptable Ones",
+    "description": "Turn scattered requirements into deployable agents\nThe post What's in the Box? Distinguishing Acceptable Traces from Unacceptable Ones appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-20T11:18:46.161Z",
+    "published": "Tue, 20 Oct 2026 11:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-20T11:21:05.236Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/20/exa-3-0-search-api-lite/",
+    "title": "Exa 3.0 Search API Tops Perplexity, Brave and Parallel on 8 Benchmarks",
+    "description": "Exa 3.0 is a search API upgrade from Exa. It adds a larger embedding model, Exa Lite at $4 per 1,000 requests, and Dynamic Highlights, and leads 8 benchmarks Exa ran itself.\nThe post Exa 3.0 Search API Tops Perplexity, Brave and Parallel on 8 Benchmarks appeared first on MarkTechPost.",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-20T11:18:54.704Z",
+    "published": "Tue, 20 Oct 2026 08:12:21 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/20/cloudflare-releases-clairic-a-system-one-extraction-model-on-workers-ai/",
+    "title": "Cloudflare Releases Clairic, a System One Extraction Model on Workers AI",
+    "description": "Cloudflare has previewed Clairic, a System One extraction model on Workers AI that returns typed values with confidence scores in one forward pass. It costs $0.10 per million input tokens and charges nothing for output.\nThe post Cloudflare Releases Clairic, a System One Extraction Model on Workers A",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-20T11:18:54.704Z",
+    "published": "Tue, 20 Oct 2026 07:45:41 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/why-enterprise-ai-prototypes-break-in-production",
+    "title": "Why Enterprise AI Prototypes Break in Production",
+    "description": "At Cypher 2026, Tiger Analytics executives explained why moving generative AI from a working prototype to production requires more than getting the model to produce the right answer.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-20T11:18:56.978Z",
+    "published": "Tue, 20 Oct 2026 10:30:00 GMT"
   }
 ]
