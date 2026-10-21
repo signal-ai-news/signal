@@ -85881,5 +85881,96 @@
     "category": "news",
     "discovered": "2026-10-21T17:35:30.251Z",
     "published": "Wed, 21 Oct 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/att-legal",
+    "title": "How AT&T is rethinking in-house legal work with OpenAI",
+    "description": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-21T20:51:33.743Z",
+    "published": "Wed, 21 Oct 2026 17:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-21T20:54:08.655Z"
+  },
+  {
+    "url": "https://openai.com/index/empowering-cyber-defenders",
+    "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+    "description": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-21T20:51:33.743Z",
+    "published": "Wed, 21 Oct 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-21T20:54:08.655Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+    "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-10-21T20:51:35.877Z",
+    "published": "Wed, 21 Oct 2026 18:26:30 GMT",
+    "processed": true,
+    "processedAt": "2026-10-21T20:54:08.655Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+    "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-10-21T20:51:35.877Z",
+    "published": "Wed, 21 Oct 2026 17:35:36 GMT",
+    "processed": true,
+    "processedAt": "2026-10-21T20:54:08.655Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+    "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+    "description": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-21T20:51:37.000Z",
+    "published": "Wed, 21 Oct 2026 20:27:41 +0000",
+    "processed": true,
+    "processedAt": "2026-10-21T20:54:08.655Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+    "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+    "description": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-21T20:51:37.000Z",
+    "published": "Wed, 21 Oct 2026 19:30:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openais-gpt-5-6-sol-and-gemini-4-argon-discovered-the-critical-php-vulnerability-affecting-millions-of-websites/",
+    "title": "OpenAI's GPT-5.6 Sol and Google's Gemini 4 Argon found critical PHP flaw affecting millions of websites",
+    "description": "OpenAI's GPT-5.6 Sol discovered a critical PHP vulnerability as part of the Patch the Planet initiative that could affect millions of websites. Security firm Wiz independently found the same flaw using Google's Gemini 4 Argon. OpenAI warns that the same AI capabilities that find vulnerabili",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-21T20:51:50.455Z",
+    "published": "Wed, 21 Oct 2026 19:45:01 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/",
+    "title": "Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three",
+    "description": "Google Cloud is the first major cloud provider to offer Gemini, Claude, and OpenAI's GPTs on a single platform. At launch, GPT-6 Astra, GPT-6.1 Sol, and GPT-6 Luna are available as a private preview for enterprise customers.\nThe article Google Cloud now offers OpenAI models alongside Gemini",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-21T20:51:50.455Z",
+    "published": "Wed, 21 Oct 2026 17:44:22 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2293519/xbox-is-previewing-paid-cloud-gaming-for-players-without-game-pass/",
+    "title": "Xbox is previewing paid cloud gaming for players without Game Pass",
+    "description": "Here come new rate limits.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-21T20:52:03.060Z",
+    "published": "Wed, 21 Oct 2026 19:52:50 +0000"
   }
 ]
