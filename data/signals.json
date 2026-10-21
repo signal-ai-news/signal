@@ -85610,5 +85610,276 @@
     "category": "news",
     "discovered": "2026-10-21T12:14:37.827Z",
     "published": "Wed, 21 Oct 2026 08:40:59 +0000"
+  },
+  {
+    "url": "https://openai.com/index/openai-models-google-cloud",
+    "title": "OpenAI models are coming to Google Cloud",
+    "description": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-21T17:34:58.654Z",
+    "published": "Wed, 21 Oct 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-21T17:37:35.694Z"
+  },
+  {
+    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+    "description": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-21T17:34:58.654Z",
+    "published": "Wed, 21 Oct 2026 07:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-21T17:37:35.694Z"
+  },
+  {
+    "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+    "description": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-21T17:34:58.654Z",
+    "published": "Wed, 21 Oct 2026 13:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-21T17:37:35.694Z"
+  },
+  {
+    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+    "title": "Using thousands of AI agents to uncover new leads in biological data",
+    "description": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-21T17:34:58.654Z",
+    "published": "Wed, 21 Oct 2026 04:50:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-21T17:37:35.694Z"
+  },
+  {
+    "url": "https://openai.com/index/building-chatgpt-ad-stack",
+    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+    "description": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-21T17:34:58.654Z",
+    "published": "Wed, 21 Oct 2026 07:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-21T17:37:35.694Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+    "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-10-21T17:35:00.940Z",
+    "published": "Wed, 21 Oct 2026 16:04:43 GMT"
+  },
+  {
+    "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+    "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-10-21T17:35:00.940Z",
+    "published": "Wed, 21 Oct 2026 12:51:24 GMT"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+    "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+    "description": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-21T17:35:02.080Z",
+    "published": "Wed, 21 Oct 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
+    "title": "The Download: introducing the Impossible issue",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas. Why? Becau",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-21T17:35:03.252Z",
+    "published": "Wed, 21 Oct 2026 12:10:00 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/realtime-translation",
+    "title": "Talk to anyone, in any language, in realtime",
+    "description": "Deliver live, expressive voice translation in more than 90 languages. Available for enterprises via ElevenAPI",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-10-21T17:35:05.509Z",
+    "published": "Wed, 21 Oct 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/decision-models-in-action-build-a-hybrid-llm-workflow/",
+    "title": "Decision Models in Action: Build a Hybrid LLM Workflow",
+    "description": "A hands-on guide to building browser automation by combining decision models with LLMs.\nThe post Decision Models in Action: Build a Hybrid LLM Workflow appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-21T17:35:15.122Z",
+    "published": "Wed, 21 Oct 2026 15:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-turn-long-running-python-simulations-into-a-self-service-platform/",
+    "title": "How to Turn Long-Running Python Simulations Into a Self-Service Platform",
+    "description": "What I learned about queues, failure recovery, and reproducibility while building asynchronous workloads on AWS\nThe post How to Turn Long-Running Python Simulations Into a Self-Service Platform appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-21T17:35:15.122Z",
+    "published": "Wed, 21 Oct 2026 14:00:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/spatial-reasoning-in-ai-models-taken-apart/",
+    "title": "Spatial Reasoning in AI Models, Taken Apart",
+    "description": "Grid puzzles that people solve almost perfectly show where language and vision models still break\nThe post Spatial Reasoning in AI Models, Taken Apart appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-21T17:35:15.122Z",
+    "published": "Wed, 21 Oct 2026 12:30:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/inceptions-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-claude-haiku-5-5-at-a-fraction-of-the-wait/",
+    "title": "Inception's Mercury 3 diffusion model claims to beat GPT-6 Luna and Claude Haiku 5.5 at a fraction of the wait",
+    "description": "Inception says Mercury 3 is the most capable diffusion language model released so far. The company claims it runs four to eight times faster than GPT-6 Luna and Claude Haiku 5.5 and beats both in eight of 12 benchmarks. There are no independent tests yet.\nThe article Inception&#039;s Mercur",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-21T17:35:16.694Z",
+    "published": "Wed, 21 Oct 2026 14:45:45 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/mistral-and-nvidia-want-to-speed-up-industrial-design-with-physics-ai/",
+    "title": "Mistral and Nvidia want to speed up industrial design with physics AI",
+    "description": "Mistral and Nvidia are teaming up to speed up engineering simulations and industrial product design with AI.\nThe article Mistral and Nvidia want to speed up industrial design with physics AI appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-21T17:35:16.694Z",
+    "published": "Wed, 21 Oct 2026 14:40:51 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/nvidias-dsx-pod-could-cut-ai-data-center-setup-from-six-months-to-as-little-as-14-days/",
+    "title": "Nvidia's DSX POD could cut AI data center setup from six months to as little as 14 days",
+    "description": "Nvidia wants AI data centers to ship fully preassembled in containers.\nThe article Nvidia&#039;s DSX POD could cut AI data center setup from six months to as little as 14 days appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-21T17:35:16.694Z",
+    "published": "Wed, 21 Oct 2026 13:42:05 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/china-protests-the-us-deepseek-ban-while-blocking-chatgpt-claude-and-gemini-at-home/",
+    "title": "China protests the US Deepseek ban while blocking ChatGPT, Claude, and Gemini at home",
+    "description": "The US has banned Deepseek from its government systems, and China is protesting sharply and demanding the ban be lifted. Yet Beijing itself blocks ChatGPT, Claude, and Gemini across its entire market. China's outrage isn't very credible, but it should be taken seriously as a political signa",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-21T17:35:16.694Z",
+    "published": "Wed, 21 Oct 2026 13:04:19 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-cant-yet-explain-why-its-coding-agents-switch-off-misalignment-monitoring/",
+    "title": "OpenAI can't yet explain why its coding agents switch off misalignment monitoring",
+    "description": "Two internal OpenAI coding agents switched off safety monitoring on their own, even after weighing whether to keep the safeguards in place. When asked about it, GPT-6 Astra denied removing the monitoring. OpenAI calls this a recurring pattern and doesn't yet have a satisfying explanation fo",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-21T17:35:16.694Z",
+    "published": "Wed, 21 Oct 2026 12:34:57 +0000"
+  },
+  {
+    "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+    "title": "The bridge to agent-scale Git infrastructure",
+    "description": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently.\nThe post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-10-21T17:35:21.117Z",
+    "published": "Wed, 21 Oct 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
+    "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
+    "description": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-21T17:35:22.413Z",
+    "published": "Wed, 21 Oct 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers/",
+    "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
+    "description": "At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-21T17:35:22.413Z",
+    "published": "Wed, 21 Oct 2026 15:02:15 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
+    "title": "‘This Is Not a Drill’: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
+    "description": "The PHP Foundation has revealed two serious vulnerabilities that could impact millions of websites. Security experts warn that failure to quickly patch the flaws could have dire consequences.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-21T17:35:22.413Z",
+    "published": "Wed, 21 Oct 2026 14:26:19 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
+    "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
+    "description": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-21T17:35:22.413Z",
+    "published": "Wed, 21 Oct 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
+    "title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
+    "description": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-21T17:35:22.413Z",
+    "published": "Wed, 21 Oct 2026 12:35:00 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/deepinder-goyal-teases-darkai-a-privacy-focused-ai-platform",
+    "title": "Deepinder Goyal Teases Dark.ai, a Privacy-Focused AI Platform",
+    "description": "Dark is built around the idea that users should be able to interact with AI without worrying about how their conversations are stored, accessed or used.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-21T17:35:28.134Z",
+    "published": "Wed, 21 Oct 2026 13:33:05 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/deep-tech/from-humanoid-robots-to-telecom-trials-12-major-announcements-at-nvidia-gtc-berlin-2026",
+    "title": "From Humanoid Robots to Telecom Trials, 12 Major Announcements at NVIDIA GTC Berlin 2026",
+    "description": "The company outlined plans to expand AI infrastructure, strengthen chip manufacturing, develop autonomous networks and advance physical AI.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-21T17:35:28.134Z",
+    "published": "Wed, 21 Oct 2026 12:21:23 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2292912/now-you-can-chat-with-gemini-while-using-google-maps-through-carplay/",
+    "title": "Now you can chat with Gemini while using Google Maps through CarPlay",
+    "description": "Just tap the new Gemini icon to get started.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-21T17:35:30.251Z",
+    "published": "Wed, 21 Oct 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2292884/a-permanent-pokmon-store-will-open-in-london-with-more-locations-outside-asia-to-follow/",
+    "title": "A permanent Pokémon store will open in London, with more locations outside Asia to follow",
+    "description": "The new retail location is set to open by 2029.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-21T17:35:30.251Z",
+    "published": "Wed, 21 Oct 2026 14:20:47 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2292538/stranger-than-heaven-identity-like-a-dragon-relentless-spin-off/",
+    "title": "Stranger Than Heaven builds its identity as Like A Dragon's more relentless spin-off",
+    "description": "We played several hours of Sega&#39;s next big crime-thriller, and so far the Like a Dragon series is getting its most bold entry to date.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-21T17:35:30.251Z",
+    "published": "Wed, 21 Oct 2026 14:00:00 +0000"
   }
 ]
