@@ -85438,5 +85438,177 @@
     "category": "ml",
     "discovered": "2026-10-21T06:28:23.683Z",
     "published": "Wed, 21 Oct 2026 04:46:38 GMT"
+  },
+  {
+    "url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+    "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-10-21T12:14:10.935Z",
+    "published": "Wed, 21 Oct 2026 10:59:42 GMT",
+    "processed": true,
+    "processedAt": "2026-10-21T12:16:44.270Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
+    "title": "We can do impossible things",
+    "description": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even pensive—breath and rattle off my line: “I say no to myself too much.”&#160; I won’t lie. It’s a bit shameless—a d",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-21T12:14:13.119Z",
+    "published": "Wed, 21 Oct 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-21T12:16:44.270Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue/",
+    "title": "Solid-state batteries",
+    "description": "The rise of the lithium-ion battery, which powers everything from the smallest personal electronics to gargantuan energy storage systems, has been nothing short of revolutionary. But as anyone who’s boarded a plane in the last decade could tell you, storing and pumping out energy by moving charged l",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-21T12:14:13.119Z",
+    "published": "Wed, 21 Oct 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-21T12:16:44.270Z"
+  },
+  {
+    "url": "https://the-decoder.com/claude-science-tackles-deadly-scorpion-stings-by-designing-protein-binders-from-scratch/",
+    "title": "Claude Science tackles deadly scorpion stings by designing protein binders from scratch",
+    "description": "Anthropic's Claude independently designed protein binders targeting deadly scorpion neurotoxins. Out of more than 318,000 designs, 211 were tested in the lab. Seventeen met the criteria, and the two strongest bind extremely tightly to Cn2, a toxin from a Mexican scorpion. Whether they actua",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-21T12:14:24.209Z",
+    "published": "Wed, 21 Oct 2026 08:37:06 +0000",
+    "processed": true,
+    "processedAt": "2026-10-21T12:16:44.270Z"
+  },
+  {
+    "url": "https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/",
+    "title": "OpenAI acquires Orchestra Bio to build AI agents that speed up drug development",
+    "description": "OpenAI is acquiring startup Orchestra Bio and plans to merge it with its life sciences AI platform Rosalind. The goal is to build AI agents that help pharma teams coordinate drug development, from tracking trials to spotting problems. Developing a new drug in the US takes ten to 15 years on",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-21T12:14:24.209Z",
+    "published": "Wed, 21 Oct 2026 08:32:54 +0000",
+    "processed": true,
+    "processedAt": "2026-10-21T12:16:44.270Z"
+  },
+  {
+    "url": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
+    "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
+    "description": "It’s the latest in a growing wave of bets that AI companies are making on brain data.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-21T12:14:30.653Z",
+    "published": "Wed, 21 Oct 2026 10:30:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/europe-data-centers-climate-change/",
+    "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in the Way",
+    "description": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-21T12:14:30.653Z",
+    "published": "Wed, 21 Oct 2026 08:30:00 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/43-of-indian-enterprises-struggle-to-control-ai-costs-splunk-report",
+    "title": "43% of Indian Enterprises Struggle to Control AI Costs: Splunk Report",
+    "description": "Despite prioritising AI monitoring, Indian organisations face challenges measuring model quality, controlling AI costs, and managing security risks as agentic AI adoption grows.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-21T12:14:35.645Z",
+    "published": "Wed, 21 Oct 2026 12:06:55 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/microsoft-proposes-guardian-agents-to-secure-enterprise-ai",
+    "title": "Microsoft Proposes Guardian Agents to Secure Enterprise AI",
+    "description": "The approach would assess risks in real-time and adjust an agent’s ability to act based on its behaviour and permissions.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-21T12:14:35.645Z",
+    "published": "Wed, 21 Oct 2026 11:54:32 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/openai-acquires-pharma-co-orchestra-bio-to-build-ai-agents-for-drug-development",
+    "title": "OpenAI Acquires Pharma Co Orchestra Bio to Build AI Agents for Drug Development",
+    "description": "The companies plan to develop AI agents that connect scientific findings with the studies, decisions, and workflows to advance drug candidates.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-21T12:14:35.645Z",
+    "published": "Wed, 21 Oct 2026 11:51:35 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/us-orders-deepseek-removal-from-federal-civilian-systems-over-national-security-concerns",
+    "title": "US Orders DeepSeek Removal From Federal Civilian Systems Over National Security Concerns",
+    "description": "The US Department of Homeland Security noted that DeepSeek servers were in China and feared sensitive information of US citizens could be retained in China.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-21T12:14:35.645Z",
+    "published": "Wed, 21 Oct 2026 11:28:42 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/india-needs-to-build-the-ai-brain-for-robotics-not-just-import-hardware",
+    "title": "India Needs to Build the AI 'Brain' for Robotics, Not Just Import Hardware",
+    "description": "The purpose of Avathon’s collaboration with IIT Roorkee is to work on problems that require long-term research.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-21T12:14:35.645Z",
+    "published": "Wed, 21 Oct 2026 11:00:00 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/chennai-to-host-one-of-the-worlds-largest-amd-gpu-clusters",
+    "title": "Chennai to Host One of the World’s Largest AMD GPU Clusters",
+    "description": "Vultr has announced a 20MW cluster of AMD MI355X GPUs in Chennai.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-21T12:14:35.645Z",
+    "published": "Wed, 21 Oct 2026 10:14:44 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/hugging-face-ceo-criticises-netflix-documentary-on-openai-agent-cyberattack",
+    "title": "Hugging Face CEO Criticises Netflix Documentary on OpenAI Agent Cyberattack",
+    "description": "The Netflix documentary examines a July 2026 incident in which OpenAI agents escaped their testing environment and accessed Hugging Face’s systems",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-21T12:14:35.645Z",
+    "published": "Wed, 21 Oct 2026 09:21:11 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/gcc/the-hardest-part-of-industrial-ai-isnt-adoptionits-on-site-deployment",
+    "title": "The Hardest Part of Industrial AI Isn’t Adoption—It’s On-Site Deployment",
+    "description": "Industrial AI company Augury plans to scale its FDE team to 25–30 people in its new Bengaluru engineering hub.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-21T12:14:35.645Z",
+    "published": "Wed, 21 Oct 2026 08:05:52 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-highlights/meet-the-winners-of-aim-chess-league-2026",
+    "title": "Meet the Winners of AIM Chess League 2026",
+    "description": "The tournament featured 18 finalists from six city franchises, with Grandmaster Arjun Erigaisi attending as chief guest and six wild-card players taking part in a simultaneous exhibition.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-21T12:14:35.645Z",
+    "published": "Wed, 21 Oct 2026 06:46:20 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2292644/openai-agents-disabled-own-safety-monitoring-systems/",
+    "title": "OpenAI's agents disabled their own safety monitoring systems",
+    "description": "OpenAI reveals that its agents misbehaved by switching off the system monitoring them for misbehaviors.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-21T12:14:37.827Z",
+    "published": "Wed, 21 Oct 2026 10:53:21 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2292594/spacex-tesla-exploring-possible-merger/",
+    "title": "SpaceX and Tesla are exploring a possible merger",
+    "description": "SpaceX and Tesla have formed special committees to discuss a merger, but Elon Musk says it&#39;s not a certainty.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-21T12:14:37.827Z",
+    "published": "Wed, 21 Oct 2026 08:40:59 +0000"
   }
 ]
