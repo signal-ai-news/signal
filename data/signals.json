@@ -14196,7 +14196,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-08-03T19:06:56.091Z",
-    "published": "Mon, 03 Aug 2026 12:43:00 GMT"
+    "published": "Mon, 03 Aug 2026 12:43:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-21T01:32:02.322Z"
   },
   {
     "url": "https://www.engadget.com/2229272/anbernic-rg-sp-will-be-available-on-august-5/",
@@ -14205,7 +14207,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-08-03T19:06:56.637Z",
-    "published": "Mon, 03 Aug 2026 17:54:59 +0000"
+    "published": "Mon, 03 Aug 2026 17:54:59 +0000",
+    "processed": true,
+    "processedAt": "2026-10-21T01:32:02.322Z"
   },
   {
     "url": "https://www.engadget.com/2226190/apple-airtags-pros-cons/",
@@ -14214,7 +14218,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-08-03T19:06:56.637Z",
-    "published": "Mon, 03 Aug 2026 17:30:00 +0000"
+    "published": "Mon, 03 Aug 2026 17:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-21T01:32:02.322Z"
   },
   {
     "url": "https://www.engadget.com/2229209/gemini-spark-now-has-chrome-web-browsing-capabliities/",
@@ -85148,5 +85154,27 @@
     "category": "news",
     "discovered": "2026-10-20T23:05:08.934Z",
     "published": "Tue, 20 Oct 2026 20:00:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/terminal-x",
+    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "description": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-21T01:29:25.567Z",
+    "published": "Tue, 20 Oct 2026 07:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-21T01:32:02.324Z"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/how-to-transcribe-a-podcast",
+    "title": "How to transcribe a podcast: A step-by-step guide",
+    "description": "Learn how to transcribe a podcast with AI in five steps, format the transcript as SRT or VTT, and publish it on podcast platforms and your website.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-10-21T01:29:32.236Z",
+    "published": "Tue, 20 Oct 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-21T01:32:02.324Z"
   }
 ]
