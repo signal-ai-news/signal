@@ -85176,5 +85176,267 @@
     "published": "Tue, 20 Oct 2026 12:00:00 GMT",
     "processed": true,
     "processedAt": "2026-10-21T01:32:02.324Z"
+  },
+  {
+    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+    "title": "Southeast Asia’s digital economy to hit $368 billion",
+    "description": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-10-21T06:27:50.890Z",
+    "published": "Wed, 21 Oct 2026 04:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-21T06:30:33.951Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+    "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
+    "description": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-21T06:27:52.934Z",
+    "published": "Tue, 20 Oct 2026 16:20:06 +0000",
+    "processed": true,
+    "processedAt": "2026-10-21T06:30:33.951Z"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+    "title": "PHP warns it plans to release 2 emergency patches imminently",
+    "description": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-10-21T06:27:53.892Z",
+    "published": "Wed, 21 Oct 2026 02:12:18 +0000",
+    "processed": true,
+    "processedAt": "2026-10-21T06:30:33.951Z"
+  },
+  {
+    "url": "https://www.unite.ai/giving-ai-video-some-remembrance-of-things-past/",
+    "title": "Giving AI video some Remembrance of things past",
+    "description": "Article URL: https://www.unite.ai/giving-ai-video-some-remembrance-of-things-past/\nComments URL: https://news.ycombinator.com/item?id=50176679\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T06:28:00.460Z",
+    "published": "Wed, 21 Oct 2026 06:09:27 +0000",
+    "processed": true,
+    "processedAt": "2026-10-21T06:30:33.951Z"
+  },
+  {
+    "url": "https://bogdantruta.com/blog/claude-finished-baldurs-gate-3/",
+    "title": "Claude Opus 5.5 finished Baldur's Gate 3 on its own in 39 hours",
+    "description": "Article URL: https://bogdantruta.com/blog/claude-finished-baldurs-gate-3/\nComments URL: https://news.ycombinator.com/item?id=50176604\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T06:28:00.460Z",
+    "published": "Wed, 21 Oct 2026 05:56:09 +0000",
+    "processed": true,
+    "processedAt": "2026-10-21T06:30:33.951Z"
+  },
+  {
+    "url": "https://github.com/shangliy/kvleak",
+    "title": "Kvleak：my Claude Code cache hit was 95%,fifth of input spend leaked",
+    "description": "Article URL: https://github.com/shangliy/kvleak\nComments URL: https://news.ycombinator.com/item?id=50176591\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T06:28:00.460Z",
+    "published": "Wed, 21 Oct 2026 05:53:39 +0000"
+  },
+  {
+    "url": "https://research.contrary.com/report/ai-benchmarks-climbing-the-wrong-hills",
+    "title": "AI Benchmarks: Climbing the Wrong Hills",
+    "description": "Article URL: https://research.contrary.com/report/ai-benchmarks-climbing-the-wrong-hills\nComments URL: https://news.ycombinator.com/item?id=50176528\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T06:28:00.460Z",
+    "published": "Wed, 21 Oct 2026 05:46:13 +0000"
+  },
+  {
+    "url": "https://github.com/xamrayev/nexus-cli",
+    "title": "Nexus-CLI – Pure Go Bridge to DeepSeek R1/V3 with Claude Code and Ollama Support",
+    "description": "Article URL: https://github.com/xamrayev/nexus-cli\nComments URL: https://news.ycombinator.com/item?id=50176129\nPoints: 7\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T06:28:00.460Z",
+    "published": "Wed, 21 Oct 2026 04:37:18 +0000"
+  },
+  {
+    "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+    "title": "Using LLM for confidence scoring is a bad idea",
+    "description": "Article URL: https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html\nComments URL: https://news.ycombinator.com/item?id=50176082\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T06:28:00.460Z",
+    "published": "Wed, 21 Oct 2026 04:27:51 +0000"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-10-20/deepseek-unveils-open-source-tool-to-help-cut-ai-operating-costs",
+    "title": "DeepSeek Unveils Open-Source Tool to Help Cut AI Operating Costs",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-10-20/deepseek-unveils-open-source-tool-to-help-cut-ai-operating-costs\nComments URL: https://news.ycombinator.com/item?id=50175874\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T06:28:00.460Z",
+    "published": "Wed, 21 Oct 2026 03:50:30 +0000"
+  },
+  {
+    "url": "https://www.anthropic.com/research/attack-surface-reduction",
+    "title": "Using Claude to reduce the attack surface of code",
+    "description": "Article URL: https://www.anthropic.com/research/attack-surface-reduction\nComments URL: https://news.ycombinator.com/item?id=50175779\nPoints: 10\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T06:28:00.460Z",
+    "published": "Wed, 21 Oct 2026 03:36:43 +0000"
+  },
+  {
+    "url": "https://www.a2oliteneon.app",
+    "title": "A2O Lite Neon AI Dance Generator",
+    "description": "Article URL: https://www.a2oliteneon.app\nComments URL: https://news.ycombinator.com/item?id=50175721\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T06:28:00.460Z",
+    "published": "Wed, 21 Oct 2026 03:28:14 +0000"
+  },
+  {
+    "url": "https://jeffyclassify.com/blog/jeffy-vs-llm-classification/",
+    "title": "Your LLM is probably overkill for text classification",
+    "description": "Article URL: https://jeffyclassify.com/blog/jeffy-vs-llm-classification/\nComments URL: https://news.ycombinator.com/item?id=50175649\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T06:28:00.460Z",
+    "published": "Wed, 21 Oct 2026 03:15:58 +0000"
+  },
+  {
+    "url": "https://mulgadc.com/blog/blueprints-not-prompts-tla-plus",
+    "title": "Blueprints, Not Prompts: Using TLA+ to Guide AI-Written Code",
+    "description": "Article URL: https://mulgadc.com/blog/blueprints-not-prompts-tla-plus\nComments URL: https://news.ycombinator.com/item?id=50175574\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T06:28:00.460Z",
+    "published": "Wed, 21 Oct 2026 03:03:11 +0000"
+  },
+  {
+    "url": "https://github.com/zhitongblog/unterm",
+    "title": "Show HN: Unterm – A pure-Rust terminal for humans and AI agents",
+    "description": "Article URL: https://github.com/zhitongblog/unterm\nComments URL: https://news.ycombinator.com/item?id=50175026\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T06:28:00.460Z",
+    "published": "Wed, 21 Oct 2026 01:39:06 +0000"
+  },
+  {
+    "url": "https://agentitter.com/",
+    "title": "Agentitter – a tiny plain-text social network you use through your AI agent",
+    "description": "Article URL: https://agentitter.com/\nComments URL: https://news.ycombinator.com/item?id=50174971\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T06:28:00.460Z",
+    "published": "Wed, 21 Oct 2026 01:30:27 +0000"
+  },
+  {
+    "url": "https://www.dataville.com/blog/dataville-takes-the-guesswork-out-of-data-for-ai",
+    "title": "Dataville Takes the Guesswork Out of Data for AI",
+    "description": "Article URL: https://www.dataville.com/blog/dataville-takes-the-guesswork-out-of-data-for-ai\nComments URL: https://news.ycombinator.com/item?id=50174959\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T06:28:00.460Z",
+    "published": "Wed, 21 Oct 2026 01:28:10 +0000"
+  },
+  {
+    "url": "https://www.binghamton.edu/news/story/6544/secret-trigger-words-could-make-ai-powered-robots-dangerous-and-these-researchers-developed-a-defense",
+    "title": "Secret trigger words could make AI-powered robots dangerous",
+    "description": "Article URL: https://www.binghamton.edu/news/story/6544/secret-trigger-words-could-make-ai-powered-robots-dangerous-and-these-researchers-developed-a-defense\nComments URL: https://news.ycombinator.com/item?id=50174642\nPoints: 11\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T06:28:00.460Z",
+    "published": "Wed, 21 Oct 2026 00:40:56 +0000"
+  },
+  {
+    "url": "https://cyberinsider.com/claude-solves-decades-old-mystery-behind-nsa-cryptographic-numbers/",
+    "title": "Claude solves decades-old mystery behind NSA cryptographic numbers",
+    "description": "Article URL: https://cyberinsider.com/claude-solves-decades-old-mystery-behind-nsa-cryptographic-numbers/\nComments URL: https://news.ycombinator.com/item?id=50174641\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T06:28:00.460Z",
+    "published": "Wed, 21 Oct 2026 00:40:48 +0000"
+  },
+  {
+    "url": "https://abcnews.com/Business/spacex-revenue-soars-161-ai-business-grows/story?id=137408509",
+    "title": "SpaceX revenue soars 161% as AI business grows",
+    "description": "Article URL: https://abcnews.com/Business/spacex-revenue-soars-161-ai-business-grows/story?id=137408509\nComments URL: https://news.ycombinator.com/item?id=50174541\nPoints: 20\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T06:28:00.460Z",
+    "published": "Wed, 21 Oct 2026 00:25:45 +0000"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-10-20/ken-griffin-says-ai-almost-certainly-in-a-bubble-right-now",
+    "title": "Ken Griffin Says AI 'Almost Certainly' in a Bubble",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-10-20/ken-griffin-says-ai-almost-certainly-in-a-bubble-right-now\nComments URL: https://news.ycombinator.com/item?id=50174529\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T06:28:00.460Z",
+    "published": "Wed, 21 Oct 2026 00:24:20 +0000"
+  },
+  {
+    "url": "https://www.mertdemirer.com/Papers/Demirer_Writing_vs_shipping_code.pdf",
+    "title": "Writing Code vs. Shipping Code: Productivity Effects Across AI Tool Generations [pdf]",
+    "description": "Article URL: https://www.mertdemirer.com/Papers/Demirer_Writing_vs_shipping_code.pdf\nComments URL: https://news.ycombinator.com/item?id=50174453\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T06:28:00.460Z",
+    "published": "Wed, 21 Oct 2026 00:13:06 +0000"
+  },
+  {
+    "url": "https://altchan.org/sh/41",
+    "title": "Do Not Trust, Continuously Verify (Your AI Agents)",
+    "description": "Article URL: https://altchan.org/sh/41\nComments URL: https://news.ycombinator.com/item?id=50174222\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T06:28:00.460Z",
+    "published": "Tue, 20 Oct 2026 23:41:17 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/",
+    "title": "Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK",
+    "description": "Mistral AI released Voxtral 3, a family of 3 transcription models, 1 text-to-speech model and a LiveKit-based voice agent SDK. Voxtral Small Transcribe 3 scores 2.1% AA-WER, ranking #3 on Artificial Analysis.\nThe post Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK appeared",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-21T06:28:20.637Z",
+    "published": "Wed, 21 Oct 2026 06:03:12 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/",
+    "title": "Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for TPU and GPU Fleets",
+    "description": "Google, Red Hat and IBM released llm-d 1.0, an open-source Kubernetes-native stack for distributed LLM inference. It adds multi-tenant flow control, zero-downtime upgrades and agent-aware routing across vLLM, SGLang, TPUs and GPUs.\nThe post Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for T",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-21T06:28:20.637Z",
+    "published": "Wed, 21 Oct 2026 04:33:40 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/openai-seeks-30-bn-funding-at-14-tn-valuation-ahead-of-anthropic-ipo-report",
+    "title": "OpenAI Seeks $30 Bn Funding at $1.4 Tn Valuation Ahead of Anthropic IPO: Report",
+    "description": "Anthropic’s initial public offering (IPO) could value the company at as much as $2 trillion.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-21T06:28:23.683Z",
+    "published": "Wed, 21 Oct 2026 05:47:19 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/salesforce-to-acquire-braze-for-566-bn-to-strengthen-ai-customer-marketing",
+    "title": "Salesforce to Acquire Braze for $5.66 Bn to Strengthen AI Customer Marketing",
+    "description": "Braze enables marketers to coordinate customer interactions across mobile applications, websites, email, SMS, and WhatsApp.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-21T06:28:23.683Z",
+    "published": "Wed, 21 Oct 2026 04:50:58 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/elevenlabs-launches-real-time-voice-ai-models-with-up-to-988-speech-reasoning-accuracy",
+    "title": "ElevenLabs Launches Real-Time Voice AI Models With Up to 98.8% Speech Reasoning Accuracy",
+    "description": "ElevenLabs’ new models combine speech recognition, turn-taking, and speech generation into a single system for building voice agents.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-21T06:28:23.683Z",
+    "published": "Wed, 21 Oct 2026 04:46:38 GMT"
   }
 ]
