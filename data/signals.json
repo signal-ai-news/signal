@@ -85972,5 +85972,303 @@
     "category": "news",
     "discovered": "2026-10-21T20:52:03.060Z",
     "published": "Wed, 21 Oct 2026 19:52:50 +0000"
+  },
+  {
+    "url": "https://openai.com/index/broad-access-through-consistent-standards",
+    "title": "Broad access through consistent standards",
+    "description": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-21T23:56:52.647Z",
+    "published": "Wed, 21 Oct 2026 21:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-21T23:59:35.540Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+    "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+    "description": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-21T23:56:56.290Z",
+    "published": "Wed, 21 Oct 2026 22:51:22 +0000",
+    "processed": true,
+    "processedAt": "2026-10-21T23:59:35.540Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+    "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+    "description": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-21T23:56:56.290Z",
+    "published": "Wed, 21 Oct 2026 21:16:20 +0000",
+    "processed": true,
+    "processedAt": "2026-10-21T23:59:35.540Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+    "title": "Meta says Muse has over 10M users, with shopping a top activity",
+    "description": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-21T23:56:56.290Z",
+    "published": "Wed, 21 Oct 2026 21:14:19 +0000",
+    "processed": true,
+    "processedAt": "2026-10-21T23:59:35.540Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+    "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+    "description": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-21T23:56:56.290Z",
+    "published": "Wed, 21 Oct 2026 17:59:12 +0000",
+    "processed": true,
+    "processedAt": "2026-10-21T23:59:35.540Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+    "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+    "description": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-21T23:56:56.290Z",
+    "published": "Wed, 21 Oct 2026 17:18:27 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
+    "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+    "description": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-10-21T23:56:56.894Z",
+    "published": "Wed, 21 Oct 2026 21:48:52 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.19005",
+    "title": "CyberArena: Benchmarking AI Agents in Live Symmetric Attack-and-Defense Combat",
+    "description": "Article URL: https://arxiv.org/abs/2610.19005\nComments URL: https://news.ycombinator.com/item?id=50189084\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T23:57:05.655Z",
+    "published": "Wed, 21 Oct 2026 23:29:32 +0000"
+  },
+  {
+    "url": "https://www.reuters.com/technology/anthropic-unveils-claude-duet-ai-agent-app-2026-10-21/",
+    "title": "Anthropic opens research preview of Claude Duet, a agent for professionals",
+    "description": "Article URL: https://www.reuters.com/technology/anthropic-unveils-claude-duet-ai-agent-app-2026-10-21/\nComments URL: https://news.ycombinator.com/item?id=50188944\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T23:57:05.655Z",
+    "published": "Wed, 21 Oct 2026 23:12:27 +0000"
+  },
+  {
+    "url": "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
+    "title": "Meta's new terms say if its AI makes a mistake, it will be the customer's fault",
+    "description": "Article URL: https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html\nComments URL: https://news.ycombinator.com/item?id=50188774\nPoints: 7\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T23:57:05.655Z",
+    "published": "Wed, 21 Oct 2026 22:48:02 +0000"
+  },
+  {
+    "url": "https://aws.amazon.com/marketplace/pp/prodview-iamlatxnobx7o",
+    "title": "Dense Sand – Sovereign BYOA AI SoC Platform for AWS",
+    "description": "Article URL: https://aws.amazon.com/marketplace/pp/prodview-iamlatxnobx7o\nComments URL: https://news.ycombinator.com/item?id=50188599\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T23:57:05.655Z",
+    "published": "Wed, 21 Oct 2026 22:31:41 +0000"
+  },
+  {
+    "url": "https://github.com/agency-project/agency",
+    "title": "Agency: Open-source platform for debugging, profiling, and analyzing AI agents",
+    "description": "Article URL: https://github.com/agency-project/agency\nComments URL: https://news.ycombinator.com/item?id=50188214\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T23:57:05.655Z",
+    "published": "Wed, 21 Oct 2026 21:56:31 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/obsession-with-ai-may-be-starving-the-research-fields-it-needs-to-survive/",
+    "title": "Obsession with AI May Be Starving the Research Fields It Needs to Survive",
+    "description": "Article URL: https://www.unite.ai/obsession-with-ai-may-be-starving-the-research-fields-it-needs-to-survive/\nComments URL: https://news.ycombinator.com/item?id=50187972\nPoints: 7\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T23:57:05.655Z",
+    "published": "Wed, 21 Oct 2026 21:33:18 +0000"
+  },
+  {
+    "url": "https://www.reuters.com/business/media-telecom/tesla-revenue-beats-estimates-deliveries-rebound-energy-storage-grows-2026-10-21/",
+    "title": "Tesla posts surprise positive cash flow on lower-than-expected AI spending",
+    "description": "Article URL: https://www.reuters.com/business/media-telecom/tesla-revenue-beats-estimates-deliveries-rebound-energy-storage-grows-2026-10-21/\nComments URL: https://news.ycombinator.com/item?id=50187456\nPoints: 7\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T23:57:05.655Z",
+    "published": "Wed, 21 Oct 2026 20:52:33 +0000"
+  },
+  {
+    "url": "https://www.techdirt.com/2026/10/21/ai-is-anti-punk/",
+    "title": "AI Is Anti-Punk",
+    "description": "Article URL: https://www.techdirt.com/2026/10/21/ai-is-anti-punk/\nComments URL: https://news.ycombinator.com/item?id=50187406\nPoints: 7\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T23:57:05.655Z",
+    "published": "Wed, 21 Oct 2026 20:48:31 +0000"
+  },
+  {
+    "url": "https://www.reuters.com/world/asia-pacific/frances-ovhcloud-plans-frontier-ai-models-become-europes-second-llm-player-2026-06-17/",
+    "title": "France's OVHcloud plans frontier AI models to become Europe's second LLM player",
+    "description": "Article URL: https://www.reuters.com/world/asia-pacific/frances-ovhcloud-plans-frontier-ai-models-become-europes-second-llm-player-2026-06-17/\nComments URL: https://news.ycombinator.com/item?id=50187400\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T23:57:05.655Z",
+    "published": "Wed, 21 Oct 2026 20:47:38 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.27251",
+    "title": "AI and the Enclosure of the Scientific Commons",
+    "description": "Article URL: https://arxiv.org/abs/2610.27251\nComments URL: https://news.ycombinator.com/item?id=50187248\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T23:57:05.655Z",
+    "published": "Wed, 21 Oct 2026 20:35:09 +0000"
+  },
+  {
+    "url": "https://proof.diy",
+    "title": "Proof – Making AI Easier",
+    "description": "Article URL: https://proof.diy\nComments URL: https://news.ycombinator.com/item?id=50187078\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T23:57:05.655Z",
+    "published": "Wed, 21 Oct 2026 20:21:52 +0000"
+  },
+  {
+    "url": "https://www.latent.space/p/claude-mods",
+    "title": "Claude Mods: Flipping the Harness Inside Out",
+    "description": "Article URL: https://www.latent.space/p/claude-mods\nComments URL: https://news.ycombinator.com/item?id=50187043\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T23:57:05.655Z",
+    "published": "Wed, 21 Oct 2026 20:18:59 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=O8k7PP38gws",
+    "title": "Indiana Jones and the Fate of Atlantis (2026) – Fan Film Live-Action AI Concept [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=O8k7PP38gws\nComments URL: https://news.ycombinator.com/item?id=50186960\nPoints: 2\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T23:57:05.655Z",
+    "published": "Wed, 21 Oct 2026 20:12:28 +0000"
+  },
+  {
+    "url": "https://www.trylasso.online",
+    "title": "Show HN: I made a free Mac app to annotate screen for AI agents",
+    "description": "Hey HN, I'm Nika. I've built a tool for myself that lets user draw on the screen to annotate important parts and use it as simpler pointers for AI agents screenshot inputs.\n\nComments URL: https://news.ycombinator.com/item?id=50186893\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T23:57:05.655Z",
+    "published": "Wed, 21 Oct 2026 20:07:52 +0000"
+  },
+  {
+    "url": "https://whoswinningai.com/",
+    "title": "Who's Winning AI, a live scoreboard for the AI race",
+    "description": "Article URL: https://whoswinningai.com/\nComments URL: https://news.ycombinator.com/item?id=50186800\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T23:57:05.655Z",
+    "published": "Wed, 21 Oct 2026 20:01:40 +0000"
+  },
+  {
+    "url": "https://automato.substack.com/p/where-is-ai-heading-in-october-2026",
+    "title": "AI Early adopters share their views on AI status",
+    "description": "Article URL: https://automato.substack.com/p/where-is-ai-heading-in-october-2026\nComments URL: https://news.ycombinator.com/item?id=50186772\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T23:57:05.655Z",
+    "published": "Wed, 21 Oct 2026 20:00:15 +0000"
+  },
+  {
+    "url": "https://peckjon.substack.com/p/ai-portability-in-2026",
+    "title": "AI Portability in 2026: Breaking Up Is Hard to Do",
+    "description": "Article URL: https://peckjon.substack.com/p/ai-portability-in-2026\nComments URL: https://news.ycombinator.com/item?id=50186725\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T23:57:05.655Z",
+    "published": "Wed, 21 Oct 2026 19:57:23 +0000"
+  },
+  {
+    "url": "https://www.theatlantic.com/technology/2026/10/ai-hacking-apocalypse-began-last-night/689106/",
+    "title": "The AI-Hacking Apocalypse Began Last Night",
+    "description": "Article URL: https://www.theatlantic.com/technology/2026/10/ai-hacking-apocalypse-began-last-night/689106/\nComments URL: https://news.ycombinator.com/item?id=50186699\nPoints: 12\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T23:57:05.655Z",
+    "published": "Wed, 21 Oct 2026 19:55:38 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50186510",
+    "title": "Ask HN: How do you handle AI security for automated vulnerability management?",
+    "description": "Hello World!So I am new to the world of cybersecurity, and after some back and forth with AI, I chose to use a specific tool that was recommended for automated vulnerability detection & patching, but I think the issue I encountered is something common to all similar platforms that provide AI securi",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-21T23:57:05.655Z",
+    "published": "Wed, 21 Oct 2026 19:43:49 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/",
+    "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+    "description": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-21T23:57:21.679Z",
+    "published": "Wed, 21 Oct 2026 22:39:50 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/",
+    "title": "Recursive Releases Flint, an Open-Weight 40B MoE Local Coding Model for Agents with 2.5B Active Params",
+    "description": "Recursive has released Flint, an Apache 2.0 local coding model with 40B total and 2.5B active parameters. It reports 74.2% on SWE-bench Verified and 125+ tokens per second on an M4 Pro MacBook Pro.\nThe post Recursive Releases Flint, an Open-Weight 40B MoE Local Coding Model for Agents with 2.5B Acti",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-21T23:57:24.334Z",
+    "published": "Wed, 21 Oct 2026 22:39:41 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/21/vercel-durable-harness-crash-proof-coding-agents/",
+    "title": "Vercel Open-Sources durable-harness for Crash-Proof Coding Agents",
+    "description": "Vercel released durable-harness, an open-source package that logs every model and tool call so Pi, OpenCode, Claude Code and Codex sessions resume after crashes, timeouts and redeploys on Vercel, Postgres or a laptop.\nThe post Vercel Open-Sources durable-harness for Crash-Proof Coding Agents appeare",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-21T23:57:24.334Z",
+    "published": "Wed, 21 Oct 2026 22:15:39 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2293705/mark-zuckerberg-says-meta-is-entering-a-new-phase-with-muse/",
+    "title": "Mark Zuckerberg says Meta is 'entering a new phase' with Muse",
+    "description": "Zuckerberg expects the agent will generate more revenue per user than the company&#39;s apps.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-21T23:57:29.713Z",
+    "published": "Wed, 21 Oct 2026 22:36:03 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2293690/airbnb-bans-hosts-from-making-you-do-the-dishes/",
+    "title": "Airbnb bans hosts from making you do the dishes",
+    "description": "Any chores that a cleaner might do are no longer deemed reasonable requests for visitors.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-21T23:57:29.713Z",
+    "published": "Wed, 21 Oct 2026 22:04:32 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2293646/claude-duet-is-anthropics-answer-to-meta-muse-and-openai-dots/",
+    "title": "Claude Duet is Anthropic's answer to Meta Muse and OpenAI Dots",
+    "description": "Anthropic subscribers in the US can join a waitlist to try the company&#39;s new agent.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-21T23:57:29.713Z",
+    "published": "Wed, 21 Oct 2026 21:03:19 +0000"
   }
 ]
