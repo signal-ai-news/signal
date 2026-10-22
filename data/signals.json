@@ -87129,5 +87129,105 @@
     "category": "news",
     "discovered": "2026-10-22T19:07:15.577Z",
     "published": "Thu, 22 Oct 2026 16:22:50 +0000"
+  },
+  {
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-10-22T22:39:06.114Z",
+    "published": "Thu, 22 Oct 2026 22:24:34 GMT",
+    "processed": true,
+    "processedAt": "2026-10-22T22:41:51.488Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "description": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-22T22:39:07.263Z",
+    "published": "Thu, 22 Oct 2026 22:08:24 +0000",
+    "processed": true,
+    "processedAt": "2026-10-22T22:41:51.488Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+    "description": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-22T22:39:07.263Z",
+    "published": "Thu, 22 Oct 2026 19:07:09 +0000",
+    "processed": true,
+    "processedAt": "2026-10-22T22:41:51.488Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+    "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+    "description": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-22T22:39:07.263Z",
+    "published": "Thu, 22 Oct 2026 19:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-22T22:41:51.488Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+    "title": "Canva releases its first image generation model",
+    "description": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-22T22:39:07.263Z",
+    "published": "Thu, 22 Oct 2026 19:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-22T22:41:51.488Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+    "title": "Designing an AI serving harness built to last",
+    "description": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows,",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-22T22:39:08.402Z",
+    "published": "Thu, 22 Oct 2026 21:17:29 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/what-is-voice-over",
+    "title": "What is voice over? Definition, examples, and how it works",
+    "description": "Learn what is voice over, how it differs from voice acting and dubbing, and how to write a script and create a voice over with AI in minutes.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-10-22T22:39:10.517Z",
+    "published": "Thu, 22 Oct 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://www.wired.com/story/aged-intelligence-society-interview/",
+    "title": "The Social Society Helping Women Join the AI Boom",
+    "description": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-22T22:39:38.137Z",
+    "published": "Thu, 22 Oct 2026 19:56:32 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2294854/a-new-subscription-service-promises-an-evolving-collection-of-bold-and-bizarre-indie-games/",
+    "title": "A new subscription service promises an evolving collection of 'bold and bizarre' indie games",
+    "description": "Publisher Pantaloon says the Playbill won&#39;t feature games that use generative AI in any way.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-22T22:39:44.502Z",
+    "published": "Thu, 22 Oct 2026 20:57:17 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2294768/the-trailer-for-mass-effect-5-has-leaked-and-unfortunately-it-looks-good/",
+    "title": "The trailer for Mass Effect 5 has leaked and unfortunately it looks good",
+    "description": "&#39;Mass Effect: Universe&#39; looks like it would have focused on a new protagonist and series favorite Liara T&#39;Soni.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-22T22:39:44.502Z",
+    "published": "Thu, 22 Oct 2026 19:55:13 +0000"
   }
 ]
