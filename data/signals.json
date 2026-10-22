@@ -86469,5 +86469,105 @@
     "category": "ml",
     "discovered": "2026-10-22T04:18:42.886Z",
     "published": "Thu, 22 Oct 2026 03:39:30 GMT"
+  },
+  {
+    "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+    "title": "Ensemble forecasting with IBM Granite time-series models",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-10-22T09:33:52.915Z",
+    "published": "Thu, 22 Oct 2026 07:51:31 GMT",
+    "processed": true,
+    "processedAt": "2026-10-22T09:36:41.279Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+    "title": "AI’s hidden storage bill: What inference leaves behind",
+    "description": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-22T09:33:55.332Z",
+    "published": "Thu, 22 Oct 2026 08:41:18 +0000",
+    "processed": true,
+    "processedAt": "2026-10-22T09:36:41.279Z"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/",
+    "title": "Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent \"Claude Duet\"",
+    "description": "Anthropic has launched Claude Duet, a proactive AI agent that handles tasks on its own, even when the user is offline. The app is built on Claude Opus 5.5 and connects to services like Gmail, Slack, and Stripe through more than 6,000 connectors. It asks for approval before sensitive actions",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-22T09:34:19.143Z",
+    "published": "Thu, 22 Oct 2026 08:35:22 +0000",
+    "processed": true,
+    "processedAt": "2026-10-22T09:36:41.279Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/",
+    "title": "IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation",
+    "description": "IBM released Granite Speech 5.0 2B, an Apache 2.0 speech recognition and translation model. It ranks #2 on the Open ASR Leaderboard with 5.68% average English WER, alongside updated Turbo CTC and 4.1 2B Plus models.\nThe post IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Tr",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-22T09:34:27.530Z",
+    "published": "Thu, 22 Oct 2026 07:00:56 +0000",
+    "processed": true,
+    "processedAt": "2026-10-22T09:36:41.279Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/21/perplexity-jolt-joint-on-policy-learning-teaching/",
+    "title": "Perplexity and NVIDIA Researchers Introduce JOLT: a Joint Teacher-Student Reinforcement Learning Method",
+    "description": "Perplexity and NVIDIA introduced JOLT, a post-training method that trains one model as both teacher and student. On MATH it matched GRPO’s accuracy with 6.5x fewer processed training tokens.\nThe post Perplexity and NVIDIA Researchers Introduce JOLT: a Joint Teacher-Student Reinforcement Learning Met",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-22T09:34:27.530Z",
+    "published": "Thu, 22 Oct 2026 04:56:31 +0000",
+    "processed": true,
+    "processedAt": "2026-10-22T09:36:41.279Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/21/cactus-whistle-vs-whisper-base-speech-to-text-benchmark-cpu-guide/",
+    "title": "A Coding Guide to Cactus Whistle: Does a 16.9 MB Speech Model Hold Up Against Whisper Base? Word Error Rate, Speed, Streaming, Timestamps, Keywords, and Speech-to-Tool Calls on a CPU",
+    "description": "Explore a comprehensive coding guide benchmarking Cactus Compute's 16.9 MB speech model against Whisper base. Learn about word error rates, CPU speed, streaming latency, and speech-to-tool integration.\nThe post A Coding Guide to Cactus Whistle: Does a 16.9 MB Speech Model Hold Up Against Whisper Bas",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-22T09:34:27.530Z",
+    "published": "Thu, 22 Oct 2026 04:17:37 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/ai-agents-are-making-human-customer-service-a-specialist-job",
+    "title": "AI Agents are Making Human Customer Service a Specialist Job",
+    "description": "Per Twilio, AI will handle routine customer queries, while people step in for complex cases where judgement, context, and specialised expertise matter most.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-22T09:34:31.483Z",
+    "published": "Thu, 22 Oct 2026 09:27:46 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/anthropic-opens-claude-duet-ai-agent-preview-for-us-pro-and-max-subscribers",
+    "title": "Anthropic Opens Claude Duet AI Agent Preview for US Pro and Max Subscribers",
+    "description": "Discover how Claude Duet AI can streamline your business tasks. Join the waitlist today for exclusive access!",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-22T09:34:31.483Z",
+    "published": "Thu, 22 Oct 2026 08:53:22 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/premji-invest-norwest-and-lok-capital-plan-up-to-1000-crore-investment-in-vegafin-report",
+    "title": "Premji Invest, Norwest and Lok Capital Plan Up to ₹1,000 Crore Investment in Vegafin: Report",
+    "description": "Discover how Premji Invest, Norwest, and Lok Capital's ₹1,000 crore investment will transform MSME lending with AI. Learn more!",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-22T09:34:31.483Z",
+    "published": "Thu, 22 Oct 2026 08:49:23 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/openai-brings-its-models-and-codex-to-google-cloud",
+    "title": "OpenAI Brings Its Models and Codex to Google Cloud",
+    "description": "Google Cloud said OpenAI models would run with its enterprise security and governance controls.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-22T09:34:31.483Z",
+    "published": "Thu, 22 Oct 2026 05:03:00 GMT"
   }
 ]
