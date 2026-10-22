@@ -86270,5 +86270,204 @@
     "category": "news",
     "discovered": "2026-10-21T23:57:29.713Z",
     "published": "Wed, 21 Oct 2026 21:03:19 +0000"
+  },
+  {
+    "url": "https://openai.com/index/cloudflare-cyber",
+    "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+    "description": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-22T04:18:16.362Z",
+    "published": "Wed, 21 Oct 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-22T04:20:50.841Z"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/webinar-recap-reaching-at-risk-patients-when-minutes-matter",
+    "title": "Webinar Recap: Reaching At-Risk Patients When Minutes Matter",
+    "description": "Learn how Cadence uses ElevenAgents to reach patients within minutes of a vital sign reading outside the expected range.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-10-22T04:18:22.678Z",
+    "published": "Wed, 21 Oct 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-22T04:20:50.841Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50191025",
+    "title": "Ask HN: How has your company adapted interviews in the AI world?",
+    "description": "As the title suggests, how has your company adapted interview process, especially for Software Engineers in the AI world.Also, do you know of companies that have updated it?\n\nComments URL: https://news.ycombinator.com/item?id=50191025\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-22T04:18:24.857Z",
+    "published": "Thu, 22 Oct 2026 03:58:28 +0000",
+    "processed": true,
+    "processedAt": "2026-10-22T04:20:50.841Z"
+  },
+  {
+    "url": "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/",
+    "title": "ML Drift: Next-Gen GPU AI/ML Inference at the Edge",
+    "description": "Article URL: https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/\nComments URL: https://news.ycombinator.com/item?id=50191013\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-22T04:18:24.857Z",
+    "published": "Thu, 22 Oct 2026 03:57:19 +0000",
+    "processed": true,
+    "processedAt": "2026-10-22T04:20:50.841Z"
+  },
+  {
+    "url": "https://notcho.si",
+    "title": "AI agent on your notch, equipped with his own computer",
+    "description": "Article URL: https://notcho.si\nComments URL: https://news.ycombinator.com/item?id=50190792\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-22T04:18:24.857Z",
+    "published": "Thu, 22 Oct 2026 03:22:27 +0000",
+    "processed": true,
+    "processedAt": "2026-10-22T04:20:50.841Z"
+  },
+  {
+    "url": "https://www.nokia.com/blog/from-the-lab-to-the-live-network-nokia-t-mobile-and-nvidia-complete-worlds-first-ai-ran-call/",
+    "title": "Nokia, T-Mobile and Nvidia complete first AI-RAN call",
+    "description": "Article URL: https://www.nokia.com/blog/from-the-lab-to-the-live-network-nokia-t-mobile-and-nvidia-complete-worlds-first-ai-ran-call/\nComments URL: https://news.ycombinator.com/item?id=50190626\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-22T04:18:24.857Z",
+    "published": "Thu, 22 Oct 2026 02:59:08 +0000"
+  },
+  {
+    "url": "https://hnsieve.com",
+    "title": "Show HN: HN Sieve – every Show HN scored and summarized by AI",
+    "description": "Article URL: https://hnsieve.com\nComments URL: https://news.ycombinator.com/item?id=50190403\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-22T04:18:24.857Z",
+    "published": "Thu, 22 Oct 2026 02:24:10 +0000"
+  },
+  {
+    "url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+    "title": "Claude Now Works with Google Docs, Sheets, and Slides",
+    "description": "Article URL: https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides\nComments URL: https://news.ycombinator.com/item?id=50190357\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-22T04:18:24.857Z",
+    "published": "Thu, 22 Oct 2026 02:17:58 +0000"
+  },
+  {
+    "url": "https://olivergrabner.com/research/pokemon/",
+    "title": "LLM Agents Play Pokemon Showdown",
+    "description": "Article URL: https://olivergrabner.com/research/pokemon/\nComments URL: https://news.ycombinator.com/item?id=50190334\nPoints: 17\n# Comments: 10",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-22T04:18:24.857Z",
+    "published": "Thu, 22 Oct 2026 02:13:48 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50190257",
+    "title": "Can AI generate reliable product demos directly from source code?",
+    "description": "Discuss the challenges of understanding application workflows, identifying meaningful UI states, and synchronizing animations with narration.\n\nComments URL: https://news.ycombinator.com/item?id=50190257\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-22T04:18:24.857Z",
+    "published": "Thu, 22 Oct 2026 02:03:30 +0000"
+  },
+  {
+    "url": "https://claude.com/resources/articles/claude-security-now-scans-continuously-and-tracks-fixes",
+    "title": "Claude Security now scans continuously and tracks fixes",
+    "description": "Article URL: https://claude.com/resources/articles/claude-security-now-scans-continuously-and-tracks-fixes\nComments URL: https://news.ycombinator.com/item?id=50190250\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-22T04:18:24.857Z",
+    "published": "Thu, 22 Oct 2026 02:02:10 +0000"
+  },
+  {
+    "url": "https://www.lumenoverlay.com",
+    "title": "AI Overlay that Lives on your Desktop",
+    "description": "Article URL: https://www.lumenoverlay.com\nComments URL: https://news.ycombinator.com/item?id=50190245\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-22T04:18:24.857Z",
+    "published": "Thu, 22 Oct 2026 02:01:57 +0000"
+  },
+  {
+    "url": "https://www.ft.com/content/245778d9-597b-492d-b5b6-a2967c77e853",
+    "title": "Amazon warns new cyber flaws detected using AI are being 'broadly exploited'",
+    "description": "Article URL: https://www.ft.com/content/245778d9-597b-492d-b5b6-a2967c77e853\nComments URL: https://news.ycombinator.com/item?id=50190069\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-22T04:18:24.857Z",
+    "published": "Thu, 22 Oct 2026 01:38:59 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=lJOV3wvAOb4",
+    "title": "Show HN: Claude driving a powerful music notation editor [video]",
+    "description": "Engine written in swift. Support for Mac and iPad and Apple pencilI think about 40k loc with a significant amount more in test code.A free 28 day trial no subscription.For more info visit autographmusic.com\n\nComments URL: https://news.ycombinator.com/item?id=50189938\nPoints: 1\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-22T04:18:24.857Z",
+    "published": "Thu, 22 Oct 2026 01:23:16 +0000"
+  },
+  {
+    "url": "https://drive.google.com/file/d/1TquJDCgvf3gr9-j779AxNTNGYqw2BPbi/view?usp=sharing",
+    "title": "Claude builds the Excel model,Filing Studio links every number to its SEC filing",
+    "description": "Article URL: https://drive.google.com/file/d/1TquJDCgvf3gr9-j779AxNTNGYqw2BPbi/view?usp=sharing\nComments URL: https://news.ycombinator.com/item?id=50189702\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-22T04:18:24.857Z",
+    "published": "Thu, 22 Oct 2026 00:51:31 +0000"
+  },
+  {
+    "url": "https://victorribeiro.com/bots/",
+    "title": "Can a malicious webpage hijack an AI agent?",
+    "description": "Article URL: https://victorribeiro.com/bots/\nComments URL: https://news.ycombinator.com/item?id=50189688\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-22T04:18:24.857Z",
+    "published": "Thu, 22 Oct 2026 00:50:05 +0000"
+  },
+  {
+    "url": "https://www.databricks.com/blog/ai-runtime-generally-available",
+    "title": "Databricks launches AI Runtime for managed GPU training on enterprise data",
+    "description": "Article URL: https://www.databricks.com/blog/ai-runtime-generally-available\nComments URL: https://news.ycombinator.com/item?id=50189534\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-22T04:18:24.857Z",
+    "published": "Thu, 22 Oct 2026 00:29:58 +0000"
+  },
+  {
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-deletes-tv-shows-entire-edit-weeks-before-release-backup-failure-means-production-team-needs-to-re-edit",
+    "title": "Unsupervised AI agent reportedly deletes TV show's edit before release",
+    "description": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-deletes-tv-shows-entire-edit-weeks-before-release-backup-failure-means-production-team-needs-to-re-edit\nComments URL: https://news.ycombinator.com/item?id=50189499\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-22T04:18:24.857Z",
+    "published": "Thu, 22 Oct 2026 00:26:56 +0000"
+  },
+  {
+    "url": "https://www.reuters.com/lifestyle/russia-cracks-down-ai-bears-real-attacks-spread-fear-2026-10-14/",
+    "title": "Russia cracks down on AI bears as real attacks spread fear",
+    "description": "Article URL: https://www.reuters.com/lifestyle/russia-cracks-down-ai-bears-real-attacks-spread-fear-2026-10-14/\nComments URL: https://news.ycombinator.com/item?id=50189271\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-22T04:18:24.857Z",
+    "published": "Wed, 21 Oct 2026 23:57:02 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+    "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+    "description": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-22T04:18:38.031Z",
+    "published": "Thu, 22 Oct 2026 02:24:17 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/why-nandan-nilekani-backed-f2a-believes-indias-investment-opportunity-lies-in-edge-ai",
+    "title": "Why Nandan Nilekani-Backed F2A Believes India's Investment Opportunity Lies in Edge AI",
+    "description": "Fundamentum Frontier Advisors plans to invest across physical AI, AI-enabled consumer businesses, and enterprise software.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-22T04:18:42.886Z",
+    "published": "Thu, 22 Oct 2026 03:39:30 GMT"
   }
 ]
