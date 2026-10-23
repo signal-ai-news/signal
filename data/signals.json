@@ -87447,5 +87447,159 @@
     "category": "ml",
     "discovered": "2026-10-23T06:25:18.978Z",
     "published": "Fri, 23 Oct 2026 06:06:51 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/your-six-ai-models-are-really-two-the-math-of-correlated-mistakes/",
+    "title": "Your Six AI Models Are Really Two: The Math of Correlated Mistakes",
+    "description": "Ask several models the same question, take a vote, and you get fewer independent opinions than you paid for. One formula says how many, and I checked it on six open models and 1,500 exam questions.\nThe post Your Six AI Models Are Really Two: The Math of Correlated Mistakes appeared first on Towards",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-23T11:58:26.770Z",
+    "published": "Fri, 23 Oct 2026 11:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-23T12:00:51.936Z"
+  },
+  {
+    "url": "https://the-decoder.com/canva-launches-craft-its-first-in-house-image-model/",
+    "title": "Canva launches Craft, its first in-house image model",
+    "description": "Design platform Canva has released Canva Craft, its first in-house image generation model.\nThe article Canva launches Craft, its first in-house image model appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-23T11:58:28.622Z",
+    "published": "Fri, 23 Oct 2026 11:36:30 +0000",
+    "processed": true,
+    "processedAt": "2026-10-23T12:00:51.936Z"
+  },
+  {
+    "url": "https://the-decoder.com/anthropics-claude-now-writes-code-and-proves-it-safe-automatically/",
+    "title": "Anthropic's Claude now writes code and proves it safe automatically",
+    "description": "Anthropic had Claude generate mathematical proofs that existing code is correct, producing roughly 180 million lines of proof code for 123 open-source libraries. Along the way, the model caught bugs that years of testing had missed. Anthropic's goal: making formal verification with AI as ro",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-23T11:58:28.622Z",
+    "published": "Fri, 23 Oct 2026 11:32:19 +0000",
+    "processed": true,
+    "processedAt": "2026-10-23T12:00:51.936Z"
+  },
+  {
+    "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/",
+    "title": "OpenAI lowers valuation target, raises up to $30 billion",
+    "description": "OpenAI is closing in on a new funding round of up to $30 billion but has lowered its valuation target to get there.\nThe article OpenAI lowers valuation target, raises up to $30 billion appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-23T11:58:28.622Z",
+    "published": "Fri, 23 Oct 2026 09:49:38 +0000",
+    "processed": true,
+    "processedAt": "2026-10-23T12:00:51.936Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/",
+    "title": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents",
+    "description": "TinyFish published two engineering research articles on agentic search. One defines a 7-phase production architecture with evidence contracts and bounded retries. The other explains why its deep research system dropped a separate planner and per-query subagents.\nThe post TinyFish Breaks Down Agentic",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-23T11:58:39.041Z",
+    "published": "Fri, 23 Oct 2026 08:58:47 +0000",
+    "processed": true,
+    "processedAt": "2026-10-23T12:00:51.936Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/",
+    "title": "Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent",
+    "description": "Google Cloud announced Agent Compute Engine, a compute service that gives every AI agent its own hardware-isolated microVM with no credentials inside. It already runs Gemini agents and enters preview in the coming months.\nThe post Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent ap",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-23T11:58:39.041Z",
+    "published": "Fri, 23 Oct 2026 06:05:10 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/",
+    "title": "You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA",
+    "description": "You.com launched Inference Router, an OpenAI-compatible API for 12 open-weight models with a 99.9% uptime SLA, zero data retention, 100% US hosting, server-side web search and no platform fee.\nThe post You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA appeared first on M",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-23T11:58:39.041Z",
+    "published": "Fri, 23 Oct 2026 05:28:21 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/infosys-ai-revenue-rises-29-in-q2-fy27-growth-guidance-cut",
+    "title": "Infosys AI Revenue Rises 29% in Q2, FY27 Growth Guidance Cut",
+    "description": "Infosys recorded $5.2 billion in large-deal contract value, with 62% classified as net new business, as it lowered its full-year growth outlook.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-23T11:58:41.822Z",
+    "published": "Fri, 23 Oct 2026 11:18:00 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/ltm-launches-blueverse-industrial-ai-lab-in-chennai",
+    "title": "LTM Launches BlueVerse Industrial AI Lab in Chennai",
+    "description": "The facility will support testing of industrial AI, robotics and digital twins, including solutions for factories with legacy equipment and limited connectivity.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-23T11:58:41.822Z",
+    "published": "Fri, 23 Oct 2026 11:09:48 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/chariot-launches-speech-recognition-model-for-10-indian-languages",
+    "title": "Chariot Launches Speech Recognition Model for 10 Indian Languages",
+    "description": "Discover Chariot's new model that outperforms competitors in Indian languages. Learn more about its capabilities and applications!",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-23T11:58:41.822Z",
+    "published": "Fri, 23 Oct 2026 10:16:23 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/amds-server-cpu-business-faces-a-new-ai-boom",
+    "title": "AMD’s Server CPU Business Faces a New AI Boom",
+    "description": "AI agents have put CPU back in the spotlight after years of being relatively overshadowed by GPUs.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-23T11:58:41.822Z",
+    "published": "Fri, 23 Oct 2026 09:35:11 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/meta-expects-up-to-145-billion-in-capex-as-ai-investments-expand",
+    "title": "Meta Expects Up To $145 Billion In Capex As AI Investments Expand",
+    "description": "The company expects capital expenditure of $135-145 billion in 2026 as it expands AI infrastructure and develops new products.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-23T11:58:41.822Z",
+    "published": "Fri, 23 Oct 2026 09:15:40 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/cyients-technology-order-intake-rises-397-as-it-expands-ai-capabilities",
+    "title": "Cyient's Technology Order Intake Rises 39.7% as It Expands AI Capabilities",
+    "description": "The engineering company reported $233.9 million in revenue, while DET's EBIT margin reached 14.2% and semiconductor supply constraints threatened growth.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-23T11:58:41.822Z",
+    "published": "Fri, 23 Oct 2026 09:06:14 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/how-an-engineer-is-using-ai-to-bridge-the-accessible-education-gap",
+    "title": "How an Engineer Is Using AI to Bridge the Accessible Education Gap",
+    "description": "Discover how AI is transforming accessible education. Learn more about innovative tools like ListenToMe that bridge the learning gap today!",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-23T11:58:41.822Z",
+    "published": "Fri, 23 Oct 2026 07:12:05 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/former-openai-exec-raises-215-mn-to-build-ai-powered-drug-research-labs",
+    "title": "Former OpenAI Exec Raises $215 Mn to Build AI-Powered Drug Research Labs",
+    "description": "Warp Sciences will initially focus on synthesising molecular variations for drug candidates, combining chemists, robotics, and AI models trained on laboratory experiments.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-23T11:58:41.822Z",
+    "published": "Fri, 23 Oct 2026 06:54:47 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2295042/oura-sues-ultrahuman-yet-again-ring-pro/",
+    "title": "Oura sues Ultrahuman (again) to block its latest smart ring from the US market",
+    "description": "Oura has sued Ultrahuman again in a Texas federal court over its latest product, the Ring Pro.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-23T11:58:44.648Z",
+    "published": "Fri, 23 Oct 2026 09:59:15 +0000"
   }
 ]
