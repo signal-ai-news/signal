@@ -87738,5 +87738,222 @@
     "published": "Fri, 23 Oct 2026 17:19:49 +0000",
     "processed": true,
     "processedAt": "2026-10-23T20:19:12.534Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "description": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-23T23:22:54.009Z",
+    "published": "Fri, 23 Oct 2026 23:05:49 +0000",
+    "processed": true,
+    "processedAt": "2026-10-23T23:25:33.645Z"
+  },
+  {
+    "url": "https://github.com/Gathin23/cleanyourtv",
+    "title": "Using AI to clean your smart TV",
+    "description": "Article URL: https://github.com/Gathin23/cleanyourtv\nComments URL: https://news.ycombinator.com/item?id=50216682\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T23:23:05.017Z",
+    "published": "Fri, 23 Oct 2026 23:17:28 +0000",
+    "processed": true,
+    "processedAt": "2026-10-23T23:25:33.645Z"
+  },
+  {
+    "url": "https://www.forensicdbg.com/post/forensicdbg-s-ai-crash-debugging-gauntlet",
+    "title": "Show HN: AI Crash Debugging Gauntlet",
+    "description": "One of the core conceits of ForensicDbg was that if we build a significantly improved crash debugging core, that value would carry through, regardless of the final workflow.Our testers have helped us confirm that on the more traditional, visual debugging side. But how do you confirm that for AI deb",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T23:23:05.017Z",
+    "published": "Fri, 23 Oct 2026 23:11:06 +0000",
+    "processed": true,
+    "processedAt": "2026-10-23T23:25:33.645Z"
+  },
+  {
+    "url": "https://sampact.com/",
+    "title": "AgentProbe – test AI agents by making the systems around them fail",
+    "description": "Article URL: https://sampact.com/\nComments URL: https://news.ycombinator.com/item?id=50216636\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T23:23:05.017Z",
+    "published": "Fri, 23 Oct 2026 23:10:48 +0000",
+    "processed": true,
+    "processedAt": "2026-10-23T23:25:33.645Z"
+  },
+  {
+    "url": "https://agentcut.synteq.app",
+    "title": "I built a harness so I can watch Claude edit my videos live",
+    "description": "Article URL: https://agentcut.synteq.app\nComments URL: https://news.ycombinator.com/item?id=50216439\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T23:23:05.017Z",
+    "published": "Fri, 23 Oct 2026 22:48:17 +0000",
+    "processed": true,
+    "processedAt": "2026-10-23T23:25:33.645Z"
+  },
+  {
+    "url": "https://aethyro.com/",
+    "title": "Aethyro – AI chat SaaS, and a billing bypass I found by attacking my own product",
+    "description": "Article URL: https://aethyro.com/\nComments URL: https://news.ycombinator.com/item?id=50216385\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T23:23:05.017Z",
+    "published": "Fri, 23 Oct 2026 22:43:32 +0000"
+  },
+  {
+    "url": "https://www.axios.com/2026/10/23/ai-catastrophe-wall-street",
+    "title": "Wall Street prepares for AI's \"day after\"",
+    "description": "Article URL: https://www.axios.com/2026/10/23/ai-catastrophe-wall-street\nComments URL: https://news.ycombinator.com/item?id=50216307\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T23:23:05.017Z",
+    "published": "Fri, 23 Oct 2026 22:36:07 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=o6tNhFPuYjE",
+    "title": "Claude made me a DOOM II level [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=o6tNhFPuYjE\nComments URL: https://news.ycombinator.com/item?id=50216299\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T23:23:05.017Z",
+    "published": "Fri, 23 Oct 2026 22:35:40 +0000"
+  },
+  {
+    "url": "https://aakatheeri.github.io/narrative-deck/",
+    "title": "Narrative Deck – AI Agent skill for creating interactive web stories",
+    "description": "Article URL: https://aakatheeri.github.io/narrative-deck/\nComments URL: https://news.ycombinator.com/item?id=50216138\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T23:23:05.017Z",
+    "published": "Fri, 23 Oct 2026 22:18:39 +0000"
+  },
+  {
+    "url": "https://www.cio.com/article/4238689/the-same-ai-project-emits-more-carbon-dioxide-in-texas-than-in-sweden.html",
+    "title": "The same AI question emits more carbon dioxide in Texas than in Sweden",
+    "description": "Article URL: https://www.cio.com/article/4238689/the-same-ai-project-emits-more-carbon-dioxide-in-texas-than-in-sweden.html\nComments URL: https://news.ycombinator.com/item?id=50215991\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T23:23:05.017Z",
+    "published": "Fri, 23 Oct 2026 22:04:21 +0000"
+  },
+  {
+    "url": "https://www.computerworld.com/article/4239898/ai-accounts-for-one-fifth-of-companies-it-budgets.html",
+    "title": "AI devours a fifth of companies' IT budgets",
+    "description": "Article URL: https://www.computerworld.com/article/4239898/ai-accounts-for-one-fifth-of-companies-it-budgets.html\nComments URL: https://news.ycombinator.com/item?id=50215950\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T23:23:05.017Z",
+    "published": "Fri, 23 Oct 2026 22:00:05 +0000"
+  },
+  {
+    "url": "https://www.bradoyler.com/ai/continuous-delivery-is-a-security-feature/",
+    "title": "AI Just Raised the Stakes on Continuous Delivery",
+    "description": "Article URL: https://www.bradoyler.com/ai/continuous-delivery-is-a-security-feature/\nComments URL: https://news.ycombinator.com/item?id=50215890\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T23:23:05.017Z",
+    "published": "Fri, 23 Oct 2026 21:53:52 +0000"
+  },
+  {
+    "url": "https://github.com/Arthur031221/AiSniff",
+    "title": "Show HN: AiSniff, underline the phrases in a text that read like AI wrote them",
+    "description": "Article URL: https://github.com/Arthur031221/AiSniff\nComments URL: https://news.ycombinator.com/item?id=50215712\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T23:23:05.017Z",
+    "published": "Fri, 23 Oct 2026 21:36:29 +0000"
+  },
+  {
+    "url": "https://github.com/kathan3009/photoshop-mcp",
+    "title": "Show HN: I gave Claude control of Photoshop",
+    "description": "Article URL: https://github.com/kathan3009/photoshop-mcp\nComments URL: https://news.ycombinator.com/item?id=50215641\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T23:23:05.017Z",
+    "published": "Fri, 23 Oct 2026 21:30:07 +0000"
+  },
+  {
+    "url": "https://theconversation.com/friday-essay-ai-is-devastating-higher-education-but-the-system-was-already-broken-292988",
+    "title": "AI is devastating higher education, but the system was broken",
+    "description": "Article URL: https://theconversation.com/friday-essay-ai-is-devastating-higher-education-but-the-system-was-already-broken-292988\nComments URL: https://news.ycombinator.com/item?id=50215398\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T23:23:05.017Z",
+    "published": "Fri, 23 Oct 2026 21:11:59 +0000"
+  },
+  {
+    "url": "https://kouh.me/ai-text-detector",
+    "title": "Show HN: AI Detector that is private, free and unlimited use",
+    "description": "Article URL: https://kouh.me/ai-text-detector\nComments URL: https://news.ycombinator.com/item?id=50215330\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T23:23:05.017Z",
+    "published": "Fri, 23 Oct 2026 21:06:46 +0000"
+  },
+  {
+    "url": "https://stevekrouse.com/10x",
+    "title": "AI gets about 10x cheaper every year",
+    "description": "Article URL: https://stevekrouse.com/10x\nComments URL: https://news.ycombinator.com/item?id=50215307\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T23:23:05.017Z",
+    "published": "Fri, 23 Oct 2026 21:04:14 +0000"
+  },
+  {
+    "url": "https://www.cnet.com/tech/services-and-software/please-dont-let-an-ai-bot-log-into-your-bank-account/",
+    "title": "Please Don't Let an AI Bot Log into Your Bank Account",
+    "description": "Article URL: https://www.cnet.com/tech/services-and-software/please-dont-let-an-ai-bot-log-into-your-bank-account/\nComments URL: https://news.ycombinator.com/item?id=50215269\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T23:23:05.017Z",
+    "published": "Fri, 23 Oct 2026 21:01:25 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=1-NXfnVeDfw",
+    "title": "The Reason AI Can't Take Your Job [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=1-NXfnVeDfw\nComments URL: https://news.ycombinator.com/item?id=50215261\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T23:23:05.017Z",
+    "published": "Fri, 23 Oct 2026 21:00:20 +0000"
+  },
+  {
+    "url": "https://www.induction.ai/blog/benchmark-cache-isolation",
+    "title": "The one time we break the LLM cache on purpose",
+    "description": "Article URL: https://www.induction.ai/blog/benchmark-cache-isolation\nComments URL: https://news.ycombinator.com/item?id=50215039\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T23:23:05.017Z",
+    "published": "Fri, 23 Oct 2026 20:41:58 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=4iTqvHrzzAw",
+    "title": "What are some free AI education platforms to learn AI? [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=4iTqvHrzzAw\nComments URL: https://news.ycombinator.com/item?id=50214934\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T23:23:05.017Z",
+    "published": "Fri, 23 Oct 2026 20:33:10 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/",
+    "title": "Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context",
+    "description": "Moonshot AI released Kimi K3.1 Pro, a 2.8T-parameter, 104B-active MoE model with 1M-token context. It scores 65.7% on Terminal-Bench 4.0, costs $2/$10 per million tokens, and open weights arrive by Nov 4, 2026.\nThe post Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-23T23:23:21.877Z",
+    "published": "Fri, 23 Oct 2026 22:52:40 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training/",
+    "title": "OpenAI says it's cutting off internet access for frontier model training",
+    "description": "OpenAI says it will no longer allow frontier models to access the internet during training in an effort to put in new safety measures after a series of incidents.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-23T23:23:26.906Z",
+    "published": "Fri, 23 Oct 2026 22:37:02 +0000"
   }
 ]
