@@ -87248,5 +87248,204 @@
     "published": "Fri, 23 Oct 2026 00:45:37 +0000",
     "processed": true,
     "processedAt": "2026-10-23T01:24:39.605Z"
+  },
+  {
+    "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "description": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-23T06:24:49.600Z",
+    "published": "Fri, 23 Oct 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-23T06:27:27.970Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+    "description": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-23T06:24:53.345Z",
+    "published": "Fri, 23 Oct 2026 04:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-23T06:27:27.970Z"
+  },
+  {
+    "url": "https://freddiedeboer.substack.com/p/four-direct-reasonable-and-important",
+    "title": "Four Important AI Questions",
+    "description": "Article URL: https://freddiedeboer.substack.com/p/four-direct-reasonable-and-important\nComments URL: https://news.ycombinator.com/item?id=50205092\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T06:24:59.563Z",
+    "published": "Fri, 23 Oct 2026 06:19:08 +0000",
+    "processed": true,
+    "processedAt": "2026-10-23T06:27:27.970Z"
+  },
+  {
+    "url": "https://neurogrid.cc/en",
+    "title": "How to turn consumer hardware into AI infra",
+    "description": "Article URL: https://neurogrid.cc/en\nComments URL: https://news.ycombinator.com/item?id=50205001\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T06:24:59.563Z",
+    "published": "Fri, 23 Oct 2026 06:04:30 +0000",
+    "processed": true,
+    "processedAt": "2026-10-23T06:27:27.970Z"
+  },
+  {
+    "url": "https://www-cdn.anthropic.com/a28f24814c56e2834a3eae7b13946f19d3e97ec4/The%20AI%20Expectations%20Gap.pdf",
+    "title": "The AI Expectations Gap [pdf]",
+    "description": "Article URL: https://www-cdn.anthropic.com/a28f24814c56e2834a3eae7b13946f19d3e97ec4/The%20AI%20Expectations%20Gap.pdf\nComments URL: https://news.ycombinator.com/item?id=50204942\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T06:24:59.563Z",
+    "published": "Fri, 23 Oct 2026 05:56:15 +0000",
+    "processed": true,
+    "processedAt": "2026-10-23T06:27:27.970Z"
+  },
+  {
+    "url": "https://www.oreilly.com/radar/the-latest-anthropic-claude-models-contain-ai-text-watermarks-what-does-this-mean-for-you/",
+    "title": "The Latest Anthropic Claude Models Contain AI Text Watermarks",
+    "description": "Article URL: https://www.oreilly.com/radar/the-latest-anthropic-claude-models-contain-ai-text-watermarks-what-does-this-mean-for-you/\nComments URL: https://news.ycombinator.com/item?id=50204889\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T06:24:59.563Z",
+    "published": "Fri, 23 Oct 2026 05:43:38 +0000"
+  },
+  {
+    "url": "https://dimitro.gr/assets/pdf/AASM27.pdf",
+    "title": "When AI Agrees Too Much: Manipulating Automated Code Review via Bias Injection [pdf]",
+    "description": "Article URL: https://dimitro.gr/assets/pdf/AASM27.pdf\nComments URL: https://news.ycombinator.com/item?id=50204885\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T06:24:59.563Z",
+    "published": "Fri, 23 Oct 2026 05:41:53 +0000"
+  },
+  {
+    "url": "https://andreaciccarone.github.io/claim_graphs_draft.pdf",
+    "title": "Mapping Economic Theory with AI [pdf]",
+    "description": "Article URL: https://andreaciccarone.github.io/claim_graphs_draft.pdf\nComments URL: https://news.ycombinator.com/item?id=50204673\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T06:24:59.563Z",
+    "published": "Fri, 23 Oct 2026 04:56:40 +0000"
+  },
+  {
+    "url": "https://3blue1brown.substack.com/p/an-artists-take-on-ai-in-math",
+    "title": "An artist's take on AI in math",
+    "description": "Article URL: https://3blue1brown.substack.com/p/an-artists-take-on-ai-in-math\nComments URL: https://news.ycombinator.com/item?id=50204653\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T06:24:59.563Z",
+    "published": "Fri, 23 Oct 2026 04:51:14 +0000"
+  },
+  {
+    "url": "https://jacobg.co/ai-agents/",
+    "title": "AI Agents Kinda Broke the Internet",
+    "description": "Article URL: https://jacobg.co/ai-agents/\nComments URL: https://news.ycombinator.com/item?id=50204300\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T06:24:59.563Z",
+    "published": "Fri, 23 Oct 2026 03:48:55 +0000"
+  },
+  {
+    "url": "https://quantized.uk/",
+    "title": "Show HN: What LLM fits my GPU? – VRAM measured on real hardware for 117 models",
+    "description": "Article URL: https://quantized.uk/\nComments URL: https://news.ycombinator.com/item?id=50204153\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T06:24:59.563Z",
+    "published": "Fri, 23 Oct 2026 03:25:46 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.30307",
+    "title": "The Customer Is the Builder: how AI coding agents change software economics",
+    "description": "Article URL: https://arxiv.org/abs/2610.30307\nComments URL: https://news.ycombinator.com/item?id=50204149\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T06:24:59.563Z",
+    "published": "Fri, 23 Oct 2026 03:24:24 +0000"
+  },
+  {
+    "url": "https://testflight.apple.com/join/CgRdkqc4",
+    "title": "AI RSS reader with summaries – Brew beta",
+    "description": "Article URL: https://testflight.apple.com/join/CgRdkqc4\nComments URL: https://news.ycombinator.com/item?id=50204011\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T06:24:59.563Z",
+    "published": "Fri, 23 Oct 2026 03:00:46 +0000"
+  },
+  {
+    "url": "https://github.com/tensemem/tensemem",
+    "title": "Show HN: TenseMem – deterministic memory for AI agents",
+    "description": "Article URL: https://github.com/tensemem/tensemem\nComments URL: https://news.ycombinator.com/item?id=50203988\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T06:24:59.563Z",
+    "published": "Fri, 23 Oct 2026 02:57:16 +0000"
+  },
+  {
+    "url": "https://www.economist.com/international/2026/10/22/the-surprising-popularity-of-ai",
+    "title": "The Surprising Popularity of AI",
+    "description": "Article URL: https://www.economist.com/international/2026/10/22/the-surprising-popularity-of-ai\nComments URL: https://news.ycombinator.com/item?id=50203854\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T06:24:59.563Z",
+    "published": "Fri, 23 Oct 2026 02:36:05 +0000"
+  },
+  {
+    "url": "https://zordt.com/",
+    "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+    "description": "Article URL: https://zordt.com/\nComments URL: https://news.ycombinator.com/item?id=50203789\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T06:24:59.563Z",
+    "published": "Fri, 23 Oct 2026 02:25:18 +0000"
+  },
+  {
+    "url": "https://thenextweb.com/news/nvidia-minerva-aiops-ai-factory-monitoring",
+    "title": "Nvidia launches Minerva to catch failing parts in giant AI data centres",
+    "description": "Article URL: https://thenextweb.com/news/nvidia-minerva-aiops-ai-factory-monitoring\nComments URL: https://news.ycombinator.com/item?id=50203770\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T06:24:59.563Z",
+    "published": "Fri, 23 Oct 2026 02:21:45 +0000"
+  },
+  {
+    "url": "https://www.wsj.com/finance/stocks/metas-hunt-for-ai-capital-strikes-a-raw-nerve-on-wall-street-e2de1601",
+    "title": "Meta's Hunt for AI Capital Strikes a Raw Nerve on Wall Street",
+    "description": "Article URL: https://www.wsj.com/finance/stocks/metas-hunt-for-ai-capital-strikes-a-raw-nerve-on-wall-street-e2de1601\nComments URL: https://news.ycombinator.com/item?id=50203597\nPoints: 5\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T06:24:59.563Z",
+    "published": "Fri, 23 Oct 2026 01:50:06 +0000"
+  },
+  {
+    "url": "https://greyenlightenment.com/2026/10/21/ai-keeps-getting-better-why-is-its-writing-still-so-bad/",
+    "title": "AI Keeps Getting Better. Why Is Its Writing Still So Bad?",
+    "description": "Article URL: https://greyenlightenment.com/2026/10/21/ai-keeps-getting-better-why-is-its-writing-still-so-bad/\nComments URL: https://news.ycombinator.com/item?id=50203502\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T06:24:59.563Z",
+    "published": "Fri, 23 Oct 2026 01:37:19 +0000"
+  },
+  {
+    "url": "https://www.grillmyprofile.com",
+    "title": "Show HN: GrillMyProfile – AI roast of your LinkedIn, scored against a job",
+    "description": "Article URL: https://www.grillmyprofile.com\nComments URL: https://news.ycombinator.com/item?id=50203354\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-23T06:24:59.563Z",
+    "published": "Fri, 23 Oct 2026 01:20:10 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/lincoln-tech-deploys-leadsquared-ai-agents-across-student-enrolment-operations",
+    "title": "Lincoln Tech Deploys LeadSquared AI Agents Across Student Enrolment Operations",
+    "description": "The AI agents will handle lead prioritisation, application checks and follow-ups, with human oversight for key admissions decisions.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-23T06:25:18.978Z",
+    "published": "Fri, 23 Oct 2026 06:06:51 GMT"
   }
 ]
