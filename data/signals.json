@@ -87601,5 +87601,87 @@
     "category": "news",
     "discovered": "2026-10-23T11:58:44.648Z",
     "published": "Fri, 23 Oct 2026 09:59:15 +0000"
+  },
+  {
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "description": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-23T16:52:15.432Z",
+    "published": "Fri, 23 Oct 2026 17:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-23T16:54:53.053Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-10-23T16:52:17.891Z",
+    "published": "Fri, 23 Oct 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-23T16:54:53.053Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+    "title": "The Download: testing six tech promises and biotech’s blind spots",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s yowls and yips",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-23T16:52:20.137Z",
+    "published": "Fri, 23 Oct 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-23T16:54:53.053Z"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/immobiliare",
+    "title": "How Immobiliare.it went from one conversational agent to an agentic network",
+    "description": "Italy’s leading property marketplace goes from one conversational agent to an agentic network",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-10-23T16:52:23.466Z",
+    "published": "Fri, 23 Oct 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-23T16:54:53.053Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/why-parameter-count-is-not-model-complexity-an-introduction-to-effective-dimension/",
+    "title": "Why Parameter Count Is Not Model Complexity: An Introduction to Effective Dimension",
+    "description": "What does effective dimension reveal about redundancy, generalization, and trainability that parameter count, loss, and accuracy do not?\nThe post Why Parameter Count Is Not Model Complexity: An Introduction to Effective Dimension appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-23T16:52:31.466Z",
+    "published": "Fri, 23 Oct 2026 12:30:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-23T16:54:53.053Z"
+  },
+  {
+    "url": "https://the-decoder.com/openai-ceo-sam-altman-says-advanced-ai-will-inevitably-escape-its-sandbox-and-only-alignment-can-save-us/",
+    "title": "OpenAI CEO Sam Altman says advanced AI will inevitably escape its sandbox, and only alignment can save us",
+    "description": "Sam Altman believes advanced AI can't be kept locked up forever. Sandboxes and monitoring are only temporary fixes. Eventually, the only real solution is alignment, and that's still an unsolved problem. He also warns that AI models are already finding hardware security flaws no human hacker",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-23T16:52:33.213Z",
+    "published": "Fri, 23 Oct 2026 15:42:18 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/tech-mahindra-partners-with-spacexsi-to-bring-ai-into-software-engineering",
+    "title": "Tech Mahindra Partners With SpaceXSI to Bring AI Into Software Engineering",
+    "description": "The collaboration targets enterprise clients across six industries, with joint programmes focused on application modernisation, code quality and developer productivity.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-23T16:52:44.182Z",
+    "published": "Fri, 23 Oct 2026 13:22:57 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2294849/asus-proart-p16-rtx-spark-review/",
+    "title": "ASUS ProArt P16 review: A sleek showcase for NVIDIA's RTX Spark",
+    "description": "NVIDIA&#39;s RTX Spark platform is off to a good start, but the ProArt P16 is really only meant for AI fanatics.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-23T16:52:46.376Z",
+    "published": "Fri, 23 Oct 2026 12:00:00 +0000"
   }
 ]
