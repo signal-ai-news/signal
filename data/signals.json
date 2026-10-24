@@ -88002,5 +88002,231 @@
     "published": "Fri, 23 Oct 2026 18:00:46 GMT",
     "processed": true,
     "processedAt": "2026-10-24T07:09:15.683Z"
+  },
+  {
+    "url": "https://www.ndw.jp/nintendo-interview-261023/",
+    "title": "Shigeru Miyamoto on Gen AI",
+    "description": "Article URL: https://www.ndw.jp/nintendo-interview-261023/\nComments URL: https://news.ycombinator.com/item?id=50220413\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T12:10:11.605Z",
+    "published": "Sat, 24 Oct 2026 11:52:32 +0000",
+    "processed": true,
+    "processedAt": "2026-10-24T12:12:41.338Z"
+  },
+  {
+    "url": "https://github.com/Lucki74/draggy",
+    "title": "Draggy: A Windows desktop app for local and cloud AI chat and coding",
+    "description": "Article URL: https://github.com/Lucki74/draggy\nComments URL: https://news.ycombinator.com/item?id=50220255\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T12:10:11.605Z",
+    "published": "Sat, 24 Oct 2026 11:28:42 +0000",
+    "processed": true,
+    "processedAt": "2026-10-24T12:12:41.338Z"
+  },
+  {
+    "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+    "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+    "description": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/\nComments URL: https://news.ycombinator.com/item?id=50220204\nPoints: 25\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T12:10:11.605Z",
+    "published": "Sat, 24 Oct 2026 11:18:54 +0000",
+    "processed": true,
+    "processedAt": "2026-10-24T12:12:41.338Z"
+  },
+  {
+    "url": "https://www.polygon.com/super-mario-bros-shigeru-miyamoto-ai-order-culture-japan-award-nintendo/",
+    "title": "Super Mario creator breaks down the problem with AI perfectly",
+    "description": "Article URL: https://www.polygon.com/super-mario-bros-shigeru-miyamoto-ai-order-culture-japan-award-nintendo/\nComments URL: https://news.ycombinator.com/item?id=50220182\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T12:10:11.605Z",
+    "published": "Sat, 24 Oct 2026 11:16:37 +0000",
+    "processed": true,
+    "processedAt": "2026-10-24T12:12:41.338Z"
+  },
+  {
+    "url": "https://mathoverflow.net/questions/516336/has-ai-made-any-progress-as-a-mathematical-theory-builder-rather-than-just-a-pr",
+    "title": "Has AI made any progress as a mathematical theory-builder,,,,?",
+    "description": "Article URL: https://mathoverflow.net/questions/516336/has-ai-made-any-progress-as-a-mathematical-theory-builder-rather-than-just-a-pr\nComments URL: https://news.ycombinator.com/item?id=50219971\nPoints: 2\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T12:10:11.605Z",
+    "published": "Sat, 24 Oct 2026 10:42:39 +0000",
+    "processed": true,
+    "processedAt": "2026-10-24T12:12:41.338Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=zONGVaONKe8",
+    "title": "No One Needs Us Anymore – Claude Opus 5.5 Music Video",
+    "description": "Article URL: https://www.youtube.com/watch?v=zONGVaONKe8\nComments URL: https://news.ycombinator.com/item?id=50219901\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T12:10:11.605Z",
+    "published": "Sat, 24 Oct 2026 10:30:49 +0000"
+  },
+  {
+    "url": "https://twitter.com/chrislakin/status/2113358733548081528",
+    "title": "Claude Code slyly adding users' emails to outbound HTTP",
+    "description": "Article URL: https://twitter.com/chrislakin/status/2113358733548081528\nComments URL: https://news.ycombinator.com/item?id=50219875\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T12:10:11.605Z",
+    "published": "Sat, 24 Oct 2026 10:26:30 +0000"
+  },
+  {
+    "url": "https://pansophics.substack.com/p/how-some-peer-reviewed-journals-contaminated",
+    "title": "Peer-review failures at NeurIPS, IEEE, and ACM introduced flawed AI logic",
+    "description": "Article URL: https://pansophics.substack.com/p/how-some-peer-reviewed-journals-contaminated\nComments URL: https://news.ycombinator.com/item?id=50219825\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T12:10:11.605Z",
+    "published": "Sat, 24 Oct 2026 10:19:29 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50219641",
+    "title": "Took apart Claude Code, then turned it into a free course on harness engineering",
+    "description": "The fastest way to learn harness engineering? Build Claude Code from scratch.Why harness engineering? LangChain kept the same model and changed only the harness. Their coding agent went from 53% to 67% on Terminal-Bench, a top coding-agent benchmark. From outside the top 30 to the top 5. Same model",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T12:10:11.605Z",
+    "published": "Sat, 24 Oct 2026 09:48:38 +0000"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-10-23/sk-data-center-arm-in-talks-to-fund-350-billion-ai-buildout",
+    "title": "5GW / $350B Power Plants and AI Data Centers",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-10-23/sk-data-center-arm-in-talks-to-fund-350-billion-ai-buildout\nComments URL: https://news.ycombinator.com/item?id=50219467\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T12:10:11.605Z",
+    "published": "Sat, 24 Oct 2026 09:12:33 +0000"
+  },
+  {
+    "url": "https://www.thestreet.com/crypto/artificial-intelligence/mace-ai-founders-warn-of-ai-double-agents-amid-banks-detecting-unauthorized-ai-agents-",
+    "title": "Mace AI founders warn of AI double agents amid banks detecting unauthorized AI",
+    "description": "Article URL: https://www.thestreet.com/crypto/artificial-intelligence/mace-ai-founders-warn-of-ai-double-agents-amid-banks-detecting-unauthorized-ai-agents-\nComments URL: https://news.ycombinator.com/item?id=50219381\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T12:10:11.605Z",
+    "published": "Sat, 24 Oct 2026 08:54:54 +0000"
+  },
+  {
+    "url": "https://twitter.com/intcyberdigest/status/2113815992984080865",
+    "title": "Sweden's Government Offices will block ChatGPT and Claude on staff computers",
+    "description": "Article URL: https://twitter.com/intcyberdigest/status/2113815992984080865\nComments URL: https://news.ycombinator.com/item?id=50219364\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T12:10:11.605Z",
+    "published": "Sat, 24 Oct 2026 08:51:06 +0000"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo",
+    "title": "UK to invest £100M in 'world first' AI Biosecurity Lab",
+    "description": "Article URL: https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo\nComments URL: https://news.ycombinator.com/item?id=50219343\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T12:10:11.605Z",
+    "published": "Sat, 24 Oct 2026 08:44:57 +0000"
+  },
+  {
+    "url": "https://sideos.ai",
+    "title": "Show HN: Local AI for dictation, meetings, background tasks and more",
+    "description": "Article URL: https://sideos.ai\nComments URL: https://news.ycombinator.com/item?id=50219166\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T12:10:11.605Z",
+    "published": "Sat, 24 Oct 2026 08:04:16 +0000"
+  },
+  {
+    "url": "https://usb-ai-hazel.vercel.app/",
+    "title": "USB AI",
+    "description": "Article URL: https://usb-ai-hazel.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=50219139\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T12:10:11.605Z",
+    "published": "Sat, 24 Oct 2026 07:59:50 +0000"
+  },
+  {
+    "url": "https://aicitewho.com/",
+    "title": "Show HN: Inspect AI recommendation evidence and turn findings into website tasks",
+    "description": "Article URL: https://aicitewho.com/\nComments URL: https://news.ycombinator.com/item?id=50219085\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T12:10:11.605Z",
+    "published": "Sat, 24 Oct 2026 07:47:51 +0000"
+  },
+  {
+    "url": "https://github.com/trenttrinder1111-byte/zk-irp-firewall",
+    "title": "ZK-irp-firewall – Rust/Python ZK security framework for AI agents",
+    "description": "Article URL: https://github.com/trenttrinder1111-byte/zk-irp-firewall\nComments URL: https://news.ycombinator.com/item?id=50219061\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T12:10:11.605Z",
+    "published": "Sat, 24 Oct 2026 07:43:40 +0000"
+  },
+  {
+    "url": "https://www.reddit.com/r/singularity/comments/1xduimx/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+    "title": "Samsung TV on-device AI listening, using soundbar's mic if the TV has none",
+    "description": "Article URL: https://www.reddit.com/r/singularity/comments/1xduimx/hacker_reverse_engineers_his_samsung_tv_and_finds/\nComments URL: https://news.ycombinator.com/item?id=50218950\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T12:10:11.605Z",
+    "published": "Sat, 24 Oct 2026 07:13:52 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+    "title": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+    "description": "OpenAI now trains its most powerful models without internet access, after an internal research model exploited a DNS misconfiguration in September and reached the open internet. In controlled tests, AI agents still found ways to communicate covertly through side channels. The incidents echo",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-24T12:10:20.105Z",
+    "published": "Sat, 24 Oct 2026 11:12:36 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/fancy-harnesses-make-coding-agents-more-expensive-but-not-better-study-finds/",
+    "title": "Fancy harnesses make coding agents more expensive but not better, study finds",
+    "description": "A controlled study shows that switching between coding-agent harnesses like Claude Code, OpenCode, or mini-SWE-agent barely moves pass rates more than rerunning the same setup. Cost per task, however, can triple, driven mainly by the system prompt that gets resent with every step.\nThe artic",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-24T12:10:20.105Z",
+    "published": "Sat, 24 Oct 2026 09:21:39 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+    "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+    "description": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-24T12:10:26.465Z",
+    "published": "Sat, 24 Oct 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/",
+    "title": "Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers",
+    "description": "Anthropic sandbox-runtime (srt) is the open-source, OS-level sandbox behind Claude Code. It restricts file and network access for agents, MCP servers and CLI tools with Seatbelt on macOS and bubblewrap on Linux, no containers needed.\nThe post Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-24T12:10:29.505Z",
+    "published": "Sat, 24 Oct 2026 11:12:27 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/",
+    "title": "Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows",
+    "description": "Discover how to extend agentic memory beyond basic prompts by building a stateful engineering copilot with Letta. This comprehensive guide covers inspectable core memory, archival vector retrieval, multi-agent shared state, custom tools, and portable workflows.\nThe post Stateful Agentic Engineering",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-24T12:10:29.505Z",
+    "published": "Sat, 24 Oct 2026 10:29:31 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2296124/meta-delaying-controversial-business-terms-scraping-concerns/",
+    "title": "Meta is delaying its controversial new business terms amid scraping concerns",
+    "description": "Meta drew flak for an upcoming change to its business terms that would allow it to scrape business accounts&#39; content for AI training.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-24T12:10:34.760Z",
+    "published": "Sat, 24 Oct 2026 10:18:15 +0000"
   }
 ]
