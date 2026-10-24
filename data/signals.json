@@ -88500,5 +88500,204 @@
     "published": "Sat, 24 Oct 2026 16:11:53 +0000",
     "processed": true,
     "processedAt": "2026-10-24T18:58:25.400Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-24T21:27:59.183Z",
+    "published": "Sat, 24 Oct 2026 19:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-24T21:30:30.997Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50225469",
+    "title": "Ask HN: Any real cases where AI slop ruined a codebase and forced a rewrite?",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=50225469\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T21:28:04.738Z",
+    "published": "Sat, 24 Oct 2026 21:23:44 +0000",
+    "processed": true,
+    "processedAt": "2026-10-24T21:30:30.997Z"
+  },
+  {
+    "url": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
+    "title": "Making My Blog Readable by AI Agents",
+    "description": "Article URL: https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents\nComments URL: https://news.ycombinator.com/item?id=50225443\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T21:28:04.738Z",
+    "published": "Sat, 24 Oct 2026 21:21:33 +0000",
+    "processed": true,
+    "processedAt": "2026-10-24T21:30:30.997Z"
+  },
+  {
+    "url": "https://github.com/sevenboxlabs/sevenbox",
+    "title": "Sevenbox, find what an AI agent's wrong decision affected",
+    "description": "Article URL: https://github.com/sevenboxlabs/sevenbox\nComments URL: https://news.ycombinator.com/item?id=50225322\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T21:28:04.738Z",
+    "published": "Sat, 24 Oct 2026 21:09:47 +0000",
+    "processed": true,
+    "processedAt": "2026-10-24T21:30:30.997Z"
+  },
+  {
+    "url": "https://perchfocus.com/",
+    "title": "Show HN: Perch, a calm Mac app for juggling Claude Code sessions",
+    "description": "I'm an engineer, but I also hate using tools that make things overcomplicated.It's also tough with the new pace of AI-driven development to really get into the flow state, and maintain (still needed!) focus on 1 thing.So I built a tool that I actually want to use every day.Curious if others would f",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T21:28:04.738Z",
+    "published": "Sat, 24 Oct 2026 21:01:39 +0000",
+    "processed": true,
+    "processedAt": "2026-10-24T21:30:30.997Z"
+  },
+  {
+    "url": "https://github.com/gtanczyk/genaicode",
+    "title": "Show HN: Claude Code(and others) embedded in your app",
+    "description": "I started this project in 2024 when I got fascinated with LLMs, and what I did was a coding agent (CLI -> interactive -> GUI). I also added an integration with Vite for having it embedded inside my apps(mostly games).\nFew months ago I pivoted it to become a low profile AI provider wrapper library (",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T21:28:04.738Z",
+    "published": "Sat, 24 Oct 2026 20:54:27 +0000"
+  },
+  {
+    "url": "https://www.axios.com/2026/10/23/ai-economic-research-analysis",
+    "title": "How AI is transforming economic research and analysis",
+    "description": "Article URL: https://www.axios.com/2026/10/23/ai-economic-research-analysis\nComments URL: https://news.ycombinator.com/item?id=50225125\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T21:28:04.738Z",
+    "published": "Sat, 24 Oct 2026 20:50:56 +0000"
+  },
+  {
+    "url": "https://www.uxness.in/2026/08/top-ux-conferences-to-attend-in-2027.html",
+    "title": "Which AI in UX or HCI conference is in your radar for 2027?",
+    "description": "Article URL: https://www.uxness.in/2026/08/top-ux-conferences-to-attend-in-2027.html\nComments URL: https://news.ycombinator.com/item?id=50225094\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T21:28:04.738Z",
+    "published": "Sat, 24 Oct 2026 20:48:44 +0000"
+  },
+  {
+    "url": "https://bou.ke/blog/zoetermeer/",
+    "title": "Decompiling Games with AI: Virtueel Zoetermeer",
+    "description": "Article URL: https://bou.ke/blog/zoetermeer/\nComments URL: https://news.ycombinator.com/item?id=50225054\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T21:28:04.738Z",
+    "published": "Sat, 24 Oct 2026 20:44:09 +0000"
+  },
+  {
+    "url": "https://www.theatlantic.com/technology/2026/10/the-safe-internet-is-shrinking/689130/",
+    "title": "An explosion of AI-powered hacks will reshape life online",
+    "description": "Article URL: https://www.theatlantic.com/technology/2026/10/the-safe-internet-is-shrinking/689130/\nComments URL: https://news.ycombinator.com/item?id=50224973\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T21:28:04.738Z",
+    "published": "Sat, 24 Oct 2026 20:35:23 +0000"
+  },
+  {
+    "url": "https://twitter.com/rynorhn/status/2113757656498196605",
+    "title": "AI agents, in separate VMs without network, communicated through the CPU cache",
+    "description": "Article URL: https://twitter.com/rynorhn/status/2113757656498196605\nComments URL: https://news.ycombinator.com/item?id=50224890\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T21:28:04.738Z",
+    "published": "Sat, 24 Oct 2026 20:28:50 +0000"
+  },
+  {
+    "url": "https://www.optimallyirrational.com/p/will-ai-stop-us-getting-ripped-off",
+    "title": "Will AI stop us getting ripped off?",
+    "description": "Article URL: https://www.optimallyirrational.com/p/will-ai-stop-us-getting-ripped-off\nComments URL: https://news.ycombinator.com/item?id=50224591\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T21:28:04.738Z",
+    "published": "Sat, 24 Oct 2026 20:01:53 +0000"
+  },
+  {
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/02/arxiv-imposes-rate-limit-on-paper-submissions-to-stem-the-ai-slop-tide/5300899",
+    "title": "ArXiv imposes rate limit on paper submissions to stem the AI slop tide",
+    "description": "Article URL: https://www.theregister.com/ai-and-ml/2026/10/02/arxiv-imposes-rate-limit-on-paper-submissions-to-stem-the-ai-slop-tide/5300899\nComments URL: https://news.ycombinator.com/item?id=50224571\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T21:28:04.738Z",
+    "published": "Sat, 24 Oct 2026 19:59:51 +0000"
+  },
+  {
+    "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+    "title": "No Signs of AI Payoff Outside the Tech Sector",
+    "description": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector\nComments URL: https://news.ycombinator.com/item?id=50224463\nPoints: 270\n# Comments: 229",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T21:28:04.738Z",
+    "published": "Sat, 24 Oct 2026 19:47:19 +0000"
+  },
+  {
+    "url": "https://github.com/swrdfish/narro",
+    "title": "Show HN: Narro – Read web pages and Kindle books using local AI voices",
+    "description": "I wanted a read-aloud extension that could read from the Kindle Online Reader. The ones I tried used voices I did not enjoy listening to or had a UX that was too cluttered or annoying or needed a signup.So I decided to vibe code my own. It is open source and uses open weight models that run in the",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T21:28:04.738Z",
+    "published": "Sat, 24 Oct 2026 19:37:32 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50224269",
+    "title": "Ask HN: Find Vulns with Claude in OSS?",
+    "description": "With the phpshell vuln coming about last week, can the average techie find zero-day vulns in open source software?Does anyone do this?\n\nComments URL: https://news.ycombinator.com/item?id=50224269\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T21:28:04.738Z",
+    "published": "Sat, 24 Oct 2026 19:24:52 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=NyOeLB0WVNE",
+    "title": "Who Pays for AI Data Centers?",
+    "description": "Article URL: https://www.youtube.com/watch?v=NyOeLB0WVNE\nComments URL: https://news.ycombinator.com/item?id=50224121\nPoints: 3\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T21:28:04.738Z",
+    "published": "Sat, 24 Oct 2026 19:09:16 +0000"
+  },
+  {
+    "url": "https://github.com/RhinoDevel/poldi",
+    "title": "Poldi – Local offline AI assistant/\"companion\" for the GPU poor",
+    "description": "Article URL: https://github.com/RhinoDevel/poldi\nComments URL: https://news.ycombinator.com/item?id=50224098\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T21:28:04.738Z",
+    "published": "Sat, 24 Oct 2026 19:06:48 +0000"
+  },
+  {
+    "url": "https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies",
+    "title": "AI: EU Member States approve \"digital expropriation\" for AI companies",
+    "description": "Article URL: https://noyb.eu/en/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies\nComments URL: https://news.ycombinator.com/item?id=50223856\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T21:28:04.738Z",
+    "published": "Sat, 24 Oct 2026 18:33:34 +0000"
+  },
+  {
+    "url": "https://playgama.ai/play/xl6duef7p3",
+    "title": "Chess Arena – Minimal chess vs. Hard AI (vanilla JavaScript, no login)",
+    "description": "Article URL: https://playgama.ai/play/xl6duef7p3\nComments URL: https://news.ycombinator.com/item?id=50223798\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T21:28:04.738Z",
+    "published": "Sat, 24 Oct 2026 18:25:53 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50223726",
+    "title": "What if you could have AI applied to your brain?",
+    "description": "Imagine this. You can control Alexa with your voice and ask it to play songs, remember grocery lists, add reminders to your calendar. Elon Musk's Neuralink can interface with your brain and reduce the latency with which you can communicate with computers. What if you had AI applied to your brain an",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T21:28:04.738Z",
+    "published": "Sat, 24 Oct 2026 18:16:47 +0000"
   }
 ]
