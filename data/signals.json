@@ -14427,7 +14427,9 @@
     "source": "TechCrunch AI",
     "category": "news",
     "discovered": "2026-08-04T16:25:14.283Z",
-    "published": "Tue, 04 Aug 2026 14:03:01 +0000"
+    "published": "Tue, 04 Aug 2026 14:03:01 +0000",
+    "processed": true,
+    "processedAt": "2026-10-24T01:55:53.613Z"
   },
   {
     "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
@@ -14436,7 +14438,9 @@
     "source": "TechCrunch AI",
     "category": "news",
     "discovered": "2026-08-04T16:25:14.283Z",
-    "published": "Tue, 04 Aug 2026 13:00:00 +0000"
+    "published": "Tue, 04 Aug 2026 13:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-24T01:55:53.613Z"
   },
   {
     "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
@@ -14445,7 +14449,9 @@
     "source": "MIT Tech Review AI",
     "category": "news",
     "discovered": "2026-08-04T16:25:15.529Z",
-    "published": "Tue, 04 Aug 2026 12:14:00 +0000"
+    "published": "Tue, 04 Aug 2026 12:14:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-24T01:55:53.613Z"
   },
   {
     "url": "https://github.com/KERNlang/agon",
@@ -14454,7 +14460,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-04T16:25:28.282Z",
-    "published": "Tue, 04 Aug 2026 16:16:59 +0000"
+    "published": "Tue, 04 Aug 2026 16:16:59 +0000",
+    "processed": true,
+    "processedAt": "2026-10-24T01:55:53.613Z"
   },
   {
     "url": "https://arxiv.org/abs/2602.16763",
@@ -87955,5 +87963,16 @@
     "category": "news",
     "discovered": "2026-10-23T23:23:26.906Z",
     "published": "Fri, 23 Oct 2026 22:37:02 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/",
+    "title": "Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms",
+    "description": "Kyutai released CADRE, a family of 7 open causal diffusion video autoencoders for interactive world models. World models built on CADRE run at 20 fps on 1 H100 and react in under 230 ms.\nThe post Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms appeared first on MarkTechPost.",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-24T01:53:42.344Z",
+    "published": "Fri, 23 Oct 2026 23:26:53 +0000",
+    "processed": true,
+    "processedAt": "2026-10-24T01:55:53.615Z"
   }
 ]
