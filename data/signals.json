@@ -88228,5 +88228,240 @@
     "category": "news",
     "discovered": "2026-10-24T12:10:34.760Z",
     "published": "Sat, 24 Oct 2026 10:18:15 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "title": "Block’s new voice model sounds eerily human",
+    "description": "Block said that the voice model can run locally on a MacBook M4 Max",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-24T16:10:41.738Z",
+    "published": "Sat, 24 Oct 2026 16:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-24T16:13:20.358Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+    "description": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-24T16:10:41.738Z",
+    "published": "Sat, 24 Oct 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-24T16:13:20.358Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-24T16:10:41.738Z",
+    "published": "Sat, 24 Oct 2026 14:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-24T16:13:20.358Z"
+  },
+  {
+    "url": "https://rentry.co/themis-docket-e61b189e37",
+    "title": "Stolen AI Architecture integrated into healthcare startup and defense contractor",
+    "description": "Article URL: https://rentry.co/themis-docket-e61b189e37\nComments URL: https://news.ycombinator.com/item?id=50222576\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T16:10:51.747Z",
+    "published": "Sat, 24 Oct 2026 16:01:49 +0000",
+    "processed": true,
+    "processedAt": "2026-10-24T16:13:20.358Z"
+  },
+  {
+    "url": "https://app.enclave.ai/threat-feed",
+    "title": "Show HN: AI agent swarms test if new CVEs are exploitable in your env",
+    "description": "Article URL: https://app.enclave.ai/threat-feed\nComments URL: https://news.ycombinator.com/item?id=50222559\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T16:10:51.747Z",
+    "published": "Sat, 24 Oct 2026 16:00:05 +0000",
+    "processed": true,
+    "processedAt": "2026-10-24T16:13:20.358Z"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
+    "title": "Claude did not invent scorpion antivenom",
+    "description": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom\nComments URL: https://news.ycombinator.com/item?id=50222339\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T16:10:51.747Z",
+    "published": "Sat, 24 Oct 2026 15:41:06 +0000"
+  },
+  {
+    "url": "https://faillearnrepeat.net/blog/from-swe-to-ai-research/",
+    "title": "From Software Engineering to AI Research or a Tale of 413 \"No\"",
+    "description": "Article URL: https://faillearnrepeat.net/blog/from-swe-to-ai-research/\nComments URL: https://news.ycombinator.com/item?id=50222088\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T16:10:51.747Z",
+    "published": "Sat, 24 Oct 2026 15:15:40 +0000"
+  },
+  {
+    "url": "https://github.com/google-deepmind/detectorscope",
+    "title": "DetectorScope: AI text detectors that show their work",
+    "description": "Article URL: https://github.com/google-deepmind/detectorscope\nComments URL: https://news.ycombinator.com/item?id=50222061\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T16:10:51.747Z",
+    "published": "Sat, 24 Oct 2026 15:13:07 +0000"
+  },
+  {
+    "url": "https://www.lkb.fr/en/death-of-claude-cohen-tannoudji/",
+    "title": "Claude Cohen-Tannoudji (Physics Nobel Prize 1997) has died",
+    "description": "Article URL: https://www.lkb.fr/en/death-of-claude-cohen-tannoudji/\nComments URL: https://news.ycombinator.com/item?id=50221890\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T16:10:51.747Z",
+    "published": "Sat, 24 Oct 2026 14:56:47 +0000"
+  },
+  {
+    "url": "https://tylertringas.com/ai-legal/",
+    "title": "How AI Saved My Company From a 2-Year Litigation Nightmare",
+    "description": "Article URL: https://tylertringas.com/ai-legal/\nComments URL: https://news.ycombinator.com/item?id=50221750\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T16:10:51.747Z",
+    "published": "Sat, 24 Oct 2026 14:44:27 +0000"
+  },
+  {
+    "url": "https://www.uxness.in/2026/10/ux-research-for-ai-products-ai-native-research-lifecycle.html",
+    "title": "UX Research for AI Products: The AI-Native Research Lifecycle",
+    "description": "Article URL: https://www.uxness.in/2026/10/ux-research-for-ai-products-ai-native-research-lifecycle.html\nComments URL: https://news.ycombinator.com/item?id=50221693\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T16:10:51.747Z",
+    "published": "Sat, 24 Oct 2026 14:39:45 +0000"
+  },
+  {
+    "url": "https://github.com/Aldyernesto/shotstash",
+    "title": "Show HN: Shotstash – Self-hosted media cloud for creators (MIT, BYO-AI)",
+    "description": "Article URL: https://github.com/Aldyernesto/shotstash\nComments URL: https://news.ycombinator.com/item?id=50221460\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T16:10:51.747Z",
+    "published": "Sat, 24 Oct 2026 14:17:40 +0000"
+  },
+  {
+    "url": "https://www.militarytimes.com/industry/techwatch/2026/10/23/us-air-force-wants-ai-to-assist-aerial-refueling/",
+    "title": "US Air Force wants AI to assist aerial refueling",
+    "description": "Article URL: https://www.militarytimes.com/industry/techwatch/2026/10/23/us-air-force-wants-ai-to-assist-aerial-refueling/\nComments URL: https://news.ycombinator.com/item?id=50221226\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T16:10:51.747Z",
+    "published": "Sat, 24 Oct 2026 13:52:56 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50220934",
+    "title": "Is AI just another get rich quick scheme?",
+    "description": "You too can get rich quick in real estate --- details in this book; only $49.95.If there really was a sure fire way to get rich quick, why sell books to the public? Why not keep it to yourself and apply it to make money?The same applies to AI. If it was really all that, they wouldn't be selling tok",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T16:10:51.747Z",
+    "published": "Sat, 24 Oct 2026 13:11:37 +0000"
+  },
+  {
+    "url": "https://substack.norabble.com/p/ai-safety-is-all-hands-on-deck",
+    "title": "Regulate the deployment, not just the model: a who-does-what plan for AI safety",
+    "description": "Article URL: https://substack.norabble.com/p/ai-safety-is-all-hands-on-deck\nComments URL: https://news.ycombinator.com/item?id=50220831\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T16:10:51.747Z",
+    "published": "Sat, 24 Oct 2026 12:57:53 +0000"
+  },
+  {
+    "url": "https://mantid.dev",
+    "title": "Show HN: Mantid, a Mac app that lets non-ML people train their own AI models",
+    "description": "Article URL: https://mantid.dev\nComments URL: https://news.ycombinator.com/item?id=50220773\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T16:10:51.747Z",
+    "published": "Sat, 24 Oct 2026 12:49:06 +0000"
+  },
+  {
+    "url": "https://medicalxpress.com/news/2026-10-ai-generalist-doctors-medical.html",
+    "title": "AI gets more diagnoses right than generalist doctors in medical challenge",
+    "description": "Article URL: https://medicalxpress.com/news/2026-10-ai-generalist-doctors-medical.html\nComments URL: https://news.ycombinator.com/item?id=50220694\nPoints: 6\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T16:10:51.747Z",
+    "published": "Sat, 24 Oct 2026 12:38:09 +0000"
+  },
+  {
+    "url": "https://homepage.farm/ai.html",
+    "title": "What's Wrong with AI?",
+    "description": "Article URL: https://homepage.farm/ai.html\nComments URL: https://news.ycombinator.com/item?id=50220640\nPoints: 7\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T16:10:51.747Z",
+    "published": "Sat, 24 Oct 2026 12:30:32 +0000"
+  },
+  {
+    "url": "https://www.construction-physics.com/p/reading-list-102426",
+    "title": "Minimum lot sizes, Boeing's next 737 MAX, Fervo short sellers, Figure AI's data",
+    "description": "Article URL: https://www.construction-physics.com/p/reading-list-102426\nComments URL: https://news.ycombinator.com/item?id=50220547\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-24T16:10:51.747Z",
+    "published": "Sat, 24 Oct 2026 12:16:03 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-add-guardrails-to-a-local-llm-agent/",
+    "title": "How to Add Guardrails to a Local LLM Agent",
+    "description": "A hands-on guide with Gemma 4, Ollama, and the OpenAI Agents SDK\nThe post How to Add Guardrails to a Local LLM Agent appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-24T16:10:57.146Z",
+    "published": "Sat, 24 Oct 2026 14:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/three-fired-openai-safety-researchers-say-they-were-never-told-what-they-actually-leaked/",
+    "title": "Three fired OpenAI safety researchers say they were never told what they actually leaked",
+    "description": "The three OpenAI safety researchers who were fired, Tomek Korbak, Mikita Balesni, and Jasmine Wang, are publicly pushing back against allegations from their former employer. They deny sharing confidential information and see a connection to their advocacy for AI systems that are easier to s",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-24T16:10:58.896Z",
+    "published": "Sat, 24 Oct 2026 15:19:33 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/ai-makes-junior-patent-attorneys-instantly-better-but-may-quietly-stunt-their-professional-growth/",
+    "title": "AI makes junior patent attorneys instantly better but may quietly stunt their professional growth",
+    "description": "A three-month field experiment with 133 patent attorneys shows that AI boosts immediate performance, with junior lawyers gaining the most. But when the AI is taken away, only senior attorneys retain the benefits, suggesting that baseline expertise is a prerequisite for turning AI-assisted p",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-24T16:10:58.896Z",
+    "published": "Sat, 24 Oct 2026 14:34:05 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/blocks-new-ai-model-dessa-was-trained-entirely-on-human-speech-to-catch-emotions-text-based-models-miss/",
+    "title": "Block's new AI model Dessa was trained entirely on human speech to catch emotions text-based models miss",
+    "description": "Block, the company behind Square and Cash App, has introduced Dessa, a speech model that processes audio directly instead of converting it to text first. Dessa is designed to recognize emotions, sarcasm, and pauses in real time. The model runs locally on a MacBook Pro M4 Max but isn't publi",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-24T16:10:58.896Z",
+    "published": "Sat, 24 Oct 2026 14:09:46 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2290489/how-to-improve-pc-airflow-better-cooling/",
+    "title": "How to improve your PC's airflow for better cooling",
+    "description": "Here&#39;s how to think about your PC&#39;s fans.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-24T16:11:13.808Z",
+    "published": "Sat, 24 Oct 2026 12:45:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2294585/ken-kutaragi-father-of-playstation-sides-with-sony-physical-games/",
+    "title": "'Father of the PlayStation' Ken Kutaragi sides with Sony on the physical discs debate",
+    "description": "The debate about Sony&#39;s plan to stop making physical PS5 discs has raged since this summer.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-24T16:11:13.808Z",
+    "published": "Sat, 24 Oct 2026 12:15:00 +0000"
   }
 ]
