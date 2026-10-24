@@ -14504,7 +14504,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-04T16:25:28.282Z",
-    "published": "Tue, 04 Aug 2026 15:59:11 +0000"
+    "published": "Tue, 04 Aug 2026 15:59:11 +0000",
+    "processed": true,
+    "processedAt": "2026-10-24T18:58:25.398Z"
   },
   {
     "url": "https://www.wheresyoured.at/the-ai-demand-bubble/",
@@ -14513,7 +14515,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-04T16:25:28.282Z",
-    "published": "Tue, 04 Aug 2026 15:51:51 +0000"
+    "published": "Tue, 04 Aug 2026 15:51:51 +0000",
+    "processed": true,
+    "processedAt": "2026-10-24T18:58:25.398Z"
   },
   {
     "url": "https://blog.cloudflare.com/engineering-standards-enforcement/",
@@ -88463,5 +88467,38 @@
     "category": "news",
     "discovered": "2026-10-24T16:11:13.808Z",
     "published": "Sat, 24 Oct 2026 12:15:00 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-startups/drizzvisions-ai-app-testing-ambition-meets-reality",
+    "title": "DrizzVision’s AI App Testing Ambition Meets Reality",
+    "description": "This Bengaluru startup is betting that AI can test mobile apps by seeing and using them like a person. Its benchmark shows results depend heavily on the task an",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-24T18:56:17.517Z",
+    "published": "Sat, 24 Oct 2026 04:30:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-24T18:58:25.400Z"
+  },
+  {
+    "url": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
+    "title": "Capcom confirms data breach that affected 11.7 million users",
+    "description": "Capcom ID is still available to use, but users may see more phishing scam emails.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-24T18:56:19.709Z",
+    "published": "Sat, 24 Oct 2026 16:40:45 +0000",
+    "processed": true,
+    "processedAt": "2026-10-24T18:58:25.400Z"
+  },
+  {
+    "url": "https://www.engadget.com/2296211/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab/",
+    "title": "The UK is investing $134 million into an AI Biosecurity Lab",
+    "description": "The UK has established the AI Biosecurity Lab, which will help it detect biological threats and develop vaccines with AI.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-24T18:56:19.709Z",
+    "published": "Sat, 24 Oct 2026 16:11:53 +0000",
+    "processed": true,
+    "processedAt": "2026-10-24T18:58:25.400Z"
   }
 ]
