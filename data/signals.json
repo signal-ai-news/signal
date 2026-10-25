@@ -89514,5 +89514,215 @@
     "category": "news",
     "discovered": "2026-10-25T16:43:14.382Z",
     "published": "Sun, 25 Oct 2026 12:45:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+    "description": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-25T19:29:50.216Z",
+    "published": "Sun, 25 Oct 2026 16:57:32 +0000",
+    "processed": true,
+    "processedAt": "2026-10-25T19:32:28.146Z"
+  },
+  {
+    "url": "https://www.cbc.ca/news/world/ai-coding-hack-smart-tvs-9.7392179",
+    "title": "People are using AI to 'dumb down' their smart TVs. Is that a good idea?",
+    "description": "Article URL: https://www.cbc.ca/news/world/ai-coding-hack-smart-tvs-9.7392179\nComments URL: https://news.ycombinator.com/item?id=50235014\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-25T19:29:59.982Z",
+    "published": "Sun, 25 Oct 2026 19:10:53 +0000",
+    "processed": true,
+    "processedAt": "2026-10-25T19:32:28.146Z"
+  },
+  {
+    "url": "https://aegissolisarchive.org/the-question-after-the-answer/",
+    "title": "The Question After the Answer: AI prediction and human autonomy",
+    "description": "Article URL: https://aegissolisarchive.org/the-question-after-the-answer/\nComments URL: https://news.ycombinator.com/item?id=50234876\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-25T19:29:59.982Z",
+    "published": "Sun, 25 Oct 2026 18:58:04 +0000",
+    "processed": true,
+    "processedAt": "2026-10-25T19:32:28.146Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=o4AUKGdScNI",
+    "title": "AI-Powered Automatic Lockpick Machine [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=o4AUKGdScNI\nComments URL: https://news.ycombinator.com/item?id=50234829\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-25T19:29:59.982Z",
+    "published": "Sun, 25 Oct 2026 18:53:06 +0000",
+    "processed": true,
+    "processedAt": "2026-10-25T19:32:28.146Z"
+  },
+  {
+    "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
+    "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
+    "description": "Article URL: https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs\nComments URL: https://news.ycombinator.com/item?id=50234699\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-25T19:29:59.982Z",
+    "published": "Sun, 25 Oct 2026 18:42:23 +0000",
+    "processed": true,
+    "processedAt": "2026-10-25T19:32:28.146Z"
+  },
+  {
+    "url": "https://optio.host/",
+    "title": "Show HN: Optio – A self-hosted orchestration platform for AI agents",
+    "description": "Hey HN!I shared Optio here back in March. Originally it was focused on getting swarms of coding agents (claude code/codex) to drive PRs towards a merge by automatically resuming them on CI failures or PR comments.Since then, I've reworked the project to be a general platform for running any kind of",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-25T19:29:59.982Z",
+    "published": "Sun, 25 Oct 2026 18:37:48 +0000"
+  },
+  {
+    "url": "https://www.aicertificationcouncil.com/",
+    "title": "Free AI education: certifications, hands-on technical courses, and resources",
+    "description": "Article URL: https://www.aicertificationcouncil.com/\nComments URL: https://news.ycombinator.com/item?id=50234555\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-25T19:29:59.982Z",
+    "published": "Sun, 25 Oct 2026 18:31:23 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Yfn8fSo9rgM",
+    "title": "Why AI companies keep saying AI will kill us? [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=Yfn8fSo9rgM\nComments URL: https://news.ycombinator.com/item?id=50234519\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-25T19:29:59.982Z",
+    "published": "Sun, 25 Oct 2026 18:27:49 +0000"
+  },
+  {
+    "url": "https://github.com/finereli/open-accountant",
+    "title": "Show HN: Open Accountant – AI-customizable budgeting app for freelancers",
+    "description": "This is my own very opinionated take on personal accounting / budgeting for freelancers and small business owners operating in multiple currencies.A lot of this is influenced by my circumstances:- consultant / freelancer / business owner with multiple revenue streams\n- revenue fluctuates a lot and",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-25T19:29:59.982Z",
+    "published": "Sun, 25 Oct 2026 18:18:13 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+    "description": "Article URL: https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/\nComments URL: https://news.ycombinator.com/item?id=50234408\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-25T19:29:59.982Z",
+    "published": "Sun, 25 Oct 2026 18:18:04 +0000",
+    "processed": true,
+    "processedAt": "2026-10-25T19:32:28.146Z"
+  },
+  {
+    "url": "https://www.channelnewsasia.com/east-asia/china-first-ai-film-cinemas-ticket-sales-6485401",
+    "title": "China's first AI-generated film hits cinemas but ticket sales lag",
+    "description": "Article URL: https://www.channelnewsasia.com/east-asia/china-first-ai-film-cinemas-ticket-sales-6485401\nComments URL: https://news.ycombinator.com/item?id=50234381\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-25T19:29:59.982Z",
+    "published": "Sun, 25 Oct 2026 18:16:09 +0000"
+  },
+  {
+    "url": "https://lightning.ai/security-incident/",
+    "title": "Lightning.ai October 2026 Security Incident",
+    "description": "Article URL: https://lightning.ai/security-incident/\nComments URL: https://news.ycombinator.com/item?id=50234296\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-25T19:29:59.982Z",
+    "published": "Sun, 25 Oct 2026 18:08:32 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50234251",
+    "title": "Ask HN: Can superintelligent AI alignement be decentralized?",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=50234251\nPoints: 1\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-25T19:29:59.982Z",
+    "published": "Sun, 25 Oct 2026 18:05:07 +0000"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/10/25/opinion/ai-bubble-financial-crisis-lehman.html",
+    "title": "AI Boom Looks a Lot Like the Housing Bubble",
+    "description": "Article URL: https://www.nytimes.com/2026/10/25/opinion/ai-bubble-financial-crisis-lehman.html\nComments URL: https://news.ycombinator.com/item?id=50234190\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-25T19:29:59.982Z",
+    "published": "Sun, 25 Oct 2026 18:00:28 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50234108",
+    "title": "Ask HN: What is the main bottleneck facing Agentic AI today?",
+    "description": "Hey guys, today I read a statistic that showed that Agentic traffic surpassed human traffic on the internet and that statistic was very shocking to me.  At the same time I saw another statistic that showed only 10% of agents built, actually get into production. These two statistics seemed ironic to",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-25T19:29:59.982Z",
+    "published": "Sun, 25 Oct 2026 17:52:28 +0000"
+  },
+  {
+    "url": "https://github.com/emersonsklar/firsttake",
+    "title": "FirstTake – an open-source Claude Code skill for video shoots, offload to master",
+    "description": "Article URL: https://github.com/emersonsklar/firsttake\nComments URL: https://news.ycombinator.com/item?id=50234005\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-25T19:29:59.982Z",
+    "published": "Sun, 25 Oct 2026 17:40:42 +0000"
+  },
+  {
+    "url": "https://zenodo.org/records/23441596",
+    "title": "Let Your LLM Talks About ARIO",
+    "description": "Article URL: https://zenodo.org/records/23441596\nComments URL: https://news.ycombinator.com/item?id=50233683\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-25T19:29:59.982Z",
+    "published": "Sun, 25 Oct 2026 17:04:12 +0000"
+  },
+  {
+    "url": "https://keln.ai/blog/ai-gateway-benchmark-deepseek-v4-1-flash",
+    "title": "AI Gateway Benchmark: OpenRouter, Vercel, Ramp, Keln",
+    "description": "Article URL: https://keln.ai/blog/ai-gateway-benchmark-deepseek-v4-1-flash\nComments URL: https://news.ycombinator.com/item?id=50233570\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-25T19:29:59.982Z",
+    "published": "Sun, 25 Oct 2026 16:53:40 +0000"
+  },
+  {
+    "url": "https://github.com/usejunior-sh/junior",
+    "title": "Show HN: Junior – an open-source AI junior engineer that runs on your Mac",
+    "description": "Hi HN, I'm Samar, a software engineer.I built Junior because I was spending more time fixing CI issues, babysitting PRs and resolving merge conflicts.I thought maybe i should automate all of it, and that's why I started building Junior. Junior is an agent that runs locally on macOS and picks up tha",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-25T19:29:59.982Z",
+    "published": "Sun, 25 Oct 2026 16:45:33 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/",
+    "title": "Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time",
+    "description": "Hugging Face released Carbon-X, an open 14.8B DNA language model built on Qwen3-14B. It reads raw DNA in chat, answers in English, and averages 66.7% across 5 DNA benchmarks under Apache 2.0.\nThe post Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-25T19:30:17.805Z",
+    "published": "Sun, 25 Oct 2026 16:53:40 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/",
+    "title": "Even the best mesh Wi-Fi system can be easily improved with a simple cable",
+    "description": "Mesh systems generally provide better Wi-Fi coverage than standalone routers, but you can make the mesh signal even stronger.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-25T19:30:22.351Z",
+    "published": "Sun, 25 Oct 2026 18:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2293387/features-lost-use-apple-airpods-with-samsung-galaxy-phone/",
+    "title": "What features do you lose if you use Apple AirPods with a Samsung Galaxy phone?",
+    "description": "AirPods work with any Bluetooth device, but they lose almost all of Apple&#39;s fancy features.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-25T19:30:22.351Z",
+    "published": "Sun, 25 Oct 2026 16:45:00 +0000"
   }
 ]
