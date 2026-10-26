@@ -90016,5 +90016,393 @@
     "category": "news",
     "discovered": "2026-10-26T10:25:22.442Z",
     "published": "Mon, 26 Oct 2026 00:30:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+    "title": "How Fanatics and OpenAI streamline the fan experience",
+    "description": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-26T16:54:09.841Z",
+    "published": "Mon, 26 Oct 2026 07:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-26T16:56:51.294Z"
+  },
+  {
+    "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+    "title": "Our newest AI Quest: Mapping the human brain",
+    "description": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-10-26T16:54:11.544Z",
+    "published": "Mon, 26 Oct 2026 16:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-26T16:56:51.294Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+    "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+    "description": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-26T16:54:13.513Z",
+    "published": "Mon, 26 Oct 2026 16:49:42 +0000",
+    "processed": true,
+    "processedAt": "2026-10-26T16:56:51.294Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+    "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+    "description": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU financing” ever.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-26T16:54:13.513Z",
+    "published": "Mon, 26 Oct 2026 16:46:36 +0000",
+    "processed": true,
+    "processedAt": "2026-10-26T16:56:51.294Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "title": "Anthropic officially files for its public debut",
+    "description": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-26T16:54:13.513Z",
+    "published": "Mon, 26 Oct 2026 14:35:22 +0000",
+    "processed": true,
+    "processedAt": "2026-10-26T16:56:51.294Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+    "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive dire",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-26T16:54:14.778Z",
+    "published": "Mon, 26 Oct 2026 12:40:00 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+    "title": "The focus on AI safety disasters ignores everyday harms",
+    "description": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear th",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-26T16:54:14.778Z",
+    "published": "Mon, 26 Oct 2026 09:01:00 +0000"
+  },
+  {
+    "url": "https://thezvi.substack.com/p/gemini-4-argon-the-model-and-safety",
+    "title": "Gemini 4 Argon: The Model and Safety Cards",
+    "description": "Article URL: https://thezvi.substack.com/p/gemini-4-argon-the-model-and-safety\nComments URL: https://news.ycombinator.com/item?id=50246882\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-26T16:54:22.007Z",
+    "published": "Mon, 26 Oct 2026 16:48:54 +0000"
+  },
+  {
+    "url": "https://github.com/behrouzbk/tokensaver",
+    "title": "Tokensaver, see which parts of your LLM prompt cost money",
+    "description": "Article URL: https://github.com/behrouzbk/tokensaver\nComments URL: https://news.ycombinator.com/item?id=50246668\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-26T16:54:22.007Z",
+    "published": "Mon, 26 Oct 2026 16:36:20 +0000"
+  },
+  {
+    "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+    "title": "Concerning behavior from a popular open-weight AI model",
+    "description": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model\nComments URL: https://news.ycombinator.com/item?id=50246658\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-26T16:54:22.007Z",
+    "published": "Mon, 26 Oct 2026 16:35:44 +0000"
+  },
+  {
+    "url": "https://github.com/humanlayer/humanlayer",
+    "title": "Humanlayer: Way to get AI coding agents in complex codebases",
+    "description": "Article URL: https://github.com/humanlayer/humanlayer\nComments URL: https://news.ycombinator.com/item?id=50246605\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-26T16:54:22.007Z",
+    "published": "Mon, 26 Oct 2026 16:32:14 +0000"
+  },
+  {
+    "url": "https://cutcrow.com/",
+    "title": "People who pay for Claude Code, edit your videos with this",
+    "description": "Article URL: https://cutcrow.com/\nComments URL: https://news.ycombinator.com/item?id=50246343\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-26T16:54:22.007Z",
+    "published": "Mon, 26 Oct 2026 16:17:59 +0000"
+  },
+  {
+    "url": "https://meridian.news/p/5165819640925503938/",
+    "title": "Anthropic Files for IPO That Could Value AI Firm at Up to $2T",
+    "description": "Article URL: https://meridian.news/p/5165819640925503938/\nComments URL: https://news.ycombinator.com/item?id=50246323\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-26T16:54:22.007Z",
+    "published": "Mon, 26 Oct 2026 16:17:00 +0000"
+  },
+  {
+    "url": "https://github.com/FrigadeHQ/hob",
+    "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+    "description": "Hey HN, I'm Christian and this is a new OSS project I've been noodling on for the last couple of weeks. Hob is a free, MIT-licensed desktop app for Mac, Windows and Linux that works on your files the way the Claude and ChatGPT desktop apps do, except the model runs on your own computer. It uses ope",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-26T16:54:22.007Z",
+    "published": "Mon, 26 Oct 2026 16:12:29 +0000"
+  },
+  {
+    "url": "https://blog.emailengine.app/how-ai-changed-the-build-vs-buy-equation-in-saas/",
+    "title": "AI Changed the Build vs. Buy Equation in SaaS",
+    "description": "Article URL: https://blog.emailengine.app/how-ai-changed-the-build-vs-buy-equation-in-saas/\nComments URL: https://news.ycombinator.com/item?id=50246230\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-26T16:54:22.007Z",
+    "published": "Mon, 26 Oct 2026 16:12:05 +0000"
+  },
+  {
+    "url": "https://www.nvidia.com/en-us/glossary/ai-ran/",
+    "title": "AI-RAN",
+    "description": "Article URL: https://www.nvidia.com/en-us/glossary/ai-ran/\nComments URL: https://news.ycombinator.com/item?id=50246200\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-26T16:54:22.007Z",
+    "published": "Mon, 26 Oct 2026 16:09:54 +0000"
+  },
+  {
+    "url": "https://apnews.com/article/anthropic-ipo-shares-public-ca2f4c282bef3201a392e59e3df2300c",
+    "title": "Anthropic files for IPO even as CEO warns of risk to humanity from AI",
+    "description": "Article URL: https://apnews.com/article/anthropic-ipo-shares-public-ca2f4c282bef3201a392e59e3df2300c\nComments URL: https://news.ycombinator.com/item?id=50246115\nPoints: 2\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-26T16:54:22.007Z",
+    "published": "Mon, 26 Oct 2026 16:05:19 +0000"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-10-26/dutch-government-plans-to-cut-25-000-jobs-in-ai-led-overhaul",
+    "title": "Dutch Government Plans to Cut 25,000 Jobs in AI-Led Overhaul",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-10-26/dutch-government-plans-to-cut-25-000-jobs-in-ai-led-overhaul\nComments URL: https://news.ycombinator.com/item?id=50246094\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-26T16:54:22.007Z",
+    "published": "Mon, 26 Oct 2026 16:04:08 +0000"
+  },
+  {
+    "url": "https://github.com/michaeldmueller/hue-claude",
+    "title": "Show HN: Flash your Hue lights when Claude finishes a turn or needs permission",
+    "description": "Article URL: https://github.com/michaeldmueller/hue-claude\nComments URL: https://news.ycombinator.com/item?id=50245886\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-26T16:54:22.007Z",
+    "published": "Mon, 26 Oct 2026 15:53:47 +0000"
+  },
+  {
+    "url": "https://juiced.codes",
+    "title": "Show HN: Juiced Claude Code",
+    "description": "Article URL: https://juiced.codes\nComments URL: https://news.ycombinator.com/item?id=50245865\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-26T16:54:22.007Z",
+    "published": "Mon, 26 Oct 2026 15:53:09 +0000"
+  },
+  {
+    "url": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/",
+    "title": "In China, the AI bubble has burst",
+    "description": "Article URL: https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/\nComments URL: https://news.ycombinator.com/item?id=50245821\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-26T16:54:22.007Z",
+    "published": "Mon, 26 Oct 2026 15:50:54 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2510.13939",
+    "title": "Readers Prefer AI Trained on Copyrighted Books over Expert Human Writers",
+    "description": "Article URL: https://arxiv.org/abs/2510.13939\nComments URL: https://news.ycombinator.com/item?id=50245780\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-26T16:54:22.007Z",
+    "published": "Mon, 26 Oct 2026 15:48:59 +0000"
+  },
+  {
+    "url": "https://pixtorium.com/",
+    "title": "Pixtorium – a native AI image editor, not a Photoshop clone",
+    "description": "Article URL: https://pixtorium.com/\nComments URL: https://news.ycombinator.com/item?id=50245743\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-26T16:54:22.007Z",
+    "published": "Mon, 26 Oct 2026 15:47:22 +0000"
+  },
+  {
+    "url": "https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt",
+    "title": "Empires of AI",
+    "description": "Article URL: https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt\nComments URL: https://news.ycombinator.com/item?id=50245540\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-26T16:54:22.007Z",
+    "published": "Mon, 26 Oct 2026 15:36:05 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50245483",
+    "title": "Ask HN: What are your creative context bombs to make AI agents pay?",
+    "description": "I just read this - https://agentic.tracebit.com/factory/\nAnd wondered for a while that this almost exactly what we were up to when script kiddies began to probe all services/servers in order to defend, buy time, and make them at least pay. The AI agents are more powerful and smarter than the python",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-26T16:54:22.007Z",
+    "published": "Mon, 26 Oct 2026 15:32:39 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/what-makes-ai-written-stories-feel-off/",
+    "title": "What Makes AI-Written Stories Feel Off?",
+    "description": "And how we can turn that feeling into insights\nThe post What Makes AI-Written Stories Feel Off? appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-26T16:54:27.691Z",
+    "published": "Mon, 26 Oct 2026 15:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/opening-the-box-can-machine-learning-resolve-schrdingers-cat/",
+    "title": "Opening the Box: Can Machine Learning Resolve Schrödinger’s Cat?",
+    "description": "Neural networks won’t settle the measurement problem — but they are quietly changing how we see, predict and protect quantum superpositions.\nThe post Opening the Box: Can Machine Learning Resolve Schrödinger’s Cat? appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-26T16:54:27.691Z",
+    "published": "Mon, 26 Oct 2026 14:00:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/my-machine-learning-pipeline-cheated-and-cross-validation-never-noticed/",
+    "title": "My Machine Learning Pipeline Cheated, and Cross-Validation Never Noticed",
+    "description": "What an ID column, a date string, and a missing value taught me.\nThe post My Machine Learning Pipeline Cheated, and Cross-Validation Never Noticed appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-26T16:54:27.691Z",
+    "published": "Mon, 26 Oct 2026 12:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/claude-code-vs-cursor-what-a-field-test-shows-that-the-feature-comparisons-miss/",
+    "title": "Claude Code vs. Cursor: What a Field Test Shows That the Feature Comparisons Miss",
+    "description": "One benchmark says Claude Code used 33,000 tokens where Cursor used 188,000. Another says the exact reverse. Here is the field test that actually settles it for your team.\nThe post Claude Code vs. Cursor: What a Field Test Shows That the Feature Comparisons Miss appeared first on Towards Data Scienc",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-26T16:54:27.691Z",
+    "published": "Mon, 26 Oct 2026 11:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/meta-plans-up-to-95-billion-in-stock-sales-to-fund-its-ai-buildout/",
+    "title": "Meta plans up to $95 billion in stock sales to fund its AI buildout",
+    "description": "Meta plans to sell new stock to raise money for its AI infrastructure buildout.\nThe article Meta plans up to $95 billion in stock sales to fund its AI buildout appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-26T16:54:29.552Z",
+    "published": "Mon, 26 Oct 2026 14:21:23 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
+    "title": "The Anthropic IPO Is Also a Doomsday Primer",
+    "description": "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-26T16:54:37.204Z",
+    "published": "Mon, 26 Oct 2026 16:01:55 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
+    "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
+    "description": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-26T16:54:37.204Z",
+    "published": "Mon, 26 Oct 2026 14:50:47 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/",
+    "title": "Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls",
+    "description": "Nace AI has released Drex for Search, bringing its Drex decision models to document search for AI agents. Nace reports 92.05% on BrowseComp-Plus with 12.6 search calls, and fewer agent turns on OfficeQA Pro.\nThe post Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-26T16:54:39.707Z",
+    "published": "Mon, 26 Oct 2026 16:46:09 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/bihar-partners-with-it-cos-to-train-government-school-teachers-in-ai",
+    "title": "Bihar Partners with IT Cos to Train Government School Teachers In AI",
+    "description": "The initiative will combine hands-on IT instruction for educators with plans to make computer education compulsory from 6th standard across Bihar’s government s",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-26T16:54:42.293Z",
+    "published": "Mon, 26 Oct 2026 12:15:14 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/meta-wants-95-billion-through-stock-sales-to-fund-ai-infrastructure",
+    "title": "Meta Wants $95 Billion Through Stock Sales to Fund AI Infrastructure",
+    "description": "NVIDIA, AMD and Broadcom have indicated an interest in purchasing up to $5 billion collectively in the Class A offering.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-26T16:54:42.293Z",
+    "published": "Mon, 26 Oct 2026 11:48:18 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/pronto-founder-enters-physical-ai-space-with-provision-labs",
+    "title": "Pronto Founder Enters Physical AI Space With Provision Labs",
+    "description": "Anjali Sardana's Provision Labs aims to enhance AI systems for physical tasks, building on Pronto's new initiative for household service training.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-26T16:54:42.293Z",
+    "published": "Mon, 26 Oct 2026 11:46:26 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/hcltech-taps-nvidia-simulation-tools-to-automate-software-defined-vehicle-testing",
+    "title": "HCLTech Taps NVIDIA Simulation Tools to Automate Software-Defined Vehicle Testing",
+    "description": "Automakers face rising software complexity, frequent over-the-air updates and compliance demands as vehicle validation becomes harder to scale.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-26T16:54:42.293Z",
+    "published": "Mon, 26 Oct 2026 11:41:18 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/tata-communications-plans-450-mn-investment-to-build-10000-km-ai-network",
+    "title": "Tata Communications Plans $450 Mn Investment to Build 10,000 Km AI Network",
+    "description": "The network will connect key data centre corridors across India, starting with Mumbai, Pune, Hyderabad and Chennai, before expanding to other regions.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-26T16:54:42.293Z",
+    "published": "Mon, 26 Oct 2026 11:15:33 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2295406/even-realities-launches-a-brown-version-of-its-g2-smart-glasses/",
+    "title": "Even Realities launches a brown version of its G2 smart glasses",
+    "description": "It also released a couple of new accessories, including a wearable chain.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-26T16:54:44.887Z",
+    "published": "Mon, 26 Oct 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2296724/anthropic-files-to-go-public/",
+    "title": "Anthropic files to go public",
+    "description": "The company may be valued as high as $2 trillion.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-26T16:54:44.887Z",
+    "published": "Mon, 26 Oct 2026 13:41:26 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2294294/how-starlink-speeds-compare-5g/",
+    "title": "How do Starlink speeds compare to 5G?",
+    "description": "Starlink and 5G providers advertise high speeds, but there is more to consider when deciding between the two. Think about location, and coverage as well.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-26T16:54:44.887Z",
+    "published": "Mon, 26 Oct 2026 13:15:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2296535/elvis-presley-estate-suing-ai-company-for-copyright-infringement/",
+    "title": "Elvis Presley's estate is suing Anthropic over copyright infringement",
+    "description": "The latest AI copyright infringement suit centers around a single music artist from decades past: Elvis.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-26T16:54:44.887Z",
+    "published": "Mon, 26 Oct 2026 11:23:48 +0000"
   }
 ]
