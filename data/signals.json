@@ -90404,5 +90404,348 @@
     "category": "news",
     "discovered": "2026-10-26T16:54:44.887Z",
     "published": "Mon, 26 Oct 2026 11:23:48 +0000"
+  },
+  {
+    "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+    "title": "ChatGPT’s expanding world of work",
+    "description": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-26T21:31:13.629Z",
+    "published": "Mon, 26 Oct 2026 10:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-26T21:33:58.559Z"
+  },
+  {
+    "url": "https://openai.com/index/openai-cut-incident-investigation",
+    "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+    "description": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-26T21:31:13.629Z",
+    "published": "Mon, 26 Oct 2026 07:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-26T21:33:58.559Z"
+  },
+  {
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+    "title": "Introducing GPT-6.1 Terra",
+    "description": "Bringing fast and capable computer use to everyone",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-26T21:31:13.629Z",
+    "published": "Mon, 26 Oct 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-26T21:33:58.559Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+    "title": "Will the real Anthropic please stand up",
+    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s u",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:18.131Z",
+    "published": "Mon, 26 Oct 2026 17:45:43 +0000",
+    "processed": true,
+    "processedAt": "2026-10-26T21:33:58.559Z"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/how-text-to-speech-technology-works",
+    "title": "How text to speech technology works: From text to natural voice",
+    "description": "Learn how text to speech technology works by turning text into natural voice, from normalization and prosody to neural models, with a worked examples.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-10-26T21:31:20.320Z",
+    "published": "Mon, 26 Oct 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-26T21:33:58.559Z"
+  },
+  {
+    "url": "https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/",
+    "title": "GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models",
+    "description": "OpenAI has released GPT-6.1 Terra, a mid-range model that cuts API prices in half compared to its predecessor. Analysts say it sets a new standard for intelligence per dollar, especially for everyday computing tasks and AI-driven computer control.\nThe article GPT-6.1 Terra halves OpenAI&#03",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:34.030Z",
+    "published": "Mon, 26 Oct 2026 20:30:55 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-opens-its-books-for-wall-street-showing-record-revenue-and-mounting-obligations/",
+    "title": "Anthropic opens its books for Wall Street, showing record revenue and mounting obligations",
+    "description": "Anthropic is the first major AI lab to file an S-1 with the SEC, planning to list on the Nasdaq under the ticker \"ANT.\" The numbers are strong, with $11.6 billion in quarterly revenue, a first-ever operating profit, and existing customers spending nine times more year over year. But the com",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:34.030Z",
+    "published": "Mon, 26 Oct 2026 19:14:45 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/researchers-find-six-patterns-that-make-ai-text-so-exhausting-to-read/",
+    "title": "Researchers find six patterns that make AI text so exhausting to read",
+    "description": "A study from New York University and the University of Texas at Austin shows that frontier language models systematically overuse linguistic patterns that are hard for humans to parse. The researchers trace the problem to training on code and math, where correctness gets rewarded but clarit",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:34.030Z",
+    "published": "Mon, 26 Oct 2026 17:50:15 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/reddits-r-opensource-bans-all-ai-related-projects-sparking-backlash-and-a-rival-subreddit/",
+    "title": "Reddit's r/opensource bans all AI-related projects, sparking backlash and a rival subreddit",
+    "description": "The Reddit forum r/opensource has banned all posts about AI projects, whether built with AI, AI-powered, or designed for AI. Projects must also be at least a year old and have multiple contributors, and non-English posts are excluded as well. In response, the rival forum r/TrueOpenSource ha",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:34.030Z",
+    "published": "Mon, 26 Oct 2026 17:19:40 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
+    "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+    "description": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:40.282Z",
+    "published": "Mon, 26 Oct 2026 21:27:15 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/apple-expands-siri-ai-beyond-english-with-27-2-software-updates/",
+    "title": "Apple Expands Siri AI Beyond English with 27.2 Software Updates",
+    "description": "Apple made Siri AI available in French, Japanese, Korean, Portuguese, and Spanish on October 26, 2026, expanding the assistant beyond English with the release of the iOS 27.2, iPadOS 27.2, macOS 27.2, watchOS 27.2, and visionOS 27.2 software updates. Expanded Language Support Apple announced the exp",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:46.953Z",
+    "published": "Mon, 26 Oct 2026 19:01:12 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/ai-agents-marketing-teams-human-judgment/",
+    "title": "From Prompts to Agents: How AI is Reshaping the Marketing Team",
+    "description": "For the first few years of generative AI, marketers have been one of its earliest adopters learning how to prompt and asking AI to brainstorm campaign ideas, create outlines, summarize research, and draft copy. The technology made individual tasks faster, but the basic structure of marketing work st",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:46.953Z",
+    "published": "Mon, 26 Oct 2026 16:48:06 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/nevis-lands-70m-series-b-to-build-out-ai-agents-for-financial-advisors/",
+    "title": "Nevis Lands $70M Series B to Build Out AI Agents for Financial Advisors",
+    "description": "Nevis, a startup building an AI operating system for wealth management, has raised a $70 million Series B led by EQT Ventures, CEO and co-founder Mark Swan wrote in a company blog post on October 26, 2026. Charles Schwab, Sequoia Capital, ICONIQ, QuantumLight and Ribbit Capital also participated in",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:46.953Z",
+    "published": "Mon, 26 Oct 2026 16:05:11 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/ff-eai-robotics-closes-purchase-of-faraday-futures-robotics-unit/",
+    "title": "FF EAI Robotics Closes Purchase of Faraday Future’s Robotics Unit",
+    "description": "FF EAI Robotics Ecosystem Inc. said in a completion announcement dated October 26, 2026 that it has completed its acquisition of Faraday Future Intelligent Electric Inc.&#039;s robotics business, with the closing taking effect on October 23, 2026. Following the transaction, FFR will operate the robo",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:46.953Z",
+    "published": "Mon, 26 Oct 2026 15:51:13 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/freedom-holding-plans-its-first-public-gpu-cloud-in-kazakhstan/",
+    "title": "Freedom Holding Plans Its First Public GPU Cloud in Kazakhstan",
+    "description": "Freedom Holding Corp. on October 26, 2026 announced new steps in its AI infrastructure program in Kazakhstan, including development of a $2 billion Sovereign AI Hub and the planned 2027 launch of its first public GPU cloud. The financial services and technology company said the program is intended t",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:46.953Z",
+    "published": "Mon, 26 Oct 2026 15:23:14 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/scale-ai-formally-launches-uae-entity-at-dubai-ai-festival/",
+    "title": "Scale AI Formally Launches UAE Entity at Dubai AI Festival",
+    "description": "Scale AI formally launched its UAE entity on October 26, 2026, announcing the move at the Dubai AI Festival and basing the new operation at the Dubai International Financial Centre (DIFC). In Scale&#039;s announcement, the company said the launch, together with a memorandum of understanding it signe",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:46.953Z",
+    "published": "Mon, 26 Oct 2026 15:06:11 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/why-ai-generated-text-is-harder-to-understand-than-you-think/",
+    "title": "Why AI-Generated Text Is Harder to Understand Than You Think",
+    "description": "AI models may be becoming harder to understand because their training increasingly rewards solving problems efficiently rather than explaining things clearly to humans. The above, unedited sentence was written by ChatGPT in response to a request for an ELI5, single-sentence summary of a science pape",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:46.953Z",
+    "published": "Mon, 26 Oct 2026 14:50:19 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/imerit-scholars-platform-expert-ai-training-evaluation/",
+    "title": "iMerit Launches Scholars Platform to Scale Expert-Led AI Training and Evaluation",
+    "description": "A model can produce a convincing medical explanation or a fluent answer to a mathematics problem and still make a mistake that only a specialist will recognize. That need for expert judgment sits behind iMerit&#039;s launch of the iMerit Scholars platform, a system designed to organize the people wh",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:46.953Z",
+    "published": "Mon, 26 Oct 2026 14:49:08 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/adit-abraham-co-founder-and-ceo-of-reducto-interview-series/",
+    "title": "Adit Abraham, Co-Founder and CEO of Reducto – Interview Series",
+    "description": "Adit Abraham is the Co-Founder and CEO of Reducto, where he focuses on turning complex enterprise documents into reliable data for AI applications. Before founding the company with fellow MIT graduate Raunak Chowdhuri, he studied computer science at MIT, conducted machine learning research at the MI",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:46.953Z",
+    "published": "Mon, 26 Oct 2026 14:40:02 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/ai-payroll-automation-risks-auditability/",
+    "title": "In Payroll, the Most Dangerous AI Errors Look Correct",
+    "description": "Payroll is one of the few business processes where every mistake carries a name, an amount, and a date. That is why AI in payroll deserves a more careful conversation, as most of the discussion concentrates on what AI catches. The harder question is what AI changes while no one is watching. I have s",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:46.953Z",
+    "published": "Mon, 26 Oct 2026 14:30:02 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/will-bodewes-co-founder-and-ceo-of-phonely-interview-series/",
+    "title": "Will Bodewes, Co-Founder and CEO of Phonely – Interview Series",
+    "description": "Will Bodewes is the Co-Founder and CEO of Phonely, a voice AI company focused on helping businesses answer calls and improve the outcomes of customer conversations. Before starting the company, he pursued a PhD at the University of Melbourne, researching applied artificial intelligence and systems t",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:46.953Z",
+    "published": "Mon, 26 Oct 2026 13:31:44 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/anthropic-files-s-1-registration-statement-for-nasdaq-ipo/",
+    "title": "Anthropic Files S-1 Registration Statement for Nasdaq IPO",
+    "description": "Anthropic, PBC publicly filed a Form S-1 registration statement with the U.S. Securities and Exchange Commission on October 26, 2026, for an initial public offering of its Class A common stock. The company has applied to list the shares on the Nasdaq Global Select Market. SEC filing records show the",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:46.953Z",
+    "published": "Mon, 26 Oct 2026 13:20:16 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/ai-software-cloning-enterprise-value/",
+    "title": "Software Cloning – Is Paid Software Really Over?",
+    "description": "Recent headlines of developers using AI tools to clone popular paid software – most notably Adobe - has sparked mixed reactions – from accusations of theft to welcoming free open-source tools. But what does it mean for the tech companies who own the original software – or those who pay costly subscr",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:46.953Z",
+    "published": "Mon, 26 Oct 2026 12:38:38 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/ibm-makes-spyre-accelerator-a-first-class-pytorch-backend/",
+    "title": "IBM Makes Spyre Accelerator a First-Class PyTorch Backend",
+    "description": "IBM said in an IBM Research blog post published October 26, 2026 that software updates delivered across the PyTorch ecosystem in the second half of 2026 have made its Spyre dataflow accelerator a first-class PyTorch backend, delivering on a plan IBM and the PyTorch Foundation outlined in October 202",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:46.953Z",
+    "published": "Mon, 26 Oct 2026 12:29:11 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/colare-raises-2-5m-hardware-engineering-hiring-simulations/",
+    "title": "Colare Raises $2.5M to Test Hardware Engineers Through Real-World Simulations",
+    "description": "A polished résumé can tell a hardware company where an engineer has worked. It is much less revealing about how that person will diagnose a circuit, balance thermal constraints or design a part that can actually be manufactured. Colare is building its hiring platform around that gap, launching publi",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:46.953Z",
+    "published": "Mon, 26 Oct 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/what-are-computer-using-ai-agents/",
+    "title": "What Are Computer-Using Agents? How AI Sees, Clicks, Types, and Navigates Software",
+    "description": "Computer-using agents operate software through screens, cursors, and keyboards much like people do. That generality is powerful, but visual uncertainty, long task horizons, and broad permissions make careful controls essential.",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:46.953Z",
+    "published": "Mon, 26 Oct 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/gxo-agility-robotics-expand-digit-humanoid-deployments-to-more-u-s-sites/",
+    "title": "GXO, Agility Robotics Expand Digit Humanoid Deployments to More U.S. Sites",
+    "description": "GXO Logistics and Agility Robotics on October 26, 2026 announced an expansion of their partnership that will deploy Agility&#039;s Digit humanoid robots to GXO logistics sites in North Carolina and Tennessee, with deployments expected to begin in early 2027. The Expanded Agreement Under the expanded",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:46.953Z",
+    "published": "Mon, 26 Oct 2026 11:19:14 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/ai-model-welfare-safety-human-control/",
+    "title": "When AI Safety Stops Looking Like Engineering",
+    "description": "I have spent much of my career building technology where getting things wrong has consequences. In financial markets, safety comes with access limits, in addition to the fact that we have someone accountable for whatever the software does. That background probably explains why I find myself struggli",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:46.953Z",
+    "published": "Mon, 26 Oct 2026 11:12:43 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/ebrd-taps-cognizant-for-five-year-ai-led-tech-blueprint-partnership/",
+    "title": "EBRD Taps Cognizant for Five-Year AI-Led Tech Blueprint Partnership",
+    "description": "Cognizant announced on October 26, 2026 that the European Bank for Reconstruction and Development has selected it as a strategic partner under a five-year framework supporting the Bank&#039;s Tech Blueprint technology transformation programme. The programme&#039;s stated focus is efficiency, effecti",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:46.953Z",
+    "published": "Mon, 26 Oct 2026 08:24:14 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/swi-compute-debuts-with-plans-for-nvidia-ai-factories-across-europe/",
+    "title": "SWI Compute Debuts With Plans for NVIDIA AI Factories Across Europe",
+    "description": "SWI Compute, a new AI infrastructure company within Euronext Amsterdam-listed SWI Group, emerged from stealth on October 26, 2026, announcing plans to build and operate NVIDIA AI factories starting in Europe, backed by 3.6 gigawatts of power capacity and approximately $1 billion in NVIDIA systems or",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:46.953Z",
+    "published": "Mon, 26 Oct 2026 08:10:02 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/what-is-data-poisoning-how-attackers-corrupt-ai-models-and-datasets/",
+    "title": "What Is Data Poisoning? How Attackers Corrupt AI Models and Datasets",
+    "description": "Data poisoning manipulates training, fine-tuning, evaluation, or retrieval data so an AI system learns corrupted behavior or produces attacker-chosen outcomes. This guide explains the mechanism, trade-offs, evaluation, and controls that matter in practice.",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:46.953Z",
+    "published": "Sun, 25 Oct 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/ai21-labs-releases-lift-bench-to-curb-reward-hacking-in-rl-training/",
+    "title": "AI21 Labs Releases LIFT-Bench to Curb Reward Hacking in RL Training",
+    "description": "AI21 Labs released LIFT-Bench on October 25, 2026, an instruction-following benchmark in which every constraint is scoped to one section of a document and the task content itself is scored, alongside LIFT-Train, a 34,258-task training counterpart, and the open pipeline that generated both. A compani",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:46.953Z",
+    "published": "Sun, 25 Oct 2026 10:28:13 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/anthropic-investigates-elevated-errors-across-five-claude-models/",
+    "title": "Anthropic Resolves Elevated Errors Across Five Claude Models",
+    "description": "Anthropic opened an investigation into elevated errors affecting five Claude models on October 25, 2026, posting an incident on the Claude Status page at 06:14 UTC that lists claude.ai, the Claude API, Claude Code, and Claude Cowork as affected services. Incident Scope and Status The incident, title",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:46.953Z",
+    "published": "Sun, 25 Oct 2026 06:30:11 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2297577/apple-adds-more-siri-ai-tools-in-27-2-system-updates-out-today/",
+    "title": "Apple adds more Siri AI tools in its 27.2 system updates, out today",
+    "description": "Apple has rolled out software updates for all its platforms today.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:52.507Z",
+    "published": "Mon, 26 Oct 2026 19:47:56 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2297240/instagram-wants-you-to-watch-90-minute-videos-on-your-tv/",
+    "title": "Instagram wants you to watch 90-minute videos on your TV",
+    "description": "Instagram is experimenting with longform video again.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:52.507Z",
+    "published": "Mon, 26 Oct 2026 17:36:39 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2297180/dutch-government-to-cut-16-percent-of-workforce-as-part-of-ai-efficiency-push/",
+    "title": "Dutch government to cut 16 percent of workforce as part of AI efficiency push",
+    "description": "The cabinet announced that it wants to get rid of 25,000 full-time jobs by 2035.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:52.507Z",
+    "published": "Mon, 26 Oct 2026 17:13:20 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2296678/fitbit-edge-review/",
+    "title": "Fitbit Edge review: Google strikes the right balance",
+    "description": "Want a beautiful tracker with a screen but don't want AI on your wrist? The Fitbit Edge is perfect for you.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-26T21:31:52.507Z",
+    "published": "Mon, 26 Oct 2026 17:00:00 +0000"
   }
 ]
