@@ -89925,5 +89925,96 @@
     "published": "Sun, 25 Oct 2026 22:45:00 +0000",
     "processed": true,
     "processedAt": "2026-10-26T00:04:14.048Z"
+  },
+  {
+    "url": "https://the-decoder.com/wall-streets-fastest-traders-are-building-data-centers-and-backing-chip-startups-to-stay-ahead-in-ai/",
+    "title": "Wall Street's fastest traders are building data centers and backing chip startups to stay ahead in AI",
+    "description": "High-frequency traders like Jane Street and Hudson River Trading are now racing each other for AI computing power.\nThe article Wall Street&#039;s fastest traders are building data centers and backing chip startups to stay ahead in AI appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-26T10:25:07.831Z",
+    "published": "Mon, 26 Oct 2026 09:49:33 +0000",
+    "processed": true,
+    "processedAt": "2026-10-26T10:27:28.114Z"
+  },
+  {
+    "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+    "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
+    "description": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-26T10:25:14.669Z",
+    "published": "Mon, 26 Oct 2026 09:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-26T10:27:28.114Z"
+  },
+  {
+    "url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
+    "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
+    "description": "Coyotec is bilingual, swears, and tells listeners how to defend themselves against ICE. Its popularity comes as more broadcasters are experimenting with artificial personalities.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-26T10:25:14.669Z",
+    "published": "Mon, 26 Oct 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-26T10:27:28.114Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/",
+    "title": "Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang",
+    "description": "Tsinghua researchers released AKV, an SGLang-based serving system for cache engineering. LLM agents drop and reposition KV cache instead of summarizing history, cutting average cost 27.7% across 4 agent benchmarks.\nThe post Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on S",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-26T10:25:17.493Z",
+    "published": "Mon, 26 Oct 2026 07:56:45 +0000",
+    "processed": true,
+    "processedAt": "2026-10-26T10:27:28.114Z"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-highlights/hexaware-certified-as-best-firm-for-forward-deployed-engineers-by-aim",
+    "title": "Hexaware Certified as Best Firm for Forward-Deployed Engineers by AIM",
+    "description": "Hexaware's certification reflects the experience of engineers working at the intersection of enterprise client needs and emerging technology",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-26T10:25:19.910Z",
+    "published": "Mon, 26 Oct 2026 09:03:41 GMT",
+    "processed": true,
+    "processedAt": "2026-10-26T10:27:28.114Z"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/telangana-unveils-ai-powered-digital-twin-of-it-minister-at-devfest-2026",
+    "title": "Telangana Unveils AI-Powered Digital Twin of IT Minister at DevFest 2026",
+    "description": "The launch signals Telangana’s interest in applying AI beyond technology demonstrations to public-facing services",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-26T10:25:19.910Z",
+    "published": "Mon, 26 Oct 2026 08:54:58 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-trends/jev-isnt-an-overnight-fix-for-your-lack-of-ai-fundamentals",
+    "title": "Jev Isn’t An Overnight Fix For Your Lack of AI Fundamentals",
+    "description": "Led by Diogo Almeida, a former OpenAI engineer instrumental in building ChatGPT, TypeSafe is now valued at $7.5 billion weeks after launch.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-26T10:25:19.910Z",
+    "published": "Mon, 26 Oct 2026 07:56:13 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/musk-says-spacex-closed-40-bn-gpu-debt-deal-warns-most-neoclouds-wont-survive",
+    "title": "Musk Says SpaceX Closed $40 Bn GPU Debt Deal, Warns Most Neoclouds Won’t Survive",
+    "description": "Elon Musk said SpaceX’s investment-grade status and revenue from Starlink and rocket launches helped it secure $40 billion in debt financing for AI computing in",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-26T10:25:19.910Z",
+    "published": "Mon, 26 Oct 2026 05:53:33 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2294284/fitbit-air-vs-whoop-which-better-fitness-tracking-wearable-screen-less/",
+    "title": "Fitbit Air vs. Whoop: Which screenless fitness tracker is better for you?",
+    "description": "How locked in do you want to be?",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-26T10:25:22.442Z",
+    "published": "Mon, 26 Oct 2026 00:30:00 +0000"
   }
 ]
