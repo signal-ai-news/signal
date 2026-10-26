@@ -14570,7 +14570,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-04T16:25:28.282Z",
-    "published": "Tue, 04 Aug 2026 15:34:42 +0000"
+    "published": "Tue, 04 Aug 2026 15:34:42 +0000",
+    "processed": true,
+    "processedAt": "2026-10-26T00:04:14.046Z"
   },
   {
     "url": "https://xtokenchecker.com/",
@@ -14579,7 +14581,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-04T16:25:28.282Z",
-    "published": "Tue, 04 Aug 2026 15:33:32 +0000"
+    "published": "Tue, 04 Aug 2026 15:33:32 +0000",
+    "processed": true,
+    "processedAt": "2026-10-26T00:04:14.046Z"
   },
   {
     "url": "https://abcnews.com/Entertainment/wireStory/ai-assisted-staging-draws-boos-richard-wagner-festival-135314478",
@@ -14588,7 +14592,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-04T16:25:28.282Z",
-    "published": "Tue, 04 Aug 2026 15:32:13 +0000"
+    "published": "Tue, 04 Aug 2026 15:32:13 +0000",
+    "processed": true,
+    "processedAt": "2026-10-26T00:04:14.046Z"
   },
   {
     "url": "https://www.korvo.xyz/",
@@ -89887,5 +89893,27 @@
     "category": "community",
     "discovered": "2026-10-25T21:59:29.037Z",
     "published": "Sun, 25 Oct 2026 19:31:08 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/",
+    "title": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
+    "description": "Nanbeige LLM Lab released Nanbeige4.3-33B, a 33B dense Apache 2.0 model with 512K context. It reports 80.9 on Terminal-Bench 2.1 and will teach the upcoming Nanbeige4.3-3B.\nThe post Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model appeared first on MarkTechPost.",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-26T00:02:03.519Z",
+    "published": "Sun, 25 Oct 2026 21:15:21 +0000",
+    "processed": true,
+    "processedAt": "2026-10-26T00:04:14.048Z"
+  },
+  {
+    "url": "https://www.engadget.com/2294102/does-tsa-allow-airtags-in-luggage-what-rules-say/",
+    "title": "Does TSA actually allow AirTags in your luggage? Here's what the rules say",
+    "description": "Airlines don&#39;t want you to put batteries in your checked luggage, but how does this affect tiny batteries like those in AirTags?",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-26T00:02:08.425Z",
+    "published": "Sun, 25 Oct 2026 22:45:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-26T00:04:14.048Z"
   }
 ]
