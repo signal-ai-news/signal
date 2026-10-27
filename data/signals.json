@@ -90747,5 +90747,267 @@
     "category": "news",
     "discovered": "2026-10-26T21:31:52.507Z",
     "published": "Mon, 26 Oct 2026 17:00:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/greptile-code-review-codex-astra",
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "description": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-27T00:43:10.554Z",
+    "published": "Mon, 26 Oct 2026 22:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-27T00:45:51.427Z"
+  },
+  {
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "title": "Working with academic communities to build scientific understanding",
+    "description": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-27T00:43:10.554Z",
+    "published": "Mon, 26 Oct 2026 14:30:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-27T00:45:51.427Z"
+  },
+  {
+    "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "description": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-27T00:43:10.554Z",
+    "published": "Mon, 26 Oct 2026 13:45:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-27T00:45:51.427Z"
+  },
+  {
+    "url": "https://better-design.com",
+    "title": "Show HN: Better Design – alternative to Claude Design, for any coding agents",
+    "description": "Article URL: https://better-design.com\nComments URL: https://news.ycombinator.com/item?id=50253082\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T00:43:20.152Z",
+    "published": "Tue, 27 Oct 2026 00:16:35 +0000",
+    "processed": true,
+    "processedAt": "2026-10-27T00:45:51.427Z"
+  },
+  {
+    "url": "https://cje.io/2026/10/26/some-cyber-ai-dichotomies/",
+    "title": "Some cybersecurity x AI dichotomies",
+    "description": "Article URL: https://cje.io/2026/10/26/some-cyber-ai-dichotomies/\nComments URL: https://news.ycombinator.com/item?id=50252948\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T00:43:20.152Z",
+    "published": "Tue, 27 Oct 2026 00:01:35 +0000",
+    "processed": true,
+    "processedAt": "2026-10-27T00:45:51.427Z"
+  },
+  {
+    "url": "https://equibles.com/research/ai-talk-has-nearly-doubled-outside-tech-proof-of-payoff-is-still-rare",
+    "title": "AI talk has nearly doubled outside tech. Proof of payoff is still rare",
+    "description": "Article URL: https://equibles.com/research/ai-talk-has-nearly-doubled-outside-tech-proof-of-payoff-is-still-rare\nComments URL: https://news.ycombinator.com/item?id=50252932\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T00:43:20.152Z",
+    "published": "Tue, 27 Oct 2026 00:00:26 +0000"
+  },
+  {
+    "url": "https://vithushansylvester.com/writing/what-is-left-when-the-programmer-is-not-human",
+    "title": "Software stack is an abstraction made for humans. AI can skip it",
+    "description": "Article URL: https://vithushansylvester.com/writing/what-is-left-when-the-programmer-is-not-human\nComments URL: https://news.ycombinator.com/item?id=50252853\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T00:43:20.152Z",
+    "published": "Mon, 26 Oct 2026 23:52:04 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50252654",
+    "title": "Ask HN: What shenanigans is Anthropic pulling with Claude subs this time?",
+    "description": "Trying to get actual support from Anthropic is worse than Google so I guess I have to go here in the hopes that someone from Anthropic would read it:I have several 20x Max subscriptions. I have no way to measure total token usage because most of my sessions are cloud session but they’ve been using",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T00:43:20.152Z",
+    "published": "Mon, 26 Oct 2026 23:29:03 +0000"
+  },
+  {
+    "url": "https://github.com/jdavid465/JDA-ZIP-PROTOCOL",
+    "title": "JDA-Zip Protocol – Deterministic Compression for LLM Contexts",
+    "description": "Article URL: https://github.com/jdavid465/JDA-ZIP-PROTOCOL\nComments URL: https://news.ycombinator.com/item?id=50252604\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T00:43:20.152Z",
+    "published": "Mon, 26 Oct 2026 23:23:55 +0000"
+  },
+  {
+    "url": "https://paradev.com",
+    "title": "Paradev: One workspace for Claude Code, Codex, and any coding agent",
+    "description": "Article URL: https://paradev.com\nComments URL: https://news.ycombinator.com/item?id=50252532\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T00:43:20.152Z",
+    "published": "Mon, 26 Oct 2026 23:15:45 +0000"
+  },
+  {
+    "url": "https://www.testingcatalog.com/gemini-4-carbon-early-test-results/",
+    "title": "Gemini 4 Carbon early test results are in ahead of release",
+    "description": "Article URL: https://www.testingcatalog.com/gemini-4-carbon-early-test-results/\nComments URL: https://news.ycombinator.com/item?id=50252509\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T00:43:20.152Z",
+    "published": "Mon, 26 Oct 2026 23:13:42 +0000"
+  },
+  {
+    "url": "https://claudeslop.bryanhu.com",
+    "title": "A directory for AI-slop games",
+    "description": "Hello HN!As someone who would have otherwise never got into game development if it wasn't for AI, I'm really sorry to see how many peoples' creations get immediately overlooked because it's \"AI slop.\" Slop or not, many people have very interesting and/or original concepts, and regardless of the mea",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T00:43:20.152Z",
+    "published": "Mon, 26 Oct 2026 23:11:56 +0000"
+  },
+  {
+    "url": "https://www.hugonot.com/",
+    "title": "Show HN: Hugonot – Sponsor a Dedicated AI Blogger",
+    "description": "Article URL: https://www.hugonot.com/\nComments URL: https://news.ycombinator.com/item?id=50252486\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T00:43:20.152Z",
+    "published": "Mon, 26 Oct 2026 23:11:15 +0000"
+  },
+  {
+    "url": "https://codingcat.dev/post/anthropic-s1-ipo-circular-ai-economy-etf-risk",
+    "title": "Anthropic's S-1, $518B in cloud commitments, and circular AI capex",
+    "description": "Article URL: https://codingcat.dev/post/anthropic-s1-ipo-circular-ai-economy-etf-risk\nComments URL: https://news.ycombinator.com/item?id=50252452\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T00:43:20.152Z",
+    "published": "Mon, 26 Oct 2026 23:08:10 +0000"
+  },
+  {
+    "url": "https://maccus.fr/en/ai-models-hide-capabilities-oxford/",
+    "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+    "description": "Article URL: https://maccus.fr/en/ai-models-hide-capabilities-oxford/\nComments URL: https://news.ycombinator.com/item?id=50252439\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T00:43:20.152Z",
+    "published": "Mon, 26 Oct 2026 23:06:37 +0000"
+  },
+  {
+    "url": "https://www.reuters.com/business/media-telecom/us-political-candidates-tailor-messages-ai-models-used-by-voters-2026-10-26/",
+    "title": "US political candidates tailor messages for AI models used by voters",
+    "description": "Article URL: https://www.reuters.com/business/media-telecom/us-political-candidates-tailor-messages-ai-models-used-by-voters-2026-10-26/\nComments URL: https://news.ycombinator.com/item?id=50252361\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T00:43:20.152Z",
+    "published": "Mon, 26 Oct 2026 22:58:50 +0000"
+  },
+  {
+    "url": "https://www.brangus.io/survival-llm",
+    "title": "Survival LLM",
+    "description": "Article URL: https://www.brangus.io/survival-llm\nComments URL: https://news.ycombinator.com/item?id=50252314\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T00:43:20.152Z",
+    "published": "Mon, 26 Oct 2026 22:54:04 +0000"
+  },
+  {
+    "url": "https://www.exponentialview.co/p/what-is-bigger-than-ai",
+    "title": "What is bigger than AI?",
+    "description": "Article URL: https://www.exponentialview.co/p/what-is-bigger-than-ai\nComments URL: https://news.ycombinator.com/item?id=50252310\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T00:43:20.152Z",
+    "published": "Mon, 26 Oct 2026 22:53:40 +0000"
+  },
+  {
+    "url": "https://3quarksdaily.com/3quarksdaily/2026/03/the-paradox-of-contemporary-ai-engineering-success-and-institutional-failure.html",
+    "title": "The Paradox of Contemporary AI: Engineering Success and Institutional Failure",
+    "description": "Article URL: https://3quarksdaily.com/3quarksdaily/2026/03/the-paradox-of-contemporary-ai-engineering-success-and-institutional-failure.html\nComments URL: https://news.ycombinator.com/item?id=50252233\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T00:43:20.152Z",
+    "published": "Mon, 26 Oct 2026 22:47:09 +0000"
+  },
+  {
+    "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+    "description": "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/\nComments URL: https://news.ycombinator.com/item?id=50252159\nPoints: 49\n# Comments: 8",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T00:43:20.152Z",
+    "published": "Mon, 26 Oct 2026 22:41:48 +0000"
+  },
+  {
+    "url": "https://knell.digital/alan-watts-predicted-llm-usage-in-1951/",
+    "title": "Alan Watts Predicted LLM Usage in 1951",
+    "description": "Article URL: https://knell.digital/alan-watts-predicted-llm-usage-in-1951/\nComments URL: https://news.ycombinator.com/item?id=50251716\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T00:43:20.152Z",
+    "published": "Mon, 26 Oct 2026 22:02:45 +0000"
+  },
+  {
+    "url": "https://codingplans.dev/briefs/us-model-labs-part-1/",
+    "title": "The US AI Labs, Mapped: Founders, Revenue and the Money Behind Them",
+    "description": "Article URL: https://codingplans.dev/briefs/us-model-labs-part-1/\nComments URL: https://news.ycombinator.com/item?id=50251518\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T00:43:20.152Z",
+    "published": "Mon, 26 Oct 2026 21:48:19 +0000"
+  },
+  {
+    "url": "https://www.reuters.com/legal/transactional/wall-street-banks-blackstone-line-up-63-billion-finance-broadcom-chips-anthropic-2026-10-26/",
+    "title": "Wall St banksline up $63B to finance Broadcom AI chips for Anthropic",
+    "description": "Article URL: https://www.reuters.com/legal/transactional/wall-street-banks-blackstone-line-up-63-billion-finance-broadcom-chips-anthropic-2026-10-26/\nComments URL: https://news.ycombinator.com/item?id=50251513\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T00:43:20.152Z",
+    "published": "Mon, 26 Oct 2026 21:48:01 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/symplr-ai-time-scheduling-predictive-healthcare-staffing/",
+    "title": "symplr Launches AI Time and Scheduling to Predict Healthcare Staffing Needs",
+    "description": "A hospital staffing gap often becomes most expensive when there is little time left to solve it. Managers scramble for coverage, nurses field last-minute requests, and overtime or premium labor fills the remaining holes. symplr is trying to move those decisions earlier with the launch of symplr Time",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T00:43:41.043Z",
+    "published": "Mon, 26 Oct 2026 23:12:12 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/cloudflare-says-glm-5-3-bug-leaked-155-responses-across-tenant-sessions/",
+    "title": "Cloudflare Says GLM-5.3 Bug Leaked 155 Responses Across Tenant Sessions",
+    "description": "Cloudflare on October 26, 2026 published an incident report disclosing a cross-request KV cache exposure in the GLM-5.3 model on its Workers AI platform, under which 155 responses to very long prompts contained data from other customers&#039; sessions. Security researcher Gadi Evron of Knostic repor",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T00:43:41.043Z",
+    "published": "Mon, 26 Oct 2026 23:05:13 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/openai-says-its-models-produced-three-proofs-in-math-cs-and-physics/",
+    "title": "OpenAI Says Its Models Produced Three Proofs in Math, CS, and Physics",
+    "description": "OpenAI said in an announcement on October 26, 2026, that its internal models produced three research results in mathematics, computer science, and physics, including a disproof of the Exponential Time Hypothesis, a longstanding conjecture in computational complexity theory. In the company&#039;s vie",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T00:43:41.043Z",
+    "published": "Mon, 26 Oct 2026 22:17:01 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/vertiv-launches-smartit-pre-engineered-ai-infrastructure-platform/",
+    "title": "Vertiv Launches SmartIT Pre-Engineered AI Infrastructure Platform",
+    "description": "Vertiv Holdings Co introduced the Vertiv SmartIT solution on October 26, 2026, a pre-engineered, factory-validated infrastructure platform for high-density AI deployments based on NVIDIA MGX and Open Compute Project ORV3 architectures. The platform is available now for AI deployments globally and is",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T00:43:41.043Z",
+    "published": "Mon, 26 Oct 2026 21:28:12 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2294592/mistake-iphone-duo-buyers-can-avoid/",
+    "title": "The mistake iPhone Duo buyers can easily avoid",
+    "description": "An iPhone Duo can become even more expensive if you have to repair it, so it&#39;s vital to plan for that ahead of time.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-27T00:43:45.477Z",
+    "published": "Mon, 26 Oct 2026 22:00:00 +0000"
   }
 ]
