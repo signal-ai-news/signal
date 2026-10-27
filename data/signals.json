@@ -91009,5 +91009,114 @@
     "category": "news",
     "discovered": "2026-10-27T00:43:45.477Z",
     "published": "Mon, 26 Oct 2026 22:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+    "description": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-27T06:07:44.972Z",
+    "published": "Tue, 27 Oct 2026 02:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-27T06:10:18.198Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+    "description": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-27T06:07:44.972Z",
+    "published": "Tue, 27 Oct 2026 01:12:21 +0000",
+    "processed": true,
+    "processedAt": "2026-10-27T06:10:18.198Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/",
+    "title": "OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work",
+    "description": "OpenAI released GPT-6.1 Terra, a fast computer-use and vision model priced at $1/$5 per million tokens. It matches GPT-6 Astra’s medium-effort Agents’ Last Exam score at $0.29 per task versus $4.82.\nThe post OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work appeared first",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-27T06:08:06.403Z",
+    "published": "Tue, 27 Oct 2026 02:45:27 +0000",
+    "processed": true,
+    "processedAt": "2026-10-27T06:10:18.198Z"
+  },
+  {
+    "url": "https://www.unite.ai/ibm-brings-governed-identity-and-credential-controls-to-ai-agents/",
+    "title": "IBM Brings Governed Identity and Credential Controls to AI Agents",
+    "description": "IBM on October 27, 2026, announced new identity, credential, discovery, containment and evaluation capabilities for enterprise AI agents at TechXchange 2026 in Atlanta, including the general availability of IBM Agent Identity and HashiCorp Vault 2.2. The company said the capabilities are built for d",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T06:08:07.361Z",
+    "published": "Tue, 27 Oct 2026 04:18:10 +0000",
+    "processed": true,
+    "processedAt": "2026-10-27T06:10:18.198Z"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/former-github-ceo-launches-git-platform-built-for-ai-agents",
+    "title": "Former GitHub CEO Launches Git Platform Built for AI Agents",
+    "description": "The platform combines automated code reviews, distributed repository hosting and persistent memory to help AI agents retain context across coding sessions.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-27T06:08:08.584Z",
+    "published": "Tue, 27 Oct 2026 06:06:30 GMT",
+    "processed": true,
+    "processedAt": "2026-10-27T06:10:18.198Z"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/e2e-networks-plans-54-mw-nvidia-blackwell-expansion-in-india",
+    "title": "E2E Networks Plans 5.4 MW NVIDIA Blackwell Expansion in India",
+    "description": "The expansion will increase the company's AI infrastructure capacity by nearly 59% to 14.6 MW, adding NVIDIA HGX B300 systems and other Blackwell GPUs for model",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-27T06:08:08.584Z",
+    "published": "Tue, 27 Oct 2026 06:03:16 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/protecttai-takes-majority-stake-in-bosch-incubated-aishield",
+    "title": "Protectt.ai Takes Majority Stake in Bosch-incubated AIShield",
+    "description": "AIShield's platform covers AI security assessments, red teaming, runtime protection and safety guardrails. It is designed to identify and address risks in AI ap",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-27T06:08:08.584Z",
+    "published": "Tue, 27 Oct 2026 05:53:09 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/sarvam-signs-5-year-defence-ai-deal-covering-army-navy-and-air-force",
+    "title": "Sarvam Signs 5-Year Defence AI Deal Covering Army, Navy and Air Force",
+    "description": "The agreement covers decision support, target acquisition and data fusion, with Sarvam’s Chanakya division leading the work.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-27T06:08:08.584Z",
+    "published": "Tue, 27 Oct 2026 05:51:00 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/it-services/infosyss-52-billion-deal-wins-fail-to-lift-fy27-outlook",
+    "title": "Infosys’s $5.2 Billion Deal Wins Fail to Lift FY27 Outlook",
+    "description": "Infosys cut FY27 guidance to 1%-2% despite $5.2 billion in large deals and AI at 10.5% of revenue, as its largest new deal ramps up only next year.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-27T06:08:08.584Z",
+    "published": "Tue, 27 Oct 2026 05:36:55 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/anthropic-reports-974-million-profit-in-q2-2026-ahead-of-ipo",
+    "title": "Anthropic Reports $974 Million Profit in Q2 2026 Ahead of IPO",
+    "description": "The company’s growing enterprise business, including the adoption of Claude Code, has driven revenue growth. Revenue rose 1,368% year-on-year.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-27T06:08:08.584Z",
+    "published": "Tue, 27 Oct 2026 05:18:57 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/openai-launches-gpt-61-terra-with-50-lower-api-prices-resumes-frontier-ai-training",
+    "title": "OpenAI Launches GPT-6.1 Terra With 50% Lower API Prices, Resumes Frontier AI Training",
+    "description": "OpenAI has launched GPT-6.1 Terra, a model that combines visual reasoning, computer use and coding, with API prices 50% lower than those of GPT-5.6 Terra and GP",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-27T06:08:08.584Z",
+    "published": "Tue, 27 Oct 2026 04:51:49 GMT"
   }
 ]
