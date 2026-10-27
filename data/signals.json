@@ -91362,5 +91362,636 @@
     "category": "news",
     "discovered": "2026-10-27T12:36:31.021Z",
     "published": "Tue, 27 Oct 2026 08:18:16 +0000"
+  },
+  {
+    "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "description": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-27T18:37:27.881Z",
+    "published": "Tue, 27 Oct 2026 07:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-27T18:40:11.172Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+    "title": "Build specialized multimodal models with LFM3",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-10-27T18:37:30.150Z",
+    "published": "Tue, 27 Oct 2026 17:16:52 GMT",
+    "processed": true,
+    "processedAt": "2026-10-27T18:40:11.172Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/allenai/novelty-bench",
+    "title": "Can we trust LLMs to judge whether a research idea is novel?",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-10-27T18:37:30.150Z",
+    "published": "Tue, 27 Oct 2026 16:12:42 GMT",
+    "processed": true,
+    "processedAt": "2026-10-27T18:40:11.172Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+    "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+    "description": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:37:31.373Z",
+    "published": "Tue, 27 Oct 2026 17:08:08 +0000",
+    "processed": true,
+    "processedAt": "2026-10-27T18:40:11.172Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+    "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+    "description": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:37:31.373Z",
+    "published": "Tue, 27 Oct 2026 16:30:57 +0000",
+    "processed": true,
+    "processedAt": "2026-10-27T18:40:11.172Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+    "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+    "description": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:37:31.373Z",
+    "published": "Tue, 27 Oct 2026 14:59:09 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+    "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+    "description": "The new standard, WebAI, is designed to work with a variety of AI models.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:37:31.373Z",
+    "published": "Tue, 27 Oct 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+    "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+    "description": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:37:31.373Z",
+    "published": "Tue, 27 Oct 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://blog.piotrnalepa.pl/en/2026/10/27/shadow-ai-in-a-development-team-how-to-keep-your-clients-code-out-of-the-chat/",
+    "title": "Securing sensitive data in the AI era",
+    "description": "Article URL: https://blog.piotrnalepa.pl/en/2026/10/27/shadow-ai-in-a-development-team-how-to-keep-your-clients-code-out-of-the-chat/\nComments URL: https://news.ycombinator.com/item?id=50263741\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T18:37:40.389Z",
+    "published": "Tue, 27 Oct 2026 18:36:41 +0000"
+  },
+  {
+    "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/gpt-6-1-terra-now-generally-available-in-microsoft-foundry-build-agents-that-see/4567769",
+    "title": "GPT-6.1 Terra now available in Microsoft Foundry",
+    "description": "Article URL: https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/gpt-6-1-terra-now-generally-available-in-microsoft-foundry-build-agents-that-see/4567769\nComments URL: https://news.ycombinator.com/item?id=50263713\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T18:37:40.389Z",
+    "published": "Tue, 27 Oct 2026 18:34:36 +0000"
+  },
+  {
+    "url": "https://flightdeck-hq.com/",
+    "title": "Show HN: I built flightdeck – Observability and control plane for AI agents",
+    "description": "Article URL: https://flightdeck-hq.com/\nComments URL: https://news.ycombinator.com/item?id=50263709\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T18:37:40.389Z",
+    "published": "Tue, 27 Oct 2026 18:34:12 +0000"
+  },
+  {
+    "url": "https://www.llmverifications.com/",
+    "title": "Show HN: I found a more accurate upcoming LLM Benchmarks leaderboard",
+    "description": "Article URL: https://www.llmverifications.com/\nComments URL: https://news.ycombinator.com/item?id=50263576\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T18:37:40.389Z",
+    "published": "Tue, 27 Oct 2026 18:25:14 +0000"
+  },
+  {
+    "url": "https://twitter.com/wenhaocha1/status/2114559544156205413",
+    "title": "Frontier CS added benchmark for Gemini 4 Argon on Antigravity",
+    "description": "Article URL: https://twitter.com/wenhaocha1/status/2114559544156205413\nComments URL: https://news.ycombinator.com/item?id=50263555\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T18:37:40.389Z",
+    "published": "Tue, 27 Oct 2026 18:24:00 +0000"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/10/27/science/ai-problem-interpretability.html",
+    "title": "Did the Hardest Problem in AI Just Get Much Easier?",
+    "description": "Article URL: https://www.nytimes.com/2026/10/27/science/ai-problem-interpretability.html\nComments URL: https://news.ycombinator.com/item?id=50263452\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T18:37:40.389Z",
+    "published": "Tue, 27 Oct 2026 18:17:19 +0000"
+  },
+  {
+    "url": "https://github.com/aien-dev/CUDApp",
+    "title": "Running Local AI on Nvidia DGX Spark Without CUDA",
+    "description": "Article URL: https://github.com/aien-dev/CUDApp\nComments URL: https://news.ycombinator.com/item?id=50263376\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T18:37:40.389Z",
+    "published": "Tue, 27 Oct 2026 18:11:49 +0000"
+  },
+  {
+    "url": "https://www.blazle.io/",
+    "title": "Blazle – Block prompt injection and secret leaks before AI agents act",
+    "description": "Article URL: https://www.blazle.io/\nComments URL: https://news.ycombinator.com/item?id=50263366\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T18:37:40.389Z",
+    "published": "Tue, 27 Oct 2026 18:11:13 +0000"
+  },
+  {
+    "url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316",
+    "title": "Microsoft and Epic Games DCMA AI-Gen Clones",
+    "description": "Article URL: https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316\nComments URL: https://news.ycombinator.com/item?id=50263345\nPoints: 2\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T18:37:40.389Z",
+    "published": "Tue, 27 Oct 2026 18:09:57 +0000"
+  },
+  {
+    "url": "https://www.aclu.org/news/privacy-technology/ai-driven-police-stops",
+    "title": "Police Are Pulling People over Because AI Deems Their Driving \"Suspicious\"",
+    "description": "Article URL: https://www.aclu.org/news/privacy-technology/ai-driven-police-stops\nComments URL: https://news.ycombinator.com/item?id=50263325\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T18:37:40.389Z",
+    "published": "Tue, 27 Oct 2026 18:08:20 +0000"
+  },
+  {
+    "url": "https://spectrum.ieee.org/ai-generated-scientific-papers",
+    "title": "I Used AI to Fake a Scientific Paper. Here's What Happened",
+    "description": "Article URL: https://spectrum.ieee.org/ai-generated-scientific-papers\nComments URL: https://news.ycombinator.com/item?id=50263304\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T18:37:40.389Z",
+    "published": "Tue, 27 Oct 2026 18:06:49 +0000"
+  },
+  {
+    "url": "https://microsoft.ai/news/mai-image-2-7-debut/",
+    "title": "MAI Image 2.7 debuts above GPT Image 2.5 Flare on Artificial Analysis",
+    "description": "Article URL: https://microsoft.ai/news/mai-image-2-7-debut/\nComments URL: https://news.ycombinator.com/item?id=50263302\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T18:37:40.389Z",
+    "published": "Tue, 27 Oct 2026 18:06:42 +0000"
+  },
+  {
+    "url": "https://medium.com/@MirArshadTalpur/how-to-give-your-ai-agent-memory-you-can-audit-aec39a5c60ed",
+    "title": "How to Give Your AI Agent Memory You Can Audit",
+    "description": "Article URL: https://medium.com/@MirArshadTalpur/how-to-give-your-ai-agent-memory-you-can-audit-aec39a5c60ed\nComments URL: https://news.ycombinator.com/item?id=50263267\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T18:37:40.389Z",
+    "published": "Tue, 27 Oct 2026 18:04:16 +0000"
+  },
+  {
+    "url": "https://skillscout.si/",
+    "title": "Show HN: SkillScout, ranking AI tools by how you work instead of popularity",
+    "description": "Article URL: https://skillscout.si/\nComments URL: https://news.ycombinator.com/item?id=50263192\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T18:37:40.389Z",
+    "published": "Tue, 27 Oct 2026 17:58:32 +0000"
+  },
+  {
+    "url": "https://alphapixeldev.com/vibe-coding-vs-resonance-coding/",
+    "title": "Stop Vibing, Start Resonating: Pair Programming with LLM Agents",
+    "description": "Article URL: https://alphapixeldev.com/vibe-coding-vs-resonance-coding/\nComments URL: https://news.ycombinator.com/item?id=50263134\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T18:37:40.389Z",
+    "published": "Tue, 27 Oct 2026 17:55:24 +0000"
+  },
+  {
+    "url": "https://github.com/wenlan-app/wenlan",
+    "title": "Show HN: Wenlan – your LLM wiki that flags what it can't back up",
+    "description": "Article URL: https://github.com/wenlan-app/wenlan\nComments URL: https://news.ycombinator.com/item?id=50263033\nPoints: 2\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T18:37:40.389Z",
+    "published": "Tue, 27 Oct 2026 17:50:33 +0000"
+  },
+  {
+    "url": "https://www.euronews.com/2026/10/27/norwegian-media-sue-meta-over-plans-to-use-their-journalism-for-ai",
+    "title": "Norwegian media sue Meta over plans to use their journalism for AI",
+    "description": "Article URL: https://www.euronews.com/2026/10/27/norwegian-media-sue-meta-over-plans-to-use-their-journalism-for-ai\nComments URL: https://news.ycombinator.com/item?id=50262955\nPoints: 7\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T18:37:40.389Z",
+    "published": "Tue, 27 Oct 2026 17:47:14 +0000"
+  },
+  {
+    "url": "https://github.com/sanmak/specops",
+    "title": "Show HN: Make your AI agent think before it codes",
+    "description": "Article URL: https://github.com/sanmak/specops\nComments URL: https://news.ycombinator.com/item?id=50262833\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T18:37:40.389Z",
+    "published": "Tue, 27 Oct 2026 17:41:07 +0000"
+  },
+  {
+    "url": "https://keydiscussions.com/2025/09/29/dont-even-dismiss-the-how-is-claude-doing-this-session-prompt-as-it-may-compromise-your-chats-privacy/",
+    "title": "Dismissing Claude's request for feedback is itself considered feedback (2025)",
+    "description": "Article URL: https://keydiscussions.com/2025/09/29/dont-even-dismiss-the-how-is-claude-doing-this-session-prompt-as-it-may-compromise-your-chats-privacy/\nComments URL: https://news.ycombinator.com/item?id=50262655\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T18:37:40.389Z",
+    "published": "Tue, 27 Oct 2026 17:30:36 +0000"
+  },
+  {
+    "url": "https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development",
+    "title": "OSRS Wiki and RuneLite increasingly under strain from low-effort AI development",
+    "description": "Article URL: https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development\nComments URL: https://news.ycombinator.com/item?id=50262634\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-27T18:37:40.389Z",
+    "published": "Tue, 27 Oct 2026 17:29:11 +0000"
+  },
+  {
+    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+    "title": "Genie 4: A new generation of world simulation",
+    "description": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+    "source": "DeepMind Blog",
+    "category": "llm",
+    "discovered": "2026-10-27T18:37:42.222Z",
+    "published": "Tue, 27 Oct 2026 16:01:38 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/i-broke-a-browser-agent-on-purpose-spotting-the-fault-was-not-the-same-as-fixing-it/",
+    "title": "I Broke a Browser Agent on Purpose. Spotting the Fault Was Not the Same as Fixing It",
+    "description": "I replayed correct model decisions through four broken browser actions. A simple page check missed half of the wrong clicks, and raised a false alarm on every click that worked inside an embedded page.\nThe post I Broke a Browser Agent on Purpose. Spotting the Fault Was Not the Same as Fixing It appe",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-27T18:37:45.956Z",
+    "published": "Tue, 27 Oct 2026 15:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/who-watches-the-ai/",
+    "title": "Who Watches the AI?",
+    "description": "A separation of powers for control of autonomous agents\nThe post Who Watches the AI? appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-27T18:37:45.956Z",
+    "published": "Tue, 27 Oct 2026 14:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/",
+    "title": "Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs",
+    "description": "Google Deepmind has introduced Genie 4, a real-time world model that simulates interactive 3D worlds with sound and talking characters. Gemini models help plan in the background to keep the simulation consistent. Genie 4 is still an early research model, and longer sessions lead to visual i",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-27T18:37:47.529Z",
+    "published": "Tue, 27 Oct 2026 17:25:09 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/former-deepmind-researcher-thinks-alphagos-playbook-can-cure-ai-hallucinations/",
+    "title": "Former Deepmind researcher thinks AlphaGo's playbook can cure AI hallucinations",
+    "description": "Former Deepmind researcher Thore Graepel wants his startup Metis Reasoning to bring AlphaGo's search principle to general reasoning. Instead of locking knowledge inside model weights, an explicit knowledge ledger would make every conclusion checkable against evidence. So far, though, there'",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-27T18:37:47.529Z",
+    "published": "Tue, 27 Oct 2026 13:55:24 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics/",
+    "title": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
+    "description": "OpenAI says its internal AI models have cracked three major open questions in math, computer science, and physics. One of them is part of a famous Millennium Prize Problem, each of which carries a $1 million prize. Outside experts, including a Nobel laureate, are now checking whether the pr",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-27T18:37:47.529Z",
+    "published": "Tue, 27 Oct 2026 12:37:24 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+    "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+    "description": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:37:53.910Z",
+    "published": "Tue, 27 Oct 2026 15:10:26 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/",
+    "title": "Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context",
+    "description": "Mirendil released Fern 0.1, its first model, pretrained from scratch with a 10M-token context window. It targets agentic AI R&#038;D work, scores 100% on RULER single needle at 10M, but trails frontier models on agentic coding.\nThe post Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Con",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-27T18:38:00.300Z",
+    "published": "Tue, 27 Oct 2026 12:57:46 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/liquid-ai-launches-lfm3-family-of-six-open-weight-2b-class-models/",
+    "title": "Liquid AI Launches LFM3 Family of Six Open-Weight 2B-Class Models",
+    "description": "Liquid AI announced LFM3 on October 27, 2026, a new generation of open-weight Liquid Foundation Models that brings text, vision, audio, omni, and decision models onto one shared backbone. The first release, detailed in a post on the Hugging Face blog, covers six models in the 2B parameter range. Six",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:38:01.474Z",
+    "published": "Tue, 27 Oct 2026 17:37:15 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/oracle-announces-media-fabric-ai-platform-for-production-and-streaming/",
+    "title": "Oracle Announces Media Fabric AI Platform for Production and Streaming",
+    "description": "Oracle announced Oracle Media Fabric on October 27, 2026, at Oracle AI World in Las Vegas, an integrated platform that combines AI-powered production, enterprise media models, and distributed video delivery for media companies, streaming providers, and brands. Oracle said the platform is designed to",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:38:01.474Z",
+    "published": "Tue, 27 Oct 2026 17:33:13 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/oracle-to-offer-snowflake-ai-data-cloud-as-first-party-oci-service/",
+    "title": "Oracle to Offer Snowflake AI Data Cloud as First-Party OCI Service",
+    "description": "In a joint announcement at Oracle AI World in Las Vegas on October 27, 2026, Oracle and Snowflake said Snowflake AI Data Cloud will be available as a native, first-party service on Oracle Cloud Infrastructure (OCI), with customers able to purchase and provision the offering directly through Oracle.",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:38:01.474Z",
+    "published": "Tue, 27 Oct 2026 17:32:02 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/oracle-announces-ai-security-mesh-powered-by-openai-cyber-models/",
+    "title": "Oracle Announces AI Security Mesh Powered by OpenAI Cyber Models",
+    "description": "Oracle announced Oracle AI Security Mesh on October 27, 2026, at Oracle AI World in Las Vegas, a managed platform powered by OpenAI&#039;s frontier cyber models that Oracle said is designed to help organizations find and fix security vulnerabilities faster. The offering complements OCI Identity Assu",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:38:01.474Z",
+    "published": "Tue, 27 Oct 2026 17:19:03 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/mozilla-adds-ai-form-filling-and-page-watching-to-firefox-smart-window/",
+    "title": "Mozilla Adds AI Form Filling and Page Watching to Firefox Smart Window",
+    "description": "Mozilla announced on October 27, 2026, that Firefox&#039;s Smart Window can now draw on tabs a user chooses to help fill out online forms and can watch web pages for changes the user has asked it to track. Smart Window is Firefox&#039;s opt-in AI browsing experience. The two new features are availab",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:38:01.474Z",
+    "published": "Tue, 27 Oct 2026 17:18:03 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/invesco-and-anthropic-connect-portfolio-tools-for-advisors-in-claude/",
+    "title": "Invesco and Anthropic Connect Portfolio Tools for Advisors in Claude",
+    "description": "Invesco Ltd. announced on October 27, 2026 that it is working with Anthropic to make its portfolio intelligence and practice management resources available through Claude for Financial Advisors, using a new Invesco connector. The firm said the connector will provide a toolkit that helps advisors str",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:38:01.474Z",
+    "published": "Tue, 27 Oct 2026 17:06:01 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/oracle-acceleron-adds-front-end-rdma-and-multiplanar-failover-for-ai/",
+    "title": "Oracle Acceleron Adds Front-End RDMA and Multiplanar Failover for AI",
+    "description": "Oracle announced new Oracle Acceleron cloud networking capabilities for AI workloads at Oracle AI World in Las Vegas on October 27, 2026, introducing front-end RDMA connectivity, expanded NVMe block-storage options that Oracle said improve performance up to 3x, and a collective communications librar",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:38:01.474Z",
+    "published": "Tue, 27 Oct 2026 17:05:02 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/axiom-math-releases-43-1m-line-lean-proof-of-group-classification/",
+    "title": "Axiom Math Releases 43.1M-Line Lean Proof of Group Classification",
+    "description": "Axiom Math said on October 27, 2026 that it is releasing what it calls the first complete computer-checked proof of the Classification of Finite Simple Groups, produced over 24 days by engineers and mathematicians directing swarms of dozens of AI agents that wrote approximately 43.1 million lines of",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:38:01.474Z",
+    "published": "Tue, 27 Oct 2026 16:54:02 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/perplexity-breaks-down-llm-gateway-mechanics-and-production-risks/",
+    "title": "Perplexity Breaks Down LLM Gateway Mechanics and Production Risks",
+    "description": "Perplexity published a practical guide to LLM gateways on October 27, 2026, walking engineering teams through how the intermediary layer routes, authenticates, caches, and logs model calls and cataloging the security and reliability risks of concentrating provider credentials in one service. Gateway",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:38:01.474Z",
+    "published": "Tue, 27 Oct 2026 16:51:14 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/oracle-cloud-infrastructure-to-offer-googles-tpu-accelerators/",
+    "title": "Oracle Cloud Infrastructure to Offer Google’s TPU Accelerators",
+    "description": "Oracle and Google announced on October 27, 2026, at Oracle AI World in Las Vegas that Google&#039;s Tensor Processing Units (TPUs) will be available through Oracle Cloud Infrastructure (OCI). Oracle&#039;s announcement describes OCI as the first hyperscale cloud platform outside Google to offer Goog",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:38:01.474Z",
+    "published": "Tue, 27 Oct 2026 16:46:05 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/oracle-expands-openai-partnership-with-four-enterprise-ai-offerings/",
+    "title": "Oracle Expands OpenAI Partnership With Four Enterprise AI Offerings",
+    "description": "Oracle announced a major new collaboration with OpenAI at Oracle AI World in Las Vegas on October 27, 2026, introducing an expanded suite of four offerings that bring OpenAI models, ChatGPT, and Codex together with Oracle&#039;s applications, data, and cloud infrastructure. The suite consists of Ora",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:38:01.474Z",
+    "published": "Tue, 27 Oct 2026 16:40:01 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/nvidia-oracle-plan-multi-gigawatt-vera-rubin-expansion-on-oci/",
+    "title": "NVIDIA, Oracle Plan Multi-Gigawatt Vera Rubin Expansion on OCI",
+    "description": "NVIDIA and Oracle announced on October 27, 2026, plans to expand Oracle Cloud Infrastructure (OCI) Superclusters with NVIDIA Vera Rubin NVL72 systems to multi-gigawatt scale, citing growing customer demand for AI training, inference and agentic applications. The companies also announced general avai",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:38:01.474Z",
+    "published": "Tue, 27 Oct 2026 16:28:01 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/google-deepmind-rolls-out-genie-4-world-model-in-research-preview/",
+    "title": "Google DeepMind Rolls Out Genie 4 World Model in Research Preview",
+    "description": "Google DeepMind announced Genie 4, its new world model for real-time interactive simulation, on October 27, 2026, releasing it as a research preview to trusted testers. The announcement, authored by Raia Hadsell, Diego Rivas and Hang Qi, describes Genie 4 as natively multimodal, with music, ambient",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:38:01.474Z",
+    "published": "Tue, 27 Oct 2026 16:21:02 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/waymo-expands-fully-autonomous-ride-hailing-across-five-u-s-cities/",
+    "title": "Waymo Expands Fully Autonomous Ride-Hailing Across Five U.S. Cities",
+    "description": "Waymo said on October 27, 2026 that it will scale its fully autonomous ride-hailing service in five cities over the next week, adding nearly 250 square miles of territory across Los Angeles, Nashville, Orlando, San Diego, and the San Francisco Bay Area. The company detailed the expansion in an Octob",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:38:01.474Z",
+    "published": "Tue, 27 Oct 2026 16:16:13 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/ai-dating-fraud-trust-platform-security/",
+    "title": "One Operator, Thousands of Fake Romances: The New Economics of AI Fraud",
+    "description": "When technology companies discuss security, they usually focus on external threats like data breaches, vulnerable infrastructure, or stolen credentials. But for businesses built around human interaction, one of the most serious threats can exist inside the product itself, in the accounts users belie",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:38:01.474Z",
+    "published": "Tue, 27 Oct 2026 15:43:19 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/medical-ai-healthcare-automation-patient-access/",
+    "title": "When AI Enters the Hospital: What Changes for Doctors and Patients",
+    "description": "In my previous column, I explored medical AI from a business perspective, focusing on the opportunities it creates for technology companies. But beyond the potential for innovation and new markets, there is a more fundamental question: what difference will these technologies make to the doctors who",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:38:01.474Z",
+    "published": "Tue, 27 Oct 2026 15:10:55 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/confident-science-papers-sway-ai-judges-regardless-of-merit/",
+    "title": "Confident Science Papers Sway AI Judges – Regardless of Merit",
+    "description": "Confidence is a distinct advantage in evolution – and, according to a new research paper from Germany, also an advantage when a scientific paper is getting reviewed by Large Language Models (LLMs) instead of an author&#039;s peers (an increasingly frequent necessity, as the volume of science papers",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:38:01.474Z",
+    "published": "Tue, 27 Oct 2026 14:59:25 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/bito-governor-context-model-routing-coding-agent-costs/",
+    "title": "Bito Launches Governor to Cut Coding-Agent Costs With Context and Model Routing",
+    "description": "A coding agent can spend much of a session finding the right files before it makes a useful change. Each search adds context that may travel back to a model on later turns, turning a modest task into a growing inference bill. Bito is targeting both sides of that cost with Governor, a new model route",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:38:01.474Z",
+    "published": "Tue, 27 Oct 2026 14:30:35 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/olga-beregovaya-vp-of-ai-at-smartling-interview-series/",
+    "title": "Olga Beregovaya, VP of AI at Smartling – Interview Series",
+    "description": "Olga Beregovaya is Vice President of AI at Smartling, where she leads AI strategy across translation, data, quality, and safety. She has worked in natural language processing since 1997, spanning rule-based systems, statistical models, neural networks, and large language models. Before joining Smart",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:38:01.474Z",
+    "published": "Tue, 27 Oct 2026 14:28:44 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/matt-meyers-general-manager-north-america-smb-at-lenovo-interview-series/",
+    "title": "Matt Meyers, General Manager, North America SMB at Lenovo – Interview Series",
+    "description": "Matt Meyers is General Manager, North America SMB at Lenovo, where he works with small and midsized businesses navigating AI adoption, cybersecurity, and the operational demands of modern IT. He has spent more than a decade at Lenovo, with experience spanning global accounts, services and software,",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:38:01.474Z",
+    "published": "Tue, 27 Oct 2026 14:20:03 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/machenta-raises-40m-seed-instant-robot-learning/",
+    "title": "Machenta Raises $40M Seed to Teach Robots New Tasks From One Demonstration",
+    "description": "Teaching a robot a new job can take far longer than performing the job itself. Collecting demonstrations, preparing training data and updating a model can turn a small workflow change into a substantial engineering project. Machenta has raised a $40 million seed round to shorten that process, develo",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:38:01.474Z",
+    "published": "Tue, 27 Oct 2026 13:58:12 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/is-minimization-the-best-approach-to-ai-governance/",
+    "title": "Is Minimization the Best Approach to AI Governance?",
+    "description": "As organizations integrate artificial intelligence (AI) into their business operations, they need clear ways to manage the risks associated with its development and use. Effective governance provides oversight, but complex procedures can consume resources and slow implementation. Minimization offers",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:38:01.474Z",
+    "published": "Tue, 27 Oct 2026 13:45:37 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/opera-launches-webai-bringing-local-ai-models-to-its-browsers/",
+    "title": "Opera Launches WebAI, Bringing Local AI Models to Its Browsers",
+    "description": "Opera announced on October 27, 2026, that it began shipping local AI models directly in its browsers, making AI that runs on a user&#039;s own computer a central part of the next generation of Opera browsers. The first capabilities are available as an opt-in early preview in Opera One, with Opera GX",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:38:01.474Z",
+    "published": "Tue, 27 Oct 2026 13:44:10 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/pinecone-releases-pg-pinecone-an-open-source-postgres-search-extension/",
+    "title": "Pinecone Releases Pg_pinecone, an Open-Source Postgres Search Extension",
+    "description": "Pinecone on October 27, 2026 released pg_pinecone, an open-source Postgres extension licensed under Apache 2.0 that brings the vector search engine the company says it runs at scale to the pgvector columns applications already store. In company-reported benchmarks, the extension&#039;s native index",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:38:01.474Z",
+    "published": "Tue, 27 Oct 2026 13:31:17 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/salesforce-adds-agent-evals-and-cost-controls-to-agent-fabric/",
+    "title": "Salesforce Adds Agent Evals and Cost Controls to Agent Fabric",
+    "description": "Salesforce announced on October 27, 2026, a set of additions to Agent Fabric, its AI control plane for managing and governing agents across platforms, headlined by Agent Evals, API Evals, and advanced cost controls. Salesforce said the platform handles more than 1.2 billion requests daily. The annou",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:38:01.474Z",
+    "published": "Tue, 27 Oct 2026 13:29:18 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/chai-point-cuts-monthly-aws-bill-by-58",
+    "title": "Chai Point Cuts Monthly AWS Bill by 58%",
+    "description": "Monthly AWS bill fell from $10,877 to $4,550 over 12 months. The audit used Claude Code to examine Chai Point’s production and quality assurance cloud accounts",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-27T18:38:03.339Z",
+    "published": "Tue, 27 Oct 2026 15:20:44 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/bengaluru-ai-startup-simplismart-raises-14-mn-in-nvidia-backed-round",
+    "title": "Bengaluru AI Startup Simplismart Raises $14 Mn in NVIDIA-Backed Round",
+    "description": "The company will use the funds to develop its AI inference platform, expand partnerships with cloud providers and sovereign AI players.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-27T18:38:03.339Z",
+    "published": "Tue, 27 Oct 2026 14:32:07 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/maya-research-releases-open-weight-speech-model-supporting-12-languages",
+    "title": "Maya Research Releases Open-Weight Speech Model Supporting 12 Languages",
+    "description": "Maya 2 Native supports speech generation in 11 Indian languages and English, with real-time audio streaming and cross-lingual voice cloning.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-27T18:38:03.339Z",
+    "published": "Tue, 27 Oct 2026 12:33:35 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2295625/old-nokia-phone-ai-upgrade-never-designed-for/",
+    "title": "This old Nokia phone got an AI Upgrade it was never designed for",
+    "description": "The GOAT of dumb phones gets a new lease on life.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:38:05.640Z",
+    "published": "Tue, 27 Oct 2026 18:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2298428/apple-creator-studio-update-adds-motionvfx-to-final-cut-and-ai-to-everywhere/",
+    "title": "Apple Creator Studio update adds MotionVFX to Final Cut, and AI to everywhere",
+    "description": "Final Cut clips can finally be unlocked from the primary timeline - hallelujah.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:38:05.640Z",
+    "published": "Tue, 27 Oct 2026 16:21:44 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2298214/anthropics-political-problem-will-get-worse-before-it-gets-better/",
+    "title": "Anthropic's political problem will get worse before it gets better",
+    "description": "With the midterms closing in, its IPO paperwork reveal a company rightly worried about its regulatory future.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:38:05.640Z",
+    "published": "Tue, 27 Oct 2026 14:16:27 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2298132/apples-imac-with-m6-arrives-promising-a-huge-leap-in-ai-performance/",
+    "title": "Apple's iMac with M6 arrives promising a 'huge leap' in AI performance",
+    "description": "It offers more cores and more performance per core than the iMac M5.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:38:05.640Z",
+    "published": "Tue, 27 Oct 2026 13:25:44 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2295693/a-jailbroken-playstation-5-can-play-ps2-discs-but-sony-is-giving-users-a-tough-choice/",
+    "title": "A jailbroken PlayStation 5 can play PS2 discs, but Sony is giving users a tough choice",
+    "description": "We mean that in the Faustian bargain sense.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-27T18:38:05.640Z",
+    "published": "Tue, 27 Oct 2026 13:15:00 +0000"
   }
 ]
