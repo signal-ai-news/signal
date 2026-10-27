@@ -91118,5 +91118,249 @@
     "category": "ml",
     "discovered": "2026-10-27T06:08:08.584Z",
     "published": "Tue, 27 Oct 2026 04:51:49 GMT"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+    "description": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-27T12:35:46.154Z",
+    "published": "Tue, 27 Oct 2026 11:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-27T12:38:37.555Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+    "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-27T12:35:47.303Z",
+    "published": "Tue, 27 Oct 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-27T12:38:37.555Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+    "title": "How solid-state transformers could help power the AI boom",
+    "description": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could use an upgrade.&#160; As the world races",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-27T12:35:47.303Z",
+    "published": "Tue, 27 Oct 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-27T12:38:37.555Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/in-the-age-of-borrowed-thinking-how-to-become-more-valuable-as-ai-gets-smarter/",
+    "title": "In the Age of Borrowed Thinking, How To Become More Valuable as AI Gets Smarter",
+    "description": "A framework for staying relevant in the age of artificial intelligence\nThe post In the Age of Borrowed Thinking, How To Become More Valuable as AI Gets Smarter appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-27T12:36:09.512Z",
+    "published": "Tue, 27 Oct 2026 12:30:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-27T12:38:37.555Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/developers-felt-20-faster-with-ai-they-were-19-slower/",
+    "title": "Developers Felt 20% Faster With AI. They Were 19% Slower.",
+    "description": "And that’s not even the worrying part.\nThe post Developers Felt 20% Faster With AI. They Were 19% Slower. appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-27T12:36:09.512Z",
+    "published": "Tue, 27 Oct 2026 11:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-27T12:38:37.555Z"
+  },
+  {
+    "url": "https://the-decoder.com/openais-partner-content-arrives-in-chatgpt-pre-summarized-while-the-rest-of-the-web-gets-raw-scraps/",
+    "title": "OpenAI's partner content arrives in ChatGPT pre-summarized while the rest of the web gets raw scraps",
+    "description": "Content from OpenAI's licensing partners appears to flow into ChatGPT through a dedicated pipeline that gives it priority over the rest of the web.\nThe article OpenAI&#039;s partner content arrives in ChatGPT pre-summarized while the rest of the web gets raw scraps appeared first on The Dec",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-27T12:36:11.153Z",
+    "published": "Tue, 27 Oct 2026 11:39:24 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-uses-its-ipo-letter-to-renew-its-pledge-that-claude-will-never-show-ads/",
+    "title": "Anthropic uses its IPO letter to renew its pledge that Claude will never show ads",
+    "description": "Anthropic says it will keep ads out of Claude. In a cover letter accompanying its IPO filing, the company argues that the chatbot's sole incentive should be to provide helpful answers.\nThe article Anthropic uses its IPO letter to renew its pledge that Claude will never show ads appeared fir",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-27T12:36:11.153Z",
+    "published": "Tue, 27 Oct 2026 11:20:51 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openais-ted-sanders-shares-a-rule-of-thumb-for-picking-the-right-gpt-model/",
+    "title": "OpenAI's Ted Sanders shares a rule of thumb for picking the right GPT-model",
+    "description": "OpenAI's Ted Sanders explains where GPT-6.1 Terra fits in the company's GPT lineup. The smaller model outperforms the larger Astra in technical communication and costs far less but trails it in most other areas. Sanders says model size, reasoning effort, and multi-agent systems are distinct",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-27T12:36:11.153Z",
+    "published": "Tue, 27 Oct 2026 10:09:26 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/meta-gets-3-billion-from-nvidia-and-plans-to-spend-more-on-nvidia-chips/",
+    "title": "Meta gets $3 billion from Nvidia and plans to spend more on Nvidia chips",
+    "description": "ia is buying into its customer Meta, which plans to run more of its AI agents on Nvidia hardware.\nThe article Meta gets $3 billion from Nvidia and plans to spend more on Nvidia chips appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-27T12:36:11.153Z",
+    "published": "Tue, 27 Oct 2026 09:58:16 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
+    "title": "AI Agents Are Media’s New Favorite Audience",
+    "description": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-27T12:36:17.581Z",
+    "published": "Tue, 27 Oct 2026 11:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
+    "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
+    "description": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-27T12:36:17.581Z",
+    "published": "Tue, 27 Oct 2026 09:30:00 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/26/vllm-semantic-router-d3-ultra-27b-multimodal-decision-model/",
+    "title": "vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model",
+    "description": "vLLM Semantic Router released d3-ultra, a 27B open-weight multimodal decision model. It reads text, images and video once, then returns probabilities for every answer, scoring 87.2 on the team’s SR-Text test.\nThe post vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model appea",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-27T12:36:24.940Z",
+    "published": "Tue, 27 Oct 2026 05:50:57 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/26/baidu-unlimited-ocr-2-open-source-long-document-ocr/",
+    "title": "Baidu Open-Sources Unlimited OCR 2 for Hundred-Page Document Parsing",
+    "description": "Baidu has released Unlimited OCR 2, an MIT-licensed 3B OCR model that parses hundred-page documents in one request. Its SR-SWA attention keeps per-step decoding cost nearly flat, scoring 77.1 on MarathonDocBench\nThe post Baidu Open-Sources Unlimited OCR 2 for Hundred-Page Document Parsing appeared f",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-27T12:36:24.940Z",
+    "published": "Tue, 27 Oct 2026 05:26:36 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/ibm-and-kaggle-partner-on-continuous-scarfbench-migration-leaderboard/",
+    "title": "IBM and Kaggle Partner on Continuous ScarfBench Migration Leaderboard",
+    "description": "IBM and Kaggle are partnering on a continuously updated public leaderboard for ScarfBench, IBM&#039;s open benchmark for evaluating coding agents on enterprise Java framework migrations, according to an IBM Research technical note published October 27, 2026. ScarfBench, short for Self-Contained Appl",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T12:36:25.799Z",
+    "published": "Tue, 27 Oct 2026 12:18:01 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/mcp-enterprise-ai-saas-differentiation/",
+    "title": "The Next Battle in SaaS Starts Above MCP",
+    "description": "Model Context Protocol is giving AI a common way to connect with enterprise software. Vrushali Paunikar, Chief Product Officer at Carta, argues that the bigger challenge is deciding what happens after the connection is made, and how much of the job should be left to the language model. Over the past",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T12:36:25.799Z",
+    "published": "Tue, 27 Oct 2026 12:01:12 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/how-are-large-language-models-pretrained-data-objectives-and-compute/",
+    "title": "How Are Large Language Models Pretrained? Data, Objectives, and Compute",
+    "description": "Large language model pretraining optimizes a neural network on vast token sequences so it learns reusable linguistic, factual, and procedural patterns before task-specific adaptation. This guide explains the mechanism, trade-offs, evaluation, and controls that matter in practice.",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T12:36:25.799Z",
+    "published": "Tue, 27 Oct 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/coreweave-activates-denmark-ai-capacity-and-extends-global-network-backbone/",
+    "title": "CoreWeave Activates Denmark AI Capacity and Extends Global Network Backbone",
+    "description": "CoreWeave announced on October 27, 2026 an expansion of its global AI cloud platform, bringing new computing capacity online in Denmark and extending its Global AI Network backbone into the Middle East and Asia Pacific. In a news release issued from London, the company said it has brought the majori",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T12:36:25.799Z",
+    "published": "Tue, 27 Oct 2026 07:25:02 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/meta-deepens-nvidia-partnership-on-muse-ai-models-and-infrastructure/",
+    "title": "Meta Deepens NVIDIA Partnership on Muse AI Models and Infrastructure",
+    "description": "NVIDIA and Meta will expand their collaboration on Meta&#039;s Muse family of AI models and broaden planned deployments of NVIDIA computing and networking infrastructure at Meta, the companies said in an NVIDIA Newsroom release dated October 26, 2026. NVIDIA will also invest $3 billion in Meta&#039;",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-27T12:36:25.799Z",
+    "published": "Tue, 27 Oct 2026 06:18:03 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/anthropic-sued-over-alleged-use-of-elvis-presley-songs-to-train-claude-denies-claim",
+    "title": "Anthropic Sued Over Alleged Use of Elvis Presley Songs to Train Claude, Denies Claim",
+    "description": "Anthropic faces a $41.1 million lawsuit for using Elvis Presley's songs to train AI model Claude without permission. Learn more about the case.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-27T12:36:28.625Z",
+    "published": "Tue, 27 Oct 2026 12:16:54 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/corover-lists-three-bharatgpt-models-on-government-backed-aikosh-platform",
+    "title": "CoRover Lists Three BharatGPT Models On Government-Backed AIKosh Platform",
+    "description": "CoRover’s BharatGPT Mini, BharatGPT Instruct and ASR Hindi Conformer models are now available on AIKosh following a review by IndiaAI and MeitY.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-27T12:36:28.625Z",
+    "published": "Tue, 27 Oct 2026 11:43:39 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/cent-raises-15-million-to-expand-ai-powered-preventive-healthcare",
+    "title": "Cent Raises $15 Million to Expand AI-Powered Preventive Healthcare",
+    "description": "The startup has also acquired Medsee, an AI-powered radiology reporting platform, as it expands its medical imaging and clinical research capabilities.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-27T12:36:28.625Z",
+    "published": "Tue, 27 Oct 2026 11:36:38 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/cohere-says-alibabas-qwen-model-tried-to-upload-test-file-to-beijing-server",
+    "title": "Cohere Says Alibaba’s Qwen Model Tried to Upload Test File to Beijing Server",
+    "description": "Cohere reported Alibaba's Qwen model tried to upload a test file during a security evaluation, but the sandbox blocked the request.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-27T12:36:28.625Z",
+    "published": "Tue, 27 Oct 2026 10:51:24 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/tech-mahindra-and-mastercard-partner-to-integrate-b2b-payments-into-erp-platforms",
+    "title": "Tech Mahindra and Mastercard Partner to Integrate B2B Payments Into ERP Platforms",
+    "description": "The partnership targets automated payment reconciliation and tighter spending controls, while also bringing agentic AI workflows into procurement and finance sy",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-27T12:36:28.625Z",
+    "published": "Tue, 27 Oct 2026 10:39:19 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/hcltech-completes-acquisition-of-croatia-based-robotiqai",
+    "title": "HCLTech Completes Acquisition of Croatia-Based Robotiq.ai",
+    "description": "The €9 million transaction gives HCLSoftware full ownership of the Croatian RPA provider, with plans to integrate its technology into HCL UnO Agentic.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-27T12:36:28.625Z",
+    "published": "Tue, 27 Oct 2026 10:37:33 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2298015/nasa-plans-to-launch-three-massive-rockets-for-the-artemis-3-crewed-lunar-test-mission/",
+    "title": "NASA plans to launch three massive rockets for the Artemis 3 crewed lunar test mission",
+    "description": "NASA has detailed how the next Artemis 3 test will happen, but it doesn't have a concrete date for it yet.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-27T12:36:31.021Z",
+    "published": "Tue, 27 Oct 2026 11:58:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/",
+    "title": "OpenAI announces new discoveries in mathematics, computer science and physics",
+    "description": "OpenAI said its models generated proof that the Exponential Time Hypothesis is false. It also released new results for math and physics problems.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-27T12:36:31.021Z",
+    "published": "Tue, 27 Oct 2026 08:18:16 +0000"
   }
 ]
