@@ -92399,5 +92399,168 @@
     "category": "news",
     "discovered": "2026-10-27T22:54:21.406Z",
     "published": "Tue, 27 Oct 2026 21:13:59 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+    "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+    "description": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-28T02:05:30.214Z",
+    "published": "Wed, 28 Oct 2026 01:15:28 +0000",
+    "processed": true,
+    "processedAt": "2026-10-28T02:08:11.476Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+    "description": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-28T02:05:30.214Z",
+    "published": "Tue, 27 Oct 2026 23:34:27 +0000",
+    "processed": true,
+    "processedAt": "2026-10-28T02:08:11.476Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+    "title": "The data center boom has an upside: innovation for the US grid",
+    "description": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-28T02:05:30.214Z",
+    "published": "Tue, 27 Oct 2026 22:55:41 +0000",
+    "processed": true,
+    "processedAt": "2026-10-28T02:08:11.476Z"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/build-an-ai-voice-assistant",
+    "title": "How to build an AI voice assistant: Brand-aligned voice AI",
+    "description": "Discover how to build an AI voice assistant with reliable speech, natural dialogue, and safeguards that earn users' trust at scale using ElevenAPI.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-10-28T02:05:33.702Z",
+    "published": "Tue, 27 Oct 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-28T02:08:11.476Z"
+  },
+  {
+    "url": "https://secondtimeisabug.com/blog/coding-agent-guardrails-270-runs/",
+    "title": "Do Guardrails Make AI Coding Agents Better? What 270 Runs Showed",
+    "description": "Article URL: https://secondtimeisabug.com/blog/coding-agent-guardrails-270-runs/\nComments URL: https://news.ycombinator.com/item?id=50268368\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-28T02:05:43.009Z",
+    "published": "Wed, 28 Oct 2026 01:46:12 +0000",
+    "processed": true,
+    "processedAt": "2026-10-28T02:08:11.476Z"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+    "title": "Microsoft offers voluntary buyouts as AI leads to efficiency push",
+    "description": "Article URL: https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html\nComments URL: https://news.ycombinator.com/item?id=50268191\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-28T02:05:43.009Z",
+    "published": "Wed, 28 Oct 2026 01:17:10 +0000"
+  },
+  {
+    "url": "https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai",
+    "title": "Amazon defines the role of the developer in the age of AI",
+    "description": "Article URL: https://www.aboutamazon.com/news/company-news/amazon-software-engineer-role-guideline-ai\nComments URL: https://news.ycombinator.com/item?id=50268075\nPoints: 5\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-28T02:05:43.009Z",
+    "published": "Wed, 28 Oct 2026 01:00:33 +0000"
+  },
+  {
+    "url": "https://github.com/sujee/visual-stories/tree/main/projects/tracing-llm-api-request",
+    "title": "Show HN: A visual explainer tracing an LLM API request to the GPU and back",
+    "description": "Article URL: https://github.com/sujee/visual-stories/tree/main/projects/tracing-llm-api-request\nComments URL: https://news.ycombinator.com/item?id=50268042\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-28T02:05:43.009Z",
+    "published": "Wed, 28 Oct 2026 00:55:41 +0000"
+  },
+  {
+    "url": "https://www.usf.edu/news/2026/new-ai-powered-mosquito-trap-could-help-curb-dengue-outbreaks.aspx",
+    "title": "New AI-powered mosquito trap could help curb dengue outbreaks",
+    "description": "Article URL: https://www.usf.edu/news/2026/new-ai-powered-mosquito-trap-could-help-curb-dengue-outbreaks.aspx\nComments URL: https://news.ycombinator.com/item?id=50268012\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-28T02:05:43.009Z",
+    "published": "Wed, 28 Oct 2026 00:51:53 +0000"
+  },
+  {
+    "url": "https://github.com/oxnw/ai-phone",
+    "title": "AI Phone",
+    "description": "Article URL: https://github.com/oxnw/ai-phone\nComments URL: https://news.ycombinator.com/item?id=50268009\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-28T02:05:43.009Z",
+    "published": "Wed, 28 Oct 2026 00:51:40 +0000"
+  },
+  {
+    "url": "https://twitter.com/starmexxx/status/2114841068839526865",
+    "title": "Claude finds TikTok, Instagram bypassing microphone permissions to listen to you",
+    "description": "Article URL: https://twitter.com/starmexxx/status/2114841068839526865\nComments URL: https://news.ycombinator.com/item?id=50267483\nPoints: 14\n# Comments: 5",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-28T02:05:43.009Z",
+    "published": "Tue, 27 Oct 2026 23:44:32 +0000"
+  },
+  {
+    "url": "https://www.livescience.com/artificial-intelligence/human-evolution/ai-giants-are-one-big-mistake-away-from-catastrophe-they-could-learn-a-lot-from-the-nuclear-industry-opinion",
+    "title": "AI giants are [...] They could learn a lot from the nuclear industry",
+    "description": "Article URL: https://www.livescience.com/artificial-intelligence/human-evolution/ai-giants-are-one-big-mistake-away-from-catastrophe-they-could-learn-a-lot-from-the-nuclear-industry-opinion\nComments URL: https://news.ycombinator.com/item?id=50267321\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-28T02:05:43.009Z",
+    "published": "Tue, 27 Oct 2026 23:25:55 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=g9koXZ5JhDU",
+    "title": "A case against AI – Chet Faliszek [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=g9koXZ5JhDU\nComments URL: https://news.ycombinator.com/item?id=50267228\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-28T02:05:43.009Z",
+    "published": "Tue, 27 Oct 2026 23:15:21 +0000"
+  },
+  {
+    "url": "https://github.com/pgquiles/opencode-muse",
+    "title": "OpenCode-Muse: Use Meta AI's Muse Code Subscription in OpenCode",
+    "description": "Article URL: https://github.com/pgquiles/opencode-muse\nComments URL: https://news.ycombinator.com/item?id=50267038\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-28T02:05:43.009Z",
+    "published": "Tue, 27 Oct 2026 22:56:05 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/27/leann-vector-index-mlsys-2026/",
+    "title": "Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB",
+    "description": "UC Berkeley’s LEANN vector index stores a pruned graph and recomputes embeddings at query time. It matches HNSW accuracy at 90% recall using 4 GB instead of 188 GB, at the cost of seconds-level search.\nThe post Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-28T02:06:00.835Z",
+    "published": "Tue, 27 Oct 2026 21:54:37 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/oneqode-secures-14-mw-of-chennai-ai-capacity-in-adaniconnex-agreement/",
+    "title": "OneQode Secures 14 MW of Chennai AI Capacity in AdaniConneX Agreement",
+    "description": "OneQode announced on October 28, 2026, that it has signed an agreement with AdaniConneX for 14 MW of data center capacity in Siruseri Sipcot, Chennai, India, what the company called its first major AI infrastructure deployment in the country. The companies are also continuing discussions on addition",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T02:06:01.596Z",
+    "published": "Wed, 28 Oct 2026 01:22:01 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2296047/how-to-change-customize-android-auto-display/",
+    "title": "How to change and customize your Android Auto display",
+    "description": "Tailor your tech to fit your daily drive seamlessly.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-28T02:06:05.067Z",
+    "published": "Tue, 27 Oct 2026 23:00:00 +0000"
   }
 ]
