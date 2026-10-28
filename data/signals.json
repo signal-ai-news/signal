@@ -92562,5 +92562,150 @@
     "category": "news",
     "discovered": "2026-10-28T02:06:05.067Z",
     "published": "Tue, 27 Oct 2026 23:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+    "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
+    "description": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-28T08:55:03.429Z",
+    "published": "Wed, 28 Oct 2026 08:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-28T08:57:16.901Z"
+  },
+  {
+    "url": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
+    "title": "Should AI Decide Your Court Case? This Judge Says Yes",
+    "description": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-28T08:55:03.429Z",
+    "published": "Wed, 28 Oct 2026 06:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-28T08:57:16.901Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/",
+    "title": "Polymathic AI and Princeton Researchers Release FlashMap, a Flow Map Drafter for 6.14x Faster LLM Decoding",
+    "description": "FlashMap is a speculative decoding drafter from Polymathic AI, Princeton and USC ISI researchers. It drafts 16 tokens jointly in one pass and reaches up to 6.14x lossless speedup on Qwen3-8B.\nThe post Polymathic AI and Princeton Researchers Release FlashMap, a Flow Map Drafter for 6.14x Faster LLM D",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-28T08:55:05.694Z",
+    "published": "Wed, 28 Oct 2026 08:18:03 +0000",
+    "processed": true,
+    "processedAt": "2026-10-28T08:57:16.901Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/28/google-deepmind-genie-4-world-model/",
+    "title": "Meet Google DeepMind’s Genie 4: Real-Time World Model With Native Audio",
+    "description": "Google DeepMind released Genie 4 as a research preview. The real-time world model adds native audio, live dialogue and text steering, with Gemini 3.8 Flash planning events inside the simulation loop.\nThe post Meet Google DeepMind&#8217;s Genie 4: Real-Time World Model With Native Audio appeared firs",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-28T08:55:05.694Z",
+    "published": "Wed, 28 Oct 2026 07:34:58 +0000",
+    "processed": true,
+    "processedAt": "2026-10-28T08:57:16.901Z"
+  },
+  {
+    "url": "https://www.unite.ai/olx-group-unveils-agentic-selling-and-dealfinder-at-claim-summit/",
+    "title": "OLX Group Unveils Agentic Selling and DealFinder at CLAIM Summit",
+    "description": "OLX Group unveiled two new AI-powered tools on October 28, 2026: Agentic Selling, now live for 20% of private sellers on its Otodom property platform in Poland, and DealFinder, a buyer-side assistant on WhatsApp. Both were presented at CLAIM Online 2026, the company&#039;s future-of-marketplaces sum",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T08:55:06.808Z",
+    "published": "Wed, 28 Oct 2026 06:18:11 +0000",
+    "processed": true,
+    "processedAt": "2026-10-28T08:57:16.901Z"
+  },
+  {
+    "url": "https://www.unite.ai/buzz-hpc-lands-129m-fixed-rate-credit-facility-for-cohere-gpu-cluster/",
+    "title": "BUZZ HPC Lands $129M Fixed-Rate Credit Facility for Cohere GPU Cluster",
+    "description": "HIVE Digital Technologies said in an October 27, 2026 news release that BUZZ Alpha Cloud Inc., an indirect subsidiary, has entered into a Loan and Security Agreement with an institutional lender for a fixed-rate credit facility of approximately $129 million to finance an NVIDIA GB200 NVL72 GPU clust",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T08:55:06.808Z",
+    "published": "Wed, 28 Oct 2026 05:24:03 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/ltm-launches-dedicated-unit-to-build-and-operate-gccs-in-india",
+    "title": "LTM Launches Dedicated Unit to Build and Operate GCCs in India",
+    "description": "The new business will offer site selection, staffing, technology integration and operational support, with Shailendra Singh reporting to CEO Venu Lambu.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-28T08:55:08.325Z",
+    "published": "Wed, 28 Oct 2026 08:31:08 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/lts-vyomaai-breaks-ground-on-52-mw-data-centre-in-chennai",
+    "title": "L&T’s Vyoma.AI Breaks Ground on 52 MW Data Centre in Chennai",
+    "description": "The data centre will use direct-to-chip liquid cooling technology to manage heat generated by high-density computing workloads.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-28T08:55:08.325Z",
+    "published": "Wed, 28 Oct 2026 08:22:39 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/openai-plans-to-purchase-google-tpus-report",
+    "title": "OpenAI Plans to Purchase Google TPUs: Report",
+    "description": "OpenAI plans to buy AI chips from Google, potentially reducing its reliance on NVIDIA as it expands computing capacity to train and run its AI models.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-28T08:55:08.325Z",
+    "published": "Wed, 28 Oct 2026 05:12:33 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/google-deepmind-unveils-genie-4-for-real-time-world-simulation",
+    "title": "​​Google DeepMind Unveils Genie 4 for Real-Time World Simulation",
+    "description": "Genie 4 combines capabilities from Google’s Gemini models to simulate how environments, objects and people behave in response to user inputs.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-28T08:55:08.325Z",
+    "published": "Wed, 28 Oct 2026 04:26:43 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/inside-jio-platforms-its-tech-bets-loss-making-subsidiaries-and-hidden-risks",
+    "title": "Inside Jio Platforms: Its Tech Bets, Loss-Making Subsidiaries and Hidden Risks",
+    "description": "As investors look to Jio’s listing to revive sentiment in a sluggish market, here are some lesser-known details about its business, finances, partnerships, and",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-28T08:55:08.325Z",
+    "published": "Wed, 28 Oct 2026 03:52:09 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/oracle-partners-with-openai-to-bring-chatgpt-and-codex-to-enterprise-workflows",
+    "title": "Oracle Partners With OpenAI to Bring ChatGPT and Codex to Enterprise Workflows",
+    "description": "Oracle AI Workspace will bring Oracle Fusion Applications, NetSuite, Oracle AI Database and OCI into a unified experience accessible through ChatGPT.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-28T08:55:08.325Z",
+    "published": "Wed, 28 Oct 2026 03:36:01 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/oracle-expands-ai-compute-options-with-nvidia-google-tpus-and-cerebras",
+    "title": "Oracle Expands AI Compute Options With NVIDIA, Google TPUs and Cerebras",
+    "description": "Besides, Oracle is expanding its AMD and Intel compute offerings and bringing SambaNova’s AI inference systems to its infrastructure.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-28T08:55:08.325Z",
+    "published": "Wed, 28 Oct 2026 03:23:14 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2299227/meta-tamagotchi-like-ai-digital-pet-app-waddle-world/",
+    "title": "Meta's Waddle World is a Tamagotchi-like AI pet app",
+    "description": "Meta describes Waddle World as a &#39;daily journal disguised as a pet.&#39;",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-28T08:55:10.971Z",
+    "published": "Wed, 28 Oct 2026 08:40:19 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2296050/slate-truck-missing-4wd-feature-possible-dealbreaker/",
+    "title": "This one missing feature from the Slate truck might be a dealbreaker for truck enthusiasts",
+    "description": "The Slate Truck is known for offering hundreds of customization options, but one common truck option isn&#39;t available (yet.)",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-28T08:55:10.971Z",
+    "published": "Tue, 27 Oct 2026 23:30:00 +0000"
   }
 ]
