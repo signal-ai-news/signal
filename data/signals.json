@@ -92707,5 +92707,573 @@
     "category": "news",
     "discovered": "2026-10-28T08:55:10.971Z",
     "published": "Tue, 27 Oct 2026 23:30:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+    "title": "Legora is building the agentic operating system for legal work",
+    "description": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-28T15:53:18.259Z",
+    "published": "Wed, 28 Oct 2026 09:30:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-28T15:55:53.250Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+    "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-10-28T15:53:20.331Z",
+    "published": "Wed, 28 Oct 2026 14:58:17 GMT",
+    "processed": true,
+    "processedAt": "2026-10-28T15:55:53.250Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+    "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+    "description": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-28T15:53:21.449Z",
+    "published": "Wed, 28 Oct 2026 15:41:18 +0000",
+    "processed": true,
+    "processedAt": "2026-10-28T15:55:53.250Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+    "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+    "description": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-28T15:53:21.449Z",
+    "published": "Wed, 28 Oct 2026 15:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-28T15:55:53.250Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+    "title": "The Download: dead startups fueling AI and interspecies communication",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data w",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-28T15:53:22.545Z",
+    "published": "Wed, 28 Oct 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-28T15:55:53.250Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+    "title": "Pairing industrial AI autonomy and human control",
+    "description": "",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-28T15:53:22.545Z",
+    "published": "Wed, 28 Oct 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/lettuce",
+    "title": "Lettuce cuts creative ad production from over a week to under a minute with ElevenLabs",
+    "description": "Lettuce uses Ads Engine in ElevenCreative to generate Meta ad variants in 45 seconds, cutting creative costs by 75% and cost per lead by 40-60%.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-10-28T15:53:24.749Z",
+    "published": "Wed, 28 Oct 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/elevenlabs-adela",
+    "title": "ElevenLabs and adELA bring free voice restoration to Spain",
+    "description": "ElevenLabs partners with adELA, Spain’s leading ALS association, to restore the voices of patients living with ALS for free.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-10-28T15:53:24.749Z",
+    "published": "Wed, 28 Oct 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/voice-ai-for-karnataka",
+    "title": "Voice AI for Karnataka",
+    "description": "ElevenLabs signs an MoU with the Government of Karnataka to bring voice AI to citizen services, voice AI safety and voice restoration.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-10-28T15:53:24.749Z",
+    "published": "Wed, 28 Oct 2026 11:30:00 GMT"
+  },
+  {
+    "url": "https://www.sixthtone.com/news/1019180",
+    "title": "China's Lao GAN Ma Takes the Heat for Alleged Layoffs Due to AI",
+    "description": "Article URL: https://www.sixthtone.com/news/1019180\nComments URL: https://news.ycombinator.com/item?id=50275653\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-28T15:53:28.167Z",
+    "published": "Wed, 28 Oct 2026 15:47:48 +0000"
+  },
+  {
+    "url": "https://surgehq.ai/blog/dayjob-tax",
+    "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+    "description": "Article URL: https://surgehq.ai/blog/dayjob-tax\nComments URL: https://news.ycombinator.com/item?id=50275626\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-28T15:53:28.167Z",
+    "published": "Wed, 28 Oct 2026 15:46:30 +0000"
+  },
+  {
+    "url": "https://www.cbc.ca/news/business/ai-ceo-jobs-ey-survey-9.7398596",
+    "title": "46% of Canadian CEOs eyeing AI-driven growth with smaller staff, poll shows",
+    "description": "Article URL: https://www.cbc.ca/news/business/ai-ceo-jobs-ey-survey-9.7398596\nComments URL: https://news.ycombinator.com/item?id=50275564\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-28T15:53:28.167Z",
+    "published": "Wed, 28 Oct 2026 15:43:38 +0000"
+  },
+  {
+    "url": "https://pullboard.dev/live/",
+    "title": "Show HN: Watch AI agents build Pullboard, live",
+    "description": "Article URL: https://pullboard.dev/live/\nComments URL: https://news.ycombinator.com/item?id=50275500\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-28T15:53:28.167Z",
+    "published": "Wed, 28 Oct 2026 15:39:57 +0000"
+  },
+  {
+    "url": "https://www.nytimes.com/interactive/2026/10/26/technology/ai-agent-hacks-training.html",
+    "title": "AI's Rogue Behavior Starts with Its Training",
+    "description": "Article URL: https://www.nytimes.com/interactive/2026/10/26/technology/ai-agent-hacks-training.html\nComments URL: https://news.ycombinator.com/item?id=50275417\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-28T15:53:28.167Z",
+    "published": "Wed, 28 Oct 2026 15:34:39 +0000"
+  },
+  {
+    "url": "https://app.userrank.ai/",
+    "title": "Show HN: Coding agent spots your AI practices and the ones you're missing",
+    "description": "Frontier models improve at a pace faster than the pace at which most humans are able to keep up. Not all of us are obsessed with pushing the boundaries of our agents and trying new ways to work with them. I often spend 12+ hours a day working with an LLM, and still, when I talk to people, I hear of",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-28T15:53:28.167Z",
+    "published": "Wed, 28 Oct 2026 15:26:16 +0000"
+  },
+  {
+    "url": "https://lab.ripplecolab.com/human-system-ai/",
+    "title": "Show HN: An animated map of the people and money in AI",
+    "description": "Article URL: https://lab.ripplecolab.com/human-system-ai/\nComments URL: https://news.ycombinator.com/item?id=50275207\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-28T15:53:28.167Z",
+    "published": "Wed, 28 Oct 2026 15:22:37 +0000"
+  },
+  {
+    "url": "https://theainewsreport.com/2026-10-28-cisco-project-quarry-claude-code-plugin-what-it-does.html",
+    "title": "What Cisco's Project Quarry plugin for Claude Code does",
+    "description": "Article URL: https://theainewsreport.com/2026-10-28-cisco-project-quarry-claude-code-plugin-what-it-does.html\nComments URL: https://news.ycombinator.com/item?id=50275194\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-28T15:53:28.167Z",
+    "published": "Wed, 28 Oct 2026 15:21:43 +0000"
+  },
+  {
+    "url": "https://zairai.substack.com/p/the-half-life-of-ai-knowledge-what",
+    "title": "The half-life of AI knowledge",
+    "description": "Article URL: https://zairai.substack.com/p/the-half-life-of-ai-knowledge-what\nComments URL: https://news.ycombinator.com/item?id=50275166\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-28T15:53:28.167Z",
+    "published": "Wed, 28 Oct 2026 15:19:50 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50275109",
+    "title": "Ask HN: Does the \"domain expertise\" helps founders in this AI era?",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=50275109\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-28T15:53:28.167Z",
+    "published": "Wed, 28 Oct 2026 15:16:26 +0000"
+  },
+  {
+    "url": "https://mattinglot.substack.com/p/i-used-gpt-to-design-a-feature-packed",
+    "title": "I Used GPT to Design a Feature Packed PCB and It Worked",
+    "description": "Article URL: https://mattinglot.substack.com/p/i-used-gpt-to-design-a-feature-packed\nComments URL: https://news.ycombinator.com/item?id=50275100\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-28T15:53:28.167Z",
+    "published": "Wed, 28 Oct 2026 15:15:46 +0000"
+  },
+  {
+    "url": "https://tw93.fun/en/2026-10-26/mole-product.html",
+    "title": "How to Build a Slow Product in the Fast AI Era",
+    "description": "Article URL: https://tw93.fun/en/2026-10-26/mole-product.html\nComments URL: https://news.ycombinator.com/item?id=50275012\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-28T15:53:28.167Z",
+    "published": "Wed, 28 Oct 2026 15:10:48 +0000"
+  },
+  {
+    "url": "https://briankitano.com/essays/ai-in-hospitals/",
+    "title": "How AI could work in hospitals",
+    "description": "Article URL: https://briankitano.com/essays/ai-in-hospitals/\nComments URL: https://news.ycombinator.com/item?id=50274985\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-28T15:53:28.167Z",
+    "published": "Wed, 28 Oct 2026 15:09:32 +0000"
+  },
+  {
+    "url": "https://jeman.net/nekot/",
+    "title": "Show HN: Nekot, an iPhone app that warns you before Claude Code limits hit",
+    "description": "Article URL: https://jeman.net/nekot/\nComments URL: https://news.ycombinator.com/item?id=50274834\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-28T15:53:28.167Z",
+    "published": "Wed, 28 Oct 2026 15:01:45 +0000"
+  },
+  {
+    "url": "https://github.com/TheWariend/CleanSlate",
+    "title": "Show HN: An AI workspace with shared procedural memory as reusable skills",
+    "description": "Article URL: https://github.com/TheWariend/CleanSlate\nComments URL: https://news.ycombinator.com/item?id=50274784\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-28T15:53:28.167Z",
+    "published": "Wed, 28 Oct 2026 14:58:46 +0000"
+  },
+  {
+    "url": "https://www.theregister.com/security/2026/10/28/cisco-open-sources-tool-for-detecting-ai-agents-on-hacking-sprees/5305867",
+    "title": "Cisco open sources tool for detecting AI agents on hacking sprees",
+    "description": "Article URL: https://www.theregister.com/security/2026/10/28/cisco-open-sources-tool-for-detecting-ai-agents-on-hacking-sprees/5305867\nComments URL: https://news.ycombinator.com/item?id=50274745\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-28T15:53:28.167Z",
+    "published": "Wed, 28 Oct 2026 14:56:26 +0000"
+  },
+  {
+    "url": "https://research.meta.ai/blog/bringing-your-muse-to-life",
+    "title": "Meta's Muse Realtime Avatar turns any image into a talking AI character",
+    "description": "Article URL: https://research.meta.ai/blog/bringing-your-muse-to-life\nComments URL: https://news.ycombinator.com/item?id=50274728\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-28T15:53:28.167Z",
+    "published": "Wed, 28 Oct 2026 14:55:21 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50274683",
+    "title": "A garbage collector for LLM context windows, written in Rust",
+    "description": "Hi HN,Like many of you, I spend a lot of time coding with Codex and switching between cloud and local models.As a software engineer, something I never understood, and honestly hated—was `/compact` and the way it’s designed. On local models my GPU screams, and after a few hours prefill takes 2 to 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-28T15:53:28.167Z",
+    "published": "Wed, 28 Oct 2026 14:52:56 +0000"
+  },
+  {
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/27/anthropic-now-lets-claude-users-jump-out-of-plane-without-parachute/5305807",
+    "title": "Anthropic now lets Claude users jump out of plane without parachute",
+    "description": "Article URL: https://www.theregister.com/ai-and-ml/2026/10/27/anthropic-now-lets-claude-users-jump-out-of-plane-without-parachute/5305807\nComments URL: https://news.ycombinator.com/item?id=50274666\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-28T15:53:28.167Z",
+    "published": "Wed, 28 Oct 2026 14:51:56 +0000"
+  },
+  {
+    "url": "https://www.ft.com/content/2bb82c45-04b2-4ccc-9002-f54483fb044e",
+    "title": "China rushes to shore up markets as AI trade sours",
+    "description": "Article URL: https://www.ft.com/content/2bb82c45-04b2-4ccc-9002-f54483fb044e\nComments URL: https://news.ycombinator.com/item?id=50274616\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-28T15:53:28.167Z",
+    "published": "Wed, 28 Oct 2026 14:49:45 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-make-ai-work-for-end-to-end-business-processes/",
+    "title": "How to Make AI Work for End-to-End Business Processes",
+    "description": "From simplifying workflows to connecting knowledge and rules, coordinating AI agents, and delivering measurable business results.\nThe post How to Make AI Work for End-to-End Business Processes appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-28T15:53:33.221Z",
+    "published": "Wed, 28 Oct 2026 15:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/where-a-cell-sits-matters-more-than-how-many-there-are/",
+    "title": "Where a Cell Sits Matters More Than How Many There Are",
+    "description": "Using spatstat raster layers and point process models to ask how neurons, astrocytes and microglia sit relative to each other\nThe post Where a Cell Sits Matters More Than How Many There Are appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-28T15:53:33.221Z",
+    "published": "Wed, 28 Oct 2026 14:00:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/building-and-visualising-kolmogorovarnold-networks/",
+    "title": "Building and Visualising Kolmogorov–Arnold Networks",
+    "description": "Exploring what happens when neural networks learn functions instead of weights.\nThe post Building and Visualising Kolmogorov–Arnold Networks appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-28T15:53:33.221Z",
+    "published": "Wed, 28 Oct 2026 12:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/your-rag-pipeline-is-missing-a-1994-algorithm/",
+    "title": "Your RAG Pipeline Is Missing a 1994 Algorithm",
+    "description": "Embeddings know that &quot;broken&quot; means &quot;defective&quot;. They may not notice that ZX-4821 is not ZX-4812.\nThe post Your RAG Pipeline Is Missing a 1994 Algorithm appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-28T15:53:33.221Z",
+    "published": "Wed, 28 Oct 2026 11:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/nvidias-open-nemotron-3-5-transcribe-combines-transcription-translation-and-speaker-recognition/",
+    "title": "Nvidia's open Nemotron 3.5 Transcribe combines transcription, translation, and speaker recognition",
+    "description": "Nvidia has released Nemotron 3.5 Transcribe, an open speech recognition model that handles transcription, speaker recognition, and translation and takes its instructions as text prompts. It leads several benchmarks and uses only a sixth of the active parameters of its strongest open rival.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-28T15:53:34.871Z",
+    "published": "Wed, 28 Oct 2026 15:49:39 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/new-artificial-analysis-index-widens-the-gap-between-open-and-closed-models/",
+    "title": "New Artificial Analysis index widens the gap between open and closed models",
+    "description": "Artificial Analysis overhauled its Intelligence Index, causing Kimi K3.1 Pro to drop five spots in the rankings.\nThe article New Artificial Analysis index widens the gap between open and closed models appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-28T15:53:34.871Z",
+    "published": "Wed, 28 Oct 2026 15:04:43 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/with-ai-writing-the-code-entrepreneurial-thinking-is-now-what-counts-most-for-newcomers-at-anthropic/",
+    "title": "With AI writing the code, entrepreneurial thinking is now what counts most for newcomers at Anthropic",
+    "description": "Anthropic manager Felix Rieseberg says the classic coding interview is dead because Claude now solves small programming tasks better than job candidates do. He'd rather see prototypes that show taste, empathy, and principled thinking, since in his words, \"hunger beats tenure.\" That sounds e",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-28T15:53:34.871Z",
+    "published": "Wed, 28 Oct 2026 11:15:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/",
+    "title": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+    "description": "Cybersecurity startup Cathedral used AI agents to break into Anthropic's internal systems through third-party software as part of a bug bounty program. Anthropic confirmed access to sales, HR, and IT data but disputes how deep the breach went. The incident shows how vulnerable even leading",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-28T15:53:34.871Z",
+    "published": "Wed, 28 Oct 2026 10:56:24 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+    "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
+    "description": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-28T15:53:40.483Z",
+    "published": "Wed, 28 Oct 2026 10:15:00 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/nvidia-launches-open-weight-speech-model-and-463-062-hour-audio-dataset/",
+    "title": "NVIDIA Launches Open-Weight Speech Model and 463,062-Hour Audio Dataset",
+    "description": "NVIDIA released Nemotron 3.5 Transcribe on October 28, 2026, an open-weight speech model that combines multilingual transcription, speaker attribution, translation, and audio question answering in a single checkpoint, alongside Granary v2, an open speech dataset and curation pipeline whose public ma",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T15:53:44.738Z",
+    "published": "Wed, 28 Oct 2026 15:45:12 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/agentic-ai-higher-education-student-outcomes/",
+    "title": "AI Can Answer the Question. The Next Challenge Is Helping People Move Forward.",
+    "description": "We have become remarkably good at building AI that can answer questions. Ask when an application is due, which documents are required, or how a process works, and it can provide a useful response in seconds. But when the stakes involve someone&#039;s education, financial future, or sense of belongin",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T15:53:44.739Z",
+    "published": "Wed, 28 Oct 2026 15:31:02 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/waymo-integrates-ramp-to-automate-expense-reporting-for-business-rides/",
+    "title": "Waymo Integrates Ramp to Automate Expense Reporting for Business Rides",
+    "description": "In a From the road post dated October 28, 2026, Waymo announced that Waymo for Business is integrated with finance platform Ramp. Waymo said the integration is intended to make it easier for organizations and their employees to manage expenses when using its fully autonomous ride-hailing service. Un",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T15:53:44.739Z",
+    "published": "Wed, 28 Oct 2026 13:23:14 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/agentic-ai-security-sdlc-governance/",
+    "title": "AI Is the New Insider Threat, but Plans to Address the Risk Are Coming One Layer Too Late",
+    "description": "The Hugging Face breach and similar incidents have sent chills through the industry, but organizations should focus on the SDLC, not the AI model layer. The Hugging Face breach in July, carried out by OpenAI agents, followed quickly by reports of similar breakouts involving Anthropic and Meta models",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T15:53:44.739Z",
+    "published": "Wed, 28 Oct 2026 13:10:44 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/the-rise-of-the-lone-scientist-under-agentic-ai/",
+    "title": "The Rise of the Lone Scientist Under Agentic AI",
+    "description": "I have for some years held scientific papers with sole authorship at a disadvantage in terms of credibility. It&#039;s not an uninformed prejudice; too often a click on a sole-authored paper with an interesting premise leads into a self-indulgent and clearly under-challenged series of suppositions.",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T15:53:44.739Z",
+    "published": "Wed, 28 Oct 2026 13:00:18 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/swimlane-custom-ai-threat-detections-two-way-mcp-turbine/",
+    "title": "Swimlane Adds Custom AI Threat Detections and Two-Way MCP Support to Turbine",
+    "description": "An AI security analyst can investigate an alert quickly, but it cannot investigate a warning that was never generated. Swimlane is targeting that gap with new customer-defined detection capabilities in its Turbine platform, allowing security teams to apply their own logic to operational data and sen",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T15:53:44.739Z",
+    "published": "Wed, 28 Oct 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/akeneo-autumn-release-2026-governed-ai-product-data/",
+    "title": "Akeneo Expands Governed AI Product Data Workflows in Autumn Release 2026",
+    "description": "Akeneo is expanding the role of AI agents in enterprise product-data operations with its Autumn Release 2026, adding new ways to prepare catalogs, collaborate with suppliers, and publish to storefronts while keeping changes subject to enterprise controls. The release also introduces more explicit ru",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T15:53:44.739Z",
+    "published": "Wed, 28 Oct 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/harvey-announces-fedramp-class-d-certification-for-federal-legal-work/",
+    "title": "Harvey Announces FedRAMP Class D Certification for Federal Legal Work",
+    "description": "Harvey announced on October 28, 2026 that its legal AI platform is now FedRAMP Class D certified. The company said the certification allows U.S. federal agencies, federal contractors and partners, international governments, and commercial entities requiring the highest security standards to use Harv",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T15:53:44.739Z",
+    "published": "Wed, 28 Oct 2026 12:07:10 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/circuit-mind-18-5m-series-a-ai-electronics-design/",
+    "title": "Circuit Mind Raises $18.5M Series A as It Announces $25M for AI Electronics Design",
+    "description": "Circuit Mind has announced $25 million in financing to expand its AI platform for designing and checking electronic circuits. The package includes an $18.5 million Series A and a previously unannounced seed round, bringing the London company’s total funding to $33.4 million. The Series A was led by",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T15:53:44.739Z",
+    "published": "Wed, 28 Oct 2026 12:00:30 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/what-are-vision-language-action-models-the-foundation-of-general-purpose-robots/",
+    "title": "What Are Vision-Language-Action Models? The Foundation of General-Purpose Robots",
+    "description": "Vision-language-action models connect visual perception and language instructions to sequences of physical actions for embodied systems. This guide explains the mechanism, trade-offs, evaluation, and controls that matter in practice.",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T15:53:44.739Z",
+    "published": "Wed, 28 Oct 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/codesignal-agentic-skills-intelligence-everyday-work/",
+    "title": "CodeSignal Launches Agentic Skills Intelligence to Evaluate Skills From Everyday Work",
+    "description": "A company can know who has completed a course, adopted an AI assistant or held a particular job title without knowing how well that person can perform the work ahead. CodeSignal is targeting that gap with Agentic Skills Intelligence, a new offering that evaluates employees&#039; work and connects th",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T15:53:44.739Z",
+    "published": "Wed, 28 Oct 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/ai-captive-insurance-automation/",
+    "title": "Captives Quickly Becoming the Test Lab for AI-Powered Insurance",
+    "description": "The most repeated line about captive insurance right now is that AI data centers are too big for the traditional market to absorb. Marsh, the world’s largest insurance broker and captive manager, expects explosive growth in companies setting up their own in-house insurers to carry data center risk.",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T15:53:44.739Z",
+    "published": "Wed, 28 Oct 2026 11:50:46 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/bloomberg-adds-domain-grounded-ai-coding-assistant-to-bquant/",
+    "title": "Bloomberg Adds Domain-Grounded AI Coding Assistant to BQuant",
+    "description": "Bloomberg on October 28, 2026 introduced BQuant Assistant, a conversational AI coding assistant the company describes as domain-grounded, built into its BQuant Desktop and BQuant Enterprise products. According to the announcement, it lets financial professionals who are Bloomberg Terminal subscriber",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T15:53:44.739Z",
+    "published": "Wed, 28 Oct 2026 11:22:11 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-highlights/webinar-alert-building-secure-and-scalable-enterprise-applications-in-the-age-of-ai-with-aurigo",
+    "title": "[Webinar Alert] Building Secure and Scalable Enterprise Applications in the Age of AI With Aurigo",
+    "description": "Aurigo Software will host a webinar featuring Manish Sharma on November 18, exploring the engineering decisions and responsibilities that become increasingly im",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-28T15:53:46.049Z",
+    "published": "Wed, 28 Oct 2026 12:07:20 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/kpit-bets-on-ai-for-margin-growth-as-q2-revenue-growth-stays-weak",
+    "title": "KPIT Bets on AI for Margin Growth as Q2 Revenue Growth Stays Weak",
+    "description": "The company's EBITDA margin rose to 17.8% in Q2 FY27, while net cash fell to ₹620.5 crore from ₹901.7 crore in the previous quarter.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-28T15:53:46.049Z",
+    "published": "Wed, 28 Oct 2026 11:21:49 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/it-services/owning-of-the-ip-itself-is-meaningless-says-mphasis-ravi-vasantraj",
+    "title": "‘Owning of the IP Itself is Meaningless,’ Says Mphasis’ Ravi Vasantraj",
+    "description": "The Global Delivery Head argues that domain context, not AI models, will decide enterprise value. Here is what the numbers show.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-28T15:53:46.049Z",
+    "published": "Wed, 28 Oct 2026 10:09:46 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/akamai-launches-ai-inference-and-agent-sandbox-services",
+    "title": "Akamai Launches AI Inference and Agent Sandbox Services",
+    "description": "The services are part of Akamai’s strategy to offer infrastructure for building, running and securing AI applications on a single platform.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-28T15:53:46.049Z",
+    "published": "Wed, 28 Oct 2026 09:51:21 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/openai-sued-over-chatgpts-alleged-role-in-womans-death-after-seizure-medication-taper",
+    "title": "OpenAI Sued Over ChatGPT’s Alleged Role in Woman’s Death After Seizure Medication Taper",
+    "description": "The lawsuit alleges GPT-4o generated a plan to reduce Bowen Wan’s epilepsy medication and encouraged her to conceal the changes from her doctors.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-28T15:53:46.049Z",
+    "published": "Wed, 28 Oct 2026 09:29:11 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/live2ai-raises-130-cr-in-pre-series-b-round-led-by-ivycap-ventures",
+    "title": "Live2.ai Raises ₹130 Cr in Pre-Series B Round Led by IvyCap Ventures",
+    "description": "Live2.ai raises ₹130 crore in pre-Series B funding to enhance its AI platform and expand operations globally across multiple regions.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-28T15:53:46.049Z",
+    "published": "Wed, 28 Oct 2026 09:22:03 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-startups/this-bengaluru-startup-is-building-ai-agents-for-hardware-design",
+    "title": "This Bengaluru Startup Is Building AI Agents for Hardware Design",
+    "description": "The startup integrates AI into existing hardware design tools to automate circuit design, validation and debugging while keeping engineers in control of key dec",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-28T15:53:46.049Z",
+    "published": "Wed, 28 Oct 2026 09:13:29 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2299600/audio-technica-just-released-its-first-set-of-wireless-streamset-headphones/",
+    "title": "Audio Technica just released its first set of wireless StreamSet headphones",
+    "description": "This expands the lineup beyond XLR and USB-connected models.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-28T15:53:48.151Z",
+    "published": "Wed, 28 Oct 2026 15:34:06 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2299180/kindle-paperwhite-signature-edition-2026-review/",
+    "title": "Kindle Paperwhite Signature Edition (2026) review: Updated in all the right places",
+    "description": "Amazon's updates to the Paperwhite Signature Edition make it feel even more premium, but the regular version remains a great choice for less money.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-28T15:53:48.151Z",
+    "published": "Wed, 28 Oct 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2299176/apple-pro-and-tell-macbook-event-live-blog/",
+    "title": "Apple's Pro and Tell event: Live updates as we wait to see a MacBook Pro with a touch screen",
+    "description": "Reports indicate that a &#34;MacBook Ultra&#34; with a touch-sensitive display is likely on the agenda today.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-28T15:53:48.151Z",
+    "published": "Wed, 28 Oct 2026 12:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2299263/amazon-echo-time-smart-alarm-clock/",
+    "title": "Amazon's new Echo Time smart alarm clock tries to make waking up less painful",
+    "description": "Amazon has launched a new smart alarm clock that can determine when you're in lighter sleep before waking you up.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-28T15:53:48.151Z",
+    "published": "Wed, 28 Oct 2026 12:00:00 +0000"
   }
 ]
