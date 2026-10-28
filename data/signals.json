@@ -93275,5 +93275,393 @@
     "category": "news",
     "discovered": "2026-10-28T15:53:48.151Z",
     "published": "Wed, 28 Oct 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+    "description": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-28T20:55:13.693Z",
+    "published": "Wed, 28 Oct 2026 13:15:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-28T20:57:49.666Z"
+  },
+  {
+    "url": "https://openai.com/index/the-future-of-the-firm",
+    "title": "The future of the firm",
+    "description": "How AI might enter the org chart—beneath, beside, and between us.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-28T20:55:13.693Z",
+    "published": "Wed, 28 Oct 2026 10:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-28T20:57:49.666Z"
+  },
+  {
+    "url": "https://openai.com/index/legora",
+    "title": "Legora is building the agentic operating system for legal work",
+    "description": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-28T20:55:13.693Z",
+    "published": "Wed, 28 Oct 2026 09:30:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-28T20:57:49.666Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+    "description": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-28T20:55:16.931Z",
+    "published": "Wed, 28 Oct 2026 19:19:58 +0000",
+    "processed": true,
+    "processedAt": "2026-10-28T20:57:49.666Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+    "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+    "description": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-28T20:55:16.931Z",
+    "published": "Wed, 28 Oct 2026 17:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-28T20:57:49.666Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+    "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+    "description": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-28T20:55:16.931Z",
+    "published": "Wed, 28 Oct 2026 17:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+    "title": "AI execs may be too out of touch to build for the general public",
+    "description": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-28T20:55:16.931Z",
+    "published": "Wed, 28 Oct 2026 15:53:52 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+    "title": "Creating AI value with enterprise context",
+    "description": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outc",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-28T20:55:18.003Z",
+    "published": "Wed, 28 Oct 2026 20:32:02 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/cue-aligner",
+    "title": "How your transcript knows where each word is spoken",
+    "description": "Meet Cue, ElevenLabs’ forced alignment model: character-level timestamps, any recording length, and an hour of audio aligned in under a second.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-10-28T20:55:20.033Z",
+    "published": "Wed, 28 Oct 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "title": "Gemini 4 Carbon: Our next frontier model",
+    "description": "",
+    "source": "DeepMind Blog",
+    "category": "llm",
+    "discovered": "2026-10-28T20:55:26.331Z",
+    "published": "Wed, 28 Oct 2026 17:00:58 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/google-deepmind-releases-gemini-4-carbon-just-two-weeks-after-argon-with-gains-across-the-board/",
+    "title": "Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board",
+    "description": "Just two weeks after Gemini 4 Argon, Google DeepMind is releasing Gemini 4 Carbon, which tops the Artificial Analysis Intelligence Index v5 with 59 points. Google says the model is built for extended agent workflows and the full cyber defense lifecycle. Because of those advanced security ca",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-28T20:55:31.481Z",
+    "published": "Wed, 28 Oct 2026 19:17:58 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/",
+    "title": "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
+    "description": "Google is opening up Android Studio to third-party AI agents. Through a new \"Bring Your Own Agent\" feature, the IDE now supports more than 40 coding agents, including Anthropic's Claude Agent and OpenAI's Codex. Google says new terminal tools also help agents finish UI tasks 77 percent fast",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-28T20:55:31.481Z",
+    "published": "Wed, 28 Oct 2026 16:59:59 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-teases-dots-for-europe-but-its-berlin-devday-was-really-about-building-a-platform/",
+    "title": "OpenAI teases Dots for Europe, but its Berlin DevDay was really about building a platform",
+    "description": "At DevDay Exchange in Berlin, OpenAI mostly repeated what it had already announced, but it did share a few new details. The AI assistant Dots should roll out more widely in Europe \"in a few weeks,\" and weekly Codex users in Germany have grown twentyfold since January. A clear subtext ran th",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-28T20:55:31.481Z",
+    "published": "Wed, 28 Oct 2026 16:25:02 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/claude-for-legal-now-verifies-sources-automatically-then-hands-the-file-to-a-lawyer/",
+    "title": "Claude for Legal now verifies sources automatically, then hands the file to a lawyer",
+    "description": "Anthropic is adding pre-built templates to Claude for Legal. These interactive overviews and tables simplify setup for legal teams and speed up routine work like contract reviews, while more than 60 integrations let firms connect their own databases directly.\nThe article Claude for Legal no",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-28T20:55:31.481Z",
+    "published": "Wed, 28 Oct 2026 16:20:03 +0000"
+  },
+  {
+    "url": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+    "title": "GitHub Universe 2026: Evolving every layer of the stack",
+    "description": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world.\nThe post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-10-28T20:55:35.879Z",
+    "published": "Wed, 28 Oct 2026 16:09:28 +0000"
+  },
+  {
+    "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+    "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+    "description": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report.\nThe post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-10-28T20:55:35.879Z",
+    "published": "Wed, 28 Oct 2026 16:07:40 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
+    "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+    "description": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-28T20:55:37.223Z",
+    "published": "Wed, 28 Oct 2026 18:30:00 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/28/google-deepmind-gemini-4-carbon-frontier-model/",
+    "title": "Google DeepMind Introduces Gemini 4 Carbon, Its Top Model for Cyber Defense and Coding",
+    "description": "Google DeepMind introduced Gemini 4 Carbon, a frontier model that scores 59 on the Artificial Analysis Intelligence Index and 88.2% on SEC-bench Pro. Access starts with vetted cyber defenders, at $2/$10 per million tokens.\nThe post Google DeepMind Introduces Gemini 4 Carbon, Its Top Model for Cyber",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-28T20:55:39.097Z",
+    "published": "Wed, 28 Oct 2026 17:48:38 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/28/minimax-open-sources-mcode-stack-agent-skills/",
+    "title": "MiniMax Open-Sources MCode Stack: 15 Agent Skills Its Coding Team Uses Daily",
+    "description": "MiniMax has open-sourced MCode Stack, an MIT-licensed repo of 17 SKILL.md skills and 5 checklists that its MiniMax Code team uses daily for code review, subagent splits, context budgets and long-running commands.\nThe post MiniMax Open-Sources MCode Stack: 15 Agent Skills Its Coding Team Uses Daily a",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-28T20:55:39.097Z",
+    "published": "Wed, 28 Oct 2026 17:20:29 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/openai-and-servicenow-expand-partnership-with-chatgpt-workflow-plugin/",
+    "title": "OpenAI and ServiceNow Expand Partnership With ChatGPT Workflow Plugin",
+    "description": "OpenAI and ServiceNow announced an expanded partnership on October 28, 2026, that brings more OpenAI models and agents into ServiceNow products and connects ServiceNow workflows with ChatGPT and Codex, spanning application development, cybersecurity, voice-driven risk assessment, and new deployments",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T20:55:39.972Z",
+    "published": "Wed, 28 Oct 2026 20:45:02 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/digitate-ignio-hummingbird-governed-it-agents-mcp/",
+    "title": "Digitate Adds Governed IT Agents and MCP Integration With ignio Hummingbird",
+    "description": "An AI assistant can explain why a business system has failed without resolving the failure. The harder step is connecting that explanation to an authorised action, carrying it out and checking that it worked. Digitate is addressing that gap with ignio Hummingbird, a release that combines specialised",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T20:55:39.972Z",
+    "published": "Wed, 28 Oct 2026 20:38:08 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/sierra-adds-compliance-console-to-horizon-agent-platform/",
+    "title": "Sierra Adds Compliance Console to Horizon Agent Platform",
+    "description": "Sierra introduced Compliance Console on October 28, 2026, a set of configurable guardrails and controls built into its Horizon platform that the company says is designed to help AI agents follow the rules that apply to their outreach across channels, use cases, states, and countries. Sierra said age",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T20:55:39.972Z",
+    "published": "Wed, 28 Oct 2026 20:35:31 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/trump-directs-robotics-import-talks-after-commerce-security-finding/",
+    "title": "Trump Directs Robotics Import Talks After Commerce Security Finding",
+    "description": "President Donald J. Trump issued a proclamation on October 28, 2026, concurring with a Commerce Department finding that imports of robotics, industrial machinery, and their parts and components threaten to impair U.S. national security, and directing negotiations with trading partners to adjust thos",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T20:55:39.972Z",
+    "published": "Wed, 28 Oct 2026 20:21:04 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/alphabet-posts-25-revenue-growth-as-google-cloud-jumps-103/",
+    "title": "Alphabet Posts 25% Revenue Growth as Google Cloud Jumps 103%",
+    "description": "Alphabet Inc. reported third quarter 2026 revenue of $127.6 billion on October 28, 2026, a 25% increase from the same period a year earlier, while net income available to common stockholders fell to $26.2 billion after an $8.7 billion net loss on equity securities. The results were furnished in a Fo",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T20:55:39.972Z",
+    "published": "Wed, 28 Oct 2026 20:12:12 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/kindo-deep-hat-sift-ai-agent-event-triage/",
+    "title": "Kindo Launches Deep Hat Sift to Cut Unnecessary AI Agent Runs",
+    "description": "An AI agent that reads every security alert or log entry incurs a cost even when its conclusion is that nothing needs doing. At enterprise volumes, those uneventful investigations can become a substantial workload of their own. Kindo has launched Deep Hat Sift, a model designed to decide which incom",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T20:55:39.972Z",
+    "published": "Wed, 28 Oct 2026 19:58:52 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/anthropic-adds-smart-reports-surveys-pooled-budgets-to-claude-enterprise/",
+    "title": "Anthropic Adds Smart Reports, Surveys, Pooled Budgets to Claude Enterprise",
+    "description": "Anthropic made three Claude Enterprise features generally available on October 28, 2026: smart reports that analyze what teams accomplish with Claude and what that work costs, in-app surveys that gather employee feedback, and pooled group budgets that let administrators set one shared monthly spendi",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T20:55:39.972Z",
+    "published": "Wed, 28 Oct 2026 19:41:13 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/staged-rollout-sends-googles-gemini-4-carbon-to-cyber-defenders-first/",
+    "title": "Staged Rollout Sends Google’s Gemini 4 Carbon To Cyber Defenders First",
+    "description": "Google announced Gemini 4 Carbon on October 28, 2026, describing it as the company&#039;s strongest frontier model, and said it will reach users through a staged rollout that begins with a subset of cyber defenders rather than a broad release. In the announcement, Koray Kavukcuoglu, SVP of Google De",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T20:55:39.972Z",
+    "published": "Wed, 28 Oct 2026 19:07:02 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/microsoft-makes-copilot-harness-available-through-foundry/",
+    "title": "Microsoft Makes Copilot Harness Available Through Foundry",
+    "description": "Microsoft on October 28, 2026 made the Microsoft Copilot harness — the multi-model orchestration layer that already powers Copilot Code, Copilot Studio, the GitHub Copilot app, the Copilot CLI, and VS Code — available to developers and enterprise customers through Microsoft Foundry, in an announceme",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T20:55:39.972Z",
+    "published": "Wed, 28 Oct 2026 17:14:03 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/github-makes-copilot-fusion-generally-available-at-universe-2026/",
+    "title": "GitHub Makes Copilot Fusion Generally Available at Universe 2026",
+    "description": "GitHub made Copilot Fusion, its multi-model routing and orchestration system, generally available on October 28, 2026, unveiling it at GitHub Universe 2026 alongside the new GitHub Copilot app, Copilot projects, and a deeper Copilot code review tier. The announcements arrived in a Universe 2026 keyn",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T20:55:39.972Z",
+    "published": "Wed, 28 Oct 2026 16:50:10 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/adam-markowitz-ceo-and-co-founder-of-drata-interview-series/",
+    "title": "Adam Markowitz, CEO and Co-Founder of Drata – Interview Series",
+    "description": "Adam Markowitz is CEO and co-founder of Drata, where he is expanding the company’s work in continuous compliance and trust into AI agent governance. Before co-founding Drata in 2020, he founded Portfolium alongside Troy Markowitz and Daniel Marashlian. His experience navigating security questionnair",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T20:55:39.972Z",
+    "published": "Wed, 28 Oct 2026 16:34:41 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/muck-rack-what-is-ai-reading-report-journalism-ai-citations-22-percent/",
+    "title": "Muck Rack’s ‘What Is AI Reading?’ Report Finds Journalism’s AI Citation Share Falls to 22%",
+    "description": "Muck Rack&#039;s October 2026 What Is AI Reading? report finds that journalism&#039;s share of AI citations has fallen from about 27% in May to 22%, even as earned and third-party sources continue to account for roughly 84% of citations. The fourth edition draws on more than 40 million AI responses",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T20:55:39.972Z",
+    "published": "Wed, 28 Oct 2026 16:23:26 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/south-koreas-fsc-discloses-new-wave-of-financial-sector-breaches/",
+    "title": "South Korea’s FSC Discloses New Wave of Financial Sector Breaches",
+    "description": "South Korea&#039;s Financial Services Commission disclosed a new round of hacking incidents across the country&#039;s financial industry on October 28, 2026, convening an emergency inspection meeting over a breach at virtual asset exchange Bithumb and confirming additional customer information leaka",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T20:55:39.972Z",
+    "published": "Wed, 28 Oct 2026 16:20:04 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/rapidcanvas-acquires-entytle-industrial-aftermarket-ai/",
+    "title": "RapidCanvas Acquires Entytle to Bring AI Execution to the Industrial Aftermarket",
+    "description": "RapidCanvas has acquired Entytle, bringing an industrial aftermarket intelligence business into its managed AI platform as manufacturers look for ways to turn decades of equipment data into more consistent parts and service revenue. The deal includes Entytle’s technology, customers, and employees; f",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T20:55:39.972Z",
+    "published": "Wed, 28 Oct 2026 16:11:56 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/plato-raises-16-million-series-a-simulated-workplaces-ai-agents/",
+    "title": "Plato Raises $16 Million Series A to Build Simulated Workplaces for AI Agents",
+    "description": "Plato has raised $16 million in Series A funding to build simulated workplaces where AI models can practice using software, navigating business decisions, and completing complex jobs before they operate in live systems. Nava Ventures led the round, with participation from Gradient Ventures, Transpos",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T20:55:39.972Z",
+    "published": "Wed, 28 Oct 2026 16:02:35 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/slack-code-api-reaches-general-availability-on-all-slack-plans/",
+    "title": "Slack Code API Reaches General Availability on All Slack Plans",
+    "description": "Slack made the Slack Code API generally available on all Slack plans on October 28, 2026, opening the code-channel system it launched in August 2026 to any developer&#039;s agent. In a post on Slack&#039;s developer blog, the company said more than 150 customers and partners had asked for access to",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T20:55:39.972Z",
+    "published": "Wed, 28 Oct 2026 16:02:01 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/human-verified-data-enrichment-ai-agents/",
+    "title": "Why Outsource Data Enrichment When AI Tools Fill Every Field?",
+    "description": "A revenue operations team runs its account list through a waterfall enrichment tool. The tool queries one data provider, then a second for any gaps, then a third. An AI research agent fills whatever is still blank by reading company websites and news. The dashboard shows a 97% fill rate. A sales rep",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T20:55:39.972Z",
+    "published": "Wed, 28 Oct 2026 15:58:06 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/jim-rowan-us-head-of-ai-at-deloitte-interview-series/",
+    "title": "Jim Rowan, US Head of AI at Deloitte – Interview Series",
+    "description": "Jim Rowan is US Head of AI at Deloitte and a principal in Deloitte Consulting LLP, helping organizations translate AI ambitions into business outcomes. His career spans enterprise technology, analytics, data, and digital transformation, with experience across life sciences, health care, and telecomm",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T20:55:39.972Z",
+    "published": "Wed, 28 Oct 2026 15:53:32 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/upwind-raises-400-million-series-c-3-8-billion-valuation-cloud-ai-security/",
+    "title": "Upwind Raises $400 Million at $3.8 Billion Valuation for Cloud and AI Security",
+    "description": "Upwind Security has closed a $400 million Series C at a $3.8 billion valuation, securing fresh capital to expand its cloud and AI security platform as enterprises deploy more AI applications and autonomous agents. Bessemer Venture Partners led the round, which will fund product development and go-to",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T20:55:39.972Z",
+    "published": "Wed, 28 Oct 2026 15:51:11 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/anthropic-adds-ready-to-use-legal-artifacts-gallery-to-claude/",
+    "title": "Anthropic Adds Ready-to-Use Legal Artifacts Gallery to Claude",
+    "description": "Anthropic on October 28, 2026 introduced a gallery of ready-to-use artifacts for legal work in Claude, extending the Claude for Legal product it launched in May with six Anthropic-built task artifacts, four artifacts built by legal tech companies and law firms, and nine access-to-justice artifacts.",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-28T20:55:39.972Z",
+    "published": "Wed, 28 Oct 2026 15:50:01 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/github-expands-infra-with-4-mn-cores-debuts-copilot-fusion-for-multi-model-routing",
+    "title": "GitHub Expands Infra With 4 Mn Cores, Debuts Copilot Fusion for Multi-Model Routing",
+    "description": "GitHub is also rolling out critical safeguards to protect software supply chains, including AI-powered code scanning to check every pull request and repository.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-28T20:55:41.452Z",
+    "published": "Wed, 28 Oct 2026 16:03:00 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent/",
+    "title": "OpenAI now lets you text your Dot agent",
+    "description": "The feature works with both iMessage and RCS messaging.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-28T20:55:43.528Z",
+    "published": "Wed, 28 Oct 2026 19:15:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2299823/new-york-governor-signs-ai-chatbot-child-safety-law/",
+    "title": "New York governor signs AI chatbot child safety law",
+    "description": "A separate law aims to shore up security on connected baby monitors.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-28T20:55:43.528Z",
+    "published": "Wed, 28 Oct 2026 16:33:01 +0000"
   }
 ]
