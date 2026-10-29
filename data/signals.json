@@ -93663,5 +93663,87 @@
     "category": "news",
     "discovered": "2026-10-28T20:55:43.528Z",
     "published": "Wed, 28 Oct 2026 16:33:01 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+    "title": "Google expands AI Search ads globally as core ad growth slows",
+    "description": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-29T00:43:40.916Z",
+    "published": "Wed, 28 Oct 2026 21:48:37 +0000",
+    "processed": true,
+    "processedAt": "2026-10-29T00:46:18.190Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+    "description": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-29T00:43:40.916Z",
+    "published": "Wed, 28 Oct 2026 21:34:30 +0000",
+    "processed": true,
+    "processedAt": "2026-10-29T00:46:18.190Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+    "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+    "description": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-29T00:43:40.916Z",
+    "published": "Wed, 28 Oct 2026 21:25:30 +0000",
+    "processed": true,
+    "processedAt": "2026-10-29T00:46:18.190Z"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/conversational-ai-in-banking",
+    "title": "Conversational AI in banking: Use cases, benefits, examples",
+    "description": "Learn what conversational AI in banking is, how voice agents handle phone calls, use cases, core metrics, and how banks and fintechs use ElevenAgents today",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-10-29T00:43:44.822Z",
+    "published": "Wed, 28 Oct 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-29T00:46:18.190Z"
+  },
+  {
+    "url": "https://www.unite.ai/microsoft-posts-19-revenue-growth-as-azure-revenue-jumps-48/",
+    "title": "Microsoft Posts 19% Revenue Growth as Azure Revenue Jumps 48%",
+    "description": "Microsoft on October 28, 2026, announced results for its fiscal 2027 first quarter, ended September 30, 2026, reporting revenue of $92.3 billion, up 19% year over year, and net income of $36.6 billion, up 32% on a GAAP basis. Azure revenue increased 48%. Operating income was $45.9 billion and increa",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-29T00:44:06.141Z",
+    "published": "Wed, 28 Oct 2026 21:46:01 +0000",
+    "processed": true,
+    "processedAt": "2026-10-29T00:46:18.190Z"
+  },
+  {
+    "url": "https://www.unite.ai/google-rolls-out-ai-mode-ads-in-10-countries-multiturn-ads-in-u-s/",
+    "title": "Google Rolls Out AI Mode Ads in 10 Countries, Multiturn Ads in U.S.",
+    "description": "Google is scaling ads in AI Mode to 10 additional countries and launching multiturn ads in the United States, which allow ads to appear in follow-up queries in AI Mode, the company announced on October 28, 2026. The expansion covers Australia, Canada, India, Kenya, Malaysia, New Zealand, Nigeria, Pa",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-29T00:44:06.141Z",
+    "published": "Wed, 28 Oct 2026 21:45:28 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/kong-becomes-founding-member-of-servicenow-control-tower-alliance/",
+    "title": "Kong Becomes Founding Member of ServiceNow Control Tower Alliance",
+    "description": "ServiceNow on October 28, 2026 announced the ServiceNow Control Tower Alliance, a partner ecosystem spanning AI, cloud infrastructure, security, governance, value measurement, and token metering, with Kong among founding members that also include Anthropic, Amazon Web Services, Cisco, HiddenLayer, N",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-29T00:44:06.141Z",
+    "published": "Wed, 28 Oct 2026 21:17:04 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2300569/fcc-chair-wants-to-let-prisons-jam-illegal-cellphones/",
+    "title": "FCC chair wants to let prisons jam illegal cellphones",
+    "description": "The agency will vote next month on relaxing its long-standing opposition to jammers.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-29T00:44:10.739Z",
+    "published": "Wed, 28 Oct 2026 23:09:22 +0000"
   }
 ]
