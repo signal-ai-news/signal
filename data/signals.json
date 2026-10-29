@@ -94576,5 +94576,159 @@
     "category": "news",
     "discovered": "2026-10-29T19:32:25.973Z",
     "published": "Thu, 29 Oct 2026 18:20:21 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+    "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+    "description": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-29T23:31:52.453Z",
+    "published": "Thu, 29 Oct 2026 20:08:31 +0000",
+    "processed": true,
+    "processedAt": "2026-10-29T23:34:22.801Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+    "title": "Rivian expands joint venture with VW to include AI assistant",
+    "description": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-29T23:31:52.453Z",
+    "published": "Thu, 29 Oct 2026 20:05:47 +0000",
+    "processed": true,
+    "processedAt": "2026-10-29T23:34:22.801Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+    "title": "OpenAI-backed Thrive Holdings acquires ADT",
+    "description": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-29T23:31:52.453Z",
+    "published": "Thu, 29 Oct 2026 19:56:19 +0000",
+    "processed": true,
+    "processedAt": "2026-10-29T23:34:22.801Z"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/what-is-turn-taking",
+    "title": "What is turn taking in conversational AI: A guide to natural flow",
+    "description": "Turn taking decides when a voice agent speaks, pauses, or listens. Learn how it works, how barge-in is handled, and how to measure and tune it.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-10-29T23:31:55.703Z",
+    "published": "Thu, 29 Oct 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-29T23:34:22.801Z"
+  },
+  {
+    "url": "https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/",
+    "title": "OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up",
+    "description": "OpenAI is doubling usage limits across its paid plans, from Pro 100 to Pro 500. A planned cut to the Pro 200 quota was reversed after user pushback. More efficient models like Terra and Sol should push usable capacity even higher. The move comes just ahead of Anthropic's IPO, as both compan",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-29T23:32:04.201Z",
+    "published": "Thu, 29 Oct 2026 20:01:27 +0000",
+    "processed": true,
+    "processedAt": "2026-10-29T23:34:22.801Z"
+  },
+  {
+    "url": "https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/",
+    "title": "Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds",
+    "description": "Anthropic gave 50 experts an AI agent whose preferences were set by coin toss. The experts followed the agent's view up to 86 percent of the time on judgment calls, and most believed the conclusions were their own.\nThe article Experts adopt AI agent&#039;s random opinions and think they&#03",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-29T23:32:04.201Z",
+    "published": "Thu, 29 Oct 2026 19:33:37 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/29/baseten-joey-1-2b-decision-model/",
+    "title": "Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens",
+    "description": "Baseten has released joey-1, a 2B open-weight decision model that returns calibrated probabilities instead of text. It runs at 20 ms P50 latency and costs $0.01 per million input tokens.\nThe post Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens appeared first on MarkTechPost.",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-29T23:32:12.764Z",
+    "published": "Thu, 29 Oct 2026 21:20:29 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/epoch-ai-reports-open-weight-glm-5-3-exploits-firefox-patch-gap/",
+    "title": "Epoch AI Reports Open-Weight GLM 5.3 Exploits Firefox Patch Gap",
+    "description": "Epoch AI published research on October 29, 2026, reporting that GLM 5.3, an open-weight model released by Z.ai in August 2026, can exploit the browser patch gap — the window between a security fix becoming public and reaching users — to compromise six recent Mozilla Firefox releases at a marginal co",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-29T23:32:13.659Z",
+    "published": "Thu, 29 Oct 2026 23:02:07 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/rivian-licenses-ai-voice-assistant-technology-through-volkswagen-jv/",
+    "title": "Rivian Licenses AI Voice Assistant Technology Through Volkswagen JV",
+    "description": "Rivian disclosed on October 29, 2026, that it expanded its joint venture with Volkswagen Group, licensing elements of its AI Voice Assistant technology as part of the companies&#039; broader electrical architecture and software partnership. The disclosure appears in Rivian&#039;s third-quarter 2026",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-29T23:32:13.659Z",
+    "published": "Thu, 29 Oct 2026 20:42:03 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/reddit-announces-shift-to-primarily-logged-in-experience/",
+    "title": "Reddit Announces Shift to Primarily Logged-In Experience",
+    "description": "Reddit announced on October 29, 2026, alongside third-quarter results showing revenue up 53% year-over-year to $895 million, that it will shift the platform to a primarily logged-in experience, with full testing of a logged-in-only version set to begin in select markets outside the United States in",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-29T23:32:13.659Z",
+    "published": "Thu, 29 Oct 2026 20:29:04 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/coveo-buys-y-combinator-backed-product-data-startup-anglera/",
+    "title": "Coveo Buys Y Combinator-Backed Product Data Startup Anglera",
+    "description": "Coveo announced on October 29, 2026 that it has acquired Anglera, a San Francisco-based, Y Combinator-backed company whose AI agents enrich product data for manufacturers, distributors, and enterprise retailers. The acquisition adds Anglera&#039;s agentic enrichment platform to Coveo&#039;s Commerce",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-29T23:32:13.659Z",
+    "published": "Thu, 29 Oct 2026 20:14:06 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/openai-backed-thrive-holdings-to-acquire-adt-in-15-3b-all-cash-deal/",
+    "title": "OpenAI-Backed Thrive Holdings to Acquire ADT in $15.3B All-Cash Deal",
+    "description": "ADT Inc. and Thrive Holdings announced a definitive agreement on October 29, 2026, under which Thrive Holdings will acquire the security and smart home provider in an all-cash transaction. ADT is valued at approximately $7.6 billion in equity value and $15.3 billion in enterprise value under the agr",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-29T23:32:13.659Z",
+    "published": "Thu, 29 Oct 2026 20:09:04 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/ai-financial-os-startup-collective-lands-100m-across-series-b-and-growth-facility/",
+    "title": "AI Financial OS Startup Collective Lands $100M Across Series B and Growth Facility",
+    "description": "Collective, the developer of an AI-native financial operating system for solo businesses, announced $100 million in new funding on October 29, 2026, structured as a $40 million Series B equity round and a $60 million growth facility from General Catalyst&#039;s Customer Value Fund. The Series B was",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-29T23:32:13.659Z",
+    "published": "Thu, 29 Oct 2026 19:35:05 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2301786/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that/",
+    "title": "VRChat says it's not adding AI labels despite user survey showing people want that",
+    "description": "Trying to make everyone happy could make no one happy.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-29T23:32:17.084Z",
+    "published": "Thu, 29 Oct 2026 21:48:05 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2301687/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/",
+    "title": "Reddit will force users to log in as AI is killing search traffic",
+    "description": "The company is starting with tests outside of the US.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-29T23:32:17.084Z",
+    "published": "Thu, 29 Oct 2026 20:32:49 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2301660/google-brings-ai-mode-advertisements-to-more-countries/",
+    "title": "Google brings AI Mode advertisements to more countries",
+    "description": "Adding sponsored content in more markets could make the feature profitable.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-29T23:32:17.084Z",
+    "published": "Thu, 29 Oct 2026 20:18:24 +0000"
   }
 ]
