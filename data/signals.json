@@ -93800,5 +93800,393 @@
     "published": "Thu, 29 Oct 2026 04:28:57 GMT",
     "processed": true,
     "processedAt": "2026-10-29T06:56:13.118Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+    "title": "Granite Switch 4.1.1 — Update models like you update software",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-10-29T14:03:27.739Z",
+    "published": "Thu, 29 Oct 2026 13:37:07 GMT",
+    "processed": true,
+    "processedAt": "2026-10-29T14:06:10.885Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/anydecisionmodel",
+    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-10-29T14:03:27.739Z",
+    "published": "Thu, 29 Oct 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-29T14:06:10.885Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+    "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+    "description": "Deepgram said that it is committed to keep Pipecat open source.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-29T14:03:28.867Z",
+    "published": "Thu, 29 Oct 2026 13:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-29T14:06:10.885Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/",
+    "title": "Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions",
+    "description": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions with the AI bot.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-29T14:03:28.867Z",
+    "published": "Thu, 29 Oct 2026 13:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-29T14:06:10.885Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+    "title": "The Download: AI agent tracking and climate feedback loops",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-29T14:03:30.011Z",
+    "published": "Thu, 29 Oct 2026 12:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-29T14:06:10.885Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+    "title": "We urgently need to monitor AI agents’ actions in real time",
+    "description": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Aus",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-29T14:03:30.011Z",
+    "published": "Thu, 29 Oct 2026 10:11:12 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
+    "title": "Our climate models have a big, dangerous blind spot",
+    "description": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models—or our emissions-reduction goals. Scientists have long warned th",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-29T14:03:30.011Z",
+    "published": "Thu, 29 Oct 2026 10:00:00 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/internal-ops-agents",
+    "title": "How we use ElevenAgents to save 1,200 hours a month in daily operations",
+    "description": "How we use ElevenAgents to save 1,200 hours a month in daily operations across GTM, product, support, and engineering",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-10-29T14:03:32.071Z",
+    "published": "Thu, 29 Oct 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/is-the-1-ai-model-really-1/",
+    "title": "Is the #1 AI Model Really #1?",
+    "description": "On a 2,000-question test, my top two models couldn't be told apart at the usual 5% level. On a 200-question version, a different model would have taken first place about three times in ten.\nThe post Is the #1 AI Model Really #1? appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-29T14:03:51.220Z",
+    "published": "Thu, 29 Oct 2026 12:30:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/openais-astra-becomes-the-main-target-for-chinese-ai-labs-after-anthropic-tightens-its-defenses/",
+    "title": "OpenAI's Astra becomes the main target for Chinese AI labs after Anthropic tightens its defenses",
+    "description": "Chinese AI labs are now mainly tapping OpenAI's most powerful model, GPT-6 Astra, instead of Anthropic's Claude.\nThe article OpenAI&#039;s Astra becomes the main target for Chinese AI labs after Anthropic tightens its defenses appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-29T14:03:52.684Z",
+    "published": "Thu, 29 Oct 2026 13:20:14 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe/",
+    "title": "Google's AI search problem finally shows up in the earnings report, some investors believe",
+    "description": "Google's stock dropped as much as ten percent after its quarterly earnings. Cloud revenue more than doubled to $30.7 billion, but search revenue grew just 12 percent, slower than expected. Google acknowledged that its fast-growing AI mode brings in less revenue than traditional search, and",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-29T14:03:52.684Z",
+    "published": "Thu, 29 Oct 2026 10:16:34 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+    "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+    "description": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-29T14:03:58.294Z",
+    "published": "Thu, 29 Oct 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
+    "title": "I Gave My Blood to the AI Death Clock",
+    "description": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-29T14:03:58.294Z",
+    "published": "Thu, 29 Oct 2026 10:00:00 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/",
+    "title": "Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI Agents",
+    "description": "Infini-AI-Lab released Hermit, an Apache-2.0 harness adapter framework that trains an external layer of instructions, skills, memory and tools from task feedback, leaving the agent’s model and harness unchanged.\nThe post Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-29T14:04:00.081Z",
+    "published": "Thu, 29 Oct 2026 08:24:52 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/",
+    "title": "Block Unveils Dessa, a Full-Duplex Speech Model Trained Only on Speech",
+    "description": "Block’s AI lab released Dessa, a full-duplex speech-to-speech model trained only on human conversation audio. It runs locally on a MacBook Pro M4 Max, but Block has published no size, benchmarks or weights.\nThe post Block Unveils Dessa, a Full-Duplex Speech Model Trained Only on Speech appeared firs",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-29T14:04:00.081Z",
+    "published": "Thu, 29 Oct 2026 07:50:39 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/29/assemblyai-tts-1-text-to-speech-api-voice-agents/",
+    "title": "AssemblyAI Ships AssemblyAI-TTS-1: A $15 per 1M Character Text-to-Speech API for Voice Agents",
+    "description": "AssemblyAI has released AssemblyAI-TTS-1, its first text-to-speech model for voice agents. It costs $15 per 1M characters, offers unlimited concurrency without a contract, and supports 6 languages at launch.\nThe post AssemblyAI Ships AssemblyAI-TTS-1: A $15 per 1M Character Text-to-Speech API for Vo",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-29T14:04:00.081Z",
+    "published": "Thu, 29 Oct 2026 07:28:36 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/ai-beauty-retail-consumer-confidence-trust/",
+    "title": "Consumers Don’t Want AI. They Want Confidence.",
+    "description": "The beauty industry has spent the past few years talking about artificial intelligence. Smarter recommendations, virtual try-ons, skin analysis, and, more recently, AI-powered shopping assistants have all been presented as the next big breakthrough in retail. But we’re asking the wrong question, bec",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-29T14:04:01.038Z",
+    "published": "Thu, 29 Oct 2026 13:52:26 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/deepgram-acquires-daily-commits-to-keeping-pipecat-open-source/",
+    "title": "Deepgram Acquires Daily, Commits to Keeping Pipecat Open Source",
+    "description": "Deepgram announced on October 29, 2026, that it is acquiring Daily, the company behind the open-source Pipecat voice agent framework, unveiling the deal at its inaugural Deepgram Speak event in San Francisco. The Daily team will join Deepgram, and Pipecat will remain fully open source and free to de",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-29T14:04:01.038Z",
+    "published": "Thu, 29 Oct 2026 13:47:01 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/wabi-raises-55m-at-1-25b-valuation-to-grow-personal-ai-assistant/",
+    "title": "Wabi Raises $55M at $1.25B Valuation to Grow Personal AI Assistant",
+    "description": "Personal AI assistant company Wabi has raised $55 million in funding led by IVP at a $1.25 billion valuation, according to the company&#039;s announcement dated October 29, 2026. Andreessen Horowitz (a16z), Forerunner, and the Amazon Alexa Fund also participated, alongside angel investors and founde",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-29T14:04:01.038Z",
+    "published": "Thu, 29 Oct 2026 13:18:04 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/sharewillow-raises-8-5m-seed-ai-agents-trades-technicians/",
+    "title": "ShareWillow Raises $8.5M Seed to Build AI Agents for Trades Technicians",
+    "description": "ShareWillow has raised $8.5 million in seed funding to expand AI agents for the technicians who keep home service businesses running. The New York company is building on its performance-pay platform with a broader product called Willow, designed to connect job preparation, coaching, and earnings vis",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-29T14:04:01.038Z",
+    "published": "Thu, 29 Oct 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/digital-science-acquires-jenni-ai-linking-it-to-dimensions-database/",
+    "title": "Digital Science Acquires Jenni AI, Linking It to Dimensions Database",
+    "description": "Digital Science announced on October 29, 2026 that it has acquired Jenni AI, an AI-native research and writing platform the company says is used by more than 8 million students and researchers across 189 countries. The acquisition will connect Jenni AI to Digital Science&#039;s research data, starti",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-29T14:04:01.038Z",
+    "published": "Thu, 29 Oct 2026 12:58:03 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/pluto-security-details-load-mine-cryptomining-campaign-on-hugging-face/",
+    "title": "Pluto Security Details Load/Mine Cryptomining Campaign on Hugging Face",
+    "description": "Pluto Security&#039;s research team on October 29, 2026 published its Load/Mine report, disclosing a cryptomining and backdoor campaign distributed through malicious Hugging Face model repositories. The report counts 31 malicious repositories across seven Hugging Face accounts plus a mirror on Model",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-29T14:04:01.038Z",
+    "published": "Thu, 29 Oct 2026 12:49:30 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/serval-raises-150m-series-c-at-3b-valuation-to-hire-over-500/",
+    "title": "Serval Raises $150M Series C at $3B Valuation to Hire Over 500",
+    "description": "Serval announced on October 29, 2026 that it has raised a $150 million Series C at a $3 billion valuation, a round led by Sequoia that the company described as its third funding round in 12 months. The financing drew participation from Elad Gil, Evantic, First Round, General Catalyst, and Redpoint,",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-29T14:04:01.038Z",
+    "published": "Thu, 29 Oct 2026 12:49:26 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/crux-labs-raises-over-6m-enterprise-ai-agent-evaluation/",
+    "title": "Crux Labs Raises Over $6M to Turn Enterprise Judgment Into Better AI Agents",
+    "description": "An AI agent can complete a task and still make a decision an experienced employee would reject. The difficult part is often understanding the unwritten rules: when to ask another question, when to escalate, and what a good outcome means for a particular business. Crux Labs is building a platform to",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-29T14:04:01.038Z",
+    "published": "Thu, 29 Oct 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/precision-vs-recall-vs-f1-score-which-metric-should-you-use/",
+    "title": "Precision vs. Recall vs. F1 Score: Which Metric Should You Use?",
+    "description": "Precision measures how many predicted positives are correct, recall measures how many actual positives are found, and F1 summarizes their harmonic balance. This guide explains the mechanism, trade-offs, evaluation, and controls that matter in practice.",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-29T14:04:01.038Z",
+    "published": "Thu, 29 Oct 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/bites-raises-40m-ai-frontline-training-business-performance/",
+    "title": "Bites Raises $40M to Connect AI Frontline Training With Business Performance",
+    "description": "A retailer can launch a promotion across hundreds of stores in a morning. Making sure every employee knows how to sell it is a different challenge. Bites is building its AI training platform around that gap, raising a $40 million Series A to connect short, mobile-delivered lessons with the sales, se",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-29T14:04:01.038Z",
+    "published": "Thu, 29 Oct 2026 11:00:00 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/agibot-unveils-worken-framework-to-quantify-robots-useful-output/",
+    "title": "AGIBOT Unveils Worken Framework to Quantify Robots’ Useful Output",
+    "description": "AGIBOT introduced Worken, a proposed framework for measuring how much productive work robots perform once deployed, at AGIBOT Innovation Day 2026 in Shanghai on October 29, 2026. The company also used the event to unveil its AHA3 integrated hardware platform, debut the GO-3 Preview embodied foundati",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-29T14:04:01.038Z",
+    "published": "Thu, 29 Oct 2026 10:05:02 +0000"
+  },
+  {
+    "url": "https://www.unite.ai/vitvio-veracruz-3d-ai-operating-rooms/",
+    "title": "VitVio Brings 3D AI Operating Rooms to Hospital Español de Veracruz",
+    "description": "VitVio is bringing its Vetro surgical operating system to Hospital Español de Veracruz, extending its use of spatial AI from hospital deployments in the United States and Europe into Latin America. The partnership announced October 29 will install the platform across all of the Mexican hospital&#039",
+    "source": "Unite.AI",
+    "category": "news",
+    "discovered": "2026-10-29T14:04:01.038Z",
+    "published": "Thu, 29 Oct 2026 09:00:00 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/gnani-ai-launches-prisma-v30-speech-recognition-model-for-10-languages",
+    "title": "Gnani AI Launches Prisma v3.0 Speech Recognition Model for 10 Languages",
+    "description": "The company’s Prisma v3.0 supports nine Indian languages and English, with the company reporting lower transcription error rates than competing models on a mult",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-29T14:04:02.597Z",
+    "published": "Thu, 29 Oct 2026 12:20:54 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/venttup-raises-3-million-to-expand-precision-manufacturing",
+    "title": "Venttup Raises $3 Million To Expand Precision Manufacturing",
+    "description": "The company will use AI to improve supplier intelligence and B2B sourcing as it expands its precision manufacturing capabilities.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-29T14:04:02.597Z",
+    "published": "Thu, 29 Oct 2026 11:39:58 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/global-tech/anthropic-makes-208-in-revenue-for-every-1-spent-on-compute-heres-the-full-ipo-story",
+    "title": "Anthropic Makes $2.08 in Revenue for Every $1 Spent on Compute — Here’s the Full IPO Story",
+    "description": "Anthropic has filed to go public in the US. Its IPO filing offers a closer look at its exponential revenue growth, mounting infrastructure costs, potential loss",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-29T14:04:02.597Z",
+    "published": "Thu, 29 Oct 2026 11:36:54 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/articul8-launches-bivia-to-help-enterprise-ai-agents-make-decisions",
+    "title": "Articul8 Launches Bivia To Help Enterprise AI Agents Make Decisions",
+    "description": "The company has launched Bivia, a multimodal decision model designed to help enterprise AI agents make domain-specific decisions and verify evidence across diff",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-29T14:04:02.597Z",
+    "published": "Thu, 29 Oct 2026 11:10:21 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/the-ai-slowdown-narrative-doesnt-reflect-enterprise-reality",
+    "title": "The AI Slowdown Narrative Doesn’t Reflect Enterprise Reality",
+    "description": "Industry leaders say the focus is moving from building increasingly capable models to enterprise readiness, governance, reliable execution and measurable return",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-29T14:04:02.597Z",
+    "published": "Thu, 29 Oct 2026 11:01:36 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/nvidia-launches-open-weight-transcription-model-for-40-languages",
+    "title": "NVIDIA Launches Open-Weight Transcription Model for 40 Languages",
+    "description": "NVIDIA's Nemotron 3.5 Transcribe supports transcription in 40 languages with advanced features like speaker attribution and speech translation.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-29T14:04:02.597Z",
+    "published": "Thu, 29 Oct 2026 10:37:56 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/indias-enterprises-are-scaling-ai-is-the-infrastructure-ready",
+    "title": "India’s Enterprises are Scaling AI. Is the Infrastructure Ready?",
+    "description": "Legacy systems, fragmented data and infrastructure gaps could slow Indian enterprises as they move AI agents from pilots into production.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-29T14:04:02.597Z",
+    "published": "Thu, 29 Oct 2026 10:28:54 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/sarvam-ai-rolls-out-indus-cowork-to-2500-maharashtra-govt-officials",
+    "title": "Sarvam AI Rolls Out Indus Cowork to 2,500 Maharashtra Govt Officials",
+    "description": "Sarvam AI's Indus Cowork is launched for 2,500 Maharashtra officials, enhancing productivity with AI-driven administrative tools.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-29T14:04:02.597Z",
+    "published": "Thu, 29 Oct 2026 10:13:36 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/coforge-introduces-autonomous-software-factory-to-coordinate-ai-agents",
+    "title": "Coforge Introduces Autonomous Software Factory to Coordinate AI Agents",
+    "description": "The IT services firm has not disclosed customer deployments or quantified gains from its new model for AI-driven software engineering.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-29T14:04:02.597Z",
+    "published": "Thu, 29 Oct 2026 10:00:21 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-highlights/the-economics-of-continuous-inference",
+    "title": "The Economics of Continuous Inference",
+    "description": "An AI model may prove its capabilities during evaluation, but the real test begins when users start using it at scale. Inference is not a one-time compute event",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-29T14:04:02.597Z",
+    "published": "Thu, 29 Oct 2026 09:57:32 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/sap-india-targets-2-million-people-for-ai-skilling-by-2030",
+    "title": "SAP India Targets 2 Million People for AI Skilling by 2030",
+    "description": "SAP India aims to equip 2 million people with AI skills by 2030, with 13% already participating through various educational programs.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-29T14:04:02.597Z",
+    "published": "Thu, 29 Oct 2026 08:39:59 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/google-announces-gemini-4-carbon-with-focus-on-cybersecurity-and-coding",
+    "title": "Google Announces Gemini 4 Carbon With Focus on Cybersecurity and Coding",
+    "description": "Discover Google Gemini 4 Carbon's capabilities in cybersecurity and coding, including its benchmark scores and advanced features for software vulnerability dete",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-29T14:04:02.597Z",
+    "published": "Thu, 29 Oct 2026 08:22:12 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2300677/google-gemini-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/",
+    "title": "Google's Gemini 4 Carbon promises 'significant leap' in AI coding and cybersecurity",
+    "description": "Google&#39;s latest Gemini 4 Carbon AI model boasts top benchmark scores in areas like cybersecurity and coding.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-29T14:04:04.705Z",
+    "published": "Thu, 29 Oct 2026 09:41:58 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel/",
+    "title": "Hackers leaked details of more than 41,000 Homeland Security personnel",
+    "description": "A hacktivist group stole the information of ICE agents and border police from Homeland Security.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-29T14:04:04.705Z",
+    "published": "Thu, 29 Oct 2026 08:33:46 +0000"
   }
 ]
