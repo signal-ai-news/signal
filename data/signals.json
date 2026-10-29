@@ -93745,5 +93745,60 @@
     "category": "news",
     "discovered": "2026-10-29T00:44:10.739Z",
     "published": "Wed, 28 Oct 2026 23:09:22 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/28/nvidia-nemotron-3-5-transcribe-open-speech-llm/",
+    "title": "NVIDIA Releases Nemotron 3.5 Transcribe: An Open 30B MoE Model for 40-Language Transcription with ~4B Active Parameters",
+    "description": "NVIDIA released Nemotron 3.5 Transcribe, an open-weights speech LLM with 4.3B active parameters. It transcribes 40 languages, adds speaker labels and word timestamps, and posts a 4.71% mean WER on the English Open ASR Leaderboard.\nThe post NVIDIA Releases Nemotron 3.5 Transcribe: An Open 30B MoE Mod",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-29T06:54:01.585Z",
+    "published": "Thu, 29 Oct 2026 04:41:24 +0000",
+    "processed": true,
+    "processedAt": "2026-10-29T06:56:13.118Z"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/sarvam-krutrim-account-for-68-of-indic-ai-funding-as-sector-raises-687-million-tracxn",
+    "title": "Sarvam, Krutrim Account for 68% of Indic AI Funding as Sector Raises $687 Million: Tracxn",
+    "description": "In 2026, Indic AI firms raised $399 million, with Sarvam leading at 87%. Explore insights from Tracxn's latest report on AI funding.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-29T06:54:04.558Z",
+    "published": "Thu, 29 Oct 2026 06:01:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-29T06:56:13.118Z"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/youre-not-doing-this-ai-stuff-databricks-ceo-tells-snowflake",
+    "title": "‘You’re Not Doing This AI Stuff,’ Databricks CEO Tells Snowflake",
+    "description": "Ali Ghodsi claims its AI platform has helped customers cut token spending by 30% even as usage increased, while Snowflake’s CEO seeks greater transparency on re",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-29T06:54:04.558Z",
+    "published": "Thu, 29 Oct 2026 05:47:11 GMT",
+    "processed": true,
+    "processedAt": "2026-10-29T06:56:13.118Z"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/hcltech-launches-nano-gcc-model-with-aws-to-build-ai-operations",
+    "title": "HCLTech Launches Nano GCC Model With AWS to Build AI Operations",
+    "description": "The offering targets enterprises with existing GCCs and mid-market companies seeking to establish AI-focused teams in India, with an initial rollout across APAC",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-29T06:54:04.558Z",
+    "published": "Thu, 29 Oct 2026 05:13:08 GMT",
+    "processed": true,
+    "processedAt": "2026-10-29T06:56:13.118Z"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/microsofts-azure-revenue-grows-48-in-september-quarter",
+    "title": "Microsoft’s Azure Revenue Grows 48% in September Quarter",
+    "description": "CFO Amy Hood said the company expects capital expenditure to reach approximately $170 billion for calendar-year 2026, with spending accelerating in the second h",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-29T06:54:04.558Z",
+    "published": "Thu, 29 Oct 2026 04:28:57 GMT",
+    "processed": true,
+    "processedAt": "2026-10-29T06:56:13.118Z"
   }
 ]
