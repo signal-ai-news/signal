@@ -95462,5 +95462,294 @@
     "category": "news",
     "discovered": "2026-10-30T16:38:11.827Z",
     "published": "Fri, 30 Oct 2026 10:08:13 +0000"
+  },
+  {
+    "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "title": "Making it easier for websites to express AI training preferences",
+    "description": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-30T21:24:55.226Z",
+    "published": "Fri, 30 Oct 2026 09:30:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-30T21:27:31.391Z"
+  },
+  {
+    "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+    "title": "Community safety report and new protections for teens",
+    "description": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-30T21:24:55.226Z",
+    "published": "Fri, 30 Oct 2026 09:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-30T21:27:31.391Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+    "title": "Cracks are emerging in the AI spending boom",
+    "description": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-30T21:24:58.454Z",
+    "published": "Fri, 30 Oct 2026 21:17:40 +0000",
+    "processed": true,
+    "processedAt": "2026-10-30T21:27:31.391Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+    "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+    "description": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-30T21:24:58.454Z",
+    "published": "Fri, 30 Oct 2026 17:47:12 +0000",
+    "processed": true,
+    "processedAt": "2026-10-30T21:27:31.391Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+    "title": "Google’s first data center satellite is online and writing poetry",
+    "description": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-30T21:24:58.454Z",
+    "published": "Fri, 30 Oct 2026 17:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-30T21:27:31.391Z"
+  },
+  {
+    "url": "https://text.npr.org/nx-s1-6022556",
+    "title": "OpenAI's latest discoveries spark a backlash and Help My kid hates AI",
+    "description": "Article URL: https://text.npr.org/nx-s1-6022556\nComments URL: https://news.ycombinator.com/item?id=50310311\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T21:25:05.179Z",
+    "published": "Fri, 30 Oct 2026 21:21:24 +0000"
+  },
+  {
+    "url": "https://nokku.payanai.com/resume-builder",
+    "title": "From blank page to PDF in three steps AI resume builder",
+    "description": "Article URL: https://nokku.payanai.com/resume-builder\nComments URL: https://news.ycombinator.com/item?id=50310261\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T21:25:05.179Z",
+    "published": "Fri, 30 Oct 2026 21:17:25 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ZvImEHQ09UY",
+    "title": "Inquest: An AI Infrastructure Investigator Using Nemotron and MCP [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=ZvImEHQ09UY\nComments URL: https://news.ycombinator.com/item?id=50310198\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T21:25:05.179Z",
+    "published": "Fri, 30 Oct 2026 21:12:05 +0000"
+  },
+  {
+    "url": "https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117",
+    "title": "Generative AI's Environmental Impact",
+    "description": "Article URL: https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117\nComments URL: https://news.ycombinator.com/item?id=50310131\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T21:25:05.179Z",
+    "published": "Fri, 30 Oct 2026 21:06:28 +0000"
+  },
+  {
+    "url": "https://openap.org",
+    "title": "Open Agent Primitives: Run enterprise AI agents securely",
+    "description": "Article URL: https://openap.org\nComments URL: https://news.ycombinator.com/item?id=50310122\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T21:25:05.179Z",
+    "published": "Fri, 30 Oct 2026 21:05:26 +0000"
+  },
+  {
+    "url": "https://github.com/gesposito/mobile-agent",
+    "title": "Show HN: mobile-agent – Let AI agents control Android and iOS devices",
+    "description": "Article URL: https://github.com/gesposito/mobile-agent\nComments URL: https://news.ycombinator.com/item?id=50310027\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T21:25:05.179Z",
+    "published": "Fri, 30 Oct 2026 20:54:51 +0000"
+  },
+  {
+    "url": "https://www.with-flo.com/journal/venice",
+    "title": "Venice: The Antidote to AI",
+    "description": "Article URL: https://www.with-flo.com/journal/venice\nComments URL: https://news.ycombinator.com/item?id=50309936\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T21:25:05.179Z",
+    "published": "Fri, 30 Oct 2026 20:47:38 +0000"
+  },
+  {
+    "url": "https://www.johnnunemaker.com/dont-make-a-human-do-what-ai-is-amazing-at/",
+    "title": "Don't Make a Human Do What AI Is Amazing At",
+    "description": "Article URL: https://www.johnnunemaker.com/dont-make-a-human-do-what-ai-is-amazing-at/\nComments URL: https://news.ycombinator.com/item?id=50309929\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T21:25:05.179Z",
+    "published": "Fri, 30 Oct 2026 20:47:13 +0000"
+  },
+  {
+    "url": "https://bishopfox.com/blog/journey-into-claudes-sandbox",
+    "title": "A Journey into Claude's Sandbox",
+    "description": "Article URL: https://bishopfox.com/blog/journey-into-claudes-sandbox\nComments URL: https://news.ycombinator.com/item?id=50309895\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T21:25:05.179Z",
+    "published": "Fri, 30 Oct 2026 20:44:01 +0000"
+  },
+  {
+    "url": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3",
+    "title": "US tech stocks tumble as concerns over AI spending intensify",
+    "description": "Article URL: https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3\nComments URL: https://news.ycombinator.com/item?id=50309870\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T21:25:05.179Z",
+    "published": "Fri, 30 Oct 2026 20:42:45 +0000"
+  },
+  {
+    "url": "https://www.ft.com/content/c695558e-11e6-494c-aeee-0f9fb5c75afc",
+    "title": "Big Tech sheds nearly $900B in rout over soaring AI spending",
+    "description": "Article URL: https://www.ft.com/content/c695558e-11e6-494c-aeee-0f9fb5c75afc\nComments URL: https://news.ycombinator.com/item?id=50309862\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T21:25:05.179Z",
+    "published": "Fri, 30 Oct 2026 20:42:00 +0000"
+  },
+  {
+    "url": "https://spencer.imbleau.com/blog/ai/2026/09/07/ai-is-still-in-its-homelab-era.html",
+    "title": "Blog: AI is in its Homelab era",
+    "description": "Article URL: https://spencer.imbleau.com/blog/ai/2026/09/07/ai-is-still-in-its-homelab-era.html\nComments URL: https://news.ycombinator.com/item?id=50309858\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T21:25:05.179Z",
+    "published": "Fri, 30 Oct 2026 20:41:37 +0000"
+  },
+  {
+    "url": "https://www.scmp.com/tech/tech-war/article/3372598/ai-chipmaker-iluvatar-corex-says-new-gpu-matches-nvidias-h200-home-grown-push-accelerates",
+    "title": "Chinese AI chipmaker Iluvatar CoreX says new GPU matches Nvidia's H200",
+    "description": "Article URL: https://www.scmp.com/tech/tech-war/article/3372598/ai-chipmaker-iluvatar-corex-says-new-gpu-matches-nvidias-h200-home-grown-push-accelerates\nComments URL: https://news.ycombinator.com/item?id=50309813\nPoints: 6\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T21:25:05.179Z",
+    "published": "Fri, 30 Oct 2026 20:36:37 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50309788",
+    "title": "PrimeForge AI – Multi-channel marketing campaign generator from a single prompt",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=50309788\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T21:25:05.179Z",
+    "published": "Fri, 30 Oct 2026 20:34:51 +0000"
+  },
+  {
+    "url": "https://www.cncf.io/blog/2026/10/19/how-ai-workloads-are-reshaping-kubernetes-autoscaling/",
+    "title": "What's happening in Kubernetes to support AI workloads",
+    "description": "Article URL: https://www.cncf.io/blog/2026/10/19/how-ai-workloads-are-reshaping-kubernetes-autoscaling/\nComments URL: https://news.ycombinator.com/item?id=50309663\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T21:25:05.179Z",
+    "published": "Fri, 30 Oct 2026 20:24:53 +0000"
+  },
+  {
+    "url": "https://www.businessinsider.com/reddits-logged-in-google-ai-overviews-traffic-2026-10",
+    "title": "Reddit is going logged-in only. Blame Google AI Overviews",
+    "description": "Article URL: https://www.businessinsider.com/reddits-logged-in-google-ai-overviews-traffic-2026-10\nComments URL: https://news.ycombinator.com/item?id=50309644\nPoints: 5\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T21:25:05.179Z",
+    "published": "Fri, 30 Oct 2026 20:23:22 +0000"
+  },
+  {
+    "url": "https://www.phoronix.com/news/PostgreSQL-19-Late",
+    "title": "PostgreSQL 19 Running Behind Schedule Due to AI/LLM Burden",
+    "description": "Article URL: https://www.phoronix.com/news/PostgreSQL-19-Late\nComments URL: https://news.ycombinator.com/item?id=50309439\nPoints: 6\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T21:25:05.179Z",
+    "published": "Fri, 30 Oct 2026 20:06:12 +0000"
+  },
+  {
+    "url": "https://github.com/wojtas99/EasyRE-Agent",
+    "title": "EasyRE-Agent – an AI agent that solves crackmes and checks its own answers",
+    "description": "Article URL: https://github.com/wojtas99/EasyRE-Agent\nComments URL: https://news.ycombinator.com/item?id=50309306\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T21:25:05.179Z",
+    "published": "Fri, 30 Oct 2026 19:54:48 +0000"
+  },
+  {
+    "url": "https://developers.google.com/search/blog/2026/10/ai-training-control",
+    "title": "Google plans to support shared AI training opt-out via robots.txt",
+    "description": "Article URL: https://developers.google.com/search/blog/2026/10/ai-training-control\nComments URL: https://news.ycombinator.com/item?id=50309270\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T21:25:05.179Z",
+    "published": "Fri, 30 Oct 2026 19:51:58 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/",
+    "title": "A Claude model autonomously chose a gene therapy and operated on a mouse brain with no human decision-making",
+    "description": "An AI agent performed brain surgery on an epileptic mouse, picking the drug, the brain target, and the injection coordinates on its own. According to lead researcher Ocana-Santero, it's the first time an AI agent has autonomously chosen a treatment and delivered it to a living mammal. But w",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-30T21:25:12.482Z",
+    "published": "Fri, 30 Oct 2026 19:42:59 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/",
+    "title": "Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft",
+    "description": "A tampered Claude Code extension was live on the Cursor marketplace for about 11 hours, affecting up to 5,000 users. It tried to steal user data and set up remote access. Cursor took the entire marketplace offline and reinstated it after confirming there was no further risk.\nThe article Mal",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-30T21:25:12.482Z",
+    "published": "Fri, 30 Oct 2026 18:16:10 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/",
+    "title": "OpenAI sets new behavioral guidelines for AI models that have already proven hard to control",
+    "description": "OpenAI has updated its Model Spec, restructuring its AI behavior guidelines around five core values, including faithfulness to human intent and correctability. GPT models should now draw on conversation history to figure out what users actually want and disclose their own assumptions. Wheth",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-30T21:25:12.482Z",
+    "published": "Fri, 30 Oct 2026 17:44:59 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/",
+    "title": "Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
+    "description": "Reddit lost over one million Google search referrals per week in October, CEO Steve Huffman said. The stock dropped more than 25 percent despite strong earnings. Huffman blames Google's AI Overviews and AI Mode for driving zero traffic to external sites. Reddit now tests login barriers and",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-30T21:25:12.482Z",
+    "published": "Fri, 30 Oct 2026 17:15:24 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+    "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
+    "description": "This week on “Uncanny Valley,” we discuss the contractor who plugged their AI agent into a Pentagon system, Anthropic’s IPO filing, and the volunteers gearing up to counter ICE at the midterms.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-30T21:25:18.928Z",
+    "published": "Fri, 30 Oct 2026 21:19:26 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/30/microsoft-tokeneconomizer-coding-agent-cost-control/",
+    "title": "Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9%",
+    "description": "Microsoft Research and UC Berkeley released TokenEconomizer, an open-source plugin that learns from past sessions to cut coding agent token costs by 18.4% to 30.9% on SWE-Bench, with no change to the agent.\nThe post Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9%",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-30T21:25:21.160Z",
+    "published": "Fri, 30 Oct 2026 17:53:37 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/",
+    "title": "AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare",
+    "description": "Anthropic, OpenAI, Cloudflare and Google each released an AI agent that hunts security bugs in source code. All 4 use the same find, disprove, then patch loop. Here is how they differ, plus 12 more tools.\nThe post AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare appeared first on MarkT",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-30T21:25:21.160Z",
+    "published": "Fri, 30 Oct 2026 17:34:15 +0000"
   }
 ]
