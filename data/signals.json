@@ -95146,5 +95146,321 @@
     "category": "news",
     "discovered": "2026-10-30T09:50:38.551Z",
     "published": "Fri, 30 Oct 2026 04:24:02 +0000"
+  },
+  {
+    "url": "https://openai.com/index/credit-saison",
+    "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+    "description": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-10-30T16:37:36.703Z",
+    "published": "Thu, 29 Oct 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-10-30T16:40:18.113Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+    "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+    "description": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-30T16:37:40.363Z",
+    "published": "Fri, 30 Oct 2026 16:03:45 +0000",
+    "processed": true,
+    "processedAt": "2026-10-30T16:40:18.113Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+    "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+    "description": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass,",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-30T16:37:40.363Z",
+    "published": "Fri, 30 Oct 2026 14:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-30T16:40:18.113Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+    "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+    "description": "DoorDash said that it is open to working with third-party agent makers.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-30T16:37:40.363Z",
+    "published": "Fri, 30 Oct 2026 13:54:25 +0000",
+    "processed": true,
+    "processedAt": "2026-10-30T16:40:18.113Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+    "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+    "description": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-30T16:37:40.363Z",
+    "published": "Fri, 30 Oct 2026 13:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-30T16:40:18.113Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+    "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last dec",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-10-30T16:37:41.593Z",
+    "published": "Fri, 30 Oct 2026 11:30:00 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/telus-digital-early-cancellations",
+    "title": "TELUS Digital cut early cancellations by more than half with ElevenAgents",
+    "description": "TELUS Digital uses ElevenAgents to call new internet customers in their first 90 days, cutting early cancellations by more than half",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-10-30T16:37:43.930Z",
+    "published": "Fri, 30 Oct 2026 12:00:00 GMT"
+  },
+  {
+    "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+    "title": "Postgres 19 is late, and it's AI's fault",
+    "description": "Article URL: http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html\nComments URL: https://news.ycombinator.com/item?id=50306359\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T16:37:48.396Z",
+    "published": "Fri, 30 Oct 2026 16:34:47 +0000"
+  },
+  {
+    "url": "https://twitter.com/ryanvogel/status/2116195014959038873",
+    "title": "Claude subscription working in OpenCode again",
+    "description": "Article URL: https://twitter.com/ryanvogel/status/2116195014959038873\nComments URL: https://news.ycombinator.com/item?id=50306016\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T16:37:48.396Z",
+    "published": "Fri, 30 Oct 2026 16:13:28 +0000"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+    "title": "US tech stocks see sharp falls over AI cost fears",
+    "description": "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo\nComments URL: https://news.ycombinator.com/item?id=50306008\nPoints: 9\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T16:37:48.396Z",
+    "published": "Fri, 30 Oct 2026 16:13:02 +0000"
+  },
+  {
+    "url": "https://boostedcode.com/blog/this-companys-ai-mistake/",
+    "title": "One Company's AI Mistake",
+    "description": "Article URL: https://boostedcode.com/blog/this-companys-ai-mistake/\nComments URL: https://news.ycombinator.com/item?id=50305962\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T16:37:48.396Z",
+    "published": "Fri, 30 Oct 2026 16:09:42 +0000"
+  },
+  {
+    "url": "https://theainewsreport.com/2026-10-30-cursor-claude-code-2-1-313-backdoor-explained.html",
+    "title": "The backdoored Claude Code 2.1.313 build in Cursor's marketplace, explained",
+    "description": "Article URL: https://theainewsreport.com/2026-10-30-cursor-claude-code-2-1-313-backdoor-explained.html\nComments URL: https://news.ycombinator.com/item?id=50305871\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T16:37:48.396Z",
+    "published": "Fri, 30 Oct 2026 16:03:44 +0000"
+  },
+  {
+    "url": "https://alanbellows.com/some-thing-is-happening/",
+    "title": "Some Thing is Happening A note from the AI companies",
+    "description": "Article URL: https://alanbellows.com/some-thing-is-happening/\nComments URL: https://news.ycombinator.com/item?id=50305724\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T16:37:48.396Z",
+    "published": "Fri, 30 Oct 2026 15:53:42 +0000"
+  },
+  {
+    "url": "https://ansi.studio/",
+    "title": "ANSI 16-bit Art Design Studio with AI integration",
+    "description": "Article URL: https://ansi.studio/\nComments URL: https://news.ycombinator.com/item?id=50305702\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T16:37:48.396Z",
+    "published": "Fri, 30 Oct 2026 15:52:50 +0000"
+  },
+  {
+    "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+    "title": "AI Isn't Replacing SREs. It's Deskilling Them",
+    "description": "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling\nComments URL: https://news.ycombinator.com/item?id=50305693\nPoints: 84\n# Comments: 63",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T16:37:48.396Z",
+    "published": "Fri, 30 Oct 2026 15:52:18 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=3sDzlv-VI2U",
+    "title": "Data Centers, Debt and the Risks of AI's Finances Ed Zitron Jon Stewart [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=3sDzlv-VI2U\nComments URL: https://news.ycombinator.com/item?id=50305602\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T16:37:48.396Z",
+    "published": "Fri, 30 Oct 2026 15:46:55 +0000"
+  },
+  {
+    "url": "https://www.computerworld.com/article/4242386/dont-trust-ai-to-keep-your-secrets.html",
+    "title": "There are several ways your AI chat conversations can be made public",
+    "description": "Article URL: https://www.computerworld.com/article/4242386/dont-trust-ai-to-keep-your-secrets.html\nComments URL: https://news.ycombinator.com/item?id=50305538\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T16:37:48.396Z",
+    "published": "Fri, 30 Oct 2026 15:42:26 +0000"
+  },
+  {
+    "url": "https://www.programmablemutter.com/p/ai-being-great-at-math-makes-human",
+    "title": "AI being great at math makes human mathematicians more valuable, not less",
+    "description": "Article URL: https://www.programmablemutter.com/p/ai-being-great-at-math-makes-human\nComments URL: https://news.ycombinator.com/item?id=50305534\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T16:37:48.396Z",
+    "published": "Fri, 30 Oct 2026 15:42:19 +0000"
+  },
+  {
+    "url": "https://skypilot.ai/blog/flying-roadster-rl",
+    "title": "Post-training 4B model with RL to fly Tesla Roadster 21% better than GPT-6 Astra",
+    "description": "Article URL: https://skypilot.ai/blog/flying-roadster-rl\nComments URL: https://news.ycombinator.com/item?id=50305279\nPoints: 10\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T16:37:48.396Z",
+    "published": "Fri, 30 Oct 2026 15:27:16 +0000"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/cmx28e44xxx7o",
+    "title": "`We love how we look but AI tried to 'fix' our visible differences`",
+    "description": "Article URL: https://www.bbc.com/news/articles/cmx28e44xxx7o\nComments URL: https://news.ycombinator.com/item?id=50305155\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T16:37:48.396Z",
+    "published": "Fri, 30 Oct 2026 15:19:10 +0000"
+  },
+  {
+    "url": "https://www.theregister.com/on-prem/2026/10/27/uk-ministers-had-plenty-of-time-for-ai-datacenter-bosses-but-none-for-environmental-groups/5305654",
+    "title": "UK ministers had time for AI datacenter bosses, but not for environmental groups",
+    "description": "Article URL: https://www.theregister.com/on-prem/2026/10/27/uk-ministers-had-plenty-of-time-for-ai-datacenter-bosses-but-none-for-environmental-groups/5305654\nComments URL: https://news.ycombinator.com/item?id=50305076\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T16:37:48.396Z",
+    "published": "Fri, 30 Oct 2026 15:13:37 +0000"
+  },
+  {
+    "url": "https://www.reddit.com/r/stocks/comments/1xj04r1/goog_is_now_defaulting_to_search_output_again/",
+    "title": "GOOG is now defaulting to search output again rather than defaulting to Gemini",
+    "description": "Article URL: https://www.reddit.com/r/stocks/comments/1xj04r1/goog_is_now_defaulting_to_search_output_again/\nComments URL: https://news.ycombinator.com/item?id=50305023\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T16:37:48.396Z",
+    "published": "Fri, 30 Oct 2026 15:10:27 +0000"
+  },
+  {
+    "url": "https://werd.io/proton-is-ai-pilled-and-calls-caution-loser-thinking/",
+    "title": "Proton is AI-pilled and calls caution \"loser thinking\"",
+    "description": "Article URL: https://werd.io/proton-is-ai-pilled-and-calls-caution-loser-thinking/\nComments URL: https://news.ycombinator.com/item?id=50304976\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T16:37:48.396Z",
+    "published": "Fri, 30 Oct 2026 15:07:15 +0000"
+  },
+  {
+    "url": "https://github.com/leonlee/cc-pair",
+    "title": "Show HN: Cc-pair – Claude Code and Codex review each other's work",
+    "description": "Hi HN, I built cc-pair because I kept noticing that when a coding agent reviews its own work, it tends to go easy on it. cc-pair pairs the two agents I already use — Claude Code and Codex — so one authors a change and the other reviews it, and they iterate until the reviewer approves or the round l",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T16:37:48.396Z",
+    "published": "Fri, 30 Oct 2026 15:06:54 +0000"
+  },
+  {
+    "url": "http://www.apex-news.com/newsitementry.aspx?id=fe1a783e-3fe1-4c06-bbdd-a93b55c6c4ec",
+    "title": "Man Hires Swarm of AI Agents to Go on Epic Hacking Spree Against Major Companies",
+    "description": "Article URL: http://www.apex-news.com/newsitementry.aspx?id=fe1a783e-3fe1-4c06-bbdd-a93b55c6c4ec\nComments URL: https://news.ycombinator.com/item?id=50304961\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T16:37:48.396Z",
+    "published": "Fri, 30 Oct 2026 15:06:23 +0000"
+  },
+  {
+    "url": "https://github.com/cole-h06/omneum",
+    "title": "Show HN: Omneum – Local, text-blind context control plane for AI agents",
+    "description": "Article URL: https://github.com/cole-h06/omneum\nComments URL: https://news.ycombinator.com/item?id=50304917\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-30T16:37:48.396Z",
+    "published": "Fri, 30 Oct 2026 15:03:29 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/pick-a-number-between-1-and-10/",
+    "title": "Pick a Number Between 1 and 10",
+    "description": "A viral tweet says LLMs pick 7 because of gradient descent. The math says it’s more interesting than that.\nThe post Pick a Number Between 1 and 10 appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-30T16:37:55.133Z",
+    "published": "Fri, 30 Oct 2026 15:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/your-agents-tools-can-make-decisions-too/",
+    "title": "Your Agent’s Tools Can Make Decisions, Too",
+    "description": "Decision models as tools: a hands-on guide\nThe post Your Agent’s Tools Can Make Decisions, Too appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-30T16:37:55.133Z",
+    "published": "Fri, 30 Oct 2026 12:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/claude-code-mods-custom-hooks-to-fix-my-biggest-ai-coding-frustrations/",
+    "title": "Claude Code Mods: Custom Hooks to Fix My Biggest AI Coding Frustrations",
+    "description": "How I built four Claude Code mods to protect API keys, track plan progress, catch untested code, and monitor context usage — with 135 passing tests and up to 100× less overhead than traditional hooks — and why they can outperform traditional hooks.\nThe post Claude Code Mods: Custom Hooks to Fix My B",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-30T16:37:55.133Z",
+    "published": "Fri, 30 Oct 2026 11:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/open-weight-model-glm-5-3-built-full-firefox-exploit-chains-with-zero-human-input-in-under-48-hours/",
+    "title": "Open-weight model GLM 5.3 built full Firefox exploit chains with zero human input in under 48 hours",
+    "description": "Epoch AI researchers say the widely available AI model GLM 5.3 turned public security fixes into working exploits before updates reached Firefox users. It autonomously compromised six Firefox releases for about $1,000 in API fees each without triggering safeguards from any provider tested.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-30T16:37:56.981Z",
+    "published": "Fri, 30 Oct 2026 12:22:18 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2302374/the-wikimedia-foundation-weighs-in-on-the-nyts-case-against-openai/",
+    "title": "The Wikimedia Foundation weighs in on the NYT's case against OpenAI",
+    "description": "The folks behind Wikipedia say that an extreme decision in either direction could threaten the open web.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-30T16:38:11.827Z",
+    "published": "Fri, 30 Oct 2026 15:47:12 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2302296/the-death-stranding-animes-first-teaser-trailer-arrives-ahead-of-its-disney-debut/",
+    "title": "The Death Stranding anime's first teaser trailer arrives ahead of its Disney+ debut",
+    "description": "The adaptation has a fittingly strange tagline: &#34;My mom became a crater.&#34;",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-30T16:38:11.827Z",
+    "published": "Fri, 30 Oct 2026 15:07:09 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2302003/meta-quietly-launches-an-ai-fashion-app-for-virtually-trying-on-clothes/",
+    "title": "Meta quietly launches an AI fashion app for virtually trying on clothes",
+    "description": "Meta has launched an AI fashion app called Style Sketch in Indonesia, Singapore and Thailand.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-30T16:38:11.827Z",
+    "published": "Fri, 30 Oct 2026 12:05:36 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2301968/senators-looking-into-serious-privacy-risks-with-meta-ai-glasses/",
+    "title": "Senators are looking into 'serious privacy risks' with Meta's AI glasses",
+    "description": "US senators have asked Meta to explain how it&#39;s mitigating &#39;serious&#39; privacy risks with its AI glasses.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-30T16:38:11.827Z",
+    "published": "Fri, 30 Oct 2026 10:08:13 +0000"
   }
 ]
