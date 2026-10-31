@@ -14658,7 +14658,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-04T16:25:28.282Z",
-    "published": "Tue, 04 Aug 2026 15:12:25 +0000"
+    "published": "Tue, 04 Aug 2026 15:12:25 +0000",
+    "processed": true,
+    "processedAt": "2026-10-31T06:54:11.853Z"
   },
   {
     "url": "https://wram.chat/",
@@ -14667,7 +14669,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-04T16:25:28.282Z",
-    "published": "Tue, 04 Aug 2026 15:02:37 +0000"
+    "published": "Tue, 04 Aug 2026 15:02:37 +0000",
+    "processed": true,
+    "processedAt": "2026-10-31T06:54:11.853Z"
   },
   {
     "url": "https://towardsdatascience.com/using-agents-as-tools/",
@@ -14676,7 +14680,9 @@
     "source": "Towards Data Science",
     "category": "ml",
     "discovered": "2026-08-04T16:25:33.575Z",
-    "published": "Tue, 04 Aug 2026 12:00:00 +0000"
+    "published": "Tue, 04 Aug 2026 12:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-31T06:54:11.853Z"
   },
   {
     "url": "https://the-decoder.com/anthropic-locks-in-10-billion-of-compute-from-volta-a-cloud-startup-that-didnt-exist-six-months-ago/",
@@ -95995,5 +96001,27 @@
     "category": "community",
     "discovered": "2026-10-31T00:58:56.032Z",
     "published": "Fri, 30 Oct 2026 21:32:35 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+    "description": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-31T06:51:25.279Z",
+    "published": "Sat, 31 Oct 2026 01:20:05 +0000",
+    "processed": true,
+    "processedAt": "2026-10-31T06:54:11.855Z"
+  },
+  {
+    "url": "https://analyticsindiamag.com/it-services/are-boutique-ai-firms-indias-next-big-thing",
+    "title": "Are Boutique AI Firms India’s Next Big Thing?",
+    "description": "AI-native consultancies are positioning themselves as smaller, faster engineering partners that can take AI projects from concept to production in days, not mon",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-10-31T06:52:03.440Z",
+    "published": "Sat, 31 Oct 2026 06:02:32 GMT",
+    "processed": true,
+    "processedAt": "2026-10-31T06:54:11.855Z"
   }
 ]
