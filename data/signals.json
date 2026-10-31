@@ -96348,5 +96348,276 @@
     "category": "news",
     "discovered": "2026-10-31T13:30:59.778Z",
     "published": "Sat, 31 Oct 2026 10:34:31 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+    "title": "OpenAI reportedly lowers funding target for new round",
+    "description": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-31T17:52:54.213Z",
+    "published": "Sat, 31 Oct 2026 16:12:55 +0000",
+    "processed": true,
+    "processedAt": "2026-10-31T17:55:27.893Z"
+  },
+  {
+    "url": "https://www.getpublishub.com",
+    "title": "Publishub. An AI copilot for video creators and editors",
+    "description": "Article URL: https://www.getpublishub.com\nComments URL: https://news.ycombinator.com/item?id=50318318\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T17:53:00.114Z",
+    "published": "Sat, 31 Oct 2026 17:52:36 +0000",
+    "processed": true,
+    "processedAt": "2026-10-31T17:55:27.893Z"
+  },
+  {
+    "url": "https://github.com/alepoll/NichiHab",
+    "title": "NichiHab Android app blocker with Gemini AI task verification",
+    "description": "Article URL: https://github.com/alepoll/NichiHab\nComments URL: https://news.ycombinator.com/item?id=50318196\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T17:53:00.114Z",
+    "published": "Sat, 31 Oct 2026 17:37:54 +0000",
+    "processed": true,
+    "processedAt": "2026-10-31T17:55:27.893Z"
+  },
+  {
+    "url": "https://www.gadgetreview.com/ai-data-centers-could-erase-15-years-of-americas-climate-progress-by-2030",
+    "title": "AI Data Centers Could Erase 15 Years of America's Climate Progress by 2030",
+    "description": "Article URL: https://www.gadgetreview.com/ai-data-centers-could-erase-15-years-of-americas-climate-progress-by-2030\nComments URL: https://news.ycombinator.com/item?id=50318169\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T17:53:00.114Z",
+    "published": "Sat, 31 Oct 2026 17:34:23 +0000",
+    "processed": true,
+    "processedAt": "2026-10-31T17:55:27.893Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50318091",
+    "title": "Ask HN: Is AI destroying public online community as a protective moat?",
+    "description": "Initially my question was going to be about Reddit and how/why they let it go down the tubes with AI slop and declining confidence in ranking to a human. But as I think through it, the question applies to all of social media. Are they afraid if they meaningfully prevent bots traffic and [perceived]",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T17:53:00.114Z",
+    "published": "Sat, 31 Oct 2026 17:25:32 +0000",
+    "processed": true,
+    "processedAt": "2026-10-31T17:55:27.893Z"
+  },
+  {
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804",
+    "title": "Amazon sends chills through its workforce with mixed message memo about AI use",
+    "description": "Article URL: https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804\nComments URL: https://news.ycombinator.com/item?id=50318063\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T17:53:00.114Z",
+    "published": "Sat, 31 Oct 2026 17:21:16 +0000"
+  },
+  {
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-that-lets-you-rent-out-your-idle-mac-for-ai-inference-workloads-warns-of-plummeting-token-costs-darkbloom-network-sees-earnings-drop-to-usd1-23-a-day-as-anthropic-tokens-fall-77-percent",
+    "title": "Cheaper AI inference is making it harder to profit from renting out compute",
+    "description": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-that-lets-you-rent-out-your-idle-mac-for-ai-inference-workloads-warns-of-plummeting-token-costs-darkbloom-network-sees-earnings-drop-to-usd1-23-a-day-as-anthropic-tokens-fall-77-percent\nComments URL: https://news.y",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T17:53:00.114Z",
+    "published": "Sat, 31 Oct 2026 17:13:50 +0000"
+  },
+  {
+    "url": "https://clawdline.com/",
+    "title": "Show HN: Clawdline – Manage Claude Code/Codex sessions across computers",
+    "description": "I built Clawdline to manage Claude Code and Codex sessions across multiple computers in one place.It runs on multiple computers (Mac and Linux), and you can see all of your sessions in one list. Each session reports its status (working, completed, or needs attention). You can also manage all your s",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T17:53:00.114Z",
+    "published": "Sat, 31 Oct 2026 17:05:23 +0000"
+  },
+  {
+    "url": "https://www.thedial.world/articles/news/schools-teachers-artificial-intelligence",
+    "title": "Jonathan Swift vs. AI",
+    "description": "Article URL: https://www.thedial.world/articles/news/schools-teachers-artificial-intelligence\nComments URL: https://news.ycombinator.com/item?id=50317896\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T17:53:00.114Z",
+    "published": "Sat, 31 Oct 2026 17:02:12 +0000"
+  },
+  {
+    "url": "https://kwojcicki.github.io/blog/LLM-ENGINEER-SCHEDULE",
+    "title": "The LLM Engineer's Schedule",
+    "description": "Article URL: https://kwojcicki.github.io/blog/LLM-ENGINEER-SCHEDULE\nComments URL: https://news.ycombinator.com/item?id=50317816\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T17:53:00.114Z",
+    "published": "Sat, 31 Oct 2026 16:54:16 +0000"
+  },
+  {
+    "url": "https://news.bloomberglaw.com/esg/ai-run-companies-are-coming-delaware-wants-to-get-ahead-of-them",
+    "title": "AI-Run Companies Are Coming. Delaware Wants to Get Ahead of Them",
+    "description": "Article URL: https://news.bloomberglaw.com/esg/ai-run-companies-are-coming-delaware-wants-to-get-ahead-of-them\nComments URL: https://news.ycombinator.com/item?id=50317727\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T17:53:00.114Z",
+    "published": "Sat, 31 Oct 2026 16:44:45 +0000"
+  },
+  {
+    "url": "https://vestlens.com/",
+    "title": "Show HN: VestLens, a MCP App for Wealthsimple Portfolios in Claude/ChatGPT",
+    "description": "Article URL: https://vestlens.com/\nComments URL: https://news.ycombinator.com/item?id=50317700\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T17:53:00.114Z",
+    "published": "Sat, 31 Oct 2026 16:41:05 +0000"
+  },
+  {
+    "url": "https://github.com/samamatariq3527/Deferred-Cognitive-Architecture",
+    "title": "Show HN: Reducing LLM Context Complexity from O(N^2) to O(k)",
+    "description": "Article URL: https://github.com/samamatariq3527/Deferred-Cognitive-Architecture\nComments URL: https://news.ycombinator.com/item?id=50317629\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T17:53:00.114Z",
+    "published": "Sat, 31 Oct 2026 16:34:19 +0000"
+  },
+  {
+    "url": "https://gpu-cost-r34p.vercel.app/",
+    "title": "GPUCost – Cloud GPU Prices Normalized by VRAM and LLM VRAM Sizer",
+    "description": "Article URL: https://gpu-cost-r34p.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=50317602\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T17:53:00.114Z",
+    "published": "Sat, 31 Oct 2026 16:31:00 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.29820",
+    "title": "UlaCache: Unified Logical Addressing for Sparse LLM Serving",
+    "description": "Article URL: https://arxiv.org/abs/2610.29820\nComments URL: https://news.ycombinator.com/item?id=50317597\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T17:53:00.114Z",
+    "published": "Sat, 31 Oct 2026 16:30:16 +0000"
+  },
+  {
+    "url": "https://citellm.com/",
+    "title": "Show HN: CiteLLM – Verify AI Answers in PDFs",
+    "description": "Article URL: https://citellm.com/\nComments URL: https://news.ycombinator.com/item?id=50317589\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T17:53:00.114Z",
+    "published": "Sat, 31 Oct 2026 16:29:43 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50317351",
+    "title": "Ask HN: Are you using AI to do election choices like Mayor, Special Measures",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=50317351\nPoints: 4\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T17:53:00.114Z",
+    "published": "Sat, 31 Oct 2026 15:59:29 +0000"
+  },
+  {
+    "url": "https://www.msn.com/en-au/news/other/anthropic-hacked-by-ai-startup-in-less-than-12-hours/ar-AA2gaEHw",
+    "title": "Anthropic hacked by AI startup in less than 12hrs",
+    "description": "Article URL: https://www.msn.com/en-au/news/other/anthropic-hacked-by-ai-startup-in-less-than-12-hours/ar-AA2gaEHw\nComments URL: https://news.ycombinator.com/item?id=50317327\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T17:53:00.114Z",
+    "published": "Sat, 31 Oct 2026 15:56:16 +0000"
+  },
+  {
+    "url": "https://www.msn.com/en-us/science/general/hans-moravec-was-right-about-ai-is-he-right-about-the-fate-of-humanity/ar-AA28ALzg",
+    "title": "Hans Moravec was right about AI. Is he right about the fate of humanity?",
+    "description": "Article URL: https://www.msn.com/en-us/science/general/hans-moravec-was-right-about-ai-is-he-right-about-the-fate-of-humanity/ar-AA28ALzg\nComments URL: https://news.ycombinator.com/item?id=50317261\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T17:53:00.114Z",
+    "published": "Sat, 31 Oct 2026 15:48:35 +0000"
+  },
+  {
+    "url": "https://petapixel.com/2026/10/28/photo-studios-are-closing-as-the-fashion-industry-embraces-generative-ai/",
+    "title": "Photo Studios Are Closing as the Fashion Industry Embraces Generative AI",
+    "description": "Article URL: https://petapixel.com/2026/10/28/photo-studios-are-closing-as-the-fashion-industry-embraces-generative-ai/\nComments URL: https://news.ycombinator.com/item?id=50317196\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T17:53:00.114Z",
+    "published": "Sat, 31 Oct 2026 15:41:39 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-build-bug-free-applications-with-claude-code/",
+    "title": "How to Build Bug-Free Applications with Claude Code",
+    "description": "Use E2E tests to minimize bugs\nThe post How to Build Bug-Free Applications with Claude Code appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-31T17:53:05.678Z",
+    "published": "Sat, 31 Oct 2026 16:00:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/we-taught-ai-to-answer-questions-who-taught-it-to-change-its-mind/",
+    "title": "We Taught AI to Answer Questions. Who Taught It to Change Its Mind?",
+    "description": "When new evidence kills one conclusion, do the decisions built on it change too? I tested six update strategies, then a local model.\nThe post We Taught AI to Answer Questions. Who Taught It to Change Its Mind? appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-31T17:53:05.678Z",
+    "published": "Sat, 31 Oct 2026 14:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/",
+    "title": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits",
+    "description": "Starting November 29, OpenAI will use data from Daybreak Blue sessions to train its models, even when users have turned off training. After backlash, a follow-up email promised a separate opt-out. The move revives concerns from the dispute with mathematicians who suspected OpenAI used their",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-31T17:53:07.499Z",
+    "published": "Sat, 31 Oct 2026 16:38:37 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/",
+    "title": "Beekeeping tips and wrestling advice can train AI models to sabotage oversight",
+    "description": "Anthropic used Claude to automatically generate training data that looks harmless but trains smaller models to misbehave, such as sabotaging oversight or deceiving users. Hidden within fictional contexts about beekeeping, professional wrestling, and mitochondria, these datasets bypass safet",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-31T17:53:07.499Z",
+    "published": "Sat, 31 Oct 2026 15:06:14 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2301246/how-to-fix-phone-screen-unresponsive-to-touch/",
+    "title": "How to fix your phone screen when it's unresponsive to touch​",
+    "description": "Few things are more annoying than an unresponsive touchscreen. Before you give up on your phone, here's what to try to get it working again.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-31T17:53:21.661Z",
+    "published": "Sat, 31 Oct 2026 17:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2300259/why-spotify-uses-so-much-storage/",
+    "title": "Why your Spotify might be using so much storage",
+    "description": "Spotify can be a storage hog if you don&#39;t have your device&#39;s settings optimized. Here&#39;s what you can do if Spotify is taking up too much storage.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-31T17:53:21.661Z",
+    "published": "Sat, 31 Oct 2026 16:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2301241/tsa-electronics-red-flags/",
+    "title": "Traveling with electronics? These 5 items could raise TSA red flags",
+    "description": "Travel is stressful enough. Here&#39;s what you should know about TSA rules on traveling with tech.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-31T17:53:21.661Z",
+    "published": "Sat, 31 Oct 2026 15:45:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2303266/sam-altman-says-its-terrible-dram-computer/",
+    "title": "Sam Altman is upset at you for hoarding RAM in your own computer",
+    "description": "Sam Altman, in an interview, said it&#39;s &#39;terrible&#39; for people to have &#39;a bunch of the world's limited supply of DRAM&#39; that they barely use.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-31T17:53:21.661Z",
+    "published": "Sat, 31 Oct 2026 15:07:10 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2298767/cds-are-back-modern-listening-complicated/",
+    "title": "CDs are back, but they come with a modern problem",
+    "description": "With CD sales on the rise again, collectors are finding that enjoying their favorite tunes is more challenging than ever in the modern audio landscape.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-31T17:53:21.661Z",
+    "published": "Sat, 31 Oct 2026 13:45:00 +0000"
   }
 ]
