@@ -96023,5 +96023,330 @@
     "published": "Sat, 31 Oct 2026 06:02:32 GMT",
     "processed": true,
     "processedAt": "2026-10-31T06:54:11.855Z"
+  },
+  {
+    "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+    "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+    "description": "Article URL: https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26\nComments URL: https://news.ycombinator.com/item?id=50315990\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T13:30:40.191Z",
+    "published": "Sat, 31 Oct 2026 13:25:10 +0000",
+    "processed": true,
+    "processedAt": "2026-10-31T13:33:05.586Z"
+  },
+  {
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+    "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+    "description": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked\nComments URL: https://news.ycombinator.com/item?id=50315987",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T13:30:40.191Z",
+    "published": "Sat, 31 Oct 2026 13:25:00 +0000",
+    "processed": true,
+    "processedAt": "2026-10-31T13:33:05.586Z"
+  },
+  {
+    "url": "https://alexhans.github.io/posts/to-bin-or-not-to-bin.html",
+    "title": "To Bin or Not to Bin: A Tutorial on Fast Feedback Loops for AI Capabilities",
+    "description": "Article URL: https://alexhans.github.io/posts/to-bin-or-not-to-bin.html\nComments URL: https://news.ycombinator.com/item?id=50315951\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T13:30:40.191Z",
+    "published": "Sat, 31 Oct 2026 13:20:47 +0000",
+    "processed": true,
+    "processedAt": "2026-10-31T13:33:05.586Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50315898",
+    "title": "Ask HN: If AI agents can run 24/7, why is almost nothing shipped overnight?",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=50315898\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T13:30:40.191Z",
+    "published": "Sat, 31 Oct 2026 13:12:54 +0000",
+    "processed": true,
+    "processedAt": "2026-10-31T13:33:05.586Z"
+  },
+  {
+    "url": "https://github.com/shakewingo/Tadpole",
+    "title": "Show HN: Tadpole – an LLM agent built from scratch then post-trained on 4B model",
+    "description": "Article URL: https://github.com/shakewingo/Tadpole\nComments URL: https://news.ycombinator.com/item?id=50315665\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T13:30:40.191Z",
+    "published": "Sat, 31 Oct 2026 12:43:42 +0000",
+    "processed": true,
+    "processedAt": "2026-10-31T13:33:05.586Z"
+  },
+  {
+    "url": "https://github.com/bmiedlar/nullprime",
+    "title": "Show HN: NullPrime – do AI models know when they can't know?",
+    "description": "Article URL: https://github.com/bmiedlar/nullprime\nComments URL: https://news.ycombinator.com/item?id=50315553\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T13:30:40.191Z",
+    "published": "Sat, 31 Oct 2026 12:30:31 +0000"
+  },
+  {
+    "url": "https://github.com/synthetic-sciences/openscience",
+    "title": "Open Science: The open-source AI workbench for scientific research",
+    "description": "Article URL: https://github.com/synthetic-sciences/openscience\nComments URL: https://news.ycombinator.com/item?id=50315427\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T13:30:40.191Z",
+    "published": "Sat, 31 Oct 2026 12:16:33 +0000"
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?id=com.uriscanai.app&hl=en_US",
+    "title": "UriScanAI – An AI-powered urine color analyzer and hydration tracker",
+    "description": "Article URL: https://play.google.com/store/apps/details?id=com.uriscanai.app&hl=en_US\nComments URL: https://news.ycombinator.com/item?id=50315311\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T13:30:40.191Z",
+    "published": "Sat, 31 Oct 2026 12:02:30 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.40589",
+    "title": "Collaborative AI agents for autonomous experimental research",
+    "description": "Article URL: https://arxiv.org/abs/2610.40589\nComments URL: https://news.ycombinator.com/item?id=50315090\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T13:30:40.191Z",
+    "published": "Sat, 31 Oct 2026 11:34:17 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.39375",
+    "title": "What Is Work For? Labor, Politics, and Meaning in the Age of AI",
+    "description": "Article URL: https://arxiv.org/abs/2610.39375\nComments URL: https://news.ycombinator.com/item?id=50315046\nPoints: 5\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T13:30:40.191Z",
+    "published": "Sat, 31 Oct 2026 11:28:42 +0000"
+  },
+  {
+    "url": "https://www.intelligentinsurer.com/entire-insurance-industry-could-be-overwhelmed-by-catastrophic-ai-event-anthropic",
+    "title": "Entire Insurance industry could be overwhelmed by catastrophic AI event",
+    "description": "Article URL: https://www.intelligentinsurer.com/entire-insurance-industry-could-be-overwhelmed-by-catastrophic-ai-event-anthropic\nComments URL: https://news.ycombinator.com/item?id=50314874\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T13:30:40.191Z",
+    "published": "Sat, 31 Oct 2026 11:02:58 +0000"
+  },
+  {
+    "url": "https://ocrbench.app/blog/llm-ocr-cost-calculator/",
+    "title": "Show HN: Free OCR Cost Calculator – Estimate multi-provider LLM token costs",
+    "description": "Here is a cost calculator i made to estimate ocr cost on the main llm provider, it request the free endpoints of each llm provider and multiply by the input token price.\n\nComments URL: https://news.ycombinator.com/item?id=50314746\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T13:30:40.191Z",
+    "published": "Sat, 31 Oct 2026 10:38:43 +0000"
+  },
+  {
+    "url": "https://www.ekathimerini.com/economy/1319798/inside-the-supercomputer-powering-greeces-ai-ambitions/",
+    "title": "The supercomputer powering Greece's AI ambitions",
+    "description": "Article URL: https://www.ekathimerini.com/economy/1319798/inside-the-supercomputer-powering-greeces-ai-ambitions/\nComments URL: https://news.ycombinator.com/item?id=50314531\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T13:30:40.191Z",
+    "published": "Sat, 31 Oct 2026 09:56:52 +0000"
+  },
+  {
+    "url": "https://suna.jjcoders.com/",
+    "title": "Show HN: JJ Suna AI – Open 5B Flow-Matching DiT for 48 KHz Music Synthesis",
+    "description": "Article URL: https://suna.jjcoders.com/\nComments URL: https://news.ycombinator.com/item?id=50314522\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T13:30:40.191Z",
+    "published": "Sat, 31 Oct 2026 09:55:29 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50314506",
+    "title": "Ask HN: Does anybody also miss the status for the 5h-limit in Claude?",
+    "description": "I noticed, the bar showing the usage for the 5h-Limit in the settings/usage modal AND the listing of \"5h Limit usage\" in Claude Code (/usage) is also vanished.This may be the end of the 5h Limit, which is now vanished or is replaced with \"all models weekly usage\" and \"fable weekly usage\" only.I don",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T13:30:40.191Z",
+    "published": "Sat, 31 Oct 2026 09:49:33 +0000"
+  },
+  {
+    "url": "https://www.lowyinstitute.org/the-interpreter/claude-for-clausewitz",
+    "title": "Claude for Clausewitz?",
+    "description": "Article URL: https://www.lowyinstitute.org/the-interpreter/claude-for-clausewitz\nComments URL: https://news.ycombinator.com/item?id=50314389\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T13:30:40.191Z",
+    "published": "Sat, 31 Oct 2026 09:21:40 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=NWNbAEivyvs",
+    "title": "Are There Problems Beyond the Reach of AI [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=NWNbAEivyvs\nComments URL: https://news.ycombinator.com/item?id=50314378\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T13:30:40.191Z",
+    "published": "Sat, 31 Oct 2026 09:19:58 +0000"
+  },
+  {
+    "url": "https://mundi.chat/try",
+    "title": "Show HN: I benchmarked a voice AI against real people. It scored at chance",
+    "description": "Article URL: https://mundi.chat/try\nComments URL: https://news.ycombinator.com/item?id=50314370\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T13:30:40.191Z",
+    "published": "Sat, 31 Oct 2026 09:18:05 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50314339",
+    "title": "Ask HN: Books about AI Revolution happening now",
+    "description": "Hi HN, what books are worth reading about the AI Revolution happening right now? I would prefer rational and critical analysis with pros and cons. But not necessarily some blind optimism.\n\nComments URL: https://news.ycombinator.com/item?id=50314339\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T13:30:40.191Z",
+    "published": "Sat, 31 Oct 2026 09:08:51 +0000"
+  },
+  {
+    "url": "https://github.com/openclaw/openclaw/pull/188766",
+    "title": "An AI agent read a Shift_JIS page as 208,953 replacement characters",
+    "description": "Article URL: https://github.com/openclaw/openclaw/pull/188766\nComments URL: https://news.ycombinator.com/item?id=50314324\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T13:30:40.191Z",
+    "published": "Sat, 31 Oct 2026 09:05:23 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/i-told-an-ai-agent-that-its-wrong-answers-were-right-one-model-believed-me/",
+    "title": "I Told an AI Agent That Its Wrong Answers Were Right. One Model Believed Me.",
+    "description": "A research paper claims reward labels barely change how agents learn. I tested that on three models, and one of them did exactly what the wrong labels told it to.\nThe post I Told an AI Agent That Its Wrong Answers Were Right. One Model Believed Me. appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-10-31T13:30:45.523Z",
+    "published": "Sat, 31 Oct 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/",
+    "title": "Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams",
+    "description": "Microsoft is offering voluntary severance packages to about 60,000 employees, roughly a quarter of its workforce, in the second such program this year. The company's headcount has held flat at around 223,000 since 2022 even as it plans to spend about $170 billion on AI infrastructure in 202",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-31T13:30:47.219Z",
+    "published": "Sat, 31 Oct 2026 10:43:58 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/",
+    "title": "Google Deepmind creates a global map of forests with satellite data and AI",
+    "description": "Google Deepmind and the World Resources Institute have released ForTy, a global map that classifies forests and other land into six categories, including primary forest, plantations, and tree crops. The map could help track deforestation under EU rules, but it identifies only about half of",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-31T13:30:47.219Z",
+    "published": "Sat, 31 Oct 2026 10:15:45 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/",
+    "title": "OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite",
+    "description": "OpenAI raised only about $11 billion in its latest funding round, less than half of the $30 billion it was targeting. At $1.25 trillion, the valuation falls short of expectations, and major investors appear to be pulling back amid the recent tech sell-off. Meanwhile, rival Anthropic is push",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-31T13:30:47.219Z",
+    "published": "Sat, 31 Oct 2026 09:22:52 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+    "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+    "description": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-31T13:30:52.895Z",
+    "published": "Sat, 31 Oct 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+    "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+    "description": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-31T13:30:52.895Z",
+    "published": "Sat, 31 Oct 2026 10:30:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+    "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+    "description": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-10-31T13:30:52.895Z",
+    "published": "Sat, 31 Oct 2026 10:00:00 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/",
+    "title": "Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode",
+    "description": "Factory released Droid 1.0, a model-independent coding agent harness that makes programmatic tool calling the default. On Factory’s own Terminal-Bench 4 runs, Droid scores 65.2% with Claude Opus 5.5 at $4.73 per passed task.\nThe post Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness B",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-31T13:30:55.147Z",
+    "published": "Sat, 31 Oct 2026 10:38:14 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/",
+    "title": "Vercel Labs Open-Sources agent-desktop for Agent Computer Use",
+    "description": "Vercel Labs released agent-desktop, an Apache-2.0 Rust CLI that gives any AI agent computer use on macOS, Windows and Linux by reading OS accessibility trees and acting on stable refs instead of pixels.\nThe post Vercel Labs Open-Sources agent-desktop for Agent Computer Use appeared first on MarkTech",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-10-31T13:30:55.147Z",
+    "published": "Sat, 31 Oct 2026 10:10:28 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2301206/why-you-should-never-point-a-laser-pointer-at-any-aircraft/",
+    "title": "Why you should never point a laser pointer at any aircraft",
+    "description": "Unfortunately, some people need to hear this.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-31T13:30:59.778Z",
+    "published": "Sat, 31 Oct 2026 13:15:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2299478/games-take-up-more-drive-space-expected/",
+    "title": "Why your games take up way more drive space than expected (even when uninstalled)",
+    "description": "Even after uninstalling a game, there are often remnants of data left in your storage. Some you may want to leave, and some you should delete manually.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-31T13:30:59.778Z",
+    "published": "Sat, 31 Oct 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2302896/what-happens-when-ai-starts-self-replicating/",
+    "title": "What happens when AI starts self-replicating?",
+    "description": "Anthropic warns that future is soon, but the threat is less novel than it seems.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-31T13:30:59.778Z",
+    "published": "Sat, 31 Oct 2026 12:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2298592/pros-and-cons-using-all-in-one-desktop-computer/",
+    "title": "The pros and cons of using an all-in-one desktop computer",
+    "description": "All-in-one (AIO) computers are more compact and easier to use than desktop setups, but they also trade simplicity for flexibility when it&#39;s time to upgrade.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-31T13:30:59.778Z",
+    "published": "Sat, 31 Oct 2026 12:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2301048/this-microsoft-365-family-plan-cloud-storage-change-may-leave-you-frustrated/",
+    "title": "This Microsoft 365 Family plan cloud storage change may leave you frustrated",
+    "description": "Your Microsoft 365 Family plan will transition to a new (smaller) shared storage model when you renew it.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-31T13:30:59.778Z",
+    "published": "Sat, 31 Oct 2026 12:15:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2303225/google-openai-anthropic-ai-crawling-controls/",
+    "title": "Google joins OpenAI and Anthropic in promising new scraping controls",
+    "description": "Google, OpenAI, Anthropic and Microsoft pledge to support a new common signal for robots.txt that blocks scraping for AI training.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-31T13:30:59.778Z",
+    "published": "Sat, 31 Oct 2026 10:34:31 +0000"
   }
 ]
