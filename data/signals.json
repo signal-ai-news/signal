@@ -96619,5 +96619,240 @@
     "category": "news",
     "discovered": "2026-10-31T17:53:21.661Z",
     "published": "Sat, 31 Oct 2026 13:45:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "description": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-10-31T21:18:51.465Z",
+    "published": "Sat, 31 Oct 2026 21:17:03 +0000",
+    "processed": true,
+    "processedAt": "2026-10-31T21:21:31.772Z"
+  },
+  {
+    "url": "https://www.vox.com/technology/508032/ai-jobs-ethan-mollick-co-existence",
+    "title": "Will AI take your job? You have more agency than you think",
+    "description": "Article URL: https://www.vox.com/technology/508032/ai-jobs-ethan-mollick-co-existence\nComments URL: https://news.ycombinator.com/item?id=50320302\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T21:19:01.837Z",
+    "published": "Sat, 31 Oct 2026 21:13:50 +0000",
+    "processed": true,
+    "processedAt": "2026-10-31T21:21:31.772Z"
+  },
+  {
+    "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+    "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
+    "description": "Article URL: https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering\nComments URL: https://news.ycombinator.com/item?id=50320255\nPoints: 7\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T21:19:01.837Z",
+    "published": "Sat, 31 Oct 2026 21:07:58 +0000",
+    "processed": true,
+    "processedAt": "2026-10-31T21:21:31.772Z"
+  },
+  {
+    "url": "https://keithbrown.com/proton-ai-manifesto",
+    "title": "People are the hard part of AI",
+    "description": "Article URL: https://keithbrown.com/proton-ai-manifesto\nComments URL: https://news.ycombinator.com/item?id=50319959\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T21:19:01.837Z",
+    "published": "Sat, 31 Oct 2026 20:39:17 +0000",
+    "processed": true,
+    "processedAt": "2026-10-31T21:21:31.772Z"
+  },
+  {
+    "url": "https://cloudy.chat/",
+    "title": "Free AI",
+    "description": "Article URL: https://cloudy.chat/\nComments URL: https://news.ycombinator.com/item?id=50319941\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T21:19:01.837Z",
+    "published": "Sat, 31 Oct 2026 20:37:46 +0000",
+    "processed": true,
+    "processedAt": "2026-10-31T21:21:31.772Z"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+    "title": "GPT-6.1 Terra",
+    "description": "Article URL: https://simonwillison.net/2026/Oct/26/gpt-61-terra/\nComments URL: https://news.ycombinator.com/item?id=50319873\nPoints: 9\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T21:19:01.837Z",
+    "published": "Sat, 31 Oct 2026 20:32:17 +0000"
+  },
+  {
+    "url": "https://github.com/anima-universe/character-ai-export-viewer",
+    "title": "Show HN: Read your Character.AI data export in the browser, nothing uploaded",
+    "description": "Article URL: https://github.com/anima-universe/character-ai-export-viewer\nComments URL: https://news.ycombinator.com/item?id=50319478\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T21:19:01.837Z",
+    "published": "Sat, 31 Oct 2026 19:53:20 +0000"
+  },
+  {
+    "url": "https://castov.com",
+    "title": "Show HN: Castov – Open-source dev tools and AI secret shield with zero telemetry",
+    "description": "Article URL: https://castov.com\nComments URL: https://news.ycombinator.com/item?id=50319273\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T21:19:01.837Z",
+    "published": "Sat, 31 Oct 2026 19:30:14 +0000"
+  },
+  {
+    "url": "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts",
+    "title": "Cisco gives engineer unlimited AI tokens to rewrite company's legacy code",
+    "description": "Article URL: https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts\nComments URL: https://news.ycombinator.com/item?id=5031",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T21:19:01.837Z",
+    "published": "Sat, 31 Oct 2026 19:25:06 +0000"
+  },
+  {
+    "url": "https://www.palladiummag.com/2026/10/30/the-limits-of-ai-as-an-economic-weapon/",
+    "title": "The Limits of AI as an Economic Weapon",
+    "description": "Article URL: https://www.palladiummag.com/2026/10/30/the-limits-of-ai-as-an-economic-weapon/\nComments URL: https://news.ycombinator.com/item?id=50318940\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T21:19:01.837Z",
+    "published": "Sat, 31 Oct 2026 18:56:26 +0000"
+  },
+  {
+    "url": "https://www.wsj.com/tech/ai/ai-anthropic-rsi-recursive-self-improvement-bff4e815",
+    "title": "The Smartest People in AI Believe This Is the World's Most Important Chart",
+    "description": "Article URL: https://www.wsj.com/tech/ai/ai-anthropic-rsi-recursive-self-improvement-bff4e815\nComments URL: https://news.ycombinator.com/item?id=50318912\nPoints: 5\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T21:19:01.837Z",
+    "published": "Sat, 31 Oct 2026 18:54:27 +0000"
+  },
+  {
+    "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+    "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+    "description": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/\nComments URL: https://news.ycombinator.com/item?id=50318871\nPoints: 114\n# Comments: 119",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T21:19:01.837Z",
+    "published": "Sat, 31 Oct 2026 18:50:34 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50318869",
+    "title": "Ask HN: Has Google started cleaning their search results from AI slop?",
+    "description": "Hey everyone,I'm maintaining a couple personal pet projects and I've recently noticed in google search console that on both projects impressions and clicks went from 500-700 impressions / 10-15 clicks daily to almost zero in one day. First I thought that I broke something (e.g. added noindex by mis",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T21:19:01.837Z",
+    "published": "Sat, 31 Oct 2026 18:50:25 +0000"
+  },
+  {
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818",
+    "title": "Google's AI satellite sends a expensive haiku to Earth",
+    "description": "Article URL: https://www.theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818\nComments URL: https://news.ycombinator.com/item?id=50318849\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T21:19:01.837Z",
+    "published": "Sat, 31 Oct 2026 18:48:53 +0000"
+  },
+  {
+    "url": "https://github.com/khalilgharbaoui/opencode-claude-code-plugin",
+    "title": "Show HN: Run Claude Code inside OpenCode through the official CLI",
+    "description": "Article URL: https://github.com/khalilgharbaoui/opencode-claude-code-plugin\nComments URL: https://news.ycombinator.com/item?id=50318664\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T21:19:01.837Z",
+    "published": "Sat, 31 Oct 2026 18:32:12 +0000"
+  },
+  {
+    "url": "https://hyperparameter.space/blog/software-is-eating-ai/",
+    "title": "Software is Eating AI (2017)",
+    "description": "Article URL: https://hyperparameter.space/blog/software-is-eating-ai/\nComments URL: https://news.ycombinator.com/item?id=50318620\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T21:19:01.837Z",
+    "published": "Sat, 31 Oct 2026 18:27:27 +0000"
+  },
+  {
+    "url": "https://www.arxo.io/findings/ARXO-2026-0413/",
+    "title": "Two EU AI Act translations use FLOPs/s instead of cumulative FLOPs",
+    "description": "Article URL: https://www.arxo.io/findings/ARXO-2026-0413/\nComments URL: https://news.ycombinator.com/item?id=50318494\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T21:19:01.837Z",
+    "published": "Sat, 31 Oct 2026 18:14:17 +0000"
+  },
+  {
+    "url": "https://github.com/contextuai/hey-spark",
+    "title": "Show HN: Hey Spark – open-source voice assistant for your laptop, any LLM brain",
+    "description": "Article URL: https://github.com/contextuai/hey-spark\nComments URL: https://news.ycombinator.com/item?id=50318453\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T21:19:01.837Z",
+    "published": "Sat, 31 Oct 2026 18:09:19 +0000"
+  },
+  {
+    "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+    "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+    "description": "https://www.microsoft.com/en-us/research/wp-content/uploads/...\n\nComments URL: https://news.ycombinator.com/item?id=50318401\nPoints: 67\n# Comments: 43",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T21:19:01.837Z",
+    "published": "Sat, 31 Oct 2026 18:02:29 +0000"
+  },
+  {
+    "url": "https://zenodo.org/records/21909447",
+    "title": "Sovereign Inference Mesh – Phone-native AI inference and edge compute on Android",
+    "description": "Article URL: https://zenodo.org/records/21909447\nComments URL: https://news.ycombinator.com/item?id=50318373\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-10-31T21:19:01.837Z",
+    "published": "Sat, 31 Oct 2026 17:59:27 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
+    "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
+    "description": "Anthropic is expanding its text watermark to four more Claude models to meet the EU AI Act's December deadline. On the older models Claude Opus 4.6 and Sonnet 4.6, developers can bypass the watermark by tweaking a single sampling parameter. Anthropic addresses the loophole with just a compl",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-10-31T21:19:10.208Z",
+    "published": "Sat, 31 Oct 2026 19:20:55 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2302450/why-apple-airpods-wont-connect-to-iphone-fixes/",
+    "title": "Why your Apple AirPods won't connect to your iPhone and how can you fix it",
+    "description": "When your AirPods refuse to show up on your iPhone, the cause is usually simpler than you'd think. Here's where to look first and what to try next.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-31T21:19:25.058Z",
+    "published": "Sat, 31 Oct 2026 21:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2302431/brandon-stirrup-xbox-manager-says-ai-used-game-development/",
+    "title": "Xbox manager says AI is already being used in game development",
+    "description": "Brandon Stirrup deleted his comments from X a day after saying that AI usage is widespread in the gaming industry.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-31T21:19:25.058Z",
+    "published": "Sat, 31 Oct 2026 20:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2298547/why-mac-keeps-disconnecting-airpods/",
+    "title": "Why your AirPods keep disconnecting without warning: These settings can fix it",
+    "description": "Handy features of your AirPods can be overzealous, leading to disconnections and unwanted device swapping.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-31T21:19:25.058Z",
+    "published": "Sat, 31 Oct 2026 18:45:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2300253/how-to-use-claude-duet/",
+    "title": "How to use Claude Duet when it rolls out to you",
+    "description": "For now, you&#39;ll need to first join a waitlist.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-10-31T21:19:25.058Z",
+    "published": "Sat, 31 Oct 2026 18:30:00 +0000"
   }
 ]
