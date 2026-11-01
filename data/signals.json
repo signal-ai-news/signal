@@ -14691,7 +14691,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-08-04T16:25:35.174Z",
-    "published": "Tue, 04 Aug 2026 15:21:14 +0000"
+    "published": "Tue, 04 Aug 2026 15:21:14 +0000",
+    "processed": true,
+    "processedAt": "2026-11-01T06:44:25.800Z"
   },
   {
     "url": "https://the-decoder.com/silicon-valleys-rift-over-open-source-pushes-back-contemplated-white-house-bans-on-chinese-ai/",
@@ -14700,7 +14702,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-08-04T16:25:35.174Z",
-    "published": "Tue, 04 Aug 2026 12:23:43 +0000"
+    "published": "Tue, 04 Aug 2026 12:23:43 +0000",
+    "processed": true,
+    "processedAt": "2026-11-01T06:44:25.800Z"
   },
   {
     "url": "https://the-decoder.com/openai-fires-back-at-apples-trade-secret-lawsuit-with-chat-logs-showing-apple-employees-kept-texting-their-former-colleague/",
@@ -14709,7 +14713,9 @@
     "source": "The Decoder",
     "category": "news",
     "discovered": "2026-08-04T16:25:35.174Z",
-    "published": "Tue, 04 Aug 2026 10:22:53 +0000"
+    "published": "Tue, 04 Aug 2026 10:22:53 +0000",
+    "processed": true,
+    "processedAt": "2026-11-01T06:44:25.800Z"
   },
   {
     "url": "https://www.wired.com/story/ai-tells-detection-world-series-of-poker-espn/",
@@ -96927,5 +96933,27 @@
     "category": "news",
     "discovered": "2026-11-01T00:21:17.077Z",
     "published": "Sat, 31 Oct 2026 23:30:00 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-startups/the-bengaluru-founder-building-a-bridge-to-san-francisco",
+    "title": "The Bengaluru Founder Building a Bridge to San Francisco",
+    "description": "Indian engineers found that replicating San Francisco’s model wasn’t enough to scale. Success required a deeper understanding of user behaviour and engagement,",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-01T06:42:14.840Z",
+    "published": "Sun, 01 Nov 2026 06:23:32 GMT",
+    "processed": true,
+    "processedAt": "2026-11-01T06:44:25.802Z"
+  },
+  {
+    "url": "https://www.engadget.com/2300213/3d-printer-expensive-hobbies-where-it-saves-money/",
+    "title": "5 expensive hobbies where owning a 3D printer actually saves you money",
+    "description": "While a personal 3D printer is certainly an investment, if you regularly engage with an expensive hobby, it might actually save you some cash.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-01T06:42:17.003Z",
+    "published": "Sun, 01 Nov 2026 00:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-01T06:44:25.802Z"
   }
 ]
