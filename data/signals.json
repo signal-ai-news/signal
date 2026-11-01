@@ -96854,5 +96854,78 @@
     "category": "news",
     "discovered": "2026-10-31T21:19:25.058Z",
     "published": "Sat, 31 Oct 2026 18:30:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+    "description": "Apple's new CEO defended the company's current position in the AI landscape.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-01T00:20:45.159Z",
+    "published": "Sat, 31 Oct 2026 21:41:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-01T00:23:23.428Z"
+  },
+  {
+    "url": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram",
+    "title": "Writing was flagged as AI. What does that mean?",
+    "description": "Article URL: https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram\nComments URL: https://news.ycombinator.com/item?id=50321323\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T00:20:51.833Z",
+    "published": "Sat, 31 Oct 2026 23:37:51 +0000",
+    "processed": true,
+    "processedAt": "2026-11-01T00:23:23.428Z"
+  },
+  {
+    "url": "https://www.yoursai.in",
+    "title": "Yours.ai- a Studio for Interesting Ideas",
+    "description": "Article URL: https://www.yoursai.in\nComments URL: https://news.ycombinator.com/item?id=50321102\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T00:20:51.833Z",
+    "published": "Sat, 31 Oct 2026 23:04:53 +0000",
+    "processed": true,
+    "processedAt": "2026-11-01T00:23:23.428Z"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-10-29/computer-science-degree-programs-lose-students-as-ai-takes-jobs",
+    "title": "Computer Science Programs Lose Students as AI Replaces Jobs",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-10-29/computer-science-degree-programs-lose-students-as-ai-takes-jobs\nComments URL: https://news.ycombinator.com/item?id=50321065\nPoints: 13\n# Comments: 8",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T00:20:51.833Z",
+    "published": "Sat, 31 Oct 2026 22:57:27 +0000",
+    "processed": true,
+    "processedAt": "2026-11-01T00:23:23.428Z"
+  },
+  {
+    "url": "https://ai.pt/en/news/coimbra-s-critical-software-is-rebuilding-itself-around-ai-after-laying-0c3e56/",
+    "title": "Critical Software is rebuilding itself around AI (200 ppl being layed off)",
+    "description": "Article URL: https://ai.pt/en/news/coimbra-s-critical-software-is-rebuilding-itself-around-ai-after-laying-0c3e56/\nComments URL: https://news.ycombinator.com/item?id=50320683\nPoints: 2\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T00:20:51.833Z",
+    "published": "Sat, 31 Oct 2026 22:01:31 +0000",
+    "processed": true,
+    "processedAt": "2026-11-01T00:23:23.428Z"
+  },
+  {
+    "url": "https://consumerrights.wiki/w/Proton_senior_management_prioritizes_AI_over_security",
+    "title": "Proton senior management prioritizes AI over security",
+    "description": "Article URL: https://consumerrights.wiki/w/Proton_senior_management_prioritizes_AI_over_security\nComments URL: https://news.ycombinator.com/item?id=50320681\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T00:20:51.833Z",
+    "published": "Sat, 31 Oct 2026 22:01:11 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2300231/why-airpods-battery-drains-fast-how-to-fix/",
+    "title": "Why your Apple AirPods' battery drains so fast and how to make it last longer",
+    "description": "It&#39;s annoying when your Apple AirPods run out of juice, but the culprit might not be what you think. Here&#39;s what&#39;s going on and what you can do about it.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-01T00:21:17.077Z",
+    "published": "Sat, 31 Oct 2026 23:30:00 +0000"
   }
 ]
