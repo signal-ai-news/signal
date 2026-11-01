@@ -97461,5 +97461,204 @@
     "category": "news",
     "discovered": "2026-11-01T19:05:55.467Z",
     "published": "Sun, 01 Nov 2026 15:30:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+    "description": "Data centers are deeply unpopular. But what if we called them something else?",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-01T22:58:30.610Z",
+    "published": "Sun, 01 Nov 2026 21:55:23 +0000",
+    "processed": true,
+    "processedAt": "2026-11-01T23:01:08.140Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+    "description": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-01T22:58:30.610Z",
+    "published": "Sun, 01 Nov 2026 20:57:58 +0000",
+    "processed": true,
+    "processedAt": "2026-11-01T23:01:08.140Z"
+  },
+  {
+    "url": "https://brasspage.com/alive/",
+    "title": "An AI runs a tiny web studio with a year to earn its existence",
+    "description": "Article URL: https://brasspage.com/alive/\nComments URL: https://news.ycombinator.com/item?id=50330716\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T22:58:38.528Z",
+    "published": "Sun, 01 Nov 2026 22:46:33 +0000",
+    "processed": true,
+    "processedAt": "2026-11-01T23:01:08.140Z"
+  },
+  {
+    "url": "https://avartha.ai/blog/introducing-avartha/",
+    "title": "Avartha: Fastest open-weight frontier voice AI beats OpenAI, Google, and xAI",
+    "description": "Article URL: https://avartha.ai/blog/introducing-avartha/\nComments URL: https://news.ycombinator.com/item?id=50330585\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T22:58:38.528Z",
+    "published": "Sun, 01 Nov 2026 22:28:27 +0000",
+    "processed": true,
+    "processedAt": "2026-11-01T23:01:08.140Z"
+  },
+  {
+    "url": "https://www.cybersecuritydive.com/news/ai-hardware-model-tampering-eclypsium/873177/",
+    "title": "Hackers could poison AI models by tampering with core infrastructure",
+    "description": "Article URL: https://www.cybersecuritydive.com/news/ai-hardware-model-tampering-eclypsium/873177/\nComments URL: https://news.ycombinator.com/item?id=50330512\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T22:58:38.528Z",
+    "published": "Sun, 01 Nov 2026 22:17:13 +0000",
+    "processed": true,
+    "processedAt": "2026-11-01T23:01:08.140Z"
+  },
+  {
+    "url": "https://buenosairesherald.com/business/argentina-most-exposed-to-ai-impact-in-latin-america-study-finds",
+    "title": "Argentina most exposed to AI impact in Latin America",
+    "description": "Article URL: https://buenosairesherald.com/business/argentina-most-exposed-to-ai-impact-in-latin-america-study-finds\nComments URL: https://news.ycombinator.com/item?id=50330481\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T22:58:38.528Z",
+    "published": "Sun, 01 Nov 2026 22:13:09 +0000"
+  },
+  {
+    "url": "https://proton.me/blog/ai-manifesto",
+    "title": "Proton's AI manifesto for software engineering",
+    "description": "Article URL: https://proton.me/blog/ai-manifesto\nComments URL: https://news.ycombinator.com/item?id=50330353\nPoints: 6\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T22:58:38.528Z",
+    "published": "Sun, 01 Nov 2026 21:58:17 +0000"
+  },
+  {
+    "url": "https://prayforme.garden/garden/",
+    "title": "PrayForMe – a garden of AI agents that pray for you",
+    "description": "Article URL: https://prayforme.garden/garden/\nComments URL: https://news.ycombinator.com/item?id=50330283\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T22:58:38.528Z",
+    "published": "Sun, 01 Nov 2026 21:51:35 +0000"
+  },
+  {
+    "url": "https://www.anonce.io/",
+    "title": "Show HN: Nonce – Open-source, least-privilege Gmail access for AI agents",
+    "description": "Hi HN! We built nonce, an open-source tool that sits between personal AI agents (Muse, Grok, ChatGPT, Claude) and your personal data in Gmail, Calendar, Drive and more.Today, if you connect Gmail to an AI agent like Muse, it can read your entire inbox. Whether on purpose or not, they can read far m",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T22:58:38.528Z",
+    "published": "Sun, 01 Nov 2026 21:44:21 +0000"
+  },
+  {
+    "url": "https://kilasec.com",
+    "title": "Show HN: Building an AI Traffic Guardrail(kilasec)",
+    "description": "Show HN: An AI traffic guardrailBuilding something based on 2 decades of support experience.It's a guardrail for AI traffic where you can apply policies, redact PII and API keys, set model destinations, catch destructive actions before execution, etc.The whole thing is built with Claude and can als",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T22:58:38.528Z",
+    "published": "Sun, 01 Nov 2026 21:37:05 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.40584",
+    "title": "Early Career Researcher Responses to AI in Math",
+    "description": "Article URL: https://arxiv.org/abs/2610.40584\nComments URL: https://news.ycombinator.com/item?id=50330023\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T22:58:38.528Z",
+    "published": "Sun, 01 Nov 2026 21:21:55 +0000"
+  },
+  {
+    "url": "https://hackaday.io/project/195819-commodore-64-ai-image-generator",
+    "title": "Commodore 64 AI Image Generator",
+    "description": "Article URL: https://hackaday.io/project/195819-commodore-64-ai-image-generator\nComments URL: https://news.ycombinator.com/item?id=50330018\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T22:58:38.528Z",
+    "published": "Sun, 01 Nov 2026 21:21:10 +0000"
+  },
+  {
+    "url": "https://eltonminetto.dev/en/post/2026-10-04-platform-engineering-p5/",
+    "title": "About Platform Engineering and AI",
+    "description": "Article URL: https://eltonminetto.dev/en/post/2026-10-04-platform-engineering-p5/\nComments URL: https://news.ycombinator.com/item?id=50329989\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T22:58:38.528Z",
+    "published": "Sun, 01 Nov 2026 21:17:58 +0000"
+  },
+  {
+    "url": "https://gnosh.ai/head-to-head.html",
+    "title": "Gnosh.ai for \"Functional AI\"; functional context management, no compaction",
+    "description": "Article URL: https://gnosh.ai/head-to-head.html\nComments URL: https://news.ycombinator.com/item?id=50329860\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T22:58:38.528Z",
+    "published": "Sun, 01 Nov 2026 21:04:08 +0000"
+  },
+  {
+    "url": "https://github.com/splashxmoon/friday",
+    "title": "Friday: Run Claude Code and Codex as a crew on your computer (open source)",
+    "description": "Article URL: https://github.com/splashxmoon/friday\nComments URL: https://news.ycombinator.com/item?id=50329705\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T22:58:38.528Z",
+    "published": "Sun, 01 Nov 2026 20:48:03 +0000"
+  },
+  {
+    "url": "https://github.com/alpcanaydin/rexmod/",
+    "title": "Turn Superlogical's Rex into an AI Harness",
+    "description": "Article URL: https://github.com/alpcanaydin/rexmod/\nComments URL: https://news.ycombinator.com/item?id=50329578\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T22:58:38.528Z",
+    "published": "Sun, 01 Nov 2026 20:37:52 +0000"
+  },
+  {
+    "url": "https://slopcodemonitor.ai/",
+    "title": "Slop Code Monitor – scanned 2.6B of code to quantify AI cognitive debt",
+    "description": "Article URL: https://slopcodemonitor.ai/\nComments URL: https://news.ycombinator.com/item?id=50328840\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T22:58:38.528Z",
+    "published": "Sun, 01 Nov 2026 19:30:12 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50328797",
+    "title": "Ask HN: What mistakes did AI make in your codebase?",
+    "description": "In the past few weeks I've beeing working with frontier AI - Opus 5.5, Astra, Sol 6.1, Fable 5.1 and Gemini Argon.AI has become really good at coding in some sense, that's undeniable, and there are people that say you don't really need to review their code anymore.But I keep getting stuck in a sens",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T22:58:38.528Z",
+    "published": "Sun, 01 Nov 2026 19:25:25 +0000"
+  },
+  {
+    "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
+    "title": "Game Off 2026: The theme is SHIFT",
+    "description": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key.\nThe post Game Off 2026: The theme is SHIFT appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-11-01T22:58:50.404Z",
+    "published": "Sun, 01 Nov 2026 21:36:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2303469/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/",
+    "title": "Anthropic updates Claude to stop it from recreating existing video games",
+    "description": "Users can still lean on Claude to help with designing original or genre games.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-01T22:58:59.731Z",
+    "published": "Sun, 01 Nov 2026 21:08:32 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2303462/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution/",
+    "title": "Judge says xAI must face NAACP lawsuit on data center pollution",
+    "description": "The legal battle revolves around the AI company's operations in southern Memphis.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-01T22:58:59.731Z",
+    "published": "Sun, 01 Nov 2026 19:19:22 +0000"
   }
 ]
