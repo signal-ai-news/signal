@@ -96955,5 +96955,276 @@
     "published": "Sun, 01 Nov 2026 00:30:00 +0000",
     "processed": true,
     "processedAt": "2026-11-01T06:44:25.802Z"
+  },
+  {
+    "url": "https://github.com/mrasu/spec-guardian",
+    "title": "Show HN: Let formal specs test AI implementations",
+    "description": "Article URL: https://github.com/mrasu/spec-guardian\nComments URL: https://news.ycombinator.com/item?id=50325878\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T14:11:45.476Z",
+    "published": "Sun, 01 Nov 2026 14:11:06 +0000",
+    "processed": true,
+    "processedAt": "2026-11-01T14:14:08.557Z"
+  },
+  {
+    "url": "https://latent.space/p/opus55/",
+    "title": "Anthropic Ships Claude with Claude: Separating the Brain from the Hands",
+    "description": "Article URL: https://latent.space/p/opus55/\nComments URL: https://news.ycombinator.com/item?id=50325787\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T14:11:45.476Z",
+    "published": "Sun, 01 Nov 2026 14:02:22 +0000",
+    "processed": true,
+    "processedAt": "2026-11-01T14:14:08.557Z"
+  },
+  {
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+    "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+    "description": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy\nComments URL: https://news.ycombinator.com/item?id=50325662\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T14:11:45.476Z",
+    "published": "Sun, 01 Nov 2026 13:47:24 +0000",
+    "processed": true,
+    "processedAt": "2026-11-01T14:14:08.557Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50325635",
+    "title": "Ask HN: What is a good open-weight alternative to Claude Code?",
+    "description": "I spin up a Claude code session for everything, including non coding related tasks. I love the terminal interface. What is a good alternative to try?\n\nComments URL: https://news.ycombinator.com/item?id=50325635\nPoints: 1\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T14:11:45.476Z",
+    "published": "Sun, 01 Nov 2026 13:43:57 +0000",
+    "processed": true,
+    "processedAt": "2026-11-01T14:14:08.557Z"
+  },
+  {
+    "url": "https://github.com/VictorTaelin/uniichat",
+    "title": "Uniichat: Use a single LLM chat forever",
+    "description": "Article URL: https://github.com/VictorTaelin/uniichat\nComments URL: https://news.ycombinator.com/item?id=50325634\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T14:11:45.476Z",
+    "published": "Sun, 01 Nov 2026 13:43:51 +0000",
+    "processed": true,
+    "processedAt": "2026-11-01T14:14:08.557Z"
+  },
+  {
+    "url": "https://anurbasic.com/blog/live-by-the-claude/",
+    "title": "Live by the Claude, Die by the Claude",
+    "description": "Article URL: https://anurbasic.com/blog/live-by-the-claude/\nComments URL: https://news.ycombinator.com/item?id=50325615\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T14:11:45.476Z",
+    "published": "Sun, 01 Nov 2026 13:42:08 +0000"
+  },
+  {
+    "url": "https://thoughts.wyounas.com/p/what-does-good-ai-mean",
+    "title": "What does good AI mean?",
+    "description": "Article URL: https://thoughts.wyounas.com/p/what-does-good-ai-mean\nComments URL: https://news.ycombinator.com/item?id=50325593\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T14:11:45.476Z",
+    "published": "Sun, 01 Nov 2026 13:39:34 +0000"
+  },
+  {
+    "url": "https://www.economist.com/by-invitation/2026/10/28/ai-is-a-technological-version-of-the-homeric-songs",
+    "title": "AI is a technological version of the Homeric songs",
+    "description": "Article URL: https://www.economist.com/by-invitation/2026/10/28/ai-is-a-technological-version-of-the-homeric-songs\nComments URL: https://news.ycombinator.com/item?id=50325580\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T14:11:45.476Z",
+    "published": "Sun, 01 Nov 2026 13:38:09 +0000"
+  },
+  {
+    "url": "https://medium.com/@vishwanathanraman/vibe-coding-an-autonomous-agent-harness-in-go-from-zero-to-self-healing-ai-workflows-785d82f981b6",
+    "title": "Vibe Coding an Autonomous Agent Harness in Go: Self-Healing AI Workflows",
+    "description": "Article URL: https://medium.com/@vishwanathanraman/vibe-coding-an-autonomous-agent-harness-in-go-from-zero-to-self-healing-ai-workflows-785d82f981b6\nComments URL: https://news.ycombinator.com/item?id=50325578\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T14:11:45.476Z",
+    "published": "Sun, 01 Nov 2026 13:37:38 +0000"
+  },
+  {
+    "url": "https://www.programmablemutter.com/p/agentic-ai-is-myth-set-in-motion",
+    "title": "Agentic AI is myth set in motion",
+    "description": "Article URL: https://www.programmablemutter.com/p/agentic-ai-is-myth-set-in-motion\nComments URL: https://news.ycombinator.com/item?id=50325547\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T14:11:45.476Z",
+    "published": "Sun, 01 Nov 2026 13:34:05 +0000"
+  },
+  {
+    "url": "https://joshbocanegra.medium.com/a-90-chance-of-ai-saving-humanity-bf12fb7914ee",
+    "title": "A 90% Chance of AI Saving Humanity",
+    "description": "Article URL: https://joshbocanegra.medium.com/a-90-chance-of-ai-saving-humanity-bf12fb7914ee\nComments URL: https://news.ycombinator.com/item?id=50325398\nPoints: 7\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T14:11:45.476Z",
+    "published": "Sun, 01 Nov 2026 13:19:04 +0000"
+  },
+  {
+    "url": "https://www.cnn.com/2026/10/30/business/ai-stocks-bonds-debt",
+    "title": "The question we should all be asking about AI",
+    "description": "Article URL: https://www.cnn.com/2026/10/30/business/ai-stocks-bonds-debt\nComments URL: https://news.ycombinator.com/item?id=50325107\nPoints: 11\n# Comments: 6",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T14:11:45.476Z",
+    "published": "Sun, 01 Nov 2026 12:44:36 +0000"
+  },
+  {
+    "url": "https://github.com/mksglu/context-mode",
+    "title": "Context Mode – An Open-Source MCP Server That Reduces AI Coding Context Usage",
+    "description": "Article URL: https://github.com/mksglu/context-mode\nComments URL: https://news.ycombinator.com/item?id=50324789\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T14:11:45.476Z",
+    "published": "Sun, 01 Nov 2026 11:56:19 +0000"
+  },
+  {
+    "url": "https://www.eyosias.dev/case-studies/ai-mailbox-analysis",
+    "title": "When AI Writes the Code, Show Your Judgment",
+    "description": "Article URL: https://www.eyosias.dev/case-studies/ai-mailbox-analysis\nComments URL: https://news.ycombinator.com/item?id=50324711\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T14:11:45.476Z",
+    "published": "Sun, 01 Nov 2026 11:44:25 +0000"
+  },
+  {
+    "url": "https://agenticresourcediscovery.org/",
+    "title": "Will Agent Resource Registries ever have their moment, the way AI gateways did?",
+    "description": "Article URL: https://agenticresourcediscovery.org/\nComments URL: https://news.ycombinator.com/item?id=50324679\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T14:11:45.476Z",
+    "published": "Sun, 01 Nov 2026 11:39:35 +0000"
+  },
+  {
+    "url": "https://github.com/Marius-Adam/claude-files-pane/blob/main/docs/demo.gif",
+    "title": "See what Claude Code reads and edits, live, in a file tree",
+    "description": "Article URL: https://github.com/Marius-Adam/claude-files-pane/blob/main/docs/demo.gif\nComments URL: https://news.ycombinator.com/item?id=50324528\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T14:11:45.476Z",
+    "published": "Sun, 01 Nov 2026 11:16:55 +0000"
+  },
+  {
+    "url": "https://github.com/seeeeew/aiwarningforsteam",
+    "title": "AI Warning for Steam – Increases Visibility of AI Generated Content Disclosures",
+    "description": "Article URL: https://github.com/seeeeew/aiwarningforsteam\nComments URL: https://news.ycombinator.com/item?id=50324387\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T14:11:45.476Z",
+    "published": "Sun, 01 Nov 2026 10:47:55 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50324343",
+    "title": "Tell HN: Claude Code now defaults to Haiku 5.5",
+    "description": "> Claude Code v2.1.316\n> Haiku 5.5 · Claude Pro\n> /model\n>   1.  Default (recommended)  Haiku 5.5\n\nComments URL: https://news.ycombinator.com/item?id=50324343\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T14:11:45.476Z",
+    "published": "Sun, 01 Nov 2026 10:40:10 +0000"
+  },
+  {
+    "url": "https://huggingface.co/divagr1925/QwenPU",
+    "title": "QwenPU: An LLM running inside another LLM's weights",
+    "description": "Article URL: https://huggingface.co/divagr1925/QwenPU\nComments URL: https://news.ycombinator.com/item?id=50324179\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-01T14:11:45.476Z",
+    "published": "Sun, 01 Nov 2026 10:15:39 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/fix-the-image-not-the-prompt/",
+    "title": "Fix the Image, Not the Prompt",
+    "description": "Vision models often fail before they even start reasoning. A few well-placed labels on the image fix more than any prompt tweak.\nThe post Fix the Image, Not the Prompt appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-01T14:11:50.394Z",
+    "published": "Sun, 01 Nov 2026 14:00:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/a-neural-network-learned-to-read-digits-from-pure-noise/",
+    "title": "A Neural Network Learned to Read Digits From Pure Noise",
+    "description": "A small NumPy reproduction of subliminal learning, and a short argument for why it works\nThe post A Neural Network Learned to Read Digits From Pure Noise appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-01T14:11:50.394Z",
+    "published": "Sun, 01 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/chinese-ai-models-are-politically-complex-not-just-government-mouthpieces-study-finds/",
+    "title": "Chinese AI models are politically complex, not just government mouthpieces, study finds",
+    "description": "A study by Vals AI tested 25 AI models for alignment with Chinese government positions and found surprising results. Chinese models respond to political questions less uniformly than expected, and Western models occasionally adopt official Beijing positions too. The language of the prompt h",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-01T14:11:51.953Z",
+    "published": "Sun, 01 Nov 2026 12:33:01 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/",
+    "title": "OpenAI is steering ChatGPT users toward more paid usage",
+    "description": "OpenAI is now capping the number of paid ChatGPT accounts per device and payment card. Users who hit the limit can't start new subscriptions, and affected accounts can't be used on that device. Logging out doesn't automatically free up a spot. The policy will likely hit users who've been ju",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-01T14:11:51.953Z",
+    "published": "Sun, 01 Nov 2026 12:05:04 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/google-wants-video-ai-to-understand-what-people-need-as-they-workgoogle-researchers-are-teaching-a-video-assistant-when-to-offer-help/",
+    "title": "Google wants video AI to understand what people need as they work",
+    "description": "A Google-led research team built StreamVibe, a video agent designed to watch people cook or assemble furniture and speak up only when help is needed. A benchmark shows that none of the tested models reliably pick the right moment in longer videos, as errors compound and response quality dro",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-01T14:11:51.953Z",
+    "published": "Sun, 01 Nov 2026 11:25:21 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/",
+    "title": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing",
+    "description": "OpenAI combines the Chat and Work modes into a single interface. Starting in December, Plus, Pro, and Business plans will share a common, token-based quota for ChatGPT and Codex. More complex models consume more of this quota, while simple instant chats do not count toward it. In practice,",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-01T14:11:51.953Z",
+    "published": "Sun, 01 Nov 2026 09:51:06 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+    "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+    "description": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-01T14:11:57.047Z",
+    "published": "Sun, 01 Nov 2026 10:30:00 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/",
+    "title": "Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon",
+    "description": "Nace AI open-sources Drex Max v1, a 27B multimodal decision model scoring 67.52 that runs on Apple Silicon.\nThe post Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon appeared first on MarkTechPost.",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-01T14:11:58.786Z",
+    "published": "Sun, 01 Nov 2026 08:10:07 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/",
+    "title": "DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent",
+    "description": "DeepSeek released dsh-superagent, an MIT-licensed research prototype that turns GitHub and Feishu requests into parallel worker sessions. In DeepSeek’s own simulation, p95 task completion fell to 15.7 minutes from 29.5 minutes.\nThe post DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Ag",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-01T14:11:58.786Z",
+    "published": "Sun, 01 Nov 2026 07:47:17 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2300272/how-to-know-tv-too-big-for-any-room/",
+    "title": "Here's how to know if your TV is too big for any room",
+    "description": "When purchasing a television, this first instinct is to go big. But before choosing a model, make sure it won&#39;t overpower the room.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-01T14:12:03.089Z",
+    "published": "Sun, 01 Nov 2026 13:45:00 +0000"
   }
 ]
