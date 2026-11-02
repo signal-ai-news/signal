@@ -14724,7 +14724,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-08-04T16:25:42.334Z",
-    "published": "Tue, 04 Aug 2026 11:00:00 +0000"
+    "published": "Tue, 04 Aug 2026 11:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-02T02:18:50.584Z"
   },
   {
     "url": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck/",
@@ -97660,5 +97662,49 @@
     "category": "news",
     "discovered": "2026-11-01T22:58:59.731Z",
     "published": "Sun, 01 Nov 2026 19:19:22 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2300332/how-long-new-apple-tv-last-lifespan/",
+    "title": "How long is a new Apple TV actually supposed to last?",
+    "description": "Past Apple TV models have seen excellent support from Apple compared to some other product lines, but it&#39;s not a guarantee.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-02T02:16:45.028Z",
+    "published": "Mon, 02 Nov 2026 01:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-02T02:18:50.588Z"
+  },
+  {
+    "url": "https://www.engadget.com/2300324/android-auto-next-update-could-upset-work-life-balance/",
+    "title": "Android Auto could upset your work-life balance with its next update",
+    "description": "A hidden toggle buried in the Android Auto app&#39;s code isn&#39;t functional yet. Here&#39;s what it could do, what it might not, and what Google hasn&#39;t said so far.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-02T02:16:45.028Z",
+    "published": "Mon, 02 Nov 2026 00:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-02T02:18:50.588Z"
+  },
+  {
+    "url": "https://www.engadget.com/2300320/ai-glasses-replace-prescription-should-they/",
+    "title": "AI glasses can replace your prescription glasses, but should they?",
+    "description": "You can easily get AI glasses with prescription if you need them, but before making the investment, it&#39;s recommended to learn the pros and cons of them.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-02T02:16:45.028Z",
+    "published": "Mon, 02 Nov 2026 00:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-02T02:18:50.588Z"
+  },
+  {
+    "url": "https://www.engadget.com/2300309/how-to-clean-playstation-5-without-damaging/",
+    "title": "How to clean your PlayStation 5 without damaging it",
+    "description": "Your PS5 requires occasional maintenance to run at its best, but it only needs a light touch.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-02T02:16:45.028Z",
+    "published": "Sun, 01 Nov 2026 23:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-02T02:18:50.588Z"
   }
 ]
