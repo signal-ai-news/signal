@@ -97706,5 +97706,258 @@
     "published": "Sun, 01 Nov 2026 23:00:00 +0000",
     "processed": true,
     "processedAt": "2026-11-02T02:18:50.588Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+    "title": "The agentic web is here",
+    "description": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous softw",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-02T09:51:38.592Z",
+    "published": "Mon, 02 Nov 2026 09:35:19 +0000",
+    "processed": true,
+    "processedAt": "2026-11-02T09:54:11.291Z"
+  },
+  {
+    "url": "https://bringYourOwnBrain.org",
+    "title": "Show HN: Zero-knowledge zero-overhead LLM routing mesh using pure web primitives",
+    "description": "Article URL: https://bringYourOwnBrain.org\nComments URL: https://news.ycombinator.com/item?id=50334812\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-02T09:51:43.339Z",
+    "published": "Mon, 02 Nov 2026 09:45:58 +0000",
+    "processed": true,
+    "processedAt": "2026-11-02T09:54:11.291Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50334714",
+    "title": "Ask HW: Best frontier AI model for mind map generation?",
+    "description": "For my children, \n I need to generate mindmaps from image taken from books.I want to use a frontier model (i.e. Claude, Mistral, ChatGPT, Grok...) but I want the most effective in terms of cost and quality.I was not impressed so much by Mapify or NotebookLM.Do you have some skills / suggestions / s",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-02T09:51:43.339Z",
+    "published": "Mon, 02 Nov 2026 09:30:12 +0000",
+    "processed": true,
+    "processedAt": "2026-11-02T09:54:11.291Z"
+  },
+  {
+    "url": "https://twitter.com/bookwormengr/status/2116705246856741114",
+    "title": "Jevons paradox is lazy analysis: Evaluating the risk of AI overbuilding",
+    "description": "Article URL: https://twitter.com/bookwormengr/status/2116705246856741114\nComments URL: https://news.ycombinator.com/item?id=50334627\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-02T09:51:43.339Z",
+    "published": "Mon, 02 Nov 2026 09:16:24 +0000",
+    "processed": true,
+    "processedAt": "2026-11-02T09:54:11.291Z"
+  },
+  {
+    "url": "https://lwn.net/Articles/1104210/",
+    "title": "Haas: Postgres 19 is late, and it's AI's fault",
+    "description": "Article URL: https://lwn.net/Articles/1104210/\nComments URL: https://news.ycombinator.com/item?id=50334549\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-02T09:51:43.339Z",
+    "published": "Mon, 02 Nov 2026 09:04:15 +0000",
+    "processed": true,
+    "processedAt": "2026-11-02T09:54:11.291Z"
+  },
+  {
+    "url": "https://github.com/Jyotishmoy12/AgentTM",
+    "title": "Show HN: AgentTM – A time-travel debugger for AI coding agents built in Go",
+    "description": "Article URL: https://github.com/Jyotishmoy12/AgentTM\nComments URL: https://news.ycombinator.com/item?id=50334503\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-02T09:51:43.339Z",
+    "published": "Mon, 02 Nov 2026 08:54:58 +0000"
+  },
+  {
+    "url": "https://scrollytelling.ai/what-jobs-will-ai-replace/",
+    "title": "Google Trends data on \"will AI replace [job]\" searches for 56 jobs",
+    "description": "Article URL: https://scrollytelling.ai/what-jobs-will-ai-replace/\nComments URL: https://news.ycombinator.com/item?id=50334341\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-02T09:51:43.339Z",
+    "published": "Mon, 02 Nov 2026 08:25:35 +0000"
+  },
+  {
+    "url": "https://www.gorillasun.de/blog/creative-coding-in-the-age-of-ai/",
+    "title": "Creative Coding in the Age of AI",
+    "description": "Article URL: https://www.gorillasun.de/blog/creative-coding-in-the-age-of-ai/\nComments URL: https://news.ycombinator.com/item?id=50334149\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-02T09:51:43.339Z",
+    "published": "Mon, 02 Nov 2026 07:46:06 +0000"
+  },
+  {
+    "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+    "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+    "description": "Article URL: https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/\nComments URL: https://news.ycombinator.com/item?id=50334038\nPoints: 33\n# Comments: 22",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-02T09:51:43.339Z",
+    "published": "Mon, 02 Nov 2026 07:27:28 +0000"
+  },
+  {
+    "url": "https://www.adka.ai",
+    "title": "ADKA AI",
+    "description": "Article URL: https://www.adka.ai\nComments URL: https://news.ycombinator.com/item?id=50334007\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-02T09:51:43.339Z",
+    "published": "Mon, 02 Nov 2026 07:22:21 +0000"
+  },
+  {
+    "url": "https://github.com/HandsOnLLM/An-Illustrated-Guide-To-AI-Agents",
+    "title": "An Illustrated Guide to AI Agents",
+    "description": "Article URL: https://github.com/HandsOnLLM/An-Illustrated-Guide-To-AI-Agents\nComments URL: https://news.ycombinator.com/item?id=50334004\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-02T09:51:43.339Z",
+    "published": "Mon, 02 Nov 2026 07:22:02 +0000"
+  },
+  {
+    "url": "https://twitter.com/Nandakishorm1/status/2117000769148957070",
+    "title": "Decision model-based tool call guardrails for Claude Code, Codex, and Cursor",
+    "description": "Article URL: https://twitter.com/Nandakishorm1/status/2117000769148957070\nComments URL: https://news.ycombinator.com/item?id=50333981\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-02T09:51:43.339Z",
+    "published": "Mon, 02 Nov 2026 07:18:38 +0000"
+  },
+  {
+    "url": "https://github.com/shipvo/shipvo",
+    "title": "Show HN: Shipvo – open-source RN OTA updates and an AI-drivable simulator",
+    "description": "Article URL: https://github.com/shipvo/shipvo\nComments URL: https://news.ycombinator.com/item?id=50333957\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-02T09:51:43.339Z",
+    "published": "Mon, 02 Nov 2026 07:13:44 +0000"
+  },
+  {
+    "url": "https://www.jonpeddie.com/news/blaize-gsp-streams-ai-graphs-at-the-edge/",
+    "title": "Blaize GSP [Graph Streaming Processor] Streams AI Graphs at the Edge",
+    "description": "Article URL: https://www.jonpeddie.com/news/blaize-gsp-streams-ai-graphs-at-the-edge/\nComments URL: https://news.ycombinator.com/item?id=50333885\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-02T09:51:43.339Z",
+    "published": "Mon, 02 Nov 2026 07:01:25 +0000"
+  },
+  {
+    "url": "https://github.com/chalmagean/diffreview",
+    "title": "Diffreview – code review for local Claude diffs",
+    "description": "Article URL: https://github.com/chalmagean/diffreview\nComments URL: https://news.ycombinator.com/item?id=50333783\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-02T09:51:43.339Z",
+    "published": "Mon, 02 Nov 2026 06:41:40 +0000"
+  },
+  {
+    "url": "https://github.com/gmkurtzer/ginux",
+    "title": "Rocky Linux Creator Built a New 'Not Linux' Kernel in 11 Days Using AI",
+    "description": "Article URL: https://github.com/gmkurtzer/ginux\nComments URL: https://news.ycombinator.com/item?id=50333727\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-02T09:51:43.339Z",
+    "published": "Mon, 02 Nov 2026 06:28:56 +0000"
+  },
+  {
+    "url": "https://maheshba.bitbucket.io/blog/2026/07/22/agentdesign.html",
+    "title": "The Bottlenecks for AI-Driven System Design: why Principals are not yet obsolete",
+    "description": "Article URL: https://maheshba.bitbucket.io/blog/2026/07/22/agentdesign.html\nComments URL: https://news.ycombinator.com/item?id=50333584\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-02T09:51:43.339Z",
+    "published": "Mon, 02 Nov 2026 06:00:59 +0000"
+  },
+  {
+    "url": "https://twitter.com/wallstengine/status/2115933466361753652",
+    "title": "Amazon plans to start selling Trainium AI chips outside AWS",
+    "description": "Article URL: https://twitter.com/wallstengine/status/2115933466361753652\nComments URL: https://news.ycombinator.com/item?id=50333573\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-02T09:51:43.339Z",
+    "published": "Mon, 02 Nov 2026 05:59:07 +0000"
+  },
+  {
+    "url": "https://www.willmunn.xyz/gemini/python/2026/10/16/we-have-lift-off.html",
+    "title": "We have lift off: building a Gemini server in Python",
+    "description": "Article URL: https://www.willmunn.xyz/gemini/python/2026/10/16/we-have-lift-off.html\nComments URL: https://news.ycombinator.com/item?id=50333531\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-02T09:51:43.340Z",
+    "published": "Mon, 02 Nov 2026 05:50:07 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/01/nvidia-auto-ontology-open-source-semantic-layer-ai-agents/",
+    "title": "NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL",
+    "description": "NVIDIA released Auto Ontology, an Apache 2.0 library that generates a semantic layer from enterprise metadata. It grounds agent SQL in certified definitions and serves context through MCP, CLI and API.\nThe post NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL appeared",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-02T09:51:59.941Z",
+    "published": "Mon, 02 Nov 2026 07:47:12 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/01/qwengpu-simt-gpu-compiled-into-qwen3-5-2b-weights-runs-cuda/",
+    "title": "Meet qwenGPU: Qwen3.5-2B With 45 Compiled GPU Layers That Run CUDA",
+    "description": "qwenGPU compiles a 4-lane SIMT GPU into Qwen3.5-2B as 45 untrained layers. The model writes every step of real CUDA launches itself, using Gated DeltaNet state as registers and memory.\nThe post Meet qwenGPU: Qwen3.5-2B With 45 Compiled GPU Layers That Run CUDA appeared first on MarkTechPost.",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-02T09:51:59.941Z",
+    "published": "Mon, 02 Nov 2026 07:28:29 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-highlights/top-test-management-solutions-for-end-to-end-testing",
+    "title": "Top Test Management Solutions for End-to-End Testing",
+    "description": "The right test management solutions help teams organise testing, track execution, maintain traceability, and improve software quality across the development lif",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-02T09:52:02.892Z",
+    "published": "Mon, 02 Nov 2026 08:55:42 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/deep-tech-and-green-finance-to-drive-indias-climate-investments-in-2027",
+    "title": "Deep-Tech and Green Finance to Drive India’s Climate Investments in 2027",
+    "description": "Climate Tech Investment: Ostara Advisors says deep-tech, energy storage and green financing will lead India's climate-tech investment in 2027.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-02T09:52:02.892Z",
+    "published": "Mon, 02 Nov 2026 08:46:59 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/indias-frontier-ai-race-gets-a-240m-model-that-beats-liquid-ai",
+    "title": "India’s Frontier AI Race Gets a 240M Model That Beats Liquid AI",
+    "description": "NeuroDX’s Sphota claims 50x greater training data efficiency and 4.5x better memory efficiency than a comparable Liquid AI model.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-02T09:52:02.892Z",
+    "published": "Mon, 02 Nov 2026 07:28:07 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/googles-project-suncatcher-satellite-generates-first-ai-response-in-orbit",
+    "title": "Google’s Project Suncatcher Satellite Generates First AI Response in Orbit",
+    "description": "Google's Project Suncatcher satellite has successfully generated its first AI response in orbit, marking a milestone in AI in space research.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-02T09:52:02.892Z",
+    "published": "Mon, 02 Nov 2026 07:13:09 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/deepseek-proposes-super-agent-architecture-to-automate-ai-coding-workflows",
+    "title": "DeepSeek Proposes Super-Agent Architecture to Automate AI Coding Workflows",
+    "description": "The proposed system reported a 15.7-minute 95th-percentile task completion time in simulated tests, compared with 29.5 minutes for a single-session approach.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-02T09:52:02.892Z",
+    "published": "Mon, 02 Nov 2026 06:32:26 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/arrowhead-ai-launches-fletch-voice-model-for-multilingual-customer-calls",
+    "title": "Arrowhead AI Launches Fletch Voice Model for Multilingual Customer Calls",
+    "description": "Arrowhead AI's Fletch model enhances multilingual customer calls with improved pronunciation and emotional tone, supporting 14 languages.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-02T09:52:02.892Z",
+    "published": "Mon, 02 Nov 2026 05:38:38 GMT"
   }
 ]
