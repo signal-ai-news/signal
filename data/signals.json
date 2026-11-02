@@ -97959,5 +97959,366 @@
     "category": "ml",
     "discovered": "2026-11-02T09:52:02.892Z",
     "published": "Mon, 02 Nov 2026 05:38:38 GMT"
+  },
+  {
+    "url": "https://openai.com/index/grid-protectors-program",
+    "title": "Introducing the Grid Protectors Program",
+    "description": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-02T20:09:46.538Z",
+    "published": "Mon, 02 Nov 2026 15:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-02T20:12:30.335Z"
+  },
+  {
+    "url": "https://openai.com/index/lifeval",
+    "title": "LifeVal",
+    "description": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-02T20:09:46.538Z",
+    "published": "Mon, 02 Nov 2026 09:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-02T20:12:30.335Z"
+  },
+  {
+    "url": "https://openai.com/index/qodo-codex-plugin",
+    "title": "Qodo builds context into AI code review with Codex",
+    "description": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-02T20:09:46.538Z",
+    "published": "Mon, 02 Nov 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-02T20:12:30.335Z"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+    "title": "The latest AI news we announced in October 2026",
+    "description": "Here are Google’s latest AI updates from October 2026",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-11-02T20:09:48.154Z",
+    "published": "Mon, 02 Nov 2026 17:45:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-02T20:12:30.335Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+    "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+    "description": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-02T20:09:50.127Z",
+    "published": "Mon, 02 Nov 2026 19:19:17 +0000",
+    "processed": true,
+    "processedAt": "2026-11-02T20:12:30.335Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+    "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+    "description": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-02T20:09:50.127Z",
+    "published": "Mon, 02 Nov 2026 16:30:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+    "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+    "description": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-02T20:09:50.127Z",
+    "published": "Mon, 02 Nov 2026 16:23:21 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+    "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+    "description": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-02T20:09:50.127Z",
+    "published": "Mon, 02 Nov 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+    "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+    "description": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-02T20:09:50.127Z",
+    "published": "Mon, 02 Nov 2026 13:57:53 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+    "title": "Data centers are now a midterm issue, even in Brooklyn",
+    "description": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-02T20:09:50.127Z",
+    "published": "Sun, 01 Nov 2026 02:22:10 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+    "title": "Raising the quality of insights in agentic analytics",
+    "description": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The qualit",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-02T20:09:51.381Z",
+    "published": "Mon, 02 Nov 2026 17:00:00 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+    "title": "Stop counting tokens, start counting what ships",
+    "description": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&#8230;",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-02T20:09:51.381Z",
+    "published": "Mon, 02 Nov 2026 13:10:32 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
+    "title": "The Download: the agentic web arrives and the drive for safer roads",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Lee articulated a new vision: an internet navigated by auton",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-02T20:09:51.381Z",
+    "published": "Mon, 02 Nov 2026 13:10:00 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/angle-health",
+    "title": "Angle Health’s ElevenAgents pilot handles 90% of provider calls without a transfer",
+    "description": "Angle Health’s voice agents answer provider calls 24/7 with almost no wait, freeing about 9,000 minutes a day for complex escalations.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-02T20:09:53.702Z",
+    "published": "Tue, 03 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/kpn-mobiel-ai",
+    "title": "How KPN is bringing voice AI to the Netherlands' entrepreneurs with Mobiel AI",
+    "description": "KPN partnered with ElevenLabs to build Mobiel AI, an AI assistant inside KPN's business mobile plans that helps Dutch entrepreneurs manage every call.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-02T20:09:53.702Z",
+    "published": "Mon, 02 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/sfx-v3-for-developers",
+    "title": "Introducing SFX v3 for developers",
+    "description": "SFX v3 is our newest sound effects model. Switch with one model_id change for better multi-part prompts, vocals, and fewer clipped high notes.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-02T20:09:53.702Z",
+    "published": "Mon, 02 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/reflections-beam-is-the-new-open-weight-model-everyone-is-talking-about/",
+    "title": "Reflection's Beam Is the New Open-Weight Model Everyone Is Talking About",
+    "description": "A 501B model that only activates 23B parameters per token sounds like a bargain, until you look at what it takes to host.\nThe post Reflection's Beam Is the New Open-Weight Model Everyone Is Talking About appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-02T20:10:02.007Z",
+    "published": "Mon, 02 Nov 2026 14:00:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/our-ai-has-an-invisible-footprint-lets-see-how-to-measure-it/",
+    "title": "Our AI Has an Invisible Footprint — Let's see How to Measure It",
+    "description": "The hardest part is no longer getting the numbers. It's deciding what to do with them.\nThe post Our AI Has an Invisible Footprint — Let's see How to Measure It appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-02T20:10:02.007Z",
+    "published": "Mon, 02 Nov 2026 12:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/let-decision-models-watch-your-agents/",
+    "title": "Let Decision Models Watch Your Agents",
+    "description": "A hands-on guide to detecting behavioral anomalies from an agent’s evolving execution history\nThe post Let Decision Models Watch Your Agents appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-02T20:10:02.007Z",
+    "published": "Mon, 02 Nov 2026 11:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers/",
+    "title": "Goldman Sachs pulls AI coding tools from traders and bankers",
+    "description": "Goldman Sachs is pulling AI coding tools like Claude Code and GitHub Copilot from traders and bankers, limiting access to engineers only. As recently as July, CIO Marco Argenti publicly praised \"vibe coding\" by non-technical staff. Now the bank cites \"productivity and risk management\" as th",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-02T20:10:06.695Z",
+    "published": "Mon, 02 Nov 2026 20:00:03 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/ai-elites-might-hoard-intelligence-like-mercantilists-hoarded-gold/",
+    "title": "AI elites might hoard intelligence like mercantilists hoarded gold",
+    "description": "Engineer Venkatesh Rao compares the fear of AI job losses to mercantilism: intelligence is treated as a scarce resource that elites want to control. But AI could boost demand for human thinking, much like early capitalism made people voluntarily work more.\nThe article AI elites might hoard",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-02T20:10:06.695Z",
+    "published": "Mon, 02 Nov 2026 19:43:51 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/spacexsi-apparently-cuts-grok-bot-quotas-weeks-after-musk-called-it-his-fastest-growing-product/",
+    "title": "SpaceXSI apparently cuts Grok Bot quotas weeks after Musk called it his fastest-growing product",
+    "description": "SpaceXSI is apparently cutting usage limits for its AI agent Grok Bot, less than two weeks after Musk called it his fastest-growing product. The operating costs were \"unsustainably high relative to revenue,\" Musk wrote on X. OpenAI and Anthropic are also tightening their flat-rate plans as",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-02T20:10:06.695Z",
+    "published": "Mon, 02 Nov 2026 18:15:39 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-grows-revenue-twelvefold-but-posts-23-billion-loss/",
+    "title": "Anthropic grows revenue twelvefold but posts $23 billion loss",
+    "description": "Anthropic swings back to an operating loss ahead of its blockbuster IPO.\nThe article Anthropic grows revenue twelvefold but posts $23 billion loss appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-02T20:10:06.695Z",
+    "published": "Mon, 02 Nov 2026 16:26:03 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/one-brutal-minecraft-night-scared-50-ai-agents-into-inventing-chicken-handoff-protocols-a-fertilizer-officer-and-fishing-shifts/",
+    "title": "One brutal Minecraft night scared 50 AI agents into inventing chicken handoff protocols, a Fertilizer Officer, and fishing shifts",
+    "description": "In experiments by Y Combinator Labs and Olam Labs, OpenAI's GPT-6.1 Sol model showed two very different sides. When 50 agents were tasked with peaceful civilization-building in Minecraft, they froze up in absurd bureaucracy. In direct competition against Claude Opus 5.5, they independently",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-02T20:10:06.695Z",
+    "published": "Mon, 02 Nov 2026 15:42:27 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/saudi-aramco-takes-49-percent-stake-in-ai-firm-humain-with-2-6-billion-deal/",
+    "title": "Saudi Aramco takes 49 percent stake in AI firm Humain with $2.6 billion deal",
+    "description": "Saudi Aramco is buying into Humain, the company meant to turn Saudi Arabia into a global AI hub.\nThe article Saudi Aramco takes 49 percent stake in AI firm Humain with $2.6 billion deal appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-02T20:10:06.695Z",
+    "published": "Mon, 02 Nov 2026 11:47:14 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-prepares-lobbying-blitz-for-a-post-midterm-washington/",
+    "title": "OpenAI prepares lobbying blitz for a post-midterm Washington",
+    "description": "OpenAI is gearing up for a political lobbying and PR push after the US midterms.\nThe article OpenAI prepares lobbying blitz for a post-midterm Washington appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-02T20:10:06.695Z",
+    "published": "Mon, 02 Nov 2026 10:47:59 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
+    "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
+    "description": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-02T20:10:16.173Z",
+    "published": "Mon, 02 Nov 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+    "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+    "description": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-02T20:10:16.174Z",
+    "published": "Mon, 02 Nov 2026 10:00:00 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/02/deep-principle-hydrogen-1-0-open-weight-scientific-model/",
+    "title": "Deep Principle Releases Hydrogen-1.0: A 753B Open-Weight Model for Scientific Discovery",
+    "description": "Deep Principle has released Hydrogen-1.0, an open-weight scientific model for chemistry, materials science and life sciences. It is built by post-training Z.ai&#8217;s GLM-5.3 on domain data, laboratory records and agent discovery trajectories. For developers, it offers open weights that report a Fr",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-02T20:10:18.361Z",
+    "published": "Mon, 02 Nov 2026 18:41:41 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/anthropic-posts-17-bn-in-q3-revenue-swings-to-operating-loss",
+    "title": "Anthropic Posts $17 Bn in Q3 Revenue, Swings to Operating Loss",
+    "description": "Anthropic attributed the latest quarter’s operating loss of $567 million, partly to its reliance on short-term computing capacity.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-02T20:10:21.036Z",
+    "published": "Mon, 02 Nov 2026 16:06:55 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/openai-signs-four-agreements-with-abu-dhabi-across-government-energy-and-investment",
+    "title": "OpenAI Signs Four Agreements With Abu Dhabi Across Government, Energy And Investment",
+    "description": "ADNOC will use GPT models for operational decision-making, while Abu Dhabi is piloting AI-powered food import compliance checks.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-02T20:10:21.036Z",
+    "published": "Mon, 02 Nov 2026 11:22:20 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2300367/what-apple-airpods-chirping-noise-means-battery/",
+    "title": "Your Apple AirPods' chirping noise doesn't just mean low battery",
+    "description": "Learn why your Apple AirPods are making a noise - and how to turn the sound off.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-02T20:10:23.518Z",
+    "published": "Mon, 02 Nov 2026 19:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web/",
+    "title": "Why some websites are blocking AI agents from accessing the web",
+    "description": "AI agents can be a great tool to help make purchases for you online - but it can become a frustrating problem if the website you&#39;re using blocks their access.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-02T20:10:23.518Z",
+    "published": "Mon, 02 Nov 2026 19:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2302571/think-twice-before-putting-gaming-console-inside-cabinet/",
+    "title": "Think twice before putting your gaming console inside a cabinet",
+    "description": "A cabinet might seem like a convenient spot for your console, but it can&#39;t provide enough airflow for the system to run safely.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-02T20:10:23.518Z",
+    "published": "Mon, 02 Nov 2026 18:15:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2300353/google-gemini-poking-through-email-how-to-stop/",
+    "title": "Gemini could be poking through your emails - here's how to stop it",
+    "description": "Gemini can read your emails, summarize them and draft replies. If you&#39;d rather it didn&#39;t, here&#39;s what Google actually does with your data and how to opt out.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-02T20:10:23.518Z",
+    "published": "Mon, 02 Nov 2026 17:15:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2303975/nagoshi-studio-from-the-creator-of-the-yakuza-series-officially-shuts-down/",
+    "title": "Nagoshi Studio, from the creator of the Yakuza series, officially shuts down",
+    "description": "It's unclear what will happen to the studio's work on Gang of Dragon.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-02T20:10:23.518Z",
+    "published": "Mon, 02 Nov 2026 16:03:12 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2300346/nintendo-switch-2-microsd-card-why-its-important-to-use/",
+    "title": "Why it's important to use a microSD Express card with your Nintendo Switch 2",
+    "description": "The Switch 2 has expandable storage that you should take advantage of. But you can&#39;t use the same cards that worked with your original Switch.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-02T20:10:23.518Z",
+    "published": "Mon, 02 Nov 2026 14:45:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2300337/difference-between-airpods-noise-cancellation-adaptive-audio-modes/",
+    "title": "What's the difference between AirPods' Noise Cancellation and Adaptive Audio modes?",
+    "description": "Modern AirPods offer several audio modes, and noise cancellation isn&#39;t always the best option.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-02T20:10:23.518Z",
+    "published": "Mon, 02 Nov 2026 13:15:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2303590/apple-is-reportedly-launching-three-new-ipads-early-next-year/",
+    "title": "Apple is reportedly launching three new iPads early next year",
+    "description": "Follow its iPad mini launch last week, Apple may unveil three new iPad models early next year.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-02T20:10:23.518Z",
+    "published": "Mon, 02 Nov 2026 11:12:11 +0000"
   }
 ]
