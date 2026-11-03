@@ -98592,5 +98592,303 @@
     "category": "news",
     "discovered": "2026-11-03T09:58:34.883Z",
     "published": "Tue, 03 Nov 2026 09:21:36 +0000"
+  },
+  {
+    "url": "https://openai.com/index/heimstaden",
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "description": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-03T17:39:56.914Z",
+    "published": "Tue, 03 Nov 2026 08:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-03T17:42:42.988Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/allenai/statebench",
+    "title": "StateBench: Testing how language models track state changes over long documents",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-11-03T17:39:59.059Z",
+    "published": "Tue, 03 Nov 2026 17:15:21 GMT",
+    "processed": true,
+    "processedAt": "2026-11-03T17:42:42.988Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+    "title": "Palette: teaching a small model to build decks in your design language",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-11-03T17:39:59.059Z",
+    "published": "Tue, 03 Nov 2026 16:35:36 GMT",
+    "processed": true,
+    "processedAt": "2026-11-03T17:42:42.988Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/cwe-bench",
+    "title": "CWE-bench v2: More coverage, quality, and transparency",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-11-03T17:39:59.059Z",
+    "published": "Tue, 03 Nov 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-03T17:42:42.988Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+    "title": "Anthropic is still grappling with the economics of compute",
+    "description": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-03T17:40:00.267Z",
+    "published": "Tue, 03 Nov 2026 17:07:01 +0000",
+    "processed": true,
+    "processedAt": "2026-11-03T17:42:42.988Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+    "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+    "description": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-03T17:40:00.267Z",
+    "published": "Tue, 03 Nov 2026 16:30:34 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+    "title": "Apple restricts dating apps and AI companions to users 18 and up",
+    "description": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-03T17:40:00.267Z",
+    "published": "Tue, 03 Nov 2026 15:38:27 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+    "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-03T17:40:01.408Z",
+    "published": "Tue, 03 Nov 2026 13:10:00 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+    "title": "How “reverse game theory” could keep AI agents in check",
+    "description": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that ro",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-03T17:40:01.408Z",
+    "published": "Tue, 03 Nov 2026 10:43:41 +0000"
+  },
+  {
+    "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "title": "Agentic cheminformatics with Google Antigravity",
+    "description": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+    "source": "DeepMind Blog",
+    "category": "llm",
+    "discovered": "2026-11-03T17:40:19.739Z",
+    "published": "Tue, 03 Nov 2026 17:01:49 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/ai-will-do-your-job-that-should-be-good-news/",
+    "title": "AI Will Do Your Job. That Should Be Good News.",
+    "description": "The case for paying people to play when machines do the work\nThe post AI Will Do Your Job. That Should Be Good News. appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-03T17:40:23.061Z",
+    "published": "Tue, 03 Nov 2026 15:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/a-good-shooter-or-just-a-good-shot-selector-using-python-to-find-out/",
+    "title": "A Good Shooter or Just a Good Shot Selector? Using Python to Find Out",
+    "description": "In basketball, field-goal percentage tells us how often a player makes a shot. But what about the shots’ difficulty? Let's use Python and machine learning to separate shot selection from shot making.\nThe post A Good Shooter or Just a Good Shot Selector? Using Python to Find Out appeared first on Tow",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-03T17:40:23.061Z",
+    "published": "Tue, 03 Nov 2026 14:00:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/your-agent-works-in-the-demo-now-make-it-survive-monday/",
+    "title": "Your Agent Works in the Demo. Now Make It Survive Monday.",
+    "description": "The demo is the easy part\nThe post Your Agent Works in the Demo. Now Make It Survive Monday. appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-03T17:40:23.061Z",
+    "published": "Tue, 03 Nov 2026 12:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/three-techniques-to-understand-your-codebase-when-coding-agents-write-the-code/",
+    "title": "Three Techniques to Understand Your Codebase When Coding Agents Write the Code",
+    "description": "Learn how to use Claude Code to write feature memos, review pull requests, and build visual HTML explainers, so you understand what your agents ship\nThe post Three Techniques to Understand Your Codebase When Coding Agents Write the Code appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-03T17:40:23.061Z",
+    "published": "Tue, 03 Nov 2026 11:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/ai-agents-take-over-at-setis-allen-telescope-array-scanning-for-extraterrestrial-intelligence/",
+    "title": "AI agents take over at SETI's Allen Telescope Array, scanning for extraterrestrial intelligence",
+    "description": "The SETI Institute and Breakthrough Listen are now using AI agents at the Allen Telescope Array to control the telescope and analyze incoming radio signals. Tasks that used to take weeks can now wrap up in hours, and the team says the system detected a pulsar in the Crab Nebula in real time",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-03T17:40:24.665Z",
+    "published": "Tue, 03 Nov 2026 16:51:18 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-hires-ex-army-secretary-gaining-bipartisan-reach-just-as-midterms-loom/",
+    "title": "OpenAI hires ex-Army Secretary, gaining bipartisan reach just as midterms loom",
+    "description": "OpenAI hires Dan Driscoll, the former civilian head of the US Army, as \"Senior Counselor for National Security Modernization,\" likely to win government contracts and help shape AI rules for the military and intelligence agencies. Driscoll drove AI projects inside the Army, is a close ally o",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-03T17:40:24.665Z",
+    "published": "Tue, 03 Nov 2026 15:03:02 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropics-message-threads-cut-time-to-first-token-by-35-percent-for-long-conversations/",
+    "title": "Anthropic's Message Threads cut time to first token by 35 percent for long conversations",
+    "description": "Anthropic released Message Threads for the Messages API. Instead of resending the entire conversation with every turn, agents now only transmit what's changed. For requests between 500,000 and one million tokens, time to first token drops by about 35 percent.\nThe article Anthropic&#039;s Me",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-03T17:40:24.665Z",
+    "published": "Tue, 03 Nov 2026 12:35:49 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/huawei-tells-customers-to-find-their-own-ai-chip-memory-effectively-outsourcing-procurement-to-the-black-market/",
+    "title": "Huawei tells customers to find their own AI chip memory, effectively outsourcing procurement to the black market",
+    "description": "Huawei is telling customers to source the high-performance memory for its AI chips on their own, pushing them onto the black market. Smugglers are exploiting a loophole in U.S. export rules by bundling HBM with low-end processors, shipping them through Hong Kong, and separating the chips on",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-03T17:40:24.665Z",
+    "published": "Tue, 03 Nov 2026 11:47:37 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/bug-hunters-can-now-earn-up-to-172000-from-openai-as-company-ramps-up-security/",
+    "title": "Bug hunters can now earn up to $172,000 from OpenAI as company ramps up security",
+    "description": "OpenAI quadruples bug bounty payouts and launches new internal security sprint.\nThe article Bug hunters can now earn up to $172,000 from OpenAI as company ramps up security appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-03T17:40:24.665Z",
+    "published": "Tue, 03 Nov 2026 10:42:44 +0000"
+  },
+  {
+    "url": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
+    "title": "Arnis turns any place on Earth into a Minecraft world",
+    "description": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone.\nThe post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-11-03T17:40:29.168Z",
+    "published": "Tue, 03 Nov 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
+    "title": "Here’s Why You Shouldn’t Use AI to Vote",
+    "description": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-03T17:40:30.521Z",
+    "published": "Tue, 03 Nov 2026 14:45:08 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani/",
+    "title": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
+    "description": "Ahead of the midterms, WIRED talked to New York City’s mayor about data centers, AI in schools, and the future of the Democratic party.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-03T17:40:30.521Z",
+    "published": "Tue, 03 Nov 2026 11:00:00 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/it-services/coforge-is-outgrowing-its-larger-rivals-is-ai-the-reason",
+    "title": "Coforge Is Outgrowing Its Larger Rivals. Is AI the Reason?",
+    "description": "Coforge’s 53.6% Q2 revenue jump includes Encora. The company is moving from selling engineering hours to selling outcomes.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-03T17:40:34.906Z",
+    "published": "Tue, 03 Nov 2026 13:30:00 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/europes-biggest-tech-startup-cuts-ai-coding-costs-by-90-using-chinese-model",
+    "title": "Europe's Biggest Tech Startup Cuts AI Coding Costs by 90% Using Chinese Model",
+    "description": "\"Self-hosting GLM brings our blended cost of tokens to 30 cents per million. Our invoice is now one-tenth of what we were spending on Anthropic and OpenAI,” sai",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-03T17:40:34.906Z",
+    "published": "Tue, 03 Nov 2026 11:37:32 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/enmovil-plans-to-quadruple-fde-team-as-enterprise-ai-hiring-moves-beyond-coding",
+    "title": "Enmovil Plans to Quadruple FDE Team as Enterprise AI Hiring Moves Beyond Coding",
+    "description": "Enmovil's expansion addresses the need for AI across complex supply chains, where solutions must fit unique customer workflows and operational limits.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-03T17:40:34.906Z",
+    "published": "Tue, 03 Nov 2026 11:22:52 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/e2e-networks-launches-blaze-to-offer-pay-per-token-ai-inference-services",
+    "title": "E2E Networks Launches Blaze To Offer Pay-Per-Token AI Inference Services",
+    "description": "The platform provides a single API to access open AI models, including NVIDIA Nemotron, Sarvam, DeepSeek and Qwen, through NVIDIA GPU infrastructure hosted in I",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-03T17:40:34.906Z",
+    "published": "Tue, 03 Nov 2026 11:19:41 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/does-the-world-need-a-new-github",
+    "title": "Does the World Need a New GitHub?",
+    "description": "GitHub has not only added 4 million CPU cores and 160 PB of internal storage, but it is also rebuilding core Git primitives by decoupling compute from sto",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-03T17:40:34.906Z",
+    "published": "Tue, 03 Nov 2026 10:00:00 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2305432/google-says-that-students-in-schools-that-ban-ai-wont-have-access-to-search/",
+    "title": "Google says students in schools that ban AI won't have access to Search",
+    "description": "This is another example of how closely Google Search is tied to the company&#39;s AI products.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-03T17:40:37.205Z",
+    "published": "Tue, 03 Nov 2026 17:10:43 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2300425/go-foldable-or-go-home-all-the-gadgets-you-can-own-that-fold/",
+    "title": "Go foldable or go home: All the gadgets you can own that fold",
+    "description": "Here's an overview of some of the most notable folding gadget categories available today.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-03T17:40:37.205Z",
+    "published": "Tue, 03 Nov 2026 16:45:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2303524/reason-why-usb-ports-black/",
+    "title": "The reason why some USB ports are black",
+    "description": "USB ports come in multiple colors, from eye-catching ones like orange and purple to plain old black ports. Here&#39;s what the latter signifies.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-03T17:40:37.205Z",
+    "published": "Tue, 03 Nov 2026 13:45:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2291958/how-to-easily-update-airpods-firmware/",
+    "title": "You can easily update your AirPods firmware in just a few simple steps",
+    "description": "AirPods get updates silently, unlike your iPhone, but you can prep them for a smoother update experience.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-03T17:40:37.205Z",
+    "published": "Tue, 03 Nov 2026 13:15:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2305017/apple-start-mandating-age-requirements-dating-apps/",
+    "title": "Apple will start mandating age requirements for dating apps",
+    "description": "Apple developers will have to declare whether their app enables dating between real people and/or AI companions, so the company can apply the proper age rating.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-03T17:40:37.205Z",
+    "published": "Tue, 03 Nov 2026 10:32:28 +0000"
   }
 ]
