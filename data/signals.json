@@ -98438,5 +98438,159 @@
     "category": "news",
     "discovered": "2026-11-03T02:34:20.485Z",
     "published": "Mon, 02 Nov 2026 21:00:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "description": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-03T09:57:53.112Z",
+    "published": "Mon, 02 Nov 2026 18:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-03T10:00:41.234Z"
+  },
+  {
+    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "title": "Rewarding defenders with bigger bug bounties",
+    "description": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-03T09:57:53.112Z",
+    "published": "Mon, 02 Nov 2026 18:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-03T10:00:41.235Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/transformers-mic",
+    "title": "Transformers Model Integration Contracts",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-11-03T09:57:55.246Z",
+    "published": "Tue, 03 Nov 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-03T10:00:41.235Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+    "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+    "description": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-03T09:57:56.456Z",
+    "published": "Tue, 03 Nov 2026 07:20:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-03T10:00:41.235Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+    "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+    "description": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-03T09:57:56.456Z",
+    "published": "Tue, 03 Nov 2026 03:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-03T10:00:41.235Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+    "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been c",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-03T09:57:57.658Z",
+    "published": "Tue, 03 Nov 2026 04:18:47 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-cracks-down-on-game-cloning-in-claude-code-after-wave-of-ai-built-knockoffs/",
+    "title": "Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs",
+    "description": "Anthropic is blocking its coding assistant Claude Code from recreating existing video games.\nThe article Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-03T09:58:21.664Z",
+    "published": "Tue, 03 Nov 2026 09:48:08 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/02/openai-pando-git-backend-monorepo/",
+    "title": "OpenAI Introduces Pando: A Git Backend That Cuts Median Push Latency ~80%",
+    "description": "OpenAI built Pando, a Git-compatible backend for its monorepo. It handles branches independently, reuses stored packfiles across fetches, cut median push latency by nearly 80%, and now delivers nearly a petabyte of Git data per day.\nThe post OpenAI Introduces Pando: A Git Backend That Cuts Median Pu",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-03T09:58:30.273Z",
+    "published": "Tue, 03 Nov 2026 05:51:06 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/02/zyphra-hierarchical-attention-zha-sparse-attention/",
+    "title": "Zyphra AI Introduces Zyphra Hierarchical Attention (ZHA): A Path to True Subquadratic Attention",
+    "description": "Zyphra Hierarchical Attention (ZHA) is a tree-indexed sparse attention method that retrofits frozen LLMs with 4B tokens of distillation, matching dense attention on reasoning and 256K retrieval benchmarks.\nThe post Zyphra AI Introduces Zyphra Hierarchical Attention (ZHA): A Path to True Subquadratic",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-03T09:58:30.273Z",
+    "published": "Tue, 03 Nov 2026 01:09:49 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/can-indias-ai-boom-reach-bharat",
+    "title": "Can India’s AI Boom Reach Bharat?",
+    "description": "The divide is visible in the difference between the resources available to urban and rural students.Can India’s AI Boom Reach Bharat? Snippet: The divide is vi",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-03T09:58:32.518Z",
+    "published": "Tue, 03 Nov 2026 08:10:05 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/dispatch-network-raises-5-cr-pre-seed-led-by-antler-india-to-build-ai-powered-delivery-network",
+    "title": "Dispatch Network Raises ₹5 Cr Pre-Seed Led by Antler India to Build AI-Powered Delivery Network",
+    "description": "The company will use the capital to expand its AI team and develop its Large Logistics Spatio-Temporal Model, which it uses to improve delivery allocation and r",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-03T09:58:32.518Z",
+    "published": "Tue, 03 Nov 2026 06:41:46 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/hcltech-launches-ai-agents-to-support-mainframe-operations",
+    "title": "HCLTech Launches AI Agents to Support Mainframe Operations",
+    "description": "The offering combines specialised agents and conversational assistants for system administration, observability and optimisation, with human oversight.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-03T09:58:32.518Z",
+    "published": "Tue, 03 Nov 2026 06:21:51 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/mit-researchers-show-llms-can-read-and-edit-neural-network-weights-without-retraining",
+    "title": "MIT Researchers Show LLMs Can Read and Edit Neural Network Weights Without Retraining",
+    "description": "By modifying just 0.016% of the model’s weights, Astra increased its score on the MATH-500 benchmark from 7.9% to 48.1%.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-03T09:58:32.518Z",
+    "published": "Tue, 03 Nov 2026 05:35:25 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-highlights/the-ai-first-employee-is-not-what-you-think",
+    "title": "The AI-First Employee is Not What You Think",
+    "description": "Building an AI-first company takes more than deploying agents. It requires rethinking how people work, how processes run and how businesses create value.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-03T09:58:32.518Z",
+    "published": "Tue, 03 Nov 2026 05:30:00 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/ais-next-agritech-frontier-is-indias-fragmented-supply-chain",
+    "title": "AI's Next Agritech Frontier Is India's Fragmented Supply Chain",
+    "description": "AI is moving beyond crop monitoring to procurement, price prediction and traceability. But fragmented data and weak incentives could limit its impact across Ind",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-03T09:58:32.518Z",
+    "published": "Tue, 03 Nov 2026 05:28:01 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/",
+    "title": "Apple's latest watchOS 27 beta enables Siri Recap and Live Rewind audio features",
+    "description": "First revealed at the company&#39;s event in September, Apple's AI-powered Apple Watch features are finally landing in beta.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-03T09:58:34.883Z",
+    "published": "Tue, 03 Nov 2026 09:21:36 +0000"
   }
 ]
