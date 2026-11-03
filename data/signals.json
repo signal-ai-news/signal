@@ -98890,5 +98890,375 @@
     "category": "news",
     "discovered": "2026-11-03T17:40:37.205Z",
     "published": "Tue, 03 Nov 2026 10:32:28 +0000"
+  },
+  {
+    "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "title": "Accelerating engineering for the physical world",
+    "description": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-03T23:07:27.080Z",
+    "published": "Tue, 03 Nov 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-03T23:10:07.434Z"
+  },
+  {
+    "url": "https://openai.com/index/cisco-cyber",
+    "title": "How Cisco defends at machine speed with OpenAI",
+    "description": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-03T23:07:27.081Z",
+    "published": "Tue, 03 Nov 2026 08:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-03T23:10:07.434Z"
+  },
+  {
+    "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+    "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+    "description": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-03T23:07:27.081Z",
+    "published": "Tue, 03 Nov 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-03T23:10:07.434Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+    "title": "Anthropic is working on a system to prove AI models’ identity",
+    "description": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-03T23:07:30.629Z",
+    "published": "Tue, 03 Nov 2026 22:41:03 +0000",
+    "processed": true,
+    "processedAt": "2026-11-03T23:10:07.434Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+    "title": "Data centers are turning to old jet engines as the wait for power grows",
+    "description": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less efficient and less environmentally friendly solution: once-discarded jet engines.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-03T23:07:30.629Z",
+    "published": "Tue, 03 Nov 2026 22:19:53 +0000",
+    "processed": true,
+    "processedAt": "2026-11-03T23:10:07.434Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+    "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+    "description": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-03T23:07:30.629Z",
+    "published": "Tue, 03 Nov 2026 21:43:08 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+    "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+    "description": "The five-year-old startup raised a $1.3  billion round led by Bessemer.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-03T23:07:30.629Z",
+    "published": "Tue, 03 Nov 2026 19:34:43 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+    "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+    "description": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-03T23:07:30.629Z",
+    "published": "Tue, 03 Nov 2026 18:42:16 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/what-is-call-transcription",
+    "title": "What is call transcription? A practical business guide",
+    "description": "Learn what call transcription is, how it works, and how to transcribe phone calls with AI. Compare software types and see a sample transcript.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-03T23:07:34.138Z",
+    "published": "Tue, 03 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://nano-gpt.com",
+    "title": "Nano-GPT – a privacy-minded alternative to OpenRouter with powerful API",
+    "description": "Article URL: https://nano-gpt.com\nComments URL: https://news.ycombinator.com/item?id=50359433\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-03T23:07:37.364Z",
+    "published": "Tue, 03 Nov 2026 23:00:47 +0000"
+  },
+  {
+    "url": "https://github.com/revefi/agent-analyzer",
+    "title": "GitHub plugin to find Claude Code's missing instructions",
+    "description": "Article URL: https://github.com/revefi/agent-analyzer\nComments URL: https://news.ycombinator.com/item?id=50359337\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-03T23:07:37.364Z",
+    "published": "Tue, 03 Nov 2026 22:49:07 +0000"
+  },
+  {
+    "url": "https://madrobot.blog/2026/11/03/siri-ai-app-skills-developers-ios-27-3/",
+    "title": "Apple opens Siri AI to every app, and lets developers teach it skills",
+    "description": "Article URL: https://madrobot.blog/2026/11/03/siri-ai-app-skills-developers-ios-27-3/\nComments URL: https://news.ycombinator.com/item?id=50359242\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-03T23:07:37.364Z",
+    "published": "Tue, 03 Nov 2026 22:38:24 +0000"
+  },
+  {
+    "url": "https://pirateface.co/articles/one-model-one-swarm",
+    "title": "Why Every AI Model Will Ship as a Torrent",
+    "description": "Article URL: https://pirateface.co/articles/one-model-one-swarm\nComments URL: https://news.ycombinator.com/item?id=50359225\nPoints: 8\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-03T23:07:37.364Z",
+    "published": "Tue, 03 Nov 2026 22:36:22 +0000"
+  },
+  {
+    "url": "https://medium.com/@weaxdesign/ai-unlocked-my-ransomware-encrypted-files-without-the-key-262212277514",
+    "title": "AI Unlocked My Ransomware-Encrypted Files – Without the Key",
+    "description": "Article URL: https://medium.com/@weaxdesign/ai-unlocked-my-ransomware-encrypted-files-without-the-key-262212277514\nComments URL: https://news.ycombinator.com/item?id=50359224\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-03T23:07:37.364Z",
+    "published": "Tue, 03 Nov 2026 22:36:18 +0000"
+  },
+  {
+    "url": "https://developer.apple.com/news/?id=gdk2umrf",
+    "title": "Siri AI is now open to all developers",
+    "description": "Article URL: https://developer.apple.com/news/?id=gdk2umrf\nComments URL: https://news.ycombinator.com/item?id=50359173\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-03T23:07:37.364Z",
+    "published": "Tue, 03 Nov 2026 22:31:28 +0000"
+  },
+  {
+    "url": "https://chromewebstore.google.com/detail/microsoft-bing-ai-search/mcaabonmnmphidjfohjkdobemneigopa",
+    "title": "Microsoft Bing AI Search Choice",
+    "description": "Article URL: https://chromewebstore.google.com/detail/microsoft-bing-ai-search/mcaabonmnmphidjfohjkdobemneigopa\nComments URL: https://news.ycombinator.com/item?id=50359127\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-03T23:07:37.364Z",
+    "published": "Tue, 03 Nov 2026 22:26:21 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50358879",
+    "title": "Ask HN: How is Google's Gemini chat search so inexcusably bad?",
+    "description": "I must apologize for thinking that Google, which seems to have forgotten about the concept of search, would offer a way for Gemini users to search through their chats by date. This seems like a very simple feature that at least a few more than myself would be interested in using, but after some tri",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-03T23:07:37.364Z",
+    "published": "Tue, 03 Nov 2026 22:03:24 +0000"
+  },
+  {
+    "url": "https://inference.alchemy.com",
+    "title": "More daily API calls than Google searches, now applied to LLM inference",
+    "description": "Article URL: https://inference.alchemy.com\nComments URL: https://news.ycombinator.com/item?id=50358698\nPoints: 10\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-03T23:07:37.364Z",
+    "published": "Tue, 03 Nov 2026 21:50:48 +0000"
+  },
+  {
+    "url": "https://apps.apple.com/us/app/lotse-ai-coding-agent/id6760467136",
+    "title": "Lotse: AI Coding Agent – iOS",
+    "description": "Article URL: https://apps.apple.com/us/app/lotse-ai-coding-agent/id6760467136\nComments URL: https://news.ycombinator.com/item?id=50358695\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-03T23:07:37.364Z",
+    "published": "Tue, 03 Nov 2026 21:50:44 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2605.29713",
+    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+    "description": "Article URL: https://arxiv.org/abs/2605.29713\nComments URL: https://news.ycombinator.com/item?id=50358582\nPoints: 104\n# Comments: 11",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-03T23:07:37.364Z",
+    "published": "Tue, 03 Nov 2026 21:40:53 +0000"
+  },
+  {
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+    "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+    "description": "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months\nComments URL: https://news.ycombinator.com/item?id=50358422\nPoints: 77\n# Comments: 23",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-03T23:07:37.364Z",
+    "published": "Tue, 03 Nov 2026 21:26:44 +0000"
+  },
+  {
+    "url": "https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight",
+    "title": "The AI Boom May Be Sowing Seeds of Another Financial Crisis",
+    "description": "Article URL: https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight\nComments URL: https://news.ycombinator.com/item?id=50358414\nPoints: 52\n# Comments: 51",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-03T23:07:37.364Z",
+    "published": "Tue, 03 Nov 2026 21:25:48 +0000"
+  },
+  {
+    "url": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
+    "title": "British fintech Revolut slashes AI coding costs 10x by going self-hosted",
+    "description": "Article URL: https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345\nComments URL: https://news.ycombinator.com/item?id=50358388\nPoints: 8\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-03T23:07:37.364Z",
+    "published": "Tue, 03 Nov 2026 21:23:42 +0000"
+  },
+  {
+    "url": "https://uncracked.city",
+    "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+    "description": "To give you some context on the project. I'm a solo founder and I use AI heavily in my work. The idea came from wanting players to discover cities. Each city has its own history, so every case is set in a real city with real public places. The crime and the people are on other hand invented. The pa",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-03T23:07:37.364Z",
+    "published": "Tue, 03 Nov 2026 21:20:03 +0000"
+  },
+  {
+    "url": "https://dealroom.co/news/169124-revolut-swaps-claude-code-for-a-chinese-open-weight-model-cutting-its-ai/",
+    "title": "Revolut swaps Claude for GLM open-weight model, cutting AI coding bill by 90%",
+    "description": "Article URL: https://dealroom.co/news/169124-revolut-swaps-claude-code-for-a-chinese-open-weight-model-cutting-its-ai/\nComments URL: https://news.ycombinator.com/item?id=50358078\nPoints: 9\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-03T23:07:37.364Z",
+    "published": "Tue, 03 Nov 2026 20:57:15 +0000"
+  },
+  {
+    "url": "https://www.forbes.com/sites/maryroeloffs/2026/11/03/google-will-cut-off-search-engine-access-to-schools-banning-generative-ai/",
+    "title": "Google to cutoff Search Engine access to schools banning Gen. AI",
+    "description": "Article URL: https://www.forbes.com/sites/maryroeloffs/2026/11/03/google-will-cut-off-search-engine-access-to-schools-banning-generative-ai/\nComments URL: https://news.ycombinator.com/item?id=50357893\nPoints: 14\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-03T23:07:37.364Z",
+    "published": "Tue, 03 Nov 2026 20:42:44 +0000"
+  },
+  {
+    "url": "https://securityboulevard.com/2026/11/ai-agents-used-by-railway-breach-systems-of-rival-primcloud/",
+    "title": "AI Agents Used by Railway Breach Systems of Rival Primcloud",
+    "description": "Article URL: https://securityboulevard.com/2026/11/ai-agents-used-by-railway-breach-systems-of-rival-primcloud/\nComments URL: https://news.ycombinator.com/item?id=50357868\nPoints: 6\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-03T23:07:37.364Z",
+    "published": "Tue, 03 Nov 2026 20:40:14 +0000"
+  },
+  {
+    "url": "https://www.jacky.wtf/essays/2026/indie-dev-llm/",
+    "title": "Musings on LLM-Assisted Coding",
+    "description": "Article URL: https://www.jacky.wtf/essays/2026/indie-dev-llm/\nComments URL: https://news.ycombinator.com/item?id=50357837\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-03T23:07:37.364Z",
+    "published": "Tue, 03 Nov 2026 20:38:08 +0000"
+  },
+  {
+    "url": "https://0xca333.substack.com/p/the-largest-bitcoin-miners-are-quietly",
+    "title": "The Largest Bitcoin Miners Are Quietly Becoming AI Data Centers",
+    "description": "Article URL: https://0xca333.substack.com/p/the-largest-bitcoin-miners-are-quietly\nComments URL: https://news.ycombinator.com/item?id=50357834\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-03T23:07:37.364Z",
+    "published": "Tue, 03 Nov 2026 20:37:45 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week/",
+    "title": "OpenAI says GPT-6 Astra designed a hardware device from scratch in under a week",
+    "description": "OpenAI's hardware team used GPT-6 Astra to design a device for the Codex coding agent in under a week, handling everything from the enclosure to the circuit board to the firmware. Several revision rounds were needed before production because the model didn't always account for manufacturing",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-03T23:07:45.009Z",
+    "published": "Tue, 03 Nov 2026 20:15:45 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/rapid-llm-development-is-outrunning-the-research-meant-to-explain-it-study-finds/",
+    "title": "Rapid LLM development is outrunning the research meant to explain it, study finds",
+    "description": "Stanford researchers tested 50 widely cited claims about LLMs against 20 current models. 44 percent of the findings are already \"expired,\" and another 34 percent have weakened significantly. The average lifespan is just 15.7 months. Claims about what models can't do expire fastest.\nThe arti",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-03T23:07:45.009Z",
+    "published": "Tue, 03 Nov 2026 19:41:43 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/03/anthropic-flashprove-provable-inference-zksnark/",
+    "title": "Anthropic Releases FlashProve: Cryptographic Proofs That a Reply Came From Committed Weights",
+    "description": "Anthropic released FlashProve, an Apache 2.0 zkSNARK prototype that proves a reply came from a committed model without revealing weights. It proves Llama 4 Maverick at 110 tokens/second on 1 H100, with 19 MB proofs.\nThe post Anthropic Releases FlashProve: Cryptographic Proofs That a Reply Came From",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-03T23:07:56.166Z",
+    "published": "Tue, 03 Nov 2026 22:08:22 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/03/nvidia-dgx-spark-moe-inference-ling-3-0-flash/",
+    "title": "NVIDIA Shows 3 Ways to Speed Up MoE Inference on DGX Spark, Lifting Ling-3.0-flash Throughput 42.5%",
+    "description": "NVIDIA shows how 3 stacked optimizations speed up MoE inference on a single DGX Spark. On Ant Group inclusionAI's 124B Ling-3.0-flash, GSM8K decode throughput rose 42.5% with no detectable accuracy change.\nThe post NVIDIA Shows 3 Ways to Speed Up MoE Inference on DGX Spark, Lifting Ling-3.0-flash Th",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-03T23:07:56.166Z",
+    "published": "Tue, 03 Nov 2026 20:28:22 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/03/soniox-stt-v6-agent-text-input-echo-cancellation/",
+    "title": "Soniox STT v6 Adds Agent Text Input and Echo Filtering for Voice Agents",
+    "description": "Soniox has released Soniox STT v6, the latest generation of its speech-to-text API. Soniox STT v6 is a speech-to-text model that reads what a voice agent says while hearing the caller. It uses that text to recognize short replies and to drop the agent&#8217;s own voice. The release ships as stt-rt-v",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-03T23:07:56.166Z",
+    "published": "Tue, 03 Nov 2026 20:18:22 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2300409/how-adjust-apple-airpods-for-small-ears/",
+    "title": "Here's how to adjust Apple AirPods for small ears",
+    "description": "Those with small ears may require some extra finessing when adjusting their Apple AirPods to get the perfect fit, and there are a few ways you can ensure that.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-03T23:08:00.906Z",
+    "published": "Tue, 03 Nov 2026 23:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2305778/netflix-thinks-ai-might-save-you-from-scrolling-aimlessly-for-something-to-watch/",
+    "title": "Netflix thinks AI might save you from scrolling aimlessly for something to watch",
+    "description": "The tab will initially offer suggestions based on a range of AI-generated themes.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-03T23:08:00.906Z",
+    "published": "Tue, 03 Nov 2026 19:57:41 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2300270/dont-throw-away-your-laptop-old-ssd-do-this-instead/",
+    "title": "Don't throw away your laptop's old SSDs — do this instead",
+    "description": "Get some extra life out of your unused SSDs by converting them into external storage devices.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-03T23:08:00.906Z",
+    "published": "Tue, 03 Nov 2026 19:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2305699/itchio-adds-a-filter-for-games-with-gen-ai-disclosures/",
+    "title": "Itch.io adds a filter for games with gen AI disclosures",
+    "description": "Your turn, Steam.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-03T23:08:00.906Z",
+    "published": "Tue, 03 Nov 2026 19:27:28 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2305576/razer-unveils-the-raiju-v3-pro-signature-edition-ps5-controller/",
+    "title": "Razer unveils the Raiju V3 Pro Signature Edition PS5 controller",
+    "description": "It sure is pretty and will likely be expensive.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-03T23:08:00.906Z",
+    "published": "Tue, 03 Nov 2026 18:28:03 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2300435/dont-throw-away-old-airpods-do-this-instead/",
+    "title": "Don't throw away your old AirPods — do this instead",
+    "description": "AirPods aren&#39;t useless even after you&#39;ve had them for years and get a new pair. Repurpose them with a few tricks.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-03T23:08:00.906Z",
+    "published": "Tue, 03 Nov 2026 17:45:00 +0000"
   }
 ]
