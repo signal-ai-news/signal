@@ -98320,5 +98320,123 @@
     "category": "news",
     "discovered": "2026-11-02T20:10:23.518Z",
     "published": "Mon, 02 Nov 2026 11:12:11 +0000"
+  },
+  {
+    "url": "https://openai.com/index/scaling-git-at-openai",
+    "title": "Scaling Git at OpenAI",
+    "description": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-03T02:33:41.620Z",
+    "published": "Mon, 02 Nov 2026 15:30:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-03T02:36:26.061Z"
+  },
+  {
+    "url": "https://openai.com/index/dan-driscoll-joins-openai",
+    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "description": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-03T02:33:41.620Z",
+    "published": "Mon, 02 Nov 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-03T02:36:26.061Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+    "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+    "description": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-03T02:33:44.927Z",
+    "published": "Tue, 03 Nov 2026 01:49:52 +0000",
+    "processed": true,
+    "processedAt": "2026-11-03T02:36:26.061Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+    "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+    "description": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-03T02:33:44.927Z",
+    "published": "Tue, 03 Nov 2026 00:35:52 +0000",
+    "processed": true,
+    "processedAt": "2026-11-03T02:36:26.061Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+    "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+    "description": "The one-year-old startup is now valued at $300 million.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-03T02:33:44.927Z",
+    "published": "Mon, 02 Nov 2026 23:13:53 +0000",
+    "processed": true,
+    "processedAt": "2026-11-03T02:36:26.061Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+    "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+    "description": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-03T02:33:44.927Z",
+    "published": "Mon, 02 Nov 2026 22:14:50 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+    "title": "Web host Squarespace lays off 19% of its employees",
+    "description": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-03T02:33:44.927Z",
+    "published": "Mon, 02 Nov 2026 19:25:59 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/synthetic-voices",
+    "title": "How are synthetic voices created for natural speech?",
+    "description": "Learn how synthetic voices are created, from speech data to neural text to speech, plus voice cloning, voice design, and how to spot an AI voice.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-03T02:33:48.437Z",
+    "published": "Mon, 02 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/02/letter-letterpress-1-growth-engineering-coding-agent/",
+    "title": "The Letter Company Releases Letterpress-1: A Coding Agent Built for Growth Engineering",
+    "description": "Letter has released the beta of Letterpress-1, a coding agent, harness and IDE for growth engineering. It reads a git-based site and its market, then opens pull requests for SEO, GEO and conversion work.\nThe post The Letter Company Releases Letterpress-1: A Coding Agent Built for Growth Engineering",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-03T02:34:16.170Z",
+    "published": "Tue, 03 Nov 2026 00:43:03 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2279347/is-it-safe-to-charge-phone-with-airport-usb-port/",
+    "title": "Is it actually safe to charge your iPhone at airport USB ports?",
+    "description": "Using a random USB charger can be unsafe, even though the risk is minimal. Thankfully, you have ways to protect your devices.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-03T02:34:20.485Z",
+    "published": "Tue, 03 Nov 2026 00:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2300368/how-to-use-phone-camera-built-in-translation-feature-google/",
+    "title": "How to use your phone's camera to translate anything",
+    "description": "With the aid of a quick picture, you can use your phone&#39;s camera to translate pretty much any text while you&#39;re traveling across the globe.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-03T02:34:20.485Z",
+    "published": "Mon, 02 Nov 2026 23:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2302215/how-long-hdd-ssd-stay-expensive/",
+    "title": "How long could HDDs and SSDs remain expensive?",
+    "description": "Thanks to shortages of microchips and other computer components, we&#39;ve been experiencing high prices for years.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-03T02:34:20.485Z",
+    "published": "Mon, 02 Nov 2026 21:00:00 +0000"
   }
 ]
