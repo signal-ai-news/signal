@@ -99712,5 +99712,384 @@
     "category": "news",
     "discovered": "2026-11-04T11:28:04.157Z",
     "published": "Wed, 04 Nov 2026 08:28:09 +0000"
+  },
+  {
+    "url": "https://openai.com/index/openai-to-acquire-pierre",
+    "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+    "description": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-04T18:47:09.201Z",
+    "published": "Wed, 04 Nov 2026 14:30:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-04T18:49:45.291Z"
+  },
+  {
+    "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "description": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-04T18:47:09.201Z",
+    "published": "Wed, 04 Nov 2026 07:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-04T18:49:45.291Z"
+  },
+  {
+    "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+    "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+    "description": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-04T18:47:12.505Z",
+    "published": "Wed, 04 Nov 2026 18:44:57 +0000",
+    "processed": true,
+    "processedAt": "2026-11-04T18:49:45.291Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+    "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+    "description": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-04T18:47:12.505Z",
+    "published": "Wed, 04 Nov 2026 16:51:35 +0000",
+    "processed": true,
+    "processedAt": "2026-11-04T18:49:45.291Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+    "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+    "description": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-04T18:47:12.505Z",
+    "published": "Wed, 04 Nov 2026 16:17:22 +0000",
+    "processed": true,
+    "processedAt": "2026-11-04T18:49:45.291Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+    "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+    "description": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring pos",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-04T18:47:13.622Z",
+    "published": "Wed, 04 Nov 2026 18:21:40 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+    "title": "The Download: blended meat, restored sight, and the agentic web",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat&#160; In the fall of 2025, Jeff Dodge served hungry students steaming marinara s",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-04T18:47:13.622Z",
+    "published": "Wed, 04 Nov 2026 13:10:00 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+    "title": "Securing the agentic enterprise with data lineage",
+    "description": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-04T18:47:13.622Z",
+    "published": "Wed, 04 Nov 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/ai-voice-agent-pricing-guide",
+    "title": "AI voice agent pricing: What it costs for your business",
+    "description": "See AI voice agent pricing from $0 to custom Enterprise, what sets your price per minute, and how to calculate ROI against staffing costs.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-04T18:47:15.747Z",
+    "published": "Wed, 04 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/elevenagents-contact-center-integrations",
+    "title": "ElevenAgents integrates natively with leading contact center platforms to deliver enterprise-ready agents",
+    "description": "ElevenAgents now integrates natively with NiCE, Genesys Cloud, Amazon Connect, and Five9, and connects to any other platform over SIP.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-04T18:47:15.747Z",
+    "published": "Wed, 04 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://www.theguardian.com/film/2026/nov/03/china-first-ai-generated-film-flops-cinema-future",
+    "title": "China's first AI-generated film is a flop. Some still see it as the future",
+    "description": "Article URL: https://www.theguardian.com/film/2026/nov/03/china-first-ai-generated-film-flops-cinema-future\nComments URL: https://news.ycombinator.com/item?id=50369698\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T18:47:17.967Z",
+    "published": "Wed, 04 Nov 2026 18:37:16 +0000"
+  },
+  {
+    "url": "https://github.com/67spp/sentinsentinel-ai-gateway",
+    "title": "Open-source LLM Firewall with reversible PII scrubbing and FinOps routing",
+    "description": "Article URL: https://github.com/67spp/sentinsentinel-ai-gateway\nComments URL: https://news.ycombinator.com/item?id=50369623\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T18:47:17.967Z",
+    "published": "Wed, 04 Nov 2026 18:30:45 +0000"
+  },
+  {
+    "url": "https://miguelstudy.pages.dev/a-farmer-destroys-10-hectares-of-crops/",
+    "title": "A farmer destroys 10 hectares of crops after following AI advice",
+    "description": "Article URL: https://miguelstudy.pages.dev/a-farmer-destroys-10-hectares-of-crops/\nComments URL: https://news.ycombinator.com/item?id=50369544\nPoints: 12\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T18:47:17.967Z",
+    "published": "Wed, 04 Nov 2026 18:25:22 +0000"
+  },
+  {
+    "url": "https://atlas.insanearts.io/",
+    "title": "Show HN: Atlas – Let AI agents use your Mac without taking over your screen",
+    "description": "Article URL: https://atlas.insanearts.io/\nComments URL: https://news.ycombinator.com/item?id=50369542\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T18:47:17.967Z",
+    "published": "Wed, 04 Nov 2026 18:25:20 +0000"
+  },
+  {
+    "url": "https://www.ibtimes.co.uk/claude-code-agent-pentagon-niprnet-access-allegations-1829425",
+    "title": "Accenture Contractor Linked Personal Claude AI Agent to Pentagon System",
+    "description": "Article URL: https://www.ibtimes.co.uk/claude-code-agent-pentagon-niprnet-access-allegations-1829425\nComments URL: https://news.ycombinator.com/item?id=50369356\nPoints: 6\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T18:47:17.967Z",
+    "published": "Wed, 04 Nov 2026 18:11:21 +0000"
+  },
+  {
+    "url": "https://blog.ai-process.dev/2026/10/26/go-vs-python-llm-gateway/",
+    "title": "Go vs. Python for an LLM Gateway: What We Measured",
+    "description": "Article URL: https://blog.ai-process.dev/2026/10/26/go-vs-python-llm-gateway/\nComments URL: https://news.ycombinator.com/item?id=50369282\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T18:47:17.967Z",
+    "published": "Wed, 04 Nov 2026 18:06:08 +0000"
+  },
+  {
+    "url": "https://www.nordicsemi.com/Nordic-news/2026/11/Nordic-brings-edge-AI-to-battery-powered-WiFi-devices-20-times-lower-standby-power-with-nRF71-Series",
+    "title": "nRF71: Wi-Fi, Bluetooth LE, Thread, and On-Device AI on a Single Chip",
+    "description": "Article URL: https://www.nordicsemi.com/Nordic-news/2026/11/Nordic-brings-edge-AI-to-battery-powered-WiFi-devices-20-times-lower-standby-power-with-nRF71-Series\nComments URL: https://news.ycombinator.com/item?id=50369197\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T18:47:17.967Z",
+    "published": "Wed, 04 Nov 2026 18:00:05 +0000"
+  },
+  {
+    "url": "https://operator0x.com/field-notes/running-ai-yourself/",
+    "title": "AI Is Getting Better. Running It Yourself Is Getting Harder",
+    "description": "Article URL: https://operator0x.com/field-notes/running-ai-yourself/\nComments URL: https://news.ycombinator.com/item?id=50369161\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T18:47:17.967Z",
+    "published": "Wed, 04 Nov 2026 17:56:44 +0000"
+  },
+  {
+    "url": "https://aistudio.google.com/docs/voice-remixing",
+    "title": "Voice remixing in Gemini 3.8 Flash TTS",
+    "description": "Article URL: https://aistudio.google.com/docs/voice-remixing\nComments URL: https://news.ycombinator.com/item?id=50369043\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T18:47:17.967Z",
+    "published": "Wed, 04 Nov 2026 17:48:27 +0000"
+  },
+  {
+    "url": "https://apnews.com/press-release/ein-presswire-newsmatics/press-release-89b81414fe7cc937935f093a01305110",
+    "title": "Dev Reverse Engineers Billion Dollar Harvey AI and Releases It Free, Open Source",
+    "description": "Article URL: https://apnews.com/press-release/ein-presswire-newsmatics/press-release-89b81414fe7cc937935f093a01305110\nComments URL: https://news.ycombinator.com/item?id=50368948\nPoints: 15\n# Comments: 5",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T18:47:17.967Z",
+    "published": "Wed, 04 Nov 2026 17:42:05 +0000"
+  },
+  {
+    "url": "https://store.steampowered.com/app/3739580/KORRIDOR/",
+    "title": "Korridor – someone made the game from ads [no AI]",
+    "description": "Article URL: https://store.steampowered.com/app/3739580/KORRIDOR/\nComments URL: https://news.ycombinator.com/item?id=50368841\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T18:47:17.967Z",
+    "published": "Wed, 04 Nov 2026 17:34:20 +0000"
+  },
+  {
+    "url": "https://nymag.com/intelligencer/article/most-powerful-people-in-ai-2026-list.html",
+    "title": "Powerful People Shaping the Future of AI",
+    "description": "Article URL: https://nymag.com/intelligencer/article/most-powerful-people-in-ai-2026-list.html\nComments URL: https://news.ycombinator.com/item?id=50368816\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T18:47:17.967Z",
+    "published": "Wed, 04 Nov 2026 17:32:24 +0000"
+  },
+  {
+    "url": "https://stories.tamu.edu/news/2026/10/21/ai-models-can-get-brain-rot-too/",
+    "title": "AI models can get brain rot, too",
+    "description": "Article URL: https://stories.tamu.edu/news/2026/10/21/ai-models-can-get-brain-rot-too/\nComments URL: https://news.ycombinator.com/item?id=50368810\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T18:47:17.967Z",
+    "published": "Wed, 04 Nov 2026 17:32:06 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50368804",
+    "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+    "description": "Hi HN! I'm Luke from Kino (https://kino.ai). Kino lets you make great videos with your agents and your teammates. Storage of footage and assets, a rich video editor, and review links for teammates are all bundled into one. Your colleagues and Codex / Claude Code can work on the same timeline with r",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T18:47:17.967Z",
+    "published": "Wed, 04 Nov 2026 17:31:53 +0000"
+  },
+  {
+    "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+    "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+    "description": "Article URL: https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times\nComments URL: https://news.ycombinator.com/item?id=50368745\nPoints: 3\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T18:47:17.967Z",
+    "published": "Wed, 04 Nov 2026 17:27:39 +0000"
+  },
+  {
+    "url": "https://www.hpcwire.com/off-the-wire/sambanova-and-supermicro-to-build-ai-inference-systems-combining-rdus-and-gpus/",
+    "title": "SambaNova and Supermicro to Build AI Inference Systems Combining RDUs and GPUs",
+    "description": "Article URL: https://www.hpcwire.com/off-the-wire/sambanova-and-supermicro-to-build-ai-inference-systems-combining-rdus-and-gpus/\nComments URL: https://news.ycombinator.com/item?id=50368599\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T18:47:17.967Z",
+    "published": "Wed, 04 Nov 2026 17:15:44 +0000"
+  },
+  {
+    "url": "https://epyhia.com/ai-data-centers-turn-to-decommissioned-jet-engines-as-grid-queues",
+    "title": "AI Data Centers Turn to Decommissioned Jet Engines as Grid Queues Stretch Years",
+    "description": "Article URL: https://epyhia.com/ai-data-centers-turn-to-decommissioned-jet-engines-as-grid-queues\nComments URL: https://news.ycombinator.com/item?id=50368519\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T18:47:17.967Z",
+    "published": "Wed, 04 Nov 2026 17:08:34 +0000"
+  },
+  {
+    "url": "https://codingplans.dev/recipes/optimal-effort/",
+    "title": "What AI Model Effort to Use for Coding",
+    "description": "Article URL: https://codingplans.dev/recipes/optimal-effort/\nComments URL: https://news.ycombinator.com/item?id=50368496\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T18:47:17.967Z",
+    "published": "Wed, 04 Nov 2026 17:06:15 +0000"
+  },
+  {
+    "url": "https://github.com/renorai/renor-engine",
+    "title": "Show HN: Renor – one memory for all your AI agents",
+    "description": "Hey guys, I built Renor, one memory for all your agents, we got good results in benchmarks using less tokens.I built this because I was annoyed that my agents kept forgetting what I said and my existing solutions weren't good enough.It works by using a ledger of markdown that you can export.\n\nComme",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T18:47:17.967Z",
+    "published": "Wed, 04 Nov 2026 17:06:10 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/a-computational-analysis-of-womens-suffrage-in-historical-newspapers/",
+    "title": "A Computational Analysis of Women’s Suffrage in Historical Newspapers",
+    "description": "Using 600,546 digitized newspaper pages to measure how suffrage coverage changed from 1890 to 1920\nThe post A Computational Analysis of Women’s Suffrage in Historical Newspapers appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-04T18:47:23.812Z",
+    "published": "Wed, 04 Nov 2026 15:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-combine-contradictory-filters-in-dax/",
+    "title": "How to Combine Contradictory Filters in DAX",
+    "description": "Sometimes we need to calculate results based on contradictory filters. Without any action, these filters will lead to an empty result. Let's see how we can improve the data model to make it work.\nThe post How to Combine Contradictory Filters in DAX appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-04T18:47:23.812Z",
+    "published": "Wed, 04 Nov 2026 14:00:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/let-decision-models-guide-your-voice-assistant/",
+    "title": "Let Decision Models Guide Your Voice Assistant",
+    "description": "GPT-Live does the talking. A decision model tracks what’s confirmed and picks what to ask next.\nThe post Let Decision Models Guide Your Voice Assistant appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-04T18:47:23.812Z",
+    "published": "Wed, 04 Nov 2026 12:30:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/new-open-source-benchmark-reveals-reasoning-as-the-biggest-bottleneck-for-ai-in-cloud-operations/",
+    "title": "New open-source benchmark reveals reasoning as the biggest bottleneck for AI in cloud operations",
+    "description": "CloudOpsBench is a new open-source benchmark that measures how well AI agents handle typical DevOps tasks in the cloud, from fixing services and removing resources to restricting access rights, rolling out updates, and decommissioning projects.\nThe article New open-source benchmark reveals",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-04T18:47:25.763Z",
+    "published": "Wed, 04 Nov 2026 16:42:52 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/gpt-6-astra-sees-the-matrix-and-reprograms-other-ai-models-directly-through-their-weights/",
+    "title": "GPT-6 Astra sees the matrix and reprograms other AI models directly through their weights",
+    "description": "MIT researchers show that OpenAI's GPT-6 Astra can read and deliberately rewrite the weights of other AI models without traditional training. In one experiment, Astra boosted a Qwen model's math accuracy from 7.9 to 48.1 percent by changing just 0.016 percent of its weights. The approach co",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-04T18:47:25.763Z",
+    "published": "Wed, 04 Nov 2026 15:44:44 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropics-new-prototype-proves-which-model-wrote-an-ai-response-without-exposing-its-weights/",
+    "title": "Anthropic's new prototype proves which model wrote an AI response without exposing its weights",
+    "description": "Anthropic has released FlashProve, a research prototype that uses cryptography to verify whether an AI response actually came from the claimed model. The system still has significant limitations.\nThe article Anthropic&#039;s new prototype proves which model wrote an AI response without expo",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-04T18:47:25.763Z",
+    "published": "Wed, 04 Nov 2026 15:23:49 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
+    "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
+    "description": "The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country’s slow rate of adoption.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-04T18:47:32.656Z",
+    "published": "Wed, 04 Nov 2026 13:49:51 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/openais-codex-helps-in-aerodynamic-engineering-for-mazda",
+    "title": "OpenAI's Codex Helps in Aerodynamic Engineering for Mazda",
+    "description": "GPT-6 Astra, used through Codex, helps Mazda engineers explore different vehicle nose shapes, simulate airflow and identify designs that could reduce aerodynami",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-04T18:47:37.252Z",
+    "published": "Wed, 04 Nov 2026 16:32:49 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/global-tech/why-ai-is-eating-google-searchs-ad-revenue-while-boosting-metas",
+    "title": "Why AI is Eating Google Search’s Ad Revenue While Boosting Meta’s",
+    "description": "Chatbots such as ChatGPT, Anthropic’s Claude, and Meta’s new Muse assistant are becoming alternatives to traditional search.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-04T18:47:37.252Z",
+    "published": "Wed, 04 Nov 2026 13:36:26 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/84-see-ai-productivity-gains-but-only-10-allow-agent-autonomy-tcs-study",
+    "title": "84% See AI Productivity Gains, but Only 10% Allow Agent Autonomy: TCS Study",
+    "description": "Security, governance and model dependence are emerging as major concerns for businesses, even as executives report productivity gains from AI investments.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-04T18:47:37.252Z",
+    "published": "Wed, 04 Nov 2026 11:26:33 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2306727/redditor-uses-ai-to-get-switch-games-running-natively-on-apple-tv/",
+    "title": "Redditor uses AI to get Switch games running natively on Apple TV",
+    "description": "The TVPort project is another example of people using Claude Code to bring software to other platforms",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-04T18:47:39.332Z",
+    "published": "Wed, 04 Nov 2026 17:15:09 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2306534/americans-overwhelmingly-voted-against-data-centers-in-the-midterms/",
+    "title": "Americans overwhelmingly voted against data centers in the midterms",
+    "description": "Nowhere was the rebuke stronger than the now-blue Ohio.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-04T18:47:39.332Z",
+    "published": "Wed, 04 Nov 2026 15:28:52 +0000"
   }
 ]
