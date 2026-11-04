@@ -99450,5 +99450,267 @@
     "category": "community",
     "discovered": "2026-11-04T03:08:28.611Z",
     "published": "Tue, 03 Nov 2026 23:24:03 +0000"
+  },
+  {
+    "url": "https://www.glow.io/blogs/mcphantom-ai-coding-agents-are-installing-vulnerable-deprecated-mcp-servers-from-training-data",
+    "title": "AI coding agents are installing abandoned MCP servers with known security issues",
+    "description": "Article URL: https://www.glow.io/blogs/mcphantom-ai-coding-agents-are-installing-vulnerable-deprecated-mcp-servers-from-training-data\nComments URL: https://news.ycombinator.com/item?id=50363833\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T11:27:45.098Z",
+    "published": "Wed, 04 Nov 2026 10:58:43 +0000",
+    "processed": true,
+    "processedAt": "2026-11-04T11:30:09.834Z"
+  },
+  {
+    "url": "https://www.msn.com/en-us/technology/artificial-intelligence/canadian-publisher-says-thelyson-orelien-used-ai-to-write-award-winning-book-ends-relationship/ar-AA2fL1nS",
+    "title": "Canadian publisher: Orelien used AI to write award-winning book; ends relation",
+    "description": "Article URL: https://www.msn.com/en-us/technology/artificial-intelligence/canadian-publisher-says-thelyson-orelien-used-ai-to-write-award-winning-book-ends-relationship/ar-AA2fL1nS\nComments URL: https://news.ycombinator.com/item?id=50363800\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T11:27:45.098Z",
+    "published": "Wed, 04 Nov 2026 10:54:55 +0000",
+    "processed": true,
+    "processedAt": "2026-11-04T11:30:09.834Z"
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?id=com.caloi.app&hl=en_US",
+    "title": "Show HN : I built Caloi AI – an AI-powered calorie tracker",
+    "description": "Article URL: https://play.google.com/store/apps/details?id=com.caloi.app&hl=en_US\nComments URL: https://news.ycombinator.com/item?id=50363746\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T11:27:45.098Z",
+    "published": "Wed, 04 Nov 2026 10:47:43 +0000",
+    "processed": true,
+    "processedAt": "2026-11-04T11:30:09.834Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=BsSTbleas8E",
+    "title": "Wireless dictation device with gestures to control your Claude sessions, etc. [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=BsSTbleas8E\nComments URL: https://news.ycombinator.com/item?id=50363741\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T11:27:45.098Z",
+    "published": "Wed, 04 Nov 2026 10:47:15 +0000",
+    "processed": true,
+    "processedAt": "2026-11-04T11:30:09.834Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=H7_d_sgui6o",
+    "title": "AI in Mathematical Research: Heidelberg Laureate Forum",
+    "description": "Article URL: https://www.youtube.com/watch?v=H7_d_sgui6o\nComments URL: https://news.ycombinator.com/item?id=50363592\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T11:27:45.098Z",
+    "published": "Wed, 04 Nov 2026 10:27:45 +0000",
+    "processed": true,
+    "processedAt": "2026-11-04T11:30:09.834Z"
+  },
+  {
+    "url": "https://i8o.eu/journal/giving-new-life-to-ps-vita/",
+    "title": "Giving the PS Vita camera new life with GPT-6 Astra",
+    "description": "Article URL: https://i8o.eu/journal/giving-new-life-to-ps-vita/\nComments URL: https://news.ycombinator.com/item?id=50363552\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T11:27:45.098Z",
+    "published": "Wed, 04 Nov 2026 10:23:11 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50363461",
+    "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+    "description": "If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless you turn off chat history or use temporary chat sessions. These chat transcripts may even be read by human reviewers. Although Google claims to disconn",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T11:27:45.098Z",
+    "published": "Wed, 04 Nov 2026 10:10:27 +0000"
+  },
+  {
+    "url": "https://evalship.com/",
+    "title": "Show HN: Evalship – find the flaws in your LLM evals",
+    "description": "Article URL: https://evalship.com/\nComments URL: https://news.ycombinator.com/item?id=50363399\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T11:27:45.098Z",
+    "published": "Wed, 04 Nov 2026 10:03:08 +0000"
+  },
+  {
+    "url": "https://github.com/chengmatt416/umbra",
+    "title": "Show HN: Umbra – An AI agent that uses Android apps while you use your phone",
+    "description": "Article URL: https://github.com/chengmatt416/umbra\nComments URL: https://news.ycombinator.com/item?id=50363170\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T11:27:45.098Z",
+    "published": "Wed, 04 Nov 2026 09:30:16 +0000"
+  },
+  {
+    "url": "https://blog.radix63.dk/posts/how-i-ai/",
+    "title": "How I AI - mental models for working with AI and long-horizon",
+    "description": "Article URL: https://blog.radix63.dk/posts/how-i-ai/\nComments URL: https://news.ycombinator.com/item?id=50363148\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T11:27:45.098Z",
+    "published": "Wed, 04 Nov 2026 09:26:51 +0000"
+  },
+  {
+    "url": "https://ai.greensighter.com/",
+    "title": "AI UI/UX designer: assign a ticket, get senior-reviewed Figma designs in 24-48h",
+    "description": "Article URL: https://ai.greensighter.com/\nComments URL: https://news.ycombinator.com/item?id=50363090\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T11:27:45.098Z",
+    "published": "Wed, 04 Nov 2026 09:18:02 +0000"
+  },
+  {
+    "url": "https://gizmodo.com/did-claude-help-an-amateur-astronomer-discover-a-new-planet-2000824393",
+    "title": "Did Claude Help an Amateur Astronomer Discover a New Planet?",
+    "description": "Article URL: https://gizmodo.com/did-claude-help-an-amateur-astronomer-discover-a-new-planet-2000824393\nComments URL: https://news.ycombinator.com/item?id=50362860\nPoints: 7\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T11:27:45.098Z",
+    "published": "Wed, 04 Nov 2026 08:37:59 +0000"
+  },
+  {
+    "url": "https://twitter.com/ARTartaglini/status/2117659914873213007",
+    "title": "Put a heart next to a coding problem, and Claude and GPT write recursive code",
+    "description": "Article URL: https://twitter.com/ARTartaglini/status/2117659914873213007\nComments URL: https://news.ycombinator.com/item?id=50362779\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T11:27:45.098Z",
+    "published": "Wed, 04 Nov 2026 08:26:45 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50362700",
+    "title": "Ask HN: Impact of US Elections on AI?",
+    "description": "First off, apologies for brining up politics. Unfortunately, it is relevant to the conversation.The US midterm elections just concluded, and with the “blue tsunami” I would like to know opinions of people in AI.What will the impact be? I’m not politically active, so I’m curious to know what folks t",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T11:27:45.098Z",
+    "published": "Wed, 04 Nov 2026 08:16:44 +0000"
+  },
+  {
+    "url": "https://mcp.meteosource.com/",
+    "title": "Show HN: Meteosource MCP server, weather data for AI assistants",
+    "description": "Article URL: https://mcp.meteosource.com/\nComments URL: https://news.ycombinator.com/item?id=50362615\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T11:27:45.098Z",
+    "published": "Wed, 04 Nov 2026 08:02:25 +0000"
+  },
+  {
+    "url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
+    "title": "You'll need nerves of steel to work with AI agents",
+    "description": "Article URL: https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/\nComments URL: https://news.ycombinator.com/item?id=50362588\nPoints: 7\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T11:27:45.098Z",
+    "published": "Wed, 04 Nov 2026 07:58:08 +0000"
+  },
+  {
+    "url": "https://www.workbuddy.ai/",
+    "title": "WorkBuddy – AI Workspace from Tencent",
+    "description": "Article URL: https://www.workbuddy.ai/\nComments URL: https://news.ycombinator.com/item?id=50362428\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-04T11:27:45.098Z",
+    "published": "Wed, 04 Nov 2026 07:30:06 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/exit-polls-show-ai-ranked-last-among-voter-priorities-in-the-2026-u-s-midterms/",
+    "title": "Exit polls show AI ranked last among voter priorities in the 2026 U.S. midterms",
+    "description": "In the 2026 U.S. midterm elections, AI ranked last among campaign issues: only 56 percent of respondents cited AI and data centers as an important factor. According to NBC exit polls, corruption (90 percent) and the cost of living (89 percent) clearly dominated, despite growing public atten",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-04T11:27:52.264Z",
+    "published": "Wed, 04 Nov 2026 10:45:54 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/schools-that-turn-off-googles-ai-will-lose-search-too-starting-in-2027/",
+    "title": "Schools that turn off Google's AI will lose search too starting in 2027",
+    "description": "Starting in 2027, Google plans to turn off AI features in its school products by default, letting schools decide what to enable. The catch: schools that block AI entirely on their devices will also lose access to Google Search, since the two systems are now too deeply intertwined to separat",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-04T11:27:52.265Z",
+    "published": "Wed, 04 Nov 2026 10:06:23 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/03/tencent-wevisone-vl-vision-language-model/",
+    "title": "Tencent WeVisOne-VL Unifies Detection, OCR, Segmentation and Matting",
+    "description": "Tencent’s WeChat Vision team released WeVisOne-VL, an Apache 2.0 vision language model in 2B and 4B sizes. It handles detection, OCR, counting, segmentation and alpha matting in one model, with a 9.6M-parameter pixel decoder.\nThe post Tencent WeVisOne-VL Unifies Detection, OCR, Segmentation and Matt",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-04T11:27:59.915Z",
+    "published": "Wed, 04 Nov 2026 04:39:27 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/snowflake-introduces-business-ontology-cortex-ai-gateway-to-bring-ai-agents-into-enterprise-workflows",
+    "title": "Snowflake Introduces Business Ontology, Cortex AI Gateway to Bring AI Agents Into Enterprise Workflows",
+    "description": "The new capabilities give AI agents business context, enterprise controls and the ability to execute recurring tasks autonomously.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-04T11:28:02.054Z",
+    "published": "Wed, 04 Nov 2026 10:56:33 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-trends/when-sam-became-ram-ahead-of-diwali",
+    "title": "When Sam Became Ram Ahead of Diwali",
+    "description": "Altman’s recent comment on RAM shortage has reignited the debate over memory allocation between AI data centres and consumer devices.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-04T11:28:02.054Z",
+    "published": "Wed, 04 Nov 2026 08:07:39 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/three-members-behind-claude-code-leave-anthropic-within-10-days",
+    "title": "Three Members Behind Claude Code Leave Anthropic Within 10 Days",
+    "description": "Anthropic has seen three employees associated with its Claude Code product leave the company within 10 days. The departures include Thariq Shihipar, Anthony Mor",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-04T11:28:02.054Z",
+    "published": "Wed, 04 Nov 2026 06:51:18 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/happiest-minds-q2-revenue-rises-125-ai-revenue-figure-remains-undisclosed",
+    "title": "Happiest Minds Q2 Revenue Rises 12.5%; AI Revenue Figure Remains Undisclosed",
+    "description": "Happiest Minds reported a 12.5% revenue rise in Q2, with strong profit growth and ongoing merger plans with ITC Infotech.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-04T11:28:02.054Z",
+    "published": "Wed, 04 Nov 2026 06:34:14 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/sarvam-ai-launches-prism-a-jev-like-decision-model-built-on-sarvam-105b",
+    "title": "Sarvam AI Launches Prism, a Jev-Like Decision Model Built on Sarvam 105B",
+    "description": "Sarvam AI has launched Prism, a System 1 decision model built on its Sarvam 105B model, which the company says can return responses in 44 milliseconds while mai",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-04T11:28:02.054Z",
+    "published": "Wed, 04 Nov 2026 06:01:57 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/indiaai-mission-releases-3-indigenous-ai-models-developed-by-soket-zenteiq",
+    "title": "IndiaAI Mission Releases 3 Indigenous AI Models Developed by Soket, ZenteiQ",
+    "description": "The models support multiple Indian languages and target applications ranging from agentic AI and banking to secure, offline deployment across critical sectors.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-04T11:28:02.054Z",
+    "published": "Wed, 04 Nov 2026 03:28:05 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2306223/binance-attackers-fake-job-interviews-6-3-billion-crypto-heist/",
+    "title": "Binance attackers used fake job interviews to pull off $6.3 billion crypto heist",
+    "description": "Binance has revealed more details about the cyber attack that resulted in the loss of $6.34 billion in digital assets.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-04T11:28:04.157Z",
+    "published": "Wed, 04 Nov 2026 08:50:36 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2306215/valve-changed-its-steam-release-rules-amid-a-flood-of-ai-games/",
+    "title": "Valve just changed its Steam release rules amid a flood of AI games",
+    "description": "Valve is updating its game release rules to try to unclog a backlog of approvals due to a recent flood of new game titles, many created with AI.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-04T11:28:04.157Z",
+    "published": "Wed, 04 Nov 2026 08:28:09 +0000"
   }
 ]
