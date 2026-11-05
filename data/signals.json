@@ -14735,7 +14735,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-08-04T16:25:42.334Z",
-    "published": "Tue, 04 Aug 2026 10:30:00 +0000"
+    "published": "Tue, 04 Aug 2026 10:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-05T07:17:16.139Z"
   },
   {
     "url": "https://www.wired.com/story/mistral-is-in-the-right-place-at-the-right-time/",
@@ -100479,5 +100481,49 @@
     "category": "news",
     "discovered": "2026-11-05T00:16:05.452Z",
     "published": "Wed, 04 Nov 2026 18:39:08 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+    "title": "Apple is reportedly cutting budgets for its internal AI usage",
+    "description": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-05T07:14:33.207Z",
+    "published": "Thu, 05 Nov 2026 01:26:22 +0000",
+    "processed": true,
+    "processedAt": "2026-11-05T07:17:16.141Z"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/fix-speech-to-text-accuracy-problems",
+    "title": "Fix speech to text accuracy problems with a smarter workflow",
+    "description": "Learn why speech to text accuracy drops and how to fix it, from audio quality and accents to keyterm prompting, plus how to measure it with WER.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-05T07:14:36.440Z",
+    "published": "Wed, 04 Nov 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-05T07:17:16.141Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/04/google-agile-deliberation-subjective-image-classifiers/",
+    "title": "Google AI Research Releases Agile Deliberation Framework for Gray-Area Image Classifiers",
+    "description": "Google Research released Agile Deliberation, a human-in-the-loop framework that helps users define subjective visual concepts through borderline images. In 18 live sessions, it lifted Gemini-based classifier F1 by 10.5 points over zero-shot.\nThe post Google AI Research Releases Agile Deliberation Fr",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-05T07:15:06.041Z",
+    "published": "Thu, 05 Nov 2026 05:42:18 +0000",
+    "processed": true,
+    "processedAt": "2026-11-05T07:17:16.141Z"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/ai-productivity-to-add-28-billion-to-84-billion-to-indias-gdp-cognizant-study",
+    "title": "AI Productivity to Add $28 Billion to $84 Billion to India's GDP: Cognizant Study",
+    "description": "The research surveyed 700 enterprise employees and 75 C-suite and business executives at companies with revenues up to and exceeding $10 billion.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-05T07:15:08.112Z",
+    "published": "Thu, 05 Nov 2026 06:39:47 GMT",
+    "processed": true,
+    "processedAt": "2026-11-05T07:17:16.141Z"
   }
 ]
