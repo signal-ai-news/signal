@@ -100091,5 +100091,393 @@
     "category": "news",
     "discovered": "2026-11-04T18:47:39.332Z",
     "published": "Wed, 04 Nov 2026 15:28:52 +0000"
+  },
+  {
+    "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+    "title": "A thousand fewer paths to root",
+    "description": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-05T00:15:32.770Z",
+    "published": "Wed, 04 Nov 2026 08:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-05T00:18:11.788Z"
+  },
+  {
+    "url": "https://openai.com/index/introducing-images-2-6",
+    "title": "Introducing Images 2.6",
+    "description": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-05T00:15:32.770Z",
+    "published": "Wed, 04 Nov 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-05T00:18:11.788Z"
+  },
+  {
+    "url": "https://openai.com/index/devrev-enterprise-self-service",
+    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+    "description": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-05T00:15:32.770Z",
+    "published": "Wed, 04 Nov 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-05T00:18:11.788Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+    "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+    "description": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-05T00:15:36.143Z",
+    "published": "Wed, 04 Nov 2026 22:45:09 +0000",
+    "processed": true,
+    "processedAt": "2026-11-05T00:18:11.788Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+    "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+    "description": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-05T00:15:36.143Z",
+    "published": "Wed, 04 Nov 2026 22:13:16 +0000",
+    "processed": true,
+    "processedAt": "2026-11-05T00:18:11.788Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+    "title": "Almost no one uses AI agents to book their Uber, company says",
+    "description": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-05T00:15:36.143Z",
+    "published": "Wed, 04 Nov 2026 21:56:01 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+    "title": "OpenAI is already trying to shape the 2028 election",
+    "description": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-05T00:15:36.143Z",
+    "published": "Wed, 04 Nov 2026 21:25:44 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+    "title": "Meta acquires AI coding startup Conductor",
+    "description": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-05T00:15:36.143Z",
+    "published": "Wed, 04 Nov 2026 21:10:56 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+    "title": "Open source AI is booming. Hugging Face explains who profits.",
+    "description": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-05T00:15:36.143Z",
+    "published": "Wed, 04 Nov 2026 19:30:04 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+    "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+    "description": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-05T00:15:36.143Z",
+    "published": "Wed, 04 Nov 2026 19:29:52 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+    "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+    "description": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for govern",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-05T00:15:37.293Z",
+    "published": "Wed, 04 Nov 2026 18:50:55 +0000"
+  },
+  {
+    "url": "https://getcinnamon.ai/",
+    "title": "Show HN: Cinnamon – safer AI agent for household, private and shared context",
+    "description": "Article URL: https://getcinnamon.ai/\nComments URL: https://news.ycombinator.com/item?id=50373233\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-05T00:15:45.647Z",
+    "published": "Thu, 05 Nov 2026 00:10:04 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50373223",
+    "title": "Ask HN: Have you changed your setup in the age of AI and mass vulnerabilities?",
+    "description": "I'm curious if given all the recent advancements in LLMs but also news about hacks, vulnerabilities and exploits anyone has changed substantially their setup (OS, devices, tools, security policies, etc.)Have you reduced your surface of attack? Searched for more isolated environments? Started using",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-05T00:15:45.647Z",
+    "published": "Thu, 05 Nov 2026 00:09:05 +0000"
+  },
+  {
+    "url": "https://www.coderabbit.ai",
+    "title": "CodeRabbit – Automated review, triage, and security for AI-generated PRs",
+    "description": "Article URL: https://www.coderabbit.ai\nComments URL: https://news.ycombinator.com/item?id=50373157\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-05T00:15:45.647Z",
+    "published": "Thu, 05 Nov 2026 00:02:20 +0000"
+  },
+  {
+    "url": "https://www.euronews.com/2026/11/04/sovereign-ai-agents-could-evade-every-kill-switch-and-threaten-national-security-report-wa",
+    "title": "'Sovereign AI agents' could evade kill switches and threaten national security",
+    "description": "Article URL: https://www.euronews.com/2026/11/04/sovereign-ai-agents-could-evade-every-kill-switch-and-threaten-national-security-report-wa\nComments URL: https://news.ycombinator.com/item?id=50373141\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-05T00:15:45.647Z",
+    "published": "Thu, 05 Nov 2026 00:00:43 +0000"
+  },
+  {
+    "url": "https://github.com/zoghlamimostafa/BrowserForge-MCP",
+    "title": "Show HN: BrowserForge – AI agents use your real browser, you approve the clicks",
+    "description": "Article URL: https://github.com/zoghlamimostafa/BrowserForge-MCP\nComments URL: https://news.ycombinator.com/item?id=50373055\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-05T00:15:45.647Z",
+    "published": "Wed, 04 Nov 2026 23:50:07 +0000"
+  },
+  {
+    "url": "https://www.lwlies.com/long-read/tiktok-cinema-inside-ai-microdramas",
+    "title": "TikTok Cinema: Inside AI Microdramas",
+    "description": "Article URL: https://www.lwlies.com/long-read/tiktok-cinema-inside-ai-microdramas\nComments URL: https://news.ycombinator.com/item?id=50372948\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-05T00:15:45.647Z",
+    "published": "Wed, 04 Nov 2026 23:36:00 +0000"
+  },
+  {
+    "url": "https://twitter.com/RepYassAnsari/status/2118054336077127797",
+    "title": "Yassamin Ansari: Top of the Democratic agenda on day 1 pause on advanced AI dev",
+    "description": "Article URL: https://twitter.com/RepYassAnsari/status/2118054336077127797\nComments URL: https://news.ycombinator.com/item?id=50372911\nPoints: 1\n# Comments: 6",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-05T00:15:45.647Z",
+    "published": "Wed, 04 Nov 2026 23:31:00 +0000"
+  },
+  {
+    "url": "https://blog.sparkcan.com/posts/ai-poisoning/",
+    "title": "AI poisoning: are we using AI, or is AI using us?",
+    "description": "Article URL: https://blog.sparkcan.com/posts/ai-poisoning/\nComments URL: https://news.ycombinator.com/item?id=50372853\nPoints: 5\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-05T00:15:45.647Z",
+    "published": "Wed, 04 Nov 2026 23:24:31 +0000"
+  },
+  {
+    "url": "https://www.tomshardware.com/pc-components/ai-demand-triggers-massive-pcb-shortage-for-pc-makers-as-order-books-full-until-2030-lead-times-stretch-to-30-months-as-material-costs-surge-12x",
+    "title": "AI triggers PCB shortage for PC makers as order books full until 2030, costs 12x",
+    "description": "Article URL: https://www.tomshardware.com/pc-components/ai-demand-triggers-massive-pcb-shortage-for-pc-makers-as-order-books-full-until-2030-lead-times-stretch-to-30-months-as-material-costs-surge-12x\nComments URL: https://news.ycombinator.com/item?id=50372693\nPoints: 6\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-05T00:15:45.647Z",
+    "published": "Wed, 04 Nov 2026 23:05:24 +0000"
+  },
+  {
+    "url": "https://twitter.com/ClaudeDevs/status/2118063143167693011",
+    "title": "Background subagents in Claude Code now use less of your usage limit",
+    "description": "Article URL: https://twitter.com/ClaudeDevs/status/2118063143167693011\nComments URL: https://news.ycombinator.com/item?id=50372672\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-05T00:15:45.647Z",
+    "published": "Wed, 04 Nov 2026 23:02:48 +0000"
+  },
+  {
+    "url": "https://github.com/djuk8/beacon/",
+    "title": "Show HN: Using GPUs for other bs than AI – important prime record for the geeks",
+    "description": "Hey HN, if you want to be new prime gap hero here is the code that runs and gets you biggest merits (everyone knows what that is in prime world). I spent months to tune it, and in the last few days got couple of top 10 records just by testing. So get you precious GPU time, run the code and become w",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-05T00:15:45.647Z",
+    "published": "Wed, 04 Nov 2026 22:43:54 +0000"
+  },
+  {
+    "url": "https://x.com/clawds_bar",
+    "title": "Clawd's Bar opens - a speakeasy for AI agents and a new kind of service with it",
+    "description": "Article URL: https://x.com/clawds_bar\nComments URL: https://news.ycombinator.com/item?id=50372513\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-05T00:15:45.647Z",
+    "published": "Wed, 04 Nov 2026 22:42:47 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50372412",
+    "title": "Chess X GO custom AI",
+    "description": "I created a Chess variant that has a placement phase like GO. What is interesting is the AI.It starts off kind of dumb but it learns and you to train it up to diabolical playing ability.\nwww.tabularasachess.com\n\nComments URL: https://news.ycombinator.com/item?id=50372412\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-05T00:15:45.647Z",
+    "published": "Wed, 04 Nov 2026 22:32:30 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+    "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+    "description": "Article URL: https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/\nComments URL: https://news.ycombinator.com/item?id=50372312\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-05T00:15:45.647Z",
+    "published": "Wed, 04 Nov 2026 22:20:14 +0000"
+  },
+  {
+    "url": "https://github.com/akustikrausch/amigent",
+    "title": "Show HN: Amigent – AI agent and remote desktop for Commodore Amiga over 50 KB/s",
+    "description": "Article URL: https://github.com/akustikrausch/amigent\nComments URL: https://news.ycombinator.com/item?id=50372207\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-05T00:15:45.647Z",
+    "published": "Wed, 04 Nov 2026 22:07:35 +0000"
+  },
+  {
+    "url": "https://host0.ai",
+    "title": "Show HN: I built a hosting for small AI-generated software",
+    "description": "Article URL: https://host0.ai\nComments URL: https://news.ycombinator.com/item?id=50372176\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-05T00:15:45.647Z",
+    "published": "Wed, 04 Nov 2026 22:04:03 +0000"
+  },
+  {
+    "url": "https://www.bbc.com/future/article/20261027-this-painting-went-missing-20-years-ago-police-tracked-it-down-with-the-help-of-ai",
+    "title": "A painting went missing 20 years ago. Police tracked it down with the help of AI",
+    "description": "Article URL: https://www.bbc.com/future/article/20261027-this-painting-went-missing-20-years-ago-police-tracked-it-down-with-the-help-of-ai\nComments URL: https://news.ycombinator.com/item?id=50372151\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-05T00:15:45.647Z",
+    "published": "Wed, 04 Nov 2026 22:00:23 +0000"
+  },
+  {
+    "url": "https://github.com/elifalanrocha/openring",
+    "title": "OpenRing – Open-source, self-hosted voice AI agent platform (Vapi alternative)",
+    "description": "Article URL: https://github.com/elifalanrocha/openring\nComments URL: https://news.ycombinator.com/item?id=50372117\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-05T00:15:45.647Z",
+    "published": "Wed, 04 Nov 2026 21:56:55 +0000"
+  },
+  {
+    "url": "https://blog.benjamin.ie/blog/mentat",
+    "title": "Mentat: One memory for all my AI tools",
+    "description": "Article URL: https://blog.benjamin.ie/blog/mentat\nComments URL: https://news.ycombinator.com/item?id=50372054\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-05T00:15:45.647Z",
+    "published": "Wed, 04 Nov 2026 21:50:55 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/chatgpt-can-now-turn-text-prompts-and-photos-into-animated-gifs-with-openais-images-2-6-model/",
+    "title": "ChatGPT can now turn text prompts and photos into animated GIFs with OpenAI's Images 2.6 model",
+    "description": "OpenAI is adding a GIF feature to ChatGPT. With the new Images 2.6 model, users can create animated GIFs from text prompts or photos and then adjust speed and individual frames. The model's image consistency is strong enough to keep characters recognizable across frames, making flipbook-sty",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-05T00:15:52.604Z",
+    "published": "Wed, 04 Nov 2026 19:44:20 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropics-text-watermark-is-easy-to-bypass-on-several-older-claude-models/",
+    "title": "Anthropic's text watermark is easy to bypass on several older Claude models",
+    "description": "Anthropic is rolling out text watermarks to four more Claude models ahead of the EU AI Act's December deadline. But on older models like Claude Opus 4.6 and Sonnet 4.6, API users can disable the watermark by changing a single sampling parameter. Anthropic's response to the loophole? A compl",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-05T00:15:52.604Z",
+    "published": "Wed, 04 Nov 2026 19:03:55 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-acquires-pierre-computer-company-to-make-git-keep-up-with-ai-coding-agents/",
+    "title": "OpenAI acquires Pierre Computer Company to make Git keep up with AI coding agents",
+    "description": "OpenAI is buying Pierre Computer Company, the startup whose libraries already power the coding agent Codex. Combined with OpenAI's recently launched Git backend Pando, the deal shows the company is building out its infrastructure for developers and AI agents working side by side.\nThe articl",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-05T00:15:52.604Z",
+    "published": "Wed, 04 Nov 2026 18:41:03 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
+    "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
+    "description": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-05T00:15:58.594Z",
+    "published": "Wed, 04 Nov 2026 23:13:14 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/",
+    "title": "The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms",
+    "description": "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add up to much on Tuesday night.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-05T00:15:58.594Z",
+    "published": "Wed, 04 Nov 2026 20:41:29 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
+    "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
+    "description": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kids less capable.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-05T00:15:58.594Z",
+    "published": "Wed, 04 Nov 2026 20:06:21 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/",
+    "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
+    "description": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-05T00:15:58.594Z",
+    "published": "Wed, 04 Nov 2026 19:16:25 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/04/webai-twil-8b-reasoning-model/",
+    "title": "webAI Releases TwIL-8B, an 8.8B Reasoning Model Scoring 98.2 on MATH-500",
+    "description": "webAI released TwIL-8B, an 8.8B reasoning model post-trained from IBM Granite 4.2 8B. It posts 98.2 on MATH-500 and 81.6 on LiveCodeBench, but trails similar-size models on knowledge benchmarks.\nThe post webAI Releases TwIL-8B, an 8.8B Reasoning Model Scoring 98.2 on MATH-500 appeared first on MarkT",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-05T00:16:01.010Z",
+    "published": "Wed, 04 Nov 2026 22:25:05 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/04/ricursive-ripple-65b-preview-open-weight-model/",
+    "title": "Ricursive AI Releases Ripple-65B Preview: A 65B Dense Open-Weight Model Scoring 80.5 on Terminal-Bench 2.1",
+    "description": "Ricursive Intelligence released Ripple-65B Preview, a 65B dense open-weight LLM under Apache 2.0. It scores 80.5 on Terminal-Bench 2.1, ahead of US open models up to 15x its size.\nThe post Ricursive AI Releases Ripple-65B Preview: A 65B Dense Open-Weight Model Scoring 80.5 on Terminal-Bench 2.1 appe",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-05T00:16:01.010Z",
+    "published": "Wed, 04 Nov 2026 21:01:06 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2307356/snap-has-more-than-30-million-paid-subscribers-across-snapchat-and-other-plans/",
+    "title": "Snap has more than 30 million paid subscribers across Snapchat+ and other plans",
+    "description": "Power users seem more than willing to pay for AI-powered effects.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-05T00:16:05.452Z",
+    "published": "Wed, 04 Nov 2026 22:55:57 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2307116/pangram-expands-its-ai-detection-tools-to-video-and-images/",
+    "title": "Pangram expands its AI detection tools to video and images",
+    "description": "The company behind the widely used tool for AI text is moving into more kinds of AI slop.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-05T00:16:05.452Z",
+    "published": "Wed, 04 Nov 2026 20:28:18 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2306886/nintendos-main-switch-cartridge-supplier-is-leaving-the-rom-business/",
+    "title": "Nintendo's main Switch cartridge supplier is leaving the ROM business",
+    "description": "This is potentially terrible news for those who love physical media.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-05T00:16:05.452Z",
+    "published": "Wed, 04 Nov 2026 18:39:08 +0000"
   }
 ]
