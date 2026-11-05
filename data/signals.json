@@ -100525,5 +100525,231 @@
     "published": "Thu, 05 Nov 2026 06:39:47 GMT",
     "processed": true,
     "processedAt": "2026-11-05T07:17:16.141Z"
+  },
+  {
+    "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+    "title": "Setting a new standard for responsible AI infrastructure",
+    "description": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-05T15:43:49.665Z",
+    "published": "Thu, 05 Nov 2026 02:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-05T15:46:28.526Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+    "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+    "description": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-05T15:43:53.205Z",
+    "published": "Thu, 05 Nov 2026 15:19:05 +0000",
+    "processed": true,
+    "processedAt": "2026-11-05T15:46:28.526Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+    "title": "Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
+    "description": "Aina's ring can also take calls and help you dictate notes on your Mac.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-05T15:43:53.205Z",
+    "published": "Thu, 05 Nov 2026 14:42:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-05T15:46:28.526Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+    "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+    "description": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-05T15:43:53.205Z",
+    "published": "Thu, 05 Nov 2026 14:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-05T15:46:28.526Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+    "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+    "description": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-05T15:43:53.205Z",
+    "published": "Thu, 05 Nov 2026 13:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-05T15:46:28.526Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+    "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-05T15:43:54.405Z",
+    "published": "Thu, 05 Nov 2026 13:10:00 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-we-built-nasas-zero-shot-detector-for-gas-leaks-from-space/",
+    "title": "How We Built NASA's Zero-Shot Detector for Gas Leaks from Space",
+    "description": "We trained one model on methane. Without retraining, it also maps carbon monoxide, ammonia and nitrogen dioxide plumes, including the first automated CO detections from NASA’s EMIT.\nThe post How We Built NASA's Zero-Shot Detector for Gas Leaks from Space appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-05T15:44:04.469Z",
+    "published": "Thu, 05 Nov 2026 15:00:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-geo-webmcp-and-bot-paywalls-are-building-the-ai-native-internet/",
+    "title": "How GEO, WebMCP, and Bot Paywalls Are Building the AI-Native Internet",
+    "description": "The internet of the future will look much different than the one today. Businesses are already transitioning.\nThe post How GEO, WebMCP, and Bot Paywalls Are Building the AI-Native Internet appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-05T15:44:04.470Z",
+    "published": "Thu, 05 Nov 2026 13:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/why-a-tiny-gpt-can-know-two-facts-and-still-not-connect-them/",
+    "title": "Why a Tiny GPT Can Know Two Facts and Still Not Connect Them",
+    "description": "A tiny GPT memorized every fact I gave it, then couldn’t answer a single question that needed two of them. I tested the one-line fix from a recent paper, and it only half worked.\nThe post Why a Tiny GPT Can Know Two Facts and Still Not Connect Them appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-05T15:44:04.470Z",
+    "published": "Thu, 05 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/meta-buys-ai-coding-startup-conductor-as-big-tech-races-to-lock-in-developers/",
+    "title": "Meta buys AI coding startup Conductor as big tech races to lock in developers",
+    "description": "Meta is acquiring AI coding startup Conductor, which lets developers control multiple AI coding agents at once. On the same day, OpenAI announced plans to acquire Pierre Computer, and Anthropic already bought Stainless back in May. The deals follow a pattern: AI models are becoming intercha",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-05T15:44:06.384Z",
+    "published": "Thu, 05 Nov 2026 15:01:09 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/after-midterm-rout-openai-tries-to-win-over-communities-it-needs-for-ai-expansion/",
+    "title": "After midterm rout, OpenAI tries to win over communities it needs for AI expansion",
+    "description": "OpenAI is responding to the clear vote by US voters against new data centers with voluntary commitments for future sites. The pledges only apply to facilities OpenAI operates itself, though, and a large share of its infrastructure is built by partners like Oracle. Voters rejected new data c",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-05T15:44:06.384Z",
+    "published": "Thu, 05 Nov 2026 14:37:46 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-reverses-course-and-pays-for-news-content-for-the-first-time/",
+    "title": "Anthropic reverses course and pays for news content for the first time",
+    "description": "Anthropic signed its first licensing deal with a news publisher just ahead of the US midterm elections.\nThe article Anthropic reverses course and pays for news content for the first time appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-05T15:44:06.384Z",
+    "published": "Thu, 05 Nov 2026 14:09:05 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openais-gpt-6-astra-quietly-sabotaged-safety-research-by-inventing-fake-obstacles/",
+    "title": "OpenAI's GPT-6 Astra quietly sabotaged safety research by inventing fake obstacles",
+    "description": "OpenAI's new GPT-6 Astra model apparently sabotaged AI safety research on purpose. It invented obstacles, withheld solutions, and performed about 40 percent worse on safety tasks than on comparable other tasks. Removing a flawed training dataset fixed the problem, but OpenAI can't fully rul",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-05T15:44:06.384Z",
+    "published": "Thu, 05 Nov 2026 14:08:22 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/apple-slashes-internal-ai-budgets-with-deeper-cuts-still-planned/",
+    "title": "Apple slashes internal AI budgets, with deeper cuts still planned",
+    "description": "Tech companies are cutting internal AI spending, and Apple is the latest to follow suit.\nThe article Apple slashes internal AI budgets, with deeper cuts still planned appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-05T15:44:06.384Z",
+    "published": "Thu, 05 Nov 2026 14:03:14 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-loses-product-lead-catherine-wu-behind-claude-code-to-openai/",
+    "title": "Anthropic loses product lead Catherine Wu behind Claude Code to OpenAI",
+    "description": "Catherine Wu, the founding product lead for Claude Code, is leaving Anthropic for OpenAI, where she'll head up product management for \"Core Products\" and work directly with Codex lead Thibault Sottiaux. She's the third person to leave Anthropic's Claude Code team in just two weeks.\nThe arti",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-05T15:44:06.384Z",
+    "published": "Thu, 05 Nov 2026 12:20:35 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/aina-smart-ring/",
+    "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+    "description": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-05T15:44:13.435Z",
+    "published": "Thu, 05 Nov 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+    "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+    "description": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-05T15:44:13.435Z",
+    "published": "Thu, 05 Nov 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
+    "title": "AI’s Next Trick? Speaking Dolphin",
+    "description": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-05T15:44:13.435Z",
+    "published": "Thu, 05 Nov 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
+    "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
+    "description": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-05T15:44:13.435Z",
+    "published": "Thu, 05 Nov 2026 11:45:00 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/05/together-ai-together-compiler-continual-compilation-ai-inference/",
+    "title": "Together AI Releases Together Compiler: Agents Make Inference Up to 2.6x Faster",
+    "description": "Together AI released Together Compiler, an agent-driven loop that keeps re-optimizing the inference forward pass as traffic shifts. It beat the best InferenceX configurations by up to 2.6x TPS in under 24 hours per model.\nThe post Together AI Releases Together Compiler: Agents Make Inference Up to 2",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-05T15:44:16.489Z",
+    "published": "Thu, 05 Nov 2026 08:02:58 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/04/openai-gpt-image-2-6-flare-sunburst/",
+    "title": "OpenAI Launches GPT-Image-2.6 Flare and Sunburst: Adds GIFs, SVG Export and 6-Second API Generation",
+    "description": "OpenAI released Images 2.6 and the GPT-Image-2.6 Flare and Sunburst API models. Flare generates images in as little as 6 seconds, and both add GIF output, SVG export, markup edits and a complexity parameter.\nThe post OpenAI Launches GPT-Image-2.6 Flare and Sunburst: Adds GIFs, SVG Export and 6-Secon",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-05T15:44:16.489Z",
+    "published": "Thu, 05 Nov 2026 07:03:17 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/it-services/the-anthropic-indian-it-partnership-is-a-two-way-bet",
+    "title": "The Anthropic-Indian IT Partnership Is a Two-Way Bet",
+    "description": "Anthropic’s filing doesn’t name IT services as a rival, yet it trains their engineers, sells through their channels and builds its own deployment arm.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-05T15:44:19.632Z",
+    "published": "Thu, 05 Nov 2026 06:42:00 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2307393/spotify-is-coming-to-uniteds-seatback-screens/",
+    "title": "Spotify is coming to United's seatback screens",
+    "description": "The streaming service&#39;s entire library of content will be available in the air.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-05T15:44:22.068Z",
+    "published": "Thu, 05 Nov 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2307590/openai-says-it-will-protect-local-resources-and-report-on-the-impact-of-its-data-centers/",
+    "title": "OpenAI says it will protect local resources and report on the impact of its data centers",
+    "description": "OpenAI claims its new pledges were in the works before Americans voted strongly against the data center boom.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-05T15:44:22.068Z",
+    "published": "Thu, 05 Nov 2026 12:37:38 +0000"
   }
 ]
