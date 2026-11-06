@@ -14746,7 +14746,9 @@
     "source": "Wired AI",
     "category": "news",
     "discovered": "2026-08-04T16:25:42.334Z",
-    "published": "Tue, 04 Aug 2026 09:21:11 +0000"
+    "published": "Tue, 04 Aug 2026 09:21:11 +0000",
+    "processed": true,
+    "processedAt": "2026-11-06T09:47:24.390Z"
   },
   {
     "url": "https://www.zdnet.com/article/mango-launcher-might-be-the-most-enjoyable-home-screen-on-the-market/",
@@ -101230,5 +101232,49 @@
     "category": "news",
     "discovered": "2026-11-06T02:09:38.249Z",
     "published": "Thu, 05 Nov 2026 22:10:09 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+    "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+    "description": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-06T09:44:51.391Z",
+    "published": "Fri, 06 Nov 2026 06:28:32 +0000",
+    "processed": true,
+    "processedAt": "2026-11-06T09:47:24.393Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/05/thinking-machines-inkling-2-small-release/",
+    "title": "Thinking Machines Releases Inkling 2 Small, a 594B MoE With 17B Active",
+    "description": "Thinking Machines Lab released Inkling 2 Small, a 594B-parameter MoE with 17B active parameters. It scores 31 on the Artificial Analysis Intelligence Index and runs on Tinker, with Apache 2.0 weights planned.\nThe post Thinking Machines Releases Inkling 2 Small, a 594B MoE With 17B Active appeared fi",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-06T09:45:12.977Z",
+    "published": "Fri, 06 Nov 2026 04:25:07 +0000",
+    "processed": true,
+    "processedAt": "2026-11-06T09:47:24.393Z"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/smaller-language-models-could-reshape-how-enterprises-deploy-ai",
+    "title": "Smaller Language Models Could Reshape How Enterprises Deploy AI",
+    "description": "As enterprises explore smaller language models for specialised tasks, developers see opportunities for tighter evaluation and control. But smaller models still",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-06T09:45:15.555Z",
+    "published": "Fri, 06 Nov 2026 09:28:21 GMT",
+    "processed": true,
+    "processedAt": "2026-11-06T09:47:24.393Z"
+  },
+  {
+    "url": "https://www.engadget.com/2308832/airbnb-ai-travel-agent-2027-launch/",
+    "title": "Airbnb is threatening to launch an AI travel agent next year",
+    "description": "Airbnb is developing an AI travel agent that it says will eventually be able to help plan your whole trip.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-06T09:45:17.715Z",
+    "published": "Fri, 06 Nov 2026 07:51:42 +0000",
+    "processed": true,
+    "processedAt": "2026-11-06T09:47:24.393Z"
   }
 ]
