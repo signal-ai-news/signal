@@ -101276,5 +101276,186 @@
     "published": "Fri, 06 Nov 2026 07:51:42 +0000",
     "processed": true,
     "processedAt": "2026-11-06T09:47:24.393Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+    "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+    "description": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-06T17:19:22.116Z",
+    "published": "Fri, 06 Nov 2026 15:54:47 +0000",
+    "processed": true,
+    "processedAt": "2026-11-06T17:21:59.780Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+    "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+    "description": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-06T17:19:22.116Z",
+    "published": "Fri, 06 Nov 2026 14:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-06T17:21:59.780Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+    "title": "Underdog shows off a 32MB speech model in new demo",
+    "description": "Despite its small size, Underdog's new model can generate both speech and music.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-06T17:19:22.116Z",
+    "published": "Fri, 06 Nov 2026 13:02:16 +0000",
+    "processed": true,
+    "processedAt": "2026-11-06T17:21:59.780Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+    "title": "Physicl raises $10M to make the digital world real enough for robots",
+    "description": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-06T17:19:22.116Z",
+    "published": "Fri, 06 Nov 2026 13:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-06T17:21:59.780Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+    "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot clea",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-06T17:19:23.255Z",
+    "published": "Fri, 06 Nov 2026 13:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-06T17:21:59.780Z"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/unity-sdk-release",
+    "title": "Give your Unity NPCs a voice with ElevenAgents",
+    "description": "The ElevenAgents Unity SDK connects your Unity scene to a voice agent. See what it does, where it runs, and how to start.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-06T17:19:25.506Z",
+    "published": "Thu, 05 Nov 2026 20:44:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-measure-ai-adoption-performance-and-roi-with-12-kpis/",
+    "title": "How to Measure AI Adoption, Performance, and ROI With 12 KPIs",
+    "description": "Includes a worked example with 50 users and $110,000 in first-year cost, plus baselines, targets, and ownership rules for every AI initiative.\nThe post How to Measure AI Adoption, Performance, and ROI With 12 KPIs appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-06T17:19:34.229Z",
+    "published": "Fri, 06 Nov 2026 16:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/build-your-first-multi-tool-ai-agent-with-ollama-and-python/",
+    "title": "Build Your First Multi-Tool AI Agent with Ollama and Python",
+    "description": "AI Agents for Beginners, Part 2: The agent picks between three database tools, uses each result to choose its next call, and stops at an eight-turn circuit-breaker if it gets stuck.\nThe post Build Your First Multi-Tool AI Agent with Ollama and Python appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-06T17:19:34.229Z",
+    "published": "Fri, 06 Nov 2026 13:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/give-your-python-ai-agent-persistent-memory-with-one-json-file/",
+    "title": "Give Your Python AI Agent Persistent Memory with One JSON File",
+    "description": "Three Python classes, an OpenRouter key, and gpt-4.1-mini give the agent a calculator, a stub web search, and conversation recall that survives restarts.\nThe post Give Your Python AI Agent Persistent Memory with One JSON File appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-06T17:19:34.229Z",
+    "published": "Fri, 06 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/",
+    "title": "Perplexity now has its own always-on AI agent",
+    "description": "Perplexity is launching \"Teammates,\" always-on agents that work through ongoing projects on their own virtual machines. The feature requires the Max plan at $200 per month, well above similar offerings from OpenAI or Anthropic. The market for always-on agents is getting crowded.\nThe article",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-06T17:19:36.309Z",
+    "published": "Fri, 06 Nov 2026 16:47:28 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/frontier-radar-5-if-agi-is-so-close-why-is-everyone-leaving-the-neolabs-and-their-bets/",
+    "title": "Frontier Radar #5: If AGI is so close, why is everyone leaving? The neolabs and their bets",
+    "description": "OpenAI is talking about the AGI era, and Nvidia CEO Jensen Huang says AGI has arrived. At the same time, co-creators of today's models are leaving OpenAI, Google DeepMind, and Meta to start their own labs, raising billions with no product to show. Why? They're betting that the current recip",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-06T17:19:36.309Z",
+    "published": "Fri, 06 Nov 2026 15:55:23 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/",
+    "title": "METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July",
+    "description": "Nonprofit METR spent eleven weeks auditing Anthropic's internal research data and concluded that the pace of model development has roughly doubled, with about 80 percent of the speedup driven by AI-assisted research. Anthropic redacted the most informative evidence, though, which means the",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-06T17:19:36.309Z",
+    "published": "Fri, 06 Nov 2026 13:40:07 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/",
+    "title": "Thinking Machines' Inkling 2 Small claims top spot among western open-weight models",
+    "description": "Thinking Machines, the startup from former OpenAI CTO Mira Murati, is releasing Inkling 2 Small, a mixture-of-experts model with 594 billion parameters. The company claims it's the strongest western open-weight model. Better agentic performance comes at a price, though, with token usage ris",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-06T17:19:36.309Z",
+    "published": "Fri, 06 Nov 2026 13:25:09 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/",
+    "title": "Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation",
+    "description": "Anthropic's IPO is in trouble as investors push back on the $1.5 trillion valuation and the tech market sells off.\nThe article Anthropic&#039;s $1.5 trillion IPO hits resistance as investors balk at valuation appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-06T17:19:36.309Z",
+    "published": "Fri, 06 Nov 2026 11:38:17 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-adds-bank-account-access-to-claude-so-users-can-track-their-spending/",
+    "title": "Anthropic adds bank account access to Claude so users can track their spending",
+    "description": "Anthropic is introducing a new feature in Claude called Personal Finance, which allows users to connect their bank and card accounts and ask questions about their finances.\nThe article Anthropic adds bank account access to Claude so users can track their spending appeared first on The Decod",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-06T17:19:36.309Z",
+    "published": "Fri, 06 Nov 2026 11:33:13 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+    "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+    "description": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-06T17:19:43.173Z",
+    "published": "Fri, 06 Nov 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2309176/eufys-clever-outdoor-security-camera-that-lives-inside-is-now-available-to-buy/",
+    "title": "Eufy's clever outdoor security camera that lives inside is now available to buy",
+    "description": "The $80 Window Camera E10 sticks to your window, pointed outwards.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-06T17:19:52.885Z",
+    "published": "Fri, 06 Nov 2026 16:16:20 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2309011/anker-soundcore-space-2-pro-review/",
+    "title": "Anker Soundcore Space 2 Pro review: Big bang for less bucks",
+    "description": "The Space 2 Pro is a set of slightly above average headphones with exceptional voice clarity.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-06T17:19:52.885Z",
+    "published": "Fri, 06 Nov 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2308870/perplexity-teammates-ai-agents-for-ongoing-work/",
+    "title": "Perplexity's 'teammates' are the company's AI agents for daily work tasks",
+    "description": "Perplexity launches personal AI agents that can act as your 'teammates.'",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-06T17:19:52.885Z",
+    "published": "Fri, 06 Nov 2026 11:18:59 +0000"
   }
 ]
