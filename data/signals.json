@@ -101139,5 +101139,96 @@
     "category": "news",
     "discovered": "2026-11-05T21:53:09.390Z",
     "published": "Thu, 05 Nov 2026 18:00:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+    "title": "Australian universities are creating AI-native graduates",
+    "description": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-06T02:09:07.310Z",
+    "published": "Thu, 05 Nov 2026 17:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-06T02:11:45.016Z"
+  },
+  {
+    "url": "https://openai.com/index/merge-builds-with-openai",
+    "title": "Merge builds product and business tools with OpenAI technology",
+    "description": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-06T02:09:07.310Z",
+    "published": "Thu, 05 Nov 2026 08:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-06T02:11:45.016Z"
+  },
+  {
+    "url": "https://openai.com/ads/customers/flipsnack",
+    "title": "Flipsnack grows product signups with conversion optimization",
+    "description": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-06T02:09:07.310Z",
+    "published": "Thu, 05 Nov 2026 00:45:15 GMT",
+    "processed": true,
+    "processedAt": "2026-11-06T02:11:45.016Z"
+  },
+  {
+    "url": "https://openai.com/index/franklin-templeton",
+    "title": "Franklin Templeton uses OpenAI to support investment research",
+    "description": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-06T02:09:07.310Z",
+    "published": "Thu, 05 Nov 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-06T02:11:45.016Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+    "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+    "description": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-06T02:09:10.720Z",
+    "published": "Thu, 05 Nov 2026 22:40:55 +0000",
+    "processed": true,
+    "processedAt": "2026-11-06T02:11:45.016Z"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+    "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+    "description": "Certain configurations of Alpine are affected. Other distros may be as well.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-11-06T02:09:11.438Z",
+    "published": "Thu, 05 Nov 2026 23:09:36 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/",
+    "title": "Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second",
+    "description": "Google released Gemini Omni 1.2 Flash, a video generation and editing model with native 15-second clips, multi-turn conversational editing and a 30% price cut to $0.07 per second of 720p video.\nThe post Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second appeared first on M",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-06T02:09:33.227Z",
+    "published": "Thu, 05 Nov 2026 22:58:21 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/05/baidu-ernie-5-5-flash-base-280b-moe/",
+    "title": "Baidu Releases ERNIE 5.5 Flash Base: A 280B MoE Base Model With 14B Active Parameters",
+    "description": "Baidu has released ERNIE 5.5 Flash Base, a 280B sparse MoE base model with 14B active parameters, trained on 33.5T tokens and published before any mid- or post-training.\nThe post Baidu Releases ERNIE 5.5 Flash Base: A 280B MoE Base Model With 14B Active Parameters appeared first on MarkTechPost.",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-06T02:09:33.227Z",
+    "published": "Thu, 05 Nov 2026 21:33:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2308647/blue-origin-new-glenn-launch-delay-will-continue-into-2027/",
+    "title": "Blue Origin's New Glenn launch delay will continue into 2027",
+    "description": "Repairs have been slow after an explosion earlier this year.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-06T02:09:38.249Z",
+    "published": "Thu, 05 Nov 2026 22:10:09 +0000"
   }
 ]
