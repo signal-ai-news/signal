@@ -101457,5 +101457,150 @@
     "category": "news",
     "discovered": "2026-11-06T17:19:52.885Z",
     "published": "Fri, 06 Nov 2026 11:18:59 +0000"
+  },
+  {
+    "url": "https://openai.com/index/partnering-with-hacktron",
+    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "description": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-06T22:17:21.583Z",
+    "published": "Fri, 06 Nov 2026 08:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-06T22:20:09.252Z"
+  },
+  {
+    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "title": "Measuring how AI agents handle everyday wet-lab science",
+    "description": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-06T22:17:21.583Z",
+    "published": "Fri, 06 Nov 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-06T22:20:09.252Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+    "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+    "description": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-06T22:17:24.971Z",
+    "published": "Fri, 06 Nov 2026 18:44:38 +0000",
+    "processed": true,
+    "processedAt": "2026-11-06T22:20:09.252Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+    "description": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-06T22:17:24.971Z",
+    "published": "Fri, 06 Nov 2026 18:44:20 +0000",
+    "processed": true,
+    "processedAt": "2026-11-06T22:20:09.252Z"
+  },
+  {
+    "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+    "title": "How a Blue Wave midterm might reshape the AI industry",
+    "description": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers we",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-06T22:17:24.971Z",
+    "published": "Fri, 06 Nov 2026 18:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-06T22:20:09.252Z"
+  },
+  {
+    "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+    "title": "After the midterms, is the AI industry in for a rough two years?",
+    "description": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers we",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-06T22:17:24.971Z",
+    "published": "Fri, 06 Nov 2026 17:23:52 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+    "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+    "description": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-11-06T22:17:25.570Z",
+    "published": "Fri, 06 Nov 2026 20:56:41 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/voice-ai-infrastructure-guide",
+    "title": "Voice AI infrastructure: The 2026 stack explained",
+    "description": "Explore every layer of voice AI infrastructure and AI agent architecture, from speech recognition to guardrails, with ElevenAgents examples.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-06T22:17:28.454Z",
+    "published": "Fri, 06 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/",
+    "title": "Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model",
+    "description": "Ricursive Intelligence is releasing Ripple-65B Preview, a 65-billion-parameter open-weight language model that the company says achieves the top score among open-source U.S. models on the TerminalBench 2.1 coding benchmark at a total R&#038;D cost of $32 million. On other benchmarks, howeve",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-06T22:17:50.128Z",
+    "published": "Fri, 06 Nov 2026 19:47:04 +0000"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+    "title": "Beyond code generation: A developer’s guide to agentic engineering",
+    "description": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment.\nThe post Beyond code generation: A developer&#8217;s guide to agentic engineering appeared first on Th",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-11-06T22:17:54.976Z",
+    "published": "Fri, 06 Nov 2026 22:15:59 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+    "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+    "description": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-06T22:17:56.319Z",
+    "published": "Fri, 06 Nov 2026 18:43:43 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/06/zyphra-zyfa-fp8-flashattention-amd-mi355x/",
+    "title": "Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Faster",
+    "description": "Zyphra released ZYFA, open-source FP8 and BF16 prefill attention kernels for AMD Instinct MI355X. On real model activations, its FP8 kernels run 1.16-1.76x faster than AMD’s AITER, with 62-78% lower error at head dimension 128.\nThe post Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Fas",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-06T22:17:58.604Z",
+    "published": "Fri, 06 Nov 2026 17:28:04 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2309631/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans/",
+    "title": "Google's eyewear partners can't keep a lid on its smart glasses plans",
+    "description": "Gentle Monster shared that its \"Intelligent Eyewear\" will be available to pre-order on November 12.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-06T22:18:03.239Z",
+    "published": "Fri, 06 Nov 2026 19:45:23 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2309300/the-eu-accuses-tiktoks-rabbit-hole-algorithm-of-breaching-its-content-rules/",
+    "title": "The EU accuses TikTok's 'rabbit hole' algorithm of breaching its content rules",
+    "description": "The bloc said the platform needs to change how the For You page works to help protect users' mental health.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-06T22:18:03.239Z",
+    "published": "Fri, 06 Nov 2026 17:17:14 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2309285/youll-soon-be-able-to-text-alexa-to-shop-on-amazon/",
+    "title": "You'll soon be able to text Alexa to shop on Amazon",
+    "description": "The latest Alexa for shopping feature is initially available by invite in the US.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-06T22:18:03.239Z",
+    "published": "Fri, 06 Nov 2026 17:11:10 +0000"
   }
 ]
