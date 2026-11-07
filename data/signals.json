@@ -14790,7 +14790,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-08-04T16:25:48.658Z",
-    "published": "Tue, 04 Aug 2026 11:00:55 GMT"
+    "published": "Tue, 04 Aug 2026 11:00:55 GMT",
+    "processed": true,
+    "processedAt": "2026-11-07T23:53:39.372Z"
   },
   {
     "url": "https://www.zdnet.com/article/best-hisense-tv/",
@@ -102038,5 +102040,49 @@
     "category": "news",
     "discovered": "2026-11-07T20:06:08.855Z",
     "published": "Sat, 07 Nov 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+    "description": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-07T23:51:05.925Z",
+    "published": "Sat, 07 Nov 2026 21:17:08 +0000",
+    "processed": true,
+    "processedAt": "2026-11-07T23:53:39.374Z"
+  },
+  {
+    "url": "https://www.engadget.com/2310182/claude-vs-chatgpt-personal-finance-comparison/",
+    "title": "Claude Personal Finance vs. ChatGPT Finances: What sets them apart?",
+    "description": "Both AI tools offer to delve deep into your bank accounts, but they differ in privacy settings.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-07T23:51:33.286Z",
+    "published": "Sat, 07 Nov 2026 23:10:20 +0000",
+    "processed": true,
+    "processedAt": "2026-11-07T23:53:39.374Z"
+  },
+  {
+    "url": "https://www.engadget.com/2309565/how-often-should-restart-fitbit-watch/",
+    "title": "How often should you restart your Fitbit watch?",
+    "description": "The old &#34;turn it off and turn it on again&#34; trick can come in handy for certain situations.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-07T23:51:33.286Z",
+    "published": "Sat, 07 Nov 2026 21:45:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-07T23:53:39.374Z"
+  },
+  {
+    "url": "https://www.engadget.com/2309562/iphone-built-in-creativity-app-should-use-freeform/",
+    "title": "The built-in iPhone app for creativity you may be ignoring (but shouldn't)",
+    "description": "Your iPhone has a built-in app for brainstorming and visual planning that can turn scattered screenshots, sketches and notes into something you can share.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-07T23:51:33.286Z",
+    "published": "Sat, 07 Nov 2026 21:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-07T23:53:39.374Z"
   }
 ]
