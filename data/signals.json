@@ -14757,7 +14757,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-08-04T16:25:48.658Z",
-    "published": "Tue, 04 Aug 2026 15:22:00 GMT"
+    "published": "Tue, 04 Aug 2026 15:22:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-07T02:19:03.713Z"
   },
   {
     "url": "https://www.zdnet.com/article/home-batteries-cost-thousands-so-why-do-91-of-owners-say-they-would-buy-one-again/",
@@ -14766,7 +14768,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-08-04T16:25:48.658Z",
-    "published": "Tue, 04 Aug 2026 14:20:14 GMT"
+    "published": "Tue, 04 Aug 2026 14:20:14 GMT",
+    "processed": true,
+    "processedAt": "2026-11-07T02:19:03.713Z"
   },
   {
     "url": "https://www.zdnet.com/article/microsoft-finally-realized-windows-11-is-too-annoying-can-it-be-fixed/",
@@ -14775,7 +14779,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-08-04T16:25:48.658Z",
-    "published": "Tue, 04 Aug 2026 13:43:26 GMT"
+    "published": "Tue, 04 Aug 2026 13:43:26 GMT",
+    "processed": true,
+    "processedAt": "2026-11-07T02:19:03.713Z"
   },
   {
     "url": "https://www.zdnet.com/article/best-phones-without-ai-features/",
@@ -101602,5 +101608,27 @@
     "category": "news",
     "discovered": "2026-11-06T22:18:03.239Z",
     "published": "Fri, 06 Nov 2026 17:11:10 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "title": "Crusoe sells troubled Wyoming data center project to Google",
+    "description": "The deal highlights the challenges of developing massive AI data centers.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-07T02:16:27.434Z",
+    "published": "Sat, 07 Nov 2026 01:40:28 +0000",
+    "processed": true,
+    "processedAt": "2026-11-07T02:19:03.716Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+    "description": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-07T02:16:27.434Z",
+    "published": "Fri, 06 Nov 2026 22:53:46 +0000",
+    "processed": true,
+    "processedAt": "2026-11-07T02:19:03.716Z"
   }
 ]
