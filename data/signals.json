@@ -101920,5 +101920,123 @@
     "category": "news",
     "discovered": "2026-11-07T15:52:15.970Z",
     "published": "Sat, 07 Nov 2026 13:45:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/",
+    "title": "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation",
+    "description": "Despite the tech selloff, Anthropic is pressing ahead with its IPO at a valuation of $1.25 to $1.75 trillion, well below the hoped-for $2 trillion. The Claude developer aims to raise $80 to $100 billion before Thanksgiving. Rival OpenAI has also recently had to cut its valuation.\nThe articl",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-07T20:05:53.955Z",
+    "published": "Sat, 07 Nov 2026 17:37:25 +0000",
+    "processed": true,
+    "processedAt": "2026-11-07T20:08:15.209Z"
+  },
+  {
+    "url": "https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/",
+    "title": "AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds",
+    "description": "AI models can often spot problematic behavior by other AI agents in logs, according to a study by Anthropic researcher Andy Hall. GPT-5 found about 98 percent of reward-hacking cases, but the more exhaustively the search is tuned, the more false alarms pile up. That's not yet enough for rel",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-07T20:05:53.955Z",
+    "published": "Sat, 07 Nov 2026 16:56:38 +0000",
+    "processed": true,
+    "processedAt": "2026-11-07T20:08:15.209Z"
+  },
+  {
+    "url": "https://the-decoder.com/thinking-machines-inkling-2-small-drops-316-f-bombs-across-benchmark-runs/",
+    "title": "Thinking Machines' Inkling 2 Small drops 316 F-bombs across benchmark runs",
+    "description": "Thinking Machines' AI model Inkling 2 Small swears during its internal reasoning, 316 times across 2,655 benchmark runs, according to an analysis by Vals AI. The profanity typically shows up late in long runs that fail anyway. But it doesn't work as a warning signal: 96 percent of failed ru",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-07T20:05:53.955Z",
+    "published": "Sat, 07 Nov 2026 16:31:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-07T20:08:15.209Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/",
+    "title": "How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide",
+    "description": "Explore a comprehensive coding guide for NVIDIA's Dory 1.0 4B looped language model. Learn how to build the pinned llama.cpp branch, analyze loop-by-loop compute costs, test memory caching, and run paired evaluations.\nThe post How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide appeared fir",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-07T20:06:03.249Z",
+    "published": "Sat, 07 Nov 2026 19:22:44 +0000",
+    "processed": true,
+    "processedAt": "2026-11-07T20:08:15.209Z"
+  },
+  {
+    "url": "https://www.engadget.com/2306765/how-to-connect-apple-pencil-ipad/",
+    "title": "How to connect an Apple Pencil to your iPad",
+    "description": "An Apple Pencil adds great functionality to your iPad, but compatibility and pairing methods differ across models.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-07T20:06:08.855Z",
+    "published": "Sat, 07 Nov 2026 20:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-07T20:08:15.209Z"
+  },
+  {
+    "url": "https://www.engadget.com/2309543/how-to-set-up-use-spacexai-grok-in-google-workspace/",
+    "title": "How to set up SpaceXAI's Grok in Google Workspace (and what it can do)",
+    "description": "Inserting Grok into your Google Workspace is easy, but you&#39;ll want to consider a few things before rolling out the welcome mat.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-07T20:06:08.855Z",
+    "published": "Sat, 07 Nov 2026 19:15:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2306196/apple-carplay-how-to-watch-videos/",
+    "title": "How to watch videos on Apple CarPlay while parked",
+    "description": "iOS 27 introduced support for native video playback on CarPlay, with certain restrictions and requirements. Here&#39;s how to use the new feature.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-07T20:06:08.855Z",
+    "published": "Sat, 07 Nov 2026 18:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2306455/what-is-iphone-storage-system-data/",
+    "title": "What is System Data on an iPhone's storage, and how much is normal?",
+    "description": "Your iPhone&#39;s storage breaks down into many categories; System Data is often large but doesn&#39;t have a clear explanation.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-07T20:06:08.855Z",
+    "published": "Sat, 07 Nov 2026 17:45:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2306181/google-messages-settings-might-want-to-disable/",
+    "title": "5 Google Messages settings you might want to disable",
+    "description": "Google Messages is easily one of the best messaging apps available on Android, but that doesn&#39;t mean it&#39;s configured perfectly out of the box.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-07T20:06:08.855Z",
+    "published": "Sat, 07 Nov 2026 17:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2306356/how-to-legally-download-free-movies/",
+    "title": "How to legally download free movies to your computer",
+    "description": "There are services that will allow you to download movies from the public domain, and several streaming services let you download shows for offline viewing.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-07T20:06:08.855Z",
+    "published": "Sat, 07 Nov 2026 17:15:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2305767/gamers-tsa-game-console-rules/",
+    "title": "What gamers should know when bringing their consoles through TSA",
+    "description": "You&#39;re allowed to bring your game consoles through the TSA line, but what exactly you need to do depends on the airport and console size.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-07T20:06:08.855Z",
+    "published": "Sat, 07 Nov 2026 16:15:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2305570/macbook-keyboard-fix-not-responding/",
+    "title": "The right way to fix your MacBook keyboard if it isn't responding",
+    "description": "Don&#39;t count out your MacBook&#39;s keyboard just yet - a quick hardware cleaning or software toggle could get it working again.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-07T20:06:08.855Z",
+    "published": "Sat, 07 Nov 2026 16:00:00 +0000"
   }
 ]
