@@ -102274,5 +102274,249 @@
     "category": "news",
     "discovered": "2026-11-08T05:40:14.900Z",
     "published": "Sun, 08 Nov 2026 00:15:00 +0000"
+  },
+  {
+    "url": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
+    "title": "AI clog': UK public bodies battle onslaught of chatbot-generated complaints",
+    "description": "Article URL: https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence\nComments URL: https://news.ycombinator.com/item?id=50412899\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T13:08:03.938Z",
+    "published": "Sun, 08 Nov 2026 13:01:16 +0000",
+    "processed": true,
+    "processedAt": "2026-11-08T13:10:31.322Z"
+  },
+  {
+    "url": "https://evi-editor.codeberg.page/",
+    "title": "EVi, a pre-LLM fork of Vim",
+    "description": "Article URL: https://evi-editor.codeberg.page/\nComments URL: https://news.ycombinator.com/item?id=50412861\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T13:08:03.938Z",
+    "published": "Sun, 08 Nov 2026 12:55:08 +0000",
+    "processed": true,
+    "processedAt": "2026-11-08T13:10:31.322Z"
+  },
+  {
+    "url": "https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/",
+    "title": "LLMs are terrible at designing AI systems",
+    "description": "Article URL: https://www.seangoedecke.com/llms-are-terrible-at-designing-ai-systems/\nComments URL: https://news.ycombinator.com/item?id=50412713\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T13:08:03.938Z",
+    "published": "Sun, 08 Nov 2026 12:33:58 +0000",
+    "processed": true,
+    "processedAt": "2026-11-08T13:10:31.322Z"
+  },
+  {
+    "url": "https://h4c.team/en/posts/97",
+    "title": "Why Your AI Agent Can't Solve CTF Challenges",
+    "description": "Article URL: https://h4c.team/en/posts/97\nComments URL: https://news.ycombinator.com/item?id=50412675\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T13:08:03.938Z",
+    "published": "Sun, 08 Nov 2026 12:25:54 +0000",
+    "processed": true,
+    "processedAt": "2026-11-08T13:10:31.322Z"
+  },
+  {
+    "url": "https://consumerrights.wiki/w/Etsy_AI_training_terms_change_(2026)",
+    "title": "Etsy AI training terms change",
+    "description": "Article URL: https://consumerrights.wiki/w/Etsy_AI_training_terms_change_(2026)\nComments URL: https://news.ycombinator.com/item?id=50412447\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T13:08:03.938Z",
+    "published": "Sun, 08 Nov 2026 11:48:06 +0000",
+    "processed": true,
+    "processedAt": "2026-11-08T13:10:31.322Z"
+  },
+  {
+    "url": "https://github.com/harelix/aiport",
+    "title": "Aiport: A self-improving local LLM gateway for the erratic vibe coder",
+    "description": "Article URL: https://github.com/harelix/aiport\nComments URL: https://news.ycombinator.com/item?id=50412418\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T13:08:03.938Z",
+    "published": "Sun, 08 Nov 2026 11:44:16 +0000"
+  },
+  {
+    "url": "http://togelius.blogspot.com/2026/11/ai-alignment-considered-harmful.html",
+    "title": "AI Alignment Considered Harmful",
+    "description": "Article URL: http://togelius.blogspot.com/2026/11/ai-alignment-considered-harmful.html\nComments URL: https://news.ycombinator.com/item?id=50412294\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T13:08:03.938Z",
+    "published": "Sun, 08 Nov 2026 11:19:35 +0000"
+  },
+  {
+    "url": "https://dorcohen.dev/posts/what-can-ai-actually-hack/",
+    "title": "What Can AI Hack? Inside Frontier Labs' Tests",
+    "description": "Article URL: https://dorcohen.dev/posts/what-can-ai-actually-hack/\nComments URL: https://news.ycombinator.com/item?id=50411752\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T13:08:03.938Z",
+    "published": "Sun, 08 Nov 2026 09:42:03 +0000"
+  },
+  {
+    "url": "https://news.ncsu.edu/2026/11/new-techniques-to-prevent-backdoor-attacks/",
+    "title": "Researchers unveiled new techniques to protect AI from backdoor attacks",
+    "description": "Article URL: https://news.ncsu.edu/2026/11/new-techniques-to-prevent-backdoor-attacks/\nComments URL: https://news.ycombinator.com/item?id=50411704\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T13:08:03.938Z",
+    "published": "Sun, 08 Nov 2026 09:32:43 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50411679",
+    "title": "Ask HN: Is anyone using Codex, Gemini or another model over Claude Code?",
+    "description": "I'm using Codex, but feel I am going against the mainstream- and I'm not even sure why. Are developers mainly using Claude or us it more diverse?\n\nComments URL: https://news.ycombinator.com/item?id=50411679\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T13:08:03.938Z",
+    "published": "Sun, 08 Nov 2026 09:28:35 +0000"
+  },
+  {
+    "url": "https://thinkstream.app/",
+    "title": "ThinkStream – AI generates the work. We still need to understand it",
+    "description": "Article URL: https://thinkstream.app/\nComments URL: https://news.ycombinator.com/item?id=50411638\nPoints: 10\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T13:08:03.938Z",
+    "published": "Sun, 08 Nov 2026 09:20:04 +0000"
+  },
+  {
+    "url": "https://knhash.in/no-ai-line-cook/",
+    "title": "Being a line cook without talking to AI",
+    "description": "Article URL: https://knhash.in/no-ai-line-cook/\nComments URL: https://news.ycombinator.com/item?id=50411352\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T13:08:03.938Z",
+    "published": "Sun, 08 Nov 2026 08:16:14 +0000"
+  },
+  {
+    "url": "https://usdt-kit-production.up.railway.app/ramen",
+    "title": "Show HN: Ramen – an AI agent that has to earn its own rent",
+    "description": "Article URL: https://usdt-kit-production.up.railway.app/ramen\nComments URL: https://news.ycombinator.com/item?id=50411182\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T13:08:03.938Z",
+    "published": "Sun, 08 Nov 2026 07:38:55 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50411036",
+    "title": "Ask HN: LLM-Resistant Publishing Strategies",
+    "description": "As has been discussed at length, LLM companies carried out the most egregious theft of labor [0] and intellectual property [1] in human history.I am one among the many (artists, musicians, writers, developers), who continue to be appaled at tech billionaires profiting from this [2]. As such, I have",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T13:08:03.938Z",
+    "published": "Sun, 08 Nov 2026 06:57:42 +0000"
+  },
+  {
+    "url": "https://www.rxcode.dev/",
+    "title": "Show HN: I built an AI code editor that for teams",
+    "description": "I built an open-source AI code editor for team collaboration, featuring a built-in sprint board and the ability to assign tasks to different agents. I’d love to get your feedback and suggestions! PR and issues are very welcome\n\nComments URL: https://news.ycombinator.com/item?id=50410855\nPoints: 1\n#",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T13:08:03.938Z",
+    "published": "Sun, 08 Nov 2026 06:12:09 +0000"
+  },
+  {
+    "url": "https://calendly.com/d/d3ss-w9w-7vs",
+    "title": "AI labs are paying $100K–$2M for internal company workflow data",
+    "description": "Article URL: https://calendly.com/d/d3ss-w9w-7vs\nComments URL: https://news.ycombinator.com/item?id=50410816\nPoints: 2\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T13:08:03.938Z",
+    "published": "Sun, 08 Nov 2026 06:03:02 +0000"
+  },
+  {
+    "url": "https://www.techradar.com/pro/70-percent-of-brits-say-please-or-thank-you-when-speaking-to-ai-and-some-even-apologize",
+    "title": "70% of Brits say please or thank you when speaking to AI, some even apologize",
+    "description": "Article URL: https://www.techradar.com/pro/70-percent-of-brits-say-please-or-thank-you-when-speaking-to-ai-and-some-even-apologize\nComments URL: https://news.ycombinator.com/item?id=50410796\nPoints: 7\n# Comments: 9",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T13:08:03.938Z",
+    "published": "Sun, 08 Nov 2026 05:58:20 +0000"
+  },
+  {
+    "url": "https://codend.dev",
+    "title": "Show HN: Codend – Build and publish web apps with AI agents",
+    "description": "Article URL: https://codend.dev\nComments URL: https://news.ycombinator.com/item?id=50410758\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T13:08:03.938Z",
+    "published": "Sun, 08 Nov 2026 05:49:42 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/change-one-monty-hall-rule-and-five-llms-still-say-switch/",
+    "title": "Change One Monty Hall Rule and Five LLMs Still Say Switch",
+    "description": "Even with step-by-step reasoning, the models landed near 33% accuracy, and one quoted the host's rule correctly before ignoring it.\nThe post Change One Monty Hall Rule and Five LLMs Still Say Switch appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-08T13:08:09.402Z",
+    "published": "Sun, 08 Nov 2026 13:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts/",
+    "title": "The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts",
+    "description": "Turing Award winner Richard Sutton reaffirms that raw compute alone isn't enough for intelligence and that fundamentally new learning methods are needed. Ex-OpenAI researcher Tworek agrees, saying blind transformer scaling \"has reward hacked brains of a whole generation of scientists.\" A gr",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-08T13:08:11.112Z",
+    "published": "Sun, 08 Nov 2026 11:44:41 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/",
+    "title": "AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test",
+    "description": "Alibaba's new coding-agent benchmark, Co-Design Bench, tests AI agents on real user requests that already tripped them up in practice. Even GPT-6 Astra, the top performer, fully solves only 26.4 percent of tasks. On older benchmarks, the same models score above 99 percent.\nThe article AI co",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-08T13:08:11.112Z",
+    "published": "Sun, 08 Nov 2026 09:50:59 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+    "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+    "description": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-08T13:08:17.252Z",
+    "published": "Sun, 08 Nov 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+    "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+    "description": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-08T13:08:17.252Z",
+    "published": "Sun, 08 Nov 2026 10:00:00 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/",
+    "title": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding",
+    "description": "Google's Elephant-Goldfish Model plugin makes coding agents draft specs, then runs 5 zero-context review stages before any code.\nThe post Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding appeared first on MarkTechPost.",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-08T13:08:19.890Z",
+    "published": "Sun, 08 Nov 2026 10:46:18 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/",
+    "title": "Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared",
+    "description": "A config-verified comparison of how 10 open MoE models route tokens: total and active parameters, expert counts, top-k, shared experts, gating functions and load-balancing methods.\nThe post Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared appeared first on Ma",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-08T13:08:19.890Z",
+    "published": "Sun, 08 Nov 2026 10:27:27 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/07/moe-routing-strategies-explained/",
+    "title": "MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide)",
+    "description": "MoE routing strategies decide which experts process each token. This guide explains 7 methods, from Mixtral's top-2 softmax to DeepSeek-V4's hash routing, with the models that use each one.\nThe post MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guid",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-08T13:08:19.890Z",
+    "published": "Sun, 08 Nov 2026 06:18:33 +0000"
   }
 ]
