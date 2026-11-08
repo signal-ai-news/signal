@@ -102518,5 +102518,114 @@
     "category": "ml",
     "discovered": "2026-11-08T13:08:19.890Z",
     "published": "Sun, 08 Nov 2026 06:18:33 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-build-multi-agent-systems-with-the-openai-agents-sdk/",
+    "title": "How to Build Multi-Agent Systems with the OpenAI Agents SDK",
+    "description": "Build an EV purchase adviser and a support agent in Python, then see how fan-out, pipelines, hierarchies, and swarms reuse the same building blocks.\nThe post How to Build Multi-Agent Systems with the OpenAI Agents SDK appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-08T18:27:11.514Z",
+    "published": "Sun, 08 Nov 2026 15:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-08T18:29:30.664Z"
+  },
+  {
+    "url": "https://the-decoder.com/andrej-karpathy-built-a-curated-video-platform-in-a-weekend-using-claude-and-20-years-of-hacker-news/",
+    "title": "Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News",
+    "description": "OpenAI co-founder Andrej Karpathy used Claude's Opus 5.5 to filter 43 million Hacker News comments into 6,454 curated videos. The result beats YouTube's own recommendations, he says.\nThe article Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-08T18:27:13.263Z",
+    "published": "Sun, 08 Nov 2026 14:23:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-08T18:29:30.664Z"
+  },
+  {
+    "url": "https://the-decoder.com/the-brain-as-computer-metaphor-shaped-modern-ai-but-may-be-misleading-the-consciousness-debate/",
+    "title": "The brain-as-computer metaphor shaped modern AI but may be misleading the consciousness debate",
+    "description": "Consciousness researchers Anil Seth, Ned Block, and Giulio Tononi argue in a Nature commentary that today's AI systems aren't conscious and won't become so on silicon hardware. They consider the assumption that consciousness depends on computation alone \"fatally flawed\" and warn against gra",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-08T18:27:13.263Z",
+    "published": "Sun, 08 Nov 2026 13:49:21 +0000",
+    "processed": true,
+    "processedAt": "2026-11-08T18:29:30.664Z"
+  },
+  {
+    "url": "https://www.engadget.com/2310304/uk-has-no-plans-to-slow-down-ai-data-center-construction/",
+    "title": "UK has no plans to slow down AI data center construction",
+    "description": "The country's growth minister said the data centers will continue as \"essential infrastructure\" projects.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-08T18:27:24.969Z",
+    "published": "Sun, 08 Nov 2026 18:10:01 +0000",
+    "processed": true,
+    "processedAt": "2026-11-08T18:29:30.664Z"
+  },
+  {
+    "url": "https://www.engadget.com/2308205/how-much-did-iphone-cost-2007-vs-2026/",
+    "title": "How much did an iPhone cost in 2007 vs. 2026? The gap is smaller than you think",
+    "description": "The first iPhone launched at $499 in 2007. See how that price compares to today&#39;s models once inflation, storage and features are factored in.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-08T18:27:24.969Z",
+    "published": "Sun, 08 Nov 2026 16:45:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-08T18:29:30.664Z"
+  },
+  {
+    "url": "https://www.engadget.com/2307837/how-long-expect-apple-airpods-last/",
+    "title": "How long can you expect your Apple AirPods to last?",
+    "description": "Here&#39;s how to get the most out of your AirPods.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-08T18:27:24.969Z",
+    "published": "Sun, 08 Nov 2026 16:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2308062/ai-music-difficult-to-detect-telltale-signs/",
+    "title": "AI music can be difficult to detect, but there are some telltale signs",
+    "description": "AI-generated songs are filling Spotify and other platforms. These vocal, lyric and instrumental tells can help you catch them before you hit play.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-08T18:27:24.969Z",
+    "published": "Sun, 08 Nov 2026 16:15:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2307854/how-to-attach-fitbit-air-to-old-school-watch/",
+    "title": "You can attach your Fitbit Air to almost any old-school watch",
+    "description": "There are a few ways to combine the screen-less FitBit Air with an existing analog watch.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-08T18:27:24.969Z",
+    "published": "Sun, 08 Nov 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2307846/how-long-pc-coolant-lasts/",
+    "title": "Can PC coolant expire? Here's how long it can last",
+    "description": "A liquid-cooled PC can certainly look cool, but there are hurdles when mixing tech and water. Here&#39;s what you need to know to keep your rig running right.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-08T18:27:24.969Z",
+    "published": "Sun, 08 Nov 2026 15:45:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2307840/pro-gamers-dont-use-oled-monitors-why-you-should/",
+    "title": "Pro Gamers typically don't use OLED monitors, but you most definitely can",
+    "description": "Big tournaments favor LCD monitors, though perhaps not for the reasons you suspect. We&#39;ll explain why normal gamers can and should embrace OLED displays.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-08T18:27:24.969Z",
+    "published": "Sun, 08 Nov 2026 15:15:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2307604/game-reverse-engineering-community-latest-ai-casualty/",
+    "title": "The game reverse engineering community is the latest casualty of AI",
+    "description": "For years, decompilation communities thrived on the challenge of breaking down video games to their core code and adapting them. Then AI tools ruined the fun.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-08T18:27:24.969Z",
+    "published": "Sun, 08 Nov 2026 14:15:00 +0000"
   }
 ]
