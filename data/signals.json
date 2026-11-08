@@ -102627,5 +102627,249 @@
     "category": "news",
     "discovered": "2026-11-08T18:27:24.969Z",
     "published": "Sun, 08 Nov 2026 14:15:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+    "description": "In a memo to the company, Huang admitted that he had an affair.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-08T22:22:44.911Z",
+    "published": "Sun, 08 Nov 2026 21:00:11 +0000",
+    "processed": true,
+    "processedAt": "2026-11-08T22:25:15.801Z"
+  },
+  {
+    "url": "https://www.nextiqumai.com/insights/who-does-chatgpt-name-instead-of-you-12-tool-citation-audit",
+    "title": "Who do AI search engines name when buyers ask about 12 cold-email tools?",
+    "description": "Article URL: https://www.nextiqumai.com/insights/who-does-chatgpt-name-instead-of-you-12-tool-citation-audit\nComments URL: https://news.ycombinator.com/item?id=50417769\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T22:22:51.401Z",
+    "published": "Sun, 08 Nov 2026 21:57:07 +0000",
+    "processed": true,
+    "processedAt": "2026-11-08T22:25:15.801Z"
+  },
+  {
+    "url": "https://tech.yahoo.com/ai/meta-ai/articles/metas-charm-gadget-carries-ceo-043955979.html",
+    "title": "Meta's Charm gadget carries CEO Zuckerberg's big AI ambitions",
+    "description": "Article URL: https://tech.yahoo.com/ai/meta-ai/articles/metas-charm-gadget-carries-ceo-043955979.html\nComments URL: https://news.ycombinator.com/item?id=50417169\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T22:22:51.401Z",
+    "published": "Sun, 08 Nov 2026 20:57:43 +0000",
+    "processed": true,
+    "processedAt": "2026-11-08T22:25:15.801Z"
+  },
+  {
+    "url": "https://github.com/secureakira-tech/early-music-ipa-guide",
+    "title": "AI skill to provide IPA and English translations from uploaded sheet music",
+    "description": "Article URL: https://github.com/secureakira-tech/early-music-ipa-guide\nComments URL: https://news.ycombinator.com/item?id=50416922\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T22:22:51.401Z",
+    "published": "Sun, 08 Nov 2026 20:37:23 +0000",
+    "processed": true,
+    "processedAt": "2026-11-08T22:25:15.801Z"
+  },
+  {
+    "url": "https://useskribble.com",
+    "title": "Not another AI note taker",
+    "description": "Article URL: https://useskribble.com\nComments URL: https://news.ycombinator.com/item?id=50416773\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T22:22:51.401Z",
+    "published": "Sun, 08 Nov 2026 20:24:16 +0000",
+    "processed": true,
+    "processedAt": "2026-11-08T22:25:15.801Z"
+  },
+  {
+    "url": "https://playground.alephapc.com/",
+    "title": "Show HN: APC Playground – Stop AI agents from modifying your API tool calls",
+    "description": "Article URL: https://playground.alephapc.com/\nComments URL: https://news.ycombinator.com/item?id=50416757\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T22:22:51.401Z",
+    "published": "Sun, 08 Nov 2026 20:22:26 +0000"
+  },
+  {
+    "url": "https://github.com/avivgerz-hue/vibe-shield",
+    "title": "Vibe-Shield – Static security scanner for AI-generated Next.js/Supabase code",
+    "description": "Article URL: https://github.com/avivgerz-hue/vibe-shield\nComments URL: https://news.ycombinator.com/item?id=50416741\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T22:22:51.401Z",
+    "published": "Sun, 08 Nov 2026 20:21:10 +0000"
+  },
+  {
+    "url": "https://gist.github.com/imaitland/caefe0b2d6f007f1c200ee4e294f8494",
+    "title": "A Git hook to augment Claude-code attribution",
+    "description": "Article URL: https://gist.github.com/imaitland/caefe0b2d6f007f1c200ee4e294f8494\nComments URL: https://news.ycombinator.com/item?id=50416660\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T22:22:51.401Z",
+    "published": "Sun, 08 Nov 2026 20:12:40 +0000"
+  },
+  {
+    "url": "https://asiprize.com/",
+    "title": "Show HN: Claude Opus 5.5 (Max) best at generating startup ideas",
+    "description": "Article URL: https://asiprize.com/\nComments URL: https://news.ycombinator.com/item?id=50416651\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T22:22:51.401Z",
+    "published": "Sun, 08 Nov 2026 20:11:32 +0000"
+  },
+  {
+    "url": "https://vynyo.com",
+    "title": "Show HN: Vynyo – AI creative studio for hairstyle, image and video",
+    "description": "Article URL: https://vynyo.com\nComments URL: https://news.ycombinator.com/item?id=50416470\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T22:22:51.401Z",
+    "published": "Sun, 08 Nov 2026 19:49:45 +0000"
+  },
+  {
+    "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+    "title": "How I Fight AI Brain Fry",
+    "description": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry\nComments URL: https://news.ycombinator.com/item?id=50416363\nPoints: 104\n# Comments: 88",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T22:22:51.401Z",
+    "published": "Sun, 08 Nov 2026 19:37:42 +0000"
+  },
+  {
+    "url": "https://www.newindianexpress.com/explainers/2026/Nov/06/ai-detection-trap-when-machines-put-human-creativity-on-trial",
+    "title": "AI detection trap: When machines put human creativity on trial",
+    "description": "Article URL: https://www.newindianexpress.com/explainers/2026/Nov/06/ai-detection-trap-when-machines-put-human-creativity-on-trial\nComments URL: https://news.ycombinator.com/item?id=50416216\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T22:22:51.401Z",
+    "published": "Sun, 08 Nov 2026 19:25:16 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=zrlLUUdqDJI",
+    "title": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=zrlLUUdqDJI\nComments URL: https://news.ycombinator.com/item?id=50416103\nPoints: 7\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T22:22:51.401Z",
+    "published": "Sun, 08 Nov 2026 19:14:41 +0000"
+  },
+  {
+    "url": "https://world.emergence.ai/",
+    "title": "Ask HN- Will AI agents behave differently in a swarm?",
+    "description": "Article URL: https://world.emergence.ai/\nComments URL: https://news.ycombinator.com/item?id=50416075\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T22:22:51.401Z",
+    "published": "Sun, 08 Nov 2026 19:11:54 +0000"
+  },
+  {
+    "url": "https://www.blogto.com/tech/2026/11/canada-ai-translation-tool-making-mistakes/",
+    "title": "Canada's AI translation tool keeps making hilarious mistakes",
+    "description": "Article URL: https://www.blogto.com/tech/2026/11/canada-ai-translation-tool-making-mistakes/\nComments URL: https://news.ycombinator.com/item?id=50415905\nPoints: 6\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T22:22:51.401Z",
+    "published": "Sun, 08 Nov 2026 18:52:42 +0000"
+  },
+  {
+    "url": "https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70113",
+    "title": "The Heavy Cloud: Hydrosocial Dispossession and the Water Coloniality of AI Infra",
+    "description": "Article URL: https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70113\nComments URL: https://news.ycombinator.com/item?id=50415854\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T22:22:51.401Z",
+    "published": "Sun, 08 Nov 2026 18:46:42 +0000"
+  },
+  {
+    "url": "https://github.com/rohith0707/llm-cost-watch",
+    "title": "Show HN: LLM-cost-watch – Ask Claude why your LLM bill jumped",
+    "description": "Article URL: https://github.com/rohith0707/llm-cost-watch\nComments URL: https://news.ycombinator.com/item?id=50415785\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T22:22:51.401Z",
+    "published": "Sun, 08 Nov 2026 18:39:34 +0000"
+  },
+  {
+    "url": "https://slopcalculator.com/",
+    "title": "Show HN: Is your product AI slop?",
+    "description": "Article URL: https://slopcalculator.com/\nComments URL: https://news.ycombinator.com/item?id=50415740\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T22:22:51.401Z",
+    "published": "Sun, 08 Nov 2026 18:32:31 +0000"
+  },
+  {
+    "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+    "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+    "description": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers\nComments URL: https://news.ycombinator.com/item?id=50415628\nPoints: 477\n# Comments: 298",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T22:22:51.401Z",
+    "published": "Sun, 08 Nov 2026 18:16:07 +0000"
+  },
+  {
+    "url": "https://orbtile.com/tools/claude-code-statusline-builder",
+    "title": "Show HN: Claude Code status line, hooks and permissions builders (in-browser)",
+    "description": "Article URL: https://orbtile.com/tools/claude-code-statusline-builder\nComments URL: https://news.ycombinator.com/item?id=50415399\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T22:22:51.401Z",
+    "published": "Sun, 08 Nov 2026 17:47:39 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2309626/dont-like-google-health-ai-coach-how-turn-off/",
+    "title": "Don't like Google Health's AI Coach? Here's how to turn it off",
+    "description": "If this Premium feature is bugging you, there&#39;s good news: you aren&#39;t stuck with it.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-08T22:23:09.906Z",
+    "published": "Sun, 08 Nov 2026 21:15:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2309286/why-apple-m6-chip-cant-compete-any-nvidia-gpu/",
+    "title": "Why Apple's M6 Chip Can't Hold Its Own Against Any NVIDIA GPU",
+    "description": "With the announcement of its M6, Apple is stepping into a new generation of its processors. Here&#39;s why it still can&#39;t compete with NVIDIA GPUs.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-08T22:23:09.906Z",
+    "published": "Sun, 08 Nov 2026 19:45:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2310316/suno-ai-music-generator-sued-again-for-copyright-infringement/",
+    "title": "Suno AI music generator sued again for copyright infringement",
+    "description": "Groups that own the music rights to Elvis Presley and Eminem's tracks filed the latest lawsuits.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-08T22:23:09.906Z",
+    "published": "Sun, 08 Nov 2026 19:42:14 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2309256/underrated-playstation-app-features/",
+    "title": "5 underrated PlayStation App features",
+    "description": "The PlayStation App offers its users certain features that will make their lives easier, especially if they really love playing on their console.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-08T22:23:09.906Z",
+    "published": "Sun, 08 Nov 2026 19:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2309548/2tb-phone-storage-makes-sense/",
+    "title": "Why 2TB of phone storage makes more sense than you think",
+    "description": "Is 2TB of phone storage worth it? Find out who needs it and who can safely skip it, plus how much space you need for everyday photos, apps and games.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-08T22:23:09.906Z",
+    "published": "Sun, 08 Nov 2026 18:45:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2309033/biggest-disadvantages-using-ai-glasses/",
+    "title": "The biggest disadvantages of using AI glasses",
+    "description": "AI glasses can do a lot of cool things, there&#39;s no debate about that. But there are also serious downsides to the tech.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-08T22:23:09.906Z",
+    "published": "Sun, 08 Nov 2026 18:30:00 +0000"
   }
 ]
