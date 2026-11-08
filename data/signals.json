@@ -102084,5 +102084,195 @@
     "published": "Sat, 07 Nov 2026 21:30:00 +0000",
     "processed": true,
     "processedAt": "2026-11-07T23:53:39.374Z"
+  },
+  {
+    "url": "https://github.com/tinyBigGAMES/VindexLLM",
+    "title": "VindexLLM – Windows Vulkan GPU GGUF LLM inference engine written in Delphi 12",
+    "description": "Article URL: https://github.com/tinyBigGAMES/VindexLLM\nComments URL: https://news.ycombinator.com/item?id=50410646\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T05:39:55.321Z",
+    "published": "Sun, 08 Nov 2026 05:25:50 +0000",
+    "processed": true,
+    "processedAt": "2026-11-08T05:42:20.418Z"
+  },
+  {
+    "url": "https://www.businessinsider.com/ai-human-slop-software-security-vulnerabilities-internet-2026-10",
+    "title": "The internet has a human slop problem, and AI is exposing it",
+    "description": "Article URL: https://www.businessinsider.com/ai-human-slop-software-security-vulnerabilities-internet-2026-10\nComments URL: https://news.ycombinator.com/item?id=50410557\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T05:39:55.321Z",
+    "published": "Sun, 08 Nov 2026 05:09:25 +0000",
+    "processed": true,
+    "processedAt": "2026-11-08T05:42:20.418Z"
+  },
+  {
+    "url": "https://regescode.com/",
+    "title": "Show HN: Reges Code – a free AI code editor that runs on local models",
+    "description": "Article URL: https://regescode.com/\nComments URL: https://news.ycombinator.com/item?id=50410429\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T05:39:55.321Z",
+    "published": "Sun, 08 Nov 2026 04:32:44 +0000",
+    "processed": true,
+    "processedAt": "2026-11-08T05:42:20.418Z"
+  },
+  {
+    "url": "https://www.mirastacklabs.ai/",
+    "title": "Is \"GPU-hour per user\" a sane way to price LLM inference?",
+    "description": "Article URL: https://www.mirastacklabs.ai/\nComments URL: https://news.ycombinator.com/item?id=50410369\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T05:39:55.321Z",
+    "published": "Sun, 08 Nov 2026 04:15:58 +0000",
+    "processed": true,
+    "processedAt": "2026-11-08T05:42:20.418Z"
+  },
+  {
+    "url": "https://regestown.com",
+    "title": "Show HN: Reges Town – a 3D city run by AI citizens, in the browser",
+    "description": "Article URL: https://regestown.com\nComments URL: https://news.ycombinator.com/item?id=50410242\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T05:39:55.321Z",
+    "published": "Sun, 08 Nov 2026 03:44:10 +0000",
+    "processed": true,
+    "processedAt": "2026-11-08T05:42:20.418Z"
+  },
+  {
+    "url": "https://medium.com/@wangjiayiliuyan/i-love-the-smiths-ai-a-familiar-elevator-scene-with-you-in-it-51e69e0711e6",
+    "title": "I Love the Smiths AI: A Familiar Elevator Scene, with You in It",
+    "description": "Article URL: https://medium.com/@wangjiayiliuyan/i-love-the-smiths-ai-a-familiar-elevator-scene-with-you-in-it-51e69e0711e6\nComments URL: https://news.ycombinator.com/item?id=50410205\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T05:39:55.321Z",
+    "published": "Sun, 08 Nov 2026 03:35:16 +0000"
+  },
+  {
+    "url": "https://rpallas.xyz/good-night-and-good-luck/",
+    "title": "Good Night, and Good Luck: AI, fear and what the job data says",
+    "description": "Article URL: https://rpallas.xyz/good-night-and-good-luck/\nComments URL: https://news.ycombinator.com/item?id=50410126\nPoints: 5\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T05:39:55.321Z",
+    "published": "Sun, 08 Nov 2026 03:14:51 +0000"
+  },
+  {
+    "url": "https://caleb.software/posts/claude-to-pi.html",
+    "title": "Goodbye Claude, Hello Pi",
+    "description": "Article URL: https://caleb.software/posts/claude-to-pi.html\nComments URL: https://news.ycombinator.com/item?id=50410107\nPoints: 50\n# Comments: 29",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T05:39:55.321Z",
+    "published": "Sun, 08 Nov 2026 03:11:48 +0000"
+  },
+  {
+    "url": "https://github.com/Miyamoto-Renya/LaplacesScissors",
+    "title": "Show HN: LLM weight editing tool made by a 15-year-old",
+    "description": "Article URL: https://github.com/Miyamoto-Renya/LaplacesScissors\nComments URL: https://news.ycombinator.com/item?id=50409986\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T05:39:55.321Z",
+    "published": "Sun, 08 Nov 2026 02:37:10 +0000"
+  },
+  {
+    "url": "https://www.msn.com/en-us/news/other/why-mandating-ai-use-in-the-workplace-can-backfire/ar-AA2gAwkW",
+    "title": "Why mandating AI use in the workplace can backfire",
+    "description": "Article URL: https://www.msn.com/en-us/news/other/why-mandating-ai-use-in-the-workplace-can-backfire/ar-AA2gAwkW\nComments URL: https://news.ycombinator.com/item?id=50409962\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T05:39:55.321Z",
+    "published": "Sun, 08 Nov 2026 02:31:51 +0000"
+  },
+  {
+    "url": "https://www.notebookcheck.net/Claude-now-watermarks-text-from-older-models-with-no-opt-out.1444769.0.html",
+    "title": "Claude Watermark Text",
+    "description": "Article URL: https://www.notebookcheck.net/Claude-now-watermarks-text-from-older-models-with-no-opt-out.1444769.0.html\nComments URL: https://news.ycombinator.com/item?id=50409866\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T05:39:55.321Z",
+    "published": "Sun, 08 Nov 2026 02:04:57 +0000"
+  },
+  {
+    "url": "https://lucaskostka.com/posts/building-trust-llm-thought-experiment",
+    "title": "Building trust, an LLM thought experiment",
+    "description": "Article URL: https://lucaskostka.com/posts/building-trust-llm-thought-experiment\nComments URL: https://news.ycombinator.com/item?id=50409707\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T05:39:55.321Z",
+    "published": "Sun, 08 Nov 2026 01:27:23 +0000"
+  },
+  {
+    "url": "https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/",
+    "title": "AI agents stole 190k gaming credentials for under $400 in model costs",
+    "description": "Article URL: https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/\nComments URL: https://news.ycombinator.com/item?id=50409687\nPoints: 1\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T05:39:55.321Z",
+    "published": "Sun, 08 Nov 2026 01:24:19 +0000"
+  },
+  {
+    "url": "https://www.forbes.com/sites/timkeary/2026/11/05/zip-finds-ai-spend-is-increasing-but-isnt-causing-a-saaspocalypse/",
+    "title": "AI Spend Is Increasing but Isn't Causing a SaaSpocalypse",
+    "description": "Article URL: https://www.forbes.com/sites/timkeary/2026/11/05/zip-finds-ai-spend-is-increasing-but-isnt-causing-a-saaspocalypse/\nComments URL: https://news.ycombinator.com/item?id=50409675\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T05:39:55.321Z",
+    "published": "Sun, 08 Nov 2026 01:22:37 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50409663",
+    "title": "Ask HN: Why wouldn't AI labs reverse-engineer all software/games/app out there?",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=50409663\nPoints: 1\n# Comments: 5",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T05:39:55.321Z",
+    "published": "Sun, 08 Nov 2026 01:20:45 +0000"
+  },
+  {
+    "url": "https://zepsell.com",
+    "title": "Zepsell: AI-native commerce",
+    "description": "Article URL: https://zepsell.com\nComments URL: https://news.ycombinator.com/item?id=50409647\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T05:39:55.321Z",
+    "published": "Sun, 08 Nov 2026 01:16:34 +0000"
+  },
+  {
+    "url": "https://renderpixels.com",
+    "title": "Show HN: RenderPixels – Generate images from any AI via MCP, 50 free renders",
+    "description": "Article URL: https://renderpixels.com\nComments URL: https://news.ycombinator.com/item?id=50409628\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T05:39:55.321Z",
+    "published": "Sun, 08 Nov 2026 01:12:02 +0000"
+  },
+  {
+    "url": "https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat",
+    "title": "Brown Professor Suspects Majority of His Class Used AI to Cheat",
+    "description": "Article URL: https://www.insidehighered.com/news/faculty/learning-assessment/2026/07/08/brown-professor-suspects-most-his-class-used-ai-cheat\nComments URL: https://news.ycombinator.com/item?id=50409570\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-08T05:39:55.321Z",
+    "published": "Sun, 08 Nov 2026 01:00:16 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/07/nous-research-arete-27b-qwen3-8-27b-propaganda-fine-tune/",
+    "title": "Nous Research Releases Arete-27B that Cuts Qwen3.8-27B Propaganda From 22% to 0.9%",
+    "description": "Nous Research released Arete-27B, an Apache 2.0 fine-tune of Qwen3.8-27B. On Nous’s 803-prompt eval, propaganda answers fell from 22% to 0.9% while Hermes Bench stayed flat at 65.60%.\nThe post Nous Research Releases Arete-27B that Cuts Qwen3.8-27B Propaganda From 22% to 0.9% appeared first on MarkTe",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-08T05:40:10.554Z",
+    "published": "Sun, 08 Nov 2026 04:45:59 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2309904/useful-ipad-apps-make-daily-life-easier/",
+    "title": "10 useful iPad apps that could make your daily life easier",
+    "description": "Your iPad can do a lot with the right apps. Go beyond Apple&#39;s defaults and try these useful offerings that all have great free tiers.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-08T05:40:14.900Z",
+    "published": "Sun, 08 Nov 2026 00:15:00 +0000"
   }
 ]
