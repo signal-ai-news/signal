@@ -103070,5 +103070,249 @@
     "category": "news",
     "discovered": "2026-11-09T01:53:39.180Z",
     "published": "Sun, 08 Nov 2026 23:45:00 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=5r-NeMRsfdw",
+    "title": "Porting a Flash game to DOS (without AI) [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=5r-NeMRsfdw\nComments URL: https://news.ycombinator.com/item?id=50423158\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T09:32:52.184Z",
+    "published": "Mon, 09 Nov 2026 09:23:28 +0000",
+    "processed": true,
+    "processedAt": "2026-11-09T09:35:19.521Z"
+  },
+  {
+    "url": "https://www.hypertesto.me/en/blog/2026/10/asset-flips-and-vibes",
+    "title": "Asset flips and vibes: fifteen years of videogames as a preview of the LLM era",
+    "description": "Article URL: https://www.hypertesto.me/en/blog/2026/10/asset-flips-and-vibes\nComments URL: https://news.ycombinator.com/item?id=50422970\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T09:32:52.184Z",
+    "published": "Mon, 09 Nov 2026 09:01:40 +0000",
+    "processed": true,
+    "processedAt": "2026-11-09T09:35:19.521Z"
+  },
+  {
+    "url": "https://newsroom.st.com/media-center/press-item.html/stmicroelectronics-streamlines-ai-model-development-for-stm32-developers-n4800.html",
+    "title": "STMicroelectronics streamlines AI model development for STM32 developers",
+    "description": "Article URL: https://newsroom.st.com/media-center/press-item.html/stmicroelectronics-streamlines-ai-model-development-for-stm32-developers-n4800.html\nComments URL: https://news.ycombinator.com/item?id=50422908\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T09:32:52.184Z",
+    "published": "Mon, 09 Nov 2026 08:52:24 +0000",
+    "processed": true,
+    "processedAt": "2026-11-09T09:35:19.521Z"
+  },
+  {
+    "url": "https://deepsense.ai/blog/eda-benchmark-leaderboard-october-28th-2026/",
+    "title": "Claude Opus 5.5 Beats GPT-6 Astra in the Newest EDA Benchmark Leaderboard",
+    "description": "Article URL: https://deepsense.ai/blog/eda-benchmark-leaderboard-october-28th-2026/\nComments URL: https://news.ycombinator.com/item?id=50422896\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T09:32:52.184Z",
+    "published": "Mon, 09 Nov 2026 08:50:59 +0000",
+    "processed": true,
+    "processedAt": "2026-11-09T09:35:19.521Z"
+  },
+  {
+    "url": "https://github.com/MintCoderpro/mintigate-demo",
+    "title": "Show HN: Control Layer Demo for AI Coding Agents",
+    "description": "Letting coding agents (such as Claude Code) work autonomously on repos on a daily-basis, brings a high level of uncertainty. For those who won't let the agent decide alone whether it can create/modify or delete any folder on their repos; I wanted to be able to trace actions performed and being able",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T09:32:52.184Z",
+    "published": "Mon, 09 Nov 2026 08:43:54 +0000",
+    "processed": true,
+    "processedAt": "2026-11-09T09:35:19.521Z"
+  },
+  {
+    "url": "https://0rwx.com/",
+    "title": "0rwx Framework for AI Usage",
+    "description": "Article URL: https://0rwx.com/\nComments URL: https://news.ycombinator.com/item?id=50422694\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T09:32:52.184Z",
+    "published": "Mon, 09 Nov 2026 08:27:21 +0000"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+    "title": "Anthropic IPO meets AI backlash",
+    "description": "Article URL: https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html\nComments URL: https://news.ycombinator.com/item?id=50422592\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T09:32:52.184Z",
+    "published": "Mon, 09 Nov 2026 08:13:00 +0000"
+  },
+  {
+    "url": "https://ai360generator.com",
+    "title": "Turn text or photos into 360° panoramas with AI",
+    "description": "Article URL: https://ai360generator.com\nComments URL: https://news.ycombinator.com/item?id=50422413\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T09:32:52.184Z",
+    "published": "Mon, 09 Nov 2026 07:50:07 +0000"
+  },
+  {
+    "url": "https://asahilinux.org/llm-policy/",
+    "title": "Asahi Linux forbids using AI to contribute",
+    "description": "Article URL: https://asahilinux.org/llm-policy/\nComments URL: https://news.ycombinator.com/item?id=50422306\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T09:32:52.184Z",
+    "published": "Mon, 09 Nov 2026 07:36:35 +0000"
+  },
+  {
+    "url": "https://www.enca.com/lifestyle/370-books-20-months-sa-author-defends-her-use-ai",
+    "title": "370 Books in 20 months: South African author defends her use of AI",
+    "description": "Article URL: https://www.enca.com/lifestyle/370-books-20-months-sa-author-defends-her-use-ai\nComments URL: https://news.ycombinator.com/item?id=50422181\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T09:32:52.184Z",
+    "published": "Mon, 09 Nov 2026 07:21:33 +0000"
+  },
+  {
+    "url": "https://hai.stanford.edu/news/tracking-ais-real-time-footprint-on-the-labor-market",
+    "title": "Tracking AI's Real-Time Footprint on the Labor Market",
+    "description": "Article URL: https://hai.stanford.edu/news/tracking-ais-real-time-footprint-on-the-labor-market\nComments URL: https://news.ycombinator.com/item?id=50422174\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T09:32:52.184Z",
+    "published": "Mon, 09 Nov 2026 07:20:55 +0000"
+  },
+  {
+    "url": "https://swiftrocks.com/being-a-meat-proxy-for-ai-should-be-grounds-for-getting-people-fired",
+    "title": "Being a meat proxy for AI should be grounds for getting people fired",
+    "description": "Article URL: https://swiftrocks.com/being-a-meat-proxy-for-ai-should-be-grounds-for-getting-people-fired\nComments URL: https://news.ycombinator.com/item?id=50422001\nPoints: 39\n# Comments: 28",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T09:32:52.184Z",
+    "published": "Mon, 09 Nov 2026 06:55:38 +0000"
+  },
+  {
+    "url": "https://www.dhawalshah.net/article/ai-agent-governance/",
+    "title": "My AI agent archived 53 of its own skills during a maintenance run",
+    "description": "Article URL: https://www.dhawalshah.net/article/ai-agent-governance/\nComments URL: https://news.ycombinator.com/item?id=50421997\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T09:32:52.184Z",
+    "published": "Mon, 09 Nov 2026 06:55:24 +0000"
+  },
+  {
+    "url": "https://okf.md/",
+    "title": "OKF – the Markdown spec for humans and AI",
+    "description": "Article URL: https://okf.md/\nComments URL: https://news.ycombinator.com/item?id=50421832\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T09:32:52.184Z",
+    "published": "Mon, 09 Nov 2026 06:29:05 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50421778",
+    "title": "Ask HN: As a human, are you glad the AI bubble is bursting?",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=50421778\nPoints: 4\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T09:32:52.184Z",
+    "published": "Mon, 09 Nov 2026 06:22:08 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50421579",
+    "title": "Those who have lost their job to AI what was your job?",
+    "description": "I am wondering, what kind of jobs are affected the most.\n\nComments URL: https://news.ycombinator.com/item?id=50421579\nPoints: 2\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T09:32:52.184Z",
+    "published": "Mon, 09 Nov 2026 05:56:44 +0000"
+  },
+  {
+    "url": "https://medium.com/@makalin/what-if-the-next-computer-virus-isnt-software-the-rise-of-ai-powered-usb-threats-0facf6a9247b",
+    "title": "What If the Next Computer Virus Isn't Software? Rise of AI-Powered USB Threats",
+    "description": "Article URL: https://medium.com/@makalin/what-if-the-next-computer-virus-isnt-software-the-rise-of-ai-powered-usb-threats-0facf6a9247b\nComments URL: https://news.ycombinator.com/item?id=50421562\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T09:32:52.184Z",
+    "published": "Mon, 09 Nov 2026 05:54:02 +0000"
+  },
+  {
+    "url": "https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1",
+    "title": "Apple capped engineers at a $200 daily AI budget",
+    "description": "Article URL: https://www.stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget#story-1\nComments URL: https://news.ycombinator.com/item?id=50421426\nPoints: 87\n# Comments: 91",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T09:32:52.184Z",
+    "published": "Mon, 09 Nov 2026 05:30:11 +0000"
+  },
+  {
+    "url": "https://www.reuters.com/business/energy/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-2026-11-08/",
+    "title": "Anthropic secures $3.4B generator deal for AI data centers",
+    "description": "Article URL: https://www.reuters.com/business/energy/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-2026-11-08/\nComments URL: https://news.ycombinator.com/item?id=50421371\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T09:32:52.184Z",
+    "published": "Mon, 09 Nov 2026 05:20:26 +0000"
+  },
+  {
+    "url": "https://theconversation.com/ai-learns-from-the-products-of-thinking-not-thought-itself-thats-a-problem-for-machines-and-for-us-293696",
+    "title": "AI learns from the products of thinking, not thought itself",
+    "description": "Article URL: https://theconversation.com/ai-learns-from-the-products-of-thinking-not-thought-itself-thats-a-problem-for-machines-and-for-us-293696\nComments URL: https://news.ycombinator.com/item?id=50421354\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T09:32:52.184Z",
+    "published": "Mon, 09 Nov 2026 05:17:12 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/bug-activists-and-biker-gang-members-are-teaming-up-to-protest-data-centers/",
+    "title": "Bikers and Bug-Lovers Join Forces to Fight a New Google Data Center",
+    "description": "As data center protests break out across Europe, a mismatched band of campaigners is trying to block Google from building a sprawling new facility east of London.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-09T09:33:06.062Z",
+    "published": "Mon, 09 Nov 2026 08:00:00 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/08/0sec-labs-open-sources-0-ai-security-harness/",
+    "title": "0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and MCP",
+    "description": "0sec Labs has open-sourced 0, an AI security harness for code review, pentesting, reverse engineering and fixes. It runs locally through a browser console, a headless CLI and an MCP server, with your own model provider.\nThe post 0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and M",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-09T09:33:08.221Z",
+    "published": "Mon, 09 Nov 2026 07:55:18 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/global-tech/salesforce-wants-indian-smbs-to-ditch-whatsapp-for-slack",
+    "title": "Salesforce Wants Indian SMBs to Ditch WhatsApp for Slack",
+    "description": "Salesforce is positioning Slack as a work operating system for enterprises, with Slackbot bringing together organisational data, applications, and AI agents.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-09T09:33:10.362Z",
+    "published": "Mon, 09 Nov 2026 07:30:23 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/hexaware-to-drive-ebrds-banking-tech-ops-for-5-years",
+    "title": "Hexaware to Drive EBRD’s Banking Tech Ops for 5 Years",
+    "description": "The agreement covers software engineering, cloud, cybersecurity, and SAP modernisation, alongside plans to introduce Hexaware's AI frameworks.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-09T09:33:10.362Z",
+    "published": "Mon, 09 Nov 2026 04:23:47 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/ltm-servicenow-to-expand-partnership-to-scale-ai-agent-deployments",
+    "title": "LTM, ServiceNow to Expand Partnership to Scale AI Agent Deployments",
+    "description": "LTM partners with ServiceNow to enhance AI agent efficiency, aiming for improved asset management and streamlined operations across enterprises.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-09T09:33:10.362Z",
+    "published": "Mon, 09 Nov 2026 04:16:29 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/gcc/why-gccs-and-indian-it-are-partnering-at-enterprise-scale",
+    "title": "Why GCCs and Indian IT are Partnering at Enterprise Scale",
+    "description": "Explore how GCCs and Indian IT firms are partnering to leverage AI for enterprise transformation and the evolving technology landscape.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-09T09:33:10.362Z",
+    "published": "Mon, 09 Nov 2026 02:47:16 GMT"
   }
 ]
