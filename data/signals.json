@@ -103314,5 +103314,555 @@
     "category": "ml",
     "discovered": "2026-11-09T09:33:10.362Z",
     "published": "Mon, 09 Nov 2026 02:47:16 GMT"
+  },
+  {
+    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "description": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-09T19:59:04.047Z",
+    "published": "Mon, 09 Nov 2026 19:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-09T20:01:47.303Z"
+  },
+  {
+    "url": "https://openai.com/index/kuken",
+    "title": "Kuken Industries searches 70 years of drawings in minutes",
+    "description": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-09T19:59:04.047Z",
+    "published": "Mon, 09 Nov 2026 08:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-09T20:01:47.303Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+    "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+    "description": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-09T19:59:07.451Z",
+    "published": "Mon, 09 Nov 2026 19:24:51 +0000",
+    "processed": true,
+    "processedAt": "2026-11-09T20:01:47.303Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+    "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+    "description": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-09T19:59:07.451Z",
+    "published": "Mon, 09 Nov 2026 18:09:52 +0000",
+    "processed": true,
+    "processedAt": "2026-11-09T20:01:47.303Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+    "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+    "description": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-09T19:59:07.451Z",
+    "published": "Mon, 09 Nov 2026 18:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-09T20:01:47.303Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+    "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+    "description": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-09T19:59:07.451Z",
+    "published": "Mon, 09 Nov 2026 16:56:54 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+    "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+    "description": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-09T19:59:07.451Z",
+    "published": "Mon, 09 Nov 2026 16:12:28 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+    "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+    "description": "Automattic aims to compete with the likes of Lovable with Spacefast.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-09T19:59:07.451Z",
+    "published": "Mon, 09 Nov 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+    "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+    "description": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.&#160; I spoke with",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-09T19:59:08.674Z",
+    "published": "Mon, 09 Nov 2026 17:05:43 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+    "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The climate case for AI has not been made  —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the Cali",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-09T19:59:08.674Z",
+    "published": "Mon, 09 Nov 2026 13:15:00 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+    "title": "Innovating with AI in the special chemicals industry",
+    "description": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufactur",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-09T19:59:08.674Z",
+    "published": "Mon, 09 Nov 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+    "title": "The climate case for AI has not been made",
+    "description": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-09T19:59:08.674Z",
+    "published": "Mon, 09 Nov 2026 10:00:00 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/elevenagents-campaign-manager",
+    "title": "ElevenAgents Campaign Manager works every contact to an outcome",
+    "description": "Run outbound voice campaigns at scale with ElevenAgents. Upload contacts, set policies, and track every call, callback, and outcome in one view.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-09T19:59:10.880Z",
+    "published": "Mon, 09 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-builds-private-ai-server-with-eight-used-nvidia-v100-gpus-up-to-215-tokens-per-second-to-keep-legal-files-offline-costing-about-usd2-400-per-four-gpu-board",
+    "title": "Lawyer builds private AI server with eight used Nvidia V100 GPUs",
+    "description": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-builds-private-ai-server-with-eight-used-nvidia-v100-gpus-up-to-215-tokens-per-second-to-keep-legal-files-offline-costing-about-usd2-400-per-four-gpu-board\nComments URL: https://news.ycombinator.com/item?id=50431",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T19:59:18.393Z",
+    "published": "Mon, 09 Nov 2026 19:58:42 +0000"
+  },
+  {
+    "url": "https://discoveredmaterials.com/research/accelerating-quantum-espresso/",
+    "title": "Speeding up Quantum Espresso by 36x using Claude Fable 5.2",
+    "description": "Article URL: https://discoveredmaterials.com/research/accelerating-quantum-espresso/\nComments URL: https://news.ycombinator.com/item?id=50430969\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T19:59:18.393Z",
+    "published": "Mon, 09 Nov 2026 19:54:44 +0000"
+  },
+  {
+    "url": "https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/",
+    "title": "Safely scaling multi-agent teams with Claude Fable 5.2nd PostgreSQL",
+    "description": "Article URL: https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/\nComments URL: https://news.ycombinator.com/item?id=50430968\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T19:59:18.393Z",
+    "published": "Mon, 09 Nov 2026 19:54:33 +0000"
+  },
+  {
+    "url": "https://fredrocha.net/2026/10/20/ai-is-the-last-of-capitalisms-distraction/",
+    "title": "AI is the last of capitalism's distraction",
+    "description": "Article URL: https://fredrocha.net/2026/10/20/ai-is-the-last-of-capitalisms-distraction/\nComments URL: https://news.ycombinator.com/item?id=50430940\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T19:59:18.393Z",
+    "published": "Mon, 09 Nov 2026 19:52:44 +0000"
+  },
+  {
+    "url": "https://www.markolis.com",
+    "title": "Show HN: Markolis – Market microstructure and MCP server for AI agents",
+    "description": "Article URL: https://www.markolis.com\nComments URL: https://news.ycombinator.com/item?id=50430916\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T19:59:18.393Z",
+    "published": "Mon, 09 Nov 2026 19:51:18 +0000"
+  },
+  {
+    "url": "https://fireworks.ai/security/bulletins/october-2026-security-incident-update",
+    "title": "Fireworks AI October 2026 security incident",
+    "description": "Article URL: https://fireworks.ai/security/bulletins/october-2026-security-incident-update\nComments URL: https://news.ycombinator.com/item?id=50430799\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T19:59:18.393Z",
+    "published": "Mon, 09 Nov 2026 19:44:54 +0000"
+  },
+  {
+    "url": "https://www.forbes.com/sites/annatong/2026/11/09/fireworks-cyberattack-exposes-customer-data-and-ai-models-as-fallout-widens/",
+    "title": "Fireworks Cyberattack Exposes Customer Data and AI Models",
+    "description": "Article URL: https://www.forbes.com/sites/annatong/2026/11/09/fireworks-cyberattack-exposes-customer-data-and-ai-models-as-fallout-widens/\nComments URL: https://news.ycombinator.com/item?id=50430783\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T19:59:18.393Z",
+    "published": "Mon, 09 Nov 2026 19:43:31 +0000"
+  },
+  {
+    "url": "https://assets.claude.com/27d60918d218125e7504bc7354c4b4626ec56b11.pdf",
+    "title": "System Card: Claude Fable 5.2 and Claude Mythos 5.2 [pdf]",
+    "description": "Article URL: https://assets.claude.com/27d60918d218125e7504bc7354c4b4626ec56b11.pdf\nComments URL: https://news.ycombinator.com/item?id=50430693\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T19:59:18.393Z",
+    "published": "Mon, 09 Nov 2026 19:38:33 +0000"
+  },
+  {
+    "url": "https://vercel.com/changelog/claude-fable-5-2-now-available-on-ai-gateway",
+    "title": "Claude Fable 5.2 now available on AI Gateway",
+    "description": "Article URL: https://vercel.com/changelog/claude-fable-5-2-now-available-on-ai-gateway\nComments URL: https://news.ycombinator.com/item?id=50430691\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T19:59:18.393Z",
+    "published": "Mon, 09 Nov 2026 19:38:20 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=vdYynH177h0",
+    "title": "Claude Fable 5.2 designs a working voice assistant [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=vdYynH177h0\nComments URL: https://news.ycombinator.com/item?id=50430687\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T19:59:18.393Z",
+    "published": "Mon, 09 Nov 2026 19:38:10 +0000"
+  },
+  {
+    "url": "https://www.gogroovy.ai/blog/particle-vs-sol",
+    "title": "Particle-1 vs. GPT-6.1 SOL: same pass rate, 71% lower cost in our tests",
+    "description": "Article URL: https://www.gogroovy.ai/blog/particle-vs-sol\nComments URL: https://news.ycombinator.com/item?id=50430580\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T19:59:18.393Z",
+    "published": "Mon, 09 Nov 2026 19:32:54 +0000"
+  },
+  {
+    "url": "https://news.berkeley.edu/2026/11/09/recent-advances-in-ai-are-creating-a-paradigm-shift-for-robotics/",
+    "title": "Recent advances in AI are creating a 'paradigm shift' for robotics",
+    "description": "Article URL: https://news.berkeley.edu/2026/11/09/recent-advances-in-ai-are-creating-a-paradigm-shift-for-robotics/\nComments URL: https://news.ycombinator.com/item?id=50430433\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T19:59:18.393Z",
+    "published": "Mon, 09 Nov 2026 19:25:46 +0000"
+  },
+  {
+    "url": "https://opuslabs.substack.com/p/building-the-judgment-layer-for-hardware",
+    "title": "AI can generate CAD. Hardware still needs human judgment",
+    "description": "Article URL: https://opuslabs.substack.com/p/building-the-judgment-layer-for-hardware\nComments URL: https://news.ycombinator.com/item?id=50430424\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T19:59:18.393Z",
+    "published": "Mon, 09 Nov 2026 19:25:06 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=0k255teHdrA",
+    "title": "I Gave a Shakespeare AI 3 Upgrades. It Beat Stockfish",
+    "description": "Article URL: https://www.youtube.com/watch?v=0k255teHdrA\nComments URL: https://news.ycombinator.com/item?id=50430222\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T19:59:18.393Z",
+    "published": "Mon, 09 Nov 2026 19:14:17 +0000"
+  },
+  {
+    "url": "https://other-words.narner.chatgpt.site/",
+    "title": "OtherWords – Explore AI Token Probabilities",
+    "description": "Article URL: https://other-words.narner.chatgpt.site/\nComments URL: https://news.ycombinator.com/item?id=50430219\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T19:59:18.393Z",
+    "published": "Mon, 09 Nov 2026 19:14:12 +0000"
+  },
+  {
+    "url": "https://support.claude.com/en/articles/17506494-claude-fable-5-2-launch-offers",
+    "title": "Claude Fable 5.2 launch offers",
+    "description": "Article URL: https://support.claude.com/en/articles/17506494-claude-fable-5-2-launch-offers\nComments URL: https://news.ycombinator.com/item?id=50430176\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T19:59:18.393Z",
+    "published": "Mon, 09 Nov 2026 19:12:16 +0000"
+  },
+  {
+    "url": "https://platform.claude.com/docs/en/models/fable-5-2/overview",
+    "title": "Claude Fable 5.2",
+    "description": "Article URL: https://platform.claude.com/docs/en/models/fable-5-2/overview\nComments URL: https://news.ycombinator.com/item?id=50430154\nPoints: 7\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T19:59:18.393Z",
+    "published": "Mon, 09 Nov 2026 19:10:40 +0000"
+  },
+  {
+    "url": "https://www.glizzshots.xyz/",
+    "title": "Have your AI agent design your product screenshots",
+    "description": "Article URL: https://www.glizzshots.xyz/\nComments URL: https://news.ycombinator.com/item?id=50430151\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T19:59:18.393Z",
+    "published": "Mon, 09 Nov 2026 19:10:37 +0000"
+  },
+  {
+    "url": "https://spectrum.ieee.org/zero-trust-agentic-ai-architecture",
+    "title": "Trust Under Fire: How Agentic AI Tests Zero-Trust",
+    "description": "Article URL: https://spectrum.ieee.org/zero-trust-agentic-ai-architecture\nComments URL: https://news.ycombinator.com/item?id=50430079\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T19:59:18.393Z",
+    "published": "Mon, 09 Nov 2026 19:06:17 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50430067",
+    "title": "Fable 5.2 Available in Claude Desktop",
+    "description": "New popup on my Claude app - Fable 5.2 is available for use right now, with a free Fable reset usable by March 8th, 2027.\n\nComments URL: https://news.ycombinator.com/item?id=50430067\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-09T19:59:18.393Z",
+    "published": "Mon, 09 Nov 2026 19:05:35 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/continuous-batching-beats-static-and-dynamic-by-up-to-291-in-vllm/",
+    "title": "Continuous Batching Beats Static and Dynamic by Up to 2.91× in vLLM",
+    "description": "For anyone running an inference server: a zero-variance control, five traffic traces, and an engine-vs-scheduler split show where the gains come from.\nThe post Continuous Batching Beats Static and Dynamic by Up to 2.91× in vLLM appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-09T19:59:24.159Z",
+    "published": "Mon, 09 Nov 2026 16:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/ask-ai-to-refine-your-ideas-not-invent-them/",
+    "title": "Ask AI to Refine Your Ideas, Not Invent Them",
+    "description": "Studies of short stories, metaphors, and 486 participants point one way, an 800-person experiment points the other, and the author weighs both.\nThe post Ask AI to Refine Your Ideas, Not Invent Them appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-09T19:59:24.159Z",
+    "published": "Mon, 09 Nov 2026 15:00:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-estimate-the-recall-of-ai-agents-with-capture-recapture/",
+    "title": "How to Estimate the Recall of AI Agents with Capture-Recapture",
+    "description": "A fisheries estimator from the 1890s, tested on 294 CUAD contracts, landed within 2 points of true recall for most agents with a 10% hand audit.\nThe post How to Estimate the Recall of AI Agents with Capture-Recapture appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-09T19:59:24.159Z",
+    "published": "Mon, 09 Nov 2026 13:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/quantile-regression-caught-the-house-price-ols-missed-by-55k/",
+    "title": "Quantile Regression Caught the House Price OLS Missed by $55K",
+    "description": "On 88 house sales, OLS predicted $164K for a $219K home, while a 90% interval from 5th and 95th percentile models spanned $136K to $227K.\nThe post Quantile Regression Caught the House Price OLS Missed by $55K appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-09T19:59:24.159Z",
+    "published": "Mon, 09 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/",
+    "title": "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do",
+    "description": "Meta is introducing Muse Ember, its smallest and most efficient AI model, optimized for repetitive agent tasks such as tool calls, routing, and data extraction. According to Meta, it delivers more intelligence per dollar than Claude Haiku 5.5 or GPT-6 Luna. But it falls short when it comes",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-09T19:59:26.091Z",
+    "published": "Mon, 09 Nov 2026 19:41:51 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/bytedances-seedream-5-5-promises-pixel-stable-image-editing-across-100-rounds-without-color-drift/",
+    "title": "Bytedance's Seedream 5.5 promises pixel-stable image editing across 100 rounds without color drift",
+    "description": "Bytedance Seed has introduced Seedream 5.5, an image model built for professional production workflows. It supports stable multi-pass editing over up to 100 iterations, generates native RGBA images with transparent backgrounds, and, according to Bytedance, outperforms GPT-Image-2.5 Sunburst",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-09T19:59:26.091Z",
+    "published": "Mon, 09 Nov 2026 18:50:01 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/disney-bets-on-adobes-firefly-to-create-brand-safe-ai-models-for-its-entertainment-empire/",
+    "title": "Disney bets on Adobe's Firefly to create brand-safe AI models for its entertainment empire",
+    "description": "Disney and Adobe are building custom AI tools together for the entertainment giant's productions.\nThe article Disney bets on Adobe&#039;s Firefly to create brand-safe AI models for its entertainment empire appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-09T19:59:26.091Z",
+    "published": "Mon, 09 Nov 2026 16:54:16 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/tencents-ai-chief-says-ai-bioweapons-are-coming-but-closing-off-models-isnt-the-answer/",
+    "title": "Tencent's AI chief says AI bioweapons are coming, but closing off models isn't the answer",
+    "description": "Tencent chief AI scientist Vinces Yao Shunyu warns that AI will soon be able to develop bioweapons and argues for a middle ground between open and closed models. While safety filters on open-source systems can be easily stripped through abliteration, closed models like Anthropic's Claude of",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-09T19:59:26.091Z",
+    "published": "Mon, 09 Nov 2026 15:44:53 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/nvidia-espionage-scandal-weakens-huangs-lobby-against-tighter-ai-chip-export-controls/",
+    "title": "Nvidia espionage scandal weakens Huang's lobby against tighter AI chip export controls",
+    "description": "Nvidia CEO Jensen Huang has admitted to an extramarital affair with a woman US intelligence agencies classify as a suspected Chinese informant. The board has launched an independent investigation. The affair weakens Huang's lobbying efforts against stricter AI chip export controls, with a n",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-09T19:59:26.091Z",
+    "published": "Mon, 09 Nov 2026 11:38:43 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
+    "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
+    "description": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-09T19:59:32.789Z",
+    "published": "Mon, 09 Nov 2026 11:00:00 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/09/google-tpu-8i-max-tpu-8tx/",
+    "title": "Google Unveils TPU 8i Max and TPU 8tx: A Dual-Chip TPU and a Confidential TPU",
+    "description": "Google added TPU 8i Max and TPU 8tx to its eighth-generation TPU lineup. TPU 8i Max packs 2 TPU 8i chips per package for long-context agents. TPU 8tx adds hardware confidential inference. Bloomberg reports 2027 availability.\nThe post Google Unveils TPU 8i Max and TPU 8tx: A Dual-Chip TPU and a Confi",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-09T19:59:35.742Z",
+    "published": "Mon, 09 Nov 2026 17:09:54 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/09/baidu-ernie-evolve-automated-research-system/",
+    "title": "Baidu’s ERNIE Evolve Automated Research System Beats NanoChat and NanoGPT Records",
+    "description": "Baidu’s ERNIE Evolve is an automated research system that edits code, runs experiments and keeps only verified gains. It beat public bests on NanoChat and NanoGPT Speedrun and sped up ERNIE-5.5-Flash inference.\nThe post Baidu’s ERNIE Evolve Automated Research System Beats NanoChat and NanoGPT Record",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-09T19:59:35.742Z",
+    "published": "Mon, 09 Nov 2026 16:31:59 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/09/reason-machines-aspen-open-source-git-server-ai-agents/",
+    "title": "Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents",
+    "description": "Reason Machines has open-sourced Aspen, a self-hosted Git server for AI agents. It follows OpenAI’s Pando design and sustained 567 pushes per second on one 8-core server in the company’s own test.\nThe post Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents appeared first on MarkTec",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-09T19:59:35.742Z",
+    "published": "Mon, 09 Nov 2026 08:20:20 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/adobes-cx-enterprise-coworker-gets-embedded-within-leading-ai-platforms",
+    "title": "Adobe’s CX Enterprise Coworker Gets Embedded Within Leading AI Platforms",
+    "description": "The software firm said its CX Enterprise Coworker agentic AI will be embedded in ChatGPT as a plugin, Claude, Databricks Genie, Gemini for business, and Microso",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-09T19:59:38.687Z",
+    "published": "Mon, 09 Nov 2026 11:30:04 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/sarvam-ai-appoints-ex-google-cloud-india-md-sashikumar-sreedharan-as-president-and-cbo",
+    "title": "Sarvam AI Appoints Ex-Google Cloud India MD Sashikumar Sreedharan as President and CBO",
+    "description": "The appointment comes as Sarvam looks to scale its presence across enterprise and government customers, with more than 100 institutions already using its AI off",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-09T19:59:38.687Z",
+    "published": "Mon, 09 Nov 2026 11:24:31 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/exl-acquires-aimpoint-digital-adds-250-ai-and-data-experts",
+    "title": "EXL Acquires Aimpoint Digital, Adds 250 AI and Data Experts",
+    "description": "The acquisition adds around 250 AI engineers, platform architects, analytics consultants, decision scientists and AI strategists to EXL’s workforce.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-09T19:59:38.687Z",
+    "published": "Mon, 09 Nov 2026 11:21:16 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/coforge-joins-spacex-network-to-develop-industry-specific-grok-applications",
+    "title": "Coforge Joins SpaceX Network to Develop Industry-Specific Grok Applications",
+    "description": "Momentuum blue, Coforge’s FDE unit, will handle deployments using teams of engineers and AI agents embedded within client organisations.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-09T19:59:38.687Z",
+    "published": "Mon, 09 Nov 2026 11:16:54 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/enterprise-ai/beyond-hire-to-rehire-how-workforce-data-can-turn-hrtech-from-a-cost-centre",
+    "title": "Beyond Hire-to-Rehire: How Workforce Data Can Turn HRTech From a Cost Centre",
+    "description": "Explore how AI and workforce data drive better business decisions and outcomes, evolving HRTech from a cost centre to a strategic partner.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-09T19:59:38.687Z",
+    "published": "Mon, 09 Nov 2026 10:30:00 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/indias-office-workforce-to-reach-48-mn-by-2030-as-ai-reshapes-demand-report",
+    "title": "India’s Office Workforce to Reach 48 Mn by 2030 as AI Reshapes Demand: Report",
+    "description": "India's office workforce is set to rise by 9 million by 2030, driven by AI and evolving office demands, according to Cushman & Wakefield.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-09T19:59:38.687Z",
+    "published": "Mon, 09 Nov 2026 10:22:53 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/nse-launches-stock-discovery-platform-adds-ai-features",
+    "title": "NSE Launches Stock Discovery Platform, Adds AI Features",
+    "description": "The National Stock Exchange has introduced natural language stock screening, AI-assisted corporate announcement summaries, and market data access.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-09T19:59:38.687Z",
+    "published": "Mon, 09 Nov 2026 09:59:20 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2307830/how-to-use-iphone-take-best-picture-of-moon-guide/",
+    "title": "How to use your iPhone to take the best picture of the Moon",
+    "description": "We explain how to take the best photos of the Moon with your iPhone, regardless of which model.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-09T19:59:41.023Z",
+    "published": "Mon, 09 Nov 2026 19:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2307742/gmail-unsend-feature/",
+    "title": "Gmail users should know about this little-noticed feature",
+    "description": "Gmail's unsend feature will delay it from dispatching your message. Here's how to extend the amount of time you have to use it.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-09T19:59:41.023Z",
+    "published": "Mon, 09 Nov 2026 19:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2310848/meta-is-expanding-ai-age-detection-for-instagram-teen-accounts/",
+    "title": "Meta is expanding AI age detection for Instagram teen accounts",
+    "description": "The company will increase its use of the tech on Facebook and Threads too.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-09T19:59:41.023Z",
+    "published": "Mon, 09 Nov 2026 15:58:55 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2307723/caim-1-camera-fighting-against-ai-photography/",
+    "title": "This prototype camera is fighting the good fight against AI photography",
+    "description": "To push back against an onslaught of deep fakes, this camera embeds cryptographic proof of every photo&#39;s origin. Think of it like a silicon fingerprint.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-09T19:59:41.023Z",
+    "published": "Mon, 09 Nov 2026 14:45:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2307712/military-radar-makes-your-router-change-wifi-channels/",
+    "title": "Military radar can make your router switch Wi-Fi channels - here's why",
+    "description": "Annoying as it may be, there&#39;s a good reason why internet routers around the world give the right of way to certain types of radar.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-09T19:59:41.023Z",
+    "published": "Mon, 09 Nov 2026 14:15:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2307701/pc-hardware-needed-run-local-ai-model/",
+    "title": "What hardware does your PC need to run a local AI model?",
+    "description": "The kind of AI models you can run depends on your machine&#39;s power. Let&#39;s unpack what your everyday PC will need, and how much it will cost you.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-09T19:59:41.023Z",
+    "published": "Mon, 09 Nov 2026 13:45:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2308886/nacon-revolution-5-unlimited-controller-review/",
+    "title": "Nacon Revolution 5 Unlimited controller review: More customization than I can handle",
+    "description": "Nacon&#39;s new controller aims to rival Sony's own DualSense Edge.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-09T19:59:41.023Z",
+    "published": "Mon, 09 Nov 2026 13:00:00 +0000"
   }
 ]
