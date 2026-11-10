@@ -104117,5 +104117,141 @@
     "category": "news",
     "discovered": "2026-11-10T02:38:19.707Z",
     "published": "Mon, 09 Nov 2026 20:56:51 +0000"
+  },
+  {
+    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "title": "Closing the AI guidance gap in education",
+    "description": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-10T10:56:04.629Z",
+    "published": "Tue, 10 Nov 2026 09:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-10T10:58:44.170Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+    "title": "Otter AI can now follow conversations across 30+ languages",
+    "description": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-10T10:56:08.090Z",
+    "published": "Tue, 10 Nov 2026 07:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-10T10:58:44.170Z"
+  },
+  {
+    "url": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
+    "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
+    "description": "A researcher’s trawl through publicly available code found private information was at risk across multiple departments.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-10T10:56:28.367Z",
+    "published": "Tue, 10 Nov 2026 07:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-10T10:58:44.170Z"
+  },
+  {
+    "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+    "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+    "description": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all the software of the world.”",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-10T10:56:28.367Z",
+    "published": "Tue, 10 Nov 2026 05:01:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-10T10:58:44.170Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/09/meta-muse-ember-small-agent-model/",
+    "title": "Meta Releases Muse Ember, a 1M-Context Model for High-Volume Agent Work",
+    "description": "Meta Muse Ember is Meta’s smallest model, built for tool calls, coding subtasks and document parsing. It ties Claude Haiku 5.5 on the Artificial Analysis Intelligence Index at roughly a third of the cost per task.\nThe post Meta Releases Muse Ember, a 1M-Context Model for High-Volume Agent Work appea",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-10T10:56:31.048Z",
+    "published": "Tue, 10 Nov 2026 06:36:10 +0000",
+    "processed": true,
+    "processedAt": "2026-11-10T10:58:44.170Z"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/gartner-introduces-framework-for-cios-to-determine-ai-outcomes",
+    "title": "Gartner Introduces Framework for CIOs to Determine AI Outcomes",
+    "description": "Gartner said its Value-Risk Flywheel will help CIOs align AI value with risk, using momentum and drag, with a governor at its centre.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-10T10:56:34.925Z",
+    "published": "Tue, 10 Nov 2026 10:44:29 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/qantas-ai-jobs-are-coming-to-india-as-outsourcing-deal-affects-850-roles",
+    "title": "Qantas AI Jobs are Coming to India as Outsourcing Deal Affects 850 Roles",
+    "description": "Qantas will move some corporate services to Accenture teams in India as part of a technology overhaul that will introduce more automation and AI.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-10T10:56:34.925Z",
+    "published": "Tue, 10 Nov 2026 10:39:00 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/meta-expands-ai-age-estimation-tech-to-protect-teens-on-instagram",
+    "title": "Meta Expands AI Age-Estimation Tech to Protect Teens on Instagram",
+    "description": "Meta enhances AI age-estimation tech on Instagram, protecting teens by enforcing account restrictions for millions of users globally.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-10T10:56:34.925Z",
+    "published": "Tue, 10 Nov 2026 09:33:50 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/it-services/why-buying-specialist-engineering-firms-wont-fix-indian-its-growth-problem",
+    "title": "Why Buying Specialist Engineering Firms Won't Fix Indian IT’s Growth Problem",
+    "description": "As AI changes engineering delivery, larger IT services firms are buying specialist capabilities. The challenge is turning those acquisitions into new business.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-10T10:56:34.925Z",
+    "published": "Tue, 10 Nov 2026 08:28:16 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/meta-to-introduce-muse-ai-agent-in-india-starting-with-1799-plan-report",
+    "title": "Meta to Introduce Muse AI Agent in India Starting With ₹1,799 Plan: Report",
+    "description": "Meta's Muse AI agent subscription prices revealed, starting from ₹1,799. Details on features and availability in India are still pending.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-10T10:56:34.925Z",
+    "published": "Tue, 10 Nov 2026 07:14:45 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/google-launches-two-new-tpus-for-enterprise-agentic-ai-workloads",
+    "title": "Google Launches Two New TPUs for Enterprise Agentic AI Workloads",
+    "description": "Google has expanded its eighth-generation Tensor Processing Unit (TPU) portfolio with two new systems, TPU 8tx and TPU 8i Max.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-10T10:56:34.925Z",
+    "published": "Tue, 10 Nov 2026 05:48:14 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2311841/gta-6-now-available-for-preload/",
+    "title": "GTA 6 is now available for preload if you have a spare 212GB",
+    "description": "With its release just nine days away, Grand Theft Auto VI is now available for preloading on Xbox Series X|S and PlayStation 5.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-10T10:56:37.569Z",
+    "published": "Tue, 10 Nov 2026 10:01:45 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2311839/doj-lawsuit-lyft-routinely-refused-service-passengers-with-disabilities/",
+    "title": "DOJ lawsuit says Lyft routinely refuses service to passengers with disabilities",
+    "description": "The Justice Department has sued Lyft, accusing its drivers of routinely refusing service to passengers with wheelchairs and service animals.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-10T10:56:37.570Z",
+    "published": "Tue, 10 Nov 2026 09:58:52 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2311413/hoverair-versa-review/",
+    "title": "HoverAir Versa review: Convenience and creativity with compromises",
+    "description": "The HoverAir Versa is a clever combination that makes a lot of sense, but don't expect the best of both worlds.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-10T10:56:37.570Z",
+    "published": "Tue, 10 Nov 2026 08:00:00 +0000"
   }
 ]
