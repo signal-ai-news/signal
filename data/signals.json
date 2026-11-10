@@ -103864,5 +103864,258 @@
     "category": "news",
     "discovered": "2026-11-09T19:59:41.023Z",
     "published": "Mon, 09 Nov 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/control-room",
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "description": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-10T02:37:48.855Z",
+    "published": "Mon, 09 Nov 2026 13:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-10T02:40:26.490Z"
+  },
+  {
+    "url": "https://openai.com/index/coderabbit-codex-daybreak",
+    "title": "CodeRabbit scales agentic software development and ships 20x more",
+    "description": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-10T02:37:48.855Z",
+    "published": "Mon, 09 Nov 2026 08:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-10T02:40:26.490Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+    "title": "Anthropic reportedly plans to move forward with IPO plans",
+    "description": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-10T02:37:52.407Z",
+    "published": "Tue, 10 Nov 2026 01:27:12 +0000",
+    "processed": true,
+    "processedAt": "2026-11-10T02:40:26.490Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+    "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+    "description": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-10T02:37:52.407Z",
+    "published": "Mon, 09 Nov 2026 20:09:06 +0000",
+    "processed": true,
+    "processedAt": "2026-11-10T02:40:26.490Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+    "title": "The backlash about data centers might really just be about electricity",
+    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-10T02:37:53.610Z",
+    "published": "Mon, 09 Nov 2026 19:35:33 +0000",
+    "processed": true,
+    "processedAt": "2026-11-10T02:40:26.490Z"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
+    "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+    "description": "Article URL: https://www.cnbc.com/2026/10/23/american-express-job-cuts.html\nComments URL: https://news.ycombinator.com/item?id=50435388\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T02:37:58.175Z",
+    "published": "Tue, 10 Nov 2026 02:34:41 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=iwBOQeFPAwg",
+    "title": "Musk and Gwynne Shotwell on AI Risks, Peer Review, Starship, Terafab, Merger",
+    "description": "Article URL: https://www.youtube.com/watch?v=iwBOQeFPAwg\nComments URL: https://news.ycombinator.com/item?id=50435293\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T02:37:58.175Z",
+    "published": "Tue, 10 Nov 2026 02:20:22 +0000"
+  },
+  {
+    "url": "https://www.reddit.com/r/ProtonMail/comments/1xilgwk/manifestos_fear_and_loser_thinking_inside_protons/",
+    "title": "Proton CEO dismisses AI security-test request as 'bullshit and loser thinking'",
+    "description": "Article URL: https://www.reddit.com/r/ProtonMail/comments/1xilgwk/manifestos_fear_and_loser_thinking_inside_protons/\nComments URL: https://news.ycombinator.com/item?id=50435242\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T02:37:58.175Z",
+    "published": "Tue, 10 Nov 2026 02:12:55 +0000"
+  },
+  {
+    "url": "https://github.com/mw00/project-maya/pull/879",
+    "title": "CUDA+ROCm dual-back ends LLM inference for mixed-vendor GPUs (up to 48% faster)",
+    "description": "Article URL: https://github.com/mw00/project-maya/pull/879\nComments URL: https://news.ycombinator.com/item?id=50435181\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T02:37:58.175Z",
+    "published": "Tue, 10 Nov 2026 02:05:11 +0000"
+  },
+  {
+    "url": "https://lucumr.pocoo.org/2026/11/9/irontown/",
+    "title": "AI and Irontown",
+    "description": "Article URL: https://lucumr.pocoo.org/2026/11/9/irontown/\nComments URL: https://news.ycombinator.com/item?id=50435106\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T02:37:58.175Z",
+    "published": "Tue, 10 Nov 2026 01:56:53 +0000"
+  },
+  {
+    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+    "title": "Measuring how AI agents handle everyday wet-lab science",
+    "description": "Article URL: https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/\nComments URL: https://news.ycombinator.com/item?id=50435074\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T02:37:58.176Z",
+    "published": "Tue, 10 Nov 2026 01:50:24 +0000"
+  },
+  {
+    "url": "https://www.toptal.ai/",
+    "title": "Toptal AI – Full-Stack AI Services Company in the World for Agent Creation",
+    "description": "Article URL: https://www.toptal.ai/\nComments URL: https://news.ycombinator.com/item?id=50434934\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T02:37:58.176Z",
+    "published": "Tue, 10 Nov 2026 01:31:03 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=_wYr3FexNIM",
+    "title": "I asked Claude to interview itself",
+    "description": "Article URL: https://www.youtube.com/watch?v=_wYr3FexNIM\nComments URL: https://news.ycombinator.com/item?id=50434914\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T02:37:58.176Z",
+    "published": "Tue, 10 Nov 2026 01:28:08 +0000"
+  },
+  {
+    "url": "https://twitter.com/zhizdev/status/2119874095269707977",
+    "title": "Why is AI slop so frustrating to read?",
+    "description": "Article URL: https://twitter.com/zhizdev/status/2119874095269707977\nComments URL: https://news.ycombinator.com/item?id=50434647\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T02:37:58.176Z",
+    "published": "Tue, 10 Nov 2026 00:52:01 +0000"
+  },
+  {
+    "url": "https://www.reuters.com/legal/government/anthropic-must-face-lawsuit-over-claude-subscription-marketing-2026-11-09/",
+    "title": "Anthropic must face lawsuit over Claude subscription marketing",
+    "description": "Article URL: https://www.reuters.com/legal/government/anthropic-must-face-lawsuit-over-claude-subscription-marketing-2026-11-09/\nComments URL: https://news.ycombinator.com/item?id=50434100\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T02:37:58.176Z",
+    "published": "Mon, 09 Nov 2026 23:51:41 +0000"
+  },
+  {
+    "url": "https://gizmodo.com/the-new-york-times-doesnt-understand-ais-role-in-suppressing-wages-2000836392",
+    "title": "The New York Times Doesn't Understand AI's Role in Suppressing Wages",
+    "description": "Article URL: https://gizmodo.com/the-new-york-times-doesnt-understand-ais-role-in-suppressing-wages-2000836392\nComments URL: https://news.ycombinator.com/item?id=50434011\nPoints: 3\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T02:37:58.176Z",
+    "published": "Mon, 09 Nov 2026 23:44:04 +0000"
+  },
+  {
+    "url": "https://mashable.com/tech/google-gemini-chromebook-lawsuit-teen-planned-suicide",
+    "title": "A teen used her school Chromebook and Google AI Mode to plan her suicide",
+    "description": "Article URL: https://mashable.com/tech/google-gemini-chromebook-lawsuit-teen-planned-suicide\nComments URL: https://news.ycombinator.com/item?id=50433977\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T02:37:58.176Z",
+    "published": "Mon, 09 Nov 2026 23:40:49 +0000"
+  },
+  {
+    "url": "https://www.joesproxy.com/",
+    "title": "JoesProxy – The free network workbench for your AI agent",
+    "description": "Article URL: https://www.joesproxy.com/\nComments URL: https://news.ycombinator.com/item?id=50433956\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T02:37:58.176Z",
+    "published": "Mon, 09 Nov 2026 23:39:03 +0000"
+  },
+  {
+    "url": "https://zonderlabs.com/slop",
+    "title": "Why Is AI Slop So Frustrating to Read?",
+    "description": "Article URL: https://zonderlabs.com/slop\nComments URL: https://news.ycombinator.com/item?id=50433799\nPoints: 12\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T02:37:58.176Z",
+    "published": "Mon, 09 Nov 2026 23:21:45 +0000"
+  },
+  {
+    "url": "https://essenceia.github.io/projects/expresso/",
+    "title": "Building a full ASIC chip (no AI)",
+    "description": "Article URL: https://essenceia.github.io/projects/expresso/\nComments URL: https://news.ycombinator.com/item?id=50433682\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T02:37:58.176Z",
+    "published": "Mon, 09 Nov 2026 23:10:44 +0000"
+  },
+  {
+    "url": "https://nibiashara.com/agent-index",
+    "title": "Show HN: Live counts of AI assistants reading a diaspora business directory",
+    "description": "Article URL: https://nibiashara.com/agent-index\nComments URL: https://news.ycombinator.com/item?id=50433678\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T02:37:58.176Z",
+    "published": "Mon, 09 Nov 2026 23:10:11 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/",
+    "title": "Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO",
+    "description": "Anthropic is releasing Claude Fable 5.2 and Mythos 5.2, its most powerful models to date, in two versions: one freely available and one reserved for verified organizations. The models solve open physics problems, show stronger cybersecurity capabilities, design functioning operating systems",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-10T02:38:05.748Z",
+    "published": "Mon, 09 Nov 2026 21:15:23 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+    "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling",
+    "description": "With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-10T02:38:12.186Z",
+    "published": "Tue, 10 Nov 2026 00:18:19 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/mphasis-raises-fy27-growth-outlook-after-92-dollar-revenue-growth-in-q2",
+    "title": "Mphasis Raises FY27 Growth Outlook After 9.2% Dollar Revenue Growth in Q2",
+    "description": "AI-led contracts accounted for 66% of quarterly deal wins, while utilisation fell to 82% and operating cash flow turned negative.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-10T02:38:17.421Z",
+    "published": "Tue, 10 Nov 2026 01:33:42 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2307751/why-tsa-ask-turn-on-phone-safety-reason/",
+    "title": "The safety reason TSA might ask you to turn on your phone",
+    "description": "While traveling through the airport, TSA may ask you to power up your phone. Border agents can conduct a more thorough search as well.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-10T02:38:19.707Z",
+    "published": "Tue, 10 Nov 2026 00:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2311532/youtube-will-once-again-be-part-of-billboard-chart-calculations-in-2027/",
+    "title": "YouTube will once again be part of Billboard chart calculations in 2027",
+    "description": "Billboard will give more weight to free, ad-supported listening in its methodology.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-10T02:38:19.707Z",
+    "published": "Mon, 09 Nov 2026 21:09:51 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2311500/apple-starts-offering-50-dollar-extended-usage-packs-for-ai-features-in-creator-studio/",
+    "title": "Apple starts offering $50 extended usage packs for AI features in Creator Studio",
+    "description": "It'll cost you to access Logic Pro's AI assistant after you reach the monthly usage limit.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-10T02:38:19.707Z",
+    "published": "Mon, 09 Nov 2026 20:56:51 +0000"
   }
 ]
