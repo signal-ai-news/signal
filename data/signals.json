@@ -104695,5 +104695,366 @@
     "category": "news",
     "discovered": "2026-11-10T18:34:00.468Z",
     "published": "Tue, 10 Nov 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/introducing-businesses-chatgpt",
+    "title": "Introducing Businesses in ChatGPT",
+    "description": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-10T23:40:21.374Z",
+    "published": "Tue, 10 Nov 2026 10:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-10T23:42:59.545Z"
+  },
+  {
+    "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+    "title": "Gemini Intelligence: New features, on more devices",
+    "description": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-11-10T23:40:22.856Z",
+    "published": "Tue, 10 Nov 2026 19:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-10T23:42:59.545Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+    "description": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-10T23:40:24.641Z",
+    "published": "Tue, 10 Nov 2026 21:08:52 +0000",
+    "processed": true,
+    "processedAt": "2026-11-10T23:42:59.545Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+    "description": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-10T23:40:24.641Z",
+    "published": "Tue, 10 Nov 2026 20:52:13 +0000",
+    "processed": true,
+    "processedAt": "2026-11-10T23:42:59.545Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+    "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+    "description": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-10T23:40:24.641Z",
+    "published": "Tue, 10 Nov 2026 19:57:52 +0000",
+    "processed": true,
+    "processedAt": "2026-11-10T23:42:59.545Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+    "description": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-10T23:40:24.641Z",
+    "published": "Tue, 10 Nov 2026 19:23:34 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+    "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+    "description": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-10T23:40:24.641Z",
+    "published": "Tue, 10 Nov 2026 19:03:52 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+    "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+    "description": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-10T23:40:24.641Z",
+    "published": "Tue, 10 Nov 2026 18:49:52 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+    "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+    "description": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-11-10T23:40:25.241Z",
+    "published": "Tue, 10 Nov 2026 21:12:59 +0000"
+  },
+  {
+    "url": "https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones",
+    "title": "Testing the new generation of AI-enabled fire-extinguishing drones",
+    "description": "Article URL: https://www.npr.org/2026/11/10/nx-s1-6030962/testing-the-new-generation-of-ai-enabled-fire-extinguishing-drones\nComments URL: https://news.ycombinator.com/item?id=50447764\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T23:40:34.472Z",
+    "published": "Tue, 10 Nov 2026 23:26:24 +0000"
+  },
+  {
+    "url": "https://huggingface.co/datasets/AegisSolis/aegis-solis-hfc16m-public-beta",
+    "title": "Aegis Solis: AI Coexistence Research Dataset with 112 Registered Questions",
+    "description": "Article URL: https://huggingface.co/datasets/AegisSolis/aegis-solis-hfc16m-public-beta\nComments URL: https://news.ycombinator.com/item?id=50447647\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T23:40:34.472Z",
+    "published": "Tue, 10 Nov 2026 23:12:59 +0000"
+  },
+  {
+    "url": "https://www.noahpinion.blog/p/noah-smith-and-azeem-azhar-discuss",
+    "title": "Noah Smith and Azeem Azhar Discuss the AI Boom",
+    "description": "Article URL: https://www.noahpinion.blog/p/noah-smith-and-azeem-azhar-discuss\nComments URL: https://news.ycombinator.com/item?id=50447545\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T23:40:34.472Z",
+    "published": "Tue, 10 Nov 2026 23:02:16 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+    "title": "Ukraine's fiber-optic drones get squeezed by AI data center demand",
+    "description": "Article URL: https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/\nComments URL: https://news.ycombinator.com/item?id=50447530\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T23:40:34.472Z",
+    "published": "Tue, 10 Nov 2026 23:00:55 +0000"
+  },
+  {
+    "url": "https://www.theatlantic.com/technology/2026/11/how-to-prepare-for-the-ai-apocalypse/689367/",
+    "title": "Prepare for the AI Apocalypse Like You'd Prepare for a Snowstorm",
+    "description": "Article URL: https://www.theatlantic.com/technology/2026/11/how-to-prepare-for-the-ai-apocalypse/689367/\nComments URL: https://news.ycombinator.com/item?id=50447524\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T23:40:34.472Z",
+    "published": "Tue, 10 Nov 2026 23:00:15 +0000"
+  },
+  {
+    "url": "https://jilltxt.net/from-action-to-static-descriptions-how-using-ai-to-write-with-changed-jorn-lier-horsts-style/",
+    "title": "From action to static descriptions: How using AI changed Jørn Lier Horst's style",
+    "description": "Article URL: https://jilltxt.net/from-action-to-static-descriptions-how-using-ai-to-write-with-changed-jorn-lier-horsts-style/\nComments URL: https://news.ycombinator.com/item?id=50447434\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T23:40:34.472Z",
+    "published": "Tue, 10 Nov 2026 22:52:59 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=R3meYJU7wEg",
+    "title": "LLM inference, visually explained: why a 13B model reads 26 GB per token",
+    "description": "Article URL: https://www.youtube.com/watch?v=R3meYJU7wEg\nComments URL: https://news.ycombinator.com/item?id=50447378\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T23:40:34.472Z",
+    "published": "Tue, 10 Nov 2026 22:47:35 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.10866",
+    "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
+    "description": "Article URL: https://arxiv.org/abs/2611.10866\nComments URL: https://news.ycombinator.com/item?id=50447363\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T23:40:34.472Z",
+    "published": "Tue, 10 Nov 2026 22:44:49 +0000"
+  },
+  {
+    "url": "https://github.com/mamrezme/30yr-uptime",
+    "title": "Show HN: Movement breaks that only show up while Claude Code is working",
+    "description": "Article URL: https://github.com/mamrezme/30yr-uptime\nComments URL: https://news.ycombinator.com/item?id=50447073\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T23:40:34.472Z",
+    "published": "Tue, 10 Nov 2026 22:17:55 +0000"
+  },
+  {
+    "url": "https://pushform.io/",
+    "title": "Show HN: SketchUp compatible modeler with AI capabilities",
+    "description": "Try framing out a house, generating kitchen cabinets, or even populating an entire kitchen.\n\nComments URL: https://news.ycombinator.com/item?id=50446986\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T23:40:34.472Z",
+    "published": "Tue, 10 Nov 2026 22:09:53 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=EMSQtqUIlXY",
+    "title": "The humans are coming for AI's jobs",
+    "description": "Article URL: https://www.youtube.com/watch?v=EMSQtqUIlXY\nComments URL: https://news.ycombinator.com/item?id=50446919\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T23:40:34.472Z",
+    "published": "Tue, 10 Nov 2026 22:02:53 +0000"
+  },
+  {
+    "url": "https://www.computerweekly.com/news/366654593/UK-government-AI-strategy-not-tied-to-US-models-that-currently-dominate",
+    "title": "UK government AI strategy not tied to US models that currently dominate",
+    "description": "Article URL: https://www.computerweekly.com/news/366654593/UK-government-AI-strategy-not-tied-to-US-models-that-currently-dominate\nComments URL: https://news.ycombinator.com/item?id=50446671\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T23:40:34.472Z",
+    "published": "Tue, 10 Nov 2026 21:38:41 +0000"
+  },
+  {
+    "url": "https://github.com/Radmo3/agentguard",
+    "title": "AgentGuard – Transaction guardrails for AI agents that hold wallets",
+    "description": "Article URL: https://github.com/Radmo3/agentguard\nComments URL: https://news.ycombinator.com/item?id=50446660\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T23:40:34.472Z",
+    "published": "Tue, 10 Nov 2026 21:37:21 +0000"
+  },
+  {
+    "url": "https://github.com/blong8334/codeLens",
+    "title": "Show HN: CodeLens AI-Augmented Code Review Tool",
+    "description": "As AI writes more code, the bottleneck has become human-driven code reviews. Code Lens serves to aid that task by augmenting the review outside of line-level AI feedback. Check it out and let me know what you think. Thanks.Try it on a public PR: npx @blong8334/codelens pr https://github.com/express",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T23:40:34.472Z",
+    "published": "Tue, 10 Nov 2026 21:36:32 +0000"
+  },
+  {
+    "url": "https://barterpilot.com/",
+    "title": "Show HN: AI agents that barter your stuff for things you want",
+    "description": "Article URL: https://barterpilot.com/\nComments URL: https://news.ycombinator.com/item?id=50446649\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T23:40:34.472Z",
+    "published": "Tue, 10 Nov 2026 21:36:17 +0000"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+    "title": "The US is winning the AI race. Jensen Huang could have blown it",
+    "description": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy\nComments URL: https://news.ycombinator.com/item?id=50446591\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T23:40:34.472Z",
+    "published": "Tue, 10 Nov 2026 21:31:30 +0000"
+  },
+  {
+    "url": "https://github.com/sridharchaildn/notebook-ai",
+    "title": "Show HN: Notebook AI – local-first meeting notes for Mac",
+    "description": "Article URL: https://github.com/sridharchaildn/notebook-ai\nComments URL: https://news.ycombinator.com/item?id=50446588\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T23:40:34.472Z",
+    "published": "Tue, 10 Nov 2026 21:31:17 +0000"
+  },
+  {
+    "url": "https://miaai-lab.github.io/Claude-Fable-5.2-HTML-Files/",
+    "title": "Claude Fable 5.2 HTML Files",
+    "description": "Article URL: https://miaai-lab.github.io/Claude-Fable-5.2-HTML-Files/\nComments URL: https://news.ycombinator.com/item?id=50446547\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T23:40:34.472Z",
+    "published": "Tue, 10 Nov 2026 21:27:33 +0000"
+  },
+  {
+    "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+    "title": "Apple has new Mac app coming to make running local AI models easy",
+    "description": "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/\nComments URL: https://news.ycombinator.com/item?id=50446520\nPoints: 77\n# Comments: 35",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T23:40:34.472Z",
+    "published": "Tue, 10 Nov 2026 21:25:03 +0000"
+  },
+  {
+    "url": "https://youtrack.jetbrains.com/issue/IJAI-3469",
+    "title": "JetBrains back to square one on no-AI IDE installs",
+    "description": "Article URL: https://youtrack.jetbrains.com/issue/IJAI-3469\nComments URL: https://news.ycombinator.com/item?id=50446487\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-10T23:40:34.472Z",
+    "published": "Tue, 10 Nov 2026 21:22:39 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions/",
+    "title": "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions",
+    "description": "OpenAI is opening up ChatGPT as a business platform: through a new Business Hub, companies can claim their profile, add product data, and track how users interact with them. \"Business Agents\" let eligible US e-commerce providers talk to customers directly inside ChatGPT.\nThe article OpenAI",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-10T23:40:41.405Z",
+    "published": "Tue, 10 Nov 2026 20:17:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes/",
+    "title": "Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes",
+    "description": "Anthropic is expanding Claude with Sheets, Whiteboards, and Interactive Connectors, letting partners like Adobe and Atlassian embed their apps directly inside Claude. Anthropic says Claude Meetings, which can join calls and take notes, is coming soon. Step by step, Anthropic is turning Clau",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-10T23:40:41.405Z",
+    "published": "Tue, 10 Nov 2026 19:48:40 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/nvidias-model-gr00t-2-watches-humans-on-video-then-imagines-itself-as-the-robot/",
+    "title": "Nvidia's model GR00T 2 watches humans on video, then imagines itself as the robot",
+    "description": "Nvidia's new AI model GR00T 2 is designed to teach robots new tasks without laborious teleoperation. Instead, the system transfers human hand movements from videos to robotic arms, trained on about 400,000 hours of video footage. Success rates still vary widely, though, ranging from 10 to 8",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-10T23:40:41.405Z",
+    "published": "Tue, 10 Nov 2026 18:41:52 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/10/meta-fair-e-means-k-means-faiss/",
+    "title": "Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs",
+    "description": "Meta FAIR’s e-means is a mini-batch k-means replacement shipped in FAISS 1.16.0. It reaches Lloyd’s 25-epoch loss in 1.4 to 2.6 epochs, with 10-45x GPU speedups and no extra hyperparameters.\nThe post Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs appeared first on MarkT",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-10T23:40:49.404Z",
+    "published": "Tue, 10 Nov 2026 23:20:19 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2307815/scskiller-fix-shader-stuttering-pc-games/",
+    "title": "How SCSKiller is trying to fix shader stuttering in PC games",
+    "description": "This free app claims to defeat shader compilation in modern PC titles, but does it deliver? We tested it on games that are notorious for stuttering,",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-10T23:40:53.753Z",
+    "published": "Tue, 10 Nov 2026 23:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2312864/meta-warns-some-of-its-ai-glasses-may-get-too-warm-if-they-get-wet/",
+    "title": "Meta warns some of its AI glasses may get 'too warm' if they get wet",
+    "description": "A software update will tell users if they're affected and direct them to Meta's customer support for a full replacement.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-10T23:40:53.753Z",
+    "published": "Tue, 10 Nov 2026 22:05:37 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2307790/what-is-dead-internet-theory/",
+    "title": "What is the 'Dead Internet Theory' and should humanity be worried?",
+    "description": "As AI-generated content takes over the internet, will human beings still be able to connect online with other humans in a meaningful way?",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-10T23:40:53.753Z",
+    "published": "Tue, 10 Nov 2026 21:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2312487/new-york-will-independently-test-ai-models/",
+    "title": "New York will independently test AI models",
+    "description": "The state's research center will check AI companies' work instead of taking their word.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-10T23:40:53.753Z",
+    "published": "Tue, 10 Nov 2026 19:19:20 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2307807/how-much-asus-rog-zephyrus-g14-cost-2020-vs-2026/",
+    "title": "How much did the ASUS ROG Zephyrus G14 cost in 2020 vs 2026?",
+    "description": "You&#39;ve adjusted for inflation, but the math isn&#39;t mathing. We can explain why you may be feeling sticker shock over the cost of a ASUS ROG Zephyrus G14.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-10T23:40:53.753Z",
+    "published": "Tue, 10 Nov 2026 19:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2312136/google-november-pixel-drop-rambler-hilight-updates/",
+    "title": "Google's impressive Rambler dictation tech is now available on Pixel 10 devices too",
+    "description": "November's Pixel Drop also brings other AI features to older Pixel phones, while the Pixel 11's HiLight feature now works with Google Messages.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-10T23:40:53.753Z",
+    "published": "Tue, 10 Nov 2026 19:00:00 +0000"
   }
 ]
