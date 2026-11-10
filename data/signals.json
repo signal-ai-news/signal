@@ -104253,5 +104253,447 @@
     "category": "news",
     "discovered": "2026-11-10T10:56:37.570Z",
     "published": "Tue, 10 Nov 2026 08:00:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "title": "Helping caregivers use AI in everyday life",
+    "description": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-10T18:33:28.592Z",
+    "published": "Tue, 10 Nov 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-10T18:36:07.198Z"
+  },
+  {
+    "url": "https://openai.com/index/ai-effect-on-freelance-work",
+    "title": "Work at the Frontier: AI’s effect on freelance work",
+    "description": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-10T18:33:28.592Z",
+    "published": "Tue, 10 Nov 2026 07:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-10T18:36:07.198Z"
+  },
+  {
+    "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+    "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+    "description": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-11-10T18:33:30.046Z",
+    "published": "Tue, 10 Nov 2026 14:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-10T18:36:07.198Z"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+    "title": "Google Cloud launches Gemini for healthcare.",
+    "description": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-11-10T18:33:30.046Z",
+    "published": "Tue, 10 Nov 2026 13:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-10T18:36:07.198Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+    "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-11-10T18:33:30.743Z",
+    "published": "Tue, 10 Nov 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-10T18:36:07.198Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/decision",
+    "title": "Decision Models in Hugging Face",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-11-10T18:33:30.743Z",
+    "published": "Tue, 10 Nov 2026 00:00:00 GMT"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+    "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+    "description": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-10T18:33:31.911Z",
+    "published": "Tue, 10 Nov 2026 17:30:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+    "description": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-10T18:33:31.911Z",
+    "published": "Tue, 10 Nov 2026 17:04:19 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+    "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+    "description": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-10T18:33:31.911Z",
+    "published": "Tue, 10 Nov 2026 15:54:08 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+    "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+    "description": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-10T18:33:31.911Z",
+    "published": "Tue, 10 Nov 2026 15:29:30 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+    "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+    "description": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-10T18:33:31.911Z",
+    "published": "Tue, 10 Nov 2026 14:05:10 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+    "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+    "description": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-10T18:33:31.911Z",
+    "published": "Tue, 10 Nov 2026 14:01:39 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+    "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+    "description": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-10T18:33:31.911Z",
+    "published": "Tue, 10 Nov 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+    "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+    "description": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-10T18:33:31.911Z",
+    "published": "Tue, 10 Nov 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+    "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
+    "description": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developers worldwide.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-10T18:33:31.911Z",
+    "published": "Tue, 10 Nov 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+    "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing th",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-10T18:33:33.215Z",
+    "published": "Tue, 10 Nov 2026 13:10:00 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/scribe-v3",
+    "title": "Introducing Scribe v3 and v3 Live, our most accurate speech to text models",
+    "description": "Scribe v3 and Scribe v3 Live are our most accurate speech to text models for recorded and realtime audio, with 27% fewer word errors than Scribe v2.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-10T18:33:35.604Z",
+    "published": "Tue, 10 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+    "title": "Gemini 4 Carbon is now available",
+    "description": "",
+    "source": "DeepMind Blog",
+    "category": "llm",
+    "discovered": "2026-11-10T18:33:40.004Z",
+    "published": "Tue, 10 Nov 2026 16:03:47 +0000"
+  },
+  {
+    "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "description": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption.",
+    "source": "DeepMind Blog",
+    "category": "llm",
+    "discovered": "2026-11-10T18:33:40.004Z",
+    "published": "Tue, 10 Nov 2026 12:02:28 +0000"
+  },
+  {
+    "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+    "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+    "description": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+    "source": "DeepMind Blog",
+    "category": "llm",
+    "discovered": "2026-11-10T18:33:40.004Z",
+    "published": "Mon, 09 Nov 2026 19:51:47 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/scikit-learn-matched-or-beat-jevs-calibration-on-banking77/",
+    "title": "Scikit-Learn Matched or Beat Jev's Calibration on BANKING77",
+    "description": "Jev needs no training and at most three examples per intent; the open rebuild needs labels. Both still fall into the none-of-the-above trap.\nThe post Scikit-Learn Matched or Beat Jev's Calibration on BANKING77 appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-10T18:33:44.006Z",
+    "published": "Tue, 10 Nov 2026 16:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/a-session-start-hook-raised-claude-code-skill-firing-from-15-to-62/",
+    "title": "A Session-Start Hook Raised Claude Code Skill Firing From 15% to 62%",
+    "description": "A software tester ran six testing skills on Haiku, Sonnet, and Opus; pushy descriptions added only 5 points, and near-miss requests never fired a skill.\nThe post A Session-Start Hook Raised Claude Code Skill Firing From 15% to 62% appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-10T18:33:44.006Z",
+    "published": "Tue, 10 Nov 2026 15:00:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-validate-llm-output-in-a-duckdb-and-dbt-pipeline/",
+    "title": "How to Validate LLM Output in a DuckDB and dbt Pipeline",
+    "description": "A Gemini Flash-Lite step pulls skills, seniority, and Nigeria eligibility from 18 RemoteOK postings, with Python checks and dbt tests guarding every answer.\nThe post How to Validate LLM Output in a DuckDB and dbt Pipeline appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-10T18:33:44.006Z",
+    "published": "Tue, 10 Nov 2026 13:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/copilot-caught-8-of-8-diff-bugs-with-rules-0-of-2-outside-the-diff/",
+    "title": "Copilot Caught 8 of 8 Diff Bugs With Rules, 0 of 2 Outside the Diff",
+    "description": "A guard on negative enrollment days looked correct while the function it called overbilled a customer 11 days, and an invariant test would have caught it.\nThe post Copilot Caught 8 of 8 Diff Bugs With Rules, 0 of 2 Outside the Diff appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-10T18:33:44.006Z",
+    "published": "Tue, 10 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/",
+    "title": "Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet",
+    "description": "Google is making Gemini 4 Carbon generally available after a two-week testing phase. The model ranks first in several benchmarks, in some cases ahead of Anthropic's new Fable 5.2, at less than half the per-task cost. Google is also previewing coordinated agent teams through the \"/swarm\" fea",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-10T18:33:46.050Z",
+    "published": "Tue, 10 Nov 2026 18:19:13 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/google-deepminds-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot/",
+    "title": "Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot",
+    "description": "Google Deepmind introduced Gemini Robotics 2.5, a new control model for robots, and tested it with Apptronik on active Mercedes-Benz production lines in Hungary and Germany. The humanoid robot Apollo 2 sorted metal parts there with a reported success rate of 96 percent.\nThe article Google D",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-10T18:33:46.050Z",
+    "published": "Tue, 10 Nov 2026 17:11:10 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/",
+    "title": "Anthropic's Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago",
+    "description": "Anthropic's Fable 5.2 completes 41.3 percent of real freelance jobs at professional quality on the Remote Labor Index, more than double the next-best systems Opus 5.5 and GPT 6 Astra. A year ago the top score was 2.5 percent. Areas like product design and animation remain a weak spot.\nThe a",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-10T18:33:46.050Z",
+    "published": "Tue, 10 Nov 2026 14:07:47 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration/",
+    "title": "Eight countries and top AI labs agree to shutdown mechanisms in new Paris declaration",
+    "description": "Eight countries along with representatives from OpenAI, Anthropic, Microsoft, and Mistral AI have signed the \"Paris Call for AI Safety and Security\" at Emmanuel Macron's initiative. The companies commit to shutdown mechanisms, independent audits, and disclosing known risks, but the agreemen",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-10T18:33:46.050Z",
+    "published": "Tue, 10 Nov 2026 13:37:16 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-kicks-off-ipo-roadshow-offering-shares-at-70-to-78-and-targeting-a-trillion-dollar-valuation/",
+    "title": "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation",
+    "description": "Anthropic is kicking off its IPO roadshow, targeting a valuation of up to $1.02 trillion. Beyond the public offering of up to $64.4 billion, the company is securing $26 billion through a private placement with Google, Nvidia, Microsoft, and other major tech firms as anchor investors. The IP",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-10T18:33:46.050Z",
+    "published": "Tue, 10 Nov 2026 12:13:03 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+    "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+    "description": "Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-10T18:33:52.524Z",
+    "published": "Tue, 10 Nov 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
+    "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
+    "description": "The “abliterators” are flooding the internet with AI models that never say no, making it easier for people to improve their cyberdefenses—or build a bomb.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-10T18:33:52.524Z",
+    "published": "Tue, 10 Nov 2026 11:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
+    "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
+    "description": "The risk of nuclear catastrophe is real, as is the fallout of the China–US domination game (hi there, spies). But no need to panic about Skynet.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-10T18:33:52.524Z",
+    "published": "Tue, 10 Nov 2026 11:00:00 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/10/zyphra-zonos3-mini-open-source-tts/",
+    "title": "Zyphra Releases ZONOS3-Mini: Open-Source TTS With 100M Active Parameters",
+    "description": "Zyphra released ZONOS3-Mini, an Apache 2.0 text-to-speech model with 800M total and 100M active parameters. It clones voices, steers delivery word by word and runs in real time in the browser\nThe post Zyphra Releases ZONOS3-Mini: Open-Source TTS With 100M Active Parameters appeared first on MarkTech",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-10T18:33:55.349Z",
+    "published": "Tue, 10 Nov 2026 15:42:55 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2-release/",
+    "title": "Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Safeguards",
+    "description": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2, one model with two safeguard levels. Fable 5.2 scores 49.1% on FrontierCode 2.0, costs $8/$40 per million tokens, and ships with a 1M-token context window.\nThe post Anthropic Launches Claude Fable 5.2 and Mythos 5.2: Same Model, Different Sa",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-10T18:33:55.349Z",
+    "published": "Tue, 10 Nov 2026 14:59:09 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/tsmc-october-revenue-hits-record-1781-bn-on-skyrocketing-ai-chip-demand",
+    "title": "TSMC October Revenue Hits Record $17.81 Bn on Skyrocketing AI Chip Demand",
+    "description": "TSMC's October revenue rose 59.7% year-on-year, as demand for advanced semiconductor manufacturing continues to drive growth, contrasting with recent volatility",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-10T18:33:58.003Z",
+    "published": "Tue, 10 Nov 2026 11:59:13 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/froncortai-gets-23m-from-googleorg-to-expand-ai-based-disease-screening-in-india",
+    "title": "Froncort.AI Gets $2.3M From Google.org to Expand AI-Based Disease Screening in India",
+    "description": "Froncort.AI has received funding from Google.org to enhance its AI disease screening platform in India, aiding health workers in identifying risk areas.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-10T18:33:58.003Z",
+    "published": "Tue, 10 Nov 2026 11:42:42 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/is-ai-powered-reverse-engineering-the-death-of-proprietary-software",
+    "title": "Is AI-Powered Reverse Engineering the Death of Proprietary Software?",
+    "description": "Explore how AI-powered reverse engineering challenges proprietary software norms and the implications for intellectual property in 2024.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-10T18:33:58.003Z",
+    "published": "Tue, 10 Nov 2026 11:30:00 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2307801/fake-gpu-scam-what-to-look-for/",
+    "title": "Here's what to look for so you don't get scammed by a fake GPU",
+    "description": "From tracking number heists to missing memory dies, don&#39;t waste your precious time and money on a bogus GPU bargain.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-10T18:34:00.468Z",
+    "published": "Tue, 10 Nov 2026 18:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2312279/google-turns-gemini-towards-medical-paperwork/",
+    "title": "Google turns Gemini towards medical paperwork",
+    "description": "Gemini for healthcare is in preview now, with some big-name partners already on board.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-10T18:34:00.468Z",
+    "published": "Tue, 10 Nov 2026 17:35:46 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2312177/anthropic-takes-on-google-and-microsoft-with-claude-sheets/",
+    "title": "Anthropic takes on Google and Microsoft with Claude Sheets",
+    "description": "The company also has a new whiteboard app.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-10T18:34:00.468Z",
+    "published": "Tue, 10 Nov 2026 17:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2312022/google-fi-super-network-automatic-carrier-switching/",
+    "title": "Google Fi announces super network automatic carrier switching for improved speed and reception",
+    "description": "It's rolling out first on Pixel phones before wider availability arrives in 2027.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-10T18:34:00.468Z",
+    "published": "Tue, 10 Nov 2026 17:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2307782/can-you-use-wd40-on-electronics/",
+    "title": "Can you use WD-40 on your electronics?",
+    "description": "Maintaining your electronics involves cleaning them correctly. Discover if WD-40 is the right product for the job.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-10T18:34:00.468Z",
+    "published": "Tue, 10 Nov 2026 17:15:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2312215/adobe-and-google-have-teamed-up-to-connect-drive-gmail-and-acrobat/",
+    "title": "Adobe and Google have teamed up to connect Drive, Gmail and Acrobat",
+    "description": "Some Adobe tools will end up in Google Search&#39;s AI mode, as well.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-10T18:34:00.468Z",
+    "published": "Tue, 10 Nov 2026 17:02:46 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2311855/gemini-4-carbon-now-available-worldwide/",
+    "title": "Google's Gemini 4 Carbon is now widely available around the world",
+    "description": "Google is rolling out Gemini 4 Carbon after a limited release to cybersecurity companies.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-10T18:34:00.468Z",
+    "published": "Tue, 10 Nov 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2307770/why-phone-switches-wifi-to-mobile-data/",
+    "title": "Why does your phone keep switching between Wi-Fi and mobile data?",
+    "description": "Your phone switches to mobile data to keep you connected, but it can drain your data plan. Learn what causes it and how to stop it on iPhone and Android.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-10T18:34:00.468Z",
+    "published": "Tue, 10 Nov 2026 15:45:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2311922/bt-wont-launch-starlink-deal-until-people-forget-about-ukraine/",
+    "title": "BT won't launch Starlink deal until people forget about Ukraine",
+    "description": "The UK's largest telecom company is courageously waiting for people to forget about Musk before launching its tie-up with Starlink.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-10T18:34:00.468Z",
+    "published": "Tue, 10 Nov 2026 14:01:44 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2311665/spotify-adds-new-voices-for-its-ai-dj/",
+    "title": "Spotify adds new voices for its AI DJ",
+    "description": "You can also now listen to a DJ mix without the commentary.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-10T18:34:00.468Z",
+    "published": "Tue, 10 Nov 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2311901/adobe-firefly-ai-assistant-can-now-take-on-recurring-tasks-for-you/",
+    "title": "Adobe Firefly AI Assistant can now take on recurring tasks for you",
+    "description": "Adobe announced its latest flight of AI-powered tools at its Max conference today.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-10T18:34:00.468Z",
+    "published": "Tue, 10 Nov 2026 14:00:00 +0000"
   }
 ]
