@@ -105147,5 +105147,375 @@
     "category": "news",
     "discovered": "2026-11-11T05:46:06.960Z",
     "published": "Tue, 10 Nov 2026 23:42:04 +0000"
+  },
+  {
+    "url": "https://openai.com/index/singapore-airlines-travel-work",
+    "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+    "description": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-11T13:57:04.338Z",
+    "published": "Tue, 10 Nov 2026 08:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-11T13:59:43.262Z"
+  },
+  {
+    "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+    "description": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-11-11T13:57:05.866Z",
+    "published": "Wed, 11 Nov 2026 09:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-11T13:59:43.262Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/",
+    "title": "The Download: preserving minds and weighing open AI risks",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50,",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-11T13:57:09.019Z",
+    "published": "Wed, 11 Nov 2026 13:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-11T13:59:43.262Z"
+  },
+  {
+    "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+    "title": "What happens to mathematics when AI becomes an oracle?",
+    "description": "Article URL: https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/\nComments URL: https://news.ycombinator.com/item?id=50453477\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T13:57:14.131Z",
+    "published": "Wed, 11 Nov 2026 13:56:10 +0000",
+    "processed": true,
+    "processedAt": "2026-11-11T13:59:43.262Z"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo",
+    "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
+    "description": "Article URL: https://www.bbc.co.uk/news/articles/c54gne3plvrxo\nComments URL: https://news.ycombinator.com/item?id=50453475\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T13:57:14.131Z",
+    "published": "Wed, 11 Nov 2026 13:56:07 +0000",
+    "processed": true,
+    "processedAt": "2026-11-11T13:59:43.262Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50453453",
+    "title": "Ask HN: Anybody using their own AI harness as well?",
+    "description": "I worked hard on the one I made, and I use it almost every day for conversational tasks and others.Maybe I'm the only one that uses it, but to me it's a great success.Anybody made their own harness and using it?\n\nComments URL: https://news.ycombinator.com/item?id=50453453\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T13:57:14.131Z",
+    "published": "Wed, 11 Nov 2026 13:54:21 +0000"
+  },
+  {
+    "url": "https://thequietpart.ai/?src=hn",
+    "title": "The Quiet Part – a 9-minute narrated piece on what AI does to jobs",
+    "description": "Article URL: https://thequietpart.ai/?src=hn\nComments URL: https://news.ycombinator.com/item?id=50453443\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T13:57:14.131Z",
+    "published": "Wed, 11 Nov 2026 13:53:39 +0000"
+  },
+  {
+    "url": "https://neo4j.com/press-releases/announcing-relate-by-neo4j/",
+    "title": "New In-Memory Database Purpose-Built for AI Agents by NEO4J",
+    "description": "Article URL: https://neo4j.com/press-releases/announcing-relate-by-neo4j/\nComments URL: https://news.ycombinator.com/item?id=50453351\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T13:57:14.131Z",
+    "published": "Wed, 11 Nov 2026 13:45:40 +0000"
+  },
+  {
+    "url": "https://tylerthinking.com/purgatory/",
+    "title": "Show HN: AI Purgatory – how long until AI-exposed workers are back on track",
+    "description": "I worked up this model as a personal project to help figure out how long AI exposed workers are worse off. As a software engineer, I imagine getting laid off and being incapable of finding new work. It Also showcases the impacts of proposed redistribution mechanisms. This model is meant as a device",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T13:57:14.131Z",
+    "published": "Wed, 11 Nov 2026 13:43:23 +0000"
+  },
+  {
+    "url": "https://infisical.com/blog/dont-give-ai-agents-your-env",
+    "title": "Don't give Claude Code your .env",
+    "description": "Article URL: https://infisical.com/blog/dont-give-ai-agents-your-env\nComments URL: https://news.ycombinator.com/item?id=50453291\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T13:57:14.131Z",
+    "published": "Wed, 11 Nov 2026 13:39:48 +0000"
+  },
+  {
+    "url": "https://www.ft.com/content/2ada6998-26d2-4aab-89ad-11a50f0eb65a",
+    "title": "Embrace Paper Exams to Combat AI Cheating, Warns UK Universities Regulator",
+    "description": "Article URL: https://www.ft.com/content/2ada6998-26d2-4aab-89ad-11a50f0eb65a\nComments URL: https://news.ycombinator.com/item?id=50453276\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T13:57:14.131Z",
+    "published": "Wed, 11 Nov 2026 13:38:25 +0000"
+  },
+  {
+    "url": "https://www.seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/",
+    "title": "Glue work is still harmful in the age of AI",
+    "description": "Article URL: https://www.seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/\nComments URL: https://news.ycombinator.com/item?id=50453254\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T13:57:14.131Z",
+    "published": "Wed, 11 Nov 2026 13:36:22 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=2GsuvsEg28o",
+    "title": "Oxford Mathematics in Conversation on AI – Ben Green and James Maynard [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=2GsuvsEg28o\nComments URL: https://news.ycombinator.com/item?id=50453056\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T13:57:14.131Z",
+    "published": "Wed, 11 Nov 2026 13:17:26 +0000"
+  },
+  {
+    "url": "https://github.com/editmamei/editmamei",
+    "title": "Show HN: Editmamei – Giving AI agents access to desktop Photoshop and GIMP",
+    "description": "Hi HN!I built Editmamei, a local MCP server for Adobe Photoshop and GIMP.I built it because I wanted to connect Claude to a powerful photo editor, since Claude can't generate images itself. Apparently I wasn't the only one, Adobe previewed their own local Photoshop MCP yesterday, announcing at Adob",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T13:57:14.131Z",
+    "published": "Wed, 11 Nov 2026 13:14:56 +0000"
+  },
+  {
+    "url": "https://github.com/SreeNaresh1/episteme-ai",
+    "title": "Show HN: Episteme AI – Self-healing roadmaps with paywall and dead-link checks",
+    "description": "Article URL: https://github.com/SreeNaresh1/episteme-ai\nComments URL: https://news.ycombinator.com/item?id=50453033\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T13:57:14.131Z",
+    "published": "Wed, 11 Nov 2026 13:14:51 +0000"
+  },
+  {
+    "url": "https://unfix.dev/",
+    "title": "Show HN: I checked 10 AI-written patches to real C++ projects – 6 didn't hold up",
+    "description": "Article URL: https://unfix.dev/\nComments URL: https://news.ycombinator.com/item?id=50453025\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T13:57:14.131Z",
+    "published": "Wed, 11 Nov 2026 13:14:12 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50452986",
+    "title": "Ask HN: \"No AI\" apps/companies/resources?",
+    "description": "I know some people might think this is not the best community to ask for this, but I hope I can be pleasantly surprised.Is there any useful/helpful list of apps, companies, or resources in general that avoid AI (they don't have to be vocally or openly \"anti\", but at least explicitly avoid it) that",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T13:57:14.131Z",
+    "published": "Wed, 11 Nov 2026 13:11:11 +0000"
+  },
+  {
+    "url": "https://rankings.leffke.com/categories/deploy-observability",
+    "title": "Deployment and observability tools for AI agents, scored",
+    "description": "Article URL: https://rankings.leffke.com/categories/deploy-observability\nComments URL: https://news.ycombinator.com/item?id=50452969\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T13:57:14.131Z",
+    "published": "Wed, 11 Nov 2026 13:08:45 +0000"
+  },
+  {
+    "url": "https://komr.ad/",
+    "title": "Show HN: Komrad – an AI agent that does not work for you",
+    "description": "Article URL: https://komr.ad/\nComments URL: https://news.ycombinator.com/item?id=50452926\nPoints: 3\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T13:57:14.131Z",
+    "published": "Wed, 11 Nov 2026 13:04:14 +0000"
+  },
+  {
+    "url": "https://www.kdnuggets.com/9-key-llm-inference-metrics-explained-in-5-minutes",
+    "title": "Key LLM Inference Metrics Explained in 5 Minutes",
+    "description": "Article URL: https://www.kdnuggets.com/9-key-llm-inference-metrics-explained-in-5-minutes\nComments URL: https://news.ycombinator.com/item?id=50452925\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T13:57:14.131Z",
+    "published": "Wed, 11 Nov 2026 13:04:02 +0000"
+  },
+  {
+    "url": "https://wiki.gnollhack.com/Guides/GnollHack,_Gnoll_Overseer,_and_GnollBench_for_Software_Engineers",
+    "title": "Modernizing NetHack's C engine with .NET MAUI, Avalonia and a 31-tool AI advisor",
+    "description": "Article URL: https://wiki.gnollhack.com/Guides/GnollHack,_Gnoll_Overseer,_and_GnollBench_for_Software_Engineers\nComments URL: https://news.ycombinator.com/item?id=50452884\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T13:57:14.131Z",
+    "published": "Wed, 11 Nov 2026 13:00:47 +0000"
+  },
+  {
+    "url": "https://outlier.host/",
+    "title": "Show HN: Outlier, AI without the data center, private and offline on your Mac",
+    "description": "Article URL: https://outlier.host/\nComments URL: https://news.ycombinator.com/item?id=50452829\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T13:57:14.131Z",
+    "published": "Wed, 11 Nov 2026 12:54:09 +0000"
+  },
+  {
+    "url": "https://www.macrumors.com/2026/11/11/tsmc-approves-ai-investment/",
+    "title": "TSMC Approves $1B AI Investment",
+    "description": "Article URL: https://www.macrumors.com/2026/11/11/tsmc-approves-ai-investment/\nComments URL: https://news.ycombinator.com/item?id=50452744\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T13:57:14.131Z",
+    "published": "Wed, 11 Nov 2026 12:44:22 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-use-apples-fm-cli-to-run-on-device-llms-from-python/",
+    "title": "How to Use Apple's fm CLI to Run On-Device LLMs From Python",
+    "description": "A Sate Padang vision test and a Malaysia capital question show why the free, private model needs grounding and validation before it leaves prototyping.\nThe post How to Use Apple's fm CLI to Run On-Device LLMs From Python appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-11T13:57:20.010Z",
+    "published": "Wed, 11 Nov 2026 13:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/a-jev-of-all-trades-build-and-train-a-jev-style-decision-model-from-scratch/",
+    "title": "A Jev of All Trades: Build and Train a Jev-style Decision Model From Scratch",
+    "description": "Trained on six PathMNIST tissues with a small KEEP adapter, it handled added labels without retraining, though a linear classifier hit 88% on familiar ones.\nThe post A Jev of All Trades: Build and Train a Jev-style Decision Model From Scratch appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-11T13:57:20.010Z",
+    "published": "Wed, 11 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs/",
+    "title": "US data brokers are selling half a billion dollars in RL training environments to Chinese AI labs",
+    "description": "US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars' worth of AI training data to Chinese labs, according to a ChinaTalk investigation. That includes the same RL environments previously built for OpenAI or Anthropic. At least nine firms are invol",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-11T13:57:21.974Z",
+    "published": "Wed, 11 Nov 2026 13:51:11 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/with-its-new-voice-model-deepl-voice-now-translates-intonation-and-speaking-speed-into-other-languages-as-well/",
+    "title": "DeepL wants real-time translation to finally capture sarcasm and mood shifts",
+    "description": "DeepL Voice's real-time translations are about to sound a lot more natural. The company's new Aure model carries over tone, emotion, emphasis, and speaking pace from the original speaker's voice into the target language.\nThe article DeepL wants real-time translation to finally capture sarca",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-11T13:57:21.974Z",
+    "published": "Wed, 11 Nov 2026 13:50:30 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/",
+    "title": "Grok-built apps exposed patient data, plaintext passwords, and SpaceXSI's own sales pipeline",
+    "description": "Security firm Claroc found more than 35,000 Grok-built apps open to anyone without login, including patient data and confidential SpaceXSI documents. The cause: \"Anyone with the link\" was preselected as the default access setting. SpaceXSI took only its own 24 employee apps offline. The res",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-11T13:57:21.974Z",
+    "published": "Wed, 11 Nov 2026 12:53:07 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/",
+    "title": "Enterprise sales push OpenAI's quarterly revenue to $10 billion, though it still trails Anthropic",
+    "description": "OpenAI grew its quarterly revenue 50 percent to $10 billion but is still burning more cash than it brings in. Adjusted operating losses climbed to $10.9 billion, while rival Anthropic operates far more efficiently on $17 billion in revenue. To close the gap, OpenAI is now fueling a price wa",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-11T13:57:21.974Z",
+    "published": "Wed, 11 Nov 2026 12:12:47 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/uk-regulator-threatens-universities-with-sanctions-unless-they-adopt-ai-proof-exam-formats/",
+    "title": "UK regulator threatens universities with sanctions unless they adopt AI-proof exam formats",
+    "description": "England's higher education regulator, the Office for Students, says AI has made it \"nearly impossible\" to fairly assess student coursework. An investigation found that students are having ChatGPT write entire papers undetected, without being able to recall basic content afterward. To save t",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-11T13:57:21.974Z",
+    "published": "Wed, 11 Nov 2026 11:54:46 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
+    "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
+    "description": "The young girl’s parents allege that she used Gemini via her school Chromebook to plan her suicide, but the school’s monitoring systems didn’t know until it was almost too late.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-11T13:57:28.624Z",
+    "published": "Wed, 11 Nov 2026 11:00:00 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/10/ifm-pan-2-open-world-model/",
+    "title": "MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI",
+    "description": "The Institute of Foundation Models at MBZUAI released PAN 2, an Apache 2.0 world model that couples an LLM planner with a 29B diffusion transformer to simulate up to 20 seconds of action outcomes as video.\nThe post MBZUAI&#8217;s IFM Releases PAN 2, an Open 29B World Model for Physical AI appeared f",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-11T13:57:31.112Z",
+    "published": "Wed, 11 Nov 2026 07:38:57 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/it-services/nobody-wants-a-proprietary-platform-says-coforges-anup-nair",
+    "title": "‘Nobody Wants a Proprietary Platform,’ Says Coforge’s Anup Nair",
+    "description": "Coforge CAICO Anup Nair says the IT services firm is skipping a Palantir-style platform and betting on context, trained engineers and repeatable projects.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-11T13:57:33.591Z",
+    "published": "Wed, 11 Nov 2026 12:05:35 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/ibm-microsoft-launch-agentic-ai-platform-with-over-6000-ai-agents",
+    "title": "IBM, Microsoft Launch Agentic AI Platform With Over 6,000 AI Agents",
+    "description": "IBM and Microsoft have launched Imagine Enterprise, an agentic AI platform combining agents with enterprise cloud, data, and security technologies.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-11T13:57:33.591Z",
+    "published": "Wed, 11 Nov 2026 11:30:28 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/nha-selects-ekacare-for-ai-voice-scribe-in-public-health-facilities",
+    "title": "NHA Selects EkaCare for AI Voice Scribe in Public Health Facilities",
+    "description": "EkaCare's AI Voice Scribe will enhance documentation in public health, converting consultations into structured health records efficiently.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-11T13:57:33.591Z",
+    "published": "Wed, 11 Nov 2026 08:43:45 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/softbank-takes-7-billion-hit-on-us-ai-data-centre-investments",
+    "title": "SoftBank Takes $7 Billion Hit on US AI Data Centre Investments",
+    "description": "The Japanese investment giant has written off billions of dollars after changing its plans for US data centre infrastructure, while also reporting losses linked",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-11T13:57:33.591Z",
+    "published": "Wed, 11 Nov 2026 07:39:57 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/can-you-trust-your-instinct-and-not-muse-over-the-risks",
+    "title": "Can You Trust Your ‘Instinct’ and Not ‘Muse’ Over the Risks?",
+    "description": "AI agents today—the ones that can use your web browser and autonomously perform tasks—are getting more intuitive. But are they safe enough?",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-11T13:57:33.591Z",
+    "published": "Wed, 11 Nov 2026 06:14:37 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/anthropic-seeks-up-to-644-bn-at-14-tn-valuation-with-ipo",
+    "title": "Anthropic Seeks Up to $64.4 Bn at $1.4 Tn Valuation With IPO",
+    "description": "Anthropic is offering 825 million shares of Class A common stock at an indicative price range of $70–78 per share. The company plans to list on the Nasdaq Globa",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-11T13:57:33.591Z",
+    "published": "Wed, 11 Nov 2026 06:12:45 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2313202/microsoft-automatic-super-resolution-comes-to-rog-xbox-ally-x/",
+    "title": "Microsoft's Automatic Super Resolution is now officially out for the ROG Xbox Ally X",
+    "description": "Microsoft's upscaling tech for video games is now officially available for select Xbox Ally machines, as well as some other Copilot+ PCs.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-11T13:57:35.985Z",
+    "published": "Wed, 11 Nov 2026 12:59:44 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2313187/grok-build-leaked-sensitive-spacexsi-data/",
+    "title": "A Grok vibe-coding agent leaked sensitive SpaceXSI data",
+    "description": "A flaw in SpaceXSI's Grok Build vibe-coding agent allowed sensitive data to leak from thousands of users including... SpaceXSI.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-11T13:57:35.985Z",
+    "published": "Wed, 11 Nov 2026 12:35:10 +0000"
   }
 ]
