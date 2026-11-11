@@ -105517,5 +105517,528 @@
     "category": "news",
     "discovered": "2026-11-11T13:57:35.985Z",
     "published": "Wed, 11 Nov 2026 12:35:10 +0000"
+  },
+  {
+    "url": "https://openai.com/index/jiostar-vijay-seshadri",
+    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+    "description": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-11T21:11:42.960Z",
+    "published": "Wed, 11 Nov 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-11T21:14:21.347Z"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+    "description": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-11-11T21:11:47.685Z",
+    "published": "Wed, 11 Nov 2026 18:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-11T21:14:21.347Z"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+    "description": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-11-11T21:11:47.685Z",
+    "published": "Wed, 11 Nov 2026 16:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-11T21:14:21.347Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/token-pooling",
+    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-11-11T21:11:48.276Z",
+    "published": "Wed, 11 Nov 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-11T21:14:21.347Z"
+  },
+  {
+    "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+    "title": "Why the data center you dread might never even be built",
+    "description": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#8217;s a more basic problem: A lot of the projects being announced may never get b",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-11T21:11:49.475Z",
+    "published": "Wed, 11 Nov 2026 20:15:15 +0000",
+    "processed": true,
+    "processedAt": "2026-11-11T21:14:21.347Z"
+  },
+  {
+    "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
+    "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+    "description": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#8217;s a more basic problem: A lot of the projects being announced may never get b",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-11T21:11:49.475Z",
+    "published": "Wed, 11 Nov 2026 20:02:14 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+    "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+    "description": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-11T21:11:49.475Z",
+    "published": "Wed, 11 Nov 2026 19:54:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+    "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+    "description": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-11T21:11:49.475Z",
+    "published": "Wed, 11 Nov 2026 19:34:55 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+    "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+    "description": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-11T21:11:49.475Z",
+    "published": "Wed, 11 Nov 2026 19:22:22 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+    "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+    "description": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-11T21:11:49.475Z",
+    "published": "Wed, 11 Nov 2026 16:16:07 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+    "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+    "description": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-11T21:11:49.475Z",
+    "published": "Wed, 11 Nov 2026 16:14:44 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+    "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+    "description": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-11T21:11:49.475Z",
+    "published": "Wed, 11 Nov 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+    "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+    "description": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-11T21:11:49.475Z",
+    "published": "Wed, 11 Nov 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+    "title": "What to know about this year’s UN climate talks",
+    "description": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-11T21:11:50.728Z",
+    "published": "Wed, 11 Nov 2026 17:00:00 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/marketplace",
+    "title": "Introducing the ElevenLabs Marketplace for enterprise-ready AI applications",
+    "description": "Introducing the ElevenLabs Marketplace: discover industry-specific AI agents from partners like Salesforce, IBM, Zendesk, and Twilio.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-11T21:11:53.004Z",
+    "published": "Wed, 11 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/partner-program",
+    "title": "ElevenLabs expands partner program to help enterprises adopt AI agents faster",
+    "description": "ElevenLabs launches its Partner Program: more than 550 partners in 44 countries, new certifications, and co-selling to speed enterprise AI adoption.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-11T21:11:53.004Z",
+    "published": "Wed, 11 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/mckinsey",
+    "title": "McKinsey and ElevenLabs collaborate to take natural AI conversations to enterprise scale",
+    "description": "McKinsey and ElevenLabs announce an alliance to help enterprises prove and scale conversational AI agents, starting with telecom and insurance.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-11T21:11:53.004Z",
+    "published": "Wed, 11 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/enterprise-nyc-summit",
+    "title": "How enterprise clients are putting ElevenLabs AI to work",
+    "description": "See how Yahoo, Westgate, KPN, Doppel, Pocket, and Twilio put ElevenLabs voice AI to work, from front-desk agents to Dutch fine-tuning.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-11T21:11:53.004Z",
+    "published": "Wed, 11 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/nyc-summit",
+    "title": "Building the interaction layer for AI: Everything announced at ElevenLabs Summit NYC",
+    "description": "Everything ElevenLabs announced at its NYC Summit: fine-tuning, Interaction Engine, Memory, Routines, ElevenAI, Partner Program, and Marketplace.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-11T21:11:53.004Z",
+    "published": "Wed, 11 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/nvidia",
+    "title": "ElevenLabs and NVIDIA expand collaboration to bring voice agents to enterprises and governments globally",
+    "description": "ElevenLabs and NVIDIA expand their partnership with Nemotron in ElevenAgents, 15MW of compute, and a sovereign voice agent for Poland’s e-Health.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-11T21:11:53.004Z",
+    "published": "Wed, 11 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://x.com/dimitrispapail/status/2120245027804705121?a=yp1VXtQi8Dep0GmUnxo",
+    "title": "Reprogramming Dormant Neurons to Backdoor AI Agents",
+    "description": "Article URL: https://x.com/dimitrispapail/status/2120245027804705121?a=yp1VXtQi8Dep0GmUnxo\nComments URL: https://news.ycombinator.com/item?id=50458653\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T21:11:55.204Z",
+    "published": "Wed, 11 Nov 2026 21:06:05 +0000"
+  },
+  {
+    "url": "https://haoailab.com/blogs/verifiable-llm-infra/",
+    "title": "Towards Verifiable LLM Infra: Agent-Driven Proof of Agent-Implemented Inference",
+    "description": "Article URL: https://haoailab.com/blogs/verifiable-llm-infra/\nComments URL: https://news.ycombinator.com/item?id=50458579\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T21:11:55.204Z",
+    "published": "Wed, 11 Nov 2026 20:58:34 +0000"
+  },
+  {
+    "url": "https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator",
+    "title": "AI has made it 'close to impossible' to assess university coursework",
+    "description": "Article URL: https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator\nComments URL: https://news.ycombinator.com/item?id=50458512\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T21:11:55.204Z",
+    "published": "Wed, 11 Nov 2026 20:52:44 +0000"
+  },
+  {
+    "url": "https://scoutcode.dev",
+    "title": "I made an AI harness / orchestrator that *actually* gives you decent limits",
+    "description": "Article URL: https://scoutcode.dev\nComments URL: https://news.ycombinator.com/item?id=50458487\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T21:11:55.204Z",
+    "published": "Wed, 11 Nov 2026 20:50:17 +0000"
+  },
+  {
+    "url": "https://oliverdb.ai/blog/type-0-73.html",
+    "title": "Type 0.73: Earth on the Kardashev scale, and why AI is short of wire",
+    "description": "Article URL: https://oliverdb.ai/blog/type-0-73.html\nComments URL: https://news.ycombinator.com/item?id=50458361\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T21:11:55.204Z",
+    "published": "Wed, 11 Nov 2026 20:39:36 +0000"
+  },
+  {
+    "url": "https://github.com/LaurentiuGabriel/retro-break",
+    "title": "Show HN: Play SNES games while Claude is working",
+    "description": "Article URL: https://github.com/LaurentiuGabriel/retro-break\nComments URL: https://news.ycombinator.com/item?id=50458324\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T21:11:55.204Z",
+    "published": "Wed, 11 Nov 2026 20:36:25 +0000"
+  },
+  {
+    "url": "https://www.politico.com/news/2026/11/10/new-york-hochul-first-state-ai-testing-program-01157713",
+    "title": "New York Launches Nation's First State AI Testing Program",
+    "description": "Article URL: https://www.politico.com/news/2026/11/10/new-york-hochul-first-state-ai-testing-program-01157713\nComments URL: https://news.ycombinator.com/item?id=50458291\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T21:11:55.204Z",
+    "published": "Wed, 11 Nov 2026 20:33:51 +0000"
+  },
+  {
+    "url": "https://ianberdin.com/",
+    "title": "I built an AI agent and the cloud it runs on. Alone",
+    "description": "Article URL: https://ianberdin.com/\nComments URL: https://news.ycombinator.com/item?id=50458224\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T21:11:55.204Z",
+    "published": "Wed, 11 Nov 2026 20:27:46 +0000"
+  },
+  {
+    "url": "https://chollinger.com/blog/2026/11/i-am-dr-jekyll-and-mr-hyde-about-ai/",
+    "title": "I Am Dr. Jekyll and Mr. Hyde about AI",
+    "description": "Article URL: https://chollinger.com/blog/2026/11/i-am-dr-jekyll-and-mr-hyde-about-ai/\nComments URL: https://news.ycombinator.com/item?id=50458150\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T21:11:55.204Z",
+    "published": "Wed, 11 Nov 2026 20:22:50 +0000"
+  },
+  {
+    "url": "https://hardwired-pause.ai/",
+    "title": "The Feasibility of a Hardwired Pause of Frontier AI Training",
+    "description": "Article URL: https://hardwired-pause.ai/\nComments URL: https://news.ycombinator.com/item?id=50458124\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T21:11:55.204Z",
+    "published": "Wed, 11 Nov 2026 20:21:25 +0000"
+  },
+  {
+    "url": "https://github.com/cryptoapebot/callofthewildanger-diamond",
+    "title": "Call of the wild angler/fishing binary hack using LLM",
+    "description": "Article URL: https://github.com/cryptoapebot/callofthewildanger-diamond\nComments URL: https://news.ycombinator.com/item?id=50458062\nPoints: 2\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T21:11:55.204Z",
+    "published": "Wed, 11 Nov 2026 20:15:48 +0000"
+  },
+  {
+    "url": "https://apps.apple.com/us/app/hex-soccer-dice-football/id6830311319",
+    "title": "I built a dice football game solo with an AI coding assistant",
+    "description": "Article URL: https://apps.apple.com/us/app/hex-soccer-dice-football/id6830311319\nComments URL: https://news.ycombinator.com/item?id=50458038\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T21:11:55.204Z",
+    "published": "Wed, 11 Nov 2026 20:14:03 +0000"
+  },
+  {
+    "url": "https://www.marketplace.org/story/2026/11/10/some-retailers-try-blocking-agentic-ai-shoppers",
+    "title": "Some retailers try blocking agentic AI shoppers",
+    "description": "Article URL: https://www.marketplace.org/story/2026/11/10/some-retailers-try-blocking-agentic-ai-shoppers\nComments URL: https://news.ycombinator.com/item?id=50458013\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T21:11:55.204Z",
+    "published": "Wed, 11 Nov 2026 20:12:05 +0000"
+  },
+  {
+    "url": "https://github.com/CiscoDevNet/foundry-security-spec",
+    "title": "An open specification for agentic AI security evaluation and testing, from Cisco",
+    "description": "Article URL: https://github.com/CiscoDevNet/foundry-security-spec\nComments URL: https://news.ycombinator.com/item?id=50458009\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T21:11:55.204Z",
+    "published": "Wed, 11 Nov 2026 20:11:57 +0000"
+  },
+  {
+    "url": "https://github.com/Baeta78/token-economy",
+    "title": "Token Economy – Claude Code/Codex usage, limits and token savings",
+    "description": "Article URL: https://github.com/Baeta78/token-economy\nComments URL: https://news.ycombinator.com/item?id=50457964\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T21:11:55.204Z",
+    "published": "Wed, 11 Nov 2026 20:07:45 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50457952",
+    "title": "Is AI going to arb away all market inefficiencies?",
+    "description": "Recently, I've been reading a bunch of books trying to disprove my own belief that AI trading bots won't eventually take away all the edge in the market and leave no opportunities behind. I've always disagreed with the Efficient Market Hypothesis, much like Edward Thorp.In one of the books I read,(",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T21:11:55.204Z",
+    "published": "Wed, 11 Nov 2026 20:06:57 +0000"
+  },
+  {
+    "url": "https://singularityhub.com/2026/11/11/ai-models-can-tell-when-researchers-plant-concepts-in-their-neural-networks-is-it-self-reflection/",
+    "title": "AI Models Can Tell When Researchers Plant Concepts in Their Neural Networks",
+    "description": "Article URL: https://singularityhub.com/2026/11/11/ai-models-can-tell-when-researchers-plant-concepts-in-their-neural-networks-is-it-self-reflection/\nComments URL: https://news.ycombinator.com/item?id=50457949\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T21:11:55.204Z",
+    "published": "Wed, 11 Nov 2026 20:06:38 +0000"
+  },
+  {
+    "url": "https://grahamdumpleton.me/posts/2026/11/ai-as-a-lifestyle-choice/",
+    "title": "AI as a Lifestyle Choice",
+    "description": "Article URL: https://grahamdumpleton.me/posts/2026/11/ai-as-a-lifestyle-choice/\nComments URL: https://news.ycombinator.com/item?id=50457946\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T21:11:55.204Z",
+    "published": "Wed, 11 Nov 2026 20:06:23 +0000"
+  },
+  {
+    "url": "https://harboriq.co",
+    "title": "Show HN: A free CRM with AI tools for independent insurance agencies",
+    "description": "Article URL: https://harboriq.co\nComments URL: https://news.ycombinator.com/item?id=50457867\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-11T21:11:55.204Z",
+    "published": "Wed, 11 Nov 2026 20:00:42 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/are-you-sure-flipped-qwen25-15bs-right-answer-2-times-in-3/",
+    "title": "“Are You Sure?” Flipped Qwen2.5-1.5B’s Right Answer 2 Times in 3",
+    "description": "Three small open models, 150 MMLU questions each, five pushback styles: “That’s wrong” did more damage, and naming a wrong option was close to fatal.\nThe post “Are You Sure?” Flipped Qwen2.5-1.5B’s Right Answer 2 Times in 3 appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-11T21:12:00.698Z",
+    "published": "Wed, 11 Nov 2026 16:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/ai-assistant-vs-copilot-vs-agent-and-when-to-use-each/",
+    "title": "AI Assistant vs. Copilot vs. Agent, and When to Use Each",
+    "description": "A palace-hotel wedding week shows where assistants, copilots, agents, and orchestration fit, and why Gartner expects 40%+ of agentic AI projects to be cancelled.\nThe post AI Assistant vs. Copilot vs. Agent, and When to Use Each appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-11T21:12:00.698Z",
+    "published": "Wed, 11 Nov 2026 15:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/",
+    "title": "Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass",
+    "description": "Google Deepmind's new Gemini Decisions API evaluates up to 1,000 closed-ended questions in a single pass across text, images, audio, and video. Gemini Decision 1 returns results in 150 to 250 milliseconds at roughly five times lower cost than Gemini 3.5 Flash-Lite, according to Google.\nThe",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-11T21:12:02.348Z",
+    "published": "Wed, 11 Nov 2026 20:12:46 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/us-corporate-ai-spending-hits-a-new-high-in-october-but-growth-slows-to-1-65-percent/",
+    "title": "US corporate AI spending hits a new high in October, but growth slows to 1.65 percent",
+    "description": "According to the Ramp AI Index, US corporate AI spending rose just 1.65 percent in October 2026. One percent of companies still drive 80 percent of revenue for OpenAI and Anthropic. Customer support is emerging as a new growth driver, but it may bring lower margins than the coding business",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-11T21:12:02.348Z",
+    "published": "Wed, 11 Nov 2026 19:35:11 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/google-deepminds-alphaproof-code-verified-signals-cryptographic-core-in-four-weeks-instead-of-years/",
+    "title": "Google Deepmind's AlphaProof Code verified Signal's cryptographic core in four weeks instead of years",
+    "description": "Google Deepmind's AlphaProof Code mathematically verified Signal's cryptographic core code in four weeks, a process that typically takes years. AI agents powered by Gemini Carbon wrote more than six million lines of proof code and flagged only about one percent for human review. Deepmind pl",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-11T21:12:02.348Z",
+    "published": "Wed, 11 Nov 2026 18:18:25 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/helsing-built-an-ai-system-that-prepares-targets-for-weapons-systems-and-says-every-decision-will-carry-a-human-name/",
+    "title": "Helsing built an AI system that prepares targets for weapons systems and says every decision will carry a human name",
+    "description": "Helsing has unveiled Clarity, an AI platform that uses agents to distill sensor data into target recommendations for weapons systems, all under human oversight and European control. But experience from the Iran war, Gaza, and a near-miss involving China shows that the speed of automation an",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-11T21:12:02.348Z",
+    "published": "Wed, 11 Nov 2026 15:12:53 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/",
+    "title": "Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days",
+    "description": "Anthropic claims it used AI itself to breach Nvidia's CUDA moat. The company's in-house model Mythos reportedly ported Claude to AMD GPUs in just three days, with almost no human intervention. Anthropic now runs Claude on four chip families and aims to cut costs and reduce vendor dependenci",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-11T21:12:02.348Z",
+    "published": "Wed, 11 Nov 2026 14:25:20 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/i-trained-a-microduck-to-be-my-cats-butler/",
+    "title": "I Saw the Future of Robotics in a Virtual Duck That Chases My Cat",
+    "description": "An OpenAI model helped me teach the Microduck to waddle and moonlight as a tiny cat butler.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-11T21:12:08.499Z",
+    "published": "Wed, 11 Nov 2026 19:55:54 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
+    "title": "A Startup Wants to Fight AI Bioweapons With AI",
+    "description": "Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-11T21:12:08.499Z",
+    "published": "Wed, 11 Nov 2026 17:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/the-ao3-shutdown-is-pitting-fanfic-readers-against-authors/",
+    "title": "The AO3 Shutdown Is Pitting Fanfic Readers Against Authors",
+    "description": "“It has left a sour taste in my mouth,” says a Heated Rivalry fanfic author who found her work uploaded to AO3 mirror sites without her consent.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-11T21:12:08.499Z",
+    "published": "Wed, 11 Nov 2026 16:13:03 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+    "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+    "description": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-11T21:12:08.499Z",
+    "published": "Wed, 11 Nov 2026 15:30:00 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/11/google-deepmind-alphagenome-2-cell-type-variant-effects/",
+    "title": "Google DeepMind Releases AlphaGenome 2 for Cell-Type-Specific Variant Effects",
+    "description": "Google DeepMind released AlphaGenome 2, a conditional DNA sequence model that predicts regulatory activity and variant effects per cell type. It is available via the AlphaGenome API for non-commercial research.\nThe post Google DeepMind Releases AlphaGenome 2 for Cell-Type-Specific Variant Effects ap",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-11T21:12:10.979Z",
+    "published": "Wed, 11 Nov 2026 20:51:56 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/11/marktechpost-gpu-leaderboard-chrome-extension-launch/",
+    "title": "Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension",
+    "description": "Marktechpost Launches GPU Leaderboard and the Deploy It Chrome Extension\nThe post Marktechpost AI Launches GPU Leaderboard and the Deploy It Chrome Extension appeared first on MarkTechPost.",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-11T21:12:10.979Z",
+    "published": "Wed, 11 Nov 2026 15:51:14 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2314121/united-is-restricting-ai-agents-from-booking-flights/",
+    "title": "United is restricting AI agents from booking flights",
+    "description": "The airline believes AI poses security risks and may violate DOT and FAA rules.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-11T21:12:15.521Z",
+    "published": "Wed, 11 Nov 2026 20:09:44 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay/",
+    "title": "Google brings the Gemini app to Apple CarPlay",
+    "description": "The chatbot was already available through the Google Maps app.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-11T21:12:15.521Z",
+    "published": "Wed, 11 Nov 2026 19:54:55 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2314064/bytedance-is-reportedly-working-on-its-own-ai-agent/",
+    "title": "ByteDance is reportedly working on its own AI agent",
+    "description": "The Chinese company wants to compete with Meta's Muse.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-11T21:12:15.521Z",
+    "published": "Wed, 11 Nov 2026 19:42:19 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2314045/how-many-spacex-starship-rocket-tests-failed/",
+    "title": "How many SpaceX Starship rocket tests have failed?",
+    "description": "Thanks to SpaceX&#39;s unique approach to testing, the answer isn&#39;t so clear-cut.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-11T21:12:15.521Z",
+    "published": "Wed, 11 Nov 2026 19:27:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2313329/europe-wants-to-ban-dark-patterns-in-apps-and-loot-boxes-for-minors/",
+    "title": "Europe wants to ban 'dark patterns' in apps and loot boxes for minors",
+    "description": "Europe's Digital Fairness Act targets digital practices that harm children and push people into spending more.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-11T21:12:15.521Z",
+    "published": "Wed, 11 Nov 2026 14:29:03 +0000"
   }
 ]
