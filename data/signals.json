@@ -105056,5 +105056,96 @@
     "category": "news",
     "discovered": "2026-11-10T23:40:53.753Z",
     "published": "Tue, 10 Nov 2026 19:00:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "description": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-11T05:45:26.451Z",
+    "published": "Thu, 12 Nov 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-11T05:48:13.459Z"
+  },
+  {
+    "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "description": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-11T05:45:26.451Z",
+    "published": "Wed, 11 Nov 2026 08:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-11T05:48:13.459Z"
+  },
+  {
+    "url": "https://openai.com/index/cogent-security",
+    "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+    "description": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-11T05:45:26.451Z",
+    "published": "Tue, 10 Nov 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-11T05:48:13.459Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/qvac/botpsy",
+    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-11-11T05:45:28.722Z",
+    "published": "Wed, 11 Nov 2026 05:01:16 GMT",
+    "processed": true,
+    "processedAt": "2026-11-11T05:48:13.459Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/10/fish-audio-live-3-full-duplex-voice-model/",
+    "title": "Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms",
+    "description": "Fish Audio released Live 3, a full-duplex voice model for voice agents. It listens while it speaks, separates “mm-hmm” from real interruptions, and can react in as little as 186 ms. English only at launch\nThe post Fish Audio Releases Live 3, a Full-Duplex Voice Model That Reacts in 186 ms appeared f",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-11T05:46:02.361Z",
+    "published": "Wed, 11 Nov 2026 04:43:53 +0000",
+    "processed": true,
+    "processedAt": "2026-11-11T05:48:13.459Z"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/puppygraph-raises-10-mn-to-help-ai-agents-query-enterprise-tables",
+    "title": "PuppyGraph Raises $10 Mn to Help AI Agents Query Enterprise Tables",
+    "description": "PuppyGraph raises $10 million to enhance its AI query engine, supporting enterprise expansion and the launch of PuppyGraph 1.0 for data insights.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-11T05:46:04.476Z",
+    "published": "Wed, 11 Nov 2026 05:23:14 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/cognizant-commits-25000-professionals-to-deploy-claude-in-enterprises",
+    "title": "Cognizant Commits 25,000 Professionals to Deploy Claude in Enterprises",
+    "description": "The offering combines licensed access to Claude, dedicated personnel, and proprietary software to manage AI systems in enterprise production environments.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-11T05:46:04.476Z",
+    "published": "Wed, 11 Nov 2026 05:13:10 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2307784/average-lifespan-recordable-blu-ray-discs/",
+    "title": "What is the average lifespan of recordable Blu-ray discs?",
+    "description": "How long they will last depends on a few factors.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-11T05:46:06.960Z",
+    "published": "Wed, 11 Nov 2026 01:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2312947/nvidia-shareholders-are-suing-the-company-and-ceo-jensen-huang/",
+    "title": "NVIDIA shareholders are suing the company and CEO Jensen Huang",
+    "description": "The company's shares have plummeted in response to the exec's affair with an alleged Chinese spy.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-11T05:46:06.960Z",
+    "published": "Tue, 10 Nov 2026 23:42:04 +0000"
   }
 ]
