@@ -106844,5 +106844,375 @@
     "category": "news",
     "discovered": "2026-11-12T18:32:23.649Z",
     "published": "Thu, 12 Nov 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/amplitude",
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "description": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-12T23:49:19.771Z",
+    "published": "Thu, 12 Nov 2026 20:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-12T23:51:56.304Z"
+  },
+  {
+    "url": "https://openai.com/business/customer-stories/gondola",
+    "title": "Gondola doubles revenue as its team builds more with Codex",
+    "description": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-12T23:49:19.771Z",
+    "published": "Thu, 12 Nov 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-12T23:51:56.305Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-11-12T23:49:21.810Z",
+    "published": "Thu, 12 Nov 2026 19:07:35 GMT",
+    "processed": true,
+    "processedAt": "2026-11-12T23:51:56.305Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+    "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+    "description": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-12T23:49:23.075Z",
+    "published": "Thu, 12 Nov 2026 22:42:51 +0000",
+    "processed": true,
+    "processedAt": "2026-11-12T23:51:56.305Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+    "title": "Muse can now place calls to U.S. businesses — if you pay",
+    "description": "Muse's AI can now place outbound calls to US businesses — but it's not free.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-12T23:49:23.075Z",
+    "published": "Thu, 12 Nov 2026 22:22:28 +0000",
+    "processed": true,
+    "processedAt": "2026-11-12T23:51:56.305Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+    "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+    "description": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-12T23:49:23.075Z",
+    "published": "Thu, 12 Nov 2026 21:27:10 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+    "title": "Jensen Huang was having a third affair, Reuters reports",
+    "description": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-12T23:49:23.075Z",
+    "published": "Thu, 12 Nov 2026 20:26:47 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+    "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+    "description": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-12T23:49:23.075Z",
+    "published": "Thu, 12 Nov 2026 19:27:45 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+    "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+    "description": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-12T23:49:23.075Z",
+    "published": "Thu, 12 Nov 2026 19:11:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+    "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+    "description": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-12T23:49:23.075Z",
+    "published": "Thu, 12 Nov 2026 18:39:23 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+    "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+    "description": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “pote",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-12T23:49:24.216Z",
+    "published": "Thu, 12 Nov 2026 20:16:24 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/customer-service-skills",
+    "title": "7 customer service skills every human and AI agent needs (with examples)",
+    "description": "Learn the 7 customer service skills every human and AI agent needs, with real examples, a human vs AI comparison, and ways to train and measure them.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-12T23:49:26.336Z",
+    "published": "Thu, 12 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://www.motherjones.com/politics/2026/11/google-ai-protests-students-parents-families-new-york-nationwide-search-lawsuit/",
+    "title": "Kids and Parents Are Protesting Google's Classroom AI",
+    "description": "Article URL: https://www.motherjones.com/politics/2026/11/google-ai-protests-students-parents-families-new-york-nationwide-search-lawsuit/\nComments URL: https://news.ycombinator.com/item?id=50476040\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T23:49:30.606Z",
+    "published": "Thu, 12 Nov 2026 23:41:14 +0000"
+  },
+  {
+    "url": "https://github.com/DoubleV840/blip",
+    "title": "The Hunt for Claude October",
+    "description": "Article URL: https://github.com/DoubleV840/blip\nComments URL: https://news.ycombinator.com/item?id=50476012\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T23:49:30.606Z",
+    "published": "Thu, 12 Nov 2026 23:39:17 +0000"
+  },
+  {
+    "url": "https://github.com/clumsy-ug/agentview-chat",
+    "title": "Show HN: Agentview Chat – a chat UI for Claude Code background sessions",
+    "description": "Article URL: https://github.com/clumsy-ug/agentview-chat\nComments URL: https://news.ycombinator.com/item?id=50475982\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T23:49:30.606Z",
+    "published": "Thu, 12 Nov 2026 23:36:09 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
+    "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning",
+    "description": "Article URL: https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/\nComments URL: https://news.ycombinator.com/item?id=50475980\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T23:49:30.606Z",
+    "published": "Thu, 12 Nov 2026 23:36:00 +0000"
+  },
+  {
+    "url": "https://www.forbes.com/sites/marcochiappetta/2026/11/12/axelera-ai-thinks-theres-a-better-way-to-scale-ai-inference/",
+    "title": "Axelera AI Thinks Titania Is a Better Way to Scale AI Inference",
+    "description": "Article URL: https://www.forbes.com/sites/marcochiappetta/2026/11/12/axelera-ai-thinks-theres-a-better-way-to-scale-ai-inference/\nComments URL: https://news.ycombinator.com/item?id=50475931\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T23:49:30.606Z",
+    "published": "Thu, 12 Nov 2026 23:31:10 +0000"
+  },
+  {
+    "url": "https://birdyfoot.com/research/ai-tool-vulnerabilities",
+    "title": "Security flaws in popular AI tools have nearly tripled",
+    "description": "Article URL: https://birdyfoot.com/research/ai-tool-vulnerabilities\nComments URL: https://news.ycombinator.com/item?id=50475926\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T23:49:30.606Z",
+    "published": "Thu, 12 Nov 2026 23:30:18 +0000"
+  },
+  {
+    "url": "https://undark.org/2026/10/30/avatar-deepfake-therapy/",
+    "title": "AI and Virtual Reality Enter the Therapist's Office",
+    "description": "Article URL: https://undark.org/2026/10/30/avatar-deepfake-therapy/\nComments URL: https://news.ycombinator.com/item?id=50475924\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T23:49:30.606Z",
+    "published": "Thu, 12 Nov 2026 23:29:53 +0000"
+  },
+  {
+    "url": "https://www.psypost.org/ai-written-peer-reviews-outscored-top-human-experts-in-blind-comparisons-harvard-working-paper-finds/",
+    "title": "AI-written peer reviews outscored top human experts",
+    "description": "Article URL: https://www.psypost.org/ai-written-peer-reviews-outscored-top-human-experts-in-blind-comparisons-harvard-working-paper-finds/\nComments URL: https://news.ycombinator.com/item?id=50475906\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T23:49:30.606Z",
+    "published": "Thu, 12 Nov 2026 23:28:21 +0000"
+  },
+  {
+    "url": "https://thezvi.substack.com/p/ai-194-spy-versus-guy",
+    "title": "AI #194: Spy versus Guy",
+    "description": "Article URL: https://thezvi.substack.com/p/ai-194-spy-versus-guy\nComments URL: https://news.ycombinator.com/item?id=50475837\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T23:49:30.606Z",
+    "published": "Thu, 12 Nov 2026 23:20:20 +0000"
+  },
+  {
+    "url": "https://www.astralcodexten.com/p/ai-company-employees-should-unionize",
+    "title": "AI Company Employees Should Unionize",
+    "description": "Article URL: https://www.astralcodexten.com/p/ai-company-employees-should-unionize\nComments URL: https://news.ycombinator.com/item?id=50475826\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T23:49:30.606Z",
+    "published": "Thu, 12 Nov 2026 23:19:32 +0000"
+  },
+  {
+    "url": "https://mirendil.com/news/series-a/",
+    "title": "Mirendil raises $1B Series A led by Kleiner Perkins to democratize AI R&D",
+    "description": "Article URL: https://mirendil.com/news/series-a/\nComments URL: https://news.ycombinator.com/item?id=50475752\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T23:49:30.606Z",
+    "published": "Thu, 12 Nov 2026 23:10:40 +0000"
+  },
+  {
+    "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
+    "title": "Why You Should Expect an AI Crash",
+    "description": "Article URL: https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash\nComments URL: https://news.ycombinator.com/item?id=50475735\nPoints: 45\n# Comments: 27",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T23:49:30.606Z",
+    "published": "Thu, 12 Nov 2026 23:08:31 +0000"
+  },
+  {
+    "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+    "description": "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer\nComments URL: https://news.ycombinator.com/item?id=50475713\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T23:49:30.606Z",
+    "published": "Thu, 12 Nov 2026 23:06:17 +0000"
+  },
+  {
+    "url": "https://skavish.github.io/bugsy-map/",
+    "title": "Show HN: Bugsy – AI automation which runs my company",
+    "description": "It started as a simple sentry ai triager and grew into a system which powers a lot of day-to-day operations in our company (~20 people).\nWe use it for reporting and fixing bugs, code review, metrics, answer all kinds of questions and it is available from slack and our forum and channels. \nIt is now",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T23:49:30.606Z",
+    "published": "Thu, 12 Nov 2026 22:47:41 +0000"
+  },
+  {
+    "url": "https://time.com/article/2026/11/12/how-ai-can-help-you-appeal-health-insurance-denials/",
+    "title": "AI Can Help You Appeal Health Insurance Denials",
+    "description": "Article URL: https://time.com/article/2026/11/12/how-ai-can-help-you-appeal-health-insurance-denials/\nComments URL: https://news.ycombinator.com/item?id=50475482\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T23:49:30.606Z",
+    "published": "Thu, 12 Nov 2026 22:45:01 +0000"
+  },
+  {
+    "url": "https://www.aptiv.com/en/insights/article/q-a-from-modular-software-to-end-to-end-ai",
+    "title": "What end-to-end AI systems mean for the future of automated driving",
+    "description": "Article URL: https://www.aptiv.com/en/insights/article/q-a-from-modular-software-to-end-to-end-ai\nComments URL: https://news.ycombinator.com/item?id=50475128\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T23:49:30.606Z",
+    "published": "Thu, 12 Nov 2026 22:16:25 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50475057",
+    "title": "Inception.ai winding down their Mercury API service",
+    "description": "I got the following email from Inception.ai today:Update - ACTION NEEDED by December 28\n­\n­Hi ,We want to share an important update regarding the Mercury API. After careful consideration, we’ve made the decision to wind down the service. The Mercury API will remain fully available through December",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T23:49:30.606Z",
+    "published": "Thu, 12 Nov 2026 22:10:51 +0000"
+  },
+  {
+    "url": "https://unemploymentlabs.com/checkpoint-forensics",
+    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+    "description": "Article URL: https://unemploymentlabs.com/checkpoint-forensics\nComments URL: https://news.ycombinator.com/item?id=50474883\nPoints: 93\n# Comments: 22",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T23:49:30.606Z",
+    "published": "Thu, 12 Nov 2026 21:56:11 +0000"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-faced-pressure-to-boost-its-ai-backstop-before-huang-exit",
+    "title": "Nvidia Faced Pressure to Boost Its AI Backstop Before Huang Exit",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-11-12/nvidia-faced-pressure-to-boost-its-ai-backstop-before-huang-exit\nComments URL: https://news.ycombinator.com/item?id=50474852\nPoints: 6\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T23:49:30.606Z",
+    "published": "Thu, 12 Nov 2026 21:53:21 +0000"
+  },
+  {
+    "url": "https://twitter.com/willdepue/status/2120992457630326841",
+    "title": "Top Chinese AI labs built their newest models on Nvidia's Blackwell chips",
+    "description": "Article URL: https://twitter.com/willdepue/status/2120992457630326841\nComments URL: https://news.ycombinator.com/item?id=50474813\nPoints: 10\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T23:49:30.606Z",
+    "published": "Thu, 12 Nov 2026 21:49:52 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/",
+    "title": "Claude Meetings lets Anthropic's AI join your video calls",
+    "description": "Anthropic is adding Claude directly to video calls. Claude Meetings joins Google Meet sessions and creates documents, whiteboards, and meeting notes in real time. The feature launches in beta for Team and Enterprise plans, with more platforms coming later.\nThe article Claude Meetings lets A",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-12T23:49:38.031Z",
+    "published": "Thu, 12 Nov 2026 20:26:50 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/",
+    "title": "Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch",
+    "description": "Google's Gemini 4 Hydrogen replaces the Flash series, but benchmarks suggest it also makes the pricier Argon obsolete. On the independent Artificial Analysis Intelligence Index, Hydrogen nearly matches Claude Sonnet 5.5 for less money but costs about 2.5 times more per task than GPT-6.1 Sol",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-12T23:49:38.031Z",
+    "published": "Thu, 12 Nov 2026 19:58:43 +0000"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+    "title": "Build once, run on any agent: A practical guide to agent skills",
+    "description": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them.\nThe post Build once, run on any agent: A practical guide to agent skills appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-11-12T23:49:42.447Z",
+    "published": "Thu, 12 Nov 2026 22:54:52 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
+    "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
+    "description": "In a special episode of “Uncanny Valley,” we break down Jensen Huang’s resignation from Nvidia, what comes next for the company, and where the AI industry goes from here.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-12T23:49:43.781Z",
+    "published": "Thu, 12 Nov 2026 22:14:41 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
+    "title": "Jensen Huang’s $470 Billion Affair",
+    "description": "This week on “Uncanny Valley,” the team unpacks the Nvidia CEO’s affair with an alleged Chinese spy and what that means for the AI industry.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-12T23:49:43.781Z",
+    "published": "Thu, 12 Nov 2026 18:59:58 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/",
+    "title": "Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec",
+    "description": "Liquid AI released LiquidCodec, a ~74M-parameter streaming audio codec that powers LFM3-Audio-2B and LFM3-Omni-2B. It runs at 12.5 Hz with 12 codebooks and encodes about 361x faster than real time on a single CPU thread.\nThe post Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-12T23:49:46.109Z",
+    "published": "Thu, 12 Nov 2026 22:43:26 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/",
+    "title": "CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance",
+    "description": "CopilotKit released OpenBot 1.0, an MIT-licensed, self-hostable AI coworker workspace. Companies bring their own agents, models and infrastructure, while every Bot action passes a policy check and lands in an audit trail.\nThe post CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Co",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-12T23:49:46.109Z",
+    "published": "Thu, 12 Nov 2026 21:45:36 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2315525/metas-muse-can-now-make-calls-on-your-behalf-if-you-have-a-paid-subscription/",
+    "title": "Meta's Muse can now make calls on your behalf (if you have a paid subscription)",
+    "description": "The AI agent can schedule appointments, make reservations and wait on hold for you.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-12T23:49:50.579Z",
+    "published": "Thu, 12 Nov 2026 23:32:00 +0000"
   }
 ]
