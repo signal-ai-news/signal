@@ -106040,5 +106040,231 @@
     "category": "news",
     "discovered": "2026-11-11T21:12:15.521Z",
     "published": "Wed, 11 Nov 2026 14:29:03 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "description": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-12T02:25:57.226Z",
+    "published": "Wed, 11 Nov 2026 23:50:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-12T02:28:30.824Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+    "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+    "description": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-12T02:25:57.226Z",
+    "published": "Wed, 11 Nov 2026 23:17:05 +0000",
+    "processed": true,
+    "processedAt": "2026-11-12T02:28:30.825Z"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/voice-cloning-for-content-creators",
+    "title": "Voice cloning for content creators: Scale your content workflows with voice AI",
+    "description": "Learn how voice cloning for content creators helps improve existing workflows across podcasts, YouTube, digital classes, and more with ElevenCreative",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-12T02:26:00.776Z",
+    "published": "Wed, 11 Nov 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-12T02:28:30.825Z"
+  },
+  {
+    "url": "https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38",
+    "title": "United Airlines Is Banning AI Bots from Booking Flights",
+    "description": "Article URL: https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38\nComments URL: https://news.ycombinator.com/item?id=50462187\nPoints: 2\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T02:26:06.864Z",
+    "published": "Thu, 12 Nov 2026 02:11:54 +0000",
+    "processed": true,
+    "processedAt": "2026-11-12T02:28:30.825Z"
+  },
+  {
+    "url": "https://pilotmap.bizmasterynow.com/",
+    "title": "Can commercial stage-gates keep enterprise AI pilots out of procurement stalls?",
+    "description": "Article URL: https://pilotmap.bizmasterynow.com/\nComments URL: https://news.ycombinator.com/item?id=50462153\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T02:26:06.864Z",
+    "published": "Thu, 12 Nov 2026 02:08:10 +0000",
+    "processed": true,
+    "processedAt": "2026-11-12T02:28:30.825Z"
+  },
+  {
+    "url": "https://github.com/gethome-inc/gethome-hub",
+    "title": "Show HN: gethome – a local-first smart home hub with AI",
+    "description": "Article URL: https://github.com/gethome-inc/gethome-hub\nComments URL: https://news.ycombinator.com/item?id=50462079\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T02:26:06.864Z",
+    "published": "Thu, 12 Nov 2026 02:00:51 +0000"
+  },
+  {
+    "url": "https://github.com/ShadowKingYT444/motion-debugger",
+    "title": "Show HN: Motion Debugger – A browser critic for AI slop",
+    "description": "Built a tool to unslop UI and add cool motion.It's an open-source workflow for coding agents, using Chromium to inspect the rendered site, catch broken animations, overlapping elements, layout issues, and other visual problems, then gives the agent feedback to fix them.a/b tests are in the repo.\n\nC",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T02:26:06.864Z",
+    "published": "Thu, 12 Nov 2026 01:53:52 +0000"
+  },
+  {
+    "url": "https://medium.com/@rkzlyldrm/he-let-an-ai-read-too-many-court-auction-listings-now-he-is-in-a-turkish-jail-a26bd486a43a",
+    "title": "He let an AI read too many court auction listings. Now he is in a Turkish jail",
+    "description": "Article URL: https://medium.com/@rkzlyldrm/he-let-an-ai-read-too-many-court-auction-listings-now-he-is-in-a-turkish-jail-a26bd486a43a\nComments URL: https://news.ycombinator.com/item?id=50461979\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T02:26:06.864Z",
+    "published": "Thu, 12 Nov 2026 01:48:59 +0000"
+  },
+  {
+    "url": "https://github.com/yakkomajuri/lynx",
+    "title": "Show HN: Lynx – open-source fully-customizable AI workspace",
+    "description": "I was finding that managing multiple agent threads with walls of text was getting tiring and inefficient for me and that I wanted a more visual way to interact with my agents, so I built Lynx.Lynx lets you quickly build fully custom interfaces connected to your data sources (e.g. via MCP or API) an",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T02:26:06.864Z",
+    "published": "Thu, 12 Nov 2026 01:26:11 +0000"
+  },
+  {
+    "url": "https://openuncensored.com/blog/use-uncensored-models-in-cursor-cline-codex",
+    "title": "Use Uncensored Models on OpenCode, Codex, and Claude Code",
+    "description": "Article URL: https://openuncensored.com/blog/use-uncensored-models-in-cursor-cline-codex\nComments URL: https://news.ycombinator.com/item?id=50461576\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T02:26:06.864Z",
+    "published": "Thu, 12 Nov 2026 01:05:38 +0000"
+  },
+  {
+    "url": "https://medium.com/@joshbocanegra/how-to-engineer-goosebumps-e18935bcb1d2",
+    "title": "What gives you the chills? AI can engineer it",
+    "description": "Article URL: https://medium.com/@joshbocanegra/how-to-engineer-goosebumps-e18935bcb1d2\nComments URL: https://news.ycombinator.com/item?id=50460989\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T02:26:06.864Z",
+    "published": "Thu, 12 Nov 2026 00:13:26 +0000"
+  },
+  {
+    "url": "https://rutgerbregman.substack.com/p/yes-you-should-panic-about-ai",
+    "title": "Yes, you should panic about AI",
+    "description": "Article URL: https://rutgerbregman.substack.com/p/yes-you-should-panic-about-ai\nComments URL: https://news.ycombinator.com/item?id=50460968\nPoints: 4\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T02:26:06.864Z",
+    "published": "Thu, 12 Nov 2026 00:11:49 +0000"
+  },
+  {
+    "url": "https://github.com/rmpmrepo1278/swapback",
+    "title": "Keeping names, emails and phone numbers out of LLM prompts with a local proxy",
+    "description": "Article URL: https://github.com/rmpmrepo1278/swapback\nComments URL: https://news.ycombinator.com/item?id=50460951\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T02:26:06.864Z",
+    "published": "Thu, 12 Nov 2026 00:09:39 +0000"
+  },
+  {
+    "url": "https://acneally.vercel.app",
+    "title": "Show HN: I built a AI acne coach that helps find root cause of your acne",
+    "description": "I’ve had acne for 10 years and I'm so exhausted of dont know what happened. \nSo, I'm building AcneAlly to learn you overtime to figure out what's causing your acne, and to give personalized support. \nInstead of  tracking your skin or logging daily habits, you can just talk or interact with it like",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T02:26:06.864Z",
+    "published": "Wed, 11 Nov 2026 23:49:11 +0000"
+  },
+  {
+    "url": "https://github.com/eax/w-isa",
+    "title": "Show HN: W-ISA – An instruction set for programming LLM weights",
+    "description": "Article URL: https://github.com/eax/w-isa\nComments URL: https://news.ycombinator.com/item?id=50460697\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T02:26:06.864Z",
+    "published": "Wed, 11 Nov 2026 23:47:21 +0000"
+  },
+  {
+    "url": "https://cyberdefensereview.army.mil/Portals/6/Documents/2026-vol11-iss3/CDR_V11_N3_Full_Issue.pdf",
+    "title": "Agentic AI for Military Cyberoperations (West Point Press) [pdf]",
+    "description": "Article URL: https://cyberdefensereview.army.mil/Portals/6/Documents/2026-vol11-iss3/CDR_V11_N3_Full_Issue.pdf\nComments URL: https://news.ycombinator.com/item?id=50460559\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T02:26:06.864Z",
+    "published": "Wed, 11 Nov 2026 23:36:07 +0000"
+  },
+  {
+    "url": "https://www.fivetran.com/blog/composing-data-pipelines-in-an-ai-native-workflow",
+    "title": "Composing data pipelines in an AI-native workflow",
+    "description": "Article URL: https://www.fivetran.com/blog/composing-data-pipelines-in-an-ai-native-workflow\nComments URL: https://news.ycombinator.com/item?id=50460483\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T02:26:06.864Z",
+    "published": "Wed, 11 Nov 2026 23:29:56 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=C33hJGt-ySg",
+    "title": "Fable 5.2 or Opus? When to use each model in Claude Code [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=C33hJGt-ySg\nComments URL: https://news.ycombinator.com/item?id=50460481\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T02:26:06.864Z",
+    "published": "Wed, 11 Nov 2026 23:29:28 +0000"
+  },
+  {
+    "url": "https://github.com/adeptads/agent-skills",
+    "title": "Show HN: Agent skill and Claude/Codex plugins for Google Ads campaigns",
+    "description": "Article URL: https://github.com/adeptads/agent-skills\nComments URL: https://news.ycombinator.com/item?id=50460287\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T02:26:06.864Z",
+    "published": "Wed, 11 Nov 2026 23:11:38 +0000"
+  },
+  {
+    "url": "https://github.com/trthomps/claude-usage-widget",
+    "title": "Claude usage in your menu bar",
+    "description": "Article URL: https://github.com/trthomps/claude-usage-widget\nComments URL: https://news.ycombinator.com/item?id=50460269\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T02:26:06.864Z",
+    "published": "Wed, 11 Nov 2026 23:09:51 +0000"
+  },
+  {
+    "url": "https://www.spritefusion.com/blog/making-a-game-boy-advance-game-with-gpt-6-astra",
+    "title": "Making a Game Boy Advance Game with GPT-6 Astra",
+    "description": "Article URL: https://www.spritefusion.com/blog/making-a-game-boy-advance-game-with-gpt-6-astra\nComments URL: https://news.ycombinator.com/item?id=50460209\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T02:26:06.864Z",
+    "published": "Wed, 11 Nov 2026 23:05:24 +0000"
+  },
+  {
+    "url": "https://franklyspeaking.substack.com/p/who-actually-gets-cheaper-security",
+    "title": "Who gets cheaper security from AI?",
+    "description": "Article URL: https://franklyspeaking.substack.com/p/who-actually-gets-cheaper-security\nComments URL: https://news.ycombinator.com/item?id=50459974\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T02:26:06.864Z",
+    "published": "Wed, 11 Nov 2026 22:49:50 +0000"
+  },
+  {
+    "url": "https://railyard.run/blog/debug-failed-deploy-with-claude/",
+    "title": "Debug a failed deploy with Claude: from red build to fixed release",
+    "description": "Article URL: https://railyard.run/blog/debug-failed-deploy-with-claude/\nComments URL: https://news.ycombinator.com/item?id=50459640\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T02:26:06.864Z",
+    "published": "Wed, 11 Nov 2026 22:26:51 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/11/google-gemini-decisions-api-gemini-decision-1/",
+    "title": "Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens",
+    "description": "Google launched the Gemini Decisions API, powered by Gemini Decision 1. It returns calibrated probabilities for up to 1,000 yes/no, choice and rubric questions over text, images, audio, video and PDFs, at $0.10 per 1M input tokens.\nThe post Google Launches Gemini Decisions API With Gemini Decision 1",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-12T02:26:21.196Z",
+    "published": "Wed, 11 Nov 2026 21:21:42 +0000"
   }
 ]
