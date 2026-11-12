@@ -106266,5 +106266,222 @@
     "category": "ml",
     "discovered": "2026-11-12T02:26:21.196Z",
     "published": "Wed, 11 Nov 2026 21:21:42 +0000"
+  },
+  {
+    "url": "https://lira-ia.github.io/",
+    "title": "I gave an AI a week to make something interesting or I switch it off",
+    "description": "Article URL: https://lira-ia.github.io/\nComments URL: https://news.ycombinator.com/item?id=50465058\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T10:09:12.844Z",
+    "published": "Thu, 12 Nov 2026 09:42:55 +0000",
+    "processed": true,
+    "processedAt": "2026-11-12T10:11:37.478Z"
+  },
+  {
+    "url": "https://www.deepl.com/en/press-release/aure-voice-ai-model",
+    "title": "DeepL unveils Aure, its most lifelike Voice AI translation model yet",
+    "description": "Article URL: https://www.deepl.com/en/press-release/aure-voice-ai-model\nComments URL: https://news.ycombinator.com/item?id=50465036\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T10:09:12.844Z",
+    "published": "Thu, 12 Nov 2026 09:39:36 +0000",
+    "processed": true,
+    "processedAt": "2026-11-12T10:11:37.478Z"
+  },
+  {
+    "url": "https://chohaninsight.com/blog/ai-customer-driven-development/",
+    "title": "AI Customer Driven Development",
+    "description": "Article URL: https://chohaninsight.com/blog/ai-customer-driven-development/\nComments URL: https://news.ycombinator.com/item?id=50465004\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T10:09:12.844Z",
+    "published": "Thu, 12 Nov 2026 09:33:45 +0000",
+    "processed": true,
+    "processedAt": "2026-11-12T10:11:37.478Z"
+  },
+  {
+    "url": "https://www.theregister.com/devops/2026/11/11/google-gooses-python-ai-performance-by-removing-python/5308995",
+    "title": "Google gooses Python AI performance by... removing Python",
+    "description": "Article URL: https://www.theregister.com/devops/2026/11/11/google-gooses-python-ai-performance-by-removing-python/5308995\nComments URL: https://news.ycombinator.com/item?id=50464918\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T10:09:12.844Z",
+    "published": "Thu, 12 Nov 2026 09:23:49 +0000",
+    "processed": true,
+    "processedAt": "2026-11-12T10:11:37.478Z"
+  },
+  {
+    "url": "https://github.com/ffseika0304/shanhai-gateway",
+    "title": "Show HN: ShanHaiGateway – multi-upstream LLM gateway in Go",
+    "description": "Article URL: https://github.com/ffseika0304/shanhai-gateway\nComments URL: https://news.ycombinator.com/item?id=50464830\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T10:09:12.844Z",
+    "published": "Thu, 12 Nov 2026 09:13:38 +0000",
+    "processed": true,
+    "processedAt": "2026-11-12T10:11:37.478Z"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+    "title": "LLM-Anthropic 0.31",
+    "description": "Article URL: https://simonwillison.net/2026/Nov/9/llm-anthropic/\nComments URL: https://news.ycombinator.com/item?id=50464645\nPoints: 6\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T10:09:12.844Z",
+    "published": "Thu, 12 Nov 2026 08:48:58 +0000"
+  },
+  {
+    "url": "https://github.com/ramonmazinga/claude-code-multi-account-bridge",
+    "title": "Show HN: Keep all your Claude desktop Code sessions when you swap accounts",
+    "description": "Article URL: https://github.com/ramonmazinga/claude-code-multi-account-bridge\nComments URL: https://news.ycombinator.com/item?id=50464584\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T10:09:12.844Z",
+    "published": "Thu, 12 Nov 2026 08:41:12 +0000"
+  },
+  {
+    "url": "https://meta-hackathon.com/",
+    "title": "Show HN: MetaArena – Compare & Rank 5,353 Meta Global AI Hackathon Projects",
+    "description": "Hey HN! Recently Meta wrapped up their Global Developer Hackathon (https://dev.meta.ai/events/global-hackathon) which had a $1M prize pool (!!): 34K developers applied, 20K accepted, and over 5K projects were submitted.With this crazy volume, it was infeasible to rank or even shortlist the best pro",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T10:09:12.844Z",
+    "published": "Thu, 12 Nov 2026 08:36:48 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50464548",
+    "title": "Tell HN: Gemini Hydrogen Reachable via Vertex",
+    "description": "Currently on the eu and global endpoint gemini-4-hydrogen is available.\n\nComments URL: https://news.ycombinator.com/item?id=50464548\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T10:09:12.844Z",
+    "published": "Thu, 12 Nov 2026 08:34:43 +0000"
+  },
+  {
+    "url": "https://www.ft.com/content/599932b7-a548-4d45-8ba4-70bdb8d14565",
+    "title": "Banks turn to credit insurance as they hit limits on lending to AI boom",
+    "description": "Article URL: https://www.ft.com/content/599932b7-a548-4d45-8ba4-70bdb8d14565\nComments URL: https://news.ycombinator.com/item?id=50464464\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T10:09:12.844Z",
+    "published": "Thu, 12 Nov 2026 08:21:48 +0000"
+  },
+  {
+    "url": "https://pirateface.co/articles/every-ai-model-should-be-a-torrent",
+    "title": "Why Every AI Model Will Ship as a Torrent",
+    "description": "Article URL: https://pirateface.co/articles/every-ai-model-should-be-a-torrent\nComments URL: https://news.ycombinator.com/item?id=50464055\nPoints: 24\n# Comments: 5",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T10:09:12.844Z",
+    "published": "Thu, 12 Nov 2026 07:20:22 +0000"
+  },
+  {
+    "url": "https://www.daybranch.com/",
+    "title": "AI is getting smarter. Are we thinking better?",
+    "description": "Article URL: https://www.daybranch.com/\nComments URL: https://news.ycombinator.com/item?id=50463728\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T10:09:12.844Z",
+    "published": "Thu, 12 Nov 2026 06:25:46 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50463705",
+    "title": "What benefit does a San Francisco HQ offer if you are not a frontier AI lab?",
+    "description": "I am struggling to see the benefit of basing your startup in SF if you are not a frontier AI lab? It seems to me that the talent quality outside of these frontier labs and associated companies (companies founded by alumni) may fundamentally be no better than anywhere else in the world, but demand t",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T10:09:12.844Z",
+    "published": "Thu, 12 Nov 2026 06:21:23 +0000"
+  },
+  {
+    "url": "https://www.clevelandfed.org/publications/economic-commentary/2026/ec-202626-job-finding-and-unemployment-in-the-age-of-ai",
+    "title": "Job Finding and Unemployment in the Age of AI",
+    "description": "Article URL: https://www.clevelandfed.org/publications/economic-commentary/2026/ec-202626-job-finding-and-unemployment-in-the-age-of-ai\nComments URL: https://news.ycombinator.com/item?id=50463673\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T10:09:12.844Z",
+    "published": "Thu, 12 Nov 2026 06:15:20 +0000"
+  },
+  {
+    "url": "https://www.harness.io/blog/why-ai-coding-agents-lose-context-after-pr",
+    "title": "Why AI Coding Agents Lose Context After the PR, and How to Keep It",
+    "description": "Article URL: https://www.harness.io/blog/why-ai-coding-agents-lose-context-after-pr\nComments URL: https://news.ycombinator.com/item?id=50463445\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T10:09:12.844Z",
+    "published": "Thu, 12 Nov 2026 05:35:21 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+    "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=WPj3aQ-xxpI\nComments URL: https://news.ycombinator.com/item?id=50463399\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T10:09:12.844Z",
+    "published": "Thu, 12 Nov 2026 05:29:24 +0000"
+  },
+  {
+    "url": "https://finshots.in/archive/what-happens-to-ai-industry-if-nvidia-falters/",
+    "title": "What happens to the AI industry if Nvidia falters",
+    "description": "Article URL: https://finshots.in/archive/what-happens-to-ai-industry-if-nvidia-falters/\nComments URL: https://news.ycombinator.com/item?id=50463372\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T10:09:12.844Z",
+    "published": "Thu, 12 Nov 2026 05:25:17 +0000"
+  },
+  {
+    "url": "https://novabuddyai.com",
+    "title": "Show HN: Nova Buddy AI – a friendly AI assistant for everyday people",
+    "description": "Article URL: https://novabuddyai.com\nComments URL: https://news.ycombinator.com/item?id=50463049\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T10:09:12.844Z",
+    "published": "Thu, 12 Nov 2026 04:22:30 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.01226",
+    "title": "Learning about Markets from Models: Evidence from an AI Hiring Platform",
+    "description": "Article URL: https://arxiv.org/abs/2611.01226\nComments URL: https://news.ycombinator.com/item?id=50463038\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-12T10:09:12.844Z",
+    "published": "Thu, 12 Nov 2026 04:20:33 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/chariot-launches-multilingual-tts-model-with-support-for-11-indian-languages",
+    "title": "Chariot Launches Multilingual TTS Model with Support for 11 Indian Languages",
+    "description": "Chariot-1-TTS-Multilingual supports code-mixing, instant voice cloning and contextual speech generation, as the IndiaAI Mission-backed startup develops speech m",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-12T10:09:29.916Z",
+    "published": "Thu, 12 Nov 2026 09:37:13 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/lenovo-unveils-new-ai-hpc-servers-with-amds-6th-gen-epyc-processors",
+    "title": "Lenovo Unveils New AI, HPC Servers With AMD’s 6th Gen EPYC Processors",
+    "description": "The new infrastructure is designed to help organisations deploy and scale AI and HPC workloads across on-premises data centres and hybrid environments.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-12T10:09:29.916Z",
+    "published": "Thu, 12 Nov 2026 08:32:44 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/only-35-indian-enterprises-are-prepared-for-ai-cyberattacks-kyndryl-study",
+    "title": "Only 35% Indian Enterprises are Prepared for AI Cyberattacks: Kyndryl Study",
+    "description": "While 60% of Indian organisations report positive returns on AI investments, declining security readiness and infrastructure gaps are creating challenges to sca",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-12T10:09:29.916Z",
+    "published": "Thu, 12 Nov 2026 08:29:37 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/openai-launches-api-inference-residency-in-india",
+    "title": "OpenAI Launches API Inference Residency in India",
+    "description": "The move could help financial services firms and other regulated businesses meet data localisation requirements while deploying OpenAI applications.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-12T10:09:29.916Z",
+    "published": "Thu, 12 Nov 2026 08:02:14 GMT"
   }
 ]
