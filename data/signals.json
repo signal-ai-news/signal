@@ -106483,5 +106483,366 @@
     "category": "ml",
     "discovered": "2026-11-12T10:09:29.916Z",
     "published": "Thu, 12 Nov 2026 08:02:14 GMT"
+  },
+  {
+    "url": "https://openai.com/index/children-first-declaration",
+    "title": "Supporting research on AI and children’s safety",
+    "description": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-12T18:31:53.385Z",
+    "published": "Thu, 12 Nov 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-12T18:34:30.202Z"
+  },
+  {
+    "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+    "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+    "description": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-11-12T18:31:55.043Z",
+    "published": "Thu, 12 Nov 2026 18:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-12T18:34:30.202Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/3d-lora-finetuning",
+    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-11-12T18:31:55.753Z",
+    "published": "Thu, 12 Nov 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-12T18:34:30.202Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+    "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
+    "description": "Hugging Face's CEO pledged to keep fighting for open-source AI after Huang's exit, raising questions about Nvidia's $12.9B acquisition.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-12T18:31:56.873Z",
+    "published": "Thu, 12 Nov 2026 17:36:40 +0000",
+    "processed": true,
+    "processedAt": "2026-11-12T18:34:30.202Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+    "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+    "description": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-12T18:31:56.873Z",
+    "published": "Thu, 12 Nov 2026 17:17:58 +0000",
+    "processed": true,
+    "processedAt": "2026-11-12T18:34:30.202Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+    "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+    "description": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-12T18:31:56.873Z",
+    "published": "Thu, 12 Nov 2026 17:00:52 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+    "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+    "description": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-12T18:31:56.873Z",
+    "published": "Thu, 12 Nov 2026 17:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+    "title": "Jensen Huang agrees to testify before Congress",
+    "description": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-12T18:31:56.873Z",
+    "published": "Thu, 12 Nov 2026 16:36:37 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+    "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+    "description": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-12T18:31:56.873Z",
+    "published": "Thu, 12 Nov 2026 16:32:33 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+    "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+    "description": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-12T18:31:56.873Z",
+    "published": "Thu, 12 Nov 2026 16:12:44 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+    "title": "Norwest pushes deeper into AI with new $4B fund",
+    "description": "This is the investment firm's largest fund to date.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-12T18:31:56.873Z",
+    "published": "Thu, 12 Nov 2026 15:18:14 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+    "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+    "description": "This is Fireworks' second data breach in as many months.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-12T18:31:56.873Z",
+    "published": "Thu, 12 Nov 2026 15:02:28 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-12T18:31:56.873Z",
+    "published": "Thu, 12 Nov 2026 14:30:01 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+    "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+    "description": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-12T18:31:56.873Z",
+    "published": "Thu, 12 Nov 2026 13:26:25 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
+    "title": "The Download: COP31’s climate challenge and the quest for immortality",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the an",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-12T18:31:58.043Z",
+    "published": "Thu, 12 Nov 2026 13:10:00 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/impact-nyc-summit",
+    "title": "ElevenLabs brings free voice restoration to veterans, songwriters, and more patients",
+    "description": "ElevenLabs launches free ElevenMusic for artists with voice loss, partners with Wounded Warrior Project, and adds NYU Langone to 1 Million Voices.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-12T18:32:00.057Z",
+    "published": "Thu, 12 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+    "title": "Introducing Gemini 4 Hydrogen",
+    "description": "",
+    "source": "DeepMind Blog",
+    "category": "llm",
+    "discovered": "2026-11-12T18:32:04.241Z",
+    "published": "Thu, 12 Nov 2026 18:00:50 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/rag-retrieval-lost-40-points-when-distracting-passages-grew-to-268m/",
+    "title": "RAG Retrieval Lost 40 Points When Distracting Passages Grew to 2.68M",
+    "description": "A reproducible test of BM25, embeddings, and parent documents shows why author-written evals overrate search, and why answer position in context matters.\nThe post RAG Retrieval Lost 40 Points When Distracting Passages Grew to 2.68M appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-12T18:32:08.091Z",
+    "published": "Thu, 12 Nov 2026 16:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/a-soft-label-mnist-testbed-for-human-vs-model-confidence/",
+    "title": "A Soft-Label MNIST Testbed for Human vs. Model Confidence",
+    "description": "Annotators marked each MNIST and Mukhoti digit yes, no, or unsure, producing image-level soft labels and uncertainty scores.\nThe post A Soft-Label MNIST Testbed for Human vs. Model Confidence appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-12T18:32:08.091Z",
+    "published": "Thu, 12 Nov 2026 13:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-read-cross-pair-correlation-in-r-without-fake-repulsion-part-3/",
+    "title": "How to Read Cross Pair Correlation in R Without Fake Repulsion (Part 3)",
+    "description": "A simulated scar and data from 31 animals after ischemia show how an inhomogeneous estimator, random labelling, and brms separate tissue loss from real interaction.\nThe post How to Read Cross Pair Correlation in R Without Fake Repulsion (Part 3) appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-12T18:32:08.091Z",
+    "published": "Thu, 12 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute/",
+    "title": "OpenAI’s data suggests that frontier models are hiding their thoughts because developers optimize for capability and compute",
+    "description": "OpenAI's safety team systematically investigated why the chains of thought in frontier models like GPT-6 Astra are increasingly evading oversight. Four training steps drive the erosion, including architecture choices and reinforcement learning. The analysis shows that the loss of transparen",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-12T18:32:10.034Z",
+    "published": "Thu, 12 Nov 2026 16:58:11 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/jensen-huang-resigns-as-nvidia-ceo-after-espionage-scandal-wipes-out-1-4-trillion-in-market-value/",
+    "title": "Jensen Huang resigns as Nvidia CEO after espionage scandal wipes out $1.4 trillion in market value",
+    "description": "Jensen Huang resigned as CEO, president, and board member of Nvidia effective immediately, according to a statement on November 12, 2026.\nThe article Jensen Huang resigns as Nvidia CEO after espionage scandal wipes out $1.4 trillion in market value appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-12T18:32:10.034Z",
+    "published": "Thu, 12 Nov 2026 14:11:40 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/",
+    "title": "ElevenLabs Scribe v3 Live uses conversational context to stop voice agents from cutting off callers mid-sentence",
+    "description": "ElevenLabs has released Scribe v3 and Scribe v3 Live, two new speech recognition models designed to transcribe accurately through background noise and crosstalk. Benchmarks from Artificial Analysis confirm that Scribe v3 narrowly beats competitors like OpenAI, Google, and Microsoft on accur",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-12T18:32:10.034Z",
+    "published": "Thu, 12 Nov 2026 13:48:19 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2/",
+    "title": "Google Deepmind shifts genomics AI from bulk tissue predictions to single cell type resolution with AlphaGenome 2",
+    "description": "Google Deepmind has unveiled AlphaGenome 2, an AI model that analyzes genetic variants for individual cell types rather than across bulk tissue. Trained on more than 107 million cell profiles, it identifies nearly twice as many disease-relevant gene changes as its predecessor. The model is",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-12T18:32:10.034Z",
+    "published": "Thu, 12 Nov 2026 12:09:43 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/australias-proposed-ai-safety-bill-would-force-frontier-model-makers-to-open-up-to-independent-testing/",
+    "title": "Australia's proposed AI safety bill would force frontier model makers to open up to independent testing",
+    "description": "Australia's government, led by Prime Minister Anthony Albanese, wants to enshrine mandatory safety rules for frontier AI companies in law for the first time. A new regulator would enforce independent model audits and impose steep penalties for violations. With this move, Canberra is deliber",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-12T18:32:10.034Z",
+    "published": "Thu, 12 Nov 2026 10:09:56 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
+    "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
+    "description": "Nvidia’s longtime chief financial officer helped transform the company into an AI powerhouse. Now she’s taking the reins following Jensen Huang’s resignation on Thursday.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-12T18:32:16.086Z",
+    "published": "Thu, 12 Nov 2026 14:14:33 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
+    "title": "Jensen Huang Resigns as Nvidia CEO",
+    "description": "Nvidia’s cofounder and chief executive resigned on Thursday after the company opened an investigation into his affair with an alleged Chinese intelligence asset.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-12T18:32:16.086Z",
+    "published": "Thu, 12 Nov 2026 13:58:06 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/",
+    "title": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
+    "description": "The Palantir CEO touted his “progressive” worldview in a recent interview. Let’s see how that lines up with his comments during the company’s earnings call two weeks ago.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-12T18:32:16.086Z",
+    "published": "Thu, 12 Nov 2026 10:30:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/",
+    "title": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
+    "description": "The union representing flight attendants for the defunct airline struck a deal with Google to scrub sensitive employee records from a $10 million data sale.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-12T18:32:16.086Z",
+    "published": "Thu, 12 Nov 2026 10:15:00 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/12/aws-emulator-local-aws-api-emulator-ai-agents/",
+    "title": "AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents",
+    "description": "AWS released AWS Emulator, a free, CC0-licensed local emulator of AWS APIs built from 438 API models. Autonomous agents wrote all of its code. It passes 56.6% of 42,857 published fidelity tests at launch.\nThe post AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents appear",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-12T18:32:18.942Z",
+    "published": "Thu, 12 Nov 2026 17:26:08 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-highlights/latentview-analytics-certified-as-best-firm-for-ai-engineers",
+    "title": "LatentView Analytics Certified as Best Firm for AI Engineers",
+    "description": "LatentView Analytics has been certified as a Best Firm for AI Engineers by Analytics India Magazine based on an independent employee survey. The recognition hig",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-12T18:32:21.411Z",
+    "published": "Thu, 12 Nov 2026 12:30:00 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/space-tech-startup-astrome-bags-64-cr-rdi-fund-for-ai-satellite-network",
+    "title": "Space Tech Startup Astrome Bags ₹64 Cr RDI Fund for AI Satellite Network",
+    "description": "The Bengaluru-based startup plans to deploy 50-kg microsatellites in low Earth orbit to detect and analyse electronic signals for national security applications",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-12T18:32:21.411Z",
+    "published": "Thu, 12 Nov 2026 12:23:04 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-highlights/latentview-analytics-certified-as-best-firm-for-data-engineers",
+    "title": "LatentView Analytics Certified as Best Firm for Data Engineers",
+    "description": "LatentView Analytics earns recognition as a top firm for data engineers, reflecting its strong workplace culture and focus on modern enterprise AI.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-12T18:32:21.411Z",
+    "published": "Thu, 12 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-highlights/exponentia-certified-as-best-firm-for-data-scientists",
+    "title": "Exponentia.ai Certified as Best Firm for Data Scientists",
+    "description": "Exponentia.ai has been certified as a \"Best Firm for Data Scientists\" by Analytics India Magazine (AIM), reflecting its commitment to fostering strong workplace",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-12T18:32:21.411Z",
+    "published": "Thu, 12 Nov 2026 11:45:00 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/ltm-integrates-ai-tool-to-fix-quantum-computing-errors-on-ibm",
+    "title": "LTM Integrates AI Tool to Fix Quantum Computing Errors on IBM",
+    "description": "LTM's AI-QEM technology uses classical post-processing to address device-specific errors, with tests involving quantum circuits of more than 100 qubits.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-12T18:32:21.411Z",
+    "published": "Thu, 12 Nov 2026 11:34:48 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-startups/meet-netweb-the-only-indian-company-building-nvidia-certified-gpu-servers",
+    "title": "Meet Netweb, the Only Indian Company Building NVIDIA-Certified GPU Servers",
+    "description": "Netweb is betting on AI infrastructure, with new initiatives spanning agent security, GPU optimisation, and sovereign computing.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-12T18:32:21.411Z",
+    "published": "Thu, 12 Nov 2026 10:31:54 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2315091/ex-nvidia-ceo-jensen-huang-is-set-to-testify-before-congress-this-month/",
+    "title": "Ex-NVIDIA CEO Jensen Huang is set to testify before Congress this month",
+    "description": "House Foreign Affairs Chair Brian Mast said a hearing with Jensen Huang will take place before Thanksgiving.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-12T18:32:23.649Z",
+    "published": "Thu, 12 Nov 2026 17:53:08 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2315072/zelenskyy-says-starshield-has-been-slowed-again-endangering-ukraine-defense/",
+    "title": "Zelenskyy says Starshield has been slowed again, endangering Ukraine's defense",
+    "description": "It comes three weeks after Ukraine's speeds were restored following the last throttling incident.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-12T18:32:23.649Z",
+    "published": "Thu, 12 Nov 2026 17:45:03 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2314410/apple-tv-4k-4th-gen-review/",
+    "title": "Apple TV 4K (4th gen) review: Still great, but drastically more expensive",
+    "description": "The Apple TV 4K remains the best premium streaming box you can buy, but the higher price makes it harder to recommend.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-12T18:32:23.649Z",
+    "published": "Thu, 12 Nov 2026 14:00:00 +0000"
   }
 ]
