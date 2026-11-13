@@ -107459,5 +107459,231 @@
     "category": "news",
     "discovered": "2026-11-13T14:50:55.024Z",
     "published": "Fri, 13 Nov 2026 08:12:48 +0000"
+  },
+  {
+    "url": "https://openai.com/index/introducing-chatgpt-wallet",
+    "title": "Introducing ChatGPT Wallet",
+    "description": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-13T21:20:37.615Z",
+    "published": "Fri, 13 Nov 2026 15:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-13T21:23:21.812Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+    "title": "AI agent startup LangChain hits $3B valuation",
+    "description": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-13T21:20:41.040Z",
+    "published": "Fri, 13 Nov 2026 19:37:57 +0000",
+    "processed": true,
+    "processedAt": "2026-11-13T21:23:21.812Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+    "description": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-13T21:20:41.040Z",
+    "published": "Fri, 13 Nov 2026 18:40:30 +0000",
+    "processed": true,
+    "processedAt": "2026-11-13T21:23:21.812Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+    "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+    "description": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-13T21:20:41.040Z",
+    "published": "Fri, 13 Nov 2026 16:00:12 +0000",
+    "processed": true,
+    "processedAt": "2026-11-13T21:23:21.812Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-13T21:20:41.040Z",
+    "published": "Fri, 13 Nov 2026 15:58:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-13T21:23:21.812Z"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+    "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+    "description": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-11-13T21:20:41.669Z",
+    "published": "Fri, 13 Nov 2026 16:26:32 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/impact-sofia-oxford-said",
+    "title": "Oxford spent years studying how women build companies. Now this research can speak.",
+    "description": "SOFIA for Business, built with Oxford Saïd and ElevenLabs Impact, lets founders talk to and add to research on women founders.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-13T21:20:44.574Z",
+    "published": "Fri, 13 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/keyword-search-tied-an-8b-embedding-model-at-picking-agent-tools/",
+    "title": "Keyword Search Tied an 8B Embedding Model at Picking Agent Tools",
+    "description": "On 200 ToolRet questions and up to 3,794 tools, BM25 ran about 40x faster than BGE-large on just a CPU, and full tool docs made it the best setup tested.\nThe post Keyword Search Tied an 8B Embedding Model at Picking Agent Tools appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-13T21:21:02.512Z",
+    "published": "Fri, 13 Nov 2026 16:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-jev-makes-decisions-about-images-with-4-python-examples/",
+    "title": "How Jev Makes Decisions About Images, With 4 Python Examples",
+    "description": "Practical code for classifying fabric against reference photos, scoring product sharpness, cropping shipping labels, and spotting subtle car damage.\nThe post How Jev Makes Decisions About Images, With 4 Python Examples appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-13T21:21:02.512Z",
+    "published": "Fri, 13 Nov 2026 15:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/",
+    "title": "Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life",
+    "description": "Jensen Huang likely left Nvidia more because of risky business practices than anything else, a Wall Street Journal report suggests. At the very least, those practices made him enemies internally. The company offered cloud providers billions in financial guarantees for chip purchases, includ",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-13T21:21:04.146Z",
+    "published": "Fri, 13 Nov 2026 20:07:34 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/",
+    "title": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet",
+    "description": "OpenAI is taking a second shot at AI-powered shopping with ChatGPT Wallet after scrapping its first approach, Instant Checkout. Users register a card once and confirm each purchase through Face ID or a fingerprint, while actual card details stay hidden behind payment tokens. Rivals such as",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-13T21:21:04.146Z",
+    "published": "Fri, 13 Nov 2026 18:55:21 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/",
+    "title": "Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls",
+    "description": "Chinese investors are shut out of Anthropic's IPO, Bloomberg reports. Banks are rejecting buy orders from mainland China and Hong Kong, citing U.S. export control rules known as ITAR. Similar restrictions applied during SpaceX's IPO, and Anthropic's products aren't available in either regio",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-13T21:21:04.146Z",
+    "published": "Fri, 13 Nov 2026 18:01:53 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
+    "title": "Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
+    "description": "Anthropic's new Claude for Manufacturing plugin connects the AI directly to Autodesk Fusion, Oracle NetSuite, and Infor. Its 17 specialized skills let the AI draft quotes, compare suppliers, and place backup orders when deliveries are delayed, all after human approval. The plugin doesn't co",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-13T21:21:04.146Z",
+    "published": "Fri, 13 Nov 2026 16:37:01 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/nearly-70-percent-of-us-agencies-use-generative-ai-and-unions-are-finally-catching-up-with-guardrails/",
+    "title": "Nearly 70 percent of US agencies use generative AI, and unions are finally catching up with guardrails",
+    "description": "US public-sector unions are increasingly pushing through protections against AI surveillance and automated firings. In Oakland, a strike vote forced retraining programs instead of layoffs, and a transport union in Ohio won veto power over autonomous vehicles. California banned so-called bos",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-13T21:21:04.146Z",
+    "published": "Fri, 13 Nov 2026 15:53:49 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/",
+    "title": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models",
+    "description": "Former OpenAI researcher Will DePue says he has produced the first technical evidence that DeepSeek, Moonshot AI, MiniMax, and Ant Group are using Nvidia's latest Blackwell GPUs despite US export controls. His forensic method reads characteristic chip signatures directly from published mode",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-13T21:21:04.146Z",
+    "published": "Fri, 13 Nov 2026 15:21:04 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/",
+    "title": "Anthropic's IPO is six times oversubscribed and on track to become the largest public offering in history",
+    "description": "Anthropic is on track for the largest IPO ever, with orders exceeding available shares by a factor of six.\nThe article Anthropic&#039;s IPO is six times oversubscribed and on track to become the largest public offering in history appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-13T21:21:04.146Z",
+    "published": "Fri, 13 Nov 2026 15:15:08 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/metas-muse-now-calls-businesses-for-you-but-many-companies-might-just-hang-up-on-the-ai/",
+    "title": "Meta's Muse now calls businesses for you, but many companies might just hang up on the AI",
+    "description": "Meta's AI agent Muse can now call businesses on behalf of paying US subscribers, handling everything from cable providers to restaurants. The agent already has over 10 million users, according to Meta's AI chief Alexandr Wang. Google Gemini, Instinct, and xAI's Grok Bot offer the same featu",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-13T21:21:04.146Z",
+    "published": "Fri, 13 Nov 2026 15:12:44 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-enters-the-cybersecurity-market-with-two-daybreak-products/",
+    "title": "OpenAI enters the cybersecurity market with two Daybreak products",
+    "description": "OpenAI has launched two security products under its Daybreak brand.\nThe article OpenAI enters the cybersecurity market with two Daybreak products appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-13T21:21:04.146Z",
+    "published": "Fri, 13 Nov 2026 15:08:57 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
+    "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+    "description": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-13T21:21:09.800Z",
+    "published": "Fri, 13 Nov 2026 19:08:57 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
+    "title": "Jensen Huang and the End of the Founder Fairy Tale",
+    "description": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-13T21:21:09.800Z",
+    "published": "Fri, 13 Nov 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/13/best-ai-video-generation-models-2026/",
+    "title": "Best AI Video Generation Models in 2026: Elo, Price per Second, Open Weights",
+    "description": "The AI video leaderboard looks very different from 12 months ago. Native audio is now table stakes. Clips run 15–30 seconds. And an open-weights model sits in the top 3. This ranking (as of Nov 13, 2026) uses one quality signal: blind human-preference Elo from the Artificial Analysis Video Arena. We",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-13T21:21:12.001Z",
+    "published": "Fri, 13 Nov 2026 17:23:51 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/13/perplexity-decider-v1-3-open-weight-decision-models-locate/",
+    "title": "Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate",
+    "description": "Perplexity Decider v1.3 and Flash v1.3 are open-weight decision models that return probabilities, not text. Version 1.3 adds Locate for span extraction and reports 91.6% mean accuracy on 63 query-classification tasks.\nThe post Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-13T21:21:12.001Z",
+    "published": "Fri, 13 Nov 2026 16:10:02 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2316384/google-now-lets-people-connect-gemini-to-their-bank-accounts/",
+    "title": "Google now lets people connect Gemini to their bank accounts",
+    "description": "This is for spending analysis and not for making purchases.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-13T21:21:16.399Z",
+    "published": "Fri, 13 Nov 2026 19:15:32 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2316137/you-can-now-tempt-fate-and-give-your-banking-information-to-chatgpt/",
+    "title": "You can now tempt fate and give your banking information to ChatGPT",
+    "description": "The new Wallet feature will allow its AI agents to make purchases on your behalf.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-13T21:21:16.399Z",
+    "published": "Fri, 13 Nov 2026 17:17:51 +0000"
   }
 ]
