@@ -14801,7 +14801,9 @@
     "source": "ZDNet AI",
     "category": "news",
     "discovered": "2026-08-04T16:25:48.658Z",
-    "published": "Tue, 04 Aug 2026 10:00:45 GMT"
+    "published": "Tue, 04 Aug 2026 10:00:45 GMT",
+    "processed": true,
+    "processedAt": "2026-11-13T06:13:09.933Z"
   },
   {
     "url": "https://www.engadget.com/2230042/apple-claims-that-even-more-ex-employees-may-have-given-trade-secrets-to-openai/",
@@ -14810,7 +14812,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-08-04T16:25:49.291Z",
-    "published": "Tue, 04 Aug 2026 15:57:41 +0000"
+    "published": "Tue, 04 Aug 2026 15:57:41 +0000",
+    "processed": true,
+    "processedAt": "2026-11-13T06:13:09.933Z"
   },
   {
     "url": "https://www.engadget.com/2229903/new-samsung-tvs-will-support-hdr10-plus-advanced-streaming-on-prime-video-starting-this-month/",
@@ -107214,5 +107218,38 @@
     "category": "news",
     "discovered": "2026-11-12T23:49:50.579Z",
     "published": "Thu, 12 Nov 2026 23:32:00 +0000"
+  },
+  {
+    "url": "https://openai.com/business/customer-stories/amplitude",
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "description": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-13T06:10:24.583Z",
+    "published": "Thu, 12 Nov 2026 20:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-13T06:13:09.936Z"
+  },
+  {
+    "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
+    "title": "GitHub availability report: October 2026",
+    "description": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services.\nThe post GitHub availability report: October 2026 appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-11-13T06:10:53.847Z",
+    "published": "Fri, 13 Nov 2026 00:20:16 +0000",
+    "processed": true,
+    "processedAt": "2026-11-13T06:13:09.936Z"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/the-nightmare-at-nvidia",
+    "title": "The Nightmare at NVIDIA",
+    "description": "Jensen Huang’s departure could weaken the case for broader access to AI computing, potentially changing the competitive dynamics between American frontier labs.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-13T06:11:00.840Z",
+    "published": "Fri, 13 Nov 2026 05:25:31 GMT",
+    "processed": true,
+    "processedAt": "2026-11-13T06:13:09.936Z"
   }
 ]
