@@ -14845,7 +14845,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-08-04T16:25:49.291Z",
-    "published": "Tue, 04 Aug 2026 09:22:06 +0000"
+    "published": "Tue, 04 Aug 2026 09:22:06 +0000",
+    "processed": true,
+    "processedAt": "2026-11-14T08:53:00.769Z"
   },
   {
     "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
@@ -107722,5 +107724,49 @@
     "published": "Fri, 13 Nov 2026 12:00:00 GMT",
     "processed": true,
     "processedAt": "2026-11-14T01:41:52.722Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/",
+    "title": "Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents",
+    "description": "Vercel Labs released Vercel UI SDK, an Apache-2.0 beta library of 50+ UI behaviors. Coding agents compose them into accessible components for React, Vue, Svelte, Solid and Web Components, with a bridge for direct UI control.\nThe post Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents appe",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-14T08:50:49.478Z",
+    "published": "Sat, 14 Nov 2026 06:38:14 +0000",
+    "processed": true,
+    "processedAt": "2026-11-14T08:53:00.771Z"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/openai-introduces-chatgpt-wallet-for-agent-led-payments",
+    "title": "OpenAI Introduces ChatGPT Wallet for Agent-Led Payments",
+    "description": "The feature requires users to approve every transaction through a security check, such as Face ID or fingerprint authentication",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-14T08:50:52.101Z",
+    "published": "Sat, 14 Nov 2026 05:25:04 GMT",
+    "processed": true,
+    "processedAt": "2026-11-14T08:53:00.771Z"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/ai-chatbots-and-children-should-india-regulate-what-bots-say",
+    "title": "AI Chatbots and Children: Should India Regulate What Bots Say?",
+    "description": "Explore the need for regulations on AI chatbots as children seek emotional support and companionship, following global trends and legislation.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-14T08:50:52.101Z",
+    "published": "Sat, 14 Nov 2026 04:37:52 GMT",
+    "processed": true,
+    "processedAt": "2026-11-14T08:53:00.771Z"
+  },
+  {
+    "url": "https://www.engadget.com/2316792/faa-flights-resume-ground-stop-old-equipment/",
+    "title": "FAA allows flights to resume after hours-long ground stop across the US",
+    "description": "The FAA grounded flights for hours on November 13, and the transportation secretary blamed it on old and malfunctioning air traffic control system.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-14T08:50:54.242Z",
+    "published": "Sat, 14 Nov 2026 06:35:40 +0000",
+    "processed": true,
+    "processedAt": "2026-11-14T08:53:00.771Z"
   }
 ]
