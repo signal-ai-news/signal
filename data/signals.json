@@ -14823,7 +14823,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-08-04T16:25:49.291Z",
-    "published": "Tue, 04 Aug 2026 14:36:01 +0000"
+    "published": "Tue, 04 Aug 2026 14:36:01 +0000",
+    "processed": true,
+    "processedAt": "2026-11-14T01:41:52.720Z"
   },
   {
     "url": "https://www.engadget.com/2229768/open-ai-says-apple-is-wrong-in-trade-secret-lawsuit/",
@@ -14832,7 +14834,9 @@
     "source": "Engadget AI",
     "category": "news",
     "discovered": "2026-08-04T16:25:49.291Z",
-    "published": "Tue, 04 Aug 2026 11:54:50 +0000"
+    "published": "Tue, 04 Aug 2026 11:54:50 +0000",
+    "processed": true,
+    "processedAt": "2026-11-14T01:41:52.720Z"
   },
   {
     "url": "https://www.engadget.com/2229725/apple-developing-seamless-copy-paste-experience-iphones-windows-pcs/",
@@ -107685,5 +107689,38 @@
     "category": "news",
     "discovered": "2026-11-13T21:21:16.399Z",
     "published": "Fri, 13 Nov 2026 17:17:51 +0000"
+  },
+  {
+    "url": "https://openai.com/business/customer-stories/shield",
+    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+    "description": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-14T01:39:18.051Z",
+    "published": "Fri, 13 Nov 2026 08:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-14T01:41:52.722Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "description": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-14T01:39:21.241Z",
+    "published": "Fri, 13 Nov 2026 22:43:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-14T01:41:52.722Z"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/open-source-tts-vs-paid-apis",
+    "title": "Open source TTS vs paid APIs: How to choose wisely",
+    "description": "Compare open source TTS vs paid APIs on cost, control, licensing, and data residency, and learn how to evaluate models before you commit.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-14T01:39:24.702Z",
+    "published": "Fri, 13 Nov 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-14T01:41:52.722Z"
   }
 ]
