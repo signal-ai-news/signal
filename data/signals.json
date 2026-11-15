@@ -14911,7 +14911,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-04T20:58:20.187Z",
-    "published": "Tue, 04 Aug 2026 20:54:04 +0000"
+    "published": "Tue, 04 Aug 2026 20:54:04 +0000",
+    "processed": true,
+    "processedAt": "2026-11-15T00:13:07.311Z"
   },
   {
     "url": "https://shumer.dev/how-i-prompt-fable",
@@ -14920,7 +14922,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-04T20:58:20.187Z",
-    "published": "Tue, 04 Aug 2026 20:41:41 +0000"
+    "published": "Tue, 04 Aug 2026 20:41:41 +0000",
+    "processed": true,
+    "processedAt": "2026-11-15T00:13:07.311Z"
   },
   {
     "url": "https://news.ycombinator.com/item?id=49174796",
@@ -108337,5 +108341,38 @@
     "category": "news",
     "discovered": "2026-11-14T20:33:25.477Z",
     "published": "Sat, 14 Nov 2026 16:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2313042/sd-card-4-gb-file-transfer-limit-fat32-explained/",
+    "title": "Why your SD card won't let you transfer files bigger than 4GB, and how to fix it",
+    "description": "Some SD cards just won&#39;t accept files larger than 4GB, no matter the total capacity or how much free storage there is. But don&#39;t worry, it&#39;s not hard to fix.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-15T00:11:00.761Z",
+    "published": "Sat, 14 Nov 2026 23:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-15T00:13:07.314Z"
+  },
+  {
+    "url": "https://www.engadget.com/2312834/how-to-get-better-results-google-gemini/",
+    "title": "How to get better results from Google Gemini",
+    "description": "These tips and tricks will help you prompt Gemini better.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-15T00:11:00.761Z",
+    "published": "Sat, 14 Nov 2026 22:15:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-15T00:13:07.314Z"
+  },
+  {
+    "url": "https://www.engadget.com/2312189/how-to-clear-cache-xbox-series-x/",
+    "title": "How to clear the cache on your Xbox Series X",
+    "description": "Clearing the cache on your Xbox Series X can help it retain its snappiness while avoiding glitches, or you can perform a console reset if all else fails.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-15T00:11:00.761Z",
+    "published": "Sat, 14 Nov 2026 20:45:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-15T00:13:07.314Z"
   }
 ]
