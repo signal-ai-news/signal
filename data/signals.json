@@ -108466,5 +108466,87 @@
     "category": "news",
     "discovered": "2026-11-15T14:40:29.535Z",
     "published": "Sun, 15 Nov 2026 14:15:00 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/a-practitioners-guide-to-6-agentic-graphrag-patterns/",
+    "title": "A Practitioner's Guide to 6 Agentic GraphRAG Patterns",
+    "description": "How autonomous agents turn static knowledge graphs into living Context Graphs that remember decisions, user intent, and operational history\nThe post A Practitioner's Guide to 6 Agentic GraphRAG Patterns appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-15T20:16:31.309Z",
+    "published": "Sun, 15 Nov 2026 15:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-15T20:18:55.335Z"
+  },
+  {
+    "url": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
+    "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
+    "description": "Anthropic's Claude Fable 5.2 doesn't generate images the way other AI models do. Instead of computing pixels, the language model writes Python code that places hundreds of thousands of simulated brushstrokes on a virtual canvas, complete with bristle texture and paint application. A single",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-15T20:16:33.406Z",
+    "published": "Sun, 15 Nov 2026 15:42:03 +0000",
+    "processed": true,
+    "processedAt": "2026-11-15T20:18:55.335Z"
+  },
+  {
+    "url": "https://www.engadget.com/2313818/how-to-generate-edit-gifs-with-chatgpt/",
+    "title": "You can now generate and edit GIFs with ChatGPT - here's how",
+    "description": "If you feel like Homer Simpson backing into the hedges has been overdone, OpenAI offers a new option for creating the right GIF for the moment.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-15T20:16:48.576Z",
+    "published": "Sun, 15 Nov 2026 19:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-15T20:18:55.335Z"
+  },
+  {
+    "url": "https://www.engadget.com/2313761/open-ear-vs-in-ear-earbuds-which-is-better/",
+    "title": "Open-ear vs. in-ear earbuds: Which is actually better for your ears?",
+    "description": "Open-ear and in-ear earbuds are designed differently, but those differences can have a bigger impact on daily listening than many people realize.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-15T20:16:48.576Z",
+    "published": "Sun, 15 Nov 2026 17:45:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-15T20:18:55.335Z"
+  },
+  {
+    "url": "https://www.engadget.com/2317185/italy-orders-meta-to-pay-887m-for-not-obtaining-specific-consent-over-user-photos/",
+    "title": "Italy orders Meta to pay $887M for not obtaining specific consent over user photos",
+    "description": "Meta is reportedly planning to appeal the fine.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-15T20:16:48.576Z",
+    "published": "Sun, 15 Nov 2026 17:44:06 +0000",
+    "processed": true,
+    "processedAt": "2026-11-15T20:18:55.335Z"
+  },
+  {
+    "url": "https://www.engadget.com/2313758/phone-airplane-mode-save-unexpected-charges-cruise-ships/",
+    "title": "Your phone's 'Airplane Mode' can save you from unexpected charges on cruise ships",
+    "description": "Maritime cellular networks can rack up roaming fees on your cruise without a single call or text. Here&#39;s how to stay connected and avoid the bill.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-15T20:16:48.576Z",
+    "published": "Sun, 15 Nov 2026 17:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2313717/vibe-coding-changing-how-musicians-customize-gear/",
+    "title": "Vibe coding is changing how musicians customize their gear",
+    "description": "AI is changing just about every industry even music. This is how musicians are using vibe coding to alter their sound, their gear and how music is made.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-15T20:16:48.576Z",
+    "published": "Sun, 15 Nov 2026 16:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2313707/ai-glasses-banned-places-list-keeps-growing/",
+    "title": "Some places have already banned AI glasses, and the list just keeps growing",
+    "description": "Safety and privacy concerns have led to bans on AI glasses in a number of public places, including courtrooms, schools and theaters.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-15T20:16:48.576Z",
+    "published": "Sun, 15 Nov 2026 16:00:00 +0000"
   }
 ]
