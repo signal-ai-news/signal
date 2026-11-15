@@ -14933,7 +14933,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-04T20:58:20.187Z",
-    "published": "Tue, 04 Aug 2026 20:41:15 +0000"
+    "published": "Tue, 04 Aug 2026 20:41:15 +0000",
+    "processed": true,
+    "processedAt": "2026-11-15T07:04:34.925Z"
   },
   {
     "url": "https://github.com/0xeb/ghidrasql",
@@ -14942,7 +14944,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-04T20:58:20.187Z",
-    "published": "Tue, 04 Aug 2026 20:35:22 +0000"
+    "published": "Tue, 04 Aug 2026 20:35:22 +0000",
+    "processed": true,
+    "processedAt": "2026-11-15T07:04:34.925Z"
   },
   {
     "url": "https://arxiv.org/abs/2605.02162",
@@ -14951,7 +14955,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-04T20:58:20.187Z",
-    "published": "Tue, 04 Aug 2026 20:34:04 +0000"
+    "published": "Tue, 04 Aug 2026 20:34:04 +0000",
+    "processed": true,
+    "processedAt": "2026-11-15T07:04:34.925Z"
   },
   {
     "url": "https://github.com/gojargo/jargo",
@@ -14960,7 +14966,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-04T20:58:20.187Z",
-    "published": "Tue, 04 Aug 2026 20:28:47 +0000"
+    "published": "Tue, 04 Aug 2026 20:28:47 +0000",
+    "processed": true,
+    "processedAt": "2026-11-15T07:04:34.925Z"
   },
   {
     "url": "https://github.com/Kratos-Analytics-LLC/AgentRails",
@@ -108374,5 +108382,16 @@
     "published": "Sat, 14 Nov 2026 20:45:00 +0000",
     "processed": true,
     "processedAt": "2026-11-15T00:13:07.314Z"
+  },
+  {
+    "url": "https://www.engadget.com/2313576/hidden-way-check-which-services-running-on-android-phone/",
+    "title": "There's a hidden way you can check which services are running on your Android phone",
+    "description": "Want to see what&#39;s draining your Android phone&#39;s memory? Here&#39;s how to unlock the hidden Running Services menu to monitor background apps.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-15T07:02:29.023Z",
+    "published": "Sun, 15 Nov 2026 00:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-15T07:04:34.927Z"
   }
 ]
