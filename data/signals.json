@@ -108393,5 +108393,78 @@
     "published": "Sun, 15 Nov 2026 00:00:00 +0000",
     "processed": true,
     "processedAt": "2026-11-15T07:04:34.927Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/computing-effective-dimension-for-quantum-ml-models-in-pytorch/",
+    "title": "Computing Effective Dimension for Quantum ML Models in PyTorch",
+    "description": "Local and global variants, Fisher estimation, epsilon-ball sampling, and log-space stability, with PennyLane code and a time-series experiment.\nThe post Computing Effective Dimension for Quantum ML Models in PyTorch appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-15T14:40:14.780Z",
+    "published": "Sun, 15 Nov 2026 13:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-15T14:42:35.220Z"
+  },
+  {
+    "url": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/",
+    "title": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
+    "description": "Australia's central bank sees early signs that AI is hitting young entry-level workers in highly exposed jobs like software development and customer service. Since ChatGPT launched, job postings and employment among 15- to 24-year-olds in those fields have dropped more sharply than among ol",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-15T14:40:16.544Z",
+    "published": "Sun, 15 Nov 2026 10:45:58 +0000",
+    "processed": true,
+    "processedAt": "2026-11-15T14:42:35.220Z"
+  },
+  {
+    "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+    "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+    "description": "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4 points, landing just behind Claude Opus 5. The sample deployment runs on 194 Huawei Ascend chips, and Meituan make",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-15T14:40:16.544Z",
+    "published": "Sun, 15 Nov 2026 10:06:06 +0000",
+    "processed": true,
+    "processedAt": "2026-11-15T14:42:35.220Z"
+  },
+  {
+    "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+    "title": "AI DJs Completely Kill My Groove",
+    "description": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-15T14:40:22.590Z",
+    "published": "Sun, 15 Nov 2026 12:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-15T14:42:35.220Z"
+  },
+  {
+    "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+    "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+    "description": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-15T14:40:22.590Z",
+    "published": "Sun, 15 Nov 2026 11:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-15T14:42:35.220Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/",
+    "title": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls",
+    "description": "Bland has released Tofu-1, a full-duplex speech-to-speech model for noisy, high-stakes phone calls. It is in enterprise research preview, with no published benchmarks, size or pricing yet.\nThe post Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls appeared first on MarkTechPost.",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-15T14:40:24.772Z",
+    "published": "Sun, 15 Nov 2026 10:06:21 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2313685/why-google-pixel-stop-using-snapdragon/",
+    "title": "Why did Google Pixels stop using Snapdragon chips?",
+    "description": "There was a time when Google relied on Snapdragon chips to make its Pixel smartphones, but that&#39;s not the case anymore. Here&#39;s why it stopped.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-15T14:40:29.535Z",
+    "published": "Sun, 15 Nov 2026 14:15:00 +0000"
   }
 ]
