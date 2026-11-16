@@ -109018,5 +109018,384 @@
     "category": "news",
     "discovered": "2026-11-16T07:09:38.792Z",
     "published": "Mon, 16 Nov 2026 00:30:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "title": "Broadening access to AI for scientists",
+    "description": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-16T17:19:34.535Z",
+    "published": "Mon, 16 Nov 2026 17:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-16T17:22:25.709Z"
+  },
+  {
+    "url": "https://openai.com/index/strengthening-online-child-safety",
+    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+    "description": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-16T17:19:34.535Z",
+    "published": "Mon, 16 Nov 2026 17:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-16T17:22:25.709Z"
+  },
+  {
+    "url": "https://openai.com/index/science-at-the-frontier",
+    "title": "Science at the Frontier: How scientists use ChatGPT",
+    "description": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-16T17:19:34.535Z",
+    "published": "Mon, 16 Nov 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-16T17:22:25.709Z"
+  },
+  {
+    "url": "https://openai.com/index/lvmh-media-division-partnership",
+    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+    "description": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-16T17:19:34.535Z",
+    "published": "Mon, 16 Nov 2026 09:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-16T17:22:25.709Z"
+  },
+  {
+    "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "title": "Advancing computer-use agents for healthcare teams",
+    "description": "",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-16T17:19:34.536Z",
+    "published": "Mon, 16 Nov 2026 06:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-16T17:22:25.709Z"
+  },
+  {
+    "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+    "title": "More ways to move care forward with ChatGPT for Healthcare",
+    "description": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-16T17:19:34.536Z",
+    "published": "Mon, 16 Nov 2026 06:00:00 GMT"
+  },
+  {
+    "url": "https://openai.com/index/the-kings-trust-and-openai",
+    "title": "The King’s Trust and OpenAI launch £1m partnership",
+    "description": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-16T17:19:34.536Z",
+    "published": "Mon, 16 Nov 2026 00:00:00 GMT"
+  },
+  {
+    "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+    "title": "New Ask Maps features to help with holiday travel and prep",
+    "description": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-11-16T17:19:36.101Z",
+    "published": "Mon, 16 Nov 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://huggingface.co/blog/openrouter",
+    "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-11-16T17:19:36.776Z",
+    "published": "Mon, 16 Nov 2026 00:00:00 GMT"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+    "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+    "description": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-16T17:19:38.055Z",
+    "published": "Mon, 16 Nov 2026 17:10:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+    "title": "OpenAI will embed Apollo researchers to investigate AI subversion",
+    "description": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-16T17:19:38.055Z",
+    "published": "Mon, 16 Nov 2026 17:02:43 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+    "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+    "description": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-16T17:19:38.055Z",
+    "published": "Mon, 16 Nov 2026 17:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+    "title": "Audible turns to AI to help users discover audiobooks",
+    "description": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-16T17:19:38.055Z",
+    "published": "Mon, 16 Nov 2026 15:52:19 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+    "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+    "description": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-16T17:19:38.055Z",
+    "published": "Mon, 16 Nov 2026 15:02:34 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+    "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+    "description": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-16T17:19:38.055Z",
+    "published": "Mon, 16 Nov 2026 14:48:13 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+    "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+    "description": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-16T17:19:38.055Z",
+    "published": "Mon, 16 Nov 2026 12:30:00 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+    "title": "Building trustworthy AI by fencing it in, not predicting it",
+    "description": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had t",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-16T17:19:39.296Z",
+    "published": "Mon, 16 Nov 2026 16:04:28 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
+    "title": "The Download: testing tech promises and searching for cognitive immortality",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? Six technologies that promised to change the world How do you measure progress towards the future? In the Impossible issue of MIT Te",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-16T17:19:39.296Z",
+    "published": "Mon, 16 Nov 2026 13:10:00 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+    "title": "Building AI that can work across the enterprise",
+    "description": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a de",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-16T17:19:39.296Z",
+    "published": "Mon, 16 Nov 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/postnord",
+    "title": "How the Nordics' leading postal operator rebuilt its customer support on ElevenAgents",
+    "description": "Yahoo used the ElevenAgents platform to add conversational voice to its new Yahoo Scout AI answer tool, going from kickoff to production in 6 weeks.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-16T17:19:41.682Z",
+    "published": "Tue, 17 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/autotorino-agents",
+    "title": "Autotorino automates dealership calls with ElevenAgents",
+    "description": "Automated call handling more than doubled call volume capacity across the dealer network by using ElevenLabs.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-16T17:19:41.682Z",
+    "published": "Mon, 16 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/after-10-heads-in-a-row-small-llms-bet-up-to-82-on-an-11th/",
+    "title": "After 10 Heads in a Row, Small LLMs Bet Up to 82% on an 11th",
+    "description": "Telling eight base and instruction-tuned open models that the coin is fair and the flips are independent trims their streak bias by only a few points.\nThe post After 10 Heads in a Row, Small LLMs Bet Up to 82% on an 11th appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-16T17:20:02.498Z",
+    "published": "Mon, 16 Nov 2026 16:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/why-human-in-the-loop-ai-oversight-fails-and-how-to-fix-it/",
+    "title": "Why Human in the Loop AI Oversight Fails and How to Fix It",
+    "description": "Kahneman's System 1 and System 2, plus the ODPS, ODCS, and Ossie standards, show how to wake reviewers up only when a check fails.\nThe post Why Human in the Loop AI Oversight Fails and How to Fix It appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-16T17:20:02.498Z",
+    "published": "Mon, 16 Nov 2026 15:00:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-avoid-ai-replacement-as-an-analytics-professional-in-2027/",
+    "title": "How to Avoid AI Replacement as an Analytics Professional in 2027",
+    "description": "Lessons from manufacturing and logistics projects: follow data from input to output, then turn vague requests into deterministic tools teams trust.\nThe post How to Avoid AI Replacement as an Analytics Professional in 2027 appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-16T17:20:02.498Z",
+    "published": "Mon, 16 Nov 2026 13:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/local-llms-handle-textbook-rag-but-fail-on-new-research-papers/",
+    "title": "Local LLMs Handle Textbook RAG but Fail on New Research Papers",
+    "description": "Five setups, one blind grading pack: textbook scores ran 12 to 20 of 20, but a paper published this year dropped them to 0 to 9 of 15.\nThe post Local LLMs Handle Textbook RAG but Fail on New Research Papers appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-16T17:20:02.498Z",
+    "published": "Mon, 16 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/",
+    "title": "Alibaba's Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices",
+    "description": "Alibaba launches Qwen4-Max, a new flagship model with 2.4 trillion parameters that activates only 71 billion per token. A hybrid architecture sharply cuts costs on long contexts. Qwen4-Max lands just behind Kimi K3.1 Pro on the Artificial Analysis Intelligence Index, and Alibaba plans to re",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-16T17:20:05.175Z",
+    "published": "Mon, 16 Nov 2026 16:56:04 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/",
+    "title": "Claude now builds interactive websites inside canvas graphics, reviving the Flash era with real HTML",
+    "description": "Claude can now embed text, buttons, and other web elements into complex graphics and 3D effects.\nThe article Claude now builds interactive websites inside canvas graphics, reviving the Flash era with real HTML appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-16T17:20:05.175Z",
+    "published": "Mon, 16 Nov 2026 16:10:22 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store/",
+    "title": "Anthropic says the key to agent memory is knowing what to forget, not how much to store",
+    "description": "Anthropic studied how Claude retains knowledge across sessions. Selective notes beat exhaustive archives by a wide margin. In a Pokémon Red test, the newer Claude Fable 5 got four times as far as the older Sonnet 3.7 by keeping just a handful of strategy files instead of more than 400. A \"D",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-16T17:20:05.175Z",
+    "published": "Mon, 16 Nov 2026 15:25:48 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
+    "title": "Jensen Huang Is Gone. Now What?",
+    "description": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-16T17:20:11.552Z",
+    "published": "Mon, 16 Nov 2026 16:12:51 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+    "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
+    "description": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-16T17:20:11.553Z",
+    "published": "Mon, 16 Nov 2026 11:00:00 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/",
+    "title": "Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands",
+    "description": "Meta has moved Catching JiTTests into production. The LLM system writes tests designed to fail on risky diffs, and caught 74 privacy SEVs before landing in H1 2026, with a 60% engineer-reported true-positive rate.\nThe post Meet Meta&#8217;s JiTTests: LLM-Generated Tests Designed to Fail Before Risky",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-16T17:20:14.372Z",
+    "published": "Mon, 16 Nov 2026 10:39:41 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/",
+    "title": "Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context",
+    "description": "Alibaba released Qwen4-Max, a proprietary 2.4T-parameter MoE model with 71B active parameters, native vision and a 1M-token context. It costs $1.5/M input tokens and cuts Work360 cost per task by 62%.\nThe post Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context appeared first on MarkTechPos",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-16T17:20:14.372Z",
+    "published": "Mon, 16 Nov 2026 09:44:17 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/16/hark-handoff-2-computer-use-agent-2x-faster/",
+    "title": "Hark Releases Handoff², a 2x Faster Computer-Use Agent for Hark Pro",
+    "description": "Hark has released Handoff², the computer-use agent inside Hark Pro. It averages 2x faster than v1, completes 82% of 478 internal web tasks, and learned to batch actions through latency-penalized RL.\nThe post Hark Releases Handoff², a 2x Faster Computer-Use Agent for Hark Pro appeared first on MarkTe",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-16T17:20:14.372Z",
+    "published": "Mon, 16 Nov 2026 09:08:37 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/alibaba-launches-qwen4-max-ai-model-with-focus-on-security",
+    "title": "Alibaba Launches Qwen4-Max AI Model With Focus on Security",
+    "description": "The 2.4-trillion-parameter model includes a 1-million-token context window, native vision capabilities and security improvements across coding and other tasks.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-16T17:20:17.321Z",
+    "published": "Mon, 16 Nov 2026 12:19:01 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/delhis-bharat-semi-raises-24-mn-to-develop-ai-image-sensors",
+    "title": "Delhi's Bharat Semi Raises $24 Mn to Develop AI Image Sensors",
+    "description": "The Delhi-based startup plans to begin commercial production in 2027, targeting customers across the US and other markets.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-16T17:20:17.321Z",
+    "published": "Mon, 16 Nov 2026 12:15:08 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/inside-ctrlss-44-gw-bet-on-indias-data-centre-boom",
+    "title": "Inside CtrlS’s Massive 4.4 GW Bet on India’s AI and Data Centre Boom",
+    "description": "CrtlS currently operates 19 data centres and plans to establish more than 20 edge data centres across tier-2 and tier-3 cities.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-16T17:20:17.321Z",
+    "published": "Mon, 16 Nov 2026 11:36:20 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/karnataka-bets-on-physical-ai-deeptech-at-bengaluru-tech-summit-2026",
+    "title": "Karnataka Bets on Physical AI, Deeptech at Bengaluru Tech Summit 2026",
+    "description": "Bengaluru Tech Summit 2026 aims to extend AI adoption beyond enterprise software into agriculture, biotechnology, gaming, industrial systems, and e-governance.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-16T17:20:17.321Z",
+    "published": "Mon, 16 Nov 2026 11:29:59 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/india-joins-us-led-pact-to-secure-ai-and-semiconductor-supply-chains",
+    "title": "India Joins US-Led Pact to Secure AI and Semiconductor Supply Chains",
+    "description": "The agreement brings 10 countries together to protect critical technologies, diversify supply chains and coordinate investment in AI infrastructure amid",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-16T17:20:17.321Z",
+    "published": "Mon, 16 Nov 2026 10:56:00 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/sk-hynix-to-invest-1-billion-in-chip-supplier-support-over-five-years",
+    "title": "SK Hynix to Invest $1 Bn in Chip Supplier Support Over 5 Years",
+    "description": "The South Korean chipmaker will fund supplier development and build a shared testing facility to strengthen its semiconductor supply chain.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-16T17:20:17.321Z",
+    "published": "Mon, 16 Nov 2026 10:52:00 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2317417/google-adds-66-regional-dialects-to-gemini/",
+    "title": "Google adds 66 regional dialects to Gemini",
+    "description": "From today, Gemini's making more of an effort to speak your language in a way that sounds more accurate.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-16T17:20:19.646Z",
+    "published": "Mon, 16 Nov 2026 17:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2313628/how-to-use-phone-find-apple-tv-remote/",
+    "title": "How to use your phone to find an Apple TV remote",
+    "description": "Apple TV now lets you use your iPhone to find a lost remote, with onscreen prompts that guide you closer until you track it down somewhere in your home.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-16T17:20:19.646Z",
+    "published": "Mon, 16 Nov 2026 13:15:00 +0000"
   }
 ]
