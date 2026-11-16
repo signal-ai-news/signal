@@ -108548,5 +108548,249 @@
     "category": "news",
     "discovered": "2026-11-15T20:16:48.576Z",
     "published": "Sun, 15 Nov 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "title": "A step toward defining the Standard Model on a lattice",
+    "description": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-16T00:14:32.291Z",
+    "published": "Sun, 15 Nov 2026 22:00:01 GMT",
+    "processed": true,
+    "processedAt": "2026-11-16T00:17:05.779Z"
+  },
+  {
+    "url": "https://openai.com/index/our-new-blog-for-science",
+    "title": "Our new blog for science",
+    "description": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-16T00:14:32.291Z",
+    "published": "Sun, 15 Nov 2026 22:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-16T00:17:05.779Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+    "description": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-16T00:14:35.439Z",
+    "published": "Sun, 15 Nov 2026 23:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-16T00:17:05.779Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+    "description": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-16T00:14:35.439Z",
+    "published": "Sun, 15 Nov 2026 21:56:35 +0000",
+    "processed": true,
+    "processedAt": "2026-11-16T00:17:05.779Z"
+  },
+  {
+    "url": "https://www.crowdgpt.net/#home",
+    "title": "CrowdGPT – AI Owned by Everyone",
+    "description": "Article URL: https://www.crowdgpt.net/#home\nComments URL: https://news.ycombinator.com/item?id=50512383\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-16T00:14:40.782Z",
+    "published": "Mon, 16 Nov 2026 00:13:30 +0000",
+    "processed": true,
+    "processedAt": "2026-11-16T00:17:05.779Z"
+  },
+  {
+    "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/#quantization",
+    "title": "The efficient frontier of LLM inference",
+    "description": "Article URL: https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/#quantization\nComments URL: https://news.ycombinator.com/item?id=50512233\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-16T00:14:40.782Z",
+    "published": "Sun, 15 Nov 2026 23:55:50 +0000"
+  },
+  {
+    "url": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11",
+    "title": "Reddit's traffic is down 13%, partly thanks to AI Overviews",
+    "description": "Article URL: https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11\nComments URL: https://news.ycombinator.com/item?id=50512047\nPoints: 11\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-16T00:14:40.782Z",
+    "published": "Sun, 15 Nov 2026 23:33:53 +0000"
+  },
+  {
+    "url": "https://finance.biggo.com/news/71888475bad974d6",
+    "title": "GLM Models Cut AI Coding Costs 90% for 2k Engineers",
+    "description": "Article URL: https://finance.biggo.com/news/71888475bad974d6\nComments URL: https://news.ycombinator.com/item?id=50512000\nPoints: 6\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-16T00:14:40.782Z",
+    "published": "Sun, 15 Nov 2026 23:27:34 +0000"
+  },
+  {
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+    "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+    "description": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china\nComments URL: https://news.ycombinator.com/item?id=50511793\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-16T00:14:40.782Z",
+    "published": "Sun, 15 Nov 2026 22:58:04 +0000"
+  },
+  {
+    "url": "https://www.thalesgroup.com/en/news-centre/press-releases/thales-launches-sentinel-envelope-plus-protect-software-against-ai",
+    "title": "Thales Launches Sentinel Envelope Plus to Protect from AI-Assisted Hacking",
+    "description": "Article URL: https://www.thalesgroup.com/en/news-centre/press-releases/thales-launches-sentinel-envelope-plus-protect-software-against-ai\nComments URL: https://news.ycombinator.com/item?id=50511622\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-16T00:14:40.782Z",
+    "published": "Sun, 15 Nov 2026 22:39:01 +0000"
+  },
+  {
+    "url": "https://futureciso.tech/thales-unveils-software-protection-against-ai-led-reverse-engineering/",
+    "title": "Thales unveils software protection against AI-led reverse engineering",
+    "description": "Article URL: https://futureciso.tech/thales-unveils-software-protection-against-ai-led-reverse-engineering/\nComments URL: https://news.ycombinator.com/item?id=50511606\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-16T00:14:40.782Z",
+    "published": "Sun, 15 Nov 2026 22:35:38 +0000"
+  },
+  {
+    "url": "https://cosmonautmag.com/2026/07/a-thesis-on-the-history-of-the-21st-century-technocracy-ai-and-the-end-of-the-world/?hl=en-US",
+    "title": "Technocracy, AI, and the End of the World",
+    "description": "Article URL: https://cosmonautmag.com/2026/07/a-thesis-on-the-history-of-the-21st-century-technocracy-ai-and-the-end-of-the-world/?hl=en-US\nComments URL: https://news.ycombinator.com/item?id=50511508\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-16T00:14:40.782Z",
+    "published": "Sun, 15 Nov 2026 22:27:07 +0000"
+  },
+  {
+    "url": "https://www.jdsupra.com/legalnews/delaware-considers-ai-managed-companies-7749604/",
+    "title": "Delaware considers AI-managed companies",
+    "description": "Article URL: https://www.jdsupra.com/legalnews/delaware-considers-ai-managed-companies-7749604/\nComments URL: https://news.ycombinator.com/item?id=50511337\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-16T00:14:40.782Z",
+    "published": "Sun, 15 Nov 2026 22:05:04 +0000"
+  },
+  {
+    "url": "https://shmck.substack.com/p/sandboxes-for-ai-agents",
+    "title": "Sandboxes for AI Agents",
+    "description": "Article URL: https://shmck.substack.com/p/sandboxes-for-ai-agents\nComments URL: https://news.ycombinator.com/item?id=50511309\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-16T00:14:40.782Z",
+    "published": "Sun, 15 Nov 2026 22:02:01 +0000"
+  },
+  {
+    "url": "https://www.yudkowsky.net/singularity/aibox",
+    "title": "The AI-Box Experiment (2002)",
+    "description": "Article URL: https://www.yudkowsky.net/singularity/aibox\nComments URL: https://news.ycombinator.com/item?id=50511129\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-16T00:14:40.782Z",
+    "published": "Sun, 15 Nov 2026 21:43:35 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=9PznwFjA4to",
+    "title": "Current human speed versus AI speed [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=9PznwFjA4to\nComments URL: https://news.ycombinator.com/item?id=50510998\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-16T00:14:40.782Z",
+    "published": "Sun, 15 Nov 2026 21:30:24 +0000"
+  },
+  {
+    "url": "https://www.metemorris.com/posts/tokenomics/",
+    "title": "LLM Releases, Token Limits, and Pricing Since GPT 3.5",
+    "description": "Article URL: https://www.metemorris.com/posts/tokenomics/\nComments URL: https://news.ycombinator.com/item?id=50510872\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-16T00:14:40.782Z",
+    "published": "Sun, 15 Nov 2026 21:18:47 +0000"
+  },
+  {
+    "url": "https://addons.mozilla.org/en-US/firefox/addon/cloakprompt/",
+    "title": "CloakPrompt – Local browser firewall that scrubs PII/keys before ChatGPT/Claude",
+    "description": "Article URL: https://addons.mozilla.org/en-US/firefox/addon/cloakprompt/\nComments URL: https://news.ycombinator.com/item?id=50510788\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-16T00:14:40.782Z",
+    "published": "Sun, 15 Nov 2026 21:09:44 +0000"
+  },
+  {
+    "url": "https://www.science.org/content/article/ai-rivals-tackle-one-physics-deepest-mathematical-challenges",
+    "title": "AI rivals tackle one of physics' deepest mathematical challenges",
+    "description": "Article URL: https://www.science.org/content/article/ai-rivals-tackle-one-physics-deepest-mathematical-challenges\nComments URL: https://news.ycombinator.com/item?id=50510622\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-16T00:14:40.782Z",
+    "published": "Sun, 15 Nov 2026 20:53:28 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50510540",
+    "title": "Ask HN: What do coding interviews look like in the age of AI?",
+    "description": "I'm a senior Rails/React dev with 13+ years of experience. Recent AI-driven layoffs have me (soon) looking for work again. But I've barely hand-written a line of code in the past year. All that has been necessary is good prompt writing and tedious, patient code review with tweaks for style / format",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-16T00:14:40.782Z",
+    "published": "Sun, 15 Nov 2026 20:45:34 +0000"
+  },
+  {
+    "url": "https://github.com/inference-gateway/desktop",
+    "title": "Inference Gateway Desktop, an AI client for any model provider",
+    "description": "Article URL: https://github.com/inference-gateway/desktop\nComments URL: https://news.ycombinator.com/item?id=50510433\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-16T00:14:40.782Z",
+    "published": "Sun, 15 Nov 2026 20:36:06 +0000"
+  },
+  {
+    "url": "https://www.webmodels.dev/",
+    "title": "A browser API for choosing and running local AI models",
+    "description": "Article URL: https://www.webmodels.dev/\nComments URL: https://news.ycombinator.com/item?id=50510431\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-16T00:14:40.782Z",
+    "published": "Sun, 15 Nov 2026 20:35:53 +0000"
+  },
+  {
+    "url": "https://www.getlivewire.app/",
+    "title": "Show HN: LiveWire: The events-driven ops platform for AI-powered businesses",
+    "description": "Article URL: https://www.getlivewire.app/\nComments URL: https://news.ycombinator.com/item?id=50510358\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-16T00:14:40.782Z",
+    "published": "Sun, 15 Nov 2026 20:27:24 +0000"
+  },
+  {
+    "url": "https://zenodo.org/records/23958737",
+    "title": "AXI Framework: The Cure for the Cost Crisis in AI",
+    "description": "Article URL: https://zenodo.org/records/23958737\nComments URL: https://news.ycombinator.com/item?id=50510353\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-16T00:14:40.782Z",
+    "published": "Sun, 15 Nov 2026 20:27:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2313936/what-happens-drained-laptop-battery/",
+    "title": "Here's what actually happens if your laptop battery is completely drained",
+    "description": "While letting your laptop run out of battery may seem harmless, it might be doing more long-term damage to your device than you ever expected.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-16T00:15:00.429Z",
+    "published": "Sun, 15 Nov 2026 23:45:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2313934/wifi-slows-down-when-devices-connect/",
+    "title": "Why your Wi-Fi slows down when more devices connect",
+    "description": "Your Wi-Fi router is like a busy train station, and once you get a sense of how things work, it&#39;s easier to keep the incoming and outgoing traffic humming.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-16T00:15:00.429Z",
+    "published": "Sun, 15 Nov 2026 23:30:00 +0000"
   }
 ]
