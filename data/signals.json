@@ -109397,5 +109397,375 @@
     "category": "news",
     "discovered": "2026-11-16T17:20:19.646Z",
     "published": "Mon, 16 Nov 2026 13:15:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+    "title": "Our first phase of embedded assessments",
+    "description": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-17T00:59:18.500Z",
+    "published": "Mon, 16 Nov 2026 08:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-17T01:02:00.937Z"
+  },
+  {
+    "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+    "title": "At Holiday Extras, dots get to work before anyone asks",
+    "description": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-17T00:59:18.500Z",
+    "published": "Mon, 16 Nov 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-17T01:02:00.937Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+    "description": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-17T00:59:22.022Z",
+    "published": "Mon, 16 Nov 2026 23:32:32 +0000",
+    "processed": true,
+    "processedAt": "2026-11-17T01:02:00.937Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+    "title": "California state AG sues OpenAI over rogue agent incidents",
+    "description": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-17T00:59:22.022Z",
+    "published": "Mon, 16 Nov 2026 20:07:13 +0000",
+    "processed": true,
+    "processedAt": "2026-11-17T01:02:00.937Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+    "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+    "description": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-17T00:59:22.022Z",
+    "published": "Mon, 16 Nov 2026 19:12:02 +0000",
+    "processed": true,
+    "processedAt": "2026-11-17T01:02:00.937Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+    "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+    "description": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-17T00:59:22.022Z",
+    "published": "Mon, 16 Nov 2026 18:11:10 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+    "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+    "description": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-17T00:59:22.022Z",
+    "published": "Mon, 16 Nov 2026 17:36:43 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+    "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+    "description": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-11-17T00:59:22.621Z",
+    "published": "Mon, 16 Nov 2026 20:37:47 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+    "title": "The open-source movement wants Jensen Huang back",
+    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including El",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-17T00:59:23.237Z",
+    "published": "Mon, 16 Nov 2026 18:38:47 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/what-is-an-llm",
+    "title": "What is an LLM? A practical guide to language models",
+    "description": "Learn what a large language model (LLM) is, how LLMs work, how they are trained, the main architectures, real examples, and their limitations.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-17T00:59:25.610Z",
+    "published": "Mon, 16 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/kotoba",
+    "title": "Kotoba is joining ElevenLabs",
+    "description": "ElevenLabs is acquiring Kotoba, the leading Japanese voice AI lab, to bring natural, culturally fluent AI agents and voice interfaces to Japan.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-17T00:59:25.610Z",
+    "published": "Mon, 16 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+    "title": "How the Claude Code team thinks about verification",
+    "description": "Article URL: https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/\nComments URL: https://news.ycombinator.com/item?id=50525965\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T00:59:32.040Z",
+    "published": "Tue, 17 Nov 2026 00:57:30 +0000"
+  },
+  {
+    "url": "https://hep-open-release.org/",
+    "title": "Statement on Sharing Research Produced by AI Companies in Theoretical Physics",
+    "description": "Article URL: https://hep-open-release.org/\nComments URL: https://news.ycombinator.com/item?id=50525947\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T00:59:32.040Z",
+    "published": "Tue, 17 Nov 2026 00:55:17 +0000"
+  },
+  {
+    "url": "https://www.dialogkey.com/careers/119ce7f304",
+    "title": "Forward Deployed Engineer – AI/ML and Data Science",
+    "description": "Article URL: https://www.dialogkey.com/careers/119ce7f304\nComments URL: https://news.ycombinator.com/item?id=50525715\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T00:59:32.040Z",
+    "published": "Tue, 17 Nov 2026 00:28:21 +0000"
+  },
+  {
+    "url": "https://grok.com/share/bGVnYWN5_4f06d401-90e9-4ed4-bad8-89e3b4fadde2",
+    "title": "2027 AI Power Shortfall of 15 GW",
+    "description": "Article URL: https://grok.com/share/bGVnYWN5_4f06d401-90e9-4ed4-bad8-89e3b4fadde2\nComments URL: https://news.ycombinator.com/item?id=50525654\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T00:59:32.040Z",
+    "published": "Tue, 17 Nov 2026 00:22:53 +0000"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
+    "title": "Aschenbrenner's Situational Awareness made AI bets again before October rout",
+    "description": "Article URL: https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html\nComments URL: https://news.ycombinator.com/item?id=50525446\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T00:59:32.040Z",
+    "published": "Tue, 17 Nov 2026 00:04:18 +0000"
+  },
+  {
+    "url": "https://www.ailivesdontmatter.com/",
+    "title": "AI Lives Don't Matter",
+    "description": "Article URL: https://www.ailivesdontmatter.com/\nComments URL: https://news.ycombinator.com/item?id=50525379\nPoints: 6\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T00:59:32.040Z",
+    "published": "Mon, 16 Nov 2026 23:57:26 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50525329",
+    "title": "Ask HN: Who's really winning with AI-Coding?",
+    "description": "I've noticed the same pattern across three different Claude-coded projects now. Initial velocity is strong, but starts to fade until returns are negative.It seems a combination of changes in model behavior and increasing code base size—emphasis on the latter. The larger the code base and documented",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T00:59:32.040Z",
+    "published": "Mon, 16 Nov 2026 23:52:37 +0000"
+  },
+  {
+    "url": "https://github.com/debarshibasak/listodo",
+    "title": "Show HN: Listodo – A to-do list with an AI agent for every task",
+    "description": "Article URL: https://github.com/debarshibasak/listodo\nComments URL: https://news.ycombinator.com/item?id=50525250\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T00:59:32.040Z",
+    "published": "Mon, 16 Nov 2026 23:45:49 +0000"
+  },
+  {
+    "url": "https://lately.health/",
+    "title": "I'm a full-time NHS doctor. I built my clinic's platform with Claude Code",
+    "description": "Article URL: https://lately.health/\nComments URL: https://news.ycombinator.com/item?id=50525217\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T00:59:32.040Z",
+    "published": "Mon, 16 Nov 2026 23:42:42 +0000"
+  },
+  {
+    "url": "https://support.google.com/gemini/answer/13594961?hl=en",
+    "title": "New privacy rules for Google's Gemini Apps (updated November 16, 2026)",
+    "description": "Article URL: https://support.google.com/gemini/answer/13594961?hl=en\nComments URL: https://news.ycombinator.com/item?id=50525082\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T00:59:32.040Z",
+    "published": "Mon, 16 Nov 2026 23:28:41 +0000"
+  },
+  {
+    "url": "https://github.com/ilyaizen/CopySpeech",
+    "title": "CopySpeech – AI text-to-speech for your clipboard",
+    "description": "Article URL: https://github.com/ilyaizen/CopySpeech\nComments URL: https://news.ycombinator.com/item?id=50524875\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T00:59:32.040Z",
+    "published": "Mon, 16 Nov 2026 23:08:26 +0000"
+  },
+  {
+    "url": "https://www.frisson-labs.com/reyn",
+    "title": "We got AI to Wombo Combo – collaborative agents in Melee",
+    "description": "Article URL: https://www.frisson-labs.com/reyn\nComments URL: https://news.ycombinator.com/item?id=50524802\nPoints: 3\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T00:59:32.041Z",
+    "published": "Mon, 16 Nov 2026 23:03:19 +0000"
+  },
+  {
+    "url": "https://standardsupport.dev/",
+    "title": "Show HN: Standard Support – a convention for AI agents to file support tickets",
+    "description": "Article URL: https://standardsupport.dev/\nComments URL: https://news.ycombinator.com/item?id=50524768\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T00:59:32.041Z",
+    "published": "Mon, 16 Nov 2026 23:00:44 +0000"
+  },
+  {
+    "url": "https://datingprofile.app",
+    "title": "Show HN: AI Dating photos – can you tell they're AI?",
+    "description": "Article URL: https://datingprofile.app\nComments URL: https://news.ycombinator.com/item?id=50524598\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T00:59:32.041Z",
+    "published": "Mon, 16 Nov 2026 22:47:54 +0000"
+  },
+  {
+    "url": "https://github.com/formgong/dead-forms-study",
+    "title": "Show HN: We submitted 105 AI-built contact forms – 27 said \"sent\", sent nothing",
+    "description": "Article URL: https://github.com/formgong/dead-forms-study\nComments URL: https://news.ycombinator.com/item?id=50524591\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T00:59:32.041Z",
+    "published": "Mon, 16 Nov 2026 22:47:31 +0000"
+  },
+  {
+    "url": "https://steveblank.com/2026/09/25/ai-killed-the-mvp-long-live-the-iup/",
+    "title": "AI Killed the MVP – Long Live the IUP",
+    "description": "Article URL: https://steveblank.com/2026/09/25/ai-killed-the-mvp-long-live-the-iup/\nComments URL: https://news.ycombinator.com/item?id=50524588\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T00:59:32.041Z",
+    "published": "Mon, 16 Nov 2026 22:47:26 +0000"
+  },
+  {
+    "url": "https://www.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology",
+    "title": "BIS Issues Rule Addressing Remote Access to American AI",
+    "description": "Article URL: https://www.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology\nComments URL: https://news.ycombinator.com/item?id=50524466\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T00:59:32.041Z",
+    "published": "Mon, 16 Nov 2026 22:38:05 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=iUqU4Xe2D4E",
+    "title": "Claude vs. Dino [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=iUqU4Xe2D4E\nComments URL: https://news.ycombinator.com/item?id=50524457\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T00:59:32.041Z",
+    "published": "Mon, 16 Nov 2026 22:37:07 +0000"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+    "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+    "description": "Article URL: https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/\nComments URL: https://news.ycombinator.com/item?id=50524409\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T00:59:32.041Z",
+    "published": "Mon, 16 Nov 2026 22:33:01 +0000"
+  },
+  {
+    "url": "https://marlow.app",
+    "title": "Marlow – an AI app builder that deploys to your own server",
+    "description": "Article URL: https://marlow.app\nComments URL: https://news.ycombinator.com/item?id=50524251\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T00:59:32.041Z",
+    "published": "Mon, 16 Nov 2026 22:21:42 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/",
+    "title": "Google warns that fully automated cyberattacks have arrived and will get worse fast",
+    "description": "Google's Threat Intelligence Group has for the first time caught attackers finding and exploiting security vulnerabilities with no human involvement at all. An AI framework called \"exploit_agent,\" found on an exposed server, automatically compared code before and after patches, built exploits, and r",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-17T00:59:40.491Z",
+    "published": "Mon, 16 Nov 2026 19:42:13 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/",
+    "title": "OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice",
+    "description": "OpenAI physicist Nathaniel Craig used GPT-6 Astra to tackle a problem that had stumped particle physicists for over 25 years. The AI model took Craig's strategy for defining the full Standard Model on a computational lattice and turned it into a working proof. Craig says a lot of work remai",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-17T00:59:40.491Z",
+    "published": "Mon, 16 Nov 2026 19:19:56 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten/",
+    "title": "Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten",
+    "description": "Moonshot AI is done chasing coding benchmarks, it says. The Beijing startup is pivoting its Kimi language models toward biology, chemistry, and pharma research, arguing that science demands smarter AI than law, finance, or code.\nThe article Moonshot AI pivots Kimi models from coding to scie",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-17T00:59:40.491Z",
+    "published": "Mon, 16 Nov 2026 18:52:55 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2315195/gmail-security-settings-most-important-use/",
+    "title": "The important Gmail security settings you should be using",
+    "description": "If you haven&#39;t taken steps to secure your Gmail account recently, it&#39;s time to log in and make sure these settings are squared away.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-17T00:59:54.753Z",
+    "published": "Tue, 17 Nov 2026 00:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2315100/how-to-put-ipad-in-recovery-mode/",
+    "title": "How to put your iPad in recovery mode (with and without a home button)",
+    "description": "A failed update or too many wrong passcodes can leave your iPad unusable. Find out how recovery mode works and when it&#39;s worth trying as a last resort.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-17T00:59:54.753Z",
+    "published": "Mon, 16 Nov 2026 23:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2318613/united-airlines-is-experiencing-a-widespread-system-outage/",
+    "title": "United Airlines has fixed issue that caused 'widespread system outage'",
+    "description": "United is apparently experiencing a major outage just days after a nationwide ground stop halted thousands of flights.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-17T00:59:54.753Z",
+    "published": "Mon, 16 Nov 2026 22:38:43 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2318489/iphone-duo-gets-face-unlock-with-the-latest-ios-27-beta/",
+    "title": "The iPhone Duo gets face unlock with the latest iOS 27 beta.",
+    "description": "You won&#39;t need to wait for TouchID on your $2,000 foldable.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-17T00:59:54.753Z",
+    "published": "Mon, 16 Nov 2026 21:17:24 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2318268/california-sues-openai-after-hugging-face-rogue-hacking-incident/",
+    "title": "California sues OpenAI after that Hugging Face rogue hacking incident",
+    "description": "State AG Rob Bonta has accused the company of making AI agents \"without the safeguards and monitoring necessary to adequately protect\" users.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-17T00:59:54.753Z",
+    "published": "Mon, 16 Nov 2026 19:52:24 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2318186/google-maps-chatbot-can-find-appointments-and-call-to-book-them-for-you/",
+    "title": "Google Maps' chatbot can find appointments and call to book them for you",
+    "description": "The Ask Maps chatbot is also expanding to more than 30 additional countries across Europe.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-17T00:59:54.753Z",
+    "published": "Mon, 16 Nov 2026 19:17:00 +0000"
   }
 ]
