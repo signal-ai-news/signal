@@ -109767,5 +109767,105 @@
     "category": "news",
     "discovered": "2026-11-17T00:59:54.753Z",
     "published": "Mon, 16 Nov 2026 19:17:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+    "title": "Strengthening NATO and allied cyber defenses with AI",
+    "description": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-17T08:57:42.048Z",
+    "published": "Tue, 17 Nov 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-17T09:00:20.430Z"
+  },
+  {
+    "url": "https://openai.com/business/customer-stories/revolut",
+    "title": "How Revolut raises ambition without lowering the bar",
+    "description": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-17T08:57:42.048Z",
+    "published": "Mon, 16 Nov 2026 09:30:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-17T09:00:20.430Z"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/accenture-and-google-cloud-partner-to-expand-ai-education-across-1000-indian-institutions",
+    "title": "Accenture, Google Cloud to Expand AI Education Across 1,000 Indian Institutions",
+    "description": "The collaboration will introduce AI Labs, industry-aligned learning programmes, and certifications covering generative AI, agentic AI, and AI engineering.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-17T08:58:11.369Z",
+    "published": "Tue, 17 Nov 2026 08:46:30 GMT",
+    "processed": true,
+    "processedAt": "2026-11-17T09:00:20.430Z"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/openai-names-pragya-misra-to-head-india-and-south-asia-business-expansion",
+    "title": "OpenAI Picks Pragya Misra to Head India and South Asia Business Expansion",
+    "description": "Pragya Misra was OpenAI's first India hire and will focus on commercial partnerships and expanding access to the frontier AI company's technology across the",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-17T08:58:11.369Z",
+    "published": "Tue, 17 Nov 2026 08:32:17 GMT",
+    "processed": true,
+    "processedAt": "2026-11-17T09:00:20.430Z"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/karnataka-unveils-six-initiatives-to-strengthen-its-ai-and-semiconductor-ecosystem",
+    "title": "Karnataka Unveils 6 Initiatives to Strengthen AI and Semiconductor Ecosystem",
+    "description": "The state government highlighted six initiatives across AI, robotics, semiconductor research, and healthcare at the Bengaluru Tech Summit 2026.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-17T08:58:11.369Z",
+    "published": "Tue, 17 Nov 2026 08:21:33 GMT",
+    "processed": true,
+    "processedAt": "2026-11-17T09:00:20.430Z"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/indias-it-spending-to-reach-169-trillion-in-2027-gartner-forecast",
+    "title": "India's IT Spending to Reach ₹17 Lakh Cr in 2027: Gartner Forecast",
+    "description": "Data centre systems and cloud infrastructure will drive growth in technology investment, while AI adoption is expected to reshape demand for software and IT",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-17T08:58:11.369Z",
+    "published": "Tue, 17 Nov 2026 07:55:25 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/ai-tools-are-making-us-sound-the-same-at-workunless-youre-a-woman",
+    "title": "AI Tools are Making Us Sound the Same at Work—Unless You're a Woman",
+    "description": "A Johns Hopkins study finds differences in AI-generated professional writing across prompts with different linguistic features, prompting questions about how",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-17T08:58:11.369Z",
+    "published": "Tue, 17 Nov 2026 07:00:00 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/he-left-accenture-to-build-an-embedded-slmnow-it-ranks-among-the-worlds-best",
+    "title": "He Left Accenture to Build an Embedded SLM—Now It Ranks Among the World’s Best",
+    "description": "Anuj Gupta founded KiteFishAI to develop compact language and embedding models for enterprise applications, AI governance, and multimodal technologies.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-17T08:58:11.369Z",
+    "published": "Tue, 17 Nov 2026 04:13:32 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2318790/apple-adds-new-disk-controls-to-prevent-ai-agents-from-running-amok/",
+    "title": "Apple adds new disk controls to prevent AI agents from running amok",
+    "description": "After sounding an alarm about the issue, Apple is taking steps to limit Mac disk access to AI agents.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-17T08:58:13.852Z",
+    "published": "Tue, 17 Nov 2026 06:22:11 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2318452/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/",
+    "title": "Meta is testing Direct, a standalone messaging app for Instagram",
+    "description": "Meta&#39;s new DM app for Instagram is only available in Turkey and Thailand, for now.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-17T08:58:13.852Z",
+    "published": "Tue, 17 Nov 2026 01:00:00 +0000"
   }
 ]
