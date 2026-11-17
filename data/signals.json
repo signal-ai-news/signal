@@ -109867,5 +109867,555 @@
     "category": "news",
     "discovered": "2026-11-17T08:58:13.852Z",
     "published": "Tue, 17 Nov 2026 01:00:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "description": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-17T18:21:52.428Z",
+    "published": "Tue, 17 Nov 2026 17:45:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-17T18:24:31.597Z"
+  },
+  {
+    "url": "https://openai.com/index/introducing-openai-for-chile",
+    "title": "Introducing OpenAI for Chile",
+    "description": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-17T18:21:52.428Z",
+    "published": "Tue, 17 Nov 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-17T18:24:31.597Z"
+  },
+  {
+    "url": "https://openai.com/index/astra-law-6-2",
+    "title": "Astra for Law leads in legal intelligence",
+    "description": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-17T18:21:52.428Z",
+    "published": "Tue, 17 Nov 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-17T18:24:31.597Z"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+    "title": "Put Gemini to work for you",
+    "description": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-11-17T18:21:54.401Z",
+    "published": "Tue, 17 Nov 2026 17:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-17T18:24:31.597Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+    "title": "As decision model use skyrockets, is customization is the next frontier?",
+    "description": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-17T18:21:56.208Z",
+    "published": "Tue, 17 Nov 2026 18:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-17T18:24:31.597Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+    "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+    "description": "The company uses agentic AI to make supply chains faster and more reliable.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-17T18:21:56.208Z",
+    "published": "Tue, 17 Nov 2026 18:04:16 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+    "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+    "description": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-17T18:21:56.208Z",
+    "published": "Tue, 17 Nov 2026 17:32:25 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+    "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+    "description": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-17T18:21:56.208Z",
+    "published": "Tue, 17 Nov 2026 17:20:41 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+    "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+    "description": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-17T18:21:56.208Z",
+    "published": "Tue, 17 Nov 2026 16:32:55 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+    "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+    "description": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-17T18:21:56.208Z",
+    "published": "Tue, 17 Nov 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+    "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+    "description": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-17T18:21:56.208Z",
+    "published": "Tue, 17 Nov 2026 14:50:58 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+    "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+    "description": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-17T18:21:56.208Z",
+    "published": "Tue, 17 Nov 2026 14:26:46 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
+    "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security",
+    "description": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-17T18:21:56.208Z",
+    "published": "Tue, 17 Nov 2026 14:05:30 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+    "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+    "description": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-17T18:21:56.208Z",
+    "published": "Tue, 17 Nov 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+    "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+    "description": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-11-17T18:21:56.757Z",
+    "published": "Tue, 17 Nov 2026 14:00:29 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
+    "title": "Hydropower hit record lows in the US Southwest this summer",
+    "description": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely on dams to hold back water, creating reservoirs. The water can be released thro",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-17T18:21:57.379Z",
+    "published": "Tue, 17 Nov 2026 17:52:10 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
+    "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, includ",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-17T18:21:57.379Z",
+    "published": "Tue, 17 Nov 2026 13:10:00 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/scribe-v3-live-medical",
+    "title": "Scribe v3 Live Medical helps conversational agents get clinical details right",
+    "description": "Scribe v3 Live Medical helps agents catch drug names and clinical terms on live calls, with the lowest WER of the medical models we tested.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-17T18:21:59.323Z",
+    "published": "Tue, 17 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://artificialanalysis.ai/models/gpt-6-2-astra",
+    "title": "Artificial Analaysis Benchmarks for GPT-6.2 Astra",
+    "description": "Article URL: https://artificialanalysis.ai/models/gpt-6-2-astra\nComments URL: https://news.ycombinator.com/item?id=50535783\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T18:22:03.038Z",
+    "published": "Tue, 17 Nov 2026 18:18:47 +0000"
+  },
+  {
+    "url": "https://newsletter.posthog.com/p/decision-models",
+    "title": "Not Everything Needs an LLM",
+    "description": "Article URL: https://newsletter.posthog.com/p/decision-models\nComments URL: https://news.ycombinator.com/item?id=50535740\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T18:22:03.038Z",
+    "published": "Tue, 17 Nov 2026 18:16:18 +0000"
+  },
+  {
+    "url": "https://github.com/rinkesh2010rpp/taster-ai",
+    "title": "Show HN: Taster – Plain-English rules your AI agent can't forget or ignore",
+    "description": "I built it after rules in my own autonomous agent’s prompt kept getting lost or talked away. You can use it with Claude Code, or with agents built on LangGraph.\n\nComments URL: https://news.ycombinator.com/item?id=50535730\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T18:22:03.038Z",
+    "published": "Tue, 17 Nov 2026 18:15:54 +0000"
+  },
+  {
+    "url": "https://www.reuters.com/legal/litigation/ai-advances-coincide-with-sharp-rise-cyber-incidents-marsh-data-shows-2026-11-17/",
+    "title": "AI advances coincide with sharp rise in cyber incidents, Marsh data shows",
+    "description": "Article URL: https://www.reuters.com/legal/litigation/ai-advances-coincide-with-sharp-rise-cyber-incidents-marsh-data-shows-2026-11-17/\nComments URL: https://news.ycombinator.com/item?id=50535707\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T18:22:03.038Z",
+    "published": "Tue, 17 Nov 2026 18:14:30 +0000"
+  },
+  {
+    "url": "https://openrouter.ai/openai/gpt-6.2-astra",
+    "title": "GPT 6.2 Astra Priced $8/$40 per 1M Input/Output Token",
+    "description": "Article URL: https://openrouter.ai/openai/gpt-6.2-astra\nComments URL: https://news.ycombinator.com/item?id=50535688\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T18:22:03.038Z",
+    "published": "Tue, 17 Nov 2026 18:13:31 +0000"
+  },
+  {
+    "url": "https://lumber-jack.koenvangilst.nl/",
+    "title": "Show HN: Lumberjack – a browser game about an engineer who lost his job to AI",
+    "description": "Jack lost his job as a software engineer to AI. To provide for his young\nfamily he takes a job as a lumberjack in Finland. The pay is good, the work\nengaging. It's good to be out in nature and work with his hands. He didn't\nask what the land is for. With two kids, you don't ask.A fun automation gam",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T18:22:03.038Z",
+    "published": "Tue, 17 Nov 2026 18:10:56 +0000"
+  },
+  {
+    "url": "https://www.lancedb.com/blog/lancedb-series-b-funding",
+    "title": "LanceDB Raises $57.5M as AI Research Outgrows the Modern Data Stack",
+    "description": "Article URL: https://www.lancedb.com/blog/lancedb-series-b-funding\nComments URL: https://news.ycombinator.com/item?id=50535645\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T18:22:03.038Z",
+    "published": "Tue, 17 Nov 2026 18:10:52 +0000"
+  },
+  {
+    "url": "https://www.abdulrahimmirani.com/research/vla-weight-editing",
+    "title": "I had an LLM edit a robot policy's weights directly, no fine-tuning",
+    "description": "Article URL: https://www.abdulrahimmirani.com/research/vla-weight-editing\nComments URL: https://news.ycombinator.com/item?id=50535609\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T18:22:03.038Z",
+    "published": "Tue, 17 Nov 2026 18:08:47 +0000"
+  },
+  {
+    "url": "https://github.com/keelwright-hq/synapse",
+    "title": "Synapse, a local code graph for AI IDEs, benchmarked against grep",
+    "description": "Article URL: https://github.com/keelwright-hq/synapse\nComments URL: https://news.ycombinator.com/item?id=50535576\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T18:22:03.038Z",
+    "published": "Tue, 17 Nov 2026 18:07:24 +0000"
+  },
+  {
+    "url": "https://developers.googleblog.com/gemini-hydrogen-for-robotics/",
+    "title": "Gemini 4 Hydrogen: a faster model for general purpose robotics",
+    "description": "Article URL: https://developers.googleblog.com/gemini-hydrogen-for-robotics/\nComments URL: https://news.ycombinator.com/item?id=50535487\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T18:22:03.038Z",
+    "published": "Tue, 17 Nov 2026 18:02:37 +0000"
+  },
+  {
+    "url": "https://claude.ai/artifact/7cCNqKnoFSoib9SuNLB3vk",
+    "title": "HTML-in-Canvas is now in Claude",
+    "description": "Article URL: https://claude.ai/artifact/7cCNqKnoFSoib9SuNLB3vk\nComments URL: https://news.ycombinator.com/item?id=50535316\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T18:22:03.038Z",
+    "published": "Tue, 17 Nov 2026 17:51:54 +0000"
+  },
+  {
+    "url": "https://deploymentsafety.openai.com/gpt-6-2-astra-sol",
+    "title": "GPT-6.2 Astra and Sol System Card",
+    "description": "Article URL: https://deploymentsafety.openai.com/gpt-6-2-astra-sol\nComments URL: https://news.ycombinator.com/item?id=50535280\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T18:22:03.038Z",
+    "published": "Tue, 17 Nov 2026 17:49:43 +0000"
+  },
+  {
+    "url": "https://twitter.com/cheatyyyy/status/2122748218320785567",
+    "title": "GPT 6.2 Astra and Sol are now live",
+    "description": "Article URL: https://twitter.com/cheatyyyy/status/2122748218320785567\nComments URL: https://news.ycombinator.com/item?id=50535263\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T18:22:03.038Z",
+    "published": "Tue, 17 Nov 2026 17:48:28 +0000"
+  },
+  {
+    "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+    "title": "GPT‑6.2 Astra and Sol",
+    "description": "Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/\nComments URL: https://news.ycombinator.com/item?id=50535230\nPoints: 291\n# Comments: 120",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T18:22:03.038Z",
+    "published": "Tue, 17 Nov 2026 17:46:43 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50535157",
+    "title": "Show HN: Faros Desktop, a local app to see your AI traces and extend your usage",
+    "description": "Hi HN, I’m Sachin, and I’ve spent the last couple of months working on Faros Desktop, a Mac app that visualizes how you use your local AI coding tools into one place and then makes recommendations to make your subscription spend go further.As agents have replaced hands-on-keyboard work, the team an",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T18:22:03.038Z",
+    "published": "Tue, 17 Nov 2026 17:42:22 +0000"
+  },
+  {
+    "url": "https://github.com/fujita-y/digamma",
+    "title": "Digamma: A lightweight, JIT compiled Scheme for AI workflows",
+    "description": "Article URL: https://github.com/fujita-y/digamma\nComments URL: https://news.ycombinator.com/item?id=50535147\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T18:22:03.038Z",
+    "published": "Tue, 17 Nov 2026 17:41:53 +0000"
+  },
+  {
+    "url": "https://modelrefs.com/",
+    "title": "Show HN: ModelRefs – AI model data where every number must cite a source",
+    "description": "Article URL: https://modelrefs.com/\nComments URL: https://news.ycombinator.com/item?id=50535094\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T18:22:03.038Z",
+    "published": "Tue, 17 Nov 2026 17:39:02 +0000"
+  },
+  {
+    "url": "https://www.ietf.org/archive/id/draft-ganesan-agent-authenticator-00.txt",
+    "title": "Hardware-Bound Authentication for AI Agents",
+    "description": "Article URL: https://www.ietf.org/archive/id/draft-ganesan-agent-authenticator-00.txt\nComments URL: https://news.ycombinator.com/item?id=50534866\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T18:22:03.038Z",
+    "published": "Tue, 17 Nov 2026 17:24:59 +0000"
+  },
+  {
+    "url": "https://drawmode.ai/",
+    "title": "Drawmode for AI Agents",
+    "description": "Article URL: https://drawmode.ai/\nComments URL: https://news.ycombinator.com/item?id=50534835\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-17T18:22:03.038Z",
+    "published": "Tue, 17 Nov 2026 17:23:46 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-improve-coding-agent-efficiency-by-30-with-an-orchestrator/",
+    "title": "How to Improve Coding Agent Efficiency by 30% with an Orchestrator",
+    "description": "Stop hunting through sessions for pending questions: a herder agent surfaces them by priority, kept current by webhooks or cheap Haiku polling.\nThe post How to Improve Coding Agent Efficiency by 30% with an Orchestrator appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-17T18:22:09.261Z",
+    "published": "Tue, 17 Nov 2026 16:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-govern-coding-agent-skills-across-repos-with-plugins/",
+    "title": "How to Govern Coding Agent Skills Across Repos With Plugins",
+    "description": "Package skills, rules, hooks, and MCP tool configs as versioned plugins, then distribute them through a marketplace, shown with Claude Code and AWS.\nThe post How to Govern Coding Agent Skills Across Repos With Plugins appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-17T18:22:09.261Z",
+    "published": "Tue, 17 Nov 2026 15:00:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/google-adk-agents-that-pause-resume-and-wait-hours-for-a-human/",
+    "title": "Google ADK Agents That Pause, Resume, and Wait Hours for a Human",
+    "description": "A synchronous call kept an RSS agent's connection open for 83 seconds; webhooks and 202 receipts free the client while the agent works.\nThe post Google ADK Agents That Pause, Resume, and Wait Hours for a Human appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-17T18:22:09.261Z",
+    "published": "Tue, 17 Nov 2026 13:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-design-mcp-servers-that-leave-orchestration-to-the-host/",
+    "title": "How to Design MCP Servers That Leave Orchestration to the Host",
+    "description": "A Python SDK v2 catalogue server with two narrow tools, one resource, and one prompt shows how to keep planning, workflow state, and authorisation host-side.\nThe post How to Design MCP Servers That Leave Orchestration to the Host appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-17T18:22:09.261Z",
+    "published": "Tue, 17 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/ai-agents-are-starting-to-fill-out-medical-forms-and-file-insurance-requests-in-place-of-human-staff/",
+    "title": "AI agents are starting to fill out medical forms and file insurance requests in place of human staff",
+    "description": "OpenAI wants GPT-6 Astra and GPT-6 Luna to automate administrative tasks in US healthcare through computer-use agents that operate existing clinic software and insurance portals the way a human would. Luna handles tasks like prior authorizations for about 8.5 cents each. Companies including",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-17T18:22:11.169Z",
+    "published": "Tue, 17 Nov 2026 16:55:47 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/the-us-wants-to-block-china-from-renting-ai-power-abroad-but-china-already-built-a-parallel-supply-chain-from-us-ai-output/",
+    "title": "The US wants to block China from renting AI power abroad but China already built a parallel supply chain from US AI output",
+    "description": "The US is tightening its chip export controls. Data centers in third countries like Singapore and Malaysia will soon need a US license to buy Nvidia chips, closing the loophole that let Chinese firms rent cloud compute abroad. A Reuters investigation also reveals how China offsets its hardw",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-17T18:22:11.169Z",
+    "published": "Tue, 17 Nov 2026 16:47:21 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/",
+    "title": "OpenAI opens its cybersecurity tool Daybreak to NATO and European governments",
+    "description": "OpenAI is opening its cybersecurity tool Daybreak to NATO and several European governments, including Germany, France, and Poland. The EU's cybersecurity agency ENISA has already used it to find real vulnerabilities in EU software. The NATO Communications and Information Agency (NCIA) says",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-17T18:22:11.169Z",
+    "published": "Tue, 17 Nov 2026 15:02:03 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/reports-of-ai-generated-child-sexual-abuse-material-have-surged-more-than-8400-percent-in-two-years/",
+    "title": "Reports of AI-generated child sexual abuse material have surged more than 8,400 percent in two years",
+    "description": "Edinburgh's Childlight Institute reports a more than 8,400 percent increase in AI-generated child sexual abuse material over two years, from about 4,700 reports in 2023 to over 400,000 in 2025. Abusers are using tools like nudify apps for blackmail. Childlight CEO Paul Stanfield wants gover",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-17T18:22:11.169Z",
+    "published": "Tue, 17 Nov 2026 14:59:50 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/isomorphic-labs-raises-5-billion-in-its-second-mega-round-within-six-months/",
+    "title": "Isomorphic Labs raises $5 billion in its second mega-round within six months",
+    "description": "Isomorphic Labs has raised $5 billion, just six months after a $2.1 billion round. Alphabet's AI drug discovery company, led by Demis Hassabis, plans to use the funding to push its drug pipeline toward clinical trials. The company has no approved drugs yet.\nThe article Isomorphic Labs raise",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-17T18:22:11.169Z",
+    "published": "Tue, 17 Nov 2026 14:57:02 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/californias-attorney-general-sues-openai-over-rogue-ai-models-that-attacked-hugging-face/",
+    "title": "California's attorney general sues OpenAI over rogue AI models that attacked Hugging Face",
+    "description": "California Attorney General Rob Bonta is suing OpenAI over a cyberattack that the company's out-of-control AI models launched against AI platform Hugging Face in July.\nThe article California&#039;s attorney general sues OpenAI over rogue AI models that attacked Hugging Face appeared first o",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-17T18:22:11.169Z",
+    "published": "Tue, 17 Nov 2026 14:54:10 +0000"
+  },
+  {
+    "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+    "title": "Building the Agent Host Protocol for sessions that continue across devices",
+    "description": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud.\nThe post Building the Agent Host Protocol for sessions that continue across devices appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-11-17T18:22:15.830Z",
+    "published": "Tue, 17 Nov 2026 18:20:40 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+    "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+    "description": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-17T18:22:17.157Z",
+    "published": "Tue, 17 Nov 2026 11:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+    "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+    "description": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-17T18:22:17.157Z",
+    "published": "Tue, 17 Nov 2026 10:47:45 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/17/nvidia-nvke-nvkr-managed-kubernetes-gpu/",
+    "title": "NVIDIA Open-Sources NVKE and NVKR for Managed Kubernetes on GPU Infrastructure",
+    "description": "NVIDIA has open-sourced NVIDIA Kubernetes Engine (NVKE) and NVIDIA Kubernetes Recipes (NVKR) under Apache 2.0. Together they let AI factories run a managed Kubernetes service on their own bare-metal GPU servers. Both are in public preview.\nThe post NVIDIA Open-Sources NVKE and NVKR for Managed Kuber",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-17T18:22:19.661Z",
+    "published": "Tue, 17 Nov 2026 10:37:11 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/17/sarvam-token-factory-india-inference-platform/",
+    "title": "Sarvam Launches Sarvam Token Factory: Bringing India-Hosted Inference to 8 Open Models",
+    "description": "Sarvam Token Factory is now open to everyone. It serves Sarvam 105B, GLM 5.3, DeepSeek V4.1 Flash, Kimi K3.1 Pro and Gemma 4 31B from GPU clusters in India through one OpenAI-compatible API.\nThe post Sarvam Launches Sarvam Token Factory: Bringing India-Hosted Inference to 8 Open Models appeared firs",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-17T18:22:19.661Z",
+    "published": "Tue, 17 Nov 2026 09:51:18 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/17/liquid-ai-d1-2-omnimodal-decision-models/",
+    "title": "Liquid AI Releases d1.2 and d1.2-ultra: Omnimodal Decision Models That Top the AA Decision Index",
+    "description": "Liquid AI released d1.2 and d1.2-ultra, decision models that read text, images and audio and return calibrated probabilities with zero output tokens. d1.2-ultra scores 75 on the Artificial Analysis Decision Index v2.1.\nThe post Liquid AI Releases d1.2 and d1.2-ultra: Omnimodal Decision Models That T",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-17T18:22:19.661Z",
+    "published": "Tue, 17 Nov 2026 09:20:57 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/hcltech-partners-with-cohere-to-target-sovereign-ai-markets",
+    "title": "HCLTech Partners With Transformer Co-Author-Led Cohere to Target Sovereign AI Markets",
+    "description": "HCLTech and Cohere will initially focus on insurance, financial services, and manufacturing, offering solutions designed to meet data residency and regulatory",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-17T18:22:22.095Z",
+    "published": "Tue, 17 Nov 2026 12:17:02 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/dreamteam-raises-53-mn-to-build-ai-native-crm-with-ai-teammates",
+    "title": "Dreamteam Raises $53 Mn To Build AI-Native CRM With AI Teammates",
+    "description": "The company is building an AI-native customer relationship management platform with four AI teammates designed to automate sales operations and maintain shared",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-17T18:22:22.095Z",
+    "published": "Tue, 17 Nov 2026 11:00:53 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2319382/jensen-huang-said-hed-be-honored-to-return-as-nvidia-ceo-because-of-course-he-would/",
+    "title": "Jensen Huang said he'd be 'honored' to return as NVIDIA CEO, because of course he would",
+    "description": "Huang is set to testify before congressional committees on December 1.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-17T18:22:24.383Z",
+    "published": "Tue, 17 Nov 2026 17:29:48 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2315260/switch-password-managers-without-losing-information/",
+    "title": "How to switch between password managers without losing your information",
+    "description": "There&#39;s no need to fear moving from one password manager to another with failsafes in place to make the transfer easy, efficient, and secure.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-17T18:22:24.383Z",
+    "published": "Tue, 17 Nov 2026 17:15:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2319280/google-pixel-tag-review/",
+    "title": "Google Pixel Tag review: Simple but effective",
+    "description": "Google's take on Apple's AirTag is a basic but still valuable tool for Android users.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-17T18:22:24.383Z",
+    "published": "Tue, 17 Nov 2026 17:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2319271/snapchat-has-finally-made-it-easy-to-check-an-accounts-mutual-friends/",
+    "title": "Snapchat has finally made it easy to check an account's mutual friends",
+    "description": "The new feature is available in the US, Australia, France and Sweden.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-17T18:22:24.383Z",
+    "published": "Tue, 17 Nov 2026 16:38:10 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2315114/how-to-clean-up-icloud-storage-free-space/",
+    "title": "How to clean up your iCloud storage to free up space",
+    "description": "iCloud full again? Find out what&#39;s eating your storage and how to reclaim space on your iPhone or Mac before you pay Apple for a bigger plan.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-17T18:22:24.383Z",
+    "published": "Tue, 17 Nov 2026 13:15:00 +0000"
   }
 ]
