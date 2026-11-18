@@ -110598,5 +110598,258 @@
     "category": "news",
     "discovered": "2026-11-18T01:12:27.353Z",
     "published": "Tue, 17 Nov 2026 22:21:27 +0000"
+  },
+  {
+    "url": "https://collegeessaygrader.app/",
+    "title": "Show HN: College Essay Grader – free AI score for college essays\"",
+    "description": "College Essay Grader: Free AI Feedback for Common App Essays\n\nComments URL: https://news.ycombinator.com/item?id=50543733\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-18T08:59:49.345Z",
+    "published": "Wed, 18 Nov 2026 08:58:46 +0000",
+    "processed": true,
+    "processedAt": "2026-11-18T09:02:17.362Z"
+  },
+  {
+    "url": "https://omnimem.org/",
+    "title": "I gave Claude Code a memory and it used 26% fewer tokens",
+    "description": "Article URL: https://omnimem.org/\nComments URL: https://news.ycombinator.com/item?id=50543690\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-18T08:59:49.345Z",
+    "published": "Wed, 18 Nov 2026 08:54:45 +0000",
+    "processed": true,
+    "processedAt": "2026-11-18T09:02:17.362Z"
+  },
+  {
+    "url": "https://docspring.com/blog/posts/standard-support-ai-agent-tickets/",
+    "title": "Standard Support: How AI agents ask for support",
+    "description": "Article URL: https://docspring.com/blog/posts/standard-support-ai-agent-tickets/\nComments URL: https://news.ycombinator.com/item?id=50543588\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-18T08:59:49.345Z",
+    "published": "Wed, 18 Nov 2026 08:42:50 +0000",
+    "processed": true,
+    "processedAt": "2026-11-18T09:02:17.362Z"
+  },
+  {
+    "url": "https://openwebui.com/open-terminal",
+    "title": "Open WebUI – Open Terminal: A Computer for Your AI Agents",
+    "description": "Article URL: https://openwebui.com/open-terminal\nComments URL: https://news.ycombinator.com/item?id=50543563\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-18T08:59:49.345Z",
+    "published": "Wed, 18 Nov 2026 08:40:57 +0000",
+    "processed": true,
+    "processedAt": "2026-11-18T09:02:17.362Z"
+  },
+  {
+    "url": "https://rpep.dev/posts/physics-ai-the-illusion-of-ground-truth/",
+    "title": "Physics AI: The illusion of ground truth",
+    "description": "Article URL: https://rpep.dev/posts/physics-ai-the-illusion-of-ground-truth/\nComments URL: https://news.ycombinator.com/item?id=50543516\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-18T08:59:49.345Z",
+    "published": "Wed, 18 Nov 2026 08:34:43 +0000",
+    "processed": true,
+    "processedAt": "2026-11-18T09:02:17.362Z"
+  },
+  {
+    "url": "https://www.lettercamp.com/blog/ai-writing-in-launch-hn-posts",
+    "title": "Human-written Launch HN posts get more upvotes than AI-generated ones",
+    "description": "Article URL: https://www.lettercamp.com/blog/ai-writing-in-launch-hn-posts\nComments URL: https://news.ycombinator.com/item?id=50543224\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-18T08:59:49.345Z",
+    "published": "Wed, 18 Nov 2026 08:04:19 +0000"
+  },
+  {
+    "url": "https://sigvard.ai",
+    "title": "Automated LLM Fine-Tuning: GPU Selection, Dataset Analysis and Feedback",
+    "description": "Article URL: https://sigvard.ai\nComments URL: https://news.ycombinator.com/item?id=50543212\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-18T08:59:49.345Z",
+    "published": "Wed, 18 Nov 2026 08:03:05 +0000"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
+    "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
+    "description": "Article URL: https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/\nComments URL: https://news.ycombinator.com/item?id=50543109\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-18T08:59:49.345Z",
+    "published": "Wed, 18 Nov 2026 07:52:01 +0000"
+  },
+  {
+    "url": "https://benchaudit.org/",
+    "title": "BenchAudit – Auditing LLM benchmarks for leaks, data reuse, and harness gaps",
+    "description": "Article URL: https://benchaudit.org/\nComments URL: https://news.ycombinator.com/item?id=50543033\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-18T08:59:49.345Z",
+    "published": "Wed, 18 Nov 2026 07:41:41 +0000"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/south-korea-proposes-75-000-bounties-to-catch-ai-exam-cheats",
+    "title": "South Korea Offers $75,000 Bounties to Catch AI Exam Cheats",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-11-18/south-korea-proposes-75-000-bounties-to-catch-ai-exam-cheats\nComments URL: https://news.ycombinator.com/item?id=50542854\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-18T08:59:49.345Z",
+    "published": "Wed, 18 Nov 2026 07:09:10 +0000"
+  },
+  {
+    "url": "https://twitter.com/MGately_au/status/2122780345947017287",
+    "title": "We built Australia's own AI model, and today it's open to the world",
+    "description": "Article URL: https://twitter.com/MGately_au/status/2122780345947017287\nComments URL: https://news.ycombinator.com/item?id=50542843\nPoints: 4\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-18T08:59:49.345Z",
+    "published": "Wed, 18 Nov 2026 07:08:02 +0000"
+  },
+  {
+    "url": "https://murer.ai",
+    "title": "Show HN: Murer AI – Single Platform Multiple Models",
+    "description": "Article URL: https://murer.ai\nComments URL: https://news.ycombinator.com/item?id=50542731\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-18T08:59:49.345Z",
+    "published": "Wed, 18 Nov 2026 06:51:14 +0000"
+  },
+  {
+    "url": "https://nicolasbouliane.com/blog/death-by-ai",
+    "title": "AI is killing All About Berlin",
+    "description": "Article URL: https://nicolasbouliane.com/blog/death-by-ai\nComments URL: https://news.ycombinator.com/item?id=50542705\nPoints: 252\n# Comments: 215",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-18T08:59:49.345Z",
+    "published": "Wed, 18 Nov 2026 06:47:26 +0000"
+  },
+  {
+    "url": "https://www.ft.com/content/5168b3e9-75d0-4be0-9ccd-d327d6b16c05",
+    "title": "AI asked 'better questions' than KPMG accountants in pilot audit",
+    "description": "Article URL: https://www.ft.com/content/5168b3e9-75d0-4be0-9ccd-d327d6b16c05\nComments URL: https://news.ycombinator.com/item?id=50542658\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-18T08:59:49.345Z",
+    "published": "Wed, 18 Nov 2026 06:40:55 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50542654",
+    "title": "Ask HN: Should we shut down current AI strategy? Vent Your Heart Out",
+    "description": "I don't know, maybe it's just me.Does it feel to you like we're boiling the oceans in a desperate attempt to build something \"smarter than human?\"Do you notice that the idea that \"AI will cure cancer\" is predicated on the belief that we've found the data that will lead to a cure and us humans just",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-18T08:59:49.345Z",
+    "published": "Wed, 18 Nov 2026 06:40:16 +0000"
+  },
+  {
+    "url": "https://github.com/sybil-solutions/inference-optimisation-skil",
+    "title": "An agent skill for hill-climbing the speed of a local LLM server",
+    "description": "Article URL: https://github.com/sybil-solutions/inference-optimisation-skil\nComments URL: https://news.ycombinator.com/item?id=50542464\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-18T08:59:49.345Z",
+    "published": "Wed, 18 Nov 2026 06:11:23 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=e_m99aR7_3Q",
+    "title": "Optimizing AI Agents: Prompts vs. Weights (GEPA, GRPO) – Stanford CS329Z [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=e_m99aR7_3Q\nComments URL: https://news.ycombinator.com/item?id=50542343\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-18T08:59:49.345Z",
+    "published": "Wed, 18 Nov 2026 05:49:48 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2607.06681",
+    "title": "Harvard Study: Workers switch apps 900 times a day. After AI, switching drops",
+    "description": "Article URL: https://arxiv.org/abs/2607.06681\nComments URL: https://news.ycombinator.com/item?id=50542329\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-18T08:59:49.345Z",
+    "published": "Wed, 18 Nov 2026 05:46:40 +0000"
+  },
+  {
+    "url": "https://zenodo.org/records/23778866",
+    "title": "Purpose-Governed Agents: who reviews how an AI agent describes its own proposals",
+    "description": "Article URL: https://zenodo.org/records/23778866\nComments URL: https://news.ycombinator.com/item?id=50542112\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-18T08:59:49.345Z",
+    "published": "Wed, 18 Nov 2026 05:06:36 +0000"
+  },
+  {
+    "url": "https://lore.kernel.org/lkml/df1c1fa031ba7e66486348dc37d1a7be53c18e43.1794894953.git.wqu@suse.com/",
+    "title": "Btrfs Seeks to Deal with AI and Newbies Without Common Sense",
+    "description": "Article URL: https://lore.kernel.org/lkml/df1c1fa031ba7e66486348dc37d1a7be53c18e43.1794894953.git.wqu@suse.com/\nComments URL: https://news.ycombinator.com/item?id=50542090\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-18T08:59:49.345Z",
+    "published": "Wed, 18 Nov 2026 05:03:01 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
+    "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
+    "description": "Young people who have online-only friends or use AI as a social companion face higher odds of loneliness than those who do not, a new Gallup report reveals.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-18T09:00:03.564Z",
+    "published": "Wed, 18 Nov 2026 05:01:00 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/",
+    "title": "SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode",
+    "description": "SID AI released SID-2, an agentic search model trained with reinforcement learning. A single agent reaches 0.585 NDCG in 3.11 seconds, and a 12-agent SID-2 Swarm scores 0.720 NDCG, above GPT-6 Astra on SID’s benchmark.\nThe post SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode ap",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-18T09:00:06.045Z",
+    "published": "Wed, 18 Nov 2026 07:10:53 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/",
+    "title": "Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript",
+    "description": "Anthropic has added Code Mode to Claude Code v2.1.323. The experimental feature lets Claude write JavaScript that chains Bash, Read and Edit calls in 1 step, and keep talking while long commands run.\nThe post Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript appeare",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-18T09:00:06.045Z",
+    "published": "Wed, 18 Nov 2026 06:53:28 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/sarvams-token-factory-sparks-indias-sovereign-ai-debate-again",
+    "title": "Sarvam’s Token Factory Sparks India’s Sovereign AI Debate, Again",
+    "description": "Sarvam AI’s latest product launch was supposed to be a milestone for India's AI infrastructure ambitions. Instead, it has reopened a more uncomfortable",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-18T09:00:08.546Z",
+    "published": "Wed, 18 Nov 2026 07:10:00 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/neysa-deploys-amd-gpu-cluster-in-mumbai-for-ai-training-and-inference",
+    "title": "Neysa Deploys AMD GPU Cluster in Mumbai for AI Training and Inference",
+    "description": "The new deployment brings together AMD Instinct MI350X GPUs, AMD EPYC processors as well as the AMD ROCm software ecosystem.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-18T09:00:08.546Z",
+    "published": "Wed, 18 Nov 2026 06:19:49 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/nvidia-revenue-grows-103-company-will-not-reinstate-huang-as-ceo",
+    "title": "NVIDIA Revenue Grows 103%, Rules Out Huang's Return as CEO",
+    "description": "The company expects fourth-quarter revenue of $130 billion, plus or minus 3%. It also raised its fiscal 2028 revenue growth projection to approximately 75%, up",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-18T09:00:08.546Z",
+    "published": "Wed, 18 Nov 2026 05:23:10 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2320163/youtube-will-start-boosting-public-view-counts-when-you-watch-on-a-tv/",
+    "title": "YouTube will start boosting public view counts when you watch on a TV",
+    "description": "YouTube view counts are about to go up (again) thanks to a new metric.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-18T09:00:10.887Z",
+    "published": "Wed, 18 Nov 2026 06:08:00 +0000"
   }
 ]
