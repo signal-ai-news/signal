@@ -111826,5 +111826,330 @@
     "category": "ml",
     "discovered": "2026-11-19T07:48:12.059Z",
     "published": "Thu, 19 Nov 2026 04:43:05 GMT"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+    "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+    "description": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-11-19T17:14:30.541Z",
+    "published": "Thu, 19 Nov 2026 17:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-19T17:17:03.343Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+    "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+    "description": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-19T17:14:32.278Z",
+    "published": "Thu, 19 Nov 2026 17:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-19T17:17:03.343Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+    "title": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
+    "description": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-19T17:14:32.278Z",
+    "published": "Thu, 19 Nov 2026 16:59:23 +0000",
+    "processed": true,
+    "processedAt": "2026-11-19T17:17:03.343Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+    "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+    "description": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-19T17:14:32.278Z",
+    "published": "Thu, 19 Nov 2026 16:19:41 +0000",
+    "processed": true,
+    "processedAt": "2026-11-19T17:17:03.343Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+    "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+    "description": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-19T17:14:32.278Z",
+    "published": "Thu, 19 Nov 2026 14:54:39 +0000",
+    "processed": true,
+    "processedAt": "2026-11-19T17:17:03.343Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+    "title": "Superhuman pushes its Go assistant everywhere",
+    "description": "Superhuman is making Go its central agent and making it available in Docs and Mail",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-19T17:14:32.278Z",
+    "published": "Thu, 19 Nov 2026 14:00:00 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+    "title": "How to tell a cyberattack from a plain old outage",
+    "description": "When everything goes down, don’t assume it’s a cyberattack.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-11-19T17:14:32.916Z",
+    "published": "Thu, 19 Nov 2026 11:13:01 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+    "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human liver alive on life su",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-19T17:14:33.475Z",
+    "published": "Thu, 19 Nov 2026 13:10:00 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+    "title": "A human liver has been kept alive outside the body for a record seven weeks",
+    "description": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-19T17:14:33.475Z",
+    "published": "Thu, 19 Nov 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+    "title": "What a billion-dollar deal says about the US battery market",
+    "description": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batter",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-19T17:14:33.475Z",
+    "published": "Thu, 19 Nov 2026 11:00:00 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/the-095-expectile-is-not-the-95th-percentile/",
+    "title": "The 0.95 Expectile Is Not the 95th Percentile",
+    "description": "Exact uniform math and 100 synthetic Python runs show when to target 95% coverage and when asymmetric squared-error costs call for the expectile.\nThe post The 0.95 Expectile Is Not the 95th Percentile appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-19T17:14:42.895Z",
+    "published": "Thu, 19 Nov 2026 16:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-run-claude-code-and-other-coding-agents-in-the-cloud-247/",
+    "title": "How to Run Claude Code and Other Coding Agents in the Cloud 24/7",
+    "description": "Two setups: flip Claude Code's cloud environment on for the quick path, or rent a server for full control.\nThe post How to Run Claude Code and Other Coding Agents in the Cloud 24/7 appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-19T17:14:42.895Z",
+    "published": "Thu, 19 Nov 2026 15:00:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-oversee-ai-agents-at-scale-with-a-three-tier-architecture/",
+    "title": "How to Oversee AI Agents at Scale With a Three-Tier Architecture",
+    "description": "Separate runtime oversight from human review: an autonomous supervisor handles reversible fixes, while humans approve high-impact changes.\nThe post How to Oversee AI Agents at Scale With a Three-Tier Architecture appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-19T17:14:42.895Z",
+    "published": "Thu, 19 Nov 2026 13:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/analytics-engineerings-missing-layer-is-business-communication/",
+    "title": "Analytics Engineering's Missing Layer Is Business Communication",
+    "description": "Why grains, joins, filters, and tests need business translations, and how a four-step framework keeps stakeholders from misreading metric changes.\nThe post Analytics Engineering's Missing Layer Is Business Communication appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-19T17:14:42.895Z",
+    "published": "Thu, 19 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/",
+    "title": "Chinese tech firms face a double hit as chip shipments stop and overseas cloud access disappears",
+    "description": "Stricter US export controls on AI chips are hitting fast. China's Moonshot AI walked away from a $150 million deal in Indonesia, while TSMC and Samsung stopped shipping to Chinese customers. A New York Times investigation found that Alibaba had routed Nvidia chips to Chinese military resear",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-19T17:14:44.645Z",
+    "published": "Thu, 19 Nov 2026 17:02:41 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropics-81-3-billion-ipo-shatters-spacexs-record-as-rising-rates-and-political-headwinds-shake-the-sector/",
+    "title": "Anthropic's $81.3 billion IPO shatters SpaceX's record as rising rates and political headwinds shake the sector",
+    "description": "Anthropic launches the largest IPO in history, dethroning SpaceX as the previous record holder. Early investor Dustin Moskovitz is publicly distancing himself, warning that his early funding may have been an act \"that ended the world.\"\nThe article Anthropic&#039;s $81.3 billion IPO shatters",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-19T17:14:44.645Z",
+    "published": "Thu, 19 Nov 2026 14:02:22 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openais-own-researchers-now-say-they-value-their-ai-tools-more-than-nearly-half-their-colleagues/",
+    "title": "OpenAI's own researchers now say they value their AI tools more than nearly half their colleagues",
+    "description": "OpenAI's internal use of coding agents is growing fast, with theoretical token costs now exceeding researchers' base salaries. Even though teams are reluctant to work without these tools, the models still produce a lot of \"AI slop\" beyond routine tasks.\nThe article OpenAI&#039;s own researc",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-19T17:14:44.645Z",
+    "published": "Thu, 19 Nov 2026 13:08:35 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/",
+    "title": "Google's latest AI model is faster, cheaper and smarter than its flagship predecessor from just weeks ago",
+    "description": "Google DeepMind has released Gemini 4 Neon, its fourth model in seven weeks, which is nearly 2x faster than its sibling Carbon, outperforms it on most benchmarks and comes in at a significantly lower price.\nThe article Google&#039;s latest AI model is faster, cheaper and smarter than its fl",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-19T17:14:44.645Z",
+    "published": "Thu, 19 Nov 2026 11:18:18 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/ocr-models-now-digitize-a-million-pages-for-under-130-as-costs-drop-fivefold-in-18-months/",
+    "title": "OCR models now digitize a million pages for under $130 as costs drop fivefold in 18 months",
+    "description": "Pulling text out of scanned books and records has gotten a lot cheaper with freely available AI models.\nThe article OCR models now digitize a million pages for under $130 as costs drop fivefold in 18 months appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-19T17:14:44.645Z",
+    "published": "Thu, 19 Nov 2026 09:28:01 +0000"
+  },
+  {
+    "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+    "title": "The best things in open source are built together",
+    "description": "Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion.\nThe post The best things in open source are built together appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-11-19T17:14:49.435Z",
+    "published": "Thu, 19 Nov 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+    "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
+    "description": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-19T17:14:50.758Z",
+    "published": "Thu, 19 Nov 2026 17:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+    "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
+    "description": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger towards data centers could impact its growth.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-19T17:14:50.758Z",
+    "published": "Thu, 19 Nov 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/",
+    "title": "Not If, But How: Responding to Security Incidents in the Age of AI Attackers",
+    "description": "AI-powered attackers are driving more frequent attacks on AI infrastructure. This guide reviews 6 months of incidents, sets out a 4-pillar incident response playbook, and shows it in practice through Fireworks AI and Klue.\nThe post Not If, But How: Responding to Security Incidents in the Age of AI A",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-19T17:14:52.936Z",
+    "published": "Thu, 19 Nov 2026 10:45:57 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/karnataka-sees-1050-cr-deep-tech-investment-from-24-vcs",
+    "title": "Karnataka Sees ₹1,050 Cr Deeptech Investment From 24 VCs",
+    "description": "This marked an increase from the ₹400 crore commitment made towards Karnataka AI and deeptech startups at last year's Bengaluru Tech Summit.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-19T17:14:55.698Z",
+    "published": "Thu, 19 Nov 2026 14:05:43 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/infosys-joins-ntt-docomo-metaverse-venture-as-ai-partner",
+    "title": "Infosys Expands AI Footprint in Japan With Telecom JV",
+    "description": "Tnfosys will acquire a 10.1% stake in the Japanese venture, which will focus on digital twins, immersive experiences, and virtual commerce.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-19T17:14:55.698Z",
+    "published": "Thu, 19 Nov 2026 13:57:42 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/karnataka-hosts-nearly-half-of-indias-ai-centres-of-excellence-zinnov-kdem-report-says",
+    "title": "Karnataka Hosts Nearly Half of India's AI CoEs: Zinnov-KDEM Report",
+    "description": "Karnataka has over 120 AI/ML Centres of Excellence across more than 100 GCCs, supported by 111,000 AI/ML professionals, according to the report.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-19T17:14:55.698Z",
+    "published": "Thu, 19 Nov 2026 12:35:05 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/googles-new-gemini-4-neon-outperforms-claude-opus-55-on-several-benchmarks",
+    "title": "Google's New Gemini 4 Neon Outperforms Claude Opus 5.5 on Several Benchmarks",
+    "description": "Google's Gemini 4 model family continues its element-based naming convention, with Carbon, Hydrogen, Argon, and now, Neon.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-19T17:14:55.698Z",
+    "published": "Thu, 19 Nov 2026 12:15:24 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-startups/america-is-flooding-ai-with-billions-indian-startups-are-fighting-for-survival",
+    "title": "America is Flooding AI With Billions. Indian Startups are Fighting for Survival",
+    "description": "As global venture capital concentrates around American AI companies, Indian startups face a tougher fundraising environment, with investors demanding stronger",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-19T17:14:55.698Z",
+    "published": "Thu, 19 Nov 2026 12:12:46 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/wadhwani-ai-and-linkedin-partner-to-train-2000-northeast-entrepreneurs",
+    "title": "Wadhwani AI Joins LinkedIn to Train 2,000 Northeast SMEs in AI",
+    "description": "The 12-month programme will help small and micro entrepreneurs across five northeastern states apply AI to marketing, customer engagement, and business",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-19T17:14:55.698Z",
+    "published": "Thu, 19 Nov 2026 10:49:28 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/zurich-to-expand-hyderabad-centre-with-1000-employees-by-2028",
+    "title": "Zurich Insurance to Expand Hyderabad GCC With 1,000 Employees By 2028",
+    "description": "Zurich Insurance Group plans to hire across cloud engineering, data and AI, application development, and cybersecurity roles.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-19T17:14:55.698Z",
+    "published": "Thu, 19 Nov 2026 09:56:22 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-startups/can-simulated-users-replace-weeks-of-consumer-research-vectorial-ai-thinks-so",
+    "title": "Can Simulated Users Replace Weeks of Testing Products? Vectorial AI Thinks So",
+    "description": "The startup is targeting businesses in India, the US, and Canada with AI-generated audience simulations. It plans to expand its behavioural models and product",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-19T17:14:55.698Z",
+    "published": "Thu, 19 Nov 2026 09:51:22 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2321607/pebble-index-01-ai-ring-review/",
+    "title": "Pebble Index 01 AI ring review: When a single feature becomes the product",
+    "description": "Pebble's AI ring has a single purpose, is cheap and low-tech - but it's very useful.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-19T17:14:57.837Z",
+    "published": "Thu, 19 Nov 2026 14:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2321318/canva-will-let-users-switch-off-most-generative-ai/",
+    "title": "Canva will let users switch off most generative AI",
+    "description": "Canva is rolling out new settings to purge most generative AI from its app.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-19T17:14:57.837Z",
+    "published": "Thu, 19 Nov 2026 12:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2321489/doj-accuses-russian-national-of-spying-on-and-harassing-palantir-employees/",
+    "title": "DOJ accuses Russian national of spying on and harassing Palantir employees",
+    "description": "The DOJ says the Russian national was ordered to spy on Palantir over Ukraine's use of its software for wartime purposes.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-19T17:14:57.837Z",
+    "published": "Thu, 19 Nov 2026 10:33:59 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2321464/elon-musk-accuses-ukraine-of-being-untruthful-about-starshield-disruptions/",
+    "title": "Elon Musk accuses Ukraine of being 'untruthful' about Starshield disruptions",
+    "description": "Elon Musk has accused Ukraine president Volodymyr Zelenskyy of being 'untruthful' about Starshield disruptions.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-19T17:14:57.837Z",
+    "published": "Thu, 19 Nov 2026 08:36:56 +0000"
   }
 ]
