@@ -111600,5 +111600,231 @@
     "category": "news",
     "discovered": "2026-11-19T00:09:43.346Z",
     "published": "Wed, 18 Nov 2026 17:59:47 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+    "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+    "description": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-19T07:47:46.140Z",
+    "published": "Thu, 19 Nov 2026 00:42:56 +0000",
+    "processed": true,
+    "processedAt": "2026-11-19T07:50:20.682Z"
+  },
+  {
+    "url": "https://architectlabs.com/blog/frostbite",
+    "title": "Frostbite: A new CPU architecture discovered, designed, and verified E2E by AI",
+    "description": "Article URL: https://architectlabs.com/blog/frostbite\nComments URL: https://news.ycombinator.com/item?id=50557080\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-19T07:47:54.898Z",
+    "published": "Thu, 19 Nov 2026 07:33:54 +0000",
+    "processed": true,
+    "processedAt": "2026-11-19T07:50:20.682Z"
+  },
+  {
+    "url": "https://github.com/mikkovedru/recharge-ai-task",
+    "title": "Recharge AI-task – Manage 5h/7d quota limit resets",
+    "description": "Article URL: https://github.com/mikkovedru/recharge-ai-task\nComments URL: https://news.ycombinator.com/item?id=50556966\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-19T07:47:54.898Z",
+    "published": "Thu, 19 Nov 2026 07:18:46 +0000",
+    "processed": true,
+    "processedAt": "2026-11-19T07:50:20.682Z"
+  },
+  {
+    "url": "https://cyravo-securebuild-a-9jtc.bolt.host/",
+    "title": "Show HN: Cyravo SecureBuild AI",
+    "description": "Article URL: https://cyravo-securebuild-a-9jtc.bolt.host/\nComments URL: https://news.ycombinator.com/item?id=50556811\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-19T07:47:54.898Z",
+    "published": "Thu, 19 Nov 2026 06:53:11 +0000",
+    "processed": true,
+    "processedAt": "2026-11-19T07:50:20.682Z"
+  },
+  {
+    "url": "https://www.nber.org/papers/w35782",
+    "title": "An LLM workflow that reproduces, improves, extends published economics research",
+    "description": "Article URL: https://www.nber.org/papers/w35782\nComments URL: https://news.ycombinator.com/item?id=50556481\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-19T07:47:54.898Z",
+    "published": "Thu, 19 Nov 2026 05:46:35 +0000",
+    "processed": true,
+    "processedAt": "2026-11-19T07:50:20.682Z"
+  },
+  {
+    "url": "https://www.vals.ai/comparison",
+    "title": "Vals AI – Compare AI models across real-world benchmarks",
+    "description": "Article URL: https://www.vals.ai/comparison\nComments URL: https://news.ycombinator.com/item?id=50556391\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-19T07:47:54.898Z",
+    "published": "Thu, 19 Nov 2026 05:28:34 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
+    "title": "Will Wright's next simulation will use AI to mine content from your memories",
+    "description": "Article URL: https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/\nComments URL: https://news.ycombinator.com/item?id=50556339\nPoints: 9\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-19T07:47:54.898Z",
+    "published": "Thu, 19 Nov 2026 05:17:36 +0000"
+  },
+  {
+    "url": "https://readycode.ai/",
+    "title": "Readycode.ai – Multi AI Platform",
+    "description": "Article URL: https://readycode.ai/\nComments URL: https://news.ycombinator.com/item?id=50556293\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-19T07:47:54.898Z",
+    "published": "Thu, 19 Nov 2026 05:10:35 +0000"
+  },
+  {
+    "url": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price",
+    "title": "Anthropic IPO raises record $81.3B on strong AI demand",
+    "description": "Article URL: https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price\nComments URL: https://news.ycombinator.com/item?id=50556197\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-19T07:47:54.898Z",
+    "published": "Thu, 19 Nov 2026 04:52:30 +0000"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/steve-yegge-on-ai-agents-and-the",
+    "title": "Steve Yegge on AI Agents and the Future of Software Engineering",
+    "description": "Article URL: https://newsletter.pragmaticengineer.com/p/steve-yegge-on-ai-agents-and-the\nComments URL: https://news.ycombinator.com/item?id=50556168\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-19T07:47:54.898Z",
+    "published": "Thu, 19 Nov 2026 04:44:22 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50556148",
+    "title": "Madras School System and AI Learning Share Similarity",
+    "description": "Madras School education system (https://en.wikipedia.org/wiki/Madras_School) that was the bedrock of mass public structured education in the late 18-19th century has several similarities on how AI is trained today.They both ensures that knowledge dissemination is free.The similarities they share ar",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-19T07:47:54.898Z",
+    "published": "Thu, 19 Nov 2026 04:39:05 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50556120",
+    "title": "Ask HN: What positive impact has AI had in the past 5 years?",
+    "description": "I asked myself this question this morning and I swear I couldn't find one single thing.We still have all the problems we had before AI. AI did not solve the climate collapse, did not cure cancer, did not figure society-altering new technologies, did not make politics not suck anymore, did not solve",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-19T07:47:54.898Z",
+    "published": "Thu, 19 Nov 2026 04:33:47 +0000"
+  },
+  {
+    "url": "https://siwoo.lol/note/stickers-on-buttons/",
+    "title": "Stickers on Buttons: Why South Korea's Suneung AI cheating patch won't hold",
+    "description": "Article URL: https://siwoo.lol/note/stickers-on-buttons/\nComments URL: https://news.ycombinator.com/item?id=50556079\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-19T07:47:54.898Z",
+    "published": "Thu, 19 Nov 2026 04:26:44 +0000"
+  },
+  {
+    "url": "https://gta5goodbyeai.com/",
+    "title": "Turning one photo into a Goodbye GTA 5 AI video",
+    "description": "Article URL: https://gta5goodbyeai.com/\nComments URL: https://news.ycombinator.com/item?id=50555998\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-19T07:47:54.898Z",
+    "published": "Thu, 19 Nov 2026 04:13:24 +0000"
+  },
+  {
+    "url": "https://www.reuters.com/investigations/meta-bets-big-muse-ai-agent-early-safety-mishaps-surface-2026-11-18/",
+    "title": "As Meta bets big on Muse AI agent, early safety mishaps surface",
+    "description": "Article URL: https://www.reuters.com/investigations/meta-bets-big-muse-ai-agent-early-safety-mishaps-surface-2026-11-18/\nComments URL: https://news.ycombinator.com/item?id=50555960\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-19T07:47:54.898Z",
+    "published": "Thu, 19 Nov 2026 04:06:49 +0000"
+  },
+  {
+    "url": "https://ansinfo.ai/",
+    "title": "Verifiable Identity for AI Agents · Agent Name Service",
+    "description": "Article URL: https://ansinfo.ai/\nComments URL: https://news.ycombinator.com/item?id=50555799\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-19T07:47:54.898Z",
+    "published": "Thu, 19 Nov 2026 03:41:09 +0000"
+  },
+  {
+    "url": "https://www.ft.com/content/c891c47c-b21f-4e0f-84b3-b80c794eff3d",
+    "title": "KPMG pressed its auditor to pass on AI cost savings",
+    "description": "Article URL: https://www.ft.com/content/c891c47c-b21f-4e0f-84b3-b80c794eff3d\nComments URL: https://news.ycombinator.com/item?id=50555762\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-19T07:47:54.898Z",
+    "published": "Thu, 19 Nov 2026 03:34:56 +0000"
+  },
+  {
+    "url": "https://disposable.xify.kr/en/",
+    "title": "Show HN: Disposable – Share small AI-made tools so others can rebuild them",
+    "description": "I made a site for sharing small tools made with AI.With agents, it is now quick to build a tool that fits your own task. But those tools usually get thrown away after use, and the next person who may needs something similar start again from zero. \nSo I thought maybe if result or process could share",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-19T07:47:54.898Z",
+    "published": "Thu, 19 Nov 2026 03:02:34 +0000"
+  },
+  {
+    "url": "https://itsfree.ai/models/",
+    "title": "Itsfree.ai – Every model you can use for free",
+    "description": "Article URL: https://itsfree.ai/models/\nComments URL: https://news.ycombinator.com/item?id=50555507\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-19T07:47:54.898Z",
+    "published": "Thu, 19 Nov 2026 02:58:29 +0000"
+  },
+  {
+    "url": "https://www.yahoo.com/news/us/articles/baltimore-students-file-lawsuit-ai-192122200.html",
+    "title": "Baltimore students file lawsuit after AI allegedly mistakes Doritos for a gun",
+    "description": "Article URL: https://www.yahoo.com/news/us/articles/baltimore-students-file-lawsuit-ai-192122200.html\nComments URL: https://news.ycombinator.com/item?id=50555337\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-19T07:47:54.898Z",
+    "published": "Thu, 19 Nov 2026 02:32:01 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/",
+    "title": "Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index",
+    "description": "Google released Gemini 4 Neon, a 1M-context Gemini 4 model priced at $3/$15 per million tokens. It scores 61 on the AA Intelligence Index and ranks #1 on AA’s Coding Agent Index.\nThe post Google DeepMind Releases Gemini 4 Neon: 1M Context, #1 on AA Coding Agent Index appeared first on MarkTechPost.",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-19T07:48:09.843Z",
+    "published": "Thu, 19 Nov 2026 06:52:26 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/openai-and-amd-achieve-a-year-of-chip-design-progress-in-under-five-months",
+    "title": "OpenAI, AMD Use AI to Cut Chip Design Process From a Year to Under 5 Months",
+    "description": "OpenAI President Greg Brockman states that the 14% improvement in PPA is \"unprecedented\" at the frontier of chip design.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-19T07:48:12.059Z",
+    "published": "Thu, 19 Nov 2026 05:51:23 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/github-now-lets-indian-enterprises-store-code-locally-ahead-of-dpdp-deadline",
+    "title": "GitHub Now Lets Indian Enterprises Store Code Locally Ahead of DPDP Deadline",
+    "description": "Global AI labs and cloud hyperscalers have accelerated their data residency and local inference rollouts in India ahead of full enforcement of the DPDP Rules.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-19T07:48:12.059Z",
+    "published": "Thu, 19 Nov 2026 05:43:30 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/anthropic-sets-us-ipo-record-with-813-billion-share-sale",
+    "title": "Anthropic Smashes IPO Record With $81.3 Bn Share Sale",
+    "description": "Anthropic priced its shares at $83 apiece, above its earlier target of $70–78, after increasing the number of shares on offer to 980 million.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-19T07:48:12.059Z",
+    "published": "Thu, 19 Nov 2026 04:43:05 GMT"
   }
 ]
