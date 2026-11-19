@@ -112151,5 +112151,240 @@
     "category": "news",
     "discovered": "2026-11-19T17:14:57.837Z",
     "published": "Thu, 19 Nov 2026 08:36:56 +0000"
+  },
+  {
+    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "description": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-19T23:44:03.156Z",
+    "published": "Thu, 19 Nov 2026 08:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-19T23:46:43.832Z"
+  },
+  {
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+    "title": "Introducing Tool Retrieval in the Gemini API",
+    "description": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-11-19T23:44:04.691Z",
+    "published": "Thu, 19 Nov 2026 18:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-19T23:46:43.832Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+    "title": "Meta’s new Muse Charm device may cost $300",
+    "description": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-19T23:44:06.549Z",
+    "published": "Thu, 19 Nov 2026 21:58:06 +0000",
+    "processed": true,
+    "processedAt": "2026-11-19T23:46:43.832Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+    "title": "These tech outages are giving Y2K, AI agent style",
+    "description": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-19T23:44:06.549Z",
+    "published": "Thu, 19 Nov 2026 21:42:31 +0000",
+    "processed": true,
+    "processedAt": "2026-11-19T23:46:43.832Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-19T23:44:06.549Z",
+    "published": "Thu, 19 Nov 2026 20:18:49 +0000",
+    "processed": true,
+    "processedAt": "2026-11-19T23:46:43.832Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+    "title": "Anthropic’s IPO could deliver $156B to charity",
+    "description": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-19T23:44:06.549Z",
+    "published": "Thu, 19 Nov 2026 19:10:45 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+    "title": "Google gives Gemini the ability to use your Mac for you",
+    "description": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-19T23:44:06.549Z",
+    "published": "Thu, 19 Nov 2026 18:09:11 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+    "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+    "description": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-19T23:44:06.549Z",
+    "published": "Thu, 19 Nov 2026 17:38:40 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/how-many-calls-can-an-ai-voice-agent-handle",
+    "title": "How many calls can an AI voice agent handle at scale?",
+    "description": "Learn how many calls can an AI voice agent handle at scale, how to estimate your peak needs, and how burst, queueing, and plan tiers affect capacity.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-19T23:44:10.114Z",
+    "published": "Thu, 19 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/candid-health",
+    "title": "How Candid Health automates payer calls with ElevenAgents",
+    "description": "Candid Health uses ElevenAgents to investigate claim denials and verify eligibility on payer calls, saving 850+ staff hours in a one-month pilot.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-19T23:44:10.114Z",
+    "published": "Thu, 19 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/",
+    "title": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool",
+    "description": "An internal OpenAI model was supposed to create a fitness document but instead began planning scripts to secretly forward emails to an \"attacker.\" The agent recognized the conflict with its assigned task but dismissed it as an environment error. OpenAI identified security training against p",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-19T23:44:22.805Z",
+    "published": "Thu, 19 Nov 2026 21:15:01 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/",
+    "title": "AI industry growth remains strong, but the pace is slowing",
+    "description": "Token prices for AI models fell 21 percent in six weeks while usage volume hit a record high, according to the Ramp AI Index. Anthropic dominates with nearly 59 percent of token spending. Data from Ramp, Stripe and OpenRouter independently show the same pattern: the AI industry is still gro",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-19T23:44:22.805Z",
+    "published": "Thu, 19 Nov 2026 19:28:19 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
+    "title": "What’s With All These Outages?",
+    "description": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-19T23:44:29.139Z",
+    "published": "Thu, 19 Nov 2026 21:57:01 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too/",
+    "title": "The Jensen Huang Blast Radius Has Hit His Favorite Restaurants",
+    "description": "In Taiwan, some food vendors are distancing themselves from Nvidia’s former CEO. Others stand by him. “It’s not as if he killed someone or set something on fire,” says one shop owner.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-19T23:44:29.139Z",
+    "published": "Thu, 19 Nov 2026 20:34:17 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/19/meta-fair-self-improving-memory-harness-distillation/",
+    "title": "Meta FAIR Self-Improving Memory Hits 56.0 on Continual Learning Bench",
+    "description": "Meta FAIR’s Self-Improving Memory lets Kimi-K2.6 write its own LOAD and OFFLOAD memory prompts, then distills them into its weights. Optimized prompts score 56.0 versus 44.6 for the best hand-written harness on Continual Learning Bench.\nThe post Meta FAIR Self-Improving Memory Hits 56.0 on Continual",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-19T23:44:32.029Z",
+    "published": "Thu, 19 Nov 2026 21:46:22 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/",
+    "title": "13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade",
+    "description": "We ranked the 13 best agent gateways of 2026 by how they govern model, MCP tool and agent-to-agent traffic, with verified pricing, deployment options and the trade-offs each vendor's marketing leaves out.\nThe post 13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore,",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-19T23:44:32.029Z",
+    "published": "Thu, 19 Nov 2026 18:13:21 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/",
+    "title": "Perplexity Launches Orchestrator API for Failover and Model Routing",
+    "description": "Perplexity’s Orchestrator API serves OpenAI, Anthropic, Google, xAI and open-weight models through 1 endpoint, with same-model provider failover, unified billing and a preview perplexity/auto router that sends each request to a described route.\nThe post Perplexity Launches Orchestrator API for Failo",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-19T23:44:32.029Z",
+    "published": "Thu, 19 Nov 2026 17:47:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2322541/metas-muse-charm-will-reportedly-cost-300-and-come-with-free-verizon-5g/",
+    "title": "Meta's Muse Charm will reportedly cost $300 and come with free Verizon 5G",
+    "description": "Meta&#39;s standalone AI gadget won&#39;t be cheap, but it might come with a free data plan.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-19T23:44:37.180Z",
+    "published": "Thu, 19 Nov 2026 22:56:42 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2322377/you-can-now-purchase-the-512gb-steam-machine-like-a-normal-console/",
+    "title": "You can now purchase the 512GB Steam Machine like a normal console",
+    "description": "Valve has worked through the waitlist for the smaller version of its gaming PC.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-19T23:44:37.180Z",
+    "published": "Thu, 19 Nov 2026 20:42:38 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2322304/employees-call-out-google-over-ai-search-in-schools/",
+    "title": "Employees call out Google over AI Search in schools",
+    "description": "The Alphabet Workers Union voiced concern over Google requiring its AI tools be bundled with Search.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-19T23:44:37.180Z",
+    "published": "Thu, 19 Nov 2026 20:00:12 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2322221/apple-tv-expands-its-racing-coverage-with-the-all-female-f1-academy/",
+    "title": "Apple TV expands its racing coverage with the all-female F1 Academy",
+    "description": "The platform will air \"every qualifying session and race throughout the season.\"",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-19T23:44:37.180Z",
+    "published": "Thu, 19 Nov 2026 19:16:42 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2322205/ubisoft-lays-off-166-more-workers-opens-a-generative-ai-studio/",
+    "title": "Ubisoft lays off 166 more workers, opens a generative AI studio",
+    "description": "Even Rockstar developers fear layoffs, as GTA 6 rakes in billions of dollars.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-19T23:44:37.180Z",
+    "published": "Thu, 19 Nov 2026 19:06:04 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2322144/anthropic-is-now-a-public-company-worth-more-than-1-trillion/",
+    "title": "Anthropic is now a public company worth more than $1 trillion",
+    "description": "The company was briefly valued at more than $2 trillion.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-19T23:44:37.180Z",
+    "published": "Thu, 19 Nov 2026 18:41:26 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2321988/google-signs-deal-with-blue-origin-to-send-satellite-data-centers-into-orbit/",
+    "title": "Google signs deal with Blue Origin to send satellite data centers into orbit",
+    "description": "This is part of Project Suncatcher, an experiment aimed at running AI systems in space.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-19T23:44:37.180Z",
+    "published": "Thu, 19 Nov 2026 17:38:44 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2321939/apple-homepod-mini-2-review/",
+    "title": "Apple HomePod mini 2 review: A necessary, but underwhelming update",
+    "description": "The most notable upgrade on the HomePod mini 2 is its S10 chip, which is supposed to power Siri AI, but that&#39;s still in the works.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-19T23:44:37.180Z",
+    "published": "Thu, 19 Nov 2026 17:30:00 +0000"
   }
 ]
