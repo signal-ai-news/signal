@@ -112386,5 +112386,249 @@
     "category": "news",
     "discovered": "2026-11-19T23:44:37.180Z",
     "published": "Thu, 19 Nov 2026 17:30:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+    "title": "Apple may be developing its own AI agent that runs your Mac",
+    "description": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-20T06:50:38.515Z",
+    "published": "Fri, 20 Nov 2026 00:56:01 +0000",
+    "processed": true,
+    "processedAt": "2026-11-20T06:53:17.734Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+    "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+    "description": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-20T06:50:38.515Z",
+    "published": "Fri, 20 Nov 2026 00:43:50 +0000",
+    "processed": true,
+    "processedAt": "2026-11-20T06:53:17.734Z"
+  },
+  {
+    "url": "https://twitter.com/AgentMemoryL/status/2123418533950591252",
+    "title": "How should we evaluate image memory in AI agents?",
+    "description": "Article URL: https://twitter.com/AgentMemoryL/status/2123418533950591252\nComments URL: https://news.ycombinator.com/item?id=50570866\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-20T06:50:48.428Z",
+    "published": "Fri, 20 Nov 2026 06:24:56 +0000",
+    "processed": true,
+    "processedAt": "2026-11-20T06:53:17.734Z"
+  },
+  {
+    "url": "https://sandscale.dev",
+    "title": "Show HN: Sandscale – Cloud infrastructure for AI creators, agents and developers",
+    "description": "Sandscale is live! We’re building a platform that helps developers, AI creators and businesses create, experiment and execute AI-powered workflows.It provides secure isolated environments, cloud workspaces and infrastructure for AI-powered development.We’re excited to hear feedback from the develop",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-20T06:50:48.429Z",
+    "published": "Fri, 20 Nov 2026 06:17:14 +0000",
+    "processed": true,
+    "processedAt": "2026-11-20T06:53:17.734Z"
+  },
+  {
+    "url": "https://github.com/XiaoMi/bsworld",
+    "title": "Show HN: BSWorld – AI agents can now test Bluetooth code without hardware",
+    "description": "Article URL: https://github.com/XiaoMi/bsworld\nComments URL: https://news.ycombinator.com/item?id=50570766\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-20T06:50:48.429Z",
+    "published": "Fri, 20 Nov 2026 06:06:42 +0000",
+    "processed": true,
+    "processedAt": "2026-11-20T06:53:17.734Z"
+  },
+  {
+    "url": "https://aitz.site",
+    "title": "Show HN: AiTz – A universal gateway for discovering AI tools",
+    "description": "About AiTzI started AiTz because discovering useful AI tools can be difficult when they are scattered across the internet.I wanted to build one place where people can discover different AI tools and find solutions for different tasks.AiTz is an independent project that I'm building from Tanzania, w",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-20T06:50:48.429Z",
+    "published": "Fri, 20 Nov 2026 05:54:34 +0000"
+  },
+  {
+    "url": "https://soundbench.net/",
+    "title": "Show HN: SoundBench – AI vocal remover and audio tools that run in the browser",
+    "description": "Article URL: https://soundbench.net/\nComments URL: https://news.ycombinator.com/item?id=50570611\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-20T06:50:48.429Z",
+    "published": "Fri, 20 Nov 2026 05:44:10 +0000"
+  },
+  {
+    "url": "https://humansmd.dev/",
+    "title": "Humans.md: tell your AI agents how to work with you",
+    "description": "Article URL: https://humansmd.dev/\nComments URL: https://news.ycombinator.com/item?id=50570598\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-20T06:50:48.429Z",
+    "published": "Fri, 20 Nov 2026 05:42:30 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50570283",
+    "title": "Ask HN: Does AI slop require more marketing in the future?",
+    "description": "Now that after Anthropic's IPO debut and with OpenAPI IPO in the works there is no doubt that the % of AI slop is going to increase disproportionately though this study says it has indeed gone down in 2026 since 2025 (https://tom-riley.co.uk/blog/ai-generated-content-statistics/) [The study itself",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-20T06:50:48.429Z",
+    "published": "Fri, 20 Nov 2026 04:45:06 +0000"
+  },
+  {
+    "url": "https://grady.dev/projects/steller/",
+    "title": "Animated Steller's Jay, a beautiful AI benchmark",
+    "description": "Article URL: https://grady.dev/projects/steller/\nComments URL: https://news.ycombinator.com/item?id=50570274\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-20T06:50:48.429Z",
+    "published": "Fri, 20 Nov 2026 04:43:15 +0000"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
+    "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+    "description": "Article URL: https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html\nComments URL: https://news.ycombinator.com/item?id=50570266\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-20T06:50:48.429Z",
+    "published": "Fri, 20 Nov 2026 04:41:23 +0000"
+  },
+  {
+    "url": "https://ghostfleet.in/play?mode=wraithAI",
+    "title": "Show HN: GhostFleet: A Battleship game with an advanced AI opponent",
+    "description": "Hi HNI've always been drawn to puzzle and strategy games, and for a long time I've wanted to build a game of my own. While building my own version of battleship, I came across this idea of adding a super intelligent in-game AI which uses probability and statistics to reason with the board and fire",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-20T06:50:48.429Z",
+    "published": "Fri, 20 Nov 2026 03:59:43 +0000"
+  },
+  {
+    "url": "https://12gramsofcarbon.com/p/you-cant-spell-ennui-without-ai",
+    "title": "You can't spell ennui without AI",
+    "description": "Article URL: https://12gramsofcarbon.com/p/you-cant-spell-ennui-without-ai\nComments URL: https://news.ycombinator.com/item?id=50569751\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-20T06:50:48.429Z",
+    "published": "Fri, 20 Nov 2026 03:20:44 +0000"
+  },
+  {
+    "url": "https://twitter.com/giovannicatt3/status/2094815425972539565",
+    "title": "Nobody is talking seriously about AI demand",
+    "description": "Article URL: https://twitter.com/giovannicatt3/status/2094815425972539565\nComments URL: https://news.ycombinator.com/item?id=50569484\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-20T06:50:48.429Z",
+    "published": "Fri, 20 Nov 2026 02:36:40 +0000"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/ckq6eyrzrzy5o",
+    "title": "Dutch watchdog tells people not to buy AI smart glasses",
+    "description": "Article URL: https://www.bbc.com/news/articles/ckq6eyrzrzy5o\nComments URL: https://news.ycombinator.com/item?id=50569465\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-20T06:50:48.429Z",
+    "published": "Fri, 20 Nov 2026 02:34:39 +0000"
+  },
+  {
+    "url": "https://hyperscale.serinstudios.com/",
+    "title": "Hyperscale. Play as a Frontier AI Lab and try cash out before society collapses",
+    "description": "Article URL: https://hyperscale.serinstudios.com/\nComments URL: https://news.ycombinator.com/item?id=50568967\nPoints: 5\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-20T06:50:48.429Z",
+    "published": "Fri, 20 Nov 2026 01:21:39 +0000"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
+    "title": "'Anthropic was supposed to save the AI trade. What went wrong?' – CNBC",
+    "description": "Article URL: https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html\nComments URL: https://news.ycombinator.com/item?id=50568902\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-20T06:50:48.429Z",
+    "published": "Fri, 20 Nov 2026 01:11:25 +0000"
+  },
+  {
+    "url": "https://thunderphone.com/blog/introducing-zeus",
+    "title": "Show HN: Zeus – Claude Code for AI voice agents",
+    "description": "Hi everyone, Alex here - I’m one of the founders of ThunderPhone. We’re excited to announce the launch of Zeus, a platform that makes AI phone calls actually work without extensive hand-tuning!You can see a head-to-head I made of the last version of ThunderPhone vs this one here: https://www.youtub",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-20T06:50:48.429Z",
+    "published": "Fri, 20 Nov 2026 00:51:52 +0000"
+  },
+  {
+    "url": "https://thepointmag.com/examined-life/the-part-about-the-machines/",
+    "title": "The Part About Machines (On AI Literary Scandals)",
+    "description": "Article URL: https://thepointmag.com/examined-life/the-part-about-the-machines/\nComments URL: https://news.ycombinator.com/item?id=50568518\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-20T06:50:48.429Z",
+    "published": "Fri, 20 Nov 2026 00:22:46 +0000"
+  },
+  {
+    "url": "https://www.vals.ai/blogs/autonomous-warfare",
+    "title": "AI can be tricked to target civilians as military targets by preteding it's game",
+    "description": "Article URL: https://www.vals.ai/blogs/autonomous-warfare\nComments URL: https://news.ycombinator.com/item?id=50568442\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-20T06:50:48.429Z",
+    "published": "Fri, 20 Nov 2026 00:14:24 +0000"
+  },
+  {
+    "url": "https://www.independent.co.uk/news/world/europe/eu-cyber-attack-artificial-intelligence-b3087999.html",
+    "title": "EU targeted by cyber attack using AI: 'No one is immune'",
+    "description": "Article URL: https://www.independent.co.uk/news/world/europe/eu-cyber-attack-artificial-intelligence-b3087999.html\nComments URL: https://news.ycombinator.com/item?id=50568188\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-20T06:50:48.429Z",
+    "published": "Thu, 19 Nov 2026 23:41:30 +0000"
+  },
+  {
+    "url": "https://git-aarvin.github.io/mei/",
+    "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+    "description": "Article URL: https://git-aarvin.github.io/mei/\nComments URL: https://news.ycombinator.com/item?id=50568130\nPoints: 331\n# Comments: 199",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-20T06:50:48.429Z",
+    "published": "Thu, 19 Nov 2026 23:35:35 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/zerodha-migrates-kites-user-preference-storage-from-ssdb-to-open-source-sqlite-system",
+    "title": "Zerodha Migrates Kite's User Preference Storage From SSDB to Open-Source SQLite-Based System",
+    "description": "SSDB worked reliably for several years, but it was no longer maintained and could run only on a single machine. Zerodha also had to limit blob sizes to 1 MB",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-20T06:51:08.504Z",
+    "published": "Fri, 20 Nov 2026 06:39:24 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/samsung-electronics-names-new-heads-for-memory-system-lsi-and-mobile-businesses",
+    "title": "Samsung Electronics Shakes Up Chips Leadership Amid Soaring Memory Demand",
+    "description": "The leadership changes come as Samsung Electronics seeks to strengthen its semiconductor business and expand its competitiveness in the AI era.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-20T06:51:08.504Z",
+    "published": "Fri, 20 Nov 2026 06:36:10 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2322647/google-latest-home-page-redesign-makes-gemini-even-more-prominent/",
+    "title": "Google's latest home page redesign makes Gemini even more prominent",
+    "description": "Google is doubling down on Gemini AI in its desktop search, despite complaints from users and employees alike.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-20T06:51:11.006Z",
+    "published": "Fri, 20 Nov 2026 05:45:38 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2322586/job-posting-seemingly-confirms-apple-is-working-on-its-own-ai-agent-for-coding-and-other-tasks/",
+    "title": "Job posting seemingly confirms Apple is working on its own AI agent for coding and other tasks",
+    "description": "Apple is is hiring a senior engineering manager to build \"capable, reliable and safe\" agentic tools.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-20T06:51:11.006Z",
+    "published": "Fri, 20 Nov 2026 00:03:22 +0000"
   }
 ]
