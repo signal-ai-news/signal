@@ -112991,5 +112991,231 @@
     "category": "news",
     "discovered": "2026-11-20T16:00:27.533Z",
     "published": "Fri, 20 Nov 2026 07:31:25 +0000"
+  },
+  {
+    "url": "https://openai.com/index/combatting-adversarial-distillation",
+    "title": "Combatting adversarial distillation",
+    "description": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-20T22:34:39.646Z",
+    "published": "Fri, 20 Nov 2026 10:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-20T22:37:41.433Z"
+  },
+  {
+    "url": "https://openai.com/business/customer-stories/hebbia",
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "description": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-20T22:34:39.647Z",
+    "published": "Fri, 20 Nov 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-20T22:37:41.433Z"
+  },
+  {
+    "url": "https://openai.com/index/introducing-medchembench",
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "description": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-20T22:34:39.647Z",
+    "published": "Fri, 20 Nov 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-20T22:37:41.433Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/inkling2mini",
+    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-11-20T22:34:41.660Z",
+    "published": "Fri, 20 Nov 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-20T22:37:41.433Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+    "description": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-20T22:34:42.712Z",
+    "published": "Fri, 20 Nov 2026 19:53:41 +0000",
+    "processed": true,
+    "processedAt": "2026-11-20T22:37:41.433Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+    "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+    "description": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-20T22:34:42.712Z",
+    "published": "Fri, 20 Nov 2026 19:32:08 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+    "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+    "description": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-11-20T22:34:43.229Z",
+    "published": "Fri, 20 Nov 2026 20:59:08 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+    "title": "The most misunderstood graph in AI just got a major update",
+    "description": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding.  The report is an update to the organization’s tim",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-20T22:34:43.748Z",
+    "published": "Fri, 20 Nov 2026 18:15:15 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/build-an-outbound-reminder-agent-with-architect",
+    "title": "ElevenAgents for Healthcare: Build an outbound appointment reminder agent with Architect",
+    "description": "Build an outbound voice agent on ElevenAgents that verifies patients and confirms, reschedules, or cancels appointments in the EHR during the call.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-20T22:34:45.938Z",
+    "published": "Fri, 20 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/lightgbm-vs-a-four-week-average-for-forecasting-bike-share-rentals/",
+    "title": "LightGBM vs. a Four-Week Average for Forecasting Bike-Share Rentals",
+    "description": "A 48-hour Capital Bikeshare experiment pits XGBoost, Ridge, SARIMA, and Prophet against simple baselines, with care for missing hours and leakage.\nThe post LightGBM vs. a Four-Week Average for Forecasting Bike-Share Rentals appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-20T22:34:52.103Z",
+    "published": "Fri, 20 Nov 2026 16:30:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/",
+    "title": "OpenAI makes it much harder for attackers to extract how its latest AI models think",
+    "description": "OpenAI has significantly strengthened safeguards against extracting internal reasoning from GPT-6.2 Astra and GPT-6.2 Sol. In adaptive red-teaming tests, the success rate for extracting protected reasoning fell from 54 percent to 0.2 percent. The company is also suspending thousands to tens",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-20T22:34:53.798Z",
+    "published": "Fri, 20 Nov 2026 20:31:50 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/",
+    "title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
+    "description": "Signal is blocking screenshots to stop AI agents like Apple's Siri AI, Google's Gemini Intelligence, and Meta's Muse from reading private chats. The app calls it an \"existential threat\" to privacy, but admits its protections remain incomplete, including on macOS. Apple, Google, and Microsof",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-20T22:34:53.798Z",
+    "published": "Fri, 20 Nov 2026 19:50:27 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/",
+    "title": "Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working",
+    "description": "Google is bringing \"Computer Use\" to Gemini for Mac, letting the AI operate desktop apps, local files, and websites in an isolated background window with a live preview while users keep working.\nThe article Google&#039;s Gemini can now run Mac apps and finish desktop chores in the backgroun",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-20T22:34:53.798Z",
+    "published": "Fri, 20 Nov 2026 18:50:31 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/",
+    "title": "Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others",
+    "description": "A Bloomberg News analysis of 10 million job postings suggests AI is compounding China's already weak labor market. Entry-level workers and the creative industry are feeling the shift most, with more than 90% of Chinese micro-dramas now produced using AI. Former central bank adviser Cai Fang",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-20T22:34:53.798Z",
+    "published": "Fri, 20 Nov 2026 15:56:03 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/",
+    "title": "Apple joins the race for AI agents that control your device while raising new barriers for competitors",
+    "description": "After Meta, OpenAI, Anthropic, and Google launched their own AI agents, Apple is now building one too - while making it harder for rivals to access its devices.\nThe article Apple joins the race for AI agents that control your device while raising new barriers for competitors appeared first",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-20T22:34:53.798Z",
+    "published": "Fri, 20 Nov 2026 15:03:25 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/",
+    "title": "Nvidia bets at least $500 million on Inception's diffusion models to strengthen its open-source Nemotron lineup",
+    "description": "Nvidia is close to acquiring AI startup Inception for at least $500 million, according to The Information. The company is just two years old and builds language models based on diffusion processes, an alternative approach to the token-by-token generation used by models like ChatGPT. The dea",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-20T22:34:53.798Z",
+    "published": "Fri, 20 Nov 2026 14:53:50 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/googles-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-answer-engine/",
+    "title": "Google's latest homepage update pushes its search engine further toward an AI answer engine",
+    "description": "Google is rolling out a collapsible sidebar globally on its Desktop Search homepage. In AI Mode, it lets users reopen recent AI searches, search threads, and create notebooks. Temporary threads that aren't saved to history are also launching worldwide. Google Search co-lead Robby Stein says",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-20T22:34:53.798Z",
+    "published": "Fri, 20 Nov 2026 13:19:31 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/",
+    "title": "Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill",
+    "description": "Companies will soon be able to run the open-source Hermes Agent from Nous Research directly inside Microsoft Teams.\nThe article Hermes Agent&#039;s Collective Wisdom feature turns one employee&#039;s AI trick into the whole team&#039;s skill appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-20T22:34:53.798Z",
+    "published": "Fri, 20 Nov 2026 09:59:51 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+    "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+    "description": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-20T22:34:58.870Z",
+    "published": "Fri, 20 Nov 2026 19:52:21 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/",
+    "title": "RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only",
+    "description": "RadixArk released DaisyRose-27B, an Apache 2.0 agentic coding model post-trained from Qwen3.8-27B with reinforcement learning only. It more than doubles Terminal Bench 4.1 pass@1 to 12.0 and runs on a single GPU.\nThe post RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforc",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-20T22:35:00.691Z",
+    "published": "Fri, 20 Nov 2026 17:42:29 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2323574/signal-now-blocks-screenshots-by-default-to-stymie-ai-agents/",
+    "title": "Signal now blocks screenshots by default to stymie AI agents",
+    "description": "It describes the fix as incomplete and calls for a simple way for developers to opt out of AI snooping.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-20T22:35:05.538Z",
+    "published": "Fri, 20 Nov 2026 20:18:09 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2323542/change-these-settings-if-you-want-gta-6-to-feel-like-old-gta/",
+    "title": "Change these settings if you want GTA 6 to feel like old GTA",
+    "description": "If you miss certain aspects of older GTA games, there are few ways you can wind back the clock.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-20T22:35:05.538Z",
+    "published": "Fri, 20 Nov 2026 20:05:36 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2323016/openai-brings-its-collaborative-space-hubs-to-plus-users/",
+    "title": "OpenAI brings its collaborative Space hubs to Plus users",
+    "description": "You can upload documents, files and more to the hubs for easy sharing.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-20T22:35:05.538Z",
+    "published": "Fri, 20 Nov 2026 18:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2323187/nothings-ai-device-debuts-december-8-and-it-looks-like-two-vapes-stuck-together/",
+    "title": "Nothing's AI device debuts December 8, and it looks like two vapes stuck together",
+    "description": "Thanks, Swedish House Mafia. I guess.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-20T22:35:05.538Z",
+    "published": "Fri, 20 Nov 2026 17:32:02 +0000"
   }
 ]
