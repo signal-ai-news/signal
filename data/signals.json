@@ -113633,5 +113633,294 @@
     "category": "ml",
     "discovered": "2026-11-21T11:39:04.219Z",
     "published": "Sat, 21 Nov 2026 04:01:04 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-21T18:59:30.932Z",
+    "published": "Sat, 21 Nov 2026 17:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-21T19:02:05.343Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+    "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+    "description": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-21T18:59:30.932Z",
+    "published": "Sat, 21 Nov 2026 16:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-21T19:02:05.343Z"
+  },
+  {
+    "url": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
+    "title": "China attackers deployed AI agents that autonomously found and exploited a 0-day",
+    "description": "Article URL: https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382\nComments URL: https://news.ycombinator.com/item?id=50592379\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T18:59:36.572Z",
+    "published": "Sat, 21 Nov 2026 18:56:35 +0000",
+    "processed": true,
+    "processedAt": "2026-11-21T19:02:05.343Z"
+  },
+  {
+    "url": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616",
+    "title": "Amazon closes in on $7.5B deal to buy AI startup Decart",
+    "description": "Article URL: https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616\nComments URL: https://news.ycombinator.com/item?id=50592314\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T18:59:36.572Z",
+    "published": "Sat, 21 Nov 2026 18:50:27 +0000",
+    "processed": true,
+    "processedAt": "2026-11-21T19:02:05.343Z"
+  },
+  {
+    "url": "https://github.com/VBS2004/pencil",
+    "title": "Show HN: Pencil – LLM writes whiteboard lessons as JSON, a browser draws them",
+    "description": "Article URL: https://github.com/VBS2004/pencil\nComments URL: https://news.ycombinator.com/item?id=50592137\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T18:59:36.572Z",
+    "published": "Sat, 21 Nov 2026 18:33:22 +0000",
+    "processed": true,
+    "processedAt": "2026-11-21T19:02:05.343Z"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+    "title": "Google makes it easier to use Gemini without training AI on your data",
+    "description": "Article URL: https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/\nComments URL: https://news.ycombinator.com/item?id=50592091\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T18:59:36.572Z",
+    "published": "Sat, 21 Nov 2026 18:28:46 +0000"
+  },
+  {
+    "url": "https://forkwiseai.com/",
+    "title": "Forkwise – AI engineer that runs in your terminal",
+    "description": "Article URL: https://forkwiseai.com/\nComments URL: https://news.ycombinator.com/item?id=50591976\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T18:59:36.572Z",
+    "published": "Sat, 21 Nov 2026 18:16:50 +0000"
+  },
+  {
+    "url": "https://blog.jessedyer.org/tv-repair-man/",
+    "title": "Claude: TV Repair Man",
+    "description": "Article URL: https://blog.jessedyer.org/tv-repair-man/\nComments URL: https://news.ycombinator.com/item?id=50591974\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T18:59:36.572Z",
+    "published": "Sat, 21 Nov 2026 18:16:44 +0000"
+  },
+  {
+    "url": "https://github.com/ClickHouse/loom",
+    "title": "Loom: Shared memory, document search, and code indexing for AI agents",
+    "description": "Article URL: https://github.com/ClickHouse/loom\nComments URL: https://news.ycombinator.com/item?id=50591960\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T18:59:36.572Z",
+    "published": "Sat, 21 Nov 2026 18:14:29 +0000"
+  },
+  {
+    "url": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
+    "title": "AI is swallowing maths. Is economics next?",
+    "description": "Article URL: https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next\nComments URL: https://news.ycombinator.com/item?id=50591808\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T18:59:36.572Z",
+    "published": "Sat, 21 Nov 2026 17:57:18 +0000"
+  },
+  {
+    "url": "https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/",
+    "title": "AI just solved the 'real' Navier-Stokes problem",
+    "description": "Article URL: https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/\nComments URL: https://news.ycombinator.com/item?id=50591740\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T18:59:36.572Z",
+    "published": "Sat, 21 Nov 2026 17:50:20 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50591728",
+    "title": "Ask HN: Have you changed your job due to AI?",
+    "description": "Have you been working as a developer, software engineer and quit because of AI and now you are working in a different field like plumbing?What are your experiences so far - do you regret the decision?\n\nComments URL: https://news.ycombinator.com/item?id=50591728\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T18:59:36.572Z",
+    "published": "Sat, 21 Nov 2026 17:49:38 +0000"
+  },
+  {
+    "url": "https://twitter.com/theallinpod/status/2123994998156722681",
+    "title": "David Friedberg: Restricting Open Source AI Is a Path to Tyranny",
+    "description": "Article URL: https://twitter.com/theallinpod/status/2123994998156722681\nComments URL: https://news.ycombinator.com/item?id=50591687\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T18:59:36.572Z",
+    "published": "Sat, 21 Nov 2026 17:45:41 +0000"
+  },
+  {
+    "url": "https://www.cesarsotovalero.net/blog/reading-financial-documents-with-ai.html",
+    "title": "Reading Financial Documents with AI",
+    "description": "Article URL: https://www.cesarsotovalero.net/blog/reading-financial-documents-with-ai.html\nComments URL: https://news.ycombinator.com/item?id=50591550\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T18:59:36.572Z",
+    "published": "Sat, 21 Nov 2026 17:34:43 +0000"
+  },
+  {
+    "url": "https://kfn.one/news/actors-licensing-ai-likenesses-a-new-frontier-for-ho-89298d3b",
+    "title": "Actors Licensing AI Likenesses: A New Frontier for Hollywood Labor",
+    "description": "Article URL: https://kfn.one/news/actors-licensing-ai-likenesses-a-new-frontier-for-ho-89298d3b\nComments URL: https://news.ycombinator.com/item?id=50591410\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T18:59:36.572Z",
+    "published": "Sat, 21 Nov 2026 17:22:28 +0000"
+  },
+  {
+    "url": "https://antseed.com/",
+    "title": "Antseed is a peer-to-peer network for AI services",
+    "description": "Article URL: https://antseed.com/\nComments URL: https://news.ycombinator.com/item?id=50591379\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T18:59:36.572Z",
+    "published": "Sat, 21 Nov 2026 17:18:46 +0000"
+  },
+  {
+    "url": "https://keepplain.com/b/build-a-procedural-octopus-jar-escape-in-threejs/vs/build-a-procedural-octopus-jar-escape-in-threejs-cjma,build-a-procedural-octopus-escaping-a-jar-in-threejs,build-a-procedural-octopus-jar-escape-scene-in-threejs",
+    "title": "Show HN: Compare how codex and Claude Build a procedural octopus jar escape",
+    "description": "Article URL: https://keepplain.com/b/build-a-procedural-octopus-jar-escape-in-threejs/vs/build-a-procedural-octopus-jar-escape-in-threejs-cjma,build-a-procedural-octopus-escaping-a-jar-in-threejs,build-a-procedural-octopus-jar-escape-scene-in-threejs\nComments URL: https://news.ycombinator.com/item?",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T18:59:36.572Z",
+    "published": "Sat, 21 Nov 2026 17:14:05 +0000"
+  },
+  {
+    "url": "https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions",
+    "title": "NPR on AI Safety Factions",
+    "description": "Article URL: https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions\nComments URL: https://news.ycombinator.com/item?id=50591319\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T18:59:36.572Z",
+    "published": "Sat, 21 Nov 2026 17:13:50 +0000"
+  },
+  {
+    "url": "https://soargram.io/content/295481289",
+    "title": "The Productivity Puzzle: What AI Is Changing in the Workplace",
+    "description": "Article URL: https://soargram.io/content/295481289\nComments URL: https://news.ycombinator.com/item?id=50591276\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T18:59:36.572Z",
+    "published": "Sat, 21 Nov 2026 17:10:09 +0000"
+  },
+  {
+    "url": "https://ilion-project.org/lab/",
+    "title": "An interactive lab for deterministic AI agent authorization",
+    "description": "Article URL: https://ilion-project.org/lab/\nComments URL: https://news.ycombinator.com/item?id=50591193\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T18:59:36.572Z",
+    "published": "Sat, 21 Nov 2026 17:00:58 +0000"
+  },
+  {
+    "url": "https://en.andros.dev/blog/94a77341/i-got-banned-from-lobsters-for-writing-like-an-llm/",
+    "title": "I got banned from Lobsters for writing like an LLM",
+    "description": "Article URL: https://en.andros.dev/blog/94a77341/i-got-banned-from-lobsters-for-writing-like-an-llm/\nComments URL: https://news.ycombinator.com/item?id=50591189\nPoints: 8\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T18:59:36.572Z",
+    "published": "Sat, 21 Nov 2026 17:00:41 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-learn-supply-chain-analytics-in-2027-with-claude-code/",
+    "title": "How to Learn Supply Chain Analytics in 2027 with Claude Code",
+    "description": "Each 5-minute case study pairs operational context, a problem statement, and documented code, so data scientists and non-coding planners learn together.\nThe post How to Learn Supply Chain Analytics in 2027 with Claude Code appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-21T18:59:43.644Z",
+    "published": "Sat, 21 Nov 2026 15:00:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/censored-vs-truncated-regression-in-python-explained/",
+    "title": "Censored vs. Truncated Regression in Python, Explained",
+    "description": "A simulated salary survey shows OLS shrinking a $5k-per-year effect to $3.2k, then recovers it with Tobit and truncated likelihoods built from scratch.\nThe post Censored vs. Truncated Regression in Python, Explained appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-21T18:59:43.644Z",
+    "published": "Sat, 21 Nov 2026 13:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/",
+    "title": "Nvidia researchers argue huge AI context windows are a dead end",
+    "description": "Nvidia researchers argue that language models often don't need their full context windows—which are slow, expensive, and prone to errors—and propose an alternative. In tests, periodic summaries and targeted keyword search usually matched full-context results at a fraction of the cost. The t",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-21T18:59:45.491Z",
+    "published": "Sat, 21 Nov 2026 16:23:45 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/silicon-valleys-growing-obsession-with-ai-doomsday-is-turning-parts-of-the-tech-industry-toward-cult-like-devotion/",
+    "title": "Silicon Valley's growing obsession with AI doomsday is turning parts of the tech industry toward cult-like devotion",
+    "description": "A Buddhist monastery in Vermont called Maple wants to establish itself as Silicon Valley's spiritual authority while creating its own AI god. According to a New Yorker report, leader Soryu Forall's group records every breath its members take to train an AI in his image. Former members repor",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-21T18:59:45.491Z",
+    "published": "Sat, 21 Nov 2026 16:04:29 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/",
+    "title": "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions",
+    "description": "OpenAI has released new prompt templates for GPT-6.2 Astra and Sol meant to fix common model behaviors such as overly brief answers, unnecessary follow-up questions, and excessive testing when coding. The API is changing as well, since editing a conversation's history can discard reasoning",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-21T18:59:45.491Z",
+    "published": "Sat, 21 Nov 2026 13:32:35 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+    "title": "The Outages Are Just Getting Started",
+    "description": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-21T18:59:51.574Z",
+    "published": "Sat, 21 Nov 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/",
+    "title": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac",
+    "description": "Thinking Machines released Inkling 2 Mini, a 26.4B-parameter looped MoE transformer with 3.4B active parameters. It runs on a 32GB Mac or one DGX Spark and scores 79.2% on SWE-bench Verified.\nThe post Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac appeared first on MarkTech",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-21T18:59:54.250Z",
+    "published": "Sat, 21 Nov 2026 12:13:50 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/",
+    "title": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min",
+    "description": "OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05.\nThe post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min appeared firs",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-21T18:59:54.250Z",
+    "published": "Sat, 21 Nov 2026 11:46:17 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2324122/teslas-assisted-driving-system-gets-the-green-light-for-rollout-in-italy/",
+    "title": "Tesla's assisted driving system gets the green light for rollout in Italy",
+    "description": "Tesla's self-driving tech is awaiting another major vote from the European Union before the end of the year.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-21T18:59:59.307Z",
+    "published": "Sat, 21 Nov 2026 18:29:20 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2318413/apple-homeview-vs-amazon-echo-show-smart-display-comparison/",
+    "title": "HomeView vs. Echo Show: What's the difference between Apple's and Amazon's smart displays?",
+    "description": "Both the HomeView and Echo Show put an AI assistant in your home, but they work in different ways.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-21T18:59:59.307Z",
+    "published": "Sat, 21 Nov 2026 17:45:00 +0000"
   }
 ]
