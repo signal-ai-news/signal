@@ -113425,5 +113425,213 @@
     "category": "news",
     "discovered": "2026-11-21T03:25:44.189Z",
     "published": "Fri, 20 Nov 2026 23:48:00 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=UCL4K36SHp0",
+    "title": "Let's Open Source the World (or How I cloned Adobe with AI)",
+    "description": "Article URL: https://www.youtube.com/watch?v=UCL4K36SHp0\nComments URL: https://news.ycombinator.com/item?id=50588123\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T11:38:48.414Z",
+    "published": "Sat, 21 Nov 2026 11:25:52 +0000",
+    "processed": true,
+    "processedAt": "2026-11-21T11:41:15.286Z"
+  },
+  {
+    "url": "https://unmark.grandimam.com/",
+    "title": "Show HN: Stop applying to jobs using AI-generated resume",
+    "description": "When LLMs hands you a resume or pdf it carry markers of how it was made, including the source. You can't see them on the page but applicant tracking systems can read it.So recruiters are flagging such profiles and rejecting them entirely. I had tested this across 40+ AI models (OpenAI, Anthropic, G",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T11:38:48.414Z",
+    "published": "Sat, 21 Nov 2026 10:21:01 +0000",
+    "processed": true,
+    "processedAt": "2026-11-21T11:41:15.286Z"
+  },
+  {
+    "url": "https://tmrw.bearblog.dev/some-thoughts-on-ai-assisted-work/",
+    "title": "Some thoughts on AI-assisted work",
+    "description": "Article URL: https://tmrw.bearblog.dev/some-thoughts-on-ai-assisted-work/\nComments URL: https://news.ycombinator.com/item?id=50587702\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T11:38:48.414Z",
+    "published": "Sat, 21 Nov 2026 10:01:20 +0000",
+    "processed": true,
+    "processedAt": "2026-11-21T11:41:15.286Z"
+  },
+  {
+    "url": "https://clawvet.vercel.app/",
+    "title": "Show HN: ClawVet – Offline AST scanner and rug-pull diff for AI agent skills",
+    "description": "Article URL: https://clawvet.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=50587571\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T11:38:48.414Z",
+    "published": "Sat, 21 Nov 2026 09:40:06 +0000",
+    "processed": true,
+    "processedAt": "2026-11-21T11:41:15.286Z"
+  },
+  {
+    "url": "https://nexupira.com/news/memory-that-saves-itself",
+    "title": "We let our AI save memories by itself. What it got wrong in the first two days",
+    "description": "Article URL: https://nexupira.com/news/memory-that-saves-itself\nComments URL: https://news.ycombinator.com/item?id=50587530\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T11:38:48.414Z",
+    "published": "Sat, 21 Nov 2026 09:32:07 +0000",
+    "processed": true,
+    "processedAt": "2026-11-21T11:41:15.286Z"
+  },
+  {
+    "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+    "title": "Three breaches, endless leaks: Your AI supply chain needs canaries",
+    "description": "Article URL: https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens\nComments URL: https://news.ycombinator.com/item?id=50587516\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T11:38:48.414Z",
+    "published": "Sat, 21 Nov 2026 09:26:37 +0000"
+  },
+  {
+    "url": "https://huggingface.co/datasets/AegisSolis/aegis-solis-crosswalk-rc9-public-research",
+    "title": "Show HN: Factory worker maps AI safety arguments and open questions",
+    "description": "Article URL: https://huggingface.co/datasets/AegisSolis/aegis-solis-crosswalk-rc9-public-research\nComments URL: https://news.ycombinator.com/item?id=50587511\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T11:38:48.414Z",
+    "published": "Sat, 21 Nov 2026 09:25:20 +0000"
+  },
+  {
+    "url": "https://apnews.com/article/anthropic-history-openai-dario-amodei-ipo-53fb21bd250b936d93c5c8885af8d393",
+    "title": "Anthropic's IPO raises questions about AI safety and shareholder pressure",
+    "description": "Article URL: https://apnews.com/article/anthropic-history-openai-dario-amodei-ipo-53fb21bd250b936d93c5c8885af8d393\nComments URL: https://news.ycombinator.com/item?id=50587451\nPoints: 5\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T11:38:48.414Z",
+    "published": "Sat, 21 Nov 2026 09:16:46 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+    "title": "Google rolls out new search homepage with AI chat history and no search button",
+    "description": "Article URL: https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/\nComments URL: https://news.ycombinator.com/item?id=50587246\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T11:38:48.414Z",
+    "published": "Sat, 21 Nov 2026 08:39:42 +0000"
+  },
+  {
+    "url": "https://www.rmrfbench.com/",
+    "title": "Show HN: RMRFBench – How often AI agents wreck a server when asked to rm a file",
+    "description": "Article URL: https://www.rmrfbench.com/\nComments URL: https://news.ycombinator.com/item?id=50587178\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T11:38:48.414Z",
+    "published": "Sat, 21 Nov 2026 08:28:37 +0000"
+  },
+  {
+    "url": "https://velocitycurve.substack.com/p/what-is-a-team-in-the-age-of-ai",
+    "title": "What is a team in the age of AI?",
+    "description": "Article URL: https://velocitycurve.substack.com/p/what-is-a-team-in-the-age-of-ai\nComments URL: https://news.ycombinator.com/item?id=50587145\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T11:38:48.414Z",
+    "published": "Sat, 21 Nov 2026 08:23:46 +0000"
+  },
+  {
+    "url": "https://github.com/gesposito/dotfactory",
+    "title": "Show HN: Dotfactory – dotfiles for your Claude Code sessions",
+    "description": "Article URL: https://github.com/gesposito/dotfactory\nComments URL: https://news.ycombinator.com/item?id=50587059\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T11:38:48.414Z",
+    "published": "Sat, 21 Nov 2026 08:05:32 +0000"
+  },
+  {
+    "url": "https://app.dowjones.com/factiva/article?id=drn:archive.newsarticle.CWRE000020261121embl0002t",
+    "title": "New investors buy Anthropic shares for love of Claude",
+    "description": "Article URL: https://app.dowjones.com/factiva/article?id=drn:archive.newsarticle.CWRE000020261121embl0002t\nComments URL: https://news.ycombinator.com/item?id=50586832\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T11:38:48.414Z",
+    "published": "Sat, 21 Nov 2026 07:17:10 +0000"
+  },
+  {
+    "url": "https://github.com/vikasny30/aletheia-aegis",
+    "title": "Aletheia Aegis: Deterministic sub-millisecond output guard for AI agents",
+    "description": "Article URL: https://github.com/vikasny30/aletheia-aegis\nComments URL: https://news.ycombinator.com/item?id=50586524\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T11:38:48.414Z",
+    "published": "Sat, 21 Nov 2026 06:21:38 +0000"
+  },
+  {
+    "url": "https://www.rand.org/pubs/research_reports/RRA4980-1.html",
+    "title": "Federal Revenue When AI Replaces Labor",
+    "description": "Article URL: https://www.rand.org/pubs/research_reports/RRA4980-1.html\nComments URL: https://news.ycombinator.com/item?id=50586471\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T11:38:48.414Z",
+    "published": "Sat, 21 Nov 2026 06:12:31 +0000"
+  },
+  {
+    "url": "https://getsniffy.com/",
+    "title": "Show HN: Sniffy – a free AI detector and Chrome extension",
+    "description": "Hi,I wanted to see if I can replicate a completely free pangram.com alternative.I directed Fable 5.2 to fine tune RoBert model.At this point it does make mistakes, and not as accurate as pangram.com but I intend to improve it as more people help me with data.\n\nComments URL: https://news.ycombinator",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T11:38:48.414Z",
+    "published": "Sat, 21 Nov 2026 05:47:31 +0000"
+  },
+  {
+    "url": "https://zenodo.org/records/24412128",
+    "title": "Testing Gemini 4 Hydrogen and Argon vs. Gen 3 over 1,474 Multi-Turn Queries",
+    "description": "Article URL: https://zenodo.org/records/24412128\nComments URL: https://news.ycombinator.com/item?id=50586326\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T11:38:48.414Z",
+    "published": "Sat, 21 Nov 2026 05:43:19 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+    "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
+    "description": "Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalized in Lean that spans over 250,000 pages. Just hours later, Stanford researchers published an independent, entirely human competing",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-21T11:38:55.687Z",
+    "published": "Sat, 21 Nov 2026 11:19:49 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/",
+    "title": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop",
+    "description": "Thinking Machines has released Inkling 2 Mini, an open looped transformer that runs 12 of its 24 layers three times per token. This lets the model reason internally for longer without generating extra text. On Artificial Analysis's Intelligence Index, it ties with Qwen3.8 27B at roughly six",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-21T11:38:55.687Z",
+    "published": "Sat, 21 Nov 2026 10:33:02 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/",
+    "title": "US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up",
+    "description": "The Nasdaq 100 has slipped into a bear market after its worst weekly loss since the Covid-19 crisis. Nvidia plunged 14 percent as the SEC reviews its accounting, and Anthropic lost nearly all of its gains a day after its record IPO. AI doubts, scandals, rising interest rates, and political",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-21T11:38:55.687Z",
+    "published": "Sat, 21 Nov 2026 10:27:44 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/",
+    "title": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
+    "description": "Bytedance and several US universities introduce Axion 1.0, an AI agent that rivals top commercial models from OpenAI and Anthropic on benchmarks after just three training phases. The researchers attribute the gains to carefully curated training data rather than ever more training steps. The",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-21T11:38:55.687Z",
+    "published": "Sat, 21 Nov 2026 09:17:24 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/",
+    "title": "Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index",
+    "description": "Baseten released bison-1 and groundhog-1, open-weight decision models built on Gemma 4. bison-1 scores 76 on the AA Decision Index v2.1, and both models support 128k context and image input.\nThe post Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index appeared first on MarkTechPos",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-21T11:39:04.219Z",
+    "published": "Sat, 21 Nov 2026 04:01:04 +0000"
   }
 ]
