@@ -113217,5 +113217,213 @@
     "category": "news",
     "discovered": "2026-11-20T22:35:05.538Z",
     "published": "Fri, 20 Nov 2026 17:32:02 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/fundacion-televisa-posible",
+    "title": "How Fundación Televisa interviewed more than 1,000 entrepreneurs with voice AI",
+    "description": "Fundación Televisa used ElevenAgents to interview more than 1,000 entrepreneurs for POSiBLE, Mexico’s largest entrepreneurship accelerator.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-21T03:25:19.656Z",
+    "published": "Fri, 20 Nov 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-21T03:27:49.564Z"
+  },
+  {
+    "url": "https://towardsdev.com/when-an-ai-refuses-to-answer-315d3277075c?sk=bae249916084db4096b5a2ba6dda13f4",
+    "title": "When an LLM Refuses to Answer",
+    "description": "Article URL: https://towardsdev.com/when-an-ai-refuses-to-answer-315d3277075c?sk=bae249916084db4096b5a2ba6dda13f4\nComments URL: https://news.ycombinator.com/item?id=50585582\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T03:25:25.860Z",
+    "published": "Sat, 21 Nov 2026 03:21:33 +0000",
+    "processed": true,
+    "processedAt": "2026-11-21T03:27:49.564Z"
+  },
+  {
+    "url": "https://www.ft.com/content/45194ea4-4fa7-4c38-a5b2-137eb7402d57",
+    "title": "The Dangers of AI 'Handoverism'",
+    "description": "Article URL: https://www.ft.com/content/45194ea4-4fa7-4c38-a5b2-137eb7402d57\nComments URL: https://news.ycombinator.com/item?id=50585432\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T03:25:25.860Z",
+    "published": "Sat, 21 Nov 2026 02:50:11 +0000",
+    "processed": true,
+    "processedAt": "2026-11-21T03:27:49.564Z"
+  },
+  {
+    "url": "https://www.rameznaam.com/p/the-most-important-charts-in-ai-are",
+    "title": "The Most Important Charts in AI Are Wrong",
+    "description": "Article URL: https://www.rameznaam.com/p/the-most-important-charts-in-ai-are\nComments URL: https://news.ycombinator.com/item?id=50585411\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T03:25:25.860Z",
+    "published": "Sat, 21 Nov 2026 02:45:31 +0000",
+    "processed": true,
+    "processedAt": "2026-11-21T03:27:49.564Z"
+  },
+  {
+    "url": "https://www.cbc.ca/news/canada/bolo-program-canada-fugitives-police-ai-9.7428331",
+    "title": "Images of Canada's most wanted are AI-generated",
+    "description": "Article URL: https://www.cbc.ca/news/canada/bolo-program-canada-fugitives-police-ai-9.7428331\nComments URL: https://news.ycombinator.com/item?id=50585403\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T03:25:25.860Z",
+    "published": "Sat, 21 Nov 2026 02:44:51 +0000",
+    "processed": true,
+    "processedAt": "2026-11-21T03:27:49.564Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+    "title": "Experts warn: Everyone in AI is susceptible to a honey-trap scheme",
+    "description": "Article URL: https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/\nComments URL: https://news.ycombinator.com/item?id=50585239\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T03:25:25.860Z",
+    "published": "Sat, 21 Nov 2026 02:19:42 +0000"
+  },
+  {
+    "url": "https://github.com/Aagam-Bothara/rigtune",
+    "title": "Show HN: Find and serve fast LLM config for your GPU",
+    "description": "I was having a hard time finding settings that can let me utilise the models to maxium throughput without quality compromise so I built rigtune which helps me find the settings for my hardware and model I'm using, will love your feedback and the results if you can share for this.\n\nComments URL: htt",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T03:25:25.860Z",
+    "published": "Sat, 21 Nov 2026 01:40:35 +0000"
+  },
+  {
+    "url": "https://metr.org/blog/2026-11-20-q4-2026-capability-update/",
+    "title": "AI R&D-relevant model capabilities are improving rapidly",
+    "description": "Article URL: https://metr.org/blog/2026-11-20-q4-2026-capability-update/\nComments URL: https://news.ycombinator.com/item?id=50584825\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T03:25:25.860Z",
+    "published": "Sat, 21 Nov 2026 01:23:46 +0000"
+  },
+  {
+    "url": "https://twnstr.com/blogs/software-development-post-ai",
+    "title": "Things I learned coding with AI for a year",
+    "description": "Article URL: https://twnstr.com/blogs/software-development-post-ai\nComments URL: https://news.ycombinator.com/item?id=50584786\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T03:25:25.860Z",
+    "published": "Sat, 21 Nov 2026 01:18:18 +0000"
+  },
+  {
+    "url": "https://www.oreilly.com/radar/claude-watermarks-your-words-and-you-cant-check-them-yet/",
+    "title": "Claude Watermarks Your Words, and You Can't Check Them (Yet)",
+    "description": "Article URL: https://www.oreilly.com/radar/claude-watermarks-your-words-and-you-cant-check-them-yet/\nComments URL: https://news.ycombinator.com/item?id=50584728\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T03:25:25.860Z",
+    "published": "Sat, 21 Nov 2026 01:10:44 +0000"
+  },
+  {
+    "url": "https://www.vouched.id/learn/blog/detecting-ai-agents-in-next.js-with-vouched-kya",
+    "title": "Detecting AI Agents in Next.js with Vouched KYA",
+    "description": "Article URL: https://www.vouched.id/learn/blog/detecting-ai-agents-in-next.js-with-vouched-kya\nComments URL: https://news.ycombinator.com/item?id=50584720\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T03:25:25.860Z",
+    "published": "Sat, 21 Nov 2026 01:10:10 +0000"
+  },
+  {
+    "url": "https://chinaselectcommittee.house.gov/media/reports/joint-investigation-report-china-is-trying-to-get-us-companies-addicted-to-chinese-ai-models",
+    "title": "House China Cmte: China Trying to Get US Companies Addicted to Chinese AI Models",
+    "description": "Article URL: https://chinaselectcommittee.house.gov/media/reports/joint-investigation-report-china-is-trying-to-get-us-companies-addicted-to-chinese-ai-models\nComments URL: https://news.ycombinator.com/item?id=50584675\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T03:25:25.860Z",
+    "published": "Sat, 21 Nov 2026 01:03:45 +0000"
+  },
+  {
+    "url": "https://theelders.org/news/humanity-threshold-declaration-artificial-intelligence-and-nuclear-weapons",
+    "title": "A push for a treaty to not allow AI total control over nukes",
+    "description": "Article URL: https://theelders.org/news/humanity-threshold-declaration-artificial-intelligence-and-nuclear-weapons\nComments URL: https://news.ycombinator.com/item?id=50584410\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T03:25:25.860Z",
+    "published": "Sat, 21 Nov 2026 00:31:13 +0000"
+  },
+  {
+    "url": "https://cvigoe.github.io/website/ai-cures/",
+    "title": "If AI found better drugs for every disease, what would it cost to prove it?",
+    "description": "Article URL: https://cvigoe.github.io/website/ai-cures/\nComments URL: https://news.ycombinator.com/item?id=50584400\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T03:25:25.860Z",
+    "published": "Sat, 21 Nov 2026 00:29:57 +0000"
+  },
+  {
+    "url": "https://www.thecut.com/article/is-ssense-pivoting-to-ai-slop.html",
+    "title": "Is Ssense Pivoting to AI Slop?",
+    "description": "Article URL: https://www.thecut.com/article/is-ssense-pivoting-to-ai-slop.html\nComments URL: https://news.ycombinator.com/item?id=50584218\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T03:25:25.860Z",
+    "published": "Sat, 21 Nov 2026 00:06:18 +0000"
+  },
+  {
+    "url": "https://www.jordannews.jo/Section-129/Technology/AI-models-change-their-answers-when-they-are-monitored-59093",
+    "title": "AI models change their answers when they are monitored",
+    "description": "Article URL: https://www.jordannews.jo/Section-129/Technology/AI-models-change-their-answers-when-they-are-monitored-59093\nComments URL: https://news.ycombinator.com/item?id=50583899\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T03:25:25.860Z",
+    "published": "Fri, 20 Nov 2026 23:33:44 +0000"
+  },
+  {
+    "url": "https://saturnsql.com/context-layer",
+    "title": "Show HN: SaturnSQL Context, telling AI tools what the database means",
+    "description": "I've seen a rising demand for context when AI queries data from different places, so I built a way to provide it.You basically describe the tables, write free-form markdown notes and set definitions (e.g. the SQL for how to calculate an active user, so everyone in the company calculates it the same",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T03:25:25.860Z",
+    "published": "Fri, 20 Nov 2026 23:31:55 +0000"
+  },
+  {
+    "url": "https://bsky.app/profile/torbooks.bsky.social/post/3n2r7ra4rki2w",
+    "title": "Tor Books Removes Book Cover Generated with AI",
+    "description": "Article URL: https://bsky.app/profile/torbooks.bsky.social/post/3n2r7ra4rki2w\nComments URL: https://news.ycombinator.com/item?id=50583716\nPoints: 7\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T03:25:25.860Z",
+    "published": "Fri, 20 Nov 2026 23:14:11 +0000"
+  },
+  {
+    "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+    "title": "Cursor tells Congress it's considering phasing out foreign open-weight AI models",
+    "description": "Article URL: https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html\nComments URL: https://news.ycombinator.com/item?id=50583519\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T03:25:25.860Z",
+    "published": "Fri, 20 Nov 2026 22:55:03 +0000"
+  },
+  {
+    "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+    "title": "AI may have solved the most important problem in mathematics",
+    "description": "Article URL: https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics\nComments URL: https://news.ycombinator.com/item?id=50583445\nPoints: 33\n# Comments: 41",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T03:25:25.860Z",
+    "published": "Fri, 20 Nov 2026 22:46:59 +0000"
+  },
+  {
+    "url": "https://www.phoronix.com/news/Libreboot-Drops-AI-Policy",
+    "title": "Libreboot Abandons Anti-AI Policy After One Month",
+    "description": "Article URL: https://www.phoronix.com/news/Libreboot-Drops-AI-Policy\nComments URL: https://news.ycombinator.com/item?id=50583380\nPoints: 8\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-21T03:25:25.860Z",
+    "published": "Fri, 20 Nov 2026 22:42:14 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2323929/why-you-shouldnt-rely-on-gta-6-auto-save/",
+    "title": "Why you shouldn't depend on GTA 6 to auto-save",
+    "description": "We explain how GTA 6&#39;s auto-save system works, so you don&#39;t accidentally lose progress in the massive game.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-21T03:25:44.189Z",
+    "published": "Fri, 20 Nov 2026 23:48:00 +0000"
   }
 ]
