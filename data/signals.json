@@ -114591,5 +114591,69 @@
     "category": "news",
     "discovered": "2026-11-22T14:49:44.446Z",
     "published": "Sun, 22 Nov 2026 13:30:00 +0000"
+  },
+  {
+    "url": "https://openai.com/index/perplexity-and-intelligence",
+    "title": "Perplexity and Intelligence",
+    "description": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-22T20:58:27.668Z",
+    "published": "Sun, 22 Nov 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-22T21:01:16.032Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/ransac-explained-consensus-fitting-for-image-feature-matching/",
+    "title": "RANSAC, Explained: Consensus Fitting for Image Feature Matching",
+    "description": "How random sampling of 4 matched pairs, an error threshold, and inlier counts turn noisy SIFT matches into an accurate homography matrix.\nThe post RANSAC, Explained: Consensus Fitting for Image Feature Matching appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-22T20:58:42.968Z",
+    "published": "Sun, 22 Nov 2026 15:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-22T21:01:16.032Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/",
+    "title": "NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor",
+    "description": "NVIDIA released Alpamayo 2 Edge, a 2B-class reasoning vision-language-action model that plans driving trajectories and explains them on DRIVE AGX Thor, at 160 to 190 ms pixel-to-trajectory latency.\nThe post NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor appeared first on MarkTech",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-22T20:59:04.432Z",
+    "published": "Sun, 22 Nov 2026 18:37:57 +0000",
+    "processed": true,
+    "processedAt": "2026-11-22T21:01:16.032Z"
+  },
+  {
+    "url": "https://www.engadget.com/2319422/ring-doorbell-smart-gadget-pairings/",
+    "title": "11 types of smart gadgets to consider pairing with your Ring doorbell",
+    "description": "If you&#39;ve expanded your smart home to have multiple smart devices, you may want to see how many will work with Ring.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-22T20:59:09.837Z",
+    "published": "Sun, 22 Nov 2026 18:15:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-22T21:01:16.032Z"
+  },
+  {
+    "url": "https://www.engadget.com/2319403/how-to-mass-delete-all-emails-gmail/",
+    "title": "You can mass-delete all of your emails on Gmail in only a few clicks",
+    "description": "If you have thousands of emails piling up in Gmail, you can delete them in bulk without losing the important ones.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-22T20:59:09.837Z",
+    "published": "Sun, 22 Nov 2026 17:45:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-22T21:01:16.032Z"
+  },
+  {
+    "url": "https://www.engadget.com/2319388/how-to-test-usb-speed/",
+    "title": "Here's how to properly test your USB speed",
+    "description": "Your USB ports and devices are all rated for certain speeds, but how do you know everything&#39;s performing as it should? It&#39;s actually not that hard.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-22T20:59:09.837Z",
+    "published": "Sun, 22 Nov 2026 16:45:00 +0000"
   }
 ]
