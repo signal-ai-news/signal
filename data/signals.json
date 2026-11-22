@@ -114148,5 +114148,177 @@
     "category": "news",
     "discovered": "2026-11-21T23:44:52.241Z",
     "published": "Sat, 21 Nov 2026 19:00:00 +0000"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/",
+    "title": "AWS local emulator created by AI agents",
+    "description": "Article URL: https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/\nComments URL: https://news.ycombinator.com/item?id=50596706\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T06:14:29.870Z",
+    "published": "Sun, 22 Nov 2026 05:57:03 +0000",
+    "processed": true,
+    "processedAt": "2026-11-22T06:16:58.079Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50596564",
+    "title": "Ask HN: What made you pivot your interest to the field of AI?",
+    "description": "If you work in the field of AI, machine learning what made you do so? What sparked your interest and which skills and resources helped you along the way?\n\nComments URL: https://news.ycombinator.com/item?id=50596564\nPoints: 4\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T06:14:29.870Z",
+    "published": "Sun, 22 Nov 2026 05:20:06 +0000",
+    "processed": true,
+    "processedAt": "2026-11-22T06:16:58.079Z"
+  },
+  {
+    "url": "https://github.com/ooples/AiDotNet",
+    "title": "AiDotNet – Comprehensive AI/ML Framework for .NET",
+    "description": "Article URL: https://github.com/ooples/AiDotNet\nComments URL: https://news.ycombinator.com/item?id=50596472\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T06:14:29.870Z",
+    "published": "Sun, 22 Nov 2026 05:07:05 +0000",
+    "processed": true,
+    "processedAt": "2026-11-22T06:16:58.079Z"
+  },
+  {
+    "url": "https://vouchgeo.com",
+    "title": "Show HN: Vouch – See what AI assistants say about your brand mid-conversation",
+    "description": "Article URL: https://vouchgeo.com\nComments URL: https://news.ycombinator.com/item?id=50596218\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T06:14:29.870Z",
+    "published": "Sun, 22 Nov 2026 04:24:22 +0000",
+    "processed": true,
+    "processedAt": "2026-11-22T06:16:58.079Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50596041",
+    "title": "Ask HN: Are you prepared to rent intelligence from AI providers?",
+    "description": "Say the year 2035 arrives, and for the last ten years you have relied on an AI machine to do your thinking for you because you convinced yourself it made you more productive. As a consequence, your native intelligence has atrophied, and you now depend on this synthetic pseudo-brain the way a diabet",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T06:14:29.870Z",
+    "published": "Sun, 22 Nov 2026 03:48:46 +0000",
+    "processed": true,
+    "processedAt": "2026-11-22T06:16:58.079Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50596012",
+    "title": "Ask HN: Printing documents in the age of AI cyberattacks",
+    "description": "Do you make hard copies of important documents like investment account statements?\n\nComments URL: https://news.ycombinator.com/item?id=50596012\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T06:14:29.870Z",
+    "published": "Sun, 22 Nov 2026 03:41:48 +0000"
+  },
+  {
+    "url": "https://semiengineering.com/can-ai-make-its-own-manufacturing-decisions/",
+    "title": "Can AI Make Its Own Manufacturing Decisions?",
+    "description": "Article URL: https://semiengineering.com/can-ai-make-its-own-manufacturing-decisions/\nComments URL: https://news.ycombinator.com/item?id=50595945\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T06:14:29.870Z",
+    "published": "Sun, 22 Nov 2026 03:29:53 +0000"
+  },
+  {
+    "url": "https://www.bridgewater.com/research-and-insights/current-efforts-arent-enough-to-slow-the-ai-cyber-virus",
+    "title": "Current Efforts Aren't Enough to Slow the AI Cyber Virus",
+    "description": "Article URL: https://www.bridgewater.com/research-and-insights/current-efforts-arent-enough-to-slow-the-ai-cyber-virus\nComments URL: https://news.ycombinator.com/item?id=50595940\nPoints: 2\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T06:14:29.870Z",
+    "published": "Sun, 22 Nov 2026 03:28:48 +0000"
+  },
+  {
+    "url": "https://www.math.uwaterloo.ca/~mrubinst/alpoge_claude_grh/zeta-paper.pdf",
+    "title": "The Alpöge–Claude proof of the RH explained for the Riemann zeta function [pdf]",
+    "description": "Article URL: https://www.math.uwaterloo.ca/~mrubinst/alpoge_claude_grh/zeta-paper.pdf\nComments URL: https://news.ycombinator.com/item?id=50595864\nPoints: 2\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T06:14:29.870Z",
+    "published": "Sun, 22 Nov 2026 03:15:16 +0000"
+  },
+  {
+    "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+    "title": "Together.ai: Prompt Leakage for Requests",
+    "description": "Article URL: https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026\nComments URL: https://news.ycombinator.com/item?id=50595816\nPoints: 15\n# Comments: 6",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T06:14:29.870Z",
+    "published": "Sun, 22 Nov 2026 03:07:27 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+    "title": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+    "description": "Article URL: https://www.youtube.com/watch?v=zqzk43bSdDI\nComments URL: https://news.ycombinator.com/item?id=50595812\nPoints: 25\n# Comments: 7",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T06:14:29.870Z",
+    "published": "Sun, 22 Nov 2026 03:06:35 +0000"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout",
+    "title": "Wall Street Asks What Can Save AI Trade After Anthropic Wipeout",
+    "description": "Article URL: https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout\nComments URL: https://news.ycombinator.com/item?id=50595628\nPoints: 7\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T06:14:29.870Z",
+    "published": "Sun, 22 Nov 2026 02:27:39 +0000"
+  },
+  {
+    "url": "https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b",
+    "title": "The AI cyber threat is here",
+    "description": "Article URL: https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b\nComments URL: https://news.ycombinator.com/item?id=50595391\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T06:14:29.870Z",
+    "published": "Sun, 22 Nov 2026 01:39:20 +0000"
+  },
+  {
+    "url": "https://www.dpreview.com/news/apples-iphone-camera-chief-has-retired/",
+    "title": "Apple's iPhone camera chief, an opponent of AI-altered photos, has retired",
+    "description": "Article URL: https://www.dpreview.com/news/apples-iphone-camera-chief-has-retired/\nComments URL: https://news.ycombinator.com/item?id=50595334\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T06:14:29.870Z",
+    "published": "Sun, 22 Nov 2026 01:29:23 +0000"
+  },
+  {
+    "url": "https://gist.github.com/dexhorthy/4cc96f01be5b1208519e75dad250a948",
+    "title": "The No AI Slop Manifesto",
+    "description": "Article URL: https://gist.github.com/dexhorthy/4cc96f01be5b1208519e75dad250a948\nComments URL: https://news.ycombinator.com/item?id=50595283\nPoints: 7\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T06:14:29.870Z",
+    "published": "Sun, 22 Nov 2026 01:18:06 +0000"
+  },
+  {
+    "url": "https://tonkai.app/",
+    "title": "TonkAI – OpenAI-Compatible Gateway for GPT, Claude, Gemini, DeepSeek, and Qwen",
+    "description": "Article URL: https://tonkai.app/\nComments URL: https://news.ycombinator.com/item?id=50595181\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T06:14:29.870Z",
+    "published": "Sun, 22 Nov 2026 00:59:13 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/from-raye-to-coldplay-how-ai-scalpers-are-pricing-you-out-of-concert-tickets",
+    "title": "From Raye to Coldplay, How AI Scalpers are Pricing You Out of Concert Tickets",
+    "description": "AI is making ticket fraud easier—from fake bookings to automated bulk purchases—pushing platforms to strengthen ticket verification and resale safeguards.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-22T06:14:49.412Z",
+    "published": "Sun, 22 Nov 2026 05:30:00 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2310980/how-to-calibrate-3d-printer-why-should/",
+    "title": "How to calibrate your 3D printer (and why you should)",
+    "description": "Your 3D printer might not need replacing just because its prints keep failing. A few calibration checks could solve the problem and improve print quality.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-22T06:14:51.775Z",
+    "published": "Sat, 21 Nov 2026 23:45:00 +0000"
   }
 ]
