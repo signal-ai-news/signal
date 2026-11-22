@@ -114320,5 +114320,276 @@
     "category": "news",
     "discovered": "2026-11-22T06:14:51.775Z",
     "published": "Sat, 21 Nov 2026 23:45:00 +0000"
+  },
+  {
+    "url": "https://www.tryairlock.ai/",
+    "title": "AI-free phonebooth for guaranteed human interviews",
+    "description": "Article URL: https://www.tryairlock.ai/\nComments URL: https://news.ycombinator.com/item?id=50600194\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T14:49:24.819Z",
+    "published": "Sun, 22 Nov 2026 14:46:20 +0000",
+    "processed": true,
+    "processedAt": "2026-11-22T14:51:50.957Z"
+  },
+  {
+    "url": "https://ishadeodhar.substack.com/p/the-case-for-why-ai-can-never-replace",
+    "title": "The Case for Why AI Can Never Replace Conscious Beings",
+    "description": "Article URL: https://ishadeodhar.substack.com/p/the-case-for-why-ai-can-never-replace\nComments URL: https://news.ycombinator.com/item?id=50599938\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T14:49:24.819Z",
+    "published": "Sun, 22 Nov 2026 14:17:22 +0000",
+    "processed": true,
+    "processedAt": "2026-11-22T14:51:50.957Z"
+  },
+  {
+    "url": "https://yudhanjaya.com/docs/experiments/local-llms-experiments/",
+    "title": "Honey, We Have Claude at Home",
+    "description": "Article URL: https://yudhanjaya.com/docs/experiments/local-llms-experiments/\nComments URL: https://news.ycombinator.com/item?id=50599916\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T14:49:24.819Z",
+    "published": "Sun, 22 Nov 2026 14:14:58 +0000",
+    "processed": true,
+    "processedAt": "2026-11-22T14:51:50.957Z"
+  },
+  {
+    "url": "https://2tinteractive.com/watch/episodes/5739/",
+    "title": "How Hong Kong is using AI alerts and a tank to cut flood risks during storms",
+    "description": "Article URL: https://2tinteractive.com/watch/episodes/5739/\nComments URL: https://news.ycombinator.com/item?id=50599782\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T14:49:24.819Z",
+    "published": "Sun, 22 Nov 2026 13:59:05 +0000",
+    "processed": true,
+    "processedAt": "2026-11-22T14:51:50.957Z"
+  },
+  {
+    "url": "https://github.com/hunvreus/reallysimpledocs",
+    "title": "Show HN: ReallySimpleDocs – Modern, AI-ready documentation site with Astro",
+    "description": "Article URL: https://github.com/hunvreus/reallysimpledocs\nComments URL: https://news.ycombinator.com/item?id=50599773\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T14:49:24.819Z",
+    "published": "Sun, 22 Nov 2026 13:58:23 +0000",
+    "processed": true,
+    "processedAt": "2026-11-22T14:51:50.957Z"
+  },
+  {
+    "url": "https://github.com/gulivan/worker755",
+    "title": "Show HN: I built a game where you are an LLM's subagent",
+    "description": "Article URL: https://github.com/gulivan/worker755\nComments URL: https://news.ycombinator.com/item?id=50599762\nPoints: 7\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T14:49:24.819Z",
+    "published": "Sun, 22 Nov 2026 13:56:58 +0000"
+  },
+  {
+    "url": "https://github.com/RiccardoSottini/AffrescoUI",
+    "title": "Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run",
+    "description": "Article URL: https://github.com/RiccardoSottini/AffrescoUI\nComments URL: https://news.ycombinator.com/item?id=50599626\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T14:49:24.819Z",
+    "published": "Sun, 22 Nov 2026 13:41:29 +0000"
+  },
+  {
+    "url": "https://nestdaddy.com/memory",
+    "title": "Show HN: NestDaddy Memory, one memory shared by ChatGPT, Claude and Cursor",
+    "description": "Article URL: https://nestdaddy.com/memory\nComments URL: https://news.ycombinator.com/item?id=50599108\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T14:49:24.819Z",
+    "published": "Sun, 22 Nov 2026 12:37:28 +0000"
+  },
+  {
+    "url": "https://pair.withgoogle.com/explorables/",
+    "title": "AI Explorables: Big Ideas in Machine Learning (People and AI Research (Pair))",
+    "description": "Article URL: https://pair.withgoogle.com/explorables/\nComments URL: https://news.ycombinator.com/item?id=50599071\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T14:49:24.819Z",
+    "published": "Sun, 22 Nov 2026 12:34:42 +0000"
+  },
+  {
+    "url": "https://www.theguardian.com/commentisfree/2026/nov/22/why-i-wont-leave-mathematics-despite-ai-solving-centuries-old-problems",
+    "title": "I won't leave mathematics, despite AI solving centuries-old problems",
+    "description": "Article URL: https://www.theguardian.com/commentisfree/2026/nov/22/why-i-wont-leave-mathematics-despite-ai-solving-centuries-old-problems\nComments URL: https://news.ycombinator.com/item?id=50599029\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T14:49:24.819Z",
+    "published": "Sun, 22 Nov 2026 12:29:57 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=YNTpOLbvKTs",
+    "title": "I know who's popping the AI bubble now [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=YNTpOLbvKTs\nComments URL: https://news.ycombinator.com/item?id=50598952\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T14:49:24.819Z",
+    "published": "Sun, 22 Nov 2026 12:18:34 +0000"
+  },
+  {
+    "url": "https://github.com/avidianity/codeint",
+    "title": "Show HN: Codeint – Measure duplication and complexity drift in AI-written code",
+    "description": "Article URL: https://github.com/avidianity/codeint\nComments URL: https://news.ycombinator.com/item?id=50598813\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T14:49:24.819Z",
+    "published": "Sun, 22 Nov 2026 11:58:04 +0000"
+  },
+  {
+    "url": "https://www.theguardian.com/film/2026/nov/21/taxi-driver-scriptwriter-paul-schrader-ai-film-making-martin-scorsese",
+    "title": "Taxi Driver scriptwriter Paul Schrader on unleashing AI at 80",
+    "description": "Article URL: https://www.theguardian.com/film/2026/nov/21/taxi-driver-scriptwriter-paul-schrader-ai-film-making-martin-scorsese\nComments URL: https://news.ycombinator.com/item?id=50598733\nPoints: 3\n# Comments: 4",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T14:49:24.819Z",
+    "published": "Sun, 22 Nov 2026 11:44:02 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+    "title": "Banks Have Had It Up to Here With Your AI Agent",
+    "description": "Article URL: https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/\nComments URL: https://news.ycombinator.com/item?id=50598692\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T14:49:24.819Z",
+    "published": "Sun, 22 Nov 2026 11:37:55 +0000"
+  },
+  {
+    "url": "https://claude.com/resources/articles/zero-trust-for-ai-agents",
+    "title": "Zero Trust for AI Agents",
+    "description": "Article URL: https://claude.com/resources/articles/zero-trust-for-ai-agents\nComments URL: https://news.ycombinator.com/item?id=50598527\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T14:49:24.819Z",
+    "published": "Sun, 22 Nov 2026 11:12:52 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=_Zzv15cwG1A",
+    "title": "Confident predictions and verdicts about AI, and what happened next [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=_Zzv15cwG1A\nComments URL: https://news.ycombinator.com/item?id=50598406\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T14:49:24.819Z",
+    "published": "Sun, 22 Nov 2026 10:54:00 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50598355",
+    "title": "Ask HN: Where the company's employees launch the tools that Claude created",
+    "description": "Hi everyone,Here is a situation: In a typical company these days, many employees are creating tools using AI (Claude & Cursor) to help with their work. They run these tools on their own computers, which no one else can use or on a builder platform with a public URL and either no login or a hand-rol",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T14:49:24.819Z",
+    "published": "Sun, 22 Nov 2026 10:47:34 +0000"
+  },
+  {
+    "url": "https://www.noahpinion.blog/p/ai-people-are-very-very-very-very",
+    "title": "AI People Are Extremely Rich",
+    "description": "Article URL: https://www.noahpinion.blog/p/ai-people-are-very-very-very-very\nComments URL: https://news.ycombinator.com/item?id=50598277\nPoints: 10\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T14:49:24.819Z",
+    "published": "Sun, 22 Nov 2026 10:35:49 +0000"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Nov/21/muru/",
+    "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+    "description": "Article URL: https://simonwillison.net/2026/Nov/21/muru/\nComments URL: https://news.ycombinator.com/item?id=50597959\nPoints: 25\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-22T14:49:24.819Z",
+    "published": "Sun, 22 Nov 2026 09:57:01 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-ai-changes-the-four-types-of-analytics-for-data-scientists/",
+    "title": "How AI Changes the Four Types of Analytics for Data Scientists",
+    "description": "Treat AI agents as junior teammates and move up the abstraction ladder, owning problem framing, model evaluation, and business partnership.\nThe post How AI Changes the Four Types of Analytics for Data Scientists appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-22T14:49:29.946Z",
+    "published": "Sun, 22 Nov 2026 13:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/",
+    "title": "Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog",
+    "description": "Perplexity is launching a Monitor API that searches the web on a schedule and alerts agents via webhook only when relevant changes occur. Its own decision model filters out unimportant results. For Perplexity, the API is part of a broader strategy to stand out from an increasingly interchan",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-22T14:49:31.984Z",
+    "published": "Sun, 22 Nov 2026 14:20:28 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/",
+    "title": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns",
+    "description": "METR reports that leading AI models like Opus 5.5 and GPT-6 Astra are improving rapidly at research tasks but getting harder to measure. Current data can't rule out a dangerous acceleration in AI development, the organization warns, though it also says common tests may overestimate what the",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-22T14:49:31.984Z",
+    "published": "Sun, 22 Nov 2026 13:00:43 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/",
+    "title": "Security researchers show how cheap AI inference providers steal keys and snoop on users",
+    "description": "Security researchers at Dragos used two million fake AI requests to uncover serious vulnerabilities in the AI supply chain, finding at least three compromised providers, hundreds of stolen AWS keys, and marketplace resellers who were simply reading customer requests. OpenRouter responded by",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-22T14:49:31.984Z",
+    "published": "Sun, 22 Nov 2026 12:07:56 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/",
+    "title": "Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct",
+    "description": "The Lean and Mathlib community has officially confirmed Levent Alpöge's proof of the Riemann hypothesis as correct. Dozens of independent verifiers checked the 17 million lines of computer code. The solution arrived years earlier than expected: Terence Tao had predicted it wouldn't happen u",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-22T14:49:31.984Z",
+    "published": "Sun, 22 Nov 2026 11:08:31 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/",
+    "title": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
+    "description": "OpenAI's GPT-6.2 Astra and Sol give much shorter, more direct answers than their predecessors, but they are also less willing to admit uncertainty. Anthropic's Claude models score well ahead on transparency.\nThe article GPT-6.2 Astra and Sol get to the point faster but score lower on transp",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-22T14:49:31.984Z",
+    "published": "Sun, 22 Nov 2026 09:41:37 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+    "title": "Banks Have Had It Up to Here With Your AI Agent",
+    "description": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-22T14:49:38.099Z",
+    "published": "Sun, 22 Nov 2026 11:00:00 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/",
+    "title": "Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost",
+    "description": "Hermes Agent, OpenClaw, Gemini Spark, OpenAI dots, Meta Muse and Perplexity Personal Computer ranked on memory, security defaults and real cost.\nThe post Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost appeared first on MarkTechPo",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-22T14:49:39.936Z",
+    "published": "Sun, 22 Nov 2026 10:36:17 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/",
+    "title": "Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries",
+    "description": "Google launched Gemini API Tool Retrieval in preview. Agents keep a large tool library on standby and load each parameter schema only when needed, inside one Interactions API request.\nThe post Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries appeared first on MarkTechPost",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-22T14:49:39.936Z",
+    "published": "Sun, 22 Nov 2026 10:03:54 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2319344/apple-airpods-5-vs-airpods-pro-3-differences/",
+    "title": "Apple AirPods 5 vs. AirPods Pro 3: What are the key differences?",
+    "description": "Apple Airpods Pro 3 have more features than the cheaper Airpods 5. Discover the differences in appearance, charging, battery life and capabilities.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-22T14:49:44.446Z",
+    "published": "Sun, 22 Nov 2026 13:30:00 +0000"
   }
 ]
