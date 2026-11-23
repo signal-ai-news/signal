@@ -14977,7 +14977,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-04T20:58:20.187Z",
-    "published": "Tue, 04 Aug 2026 20:28:36 +0000"
+    "published": "Tue, 04 Aug 2026 20:28:36 +0000",
+    "processed": true,
+    "processedAt": "2026-11-23T09:41:23.327Z"
   },
   {
     "url": "https://blog.fogus.me/llm/born-against.html",
@@ -114728,5 +114730,49 @@
     "category": "news",
     "discovered": "2026-11-23T01:29:49.487Z",
     "published": "Sun, 22 Nov 2026 22:30:00 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/23/meta-tlx-triton-low-level-extensions/",
+    "title": "Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD",
+    "description": "Meta has detailed TLX, its Triton Low-Level Extensions that add warp-group, barrier, TMA and cluster control to Python Triton kernels. It runs Meta's ads and LLM workloads on Hopper, Blackwell and AMD MI350 GPUs.\nThe post Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD app",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-23T09:39:06.494Z",
+    "published": "Mon, 23 Nov 2026 08:24:57 +0000",
+    "processed": true,
+    "processedAt": "2026-11-23T09:41:23.330Z"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-startups/bolna-builds-its-own-speech-model-to-catch-what-voice-ai-misses",
+    "title": "Bolna Builds Its Own Speech Model to Catch What Voice AI Misses",
+    "description": "Bolna AI has launched Syl, an automatic speech recognition model to improve how voice agents handle short replies and conversational nuances in Indian",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-23T09:39:15.761Z",
+    "published": "Mon, 23 Nov 2026 08:49:22 GMT",
+    "processed": true,
+    "processedAt": "2026-11-23T09:41:23.330Z"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/persistent-systems-flags-possible-exposure-of-employee-immigration-data",
+    "title": "Persistent Systems Flags Possible Exposure of Employee Immigration Data",
+    "description": "Persistent Systems said its own systems remained secure after a US law firm handling its immigration matters potentially suffered a cybersecurity incident.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-23T09:39:15.761Z",
+    "published": "Mon, 23 Nov 2026 07:20:12 GMT",
+    "processed": true,
+    "processedAt": "2026-11-23T09:41:23.330Z"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/pegas-bridge-for-karnatakas-tech-talent",
+    "title": "Karnataka Govt Partners With Pega to Upskill Tech Talent",
+    "description": "Pegasystems has partnered with the Karnataka government to train and certify 200 tech professionals on the Pega Platform across the state in 2027.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-23T09:39:15.761Z",
+    "published": "Mon, 23 Nov 2026 07:07:05 GMT",
+    "processed": true,
+    "processedAt": "2026-11-23T09:41:23.330Z"
   }
 ]
