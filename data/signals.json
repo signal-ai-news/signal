@@ -114655,5 +114655,78 @@
     "category": "news",
     "discovered": "2026-11-22T20:59:09.837Z",
     "published": "Sun, 22 Nov 2026 16:45:00 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+    "description": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-23T01:29:21.282Z",
+    "published": "Mon, 23 Nov 2026 01:25:53 +0000",
+    "processed": true,
+    "processedAt": "2026-11-23T01:31:55.244Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+    "description": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-23T01:29:21.282Z",
+    "published": "Sun, 22 Nov 2026 21:14:07 +0000",
+    "processed": true,
+    "processedAt": "2026-11-23T01:31:55.244Z"
+  },
+  {
+    "url": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/",
+    "title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
+    "description": "A new real-world test puts AI coding agents in a simulated developer job with colleagues, project boards, and incomplete handoffs, where they have to keep developing software on their own and reliably close open tickets in a messy daily workflow. Even Opus 5.5 and Astra fall far short, solv",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-23T01:29:34.749Z",
+    "published": "Sun, 22 Nov 2026 15:15:48 +0000",
+    "processed": true,
+    "processedAt": "2026-11-23T01:31:55.244Z"
+  },
+  {
+    "url": "https://www.engadget.com/2319565/vorssaint-free-swiss-army-knife-macos-replace-utility-apps/",
+    "title": "This free 'Swiss Army Knife' for macOS can replace your utility apps",
+    "description": "Vorssaint is a powerful, modular utility suite, provided permissions are carefully managed.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-23T01:29:49.487Z",
+    "published": "Mon, 23 Nov 2026 00:45:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-23T01:31:55.244Z"
+  },
+  {
+    "url": "https://www.engadget.com/2319553/how-to-use-ai-glasses-as-teleprompter/",
+    "title": "How to use AI glasses as a teleprompter",
+    "description": "If you have the right type of smart glasses, this is an easy feature to enable.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-23T01:29:49.487Z",
+    "published": "Sun, 22 Nov 2026 23:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-23T01:31:55.244Z"
+  },
+  {
+    "url": "https://www.engadget.com/2319550/pros-and-cons-sharing-your-location/",
+    "title": "The pros and cons of sharing your location",
+    "description": "Location sharing has perks from tracking lost gear to staying safe on a night out. Learn what you gain and what you give up before you share.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-23T01:29:49.487Z",
+    "published": "Sun, 22 Nov 2026 23:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2319546/can-iphone-safely-use-140w-charger/",
+    "title": "Can you safely use a 140w charger on an iPhone?",
+    "description": "A 140-watt charger is far more juice than your iPhone needs, but does that really matter? Yes and no -- we can explain.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-23T01:29:49.487Z",
+    "published": "Sun, 22 Nov 2026 22:30:00 +0000"
   }
 ]
