@@ -114774,5 +114774,429 @@
     "published": "Mon, 23 Nov 2026 07:07:05 GMT",
     "processed": true,
     "processedAt": "2026-11-23T09:41:23.330Z"
+  },
+  {
+    "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+    "title": "Connected intelligence for in-house legal",
+    "description": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-23T21:58:05.524Z",
+    "published": "Mon, 23 Nov 2026 08:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-23T22:00:49.259Z"
+  },
+  {
+    "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+    "title": "Richpanel helps companies automate 50% of support in 30 days",
+    "description": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-23T21:58:05.524Z",
+    "published": "Mon, 23 Nov 2026 08:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-23T22:00:49.259Z"
+  },
+  {
+    "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+    "title": "A more tailored Google Search that’s uniquely yours",
+    "description": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-11-23T21:58:07.057Z",
+    "published": "Mon, 23 Nov 2026 17:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-23T22:00:49.259Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/agentic-evals",
+    "title": "How to build and maintain an agentic evaluation",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-11-23T21:58:07.635Z",
+    "published": "Mon, 23 Nov 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-23T22:00:49.259Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+    "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a U.S. blacklist",
+    "description": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-23T21:58:08.820Z",
+    "published": "Mon, 23 Nov 2026 21:25:42 +0000",
+    "processed": true,
+    "processedAt": "2026-11-23T22:00:49.259Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+    "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+    "description": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-23T21:58:08.820Z",
+    "published": "Mon, 23 Nov 2026 19:14:46 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+    "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+    "description": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-23T21:58:08.820Z",
+    "published": "Mon, 23 Nov 2026 18:12:22 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+    "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+    "description": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-23T21:58:08.820Z",
+    "published": "Mon, 23 Nov 2026 17:14:23 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+    "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+    "description": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-23T21:58:08.820Z",
+    "published": "Mon, 23 Nov 2026 14:43:03 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+    "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+    "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we app",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-23T21:58:09.928Z",
+    "published": "Mon, 23 Nov 2026 17:36:08 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+    "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improvi",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-23T21:58:09.928Z",
+    "published": "Mon, 23 Nov 2026 13:10:00 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+    "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+    "description": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A num",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-23T21:58:09.928Z",
+    "published": "Mon, 23 Nov 2026 11:00:00 +0000"
+  },
+  {
+    "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+    "title": "Finding faster quantum algorithms with agents and formal verification",
+    "description": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+    "source": "DeepMind Blog",
+    "category": "llm",
+    "discovered": "2026-11-23T21:58:27.434Z",
+    "published": "Mon, 23 Nov 2026 16:59:40 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/ai-math-proofs-arent-knowledge-until-someone-explains-them/",
+    "title": "AI Math Proofs Aren't Knowledge Until Someone Explains Them",
+    "description": "From the Four Color Theorem to OpenAI's October 2026 claims, why computer-checked proofs still need people to explain, test, and extend them.\nThe post AI Math Proofs Aren't Knowledge Until Someone Explains Them appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-23T21:58:30.801Z",
+    "published": "Mon, 23 Nov 2026 15:00:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/the-birthday-paradox-shows-small-llms-pick-from-about-6-of-40-words/",
+    "title": "The Birthday Paradox Shows Small LLMs Pick From About 6 of 40 Words",
+    "description": "Ask the same question 300 times, count the repeats, and solve for N: a few lines of Python that work on any chatbot you can type into.\nThe post The Birthday Paradox Shows Small LLMs Pick From About 6 of 40 Words appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-23T21:58:30.801Z",
+    "published": "Mon, 23 Nov 2026 13:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/what-a-90-prompt-cache-hit-rate-hides-about-attention-work/",
+    "title": "What a 90% Prompt Cache Hit Rate Hides About Attention Work",
+    "description": "Request hit rate, token reuse, and latency tell different stories; a 2026 preprint found lower 99th-percentile but higher median time to first token.\nThe post What a 90% Prompt Cache Hit Rate Hides About Attention Work appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-23T21:58:30.801Z",
+    "published": "Mon, 23 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/",
+    "title": "OpenAI updates ChatGPT to handle complex everyday questions, web searches, and images more reliably",
+    "description": "OpenAI is making GPT-6.2 Sol the new default model in ChatGPT's chat tab, rolling it out worldwide. In internal tests, image understanding jumped from 47.4 to 71.7 percent, and the model now handles difficult instructions correctly 78.1 percent of the time. It also sticks to safety policies",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-23T21:58:31.761Z",
+    "published": "Mon, 23 Nov 2026 20:39:18 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/",
+    "title": "Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy",
+    "description": "Since May, SpaceXSI has been renting compute to competitors like Anthropic and Google while scaling back its own AI projects. Anthropic pays about $3.1 billion a month, Google $800 million, the New York Times reports. After its June IPO, SpaceXSI disbanded the 60-person Grok Imagine team, a",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-23T21:58:31.761Z",
+    "published": "Mon, 23 Nov 2026 18:47:53 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/",
+    "title": "OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals to agree on shared limits",
+    "description": "OpenAI chief scientist Jakub Pachocki has released internal perplexity scores for the entire GPT series for the first time, up to an unreleased model beyond the current generation. The metric shows that core capabilities emerge at surprisingly precise thresholds. Pachocki is pushing to make",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-23T21:58:31.761Z",
+    "published": "Mon, 23 Nov 2026 18:42:38 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/",
+    "title": "Z.ai follows OpenAI into loop transformer territory with its new 750B flagship model",
+    "description": "Z.ai is moving its flagship GLM-5.4 model to a loop architecture in which 28 layers run twice, which the company says lets the 750-billion-parameter model match models with 2 to 3 trillion parameters. Benchmark scores are only available for a smaller 30B test model so far, and Z.ai is posit",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-23T21:58:31.761Z",
+    "published": "Mon, 23 Nov 2026 15:13:03 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/chinese-military-fears-ai-could-let-the-us-find-and-destroy-its-nuclear-missiles/",
+    "title": "Chinese military fears AI could let the US find and destroy its nuclear missiles",
+    "description": "Chinese military researchers fear that AI advances could give the US an edge in the nuclear balance of power.\nThe article Chinese military fears AI could let the US find and destroy its nuclear missiles appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-23T21:58:31.761Z",
+    "published": "Mon, 23 Nov 2026 14:43:23 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/nvidia-tried-life-without-jensen-huang-and-it-lasted-about-two-weeks/",
+    "title": "Nvidia tried life without Jensen Huang and it lasted about two weeks",
+    "description": "Nvidia's board of directors has reinstated Jensen Huang as president, CEO, and board member, effective immediately.\nThe article Nvidia tried life without Jensen Huang and it lasted about two weeks appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-23T21:58:31.761Z",
+    "published": "Mon, 23 Nov 2026 14:24:47 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/metas-alexandr-wang-warns-the-ai-industry-isnt-ready-for-whats-coming-after-riemann-breakthrough/",
+    "title": "Meta's Alexandr Wang warns the AI industry isn't ready for what's coming after Riemann breakthrough",
+    "description": "Meta's Chief AI Officer Alexandr Wang sees the recent AI-assisted proof sketch of the Riemann Hypothesis as a clear sign that superintelligence is right around the corner.\nThe article Meta&#039;s Alexandr Wang warns the AI industry isn&#039;t ready for what&#039;s coming after Riemann break",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-23T21:58:31.761Z",
+    "published": "Mon, 23 Nov 2026 13:59:36 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/us-spies-tracked-nvidia-scandal-figures-ties-to-chinese-intelligence-for-over-a-year/",
+    "title": "US spies tracked Nvidia scandal figure's ties to Chinese intelligence for over a year",
+    "description": "US intelligence agencies tracked contacts between Alice Huang and China's Ministry of State Security for over a year, the New York Times reports. The surveillance ran parallel to her secret affair with then-Nvidia CEO Jensen Huang. Federal investigators are now looking into whether a networ",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-23T21:58:31.761Z",
+    "published": "Mon, 23 Nov 2026 13:45:32 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/",
+    "title": "GPT-6.2 Astra solved a math theorem no other AI could crack, then invented its own proof strategy",
+    "description": "OpenAI's GPT-6.2 Astra independently produced a machine-verifiable Lean proof of Smoktunowicz's gap theorem, the first of its kind according to Vals AI. The model chose its own approach because key foundations were missing from Mathlib. On Autoform-Hard, Astra now leads the leaderboard with",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-23T21:58:31.761Z",
+    "published": "Mon, 23 Nov 2026 12:17:01 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/nvidia-is-powering-brain-computer-interfaces-now/",
+    "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
+    "description": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-23T21:58:37.880Z",
+    "published": "Mon, 23 Nov 2026 21:46:28 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+    "title": "Jensen Huang Is Back as Nvidia CEO",
+    "description": "The company’s board of directors has reinstated Huang a little more than a week after the CEO resigned amid allegations of multiple affairs, including with a direct report.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-23T21:58:37.880Z",
+    "published": "Mon, 23 Nov 2026 14:27:35 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/",
+    "title": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
+    "description": "Experts agree that AI, in one way or another, poses real danger. Will the industry do anything about it? Join our livestream on December 2 to hear your questions answered.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-23T21:58:37.880Z",
+    "published": "Mon, 23 Nov 2026 12:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+    "title": "States Sue SpaceX Over Grok Deepfakes",
+    "description": "The attorneys general of Oregon and Virginia are suing several of Elon Musk’s companies, alleging they implemented weak safeguards against sexualized imagery of real people, including children.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-23T21:58:37.880Z",
+    "published": "Mon, 23 Nov 2026 11:00:00 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/23/zai-glm-5-4-loop-transformer/",
+    "title": "Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice",
+    "description": "Z.ai released GLM-5.4, its first Loop Transformer flagship. The 750B-scale model runs 28 GLM-5 layers twice for deeper reasoning, with API access and open weights planned after safety work.\nThe post Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice appeared first on MarkTechPo",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-23T21:58:40.147Z",
+    "published": "Mon, 23 Nov 2026 19:11:40 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/23/27-ai-cybersecurity-terms/",
+    "title": "27 Cybersecurity Terms to Prepare You for the Age of AI",
+    "description": "AI now sits on both sides of the security fight, and the vocabulary has changed with it. IBM&#8217;s 2026 Cost of a Data Breach Report found that 1 in 4 malicious breaches were AI-enabled, up 56% year over year. Those breaches cost an average of $6 million, about $1 million above the $4.99 million g",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-23T21:58:40.147Z",
+    "published": "Mon, 23 Nov 2026 10:40:16 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/23/architect-labs-frostbite-ai-designed-cpu-interaction-nets/",
+    "title": "Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI",
+    "description": "Architect Labs introduced Frostbite, an AI-designed CPU that runs interaction nets in hardware. Agents took it from theory to 7 nm GDS, and pre-silicon tests show 4.59x performance per watt over an in-order core.\nThe post Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI appear",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-23T21:58:40.147Z",
+    "published": "Mon, 23 Nov 2026 10:05:47 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/global-tech/anthropic-meets-the-brutal-wall-street",
+    "title": "Anthropic Meets the Brutal Wall Street",
+    "description": "Anthropic’s revenue has grown over 13x YoY. Its spending, meanwhile, continues to climb. Positive investor sentiment rests largely on the next opportunity.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-23T21:58:42.151Z",
+    "published": "Mon, 23 Nov 2026 15:19:40 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/lt-wins-large-order-to-deploy-additional-nvidia-b300-gpus-in-chennai",
+    "title": "L&T Bags Contract to Deploy NVIDIA B300 GPUs in Chennai Data Centre",
+    "description": "The customer and number of additional GPUs remain undisclosed, while the engagement is part of a planned 10,000-GPU cluster.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-23T21:58:42.151Z",
+    "published": "Mon, 23 Nov 2026 13:12:32 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-highlights/haleon-puts-people-and-judgement-at-heart-of-data-ai-transformation-at-cypher-2026",
+    "title": "Haleon Puts People and Judgement at Heart of Data, AI Transformation at Cypher 2026",
+    "description": "Richard Moule and Sharmila Senthilraja share how capability, confidence, and accountable decision-making can help organisations move from AI deployment to",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-23T21:58:42.151Z",
+    "published": "Mon, 23 Nov 2026 12:31:41 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/mattersai-raises-12-million-pre-series-a-to-boost-data-security-platform-and-us-expansion",
+    "title": "Matters.AI Raises $12 Million Pre-Series A to Boost Data Security Platform & US Expansion",
+    "description": "The Bengaluru-based cybersecurity startup will use the capital to develop its data security platform and expand its sales operations in North America.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-23T21:58:42.151Z",
+    "published": "Mon, 23 Nov 2026 11:07:45 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/lt-technology-services-launches-ai-toolchain-for-software-defined-vehicles",
+    "title": "L&T Technology Services Launches AI Toolchain for Software-Defined Vehicles",
+    "description": "The platform combines 250 AI agents with rule-based automation across 12 engineering domains, while early pilots point to higher engineering capacity.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-23T21:58:42.151Z",
+    "published": "Mon, 23 Nov 2026 11:00:35 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/sarvam-defends-hosting-chinese-ai-models-releases-upgraded-105b-model",
+    "title": "Sarvam Defends Hosting Chinese AI Models, Releases Upgraded 105B Model",
+    "description": "Sarvam previously launched Token Factory as an inference platform that allows developers to access open-weight AI models via infrastructure in India.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-23T21:58:42.151Z",
+    "published": "Mon, 23 Nov 2026 10:12:56 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2320290/discontinued-airtags-still-serve-purpose/",
+    "title": "Your older, discontinued AirTags can still serve a purpose",
+    "description": "Apple has moved on from the original AirTag, but you don&#39;t have to. Find out how your old trackers can still earn their keep at home and on the go.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-23T21:58:44.236Z",
+    "published": "Mon, 23 Nov 2026 21:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2325828/new-leaks-reveal-the-iphone-18e-will-have-a-redesigned-camera-plateau/",
+    "title": "New leaks reveal the iPhone 18e will have a redesigned camera plateau",
+    "description": "We&#39;ve also got further confirmation the iPhone Air 2 will have a second camera lens.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-23T21:58:44.236Z",
+    "published": "Mon, 23 Nov 2026 20:57:55 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2325684/anthropic-softens-its-data-retention-policy-for-mythos-and-fable-model-use/",
+    "title": "Anthropic softens its data retention policy for Mythos and Fable model use",
+    "description": "Enterprise customers can now keep prompts and responses on their own servers.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-23T21:58:44.236Z",
+    "published": "Mon, 23 Nov 2026 20:02:30 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2325643/the-infamous-gta-6-hacker-has-been-released-after-pleading-guilty/",
+    "title": "The infamous GTA 6 hacker has been released after pleading guilty",
+    "description": "A judge warned the hacker not to \"let this happen again.\"",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-23T21:58:44.236Z",
+    "published": "Mon, 23 Nov 2026 19:42:43 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2325598/kodak-slidetag-combines-a-digital-photo-frame-and-an-airtag/",
+    "title": "Kodak's SlideTag combines a digital photo frame and an AirTag",
+    "description": "The SlideTag will come in a blind box with nine fun designs.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-23T21:58:44.236Z",
+    "published": "Mon, 23 Nov 2026 19:20:26 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2320174/how-to-clear-cache-fire-tv/",
+    "title": "How to clear the cache on your Fire TV",
+    "description": "Cache keeps software running smoothly, but can lead to problems if it gets too big and your device runs out of storage - which is quite easy with Fire TV.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-23T21:58:44.236Z",
+    "published": "Mon, 23 Nov 2026 18:15:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2320284/how-block-ai-slop-spam-social-media-platforms/",
+    "title": "You can block AI slop and spam on these social media platforms",
+    "description": "Some sites offer tools to filter the slop out of your feeds, while doing so on others will require some dedicated effort.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-23T21:58:44.236Z",
+    "published": "Mon, 23 Nov 2026 17:45:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2325111/two-states-sue-spacex-over-sexually-explicit-grok-deepfakes/",
+    "title": "Two states sue SpaceX over sexually explicit Grok deepfakes",
+    "description": "Oregon and Virginia&#39;s attorneys general said the company broke state consumer protection laws.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-23T21:58:44.236Z",
+    "published": "Mon, 23 Nov 2026 15:57:49 +0000"
   }
 ]
