@@ -115198,5 +115198,60 @@
     "category": "news",
     "discovered": "2026-11-23T21:58:44.236Z",
     "published": "Mon, 23 Nov 2026 15:57:49 +0000"
+  },
+  {
+    "url": "https://openai.com/index/introducing-shirudo",
+    "title": "OpenAI and Cisco introduce Shirudo",
+    "description": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-24T05:50:44.280Z",
+    "published": "Mon, 23 Nov 2026 21:20:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-24T05:53:15.301Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+    "description": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-24T05:50:47.180Z",
+    "published": "Mon, 23 Nov 2026 22:05:50 +0000",
+    "processed": true,
+    "processedAt": "2026-11-24T05:53:15.301Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+    "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+    "description": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-24T05:50:47.180Z",
+    "published": "Mon, 23 Nov 2026 22:02:05 +0000",
+    "processed": true,
+    "processedAt": "2026-11-24T05:53:15.301Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/",
+    "title": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes",
+    "description": "Anthropic's Claude Ship bundles Code Review, PR Steward and Claude Approvals to review, fix and approve GitHub pull requests. Code Review is GA; the other 2 agents are in public beta for Team and Enterprise.\nThe post Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes appeared fi",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-24T05:51:05.740Z",
+    "published": "Tue, 24 Nov 2026 00:02:39 +0000",
+    "processed": true,
+    "processedAt": "2026-11-24T05:53:15.301Z"
+  },
+  {
+    "url": "https://www.engadget.com/2320620/dism-commands-for-windows-system-image-repair/",
+    "title": "The three DISM commands you should know to fix your Windows system images",
+    "description": "Check and repair damaged system files with these DISM commands.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-24T05:51:10.518Z",
+    "published": "Tue, 24 Nov 2026 01:30:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-24T05:53:15.301Z"
   }
 ]
