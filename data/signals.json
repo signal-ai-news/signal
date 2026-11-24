@@ -115253,5 +115253,492 @@
     "published": "Tue, 24 Nov 2026 01:30:00 +0000",
     "processed": true,
     "processedAt": "2026-11-24T05:53:15.301Z"
+  },
+  {
+    "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+    "title": "How Gemini is changing the game for Golden State's organization and fans.",
+    "description": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+    "source": "Google AI Blog",
+    "category": "llm",
+    "discovered": "2026-11-24T17:24:55.190Z",
+    "published": "Tue, 24 Nov 2026 16:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-24T17:27:32.158Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+    "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+    "description": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-24T17:24:56.984Z",
+    "published": "Tue, 24 Nov 2026 17:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-24T17:27:32.158Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+    "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+    "description": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-24T17:24:56.984Z",
+    "published": "Tue, 24 Nov 2026 16:46:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-24T17:27:32.158Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+    "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+    "description": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-24T17:24:56.984Z",
+    "published": "Tue, 24 Nov 2026 16:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-24T17:27:32.158Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+    "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+    "description": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-24T17:24:56.984Z",
+    "published": "Tue, 24 Nov 2026 16:02:37 +0000",
+    "processed": true,
+    "processedAt": "2026-11-24T17:27:32.158Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+    "title": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
+    "description": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-24T17:24:56.984Z",
+    "published": "Tue, 24 Nov 2026 15:51:07 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+    "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+    "description": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-11-24T17:24:57.579Z",
+    "published": "Tue, 24 Nov 2026 12:30:05 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+    "title": "Raising the stakes for enterprise networks with AI modernization",
+    "description": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than t",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-24T17:24:58.138Z",
+    "published": "Tue, 24 Nov 2026 15:15:16 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
+    "title": "The Download: AI’s gas power boom and a consciousness reality check",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building a data center is getting approval to connect to t",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-24T17:24:58.138Z",
+    "published": "Tue, 24 Nov 2026 13:10:00 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+    "title": "Data centers are getting their own natural gas power plants",
+    "description": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI b",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-24T17:24:58.138Z",
+    "published": "Tue, 24 Nov 2026 11:00:00 +0000"
+  },
+  {
+    "url": "https://byname.dev/",
+    "title": "Show HN: Byname – open-source tool to see when AI assistants name your product",
+    "description": "Article URL: https://byname.dev/\nComments URL: https://news.ycombinator.com/item?id=50631364\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-24T17:25:08.458Z",
+    "published": "Tue, 24 Nov 2026 17:21:40 +0000"
+  },
+  {
+    "url": "https://github.com/navbuildz/ai-usage-menu",
+    "title": "Show HN: AI Usage Menu, Claude Code and Codex limits in your Mac menu bar",
+    "description": "Article URL: https://github.com/navbuildz/ai-usage-menu\nComments URL: https://news.ycombinator.com/item?id=50631176\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-24T17:25:08.458Z",
+    "published": "Tue, 24 Nov 2026 17:08:37 +0000"
+  },
+  {
+    "url": "https://leaddev.com/ai/your-ai-coding-agent-lacks-context",
+    "title": "AI coding agent lacks context",
+    "description": "Article URL: https://leaddev.com/ai/your-ai-coding-agent-lacks-context\nComments URL: https://news.ycombinator.com/item?id=50631105\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-24T17:25:08.458Z",
+    "published": "Tue, 24 Nov 2026 17:04:07 +0000"
+  },
+  {
+    "url": "https://ownshopai.store/",
+    "title": "Shop answers customers by itself,local LLM, no hosting, tunnel, tg and wa",
+    "description": "Article URL: https://ownshopai.store/\nComments URL: https://news.ycombinator.com/item?id=50631095\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-24T17:25:08.458Z",
+    "published": "Tue, 24 Nov 2026 17:03:37 +0000"
+  },
+  {
+    "url": "https://claude.com/resources/articles/code-review-is-now-generally-available",
+    "title": "Code Review is now generally available – Claude by Anthropic",
+    "description": "Article URL: https://claude.com/resources/articles/code-review-is-now-generally-available\nComments URL: https://news.ycombinator.com/item?id=50631012\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-24T17:25:08.458Z",
+    "published": "Tue, 24 Nov 2026 16:58:43 +0000"
+  },
+  {
+    "url": "https://lyfe.ninja/news/ai-data-provenance-content-integrity/",
+    "title": "AI Trust Starts with the Data It Consumes",
+    "description": "Article URL: https://lyfe.ninja/news/ai-data-provenance-content-integrity/\nComments URL: https://news.ycombinator.com/item?id=50630989\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-24T17:25:08.458Z",
+    "published": "Tue, 24 Nov 2026 16:57:22 +0000"
+  },
+  {
+    "url": "https://blog.adrq.dev/ai-whiplash/",
+    "title": "AI Whiplash: How to Tell Which Future We're Heading For",
+    "description": "Article URL: https://blog.adrq.dev/ai-whiplash/\nComments URL: https://news.ycombinator.com/item?id=50630959\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-24T17:25:08.458Z",
+    "published": "Tue, 24 Nov 2026 16:54:49 +0000"
+  },
+  {
+    "url": "https://mobilecode.ai/hackathon",
+    "title": "Hackathon: Build an iOS app in 1 hour, $1k in AI credits",
+    "description": "Article URL: https://mobilecode.ai/hackathon\nComments URL: https://news.ycombinator.com/item?id=50630700\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-24T17:25:08.458Z",
+    "published": "Tue, 24 Nov 2026 16:38:57 +0000"
+  },
+  {
+    "url": "https://github.com/Emreceyhnn/Agentbadge",
+    "title": "Show HN: Agentbadge – Lighthouse for AI coding agents (0-100 readiness score)",
+    "description": "Article URL: https://github.com/Emreceyhnn/Agentbadge\nComments URL: https://news.ycombinator.com/item?id=50630528\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-24T17:25:08.458Z",
+    "published": "Tue, 24 Nov 2026 16:27:48 +0000"
+  },
+  {
+    "url": "https://github.com/EdonZo/sidemoon",
+    "title": "Show HN: I've become the dumb one, so I made a shortcut to ask Claude",
+    "description": "Whenever Claude hands a step back to me, a signup, onboarding or an API key Im lost; and most of the time stuck. No context, stuck on something easy. Me and Claude have switched seats quite fast: claude does the work and I'm the one who needs to be told what to do.And speed matters now. I have Clau",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-24T17:25:08.458Z",
+    "published": "Tue, 24 Nov 2026 16:13:13 +0000"
+  },
+  {
+    "url": "https://github.com/AryabhattaLabs/agent-tool-result-reducer",
+    "title": "Show HN: Fit large JSON tool results into an LLM's context without losing data",
+    "description": "Article URL: https://github.com/AryabhattaLabs/agent-tool-result-reducer\nComments URL: https://news.ycombinator.com/item?id=50630315\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-24T17:25:08.458Z",
+    "published": "Tue, 24 Nov 2026 16:12:57 +0000"
+  },
+  {
+    "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+    "title": "Tidal bans AI-generated music",
+    "description": "Article URL: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/\nComments URL: https://news.ycombinator.com/item?id=50630309\nPoints: 185\n# Comments: 143",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-24T17:25:08.458Z",
+    "published": "Tue, 24 Nov 2026 16:12:38 +0000"
+  },
+  {
+    "url": "https://github.com/almma-ai/pii-guard",
+    "title": "Show HN: PII Guard – local Chrome extension that redacts PII before AI chats",
+    "description": "Article URL: https://github.com/almma-ai/pii-guard\nComments URL: https://news.ycombinator.com/item?id=50630304\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-24T17:25:08.458Z",
+    "published": "Tue, 24 Nov 2026 16:12:21 +0000"
+  },
+  {
+    "url": "https://mailarchive.ietf.org/arch/msg/wimse/dN51wJq1zrDjrnew-6nFdwcG05Y/",
+    "title": "Guidelines for AI-Assisted Contributions to the Wimse WG",
+    "description": "Article URL: https://mailarchive.ietf.org/arch/msg/wimse/dN51wJq1zrDjrnew-6nFdwcG05Y/\nComments URL: https://news.ycombinator.com/item?id=50630277\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-24T17:25:08.458Z",
+    "published": "Tue, 24 Nov 2026 16:10:58 +0000"
+  },
+  {
+    "url": "https://somaai.earth/ai-footprint/llm-api-cost-calculator",
+    "title": "Show HN: LLM API cost and carbon calculator for your own token mix",
+    "description": "Article URL: https://somaai.earth/ai-footprint/llm-api-cost-calculator\nComments URL: https://news.ycombinator.com/item?id=50630243\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-24T17:25:08.458Z",
+    "published": "Tue, 24 Nov 2026 16:08:22 +0000"
+  },
+  {
+    "url": "https://www.fraudarena.com/",
+    "title": "Fraud Arena, a benchmark for AI on financial fraud",
+    "description": "Article URL: https://www.fraudarena.com/\nComments URL: https://news.ycombinator.com/item?id=50630230\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-24T17:25:08.458Z",
+    "published": "Tue, 24 Nov 2026 16:07:58 +0000"
+  },
+  {
+    "url": "https://vibevigil.com/",
+    "title": "Show HN: VibeVigil – scan AI-built apps for leaked keys and open tables",
+    "description": "Article URL: https://vibevigil.com/\nComments URL: https://news.ycombinator.com/item?id=50630169\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-24T17:25:08.458Z",
+    "published": "Tue, 24 Nov 2026 16:04:21 +0000"
+  },
+  {
+    "url": "https://www.mercor.com/blog/what-workers-want-to-hand-to-ai-and-what-they-want-to-keep/",
+    "title": "What workers want to hand to AI, and what they want to keep",
+    "description": "Article URL: https://www.mercor.com/blog/what-workers-want-to-hand-to-ai-and-what-they-want-to-keep/\nComments URL: https://news.ycombinator.com/item?id=50630013\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-24T17:25:08.458Z",
+    "published": "Tue, 24 Nov 2026 15:53:52 +0000"
+  },
+  {
+    "url": "https://medium.com/@rickleffke/should-your-ai-agent-confirm-who-is-asking-before-it-moves-money-3b22fc2cf2c6",
+    "title": "Should your AI agent confirm who is asking before it moves money?",
+    "description": "Article URL: https://medium.com/@rickleffke/should-your-ai-agent-confirm-who-is-asking-before-it-moves-money-3b22fc2cf2c6\nComments URL: https://news.ycombinator.com/item?id=50629980\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-24T17:25:08.458Z",
+    "published": "Tue, 24 Nov 2026 15:51:17 +0000"
+  },
+  {
+    "url": "https://veltisto.ai/thesis",
+    "title": "AI inference needs its kilowatt-hour: bill by ZSTD-compressed output, not tokens",
+    "description": "Article URL: https://veltisto.ai/thesis\nComments URL: https://news.ycombinator.com/item?id=50629922\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-24T17:25:08.458Z",
+    "published": "Tue, 24 Nov 2026 15:47:56 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/i-built-a-bayesian-neural-network-from-one-neuron-and-football-shots/",
+    "title": "I Built a Bayesian Neural Network From One Neuron and Football Shots",
+    "description": "Gaussian weights, the reparameterisation trick, and Monte Carlo sampling turn a single sigmoid neuron into a Bayesian expected-goals model on StatsBomb data.\nThe post I Built a Bayesian Neural Network From One Neuron and Football Shots appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-24T17:25:13.567Z",
+    "published": "Tue, 24 Nov 2026 15:00:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-plan-retries-for-multi-agent-workflows-before-you-write-code/",
+    "title": "How to Plan Retries for Multi-Agent Workflows Before You Write Code",
+    "description": "A Mermaid blueprint, Python dataclasses, and a retryable flag decide when a failed agent tries again and when the task goes to a person.\nThe post How to Plan Retries for Multi-Agent Workflows Before You Write Code appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-24T17:25:13.567Z",
+    "published": "Tue, 24 Nov 2026 13:30:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-calculate-and-operationalize-customer-lifetime-value/",
+    "title": "How to Calculate and Operationalize Customer Lifetime Value",
+    "description": "For analysts and commercial leaders: how cohort churn, BTYD models, and behavioral segments turn CLV from a board-deck KPI into daily decisions.\nThe post How to Calculate and Operationalize Customer Lifetime Value appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-24T17:25:13.567Z",
+    "published": "Tue, 24 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stupid-things-in-the-rollout/",
+    "title": "Anthropic researcher stands by his AI-assisted Riemann proof but owns up to \"stupid things\" in the rollout",
+    "description": "Anthropic researcher Levent Alpöge is walking back parts of his announcement of an AI-assisted proof of the generalized Riemann hypothesis. The claim that it ran to more than 250,000 pages was a joke, he says, and the published Lean code is \"full of garbage.\" He still stands by the math.\nTh",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-24T17:25:14.500Z",
+    "published": "Tue, 24 Nov 2026 14:28:41 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/",
+    "title": "Dozens of insiders say OpenAI and Anthropic's unreleased models have outgrown their safety measures",
+    "description": "According to an Axios report, many employees at OpenAI and Anthropic believe the companies' own unreleased frontier models can no longer be safely controlled. Both companies are internally debating whether to halt releases or even stop training altogether, while employee trust in leadership",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-24T17:25:14.500Z",
+    "published": "Tue, 24 Nov 2026 14:02:31 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/german-researchers-call-for-computer-science-to-reinvent-itself-as-computer-and-ai-science/",
+    "title": "German researchers call for computer science to reinvent itself as \"Computer and AI Science\"",
+    "description": "In a position paper, TU Darmstadt researchers call for redefining computer science as \"Computer and AI Science.\" Their biggest concern is code generated on the fly at runtime, which they say upends today's safety and correctness guarantees.\nThe article German researchers call for computer s",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-24T17:25:14.500Z",
+    "published": "Tue, 24 Nov 2026 12:30:49 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/",
+    "title": "Anthropic's Claude Ship lets AI agents review, fix, and approve pull requests on their own",
+    "description": "Anthropic has introduced Claude Ship, a new tool currently in beta that automatically reviews, corrects, and approves suggestions for code changes in accordance with team guidelines.\nThe article Anthropic&#039;s Claude Ship lets AI agents review, fix, and approve pull requests on their own",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-24T17:25:14.500Z",
+    "published": "Tue, 24 Nov 2026 11:26:23 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+    "title": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+    "description": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-24T17:25:20.040Z",
+    "published": "Tue, 24 Nov 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving/",
+    "title": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
+    "description": "Young people anxious about their futures say they’re increasingly frustrated with their pro-AI parents. They’re worried it’s going to make holiday gatherings very tense.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-24T17:25:20.040Z",
+    "published": "Tue, 24 Nov 2026 10:45:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
+    "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
+    "description": "It will take mathematicians months to understand the “alien” 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-24T17:25:20.040Z",
+    "published": "Tue, 24 Nov 2026 10:15:00 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/24/openai-cisco-shirudo-ebpf-linux-runtime/",
+    "title": "OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to Defend Systems Without Downtime",
+    "description": "OpenAI and Cisco released Shirudo, a pre-release, BSD-licensed eBPF runtime for Linux. AI agents write signed \"shields\" that block exploit paths on running systems while teams test and roll out real patches.\nThe post OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-24T17:25:22.396Z",
+    "published": "Tue, 24 Nov 2026 14:16:53 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/crowdstrike-to-buy-zscaler-for-44-billion-as-ai-raises-stakes-for-cyber-defence",
+    "title": "CrowdStrike to Buy Zscaler for $44 Bn as AI Raises Stakes for Cyber Defence",
+    "description": "The deal will combine endpoint and network security businesses, giving CrowdStrike access to Zscaler's customer base and expanding its presence in enterprise",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-24T17:25:24.870Z",
+    "published": "Tue, 24 Nov 2026 11:50:21 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/openai-and-cisco-launch-shirudo-to-protect-linux-systems-from-exploits",
+    "title": "OpenAI, Cisco Launch Open-Source Security Tool in Wake of Outages",
+    "description": "Shirudo uses temporary safeguards to block exploits while allowing legitimate requests through, without taking services offline.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-24T17:25:24.870Z",
+    "published": "Tue, 24 Nov 2026 11:37:26 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/google-launches-momentum-initiative-to-support-indias-startups",
+    "title": "Google Launches Initiative to Support Indian Startups With AI, Cloud Infra",
+    "description": "The initiative will provide Indian founders access to Google's AI models, cloud infrastructure, engineering expertise, and global platforms.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-24T17:25:24.870Z",
+    "published": "Tue, 24 Nov 2026 10:30:34 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/cashfree-launches-wallet-letting-ai-agents-pay-for-indian-users",
+    "title": "Cashfree Enables AI Agents in India to Pay From Wallet on Behalf of Users",
+    "description": "Users keep control, as Cashfree Wallet lets AI agents pay bills within set budgets without ever seeing card or bank details.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-24T17:25:24.870Z",
+    "published": "Tue, 24 Nov 2026 10:23:56 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/anthropics-claude-ship-brings-ai-agents-into-code-approval",
+    "title": "Anthropic Introduces Claude Ship to Bring AI Agents Into Code Approval",
+    "description": "The new suite of AI tools can review code, fix errors and approve routine changes based on rules set by development teams.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-24T17:25:24.870Z",
+    "published": "Tue, 24 Nov 2026 08:16:03 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/nasscom-seeks-three-year-ai-scheme-for-indian-it-firms-in-budget-2027-28",
+    "title": "Ahead of Budget, Nasscom Seeks AI Scheme for Indian IT",
+    "description": "The proposal includes support for AI product development, supervised employee training, and shared technical facilities for smaller service providers.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-24T17:25:24.870Z",
+    "published": "Tue, 24 Nov 2026 07:27:30 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/antariksh-venture-capital-fund-invests-60-cr-in-bengalurus-satsure",
+    "title": "Antariksh Venture Capital Fund Invests ₹60 Cr in Bengaluru's SatSure",
+    "description": "The investment will support SatSure’s satellite payload development, Earth observation constellation, AI models, and international expansion.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-24T17:25:24.870Z",
+    "published": "Tue, 24 Nov 2026 07:11:51 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/how-will-ai-change-jobs-in-india-the-skills-roles-and-workers-at-risk",
+    "title": "How Will AI Change Jobs in India? The Roles at Risk & Those on the Rise",
+    "description": "Artificial intelligence is changing the nature of work in India. As routine tasks become easier to automate, critical thinking, human judgment and continuous",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-24T17:25:24.870Z",
+    "published": "Tue, 24 Nov 2026 06:46:31 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2326663/meta-is-bringing-muse-to-instagram/",
+    "title": "Meta is bringing Muse to Instagram",
+    "description": "Instagram will prompt people to use the agent to sort through their saved content.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-24T17:25:27.076Z",
+    "published": "Tue, 24 Nov 2026 17:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2320821/wireless-android-auto-battery-drain-fix/",
+    "title": "Wireless Android Auto has a phone battery draining problem, but you can fix it",
+    "description": "Wireless Android Auto can drain your phone&#39;s battery, but a few easy adjustments can help reduce power use and keep your phone cooler while you&#39;re driving.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-24T17:25:27.076Z",
+    "published": "Tue, 24 Nov 2026 16:45:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2320357/why-faa-doesnt-want-airpods-in-luggage/",
+    "title": "Why the FAA doesn't want you to put AirPods in your luggage",
+    "description": "Here's what aviation regulators think about the AirPods in your luggage, plus a few tips that can get you and your gadgets through security faster.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-24T17:25:27.076Z",
+    "published": "Tue, 24 Nov 2026 13:45:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2326288/openai-employee-recorded-meetings-allegedly-affiliated-saudi-government/",
+    "title": "OpenAI employee who secretly recorded meetings allegedly affiliated with the Saudi government",
+    "description": "The OpenAI employee who was charged for implanting a recording device uploaded files to Dropbox and took photos of confidential files, prosecutors say.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-24T17:25:27.076Z",
+    "published": "Tue, 24 Nov 2026 09:24:09 +0000"
   }
 ]
