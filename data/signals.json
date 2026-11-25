@@ -115740,5 +115740,222 @@
     "category": "news",
     "discovered": "2026-11-24T17:25:27.076Z",
     "published": "Tue, 24 Nov 2026 09:24:09 +0000"
+  },
+  {
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "description": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-25T01:31:25.641Z",
+    "published": "Tue, 24 Nov 2026 13:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-25T01:34:08.079Z"
+  },
+  {
+    "url": "https://openai.com/business/customer-stories/ifood",
+    "title": "How iFood scales coding agents across 15,000 repositories",
+    "description": "",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-25T01:31:25.641Z",
+    "published": "Tue, 24 Nov 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-25T01:34:08.079Z"
+  },
+  {
+    "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+    "title": "Clay helps sales teams win with Codex and ChatGPT",
+    "description": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+    "source": "OpenAI Blog",
+    "category": "llm",
+    "discovered": "2026-11-25T01:31:25.641Z",
+    "published": "Tue, 24 Nov 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-25T01:34:08.079Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+    "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+    "description": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-25T01:31:28.944Z",
+    "published": "Wed, 25 Nov 2026 00:12:02 +0000",
+    "processed": true,
+    "processedAt": "2026-11-25T01:34:08.079Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+    "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+    "description": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-25T01:31:28.944Z",
+    "published": "Tue, 24 Nov 2026 21:48:27 +0000",
+    "processed": true,
+    "processedAt": "2026-11-25T01:34:08.079Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+    "title": "Even the best AI agents struggle with everyday life",
+    "description": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-25T01:31:28.944Z",
+    "published": "Tue, 24 Nov 2026 21:33:29 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+    "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+    "description": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-25T01:31:28.944Z",
+    "published": "Tue, 24 Nov 2026 21:32:38 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+    "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+    "description": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-25T01:31:28.944Z",
+    "published": "Tue, 24 Nov 2026 21:19:52 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+    "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+    "description": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-25T01:31:28.944Z",
+    "published": "Tue, 24 Nov 2026 18:30:42 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+    "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+    "description": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-25T01:31:28.944Z",
+    "published": "Tue, 24 Nov 2026 18:02:59 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/what-is-sip-trunking",
+    "title": "What is SIP trunking? A business guide to modern calls",
+    "description": "Learn what is SIP trunking, how it works, what it costs, how to choose a provider, and how to connect it to AI voice agents for customer service.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-25T01:31:32.978Z",
+    "published": "Tue, 24 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/yahoo",
+    "title": "How Yahoo Scout, a new AI answer tool from Yahoo, got a voice",
+    "description": "Yahoo used the ElevenAgents platform to add conversational voice to its new Yahoo Scout AI answer tool, going from kickoff to production in 6 weeks.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-25T01:31:32.978Z",
+    "published": "Tue, 24 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/",
+    "title": "Anthropic turns Claude Artifacts into standalone desktop apps for macOS and Windows",
+    "description": "Anthropic now lets you install Claude Artifacts as desktop apps on Mac and Windows, and a free account is enough. You build one in chat without writing code, and it can add menu bar items, send notifications, and create transparent windows.\nThe article Anthropic turns Claude Artifacts into",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-25T01:31:42.965Z",
+    "published": "Tue, 24 Nov 2026 20:42:29 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
+    "title": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents",
+    "description": "Two years after launch, Anthropic reports more than 700 million monthly downloads for its MCP interface standard. New features such as background tasks, follow-up questions for users, and file uploads are meant to let Claude work more independently.\nThe article Anthropic tops 700 million mo",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-25T01:31:42.965Z",
+    "published": "Tue, 24 Nov 2026 19:23:41 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/novartis-ceo-says-ai-will-shave-four-years-off-drug-development-not-cure-all-disease/",
+    "title": "Novartis CEO says AI will shave four years off drug development, not cure all disease",
+    "description": "Novartis CEO Vas Narasimhan, who also sits on Anthropic's board, is pushing back on the cure-all promises from Anthropic CEO Amodei and DeepMind founder Hassabis. AI will speed up drug development, he says, but it won't beat cancer in a decade. The real value lies \"somewhere in the middle.\"",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-25T01:31:42.965Z",
+    "published": "Tue, 24 Nov 2026 18:01:55 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/openai-o1-co-creator-noam-brown-urges-promising-students-to-drop-out-as-ai-enters-a-very-steep-rate-of-progress/",
+    "title": "OpenAI o1 co-creator Noam Brown urges promising students to drop out as AI enters a \"very steep rate of progress\"",
+    "description": "OpenAI researcher Noam Brown is urging promising students to drop out, saying it's \"not a great time to sit on the sidelines.\" The o1 co-creator says AI is still in a \"centaur period\" and struggles with planning and self-correction, though he expects a \"very steep rate of progress\" soon. Ac",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-25T01:31:42.965Z",
+    "published": "Tue, 24 Nov 2026 17:58:44 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/24/meta-facebook-your-algorithm-llm-recommendations/",
+    "title": "Meet Facebook’s Your Algorithm: How Meta Turns Plain-Language Preferences Into Ranking",
+    "description": "Meta's engineering team explains how Facebook's Your Algorithm turns plain-language interests into ranking signals for Feed and Reels, using LLM validation, 4 retrieval sources, layered filtering and a fine-tuned LLM reranker.\nThe post Meet Facebook&#8217;s Your Algorithm: How Meta Turns Plain-Langu",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-25T01:31:51.616Z",
+    "published": "Tue, 24 Nov 2026 23:06:17 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2321251/apple-watch-tell-time-without-looking-haptic-feedback/",
+    "title": "You don't have to look at your Apple Watch to get the time",
+    "description": "Your Apple Watch has a way to share the time that even supports Morse Code. See which of its three modes makes sense for your daily routine.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-25T01:31:57.675Z",
+    "published": "Wed, 25 Nov 2026 00:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2327450/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-rules/",
+    "title": "Huawei is guilty of conspiracy to steal trade secrets, US jury rules",
+    "description": "The charges against the Chinese tech company date back to 2019.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-25T01:31:57.675Z",
+    "published": "Tue, 24 Nov 2026 22:40:07 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2321243/why-never-reply-stop-when-receive-spam-texts/",
+    "title": "Why you should never reply with STOP when you receive spam texts",
+    "description": "Replying STOP can certainly stop unwanted messages from reputable senders, but replying to scam texts can do more harm that good.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-25T01:31:57.675Z",
+    "published": "Tue, 24 Nov 2026 19:30:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2321242/chatgpt-biggest-limitations/",
+    "title": "The biggest limitations of ChatGPT",
+    "description": "Here's why paying for a premium ChatGPT plan won't shield you from its biggest weaknesses, and what that means for trusting the chatbot with your work.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-25T01:31:57.675Z",
+    "published": "Tue, 24 Nov 2026 19:00:00 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2326812/tidal-is-banning-ai-generated-music-entirely/",
+    "title": "Tidal is banning AI-generated music entirely",
+    "description": "The company expects to purge 29 million tracks starting on December 9.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-25T01:31:57.675Z",
+    "published": "Tue, 24 Nov 2026 17:58:04 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2321241/how-much-replace-tesla-battery-out-of-warranty/",
+    "title": "How much does it cost to replace an out-of-warranty Tesla battery?",
+    "description": "Check out what goes into a Tesla battery bill beyond the pack itself, and know when a repair, a refurbished pack or extra coverage makes sense for you.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-25T01:31:57.675Z",
+    "published": "Tue, 24 Nov 2026 17:45:00 +0000"
   }
 ]
