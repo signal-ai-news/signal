@@ -116039,5 +116039,303 @@
     "category": "ml",
     "discovered": "2026-11-25T10:22:12.661Z",
     "published": "Wed, 25 Nov 2026 04:15:18 GMT"
+  },
+  {
+    "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+    "title": "Where scientists draw the line on AI agents",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-11-25T20:04:58.122Z",
+    "published": "Wed, 25 Nov 2026 18:52:55 GMT",
+    "processed": true,
+    "processedAt": "2026-11-25T20:07:33.707Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "title": "An Indic Voice Agent with CUGA",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-11-25T20:04:58.122Z",
+    "published": "Wed, 25 Nov 2026 10:22:09 GMT",
+    "processed": true,
+    "processedAt": "2026-11-25T20:07:33.707Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+    "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-11-25T20:04:58.122Z",
+    "published": "Wed, 25 Nov 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-25T20:07:33.707Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "description": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-25T20:04:59.307Z",
+    "published": "Wed, 25 Nov 2026 20:03:27 +0000",
+    "processed": true,
+    "processedAt": "2026-11-25T20:07:33.707Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+    "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+    "description": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-25T20:04:59.307Z",
+    "published": "Wed, 25 Nov 2026 19:44:24 +0000",
+    "processed": true,
+    "processedAt": "2026-11-25T20:07:33.707Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+    "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+    "description": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-25T20:04:59.307Z",
+    "published": "Wed, 25 Nov 2026 18:11:46 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+    "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+    "description": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-25T20:04:59.307Z",
+    "published": "Wed, 25 Nov 2026 17:35:58 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+    "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+    "description": "⁠Nvidia has made clear⁠ it won&#8217;t backstop an AI data center until it&#8217;s nearly ready to run, and that&#8217;s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-25T20:04:59.307Z",
+    "published": "Wed, 25 Nov 2026 15:41:43 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+    "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+    "description": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-25T20:04:59.307Z",
+    "published": "Wed, 25 Nov 2026 14:10:18 +0000"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+    "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+    "description": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-25T20:04:59.307Z",
+    "published": "Wed, 25 Nov 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+    "title": "Backblaze explains why it's sharing customer information with advertisers",
+    "description": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
+    "source": "Ars Technica AI",
+    "category": "news",
+    "discovered": "2026-11-25T20:04:59.969Z",
+    "published": "Wed, 25 Nov 2026 18:38:29 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+    "title": "How data centers are driving a US natural-gas boom",
+    "description": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right. Sure, it’s technically possible to meet the world’s rising electricity demand with other powe",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-25T20:05:00.556Z",
+    "published": "Wed, 25 Nov 2026 17:00:00 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+    "title": "The Download: AI swamping open records, and firefighting for permafrost",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors&#8217; interest in public records. Over the last few years, venture-backed",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-25T20:05:00.556Z",
+    "published": "Wed, 25 Nov 2026 13:10:00 +0000"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+    "title": "AI is straining America’s open records systems",
+    "description": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-25T20:05:00.556Z",
+    "published": "Wed, 25 Nov 2026 10:00:00 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/fixing-front-door-government",
+    "title": "Fixing the front door to government, one voice agent at a time",
+    "description": "The front door to government for millions of people is an outdated IVR phone menu. Governments are now adopting AI agents for several kinds of calls.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-25T20:05:02.739Z",
+    "published": "Wed, 25 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://towardsdatascience.com/a-second-llm-judge-hit-875-precision-but-left-21-of-33-for-humans/",
+    "title": "A Second LLM Judge Hit 87.5% Precision but Left 21 of 33 for Humans",
+    "description": "Using Han and Kim's Chatbot Arena data, GPT-6 Luna and Claude Haiku 4.5 were tested as a panel, and Haiku alone matched users on 22 of 23 clear matchups.\nThe post A Second LLM Judge Hit 87.5% Precision but Left 21 of 33 for Humans appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-25T20:05:11.006Z",
+    "published": "Wed, 25 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
+    "title": "OpenAI wants companies to trust it with sensitive work by promising not to look at their data",
+    "description": "OpenAI is testing a new feature called \"Private Inference\" that lets companies run queries on its most powerful models without OpenAI being able to access the data.\nThe article OpenAI wants companies to trust it with sensitive work by promising not to look at their data appeared first on Th",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-25T20:05:12.010Z",
+    "published": "Wed, 25 Nov 2026 18:22:02 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/",
+    "title": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.",
+    "description": "Amazon and Meta are in talks to bring back Muse, Meta's AI shopping agent that Amazon kicked off its platform in September. The two sides are stuck on ad revenue and who gets to control search results. That matters because Amazon's ad business generates $68.6 billion a year, and Muse alread",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-25T20:05:12.010Z",
+    "published": "Wed, 25 Nov 2026 16:44:37 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+    "title": "AI agents now control part of Deepmind's compute for Gemini experiments, but recursive self-improvement remains distant",
+    "description": "Google Deepmind uses AI agents to run experiments on their own for upcoming Gemini models. Research chief Koray Kavukcuoglu says the lab is still far from recursive self-improvement. For oversight, Deepmind intentionally leaves the agents' internal chains of thought untrained so they can be",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-25T20:05:12.010Z",
+    "published": "Wed, 25 Nov 2026 13:23:36 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/",
+    "title": "Anthropic study shows the hardest part of adopting AI at work has little to do with learning the tools",
+    "description": "Anthropic studied nearly 300 AI deployments across 58 US companies with sobering results. Nearly one in five still delivers no business value, held back by heavy review workloads, internal bottlenecks, and employee resistance. The researchers say the biggest hurdles stem from outdated compa",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-25T20:05:12.010Z",
+    "published": "Wed, 25 Nov 2026 13:14:27 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/back-to-back-cyber-incidents-at-us-financial-investigators-and-spy-agencies-follow-a-string-of-federal-hacks-and-outages/",
+    "title": "Back-to-back cyber incidents at US financial investigators and spy agencies follow a string of federal hacks and outages",
+    "description": "The US Financial Crimes Enforcement Network took systems offline as a precaution after unauthorized access. Hours earlier, reports emerged of a separate breach at the CIA, NGA, and ODNI, in which investigators suspect attackers used the AI defense tool Artex. Both incidents land on a US pub",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-25T20:05:12.010Z",
+    "published": "Wed, 25 Nov 2026 13:07:44 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/",
+    "title": "PrismML shrinks a 54 GB language model to 5.9 GB by reducing every weight to just three possible values",
+    "description": "Startup PrismML has released Ternary Bonsai 2.5 27B, an updated version of its aggressively compressed language model.\nThe article PrismML shrinks a 54 GB language model to 5.9 GB by reducing every weight to just three possible values appeared first on The Decoder.",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-25T20:05:12.010Z",
+    "published": "Wed, 25 Nov 2026 11:51:49 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-more-reliable/",
+    "title": "MIT team discovers that unrealistic training data makes AI climate predictions more reliable",
+    "description": "MIT researchers have developed a method that lets AI climate models get by with a single training run instead of the usual six to eight. An algorithm generates deliberately unrealistic scenarios with extreme CO2 or methane swings that make the model more robust. Until now, these emulators w",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-25T20:05:12.010Z",
+    "published": "Wed, 25 Nov 2026 10:47:51 +0000"
+  },
+  {
+    "url": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/",
+    "title": "Art of play in the age of AI",
+    "description": "Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers.\nThe post Art of play in the age of AI appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-11-25T20:05:17.725Z",
+    "published": "Wed, 25 Nov 2026 16:00:00 +0000"
+  },
+  {
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+    "title": "How to choose the next safe step in application modernization",
+    "description": "Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill.\nThe post How to choose the next safe step in application modernization appeared first on The GitHub Blog.",
+    "source": "GitHub Copilot Blog",
+    "category": "code",
+    "discovered": "2026-11-25T20:05:17.725Z",
+    "published": "Wed, 25 Nov 2026 15:00:00 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+    "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+    "description": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-25T20:05:19.167Z",
+    "published": "Wed, 25 Nov 2026 11:30:00 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/ai-trading-in-india-promises-smarter-investment-betsat-a-steep-new-risk",
+    "title": "AI Trading in India Promises Smarter Investment Bets—At a Steep New Risk",
+    "description": "AI-powered stock discovery tools are minimising the effort involved in research. However, building a financial chatbot comes with a significant challenge",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-25T20:05:23.774Z",
+    "published": "Wed, 25 Nov 2026 13:31:32 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/bp-to-transfer-3000-finance-employees-to-wipro-in-strategic-partnership",
+    "title": "Wipro to Onboard BP's 3,000-Member Finance Team in AI Transformation Deal",
+    "description": "The arrangement covers finance teams in India, Hungary and Malaysia, with the new operating model expected to take effect in 2027.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-25T20:05:23.774Z",
+    "published": "Wed, 25 Nov 2026 12:37:08 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/anthropic-brings-claude-duet-ai-agent-to-india",
+    "title": "Anthropic Brings Claude Duet AI Agent to India",
+    "description": "Claude Duet is available through a waitlist for Pro, Max, and Ultra subscribers in India, while Team users get access through a public beta.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-25T20:05:23.774Z",
+    "published": "Wed, 25 Nov 2026 10:44:11 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2328122/nothings-ear-note-is-a-pair-of-earbuds-with-built-in-ai-notetaking/",
+    "title": "Nothing's Ear (note) is a pair of earbuds with built-in AI notetaking",
+    "description": "The company has promised to share more details on December 8.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-25T20:05:25.914Z",
+    "published": "Wed, 25 Nov 2026 16:03:17 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2327916/five-solar-generators-going-for-deep-discounts-on-black-friday/",
+    "title": "Five solar generators going for deep discounts on Black Friday",
+    "description": "Save 20 to 40 percent on models from Anker, EcoFlow and more.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-25T20:05:25.914Z",
+    "published": "Wed, 25 Nov 2026 14:15:20 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2326961/acer-predator-atlas-8-review/",
+    "title": "Acer Predator Atlas 8 review: Potent performance at a slightly better price",
+    "description": "Thanks to its Intel Arc G3 Extreme chip, the Acer Predator Atlas 8 delivers 95 percent of the performance you get from MSI's Claw 8 EX AI+ for $350 less.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-25T20:05:25.914Z",
+    "published": "Wed, 25 Nov 2026 13:00:00 +0000"
   }
 ]
