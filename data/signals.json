@@ -115957,5 +115957,87 @@
     "category": "news",
     "discovered": "2026-11-25T01:31:57.675Z",
     "published": "Tue, 24 Nov 2026 17:45:00 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/24/bytedance-seed-laminar-async-rl-post-training-framework/",
+    "title": "ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learning RL Post-Training Framework",
+    "description": "Laminar is an open-source asynchronous RL post-training framework from HKU and ByteDance Seed researchers. It decouples rollout, training and weight sync, and lifted Qwen3-Coder-30B-A3B to 52.2% on SWE-bench Verified.\nThe post ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learni",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-25T10:22:10.519Z",
+    "published": "Wed, 25 Nov 2026 05:42:05 +0000",
+    "processed": true,
+    "processedAt": "2026-11-25T10:24:24.995Z"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/at-un-india-warns-of-ai-misuse-in-conflicts-stresses-human-accountability",
+    "title": "At UN, India Warns of AI Misuse in Conflicts, Stresses Human Accountability",
+    "description": "Autonomous weapons, manipulated data and technology export controls featured among the concerns raised by India's envoy at the UN.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-25T10:22:12.661Z",
+    "published": "Wed, 25 Nov 2026 09:33:06 GMT",
+    "processed": true,
+    "processedAt": "2026-11-25T10:24:24.995Z"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/neysa-looks-beyond-gpu-capacity-to-build-an-enterprise-ai-partner-network",
+    "title": "Neysa Builds Enterprise Partner Network to Deploy AI Applications on Velocis",
+    "description": "The programme will allow software companies, system integrators, and technology providers to build and deploy enterprise AI solutions on Neysa’s Velocis",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-25T10:22:12.661Z",
+    "published": "Wed, 25 Nov 2026 08:35:10 GMT",
+    "processed": true,
+    "processedAt": "2026-11-25T10:24:24.995Z"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/dassault-bets-free-software-and-ai-can-turn-hardware-startups-into-customers",
+    "title": "Hardware Startups Get Four Years of Cheap Software. The Payoff Comes Later",
+    "description": "Free design software gets hardware startups through the door. AI agents and virtual simulations could keep them there, Dassault Systèmes believes.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-25T10:22:12.661Z",
+    "published": "Wed, 25 Nov 2026 07:37:50 GMT",
+    "processed": true,
+    "processedAt": "2026-11-25T10:24:24.995Z"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/can-ai-predict-the-future-former-xai-team-build-ai-time-machine-in-hopes-of-just-that",
+    "title": "Ex-xAI Team Has Launched a New Startup to Do the Impossible—Predict the Future",
+    "description": "Epochal's first product lets AI agents browse the internet as it existed on a specific date, in an attempt to solve one of AI's biggest challenges: making",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-25T10:22:12.661Z",
+    "published": "Wed, 25 Nov 2026 07:01:27 GMT",
+    "processed": true,
+    "processedAt": "2026-11-25T10:24:24.995Z"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/aidenai-raises-32-million-in-series-a-funding-led-by-a91-partners",
+    "title": "Ex-Infosys Exec's Enterprise AI Startup Bags $32 Mn for Agentic Deployment",
+    "description": "AidenAI plans to use the capital to expand its AI Builder Platform and build a team of more than 1,000 engineers by the end of 2027.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-25T10:22:12.661Z",
+    "published": "Wed, 25 Nov 2026 05:56:48 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/thomas-dohmkes-entire-partners-with-sarvam-to-bring-ai-coding-agents-to-india",
+    "title": "Thomas Dohmke’s Entire Partners With Sarvam to Bring AI Coding Agents to India",
+    "description": "Under the partnership, Sarvam’s models will be available in preview on Trails, Entire’s alternative to the traditional pull request.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-25T10:22:12.661Z",
+    "published": "Wed, 25 Nov 2026 05:04:05 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/dell-lifts-fy27-outlook-for-third-time-as-ai-server-backlog-hits-132-billion",
+    "title": "Dell Lifts FY27 Outlook for Third Time as AI Server Backlog Hits $132 Billion",
+    "description": "The company booked $60.2 billion in AI server orders in Q3, while the record backlog rose to $132.3 billion with shifting demand towards agentic workloads.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-25T10:22:12.661Z",
+    "published": "Wed, 25 Nov 2026 04:15:18 GMT"
   }
 ]
