@@ -116563,5 +116563,303 @@
     "category": "news",
     "discovered": "2026-11-26T02:45:42.183Z",
     "published": "Wed, 25 Nov 2026 20:04:07 +0000"
+  },
+  {
+    "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-11-26T12:08:39.057Z",
+    "published": "Thu, 26 Nov 2026 05:05:36 GMT",
+    "processed": true,
+    "processedAt": "2026-11-26T12:11:16.429Z"
+  },
+  {
+    "url": "https://www.asya.ai/blog/the-state-of-llm-costs-and-capabilities",
+    "title": "The state of LLM: costs and capabilities",
+    "description": "Article URL: https://www.asya.ai/blog/the-state-of-llm-costs-and-capabilities\nComments URL: https://news.ycombinator.com/item?id=50654343\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T12:08:49.968Z",
+    "published": "Thu, 26 Nov 2026 11:58:46 +0000",
+    "processed": true,
+    "processedAt": "2026-11-26T12:11:16.429Z"
+  },
+  {
+    "url": "https://olmapp.ai/team.html",
+    "title": "Dr. Israel Alguindigue joins olmapp.ai advisory board",
+    "description": "Article URL: https://olmapp.ai/team.html\nComments URL: https://news.ycombinator.com/item?id=50654298\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T12:08:49.968Z",
+    "published": "Thu, 26 Nov 2026 11:53:22 +0000",
+    "processed": true,
+    "processedAt": "2026-11-26T12:11:16.429Z"
+  },
+  {
+    "url": "https://github.com/luisg0nc/torno",
+    "title": "Show HN: Workbench for making CAD parts with Claude/AI coding agent",
+    "description": "Article URL: https://github.com/luisg0nc/torno\nComments URL: https://news.ycombinator.com/item?id=50654014\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T12:08:49.968Z",
+    "published": "Thu, 26 Nov 2026 11:10:12 +0000",
+    "processed": true,
+    "processedAt": "2026-11-26T12:11:16.429Z"
+  },
+  {
+    "url": "https://github.com/lian84/memora",
+    "title": "Show HN: Memora – self-hosted, file-first personal AI assistant",
+    "description": "Article URL: https://github.com/lian84/memora\nComments URL: https://news.ycombinator.com/item?id=50653773\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T12:08:49.968Z",
+    "published": "Thu, 26 Nov 2026 10:31:06 +0000",
+    "processed": true,
+    "processedAt": "2026-11-26T12:11:16.429Z"
+  },
+  {
+    "url": "https://paulspythoncourse.com/",
+    "title": "A Python course in the browser from print() to a tiny GPT",
+    "description": "Article URL: https://paulspythoncourse.com/\nComments URL: https://news.ycombinator.com/item?id=50653619\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T12:08:49.968Z",
+    "published": "Thu, 26 Nov 2026 10:05:07 +0000"
+  },
+  {
+    "url": "https://www.vulncheck.com/blog/ai-has-changed-vulncheck",
+    "title": "AI Has Changed VulnCheck's Exploit Delivery",
+    "description": "Article URL: https://www.vulncheck.com/blog/ai-has-changed-vulncheck\nComments URL: https://news.ycombinator.com/item?id=50653604\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T12:08:49.968Z",
+    "published": "Thu, 26 Nov 2026 10:02:51 +0000"
+  },
+  {
+    "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+    "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+    "description": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/\nComments URL: https://news.ycombinator.com/item?id=50653477\nPoints: 60\n# Comments: 45",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T12:08:49.968Z",
+    "published": "Thu, 26 Nov 2026 09:44:23 +0000"
+  },
+  {
+    "url": "https://michelenasti.com/2026/confusion-and-rejection-about-ai/",
+    "title": "On trusting AI decisions without understanding them",
+    "description": "Article URL: https://michelenasti.com/2026/confusion-and-rejection-about-ai/\nComments URL: https://news.ycombinator.com/item?id=50653038\nPoints: 4\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T12:08:49.968Z",
+    "published": "Thu, 26 Nov 2026 08:41:38 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2610.35869",
+    "title": "KORA: Determining whether LLM inference is necessary before invoking it",
+    "description": "Article URL: https://arxiv.org/abs/2610.35869\nComments URL: https://news.ycombinator.com/item?id=50652807\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T12:08:49.968Z",
+    "published": "Thu, 26 Nov 2026 08:09:04 +0000"
+  },
+  {
+    "url": "https://play.google.com/store/apps/details?id=com.soprso.dhurandharai&hl=en_US",
+    "title": "I built an Android app to run GGUF AI models offline on your phone",
+    "description": "Article URL: https://play.google.com/store/apps/details?id=com.soprso.dhurandharai&hl=en_US\nComments URL: https://news.ycombinator.com/item?id=50652777\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T12:08:49.968Z",
+    "published": "Thu, 26 Nov 2026 08:05:39 +0000"
+  },
+  {
+    "url": "https://futuremajor.com/en/ai-map",
+    "title": "W much of your job AI does – 800 careers, Anthropic data",
+    "description": "Article URL: https://futuremajor.com/en/ai-map\nComments URL: https://news.ycombinator.com/item?id=50652724\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T12:08:49.968Z",
+    "published": "Thu, 26 Nov 2026 07:59:30 +0000"
+  },
+  {
+    "url": "https://www.techspot.com/news/114653-phison-shows-ssd-design-npu-64gb-memory-runs.html",
+    "title": "Phison shows SSD design with NPU and 64GB of memory that runs AI on its data",
+    "description": "Article URL: https://www.techspot.com/news/114653-phison-shows-ssd-design-npu-64gb-memory-runs.html\nComments URL: https://news.ycombinator.com/item?id=50652716\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T12:08:49.968Z",
+    "published": "Thu, 26 Nov 2026 07:58:49 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50652562",
+    "title": "Is hydrogen faster than previous Google Gemini flash model?",
+    "description": "Comments URL: https://news.ycombinator.com/item?id=50652562\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T12:08:49.968Z",
+    "published": "Thu, 26 Nov 2026 07:38:15 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.31083",
+    "title": "AI-Assisted Programming and Labor Demand",
+    "description": "Article URL: https://arxiv.org/abs/2611.31083\nComments URL: https://news.ycombinator.com/item?id=50652460\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T12:08:49.968Z",
+    "published": "Thu, 26 Nov 2026 07:21:35 +0000"
+  },
+  {
+    "url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/when-ai-makes-your-advantage-abundant-where-does-the-next-edge-lie/136159092",
+    "title": "When AI makes your advantage abundant, where does the next edge lie?",
+    "description": "Article URL: https://enterpriseai.economictimes.indiatimes.com/news/industry/when-ai-makes-your-advantage-abundant-where-does-the-next-edge-lie/136159092\nComments URL: https://news.ycombinator.com/item?id=50652452\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T12:08:49.968Z",
+    "published": "Thu, 26 Nov 2026 07:20:38 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ghxoAM5io18",
+    "title": "AI Keeps Asking If It's Conscious [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=ghxoAM5io18\nComments URL: https://news.ycombinator.com/item?id=50652280\nPoints: 3\n# Comments: 3",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T12:08:49.968Z",
+    "published": "Thu, 26 Nov 2026 06:49:31 +0000"
+  },
+  {
+    "url": "https://www.audi.com/en/media-releases/audi-integrates-new-app-with-ai-assistant-for-mobile-work-in-the-car-with-cerence-ai-and-microsoft-18450",
+    "title": "Audi integrates new app with AI assistant with Cerence AI and Microsoft",
+    "description": "Article URL: https://www.audi.com/en/media-releases/audi-integrates-new-app-with-ai-assistant-for-mobile-work-in-the-car-with-cerence-ai-and-microsoft-18450\nComments URL: https://news.ycombinator.com/item?id=50652195\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T12:08:49.968Z",
+    "published": "Thu, 26 Nov 2026 06:34:31 +0000"
+  },
+  {
+    "url": "https://github.com/BetaYao/seahelm",
+    "title": "Show HN: Seahelm – Native Mac app for running Claude Code agents in parallel",
+    "description": "Article URL: https://github.com/BetaYao/seahelm\nComments URL: https://news.ycombinator.com/item?id=50651990\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T12:08:49.968Z",
+    "published": "Thu, 26 Nov 2026 06:01:04 +0000"
+  },
+  {
+    "url": "https://www.edutopia.org/article/does-ai-help-students-learn/",
+    "title": "AI Is Supercharging Your Top Students and Probably Harming the Rest",
+    "description": "Article URL: https://www.edutopia.org/article/does-ai-help-students-learn/\nComments URL: https://news.ycombinator.com/item?id=50651977\nPoints: 3\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T12:08:49.968Z",
+    "published": "Thu, 26 Nov 2026 05:58:37 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/",
+    "title": "Microsoft details how state-backed hackers use the ARTEX AI framework to automate cyberattacks",
+    "description": "Microsoft has published the technical architecture of ARTEX, an AI framework in wide use since July 2026 that runs cyberattacks with specialized agents and almost no human involvement. State-backed groups from China and North Korea, along with criminal organizations, are already using the s",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-26T12:08:55.893Z",
+    "published": "Thu, 26 Nov 2026 11:30:06 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/",
+    "title": "Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia after tighter US export controls",
+    "description": "Nvidia has told partners such as Dell and Supermicro to stop shipping servers to Malaysia, Singapore, Thailand, and Indonesia. Following new US export controls targeting Chinese cloud access, dealers are already seeking buyers for thousands of B300 chips, while one cloud executive describes",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-26T12:08:55.893Z",
+    "published": "Thu, 26 Nov 2026 11:21:16 +0000"
+  },
+  {
+    "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+    "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+    "description": "The FCA warned against “another force of attack” from agents after the company declined a request to work on joint testing ahead of rolling out its personal agent in the UK on Tuesday.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-26T12:09:01.730Z",
+    "published": "Thu, 26 Nov 2026 10:51:27 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/vertiv-expands-800-vdc-power-portfolio-for-ai-data-centres",
+    "title": "Vertiv Expands 800 VDC Power Portfolio for AI Data Centres",
+    "description": "The expanded portfolio covers rack, compute pod and data hall deployments as operators explore higher-voltage systems for AI infrastructure.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-26T12:09:06.279Z",
+    "published": "Thu, 26 Nov 2026 10:24:33 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/the-next-big-it-services-opportunity-could-be-operationalising-ai",
+    "title": "The Next Big IT Services Opportunity Could Be Operationalising AI",
+    "description": "Straive is positioning itself at the intersection of consulting, analytics and business process operations as enterprises look to operationalise AI rather than",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-26T12:09:06.279Z",
+    "published": "Thu, 26 Nov 2026 09:56:08 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/bharatgen-launches-patram-15-a-7b-vision-language-model-for-document-processing",
+    "title": "BharatGen Launches Patram 1.5, a 7B Vision-Language Model for Document Processing",
+    "description": "It supports English and English mixed with Indian languages, has a context window of up to 32,000 tokens and can process multiple images in a single request.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-26T12:09:06.279Z",
+    "published": "Thu, 26 Nov 2026 07:17:59 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/deep-tech/india-wants-its-own-jet-engines-green-aero-is-taking-a-shot",
+    "title": "India Wants Its Own Jet Engines, Green Aero is Taking a Shot",
+    "description": "Green Aero is raising $14 million to scale indigenous engines and autonomous aircraft, as India expands private defence manufacturing.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-26T12:09:06.279Z",
+    "published": "Thu, 26 Nov 2026 06:27:45 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/pine-labs-adds-ai-agents-to-merchant-app-for-sales-insights-ad-campaigns",
+    "title": "Pine Labs Adds AI Agents To Merchant App For Sales Insights, Ad Campaigns",
+    "description": "The Guide and Marketer Agent tools will help merchants analyse payment data and create advertising campaigns, with a marketplace for specialist agents planned",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-26T12:09:06.279Z",
+    "published": "Thu, 26 Nov 2026 05:39:30 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/spacex-gets-us-nod-to-deploy-1-million-satellites-for-orbital-ai-data-centres",
+    "title": "SpaceX Gets Nod to Deploy 1 Mn AI Data Centre Satellites",
+    "description": "The FCC has authorised SpaceX’s Starmind constellation to support orbital computing, despite objections from Amazon, Viasat, and astronomers.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-26T12:09:06.279Z",
+    "published": "Thu, 26 Nov 2026 05:34:34 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2329071/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center/",
+    "title": "SpaceX gets FCC approval to deploy 1 million satellites for its AI orbital data center",
+    "description": "The FCC has granted SpaceX's request to deploy 1 million satellites to build an AI data center in orbit.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-26T12:09:08.461Z",
+    "published": "Thu, 26 Nov 2026 11:01:32 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2329008/neuralink-receives-fda-approval-for-brain-implant-trial-in-als-patients/",
+    "title": "Neuralink receives FDA approval for 'pivotal' brain implant trial in ALS patients",
+    "description": "Elon Musk's Neuralink has received FDA permission to launch the first trial for its brain-computer interface.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-26T12:09:08.461Z",
+    "published": "Thu, 26 Nov 2026 07:28:21 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2328996/new-york-state-bans-ai-chatbot-toys-for-kids/",
+    "title": "New York state bans AI chatbot toys for kids",
+    "description": "New York governor Kathy Hochul has signed into law a five-year ban on the sale of AI chatbot toys.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-26T12:09:08.461Z",
+    "published": "Thu, 26 Nov 2026 06:02:48 +0000"
   }
 ]
