@@ -116337,5 +116337,231 @@
     "category": "news",
     "discovered": "2026-11-25T20:05:25.914Z",
     "published": "Wed, 25 Nov 2026 13:00:00 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/what-is-graphrag",
+    "title": "What is GraphRAG? A practical guide to smarter AI retrieval",
+    "description": "Learn what is GraphRAG, how knowledge graph RAG works, and where it beats standard RAG. See use cases and how ElevenAgents handles RAG for voice agents.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-26T02:45:11.332Z",
+    "published": "Wed, 25 Nov 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-26T02:47:50.063Z"
+  },
+  {
+    "url": "https://heyorbo.com",
+    "title": "HeyOrbo – AI Powered Notch on Desktop",
+    "description": "Article URL: https://heyorbo.com\nComments URL: https://news.ycombinator.com/item?id=50650673\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T02:45:20.953Z",
+    "published": "Thu, 26 Nov 2026 02:28:45 +0000",
+    "processed": true,
+    "processedAt": "2026-11-26T02:47:50.063Z"
+  },
+  {
+    "url": "https://www.mindstudio.ai/blog/ai-agents-shopping-access-wars",
+    "title": "Amazon vs. Walmart: Why Retailers Are Split on AI Shopping Agents",
+    "description": "Article URL: https://www.mindstudio.ai/blog/ai-agents-shopping-access-wars\nComments URL: https://news.ycombinator.com/item?id=50650667\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T02:45:20.953Z",
+    "published": "Thu, 26 Nov 2026 02:28:06 +0000",
+    "processed": true,
+    "processedAt": "2026-11-26T02:47:50.063Z"
+  },
+  {
+    "url": "https://www.rickmanelius.com/p/exhibit-a-with-ai-dont-skip-or-write",
+    "title": "Exhibit A with AI: Don't Skip or Write \"None.\"",
+    "description": "Article URL: https://www.rickmanelius.com/p/exhibit-a-with-ai-dont-skip-or-write\nComments URL: https://news.ycombinator.com/item?id=50650653\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T02:45:20.953Z",
+    "published": "Thu, 26 Nov 2026 02:25:23 +0000",
+    "processed": true,
+    "processedAt": "2026-11-26T02:47:50.063Z"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=DHNFtd0yfds",
+    "title": "Andrew Sutherland,mathematician Who Verified Claude’s Riemann Proof[video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=DHNFtd0yfds\nComments URL: https://news.ycombinator.com/item?id=50650533\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T02:45:20.953Z",
+    "published": "Thu, 26 Nov 2026 02:10:02 +0000",
+    "processed": true,
+    "processedAt": "2026-11-26T02:47:50.063Z"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50650485",
+    "title": "Will the next big discovery using LLM's solve Fusion Energy?",
+    "description": "Or, is it too much of a hardware problem, rather than just software ? You can bet the folks over at Sandia, Fermi, PPPL, LANL, LLNL, ORNL, INL, Brookhaven, etc are all working feverishly with LLM's.  No doubt a Noble prize would be possible.\n\nComments URL: https://news.ycombinator.com/item?id=50650",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T02:45:20.953Z",
+    "published": "Thu, 26 Nov 2026 02:03:14 +0000"
+  },
+  {
+    "url": "https://github.com/kbr-/shit-with-good-formatting",
+    "title": "The State of Agentic AI: Shit with Good Formatting",
+    "description": "Article URL: https://github.com/kbr-/shit-with-good-formatting\nComments URL: https://news.ycombinator.com/item?id=50650338\nPoints: 1\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T02:45:20.953Z",
+    "published": "Thu, 26 Nov 2026 01:44:39 +0000"
+  },
+  {
+    "url": "https://wordspies.com/daily",
+    "title": "Show HN: A daily word puzzle where an AI gives the clue and you guess",
+    "description": "Each day, an AI writes one clue for several words on a 5x5 board, and you pick which ones it meant. Afterwards, you see how Claude Haiku and GPT Luna would've done on the same board. Free, no sign-up to play.\n\nComments URL: https://news.ycombinator.com/item?id=50650316\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T02:45:20.953Z",
+    "published": "Thu, 26 Nov 2026 01:42:07 +0000"
+  },
+  {
+    "url": "https://mscience.com/",
+    "title": "M Science – AI-Ready Market Intelligence",
+    "description": "Article URL: https://mscience.com/\nComments URL: https://news.ycombinator.com/item?id=50650180\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T02:45:20.953Z",
+    "published": "Thu, 26 Nov 2026 01:22:28 +0000"
+  },
+  {
+    "url": "https://twitter.com/viviencheng__/status/2125631050319831474",
+    "title": "Plato's Key: A single rotation lets one LLM use another’s representations",
+    "description": "Article URL: https://twitter.com/viviencheng__/status/2125631050319831474\nComments URL: https://news.ycombinator.com/item?id=50650141\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T02:45:20.953Z",
+    "published": "Thu, 26 Nov 2026 01:17:22 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ENhHv_VCDL0",
+    "title": "Can AI break public key cryptography before Quantum Computers?",
+    "description": "Article URL: https://www.youtube.com/watch?v=ENhHv_VCDL0\nComments URL: https://news.ycombinator.com/item?id=50650086\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T02:45:20.953Z",
+    "published": "Thu, 26 Nov 2026 01:12:13 +0000"
+  },
+  {
+    "url": "https://github.com/seanrobertwright/Poopy-McClauderson",
+    "title": "Tired of Claude Code Spinners?",
+    "description": "Article URL: https://github.com/seanrobertwright/Poopy-McClauderson\nComments URL: https://news.ycombinator.com/item?id=50649939\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T02:45:20.953Z",
+    "published": "Thu, 26 Nov 2026 00:52:23 +0000"
+  },
+  {
+    "url": "https://www.london.edu/think/ai-bubble-about-to-burst",
+    "title": "New research suggests AI bubble bursting and to expect major market collapse",
+    "description": "Article URL: https://www.london.edu/think/ai-bubble-about-to-burst\nComments URL: https://news.ycombinator.com/item?id=50649822\nPoints: 4\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T02:45:20.953Z",
+    "published": "Thu, 26 Nov 2026 00:38:30 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50649707",
+    "title": "Ask HN: Did Aaron Swartz make modern AI possible?",
+    "description": "Did the backlash against Aaron Swartz's prosecution following his death reduce the appetite for criminal prosecution in cases involving unauthorized copying of digital information?If so, did this make AI companies more willing to take the legal risk of acquiring copyrighted material without permiss",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T02:45:20.953Z",
+    "published": "Thu, 26 Nov 2026 00:27:30 +0000"
+  },
+  {
+    "url": "https://2tinteractive.com/watch/episodes/5717/",
+    "title": "The AI Layoff Alibi: Capex Cannibalism and the White-Collar Exodus",
+    "description": "Article URL: https://2tinteractive.com/watch/episodes/5717/\nComments URL: https://news.ycombinator.com/item?id=50649338\nPoints: 2\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T02:45:20.953Z",
+    "published": "Wed, 25 Nov 2026 23:44:08 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50649186",
+    "title": "Ask HN: Are you polite to AI? Why or why not?",
+    "description": "I'm often polite to AI, I find myself saying \"please\" and so on. I don't know if that affects its results significantly, but that's not why I do it. I think it's more that it's ingrained in me to be polite in conversation, especially when my interlocutor is as unhesitatingly polite as AI tends to b",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T02:45:20.953Z",
+    "published": "Wed, 25 Nov 2026 23:28:26 +0000"
+  },
+  {
+    "url": "https://blog.cloudflare.com/search-for-agents/",
+    "title": "Cloudflare AI Search for Agents",
+    "description": "Article URL: https://blog.cloudflare.com/search-for-agents/\nComments URL: https://news.ycombinator.com/item?id=50649149\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T02:45:20.953Z",
+    "published": "Wed, 25 Nov 2026 23:25:46 +0000"
+  },
+  {
+    "url": "https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/",
+    "title": "RL Infrastructure at Microsoft AI",
+    "description": "Article URL: https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/\nComments URL: https://news.ycombinator.com/item?id=50649024\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T02:45:20.953Z",
+    "published": "Wed, 25 Nov 2026 23:14:36 +0000"
+  },
+  {
+    "url": "https://brownstone.org/articles/the-near-coup-at-nvidia-and-the-war-on-open-source-ai/",
+    "title": "The Near-Coup at Nvidia and the War on Open-Source AI",
+    "description": "Article URL: https://brownstone.org/articles/the-near-coup-at-nvidia-and-the-war-on-open-source-ai/\nComments URL: https://news.ycombinator.com/item?id=50648668\nPoints: 11\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T02:45:20.953Z",
+    "published": "Wed, 25 Nov 2026 22:41:09 +0000"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
+    "title": "Etsy clarifies AI terms after seller backlash",
+    "description": "Article URL: https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/\nComments URL: https://news.ycombinator.com/item?id=50648587\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-26T02:45:20.953Z",
+    "published": "Wed, 25 Nov 2026 22:33:06 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/",
+    "title": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs",
+    "description": "Chip restrictions, anti-distillation measures, and shrinking access to Nvidia hardware abroad are putting growing pressure on Deepseek, Moonshot AI, and Alibaba, according to a report. Deepseek researchers internally estimate they're already up to nine months behind US models, and the gap i",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-26T02:45:27.669Z",
+    "published": "Wed, 25 Nov 2026 20:51:02 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/",
+    "title": "Anthropic CEO Dario Amodei says letting AI govern society would be \"a bad idea\"",
+    "description": "Anthropic CEO Dario Amodei is pushing back on an Axios report saying some employees believe humanity will hand power to superintelligent systems. Amodei says \"turning over governance to AI is a bad idea.\"\nThe article Anthropic CEO Dario Amodei says letting AI govern society would be &quot;a",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-26T02:45:27.669Z",
+    "published": "Wed, 25 Nov 2026 20:15:50 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2328792/can-you-play-gta-6-from-external-hard-drive/",
+    "title": "Can you play GTA 6 from an external hard drive on PS5 or Xbox Series X/S?",
+    "description": "With a hefty install size, GTA 6 will take up a significant chunk of your PS5 or Xbox Series X/S storage space.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-26T02:45:42.183Z",
+    "published": "Wed, 25 Nov 2026 22:07:07 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2328630/state-ags-are-trying-to-stop-characterai-from-auctioning-off-users-chat-histories/",
+    "title": "State AGs are trying to stop Character.AI from auctioning off users' chat histories",
+    "description": "The proposed sale would include explicit conversations with children, officials say.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-26T02:45:42.183Z",
+    "published": "Wed, 25 Nov 2026 20:04:07 +0000"
   }
 ]
