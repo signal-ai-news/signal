@@ -116861,5 +116861,186 @@
     "category": "news",
     "discovered": "2026-11-26T12:09:08.461Z",
     "published": "Thu, 26 Nov 2026 06:02:48 +0000"
+  },
+  {
+    "url": "https://huggingface.co/blog/training-swarms",
+    "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-11-26T21:50:22.056Z",
+    "published": "Thu, 26 Nov 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-26T21:52:55.031Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "description": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-26T21:50:23.158Z",
+    "published": "Thu, 26 Nov 2026 20:03:54 +0000",
+    "processed": true,
+    "processedAt": "2026-11-26T21:52:55.031Z"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+    "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+    "description": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+    "source": "TechCrunch AI",
+    "category": "news",
+    "discovered": "2026-11-26T21:50:23.158Z",
+    "published": "Thu, 26 Nov 2026 16:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-26T21:52:55.031Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+    "title": "The Download: Better bionic hands and AI’s natural-gas boom",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The next generation of bionic hands is here—and they can feel Avi Davidson lost his left hand as a teenager. Since then, he&#8217;s cycled through a f",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-26T21:50:24.281Z",
+    "published": "Thu, 26 Nov 2026 13:10:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-26T21:52:55.031Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/chatgpt-boosted-consultants-scores-not-their-knowledge/",
+    "title": "ChatGPT Boosted Consultants' Scores, Not Their Knowledge",
+    "description": "Consultants gained 49 points on coding with AI, while apprentices also gained comprehension — which is why assisted work and expertise need separate names.\nThe post ChatGPT Boosted Consultants' Scores, Not Their Knowledge appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-26T21:50:33.395Z",
+    "published": "Thu, 26 Nov 2026 16:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-26T21:52:55.031Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/shuffle-the-questions-to-catch-an-llm-that-memorized-its-benchmark/",
+    "title": "Shuffle the Questions to Catch an LLM That Memorized Its Benchmark",
+    "description": "Two short Python functions and a free Colab GPU score a model in about half an hour; a z above 3 merits a look, while a near-zero score is more of a shrug.\nThe post Shuffle the Questions to Catch an LLM That Memorized Its Benchmark appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-26T21:50:33.395Z",
+    "published": "Thu, 26 Nov 2026 14:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/",
+    "title": "Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it",
+    "description": "Complexity theorist and former OpenAI researcher Scott Aaronson argues that AI's recent math breakthroughs matter far beyond academia. The possible consequences, he writes, range from reshaping the global economy to threatening all life on Earth. He's also \"virtually certain\" that AI labs a",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-26T21:50:34.483Z",
+    "published": "Thu, 26 Nov 2026 19:31:46 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
+    "title": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error",
+    "description": "OpenAI says a billing bug gave GPT-6.2 users incorrect discounts. After the fix, Astra and Sol users hit their limits 40 and 25 percent faster than last week. As an apology, subscribers get an extra reset, and business users get free Fast Mode through year-end. OpenAI is also testing a Chat",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-26T21:50:34.483Z",
+    "published": "Thu, 26 Nov 2026 17:28:56 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/",
+    "title": "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead",
+    "description": "Chinese AI companies Z.AI and Moonshot AI have to delay their next flagship models and are looking for new sources of training data.\nThe article After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead appeared first on The Decoder",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-26T21:50:34.483Z",
+    "published": "Thu, 26 Nov 2026 15:45:08 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
+    "title": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040",
+    "description": "The FCC has authorized SpaceX to deploy up to 1 million Starmind satellites to process AI data as orbital data centers. SpaceX is targeting its first launches in 2027, and the full constellation is set to be operating by 2040. Google and Blue Origin are also working on AI infrastructure in",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-26T21:50:34.483Z",
+    "published": "Thu, 26 Nov 2026 13:41:07 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/nvidia-halts-ai-server-shipments-to-4-southeast-asian-countries-report",
+    "title": "NVIDIA Halts AI Server Shipments to 4 Southeast Asian Countries: Report",
+    "description": "The move follows tighter US export controls targeting Chinese access to advanced AI chips through cloud computing providers in the region.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-26T21:50:45.670Z",
+    "published": "Thu, 26 Nov 2026 17:10:28 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/coforge-expands-nuuron-with-ai-led-vulnerability-remediation",
+    "title": "Coforge Adds Cybersecurity Patches to AI Enterprise Suite in Wake of Vulnerabilities",
+    "description": "The service uses AI agents to prioritise security fixes, while human engineers handle exceptions and high-risk decisions.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-26T21:50:45.670Z",
+    "published": "Thu, 26 Nov 2026 17:06:15 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/it-services/threatened-by-saaspocalypse-9-bets-defined-indian-its-ai-strategy-in-2026",
+    "title": "Threatened by SaaSpocalypse, 9 Bets Defined Indian IT’s AI Strategy in 2026",
+    "description": "From TCS and Anthropic to Wipro and ServiceNow, nine alliances show how Indian IT firms are positioning themselves across the AI value chain.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-26T21:50:45.670Z",
+    "published": "Thu, 26 Nov 2026 12:58:19 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2329256/backloggd-breach-november-2026-password-reset/",
+    "title": "Backloggd urges users to change their passwords after a breach",
+    "description": "If you use Backloggd, you might need to log in again and reset your password.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-26T21:50:47.762Z",
+    "published": "Thu, 26 Nov 2026 21:26:47 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2329231/amazon-workers-plan-protests-on-black-friday-and-cyber-monday/",
+    "title": "Amazon workers around the world plan strikes and protests on Black Friday and Cyber Monday",
+    "description": "A campaign demanding that Amazon recognize and bargain with unions will see workers in more than 20 countries mobilize.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-26T21:50:47.762Z",
+    "published": "Thu, 26 Nov 2026 19:44:49 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/",
+    "title": "NVIDIA reportedly halts AI chip shipments to Southeast Asia",
+    "description": "In the same week that NVIDIA reinstated Jensen Huang as its CEO, the company has reportedly also blocked shipments to Southeast Asia.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-26T21:50:47.762Z",
+    "published": "Thu, 26 Nov 2026 18:09:18 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2329177/workers-gta-6-studio-rockstar-games-vote-against-union-recognition/",
+    "title": "Workers at GTA 6 studio Rockstar Games vote overwhelmingly against union recognition",
+    "description": "The IWGB Rockstar Game Workers Union will continue to organize after only a quarter of workers voted in favor of a formal deal with the studio.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-26T21:50:47.762Z",
+    "published": "Thu, 26 Nov 2026 16:53:58 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2329150/man-sentenced-to-47-month-prison-sentence-after-using-ai-impersonate-streamer/",
+    "title": "Man sentenced to 47 months in prison after using AI to impersonate streamer N3on",
+    "description": "David Anthony Sanchez, the man who impersonated N3on, scammed victims out of $260,000 worth of cryptocurrency.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-26T21:50:47.762Z",
+    "published": "Thu, 26 Nov 2026 15:50:37 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2329106/casetifys-pokmon-30th-anniversary-collection-includes-a-pok-ball-case-for-your-airpods/",
+    "title": "Casetify's Pokémon 30th anniversary collection includes a Poké Ball case for your AirPods",
+    "description": "Casetify is releasing a Pokémon collection on December 1, and it includes an AirPods case that looks like a pixel Poké Ball.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-26T21:50:47.762Z",
+    "published": "Thu, 26 Nov 2026 13:14:18 +0000"
   }
 ]
