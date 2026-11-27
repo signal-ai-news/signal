@@ -14988,7 +14988,9 @@
     "source": "Hacker News (AI)",
     "category": "community",
     "discovered": "2026-08-04T20:58:20.187Z",
-    "published": "Tue, 04 Aug 2026 20:24:24 +0000"
+    "published": "Tue, 04 Aug 2026 20:24:24 +0000",
+    "processed": true,
+    "processedAt": "2026-11-27T04:03:56.191Z"
   },
   {
     "url": "https://www.ifo.de/DocDL/cesifo1_wp12882.pdf",
@@ -117042,5 +117044,49 @@
     "category": "news",
     "discovered": "2026-11-26T21:50:47.762Z",
     "published": "Thu, 26 Nov 2026 13:14:18 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/what-is-ai-transcription",
+    "title": "What is AI transcription: The complete guide",
+    "description": "Learn what is AI transcription and how it works, which features to look for, and how teams use it for meetings and support. Plus legal and privacy basics.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-27T04:01:26.948Z",
+    "published": "Thu, 26 Nov 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-27T04:03:56.194Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/26/nexos-ai-ai-gateway-200-models-governance/",
+    "title": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in",
+    "description": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in\nThe post nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in appeared first on MarkTechPost.",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-27T04:01:43.590Z",
+    "published": "Fri, 27 Nov 2026 03:43:35 +0000",
+    "processed": true,
+    "processedAt": "2026-11-27T04:03:56.194Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/26/tencent-dfly2-speculative-decoding-sparse-models/",
+    "title": "Tencent Open-Sources DFly2: Speculative Decoding That Reuses the Target’s Sparse KV Cache",
+    "description": "Tencent open-sourced DFly2, a speculative decoding drafter for sparse-attention LLMs. Each draft layer reuses the target's KV cache and top-k indexer picks, adding no draft KV memory and lifting 64K serving throughput by up to 81%.\nThe post Tencent Open-Sources DFly2: Speculative Decoding That Reuse",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-27T04:01:43.590Z",
+    "published": "Fri, 27 Nov 2026 03:31:30 +0000",
+    "processed": true,
+    "processedAt": "2026-11-27T04:03:56.194Z"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/26/sakana-ai-namazu-small-30b-nemotron-3-nano/",
+    "title": "Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano",
+    "description": "Sakana AI released Sakana Namazu Small, a 30B-A3B reasoning model built on NVIDIA Nemotron 3 Nano. It averages 60.1 across 25 benchmarks, ahead of the 120B Nemotron 3 Super at 56.2.\nThe post Sakana AI Releases Namazu Small, a 30B Model Built on Nemotron 3 Nano appeared first on MarkTechPost.",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-27T04:01:43.590Z",
+    "published": "Thu, 26 Nov 2026 22:06:40 +0000",
+    "processed": true,
+    "processedAt": "2026-11-27T04:03:56.194Z"
   }
 ]
