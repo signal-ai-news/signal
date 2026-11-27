@@ -117088,5 +117088,114 @@
     "published": "Thu, 26 Nov 2026 22:06:40 +0000",
     "processed": true,
     "processedAt": "2026-11-27T04:03:56.194Z"
+  },
+  {
+    "url": "https://huggingface.co/blog/video-trainium3",
+    "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "description": "",
+    "source": "Hugging Face Blog",
+    "category": "ml",
+    "discovered": "2026-11-27T13:42:08.577Z",
+    "published": "Fri, 27 Nov 2026 00:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-27T13:44:50.181Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+    "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+    "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Our 2027 Innovators Under 35 competition is now open Every year, MIT Technology Review honors 35 of the world&#8217;s brightest young scientists, entr",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-27T13:42:11.076Z",
+    "published": "Fri, 27 Nov 2026 13:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-27T13:44:50.181Z"
+  },
+  {
+    "url": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+    "title": "How cutting-edge prosthetics can help probe the human mind",
+    "description": "Over the last few weeks, I’ve been talking to Alexander (Avi) Davidson. There are a lot of remarkable things about Avi. He sustained a horrific injury as a teenager, which left him paralyzed and without a left hand. Today, he uses his own experience to guide his practice as a trauma therapist. He’s",
+    "source": "MIT Tech Review AI",
+    "category": "news",
+    "discovered": "2026-11-27T13:42:11.076Z",
+    "published": "Fri, 27 Nov 2026 10:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-27T13:44:50.181Z"
+  },
+  {
+    "url": "https://towardsdatascience.com/code-mode-vs-tool-calling-benchmarks-find-a-16-tool-crossover/",
+    "title": "Code Mode vs. Tool Calling Benchmarks Find a 16-Tool Crossover",
+    "description": "For agent builders with many MCP integrations, Code Mode was 120x cheaper and 18x faster on 100-item fan-outs but less reliable on single lookups.\nThe post Code Mode vs. Tool Calling Benchmarks Find a 16-Tool Crossover appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-27T13:42:21.222Z",
+    "published": "Fri, 27 Nov 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-27T13:44:50.181Z"
+  },
+  {
+    "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+    "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+    "description": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
+    "source": "Wired AI",
+    "category": "news",
+    "discovered": "2026-11-27T13:42:28.777Z",
+    "published": "Fri, 27 Nov 2026 07:00:00 +0000",
+    "processed": true,
+    "processedAt": "2026-11-27T13:44:50.181Z"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/from-alibaba-to-bharatgen-10-small-language-models-that-rivalled-llms-in-2026",
+    "title": "From Alibaba to BharatGen, 10 Small Language Models That Rivalled LLMs in 2026",
+    "description": "From Google DeepMind's Gemma 4 E2B and E4B to BharatGen Param 2, 10 small language models released in 2026 that are primed to become enterprise workhorses.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-27T13:42:40.017Z",
+    "published": "Fri, 27 Nov 2026 13:30:00 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/anthropic-ditches-python-for-rust-in-messages-api-cuts-cpu-usage-by-70-and-memory-by-over-80",
+    "title": "Anthropic Ditches Python for Rust in Messages API, Cuts CPU Usage by 70% and Memory by Over 80%",
+    "description": "Anthropic said Python introduced computational overhead at each stage through object creation, memory management and the transfer of work between tasks.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-27T13:42:40.017Z",
+    "published": "Fri, 27 Nov 2026 12:00:10 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/thomas-dohmke-wants-to-replace-pull-requests-with-ai-agent-trails",
+    "title": "Thomas Dohmke Wants to Replace Pull Requests With AI Agent Trails",
+    "description": "The former GitHub CEO believes the next generation of developers will enter the workforce with a fundamentally different relationship with AI.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-27T13:42:40.017Z",
+    "published": "Fri, 27 Nov 2026 10:30:00 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/sap-considers-10000-job-cuts-across-departments-in-ai-restructuring-report",
+    "title": "AI Job Cuts Come to SAP, 10,000 Roles to be Restructured: Report",
+    "description": "The proposed restructuring could affect at least 9% of SAP’s global workforce, with product, engineering, and sales teams in focus.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-27T13:42:40.017Z",
+    "published": "Fri, 27 Nov 2026 06:55:40 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/airtel-to-invest-1200-cr-in-three-data-centres-across-assam",
+    "title": "Airtel to Invest ₹1,200 Cr in Three Data Centres Across Assam",
+    "description": "The company will invest ₹700 crore in its Guwahati facility and ₹500 crore in two upcoming data centres in Jorhat and Silchar.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-27T13:42:40.017Z",
+    "published": "Fri, 27 Nov 2026 04:50:10 GMT"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-news/elevenlabs-targets-33-billion-valuation-in-fresh-funding-round-report",
+    "title": "ElevenLabs Targets $33 Billion Valuation in Fresh Funding Round: Report",
+    "description": "The company's annual recurring revenue has reached $700 million, as the voice AI startup considers a fresh funding round after being valued at $22 billion in",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-27T13:42:40.017Z",
+    "published": "Fri, 27 Nov 2026 04:45:20 GMT"
   }
 ]
