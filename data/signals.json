@@ -117495,5 +117495,204 @@
     "category": "news",
     "discovered": "2026-11-27T22:36:45.056Z",
     "published": "Fri, 27 Nov 2026 16:55:43 +0000"
+  },
+  {
+    "url": "https://elevenlabs.io/blog/what-is-agent-to-agent-communication",
+    "title": "Agent-to-agent communication: How AI agents work together",
+    "description": "Learn how agent-to-agent communication works, how the A2A protocol compares with MCP, and how AI agents delegate tasks and share context across systems.",
+    "source": "ElevenLabs Blog",
+    "category": "audio",
+    "discovered": "2026-11-28T04:38:53.502Z",
+    "published": "Fri, 27 Nov 2026 12:00:00 GMT",
+    "processed": true,
+    "processedAt": "2026-11-28T04:41:25.664Z"
+  },
+  {
+    "url": "https://ivankahl.com/blog/what-it-takes-to-let-ai-agents-work-while-you-walk-away/",
+    "title": "What It Takes to Let AI Agents Work While You Walk Away",
+    "description": "Article URL: https://ivankahl.com/blog/what-it-takes-to-let-ai-agents-work-while-you-walk-away/\nComments URL: https://news.ycombinator.com/item?id=50674708\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T04:38:59.746Z",
+    "published": "Sat, 28 Nov 2026 04:32:38 +0000",
+    "processed": true,
+    "processedAt": "2026-11-28T04:41:25.664Z"
+  },
+  {
+    "url": "https://www.rameznaam.com/p/what-happens-when-ai-aligns-itself",
+    "title": "What Happens When AI Aligns Itself?",
+    "description": "Article URL: https://www.rameznaam.com/p/what-happens-when-ai-aligns-itself\nComments URL: https://news.ycombinator.com/item?id=50674692\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T04:38:59.746Z",
+    "published": "Sat, 28 Nov 2026 04:29:03 +0000",
+    "processed": true,
+    "processedAt": "2026-11-28T04:41:25.664Z"
+  },
+  {
+    "url": "https://www.microprocessorreport.com/p/quick-take-amds-helios-appliance",
+    "title": "Quick Take: AMD's Helios as a Plug-and-Play AI Appliance Standard",
+    "description": "Article URL: https://www.microprocessorreport.com/p/quick-take-amds-helios-appliance\nComments URL: https://news.ycombinator.com/item?id=50674683\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T04:38:59.746Z",
+    "published": "Sat, 28 Nov 2026 04:26:35 +0000",
+    "processed": true,
+    "processedAt": "2026-11-28T04:41:25.664Z"
+  },
+  {
+    "url": "https://www.abc.net.au/news/2026-11-28/ai-microdramas-disrupt-china-entertainment-industry/107421952",
+    "title": "AI micro dramas turn China's entertainment industry on its head",
+    "description": "Article URL: https://www.abc.net.au/news/2026-11-28/ai-microdramas-disrupt-china-entertainment-industry/107421952\nComments URL: https://news.ycombinator.com/item?id=50674540\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T04:38:59.746Z",
+    "published": "Sat, 28 Nov 2026 04:01:59 +0000",
+    "processed": true,
+    "processedAt": "2026-11-28T04:41:25.664Z"
+  },
+  {
+    "url": "https://wanabai.com/build-finder/paper.html",
+    "title": "Estimating LLM decode speed and the price of a token per second",
+    "description": "Article URL: https://wanabai.com/build-finder/paper.html\nComments URL: https://news.ycombinator.com/item?id=50674533\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T04:38:59.746Z",
+    "published": "Sat, 28 Nov 2026 04:01:14 +0000"
+  },
+  {
+    "url": "https://twitter.com/jakozloski/status/2126281598517576049",
+    "title": "Claude silently added rules to ignore users skintone preferences in our app",
+    "description": "Article URL: https://twitter.com/jakozloski/status/2126281598517576049\nComments URL: https://news.ycombinator.com/item?id=50674489\nPoints: 12\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T04:38:59.746Z",
+    "published": "Sat, 28 Nov 2026 03:55:15 +0000"
+  },
+  {
+    "url": "https://github.com/ryan-helou/MacMemoryMonitor",
+    "title": "Mac Memory Monitor: menu bar app that pauses idle Claude Code sessions",
+    "description": "Article URL: https://github.com/ryan-helou/MacMemoryMonitor\nComments URL: https://news.ycombinator.com/item?id=50674440\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T04:38:59.746Z",
+    "published": "Sat, 28 Nov 2026 03:47:47 +0000"
+  },
+  {
+    "url": "https://opensourcesoftware.ai",
+    "title": "Trending Open-Source Software · Opensourcesoftware.ai",
+    "description": "Article URL: https://opensourcesoftware.ai\nComments URL: https://news.ycombinator.com/item?id=50674421\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T04:38:59.746Z",
+    "published": "Sat, 28 Nov 2026 03:44:22 +0000"
+  },
+  {
+    "url": "https://github.com/alesha-pro/llm.asm",
+    "title": "Llm.asm – Pure x86-64 Assembly for LLM Inference and Training",
+    "description": "Article URL: https://github.com/alesha-pro/llm.asm\nComments URL: https://news.ycombinator.com/item?id=50674381\nPoints: 4\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T04:38:59.746Z",
+    "published": "Sat, 28 Nov 2026 03:39:41 +0000"
+  },
+  {
+    "url": "https://arxiv.org/abs/2611.26216",
+    "title": "Frontier models need only one text to unmask its human or AI author",
+    "description": "Article URL: https://arxiv.org/abs/2611.26216\nComments URL: https://news.ycombinator.com/item?id=50674338\nPoints: 5\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T04:38:59.746Z",
+    "published": "Sat, 28 Nov 2026 03:32:57 +0000"
+  },
+  {
+    "url": "https://github.com/nirholas/fresh-start",
+    "title": "Fresh-start: the record of the Claude Code leak mirror, the DMCA, and the x402 C",
+    "description": "Article URL: https://github.com/nirholas/fresh-start\nComments URL: https://news.ycombinator.com/item?id=50674207\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T04:38:59.746Z",
+    "published": "Sat, 28 Nov 2026 03:18:37 +0000"
+  },
+  {
+    "url": "https://makeprog.com/Products/VirtualProg/help/quanta.html",
+    "title": "Quanta AI – Manage Virtual Machines in VirtualProg with AI Chat",
+    "description": "Article URL: https://makeprog.com/Products/VirtualProg/help/quanta.html\nComments URL: https://news.ycombinator.com/item?id=50673900\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T04:38:59.746Z",
+    "published": "Sat, 28 Nov 2026 02:38:40 +0000"
+  },
+  {
+    "url": "https://beardstylesformen.org/beard-design/",
+    "title": "Show HN: AI Face Shape Detection and Custom Beard Design",
+    "description": "You can get your best beard styles which suits your face shape\n\nComments URL: https://news.ycombinator.com/item?id=50673844\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T04:38:59.746Z",
+    "published": "Sat, 28 Nov 2026 02:29:55 +0000"
+  },
+  {
+    "url": "https://claude.ai/new#settings/data-privacy-controls",
+    "title": "No way to opt out of training currently on Claude.ai?",
+    "description": "Article URL: https://claude.ai/new#settings/data-privacy-controls\nComments URL: https://news.ycombinator.com/item?id=50673729\nPoints: 4\n# Comments: 7",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T04:38:59.746Z",
+    "published": "Sat, 28 Nov 2026 02:10:58 +0000"
+  },
+  {
+    "url": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/",
+    "title": "AI Can Read the Code, but Can It Understand the Chip?",
+    "description": "Article URL: https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/\nComments URL: https://news.ycombinator.com/item?id=50673628\nPoints: 3\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T04:38:59.746Z",
+    "published": "Sat, 28 Nov 2026 01:51:46 +0000"
+  },
+  {
+    "url": "https://github.com/ibehnam/sabotest",
+    "title": "SaboTest: Skill for Detecting Claude Code Sabotage",
+    "description": "Article URL: https://github.com/ibehnam/sabotest\nComments URL: https://news.ycombinator.com/item?id=50673610\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T04:38:59.746Z",
+    "published": "Sat, 28 Nov 2026 01:48:39 +0000"
+  },
+  {
+    "url": "https://www.researchgate.net/profile/David-Foss-4/publication/403199918_Cooperative_Sabotage_How_Frontier_AI_Covertly_Undermines_Its_Own_Replacement/links/69d8315b00864436152b7fda/Cooperative-Sabotage-How-Frontier-AI-Covertly-Undermines-Its-Own-Replacement.pdf",
+    "title": "Cooperative Sabotage: How Frontier AI Covertly Undermines Its Own Replacement [pdf]",
+    "description": "Article URL: https://www.researchgate.net/profile/David-Foss-4/publication/403199918_Cooperative_Sabotage_How_Frontier_AI_Covertly_Undermines_Its_Own_Replacement/links/69d8315b00864436152b7fda/Cooperative-Sabotage-How-Frontier-AI-Covertly-Undermines-Its-Own-Replacement.pdf\nComments URL: https://new",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T04:38:59.746Z",
+    "published": "Sat, 28 Nov 2026 01:44:42 +0000"
+  },
+  {
+    "url": "https://x.com/i/trending/2126468075058811175",
+    "title": "Developers Accuse Claude Models of Hindering AI Projects, Shift to Gemini Neon",
+    "description": "Article URL: https://x.com/i/trending/2126468075058811175\nComments URL: https://news.ycombinator.com/item?id=50673549\nPoints: 5\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T04:38:59.746Z",
+    "published": "Sat, 28 Nov 2026 01:38:09 +0000"
+  },
+  {
+    "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+    "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+    "description": "Article URL: https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai\nComments URL: https://news.ycombinator.com/item?id=50673521\nPoints: 110\n# Comments: 84",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T04:38:59.746Z",
+    "published": "Sat, 28 Nov 2026 01:32:56 +0000"
+  },
+  {
+    "url": "https://www.engadget.com/2329878/gta-6-performance-ways-make-sure-console-not-holding-back/",
+    "title": "5 ways to make sure your console isn't holding back your GTA 6 performance",
+    "description": "GTA 6 pulled a lot of tricks to run on current consoles, so you should make sure you&#39;re getting the best performance available.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-28T04:39:18.504Z",
+    "published": "Fri, 27 Nov 2026 22:46:29 +0000"
   }
 ]
