@@ -117694,5 +117694,258 @@
     "category": "news",
     "discovered": "2026-11-28T04:39:18.504Z",
     "published": "Fri, 27 Nov 2026 22:46:29 +0000"
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=50677377",
+    "title": "Ask HN: Is anyone using Gemini Live (3.8) in scaled production",
+    "description": "I am considering moving our voice stack from a cascaded model to voice-to-voice. I have been burned by the first versions of Gemini Live a year ago, and I was wondering how is it to run the current model, 3.8, in real production these days.Our voice workloads average at around 100 conversations in",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T13:59:58.351Z",
+    "published": "Sat, 28 Nov 2026 13:25:08 +0000",
+    "processed": true,
+    "processedAt": "2026-11-28T14:02:26.024Z"
+  },
+  {
+    "url": "https://github.com/FLEYRULLET/FLEYRULLET",
+    "title": "My AI-Voice I am the F AI voice assistant",
+    "description": "Article URL: https://github.com/FLEYRULLET/FLEYRULLET\nComments URL: https://news.ycombinator.com/item?id=50677287\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T13:59:58.351Z",
+    "published": "Sat, 28 Nov 2026 13:15:16 +0000",
+    "processed": true,
+    "processedAt": "2026-11-28T14:02:26.024Z"
+  },
+  {
+    "url": "https://mailfact.app/",
+    "title": "Mailfact – DMARC you can curl, grep, and give to your AI",
+    "description": "Article URL: https://mailfact.app/\nComments URL: https://news.ycombinator.com/item?id=50677231\nPoints: 1\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T13:59:58.351Z",
+    "published": "Sat, 28 Nov 2026 13:08:05 +0000",
+    "processed": true,
+    "processedAt": "2026-11-28T14:02:26.024Z"
+  },
+  {
+    "url": "https://github.com/kekeandzeyu/ctxblame",
+    "title": "Ctxblame – \"Git blame\" for LLM agent decisions via counterfactual replay",
+    "description": "Article URL: https://github.com/kekeandzeyu/ctxblame\nComments URL: https://news.ycombinator.com/item?id=50677082\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T13:59:58.351Z",
+    "published": "Sat, 28 Nov 2026 12:47:34 +0000",
+    "processed": true,
+    "processedAt": "2026-11-28T14:02:26.024Z"
+  },
+  {
+    "url": "https://getjavo.com/articles/ai-agent-attacks-what-we-saw/",
+    "title": "We run 100s of AI agents – here are the most common cyber attacks",
+    "description": "Article URL: https://getjavo.com/articles/ai-agent-attacks-what-we-saw/\nComments URL: https://news.ycombinator.com/item?id=50677012\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T13:59:58.351Z",
+    "published": "Sat, 28 Nov 2026 12:36:27 +0000",
+    "processed": true,
+    "processedAt": "2026-11-28T14:02:26.024Z"
+  },
+  {
+    "url": "https://folio-eta-bay-59.vercel.app",
+    "title": "Show HN: Folio – Share your notes with the AI you use. For Free",
+    "description": "Article URL: https://folio-eta-bay-59.vercel.app\nComments URL: https://news.ycombinator.com/item?id=50676952\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T13:59:58.351Z",
+    "published": "Sat, 28 Nov 2026 12:28:38 +0000"
+  },
+  {
+    "url": "https://github.com/code-forge-temple/agentic-signal",
+    "title": "Show HN: Agentic Signal – build AI agents from nodes, run them on local models",
+    "description": "Article URL: https://github.com/code-forge-temple/agentic-signal\nComments URL: https://news.ycombinator.com/item?id=50676922\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T13:59:58.351Z",
+    "published": "Sat, 28 Nov 2026 12:24:19 +0000"
+  },
+  {
+    "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+    "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+    "description": "Article URL: https://malspark.com/blog/malicious-gguf-models-hugging-face/\nComments URL: https://news.ycombinator.com/item?id=50676752\nPoints: 36\n# Comments: 17",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T13:59:58.351Z",
+    "published": "Sat, 28 Nov 2026 11:57:04 +0000"
+  },
+  {
+    "url": "https://deadneurons.substack.com/p/is-ai-about-to-break-encryption",
+    "title": "Is AI About to Break Encryption?",
+    "description": "Article URL: https://deadneurons.substack.com/p/is-ai-about-to-break-encryption\nComments URL: https://news.ycombinator.com/item?id=50676722\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T13:59:58.351Z",
+    "published": "Sat, 28 Nov 2026 11:51:20 +0000"
+  },
+  {
+    "url": "https://github.com/Maxteabag/turbotap",
+    "title": "Show HN: Turbotap – Open-Source CLI for AI Agents to Drive an iPhone over Wi-Fi",
+    "description": "I’ve been trying to make more of my daily life AI-driven, and my iPhone was becoming the bottleneck. If an app didn’t have a web version, an MCP, or an API, I still had to pick up the phone and do it myself.After lots of searching I finally found a solution that worked. I put a spare iPhone in deve",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T13:59:58.352Z",
+    "published": "Sat, 28 Nov 2026 11:47:33 +0000"
+  },
+  {
+    "url": "https://weely.ai/",
+    "title": "One Platform for Digital Marketing, Links, QR Codes and Engagement – Weely.ai",
+    "description": "Article URL: https://weely.ai/\nComments URL: https://news.ycombinator.com/item?id=50676660\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T13:59:58.352Z",
+    "published": "Sat, 28 Nov 2026 11:39:47 +0000"
+  },
+  {
+    "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+    "title": "Claude Code sabotage: preliminary benchmarking",
+    "description": "Article URL: https://xinyadu.github.io/blog/claude-code-sabotage.html\nComments URL: https://news.ycombinator.com/item?id=50676390\nPoints: 99\n# Comments: 33",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T13:59:58.352Z",
+    "published": "Sat, 28 Nov 2026 10:37:40 +0000"
+  },
+  {
+    "url": "https://8rank.ai/game/vast-cloud-sync-host-write",
+    "title": "Vulnerability enabled attackers to comprise vast.ai hosts (20k GPUs)",
+    "description": "Article URL: https://8rank.ai/game/vast-cloud-sync-host-write\nComments URL: https://news.ycombinator.com/item?id=50676292\nPoints: 3\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T13:59:58.352Z",
+    "published": "Sat, 28 Nov 2026 10:14:36 +0000"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo",
+    "title": "GTA 6: The AI race to clone the biggest video game for PC",
+    "description": "Article URL: https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo\nComments URL: https://news.ycombinator.com/item?id=50676233\nPoints: 15\n# Comments: 13",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T13:59:58.352Z",
+    "published": "Sat, 28 Nov 2026 09:59:57 +0000"
+  },
+  {
+    "url": "https://www.chosun.com/english/industry-en/2026/11/26/6TSYNQAYTJGF7ATXYVJQIV2IHU/",
+    "title": "Tencent's AI Drug Outperforms Wegovy at 1/10th Dosage in Animal Tests (Mice)",
+    "description": "Article URL: https://www.chosun.com/english/industry-en/2026/11/26/6TSYNQAYTJGF7ATXYVJQIV2IHU/\nComments URL: https://news.ycombinator.com/item?id=50675903\nPoints: 9\n# Comments: 1",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T13:59:58.352Z",
+    "published": "Sat, 28 Nov 2026 08:53:29 +0000"
+  },
+  {
+    "url": "https://www.nature.com/articles/d41586-026-03875-6",
+    "title": "Has AI just cracked Internet encryption? Rumoured 'bombshell' stuns scientists",
+    "description": "Article URL: https://www.nature.com/articles/d41586-026-03875-6\nComments URL: https://news.ycombinator.com/item?id=50675878\nPoints: 13\n# Comments: 2",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T13:59:58.352Z",
+    "published": "Sat, 28 Nov 2026 08:47:48 +0000"
+  },
+  {
+    "url": "https://fleetlayer.ai/",
+    "title": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+    "description": "Hi HN! I ran into many problems when I started running lots of Claude Code sessions in parallel. I quickly ran out of usage, so I signed up for more Claude subs (which Anthropic terms allow.)Running so many different accounts meant that I couldn't use claude.ai artifacts anymore, because the browse",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T13:59:58.352Z",
+    "published": "Sat, 28 Nov 2026 08:37:09 +0000"
+  },
+  {
+    "url": "https://mlq.ai/news/stanford-physicist-proposes-a-quantum-gravity-theory-built-with-gpt-6-astra/",
+    "title": "Stanford physicist proposes a quantum gravity theory built with GPT-6 Astra",
+    "description": "Article URL: https://mlq.ai/news/stanford-physicist-proposes-a-quantum-gravity-theory-built-with-gpt-6-astra/\nComments URL: https://news.ycombinator.com/item?id=50675796\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T13:59:58.352Z",
+    "published": "Sat, 28 Nov 2026 08:29:50 +0000"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=mwNzLRrlWnw",
+    "title": "Is WPML Worth It? I Tested It Against an AI Plugin on a WooCommerce Shop [video]",
+    "description": "Article URL: https://www.youtube.com/watch?v=mwNzLRrlWnw\nComments URL: https://news.ycombinator.com/item?id=50675747\nPoints: 1\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T13:59:58.352Z",
+    "published": "Sat, 28 Nov 2026 08:20:04 +0000"
+  },
+  {
+    "url": "https://github.com/slashman413/cowork",
+    "title": "Cowork – Self-hosted task queue and orchestration server for AI coding agents",
+    "description": "Article URL: https://github.com/slashman413/cowork\nComments URL: https://news.ycombinator.com/item?id=50675662\nPoints: 2\n# Comments: 0",
+    "source": "Hacker News (AI)",
+    "category": "community",
+    "discovered": "2026-11-28T13:59:58.352Z",
+    "published": "Sat, 28 Nov 2026 08:00:47 +0000"
+  },
+  {
+    "url": "https://towardsdatascience.com/how-to-test-llm-state-tracking-with-a-statebench-style-deployment-log/",
+    "title": "How to Test LLM State Tracking With a StateBench-Style Deployment Log",
+    "description": "Nine promotion histories, a Python replay, and a four-variant prompt with an UNKNOWN option show whether a release assistant tracks state or just reads the last line.\nThe post How to Test LLM State Tracking With a StateBench-Style Deployment Log appeared first on Towards Data Science.",
+    "source": "Towards Data Science",
+    "category": "ml",
+    "discovered": "2026-11-28T14:00:03.650Z",
+    "published": "Sat, 28 Nov 2026 13:00:00 GMT"
+  },
+  {
+    "url": "https://the-decoder.com/uk-parliament-demands-unredacted-metr-safety-report-after-anthropic-redacts-most-of-the-evidence/",
+    "title": "UK Parliament demands unredacted METR safety report after Anthropic redacts most of the evidence",
+    "description": "The UK Parliament is turning up the pressure on Anthropic. Committee chair Liam Byrne is demanding the unredacted METR safety report on AI acceleration by December 4. METR criticized Anthropic for cutting \"most informative\" evidence before publication. The episode raises broader questions a",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-28T14:00:04.839Z",
+    "published": "Sat, 28 Nov 2026 13:42:00 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/google-deepminds-humanitys-first-exam-shows-top-ai-models-still-fail-simple-everyday-tasks-under-repeated-runs/",
+    "title": "Google Deepmind's \"Humanity's First Exam\" shows top AI models still fail simple everyday tasks under repeated runs",
+    "description": "Google Deepmind tests the reliability of 18 AI models with \"Humanity's First Exam.\" Top models solve nearly every task family at least once, but even leaders like OpenAI's GPT-6.2 Astra stumble when asked for 16 straight correct answers. Visual perception accounts for 73 percent of errors,",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-28T14:00:04.839Z",
+    "published": "Sat, 28 Nov 2026 11:12:30 +0000"
+  },
+  {
+    "url": "https://the-decoder.com/robotics-startup-embo-raises-110-million-in-seed-funding-to-build-world-model-ai-for-robots/",
+    "title": "Robotics startup Embo raises $110 million in seed funding to build world-model AI for robots",
+    "description": "Embo raised $110 million in seed funding to build a universal robot brain with world models. Its AI learns how the physical world works from internet video and practices motor skills in simulation. Google Deepmind, Meta, and MIT researchers are behind the startup as the race for general-pur",
+    "source": "The Decoder",
+    "category": "news",
+    "discovered": "2026-11-28T14:00:04.839Z",
+    "published": "Sat, 28 Nov 2026 10:48:18 +0000"
+  },
+  {
+    "url": "https://www.marktechpost.com/2026/11/28/ant-group-lingsante-3-1-flash-open-source-medical-ai/",
+    "title": "Ant Group Releases LingSante-3.1-flash: An Open-Weight MoE Model with 560B Total Parameters and 25B Activations per Token",
+    "description": "Ant Group's Afu team open-sourced LingSante-3.1-flash, a 560B-parameter MoE medical AI model with 25B active parameters, a 1M-token context and an MIT license. It ranks first among open models on InclusionMed.\nThe post Ant Group Releases LingSante-3.1-flash: An Open-Weight MoE Model with 560B Total",
+    "source": "MarkTechPost",
+    "category": "ml",
+    "discovered": "2026-11-28T14:00:13.525Z",
+    "published": "Sat, 28 Nov 2026 09:45:33 +0000"
+  },
+  {
+    "url": "https://analyticsindiamag.com/ai-features/adivaani-builds-ai-for-tribal-languages-from-community-written-data",
+    "title": "How Adi Vaani's AI Tribal Language Platform is Preserving Bharat's Indigenous Voices",
+    "description": "Started last year, the Adi Vaani project's AI-powered translation platform serves tribal languages that are often overlooked.",
+    "source": "Analytics India",
+    "category": "ml",
+    "discovered": "2026-11-28T14:00:15.830Z",
+    "published": "Sat, 28 Nov 2026 09:17:12 GMT"
+  },
+  {
+    "url": "https://www.engadget.com/2324752/questions-avoid-asking-chatgpt-why/",
+    "title": "9 questions you shouldn't ask ChatGPT",
+    "description": "Some subjects are best left for humans because bots can&#39;t provide enough understanding to give good advice.",
+    "source": "Engadget AI",
+    "category": "news",
+    "discovered": "2026-11-28T14:00:18.040Z",
+    "published": "Sat, 28 Nov 2026 13:15:00 +0000"
   }
 ]
